@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.23.14.2001",
+    "name": "Tlogomulyo",
+    "postal_code": "56263",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.23",
+      "name": "Kabupaten Temanggung"
+    },
+    "district": {
+      "id": "33.23.14",
+      "name": "Tlogomulyo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

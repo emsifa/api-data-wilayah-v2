@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.06.04.2008",
+    "name": "Yametadi",
+    "postal_code": "98885",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.06",
+      "name": "Kabupaten Dogiyai"
+    },
+    "district": {
+      "id": "94.06.04",
+      "name": "Kamu Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

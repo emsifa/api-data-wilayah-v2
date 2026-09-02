@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.04.27.2001",
+    "name": "Bisui",
+    "postal_code": "97788",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.04",
+      "name": "Kabupaten Halmahera Selatan"
+    },
+    "district": {
+      "id": "82.04.27",
+      "name": "Gane Timur Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

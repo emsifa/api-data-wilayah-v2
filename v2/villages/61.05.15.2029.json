@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.05.15.2029",
+    "name": "Kolangan Juoi",
+    "postal_code": "78684",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.05",
+      "name": "Kabupaten Sintang"
+    },
+    "district": {
+      "id": "61.05.15",
+      "name": "Ambalau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

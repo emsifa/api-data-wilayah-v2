@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.01.02.2020",
+    "name": "Sungai Serabek",
+    "postal_code": "79469",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.01",
+      "name": "Kabupaten Sambas"
+    },
+    "district": {
+      "id": "61.01.02",
+      "name": "Teluk Keramat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

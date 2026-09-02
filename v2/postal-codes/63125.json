@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.77.02.1004",
+      "name": "Ngegong",
+      "postal_code": "63125",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.77",
+        "name": "Kota Madiun"
+      },
+      "district": {
+        "id": "35.77.02",
+        "name": "Manguharjo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

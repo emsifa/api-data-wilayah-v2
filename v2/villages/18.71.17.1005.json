@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.71.17.1005",
+    "name": "Rawalaut",
+    "postal_code": "35127",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.71",
+      "name": "Kota Bandar Lampung"
+    },
+    "district": {
+      "id": "18.71.17",
+      "name": "Enggal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

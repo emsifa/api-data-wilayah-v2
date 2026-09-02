@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "35.75.02.1002",
+      "name": "Wirogunan",
+      "postal_code": "67118",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.75",
+        "name": "Kota Pasuruan"
+      },
+      "district": {
+        "id": "35.75.02",
+        "name": "Purworejo"
+      }
+    },
+    {
+      "id": "35.75.02.1003",
+      "name": "Tembokrejo",
+      "postal_code": "67118",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.75",
+        "name": "Kota Pasuruan"
+      },
+      "district": {
+        "id": "35.75.02",
+        "name": "Purworejo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

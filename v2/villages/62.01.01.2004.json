@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.01.01.2004",
+    "name": "Keraya",
+    "postal_code": "74181",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.01",
+      "name": "Kabupaten Kotawaringin Barat"
+    },
+    "district": {
+      "id": "62.01.01",
+      "name": "Kumai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

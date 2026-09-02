@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "15.71.05.1001",
+      "name": "Arab Melayu",
+      "postal_code": "36251",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.71",
+        "name": "Kota Jambi"
+      },
+      "district": {
+        "id": "15.71.05",
+        "name": "Pelayangan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

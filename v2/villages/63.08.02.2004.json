@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.08.02.2004",
+    "name": "Hambuku Hilir",
+    "postal_code": "71454",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.08",
+      "name": "Kabupaten Hulu Sungai Utara"
+    },
+    "district": {
+      "id": "63.08.02",
+      "name": "Babirik"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

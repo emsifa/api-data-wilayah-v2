@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "53.07.14.1002",
+      "name": "Wailiti",
+      "postal_code": "86114",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.07",
+        "name": "Kabupaten Sikka"
+      },
+      "district": {
+        "id": "53.07.14",
+        "name": "Alok Barat"
+      }
+    },
+    {
+      "id": "53.07.14.1003",
+      "name": "Wolomarang",
+      "postal_code": "86114",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.07",
+        "name": "Kabupaten Sikka"
+      },
+      "district": {
+        "id": "53.07.14",
+        "name": "Alok Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.15.06.2006",
+    "name": "Pontianak",
+    "postal_code": "86754",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.15",
+      "name": "Kabupaten Manggarai Barat"
+    },
+    "district": {
+      "id": "53.15.06",
+      "name": "Boleng"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

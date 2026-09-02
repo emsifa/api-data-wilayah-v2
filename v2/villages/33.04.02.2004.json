@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.04.02.2004",
+    "name": "Purwareja",
+    "postal_code": "53474",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.04",
+      "name": "Kabupaten Banjarnegara"
+    },
+    "district": {
+      "id": "33.04.02",
+      "name": "Purworeja Klampok"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.03.24.2001",
+    "name": "Arul Pinang",
+    "postal_code": "24461",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.03",
+      "name": "Kabupaten Aceh Timur"
+    },
+    "district": {
+      "id": "11.03.24",
+      "name": "Peunaron"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

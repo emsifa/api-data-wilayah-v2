@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "13.74.02.1006",
+    "name": "Pasar Baru",
+    "postal_code": "27113",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.74",
+      "name": "Kota Padang Panjang"
+    },
+    "district": {
+      "id": "13.74.02",
+      "name": "Padang Panjang Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

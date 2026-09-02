@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.08.18.2007",
+    "name": "Kleteran",
+    "postal_code": "56196",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.08",
+      "name": "Kabupaten Magelang"
+    },
+    "district": {
+      "id": "33.08.18",
+      "name": "Grabag"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

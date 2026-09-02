@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.04.15.2004",
+    "name": "Daran",
+    "postal_code": "95878",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.04",
+      "name": "Kabupaten Kepulauan Talaud"
+    },
+    "district": {
+      "id": "71.04.15",
+      "name": "Pulutan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

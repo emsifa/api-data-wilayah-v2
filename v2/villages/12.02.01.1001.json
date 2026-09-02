@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.02.01.1001",
+    "name": "Partoli Toruan",
+    "postal_code": "22416",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.02",
+      "name": "Kabupaten Tapanuli Utara"
+    },
+    "district": {
+      "id": "12.02.01",
+      "name": "Tarutung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "71.03.17.1007",
+      "name": "Soataloara I",
+      "postal_code": "95813",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.03",
+        "name": "Kabupaten Kepulauan Sangihe"
+      },
+      "district": {
+        "id": "71.03.17",
+        "name": "Tahuna"
+      }
+    },
+    {
+      "id": "71.03.17.1009",
+      "name": "Mahena",
+      "postal_code": "95813",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.03",
+        "name": "Kabupaten Kepulauan Sangihe"
+      },
+      "district": {
+        "id": "71.03.17",
+        "name": "Tahuna"
+      }
+    },
+    {
+      "id": "71.03.17.1018",
+      "name": "Soataloara II",
+      "postal_code": "95813",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.03",
+        "name": "Kabupaten Kepulauan Sangihe"
+      },
+      "district": {
+        "id": "71.03.17",
+        "name": "Tahuna"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

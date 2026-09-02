@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.06.27.2001",
+    "name": "Sukamara",
+    "postal_code": "35682",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.06",
+      "name": "Kabupaten Tanggamus"
+    },
+    "district": {
+      "id": "18.06.27",
+      "name": "Bulok"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

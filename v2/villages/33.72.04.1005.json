@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.72.04.1005",
+    "name": "Sewu",
+    "postal_code": "57129",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.72",
+      "name": "Kota Surakarta"
+    },
+    "district": {
+      "id": "33.72.04",
+      "name": "Jebres"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

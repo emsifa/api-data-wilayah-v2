@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.20.01.2018",
+    "name": "Sukosono",
+    "postal_code": "59463",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.20",
+      "name": "Kabupaten Jepara"
+    },
+    "district": {
+      "id": "33.20.01",
+      "name": "Kedung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "73.72",
+    "name": "Kota Parepare",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.72",
+      "name": "Kota Parepare"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

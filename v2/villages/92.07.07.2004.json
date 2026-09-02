@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.07.07.2004",
+    "name": "Oyaa",
+    "postal_code": "98342",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.07",
+      "name": "Kabupaten Teluk Wondama"
+    },
+    "district": {
+      "id": "92.07.07",
+      "name": "Naikere"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

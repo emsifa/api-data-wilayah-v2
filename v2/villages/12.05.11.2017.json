@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.05.11.2017",
+    "name": "Suka Maju",
+    "postal_code": "20853",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.05",
+      "name": "Kabupaten Langkat"
+    },
+    "district": {
+      "id": "12.05.11",
+      "name": "Tanjung Pura"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "34.02.04.2001",
+      "name": "Seloharjo",
+      "postal_code": "55771",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.02",
+        "name": "Kabupaten Bantul"
+      },
+      "district": {
+        "id": "34.02.04",
+        "name": "Pundong"
+      }
+    },
+    {
+      "id": "34.02.04.2002",
+      "name": "Panjangrejo",
+      "postal_code": "55771",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.02",
+        "name": "Kabupaten Bantul"
+      },
+      "district": {
+        "id": "34.02.04",
+        "name": "Pundong"
+      }
+    },
+    {
+      "id": "34.02.04.2003",
+      "name": "Srihardono",
+      "postal_code": "55771",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.02",
+        "name": "Kabupaten Bantul"
+      },
+      "district": {
+        "id": "34.02.04",
+        "name": "Pundong"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

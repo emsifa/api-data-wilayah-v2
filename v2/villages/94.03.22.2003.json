@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.03.22.2003",
+    "name": "Tuguwai Moma",
+    "postal_code": "98732",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.03",
+      "name": "Kabupaten Paniai"
+    },
+    "district": {
+      "id": "94.03.22",
+      "name": "Aweida"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

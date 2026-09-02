@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.19.09.2012",
+    "name": "Tanah Itam Ilir",
+    "postal_code": "21255",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.19",
+      "name": "Kabupaten Batu Bara"
+    },
+    "district": {
+      "id": "12.19.09",
+      "name": "Lima Puluh Pesisir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

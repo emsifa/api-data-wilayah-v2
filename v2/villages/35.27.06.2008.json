@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.27.06.2008",
+    "name": "Nyeloh",
+    "postal_code": "69252",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.27",
+      "name": "Kabupaten Sampang"
+    },
+    "district": {
+      "id": "35.27.06",
+      "name": "Kedungdung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

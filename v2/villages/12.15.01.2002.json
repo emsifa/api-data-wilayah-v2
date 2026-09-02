@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.15.01.2002",
+    "name": "Tanjung Mulia",
+    "postal_code": "22275",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.15",
+      "name": "Kabupaten Pakpak Bharat"
+    },
+    "district": {
+      "id": "12.15.01",
+      "name": "Sitelu Tali Urang Jehe"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

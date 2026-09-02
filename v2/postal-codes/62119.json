@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "35.22.15.1004",
+      "name": "Mojokampung",
+      "postal_code": "62119",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.22",
+        "name": "Kabupaten Bojonegoro"
+      },
+      "district": {
+        "id": "35.22.15",
+        "name": "Bojonegoro"
+      }
+    },
+    {
+      "id": "35.22.15.1012",
+      "name": "Ngrowo",
+      "postal_code": "62119",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.22",
+        "name": "Kabupaten Bojonegoro"
+      },
+      "district": {
+        "id": "35.22.15",
+        "name": "Bojonegoro"
+      }
+    },
+    {
+      "id": "35.22.15.1013",
+      "name": "Karangpacar",
+      "postal_code": "62119",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.22",
+        "name": "Kabupaten Bojonegoro"
+      },
+      "district": {
+        "id": "35.22.15",
+        "name": "Bojonegoro"
+      }
+    },
+    {
+      "id": "35.22.15.2015",
+      "name": "Campurejo",
+      "postal_code": "62119",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.22",
+        "name": "Kabupaten Bojonegoro"
+      },
+      "district": {
+        "id": "35.22.15",
+        "name": "Bojonegoro"
+      }
+    },
+    {
+      "id": "35.22.15.2016",
+      "name": "Mulyoagung",
+      "postal_code": "62119",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.22",
+        "name": "Kabupaten Bojonegoro"
+      },
+      "district": {
+        "id": "35.22.15",
+        "name": "Bojonegoro"
+      }
+    },
+    {
+      "id": "35.22.15.2017",
+      "name": "Kalirejo",
+      "postal_code": "62119",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.22",
+        "name": "Kabupaten Bojonegoro"
+      },
+      "district": {
+        "id": "35.22.15",
+        "name": "Bojonegoro"
+      }
+    },
+    {
+      "id": "35.22.15.2018",
+      "name": "Semanding",
+      "postal_code": "62119",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.22",
+        "name": "Kabupaten Bojonegoro"
+      },
+      "district": {
+        "id": "35.22.15",
+        "name": "Bojonegoro"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

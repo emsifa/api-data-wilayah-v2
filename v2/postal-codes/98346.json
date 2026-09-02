@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "92.07.01.1001",
+      "name": "Wasior I",
+      "postal_code": "98346",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.07",
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "district": {
+        "id": "92.07.01",
+        "name": "Wasior"
+      }
+    },
+    {
+      "id": "92.07.01.2002",
+      "name": "Rado",
+      "postal_code": "98346",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.07",
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "district": {
+        "id": "92.07.01",
+        "name": "Wasior"
+      }
+    },
+    {
+      "id": "92.07.01.2003",
+      "name": "Dotir",
+      "postal_code": "98346",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.07",
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "district": {
+        "id": "92.07.01",
+        "name": "Wasior"
+      }
+    },
+    {
+      "id": "92.07.01.2004",
+      "name": "Maniwak",
+      "postal_code": "98346",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.07",
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "district": {
+        "id": "92.07.01",
+        "name": "Wasior"
+      }
+    },
+    {
+      "id": "92.07.01.2005",
+      "name": "Wasior II",
+      "postal_code": "98346",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.07",
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "district": {
+        "id": "92.07.01",
+        "name": "Wasior"
+      }
+    },
+    {
+      "id": "92.07.01.2006",
+      "name": "Maimari",
+      "postal_code": "98346",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.07",
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "district": {
+        "id": "92.07.01",
+        "name": "Wasior"
+      }
+    },
+    {
+      "id": "92.07.01.2007",
+      "name": "Moru",
+      "postal_code": "98346",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.07",
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "district": {
+        "id": "92.07.01",
+        "name": "Wasior"
+      }
+    },
+    {
+      "id": "92.07.01.2009",
+      "name": "Manopi",
+      "postal_code": "98346",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.07",
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "district": {
+        "id": "92.07.01",
+        "name": "Wasior"
+      }
+    },
+    {
+      "id": "92.07.01.2010",
+      "name": "Ramiki",
+      "postal_code": "98346",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.07",
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "district": {
+        "id": "92.07.01",
+        "name": "Wasior"
+      }
+    },
+    {
+      "id": "92.07.01.2011",
+      "name": "Iriati",
+      "postal_code": "98346",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.07",
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "district": {
+        "id": "92.07.01",
+        "name": "Wasior"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

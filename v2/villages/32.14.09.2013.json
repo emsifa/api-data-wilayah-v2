@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.14.09.2013",
+    "name": "Taringgul Tonggoh",
+    "postal_code": "41174",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.14",
+      "name": "Kabupaten Purwakarta"
+    },
+    "district": {
+      "id": "32.14.09",
+      "name": "Wanayasa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

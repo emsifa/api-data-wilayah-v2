@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.74.04.1001",
+      "name": "Tisnonegaran",
+      "postal_code": "67211",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.74",
+        "name": "Kota Probolinggo"
+      },
+      "district": {
+        "id": "35.74.04",
+        "name": "Kanigaran"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

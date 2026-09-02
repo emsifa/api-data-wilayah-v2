@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.71.01.1013",
+      "name": "Lirboyo",
+      "postal_code": "64117",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.71",
+        "name": "Kota Kediri"
+      },
+      "district": {
+        "id": "35.71.01",
+        "name": "Mojoroto"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

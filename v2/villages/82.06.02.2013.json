@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.06.02.2013",
+    "name": "Geltoli",
+    "postal_code": "97860",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.06",
+      "name": "Kabupaten Halmahera Timur"
+    },
+    "district": {
+      "id": "82.06.02",
+      "name": "Maba"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

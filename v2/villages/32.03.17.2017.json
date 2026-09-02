@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.03.17.2017",
+    "name": "Sukaresmi",
+    "postal_code": "43268",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.03",
+      "name": "Kabupaten Cianjur"
+    },
+    "district": {
+      "id": "32.03.17",
+      "name": "Kadupandak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

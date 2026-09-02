@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.07.06.2007",
+    "name": "Tebo",
+    "postal_code": "84454",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.07",
+      "name": "Kabupaten Sumbawa Barat"
+    },
+    "district": {
+      "id": "52.07.06",
+      "name": "Poto Tano"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

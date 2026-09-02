@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.12.07.2003",
+    "name": "Olung Hanangan",
+    "postal_code": "73960",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.12",
+      "name": "Kabupaten Murung Raya"
+    },
+    "district": {
+      "id": "62.12.07",
+      "name": "Tanah Siang Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

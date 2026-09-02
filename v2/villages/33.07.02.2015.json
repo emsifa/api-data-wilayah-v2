@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.07.02.2015",
+    "name": "Kalipuru",
+    "postal_code": "56374",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.07",
+      "name": "Kabupaten Wonosobo"
+    },
+    "district": {
+      "id": "33.07.02",
+      "name": "Kepil"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

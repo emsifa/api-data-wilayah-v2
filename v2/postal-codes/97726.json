@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "82.71.03.1009",
+      "name": "Kasturian",
+      "postal_code": "97726",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.71",
+        "name": "Kota Ternate"
+      },
+      "district": {
+        "id": "82.71.03",
+        "name": "Kota Ternate Utara"
+      }
+    },
+    {
+      "id": "82.71.03.1011",
+      "name": "Toboleu",
+      "postal_code": "97726",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.71",
+        "name": "Kota Ternate"
+      },
+      "district": {
+        "id": "82.71.03",
+        "name": "Kota Ternate Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

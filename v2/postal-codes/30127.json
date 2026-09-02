@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "16.71.09.1001",
+      "name": "Dua-puluh Ilir Dua",
+      "postal_code": "30127",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.71",
+        "name": "Kota Palembang"
+      },
+      "district": {
+        "id": "16.71.09",
+        "name": "Kemuning"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

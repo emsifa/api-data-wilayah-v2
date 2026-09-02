@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "34.04.10.2001",
+      "name": "Purwomartani",
+      "postal_code": "55571",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.10",
+        "name": "Kalasan"
+      }
+    },
+    {
+      "id": "34.04.10.2002",
+      "name": "Tirtomartani",
+      "postal_code": "55571",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.10",
+        "name": "Kalasan"
+      }
+    },
+    {
+      "id": "34.04.10.2003",
+      "name": "Tamanmartani",
+      "postal_code": "55571",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.10",
+        "name": "Kalasan"
+      }
+    },
+    {
+      "id": "34.04.10.2004",
+      "name": "Selomartani",
+      "postal_code": "55571",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.10",
+        "name": "Kalasan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

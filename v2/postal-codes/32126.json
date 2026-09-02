@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "16.01.13.2006",
+      "name": "Pusar",
+      "postal_code": "32126",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.13",
+        "name": "Baturaja Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

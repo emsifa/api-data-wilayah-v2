@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "32.02.18.2001",
+      "name": "Kalapanunggal",
+      "postal_code": "43354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.18",
+        "name": "Kalapanunggal"
+      }
+    },
+    {
+      "id": "32.02.18.2002",
+      "name": "Palasari Girang",
+      "postal_code": "43354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.18",
+        "name": "Kalapanunggal"
+      }
+    },
+    {
+      "id": "32.02.18.2003",
+      "name": "Pulosari",
+      "postal_code": "43354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.18",
+        "name": "Kalapanunggal"
+      }
+    },
+    {
+      "id": "32.02.18.2004",
+      "name": "Makasari",
+      "postal_code": "43354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.18",
+        "name": "Kalapanunggal"
+      }
+    },
+    {
+      "id": "32.02.18.2005",
+      "name": "Kadununggal",
+      "postal_code": "43354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.18",
+        "name": "Kalapanunggal"
+      }
+    },
+    {
+      "id": "32.02.18.2006",
+      "name": "Walangsari",
+      "postal_code": "43354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.18",
+        "name": "Kalapanunggal"
+      }
+    },
+    {
+      "id": "32.02.18.2007",
+      "name": "Gunungendut",
+      "postal_code": "43354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.18",
+        "name": "Kalapanunggal"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

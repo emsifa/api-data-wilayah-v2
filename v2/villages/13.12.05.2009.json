@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "13.12.05.2009",
+    "name": "Langgam Saiyo",
+    "postal_code": "26567",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.12",
+      "name": "Kabupaten Pasaman Barat"
+    },
+    "district": {
+      "id": "13.12.05",
+      "name": "Kinali"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

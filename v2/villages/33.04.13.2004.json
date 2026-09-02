@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.04.13.2004",
+    "name": "Sampang",
+    "postal_code": "53453",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.04",
+      "name": "Kabupaten Banjarnegara"
+    },
+    "district": {
+      "id": "33.04.13",
+      "name": "Karangkobar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.03.12.1005",
+    "name": "Sindangsari",
+    "postal_code": "15560",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.03",
+      "name": "Kabupaten Tangerang"
+    },
+    "district": {
+      "id": "36.03.12",
+      "name": "Pasar Kemis"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

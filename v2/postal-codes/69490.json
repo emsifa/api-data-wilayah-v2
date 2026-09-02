@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "35.29.27.2001",
+      "name": "Saobi",
+      "postal_code": "69490",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.29",
+        "name": "Kabupaten Sumenep"
+      },
+      "district": {
+        "id": "35.29.27",
+        "name": "Kangayan"
+      }
+    },
+    {
+      "id": "35.29.27.2002",
+      "name": "Kangayan",
+      "postal_code": "69490",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.29",
+        "name": "Kabupaten Sumenep"
+      },
+      "district": {
+        "id": "35.29.27",
+        "name": "Kangayan"
+      }
+    },
+    {
+      "id": "35.29.27.2003",
+      "name": "Torjek",
+      "postal_code": "69490",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.29",
+        "name": "Kabupaten Sumenep"
+      },
+      "district": {
+        "id": "35.29.27",
+        "name": "Kangayan"
+      }
+    },
+    {
+      "id": "35.29.27.2004",
+      "name": "Cangkramaan",
+      "postal_code": "69490",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.29",
+        "name": "Kabupaten Sumenep"
+      },
+      "district": {
+        "id": "35.29.27",
+        "name": "Kangayan"
+      }
+    },
+    {
+      "id": "35.29.27.2005",
+      "name": "Tembayangan",
+      "postal_code": "69490",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.29",
+        "name": "Kabupaten Sumenep"
+      },
+      "district": {
+        "id": "35.29.27",
+        "name": "Kangayan"
+      }
+    },
+    {
+      "id": "35.29.27.2006",
+      "name": "Batuputih",
+      "postal_code": "69490",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.29",
+        "name": "Kabupaten Sumenep"
+      },
+      "district": {
+        "id": "35.29.27",
+        "name": "Kangayan"
+      }
+    },
+    {
+      "id": "35.29.27.2007",
+      "name": "Daandung",
+      "postal_code": "69490",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.29",
+        "name": "Kabupaten Sumenep"
+      },
+      "district": {
+        "id": "35.29.27",
+        "name": "Kangayan"
+      }
+    },
+    {
+      "id": "35.29.27.2008",
+      "name": "Timur Jang-Jang",
+      "postal_code": "69490",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.29",
+        "name": "Kabupaten Sumenep"
+      },
+      "district": {
+        "id": "35.29.27",
+        "name": "Kangayan"
+      }
+    },
+    {
+      "id": "35.29.27.2009",
+      "name": "Jukong-jukong",
+      "postal_code": "69490",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.29",
+        "name": "Kabupaten Sumenep"
+      },
+      "district": {
+        "id": "35.29.27",
+        "name": "Kangayan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

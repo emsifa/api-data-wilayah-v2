@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.76.01.1007",
+    "name": "Surodinawan",
+    "postal_code": "61328",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.76",
+      "name": "Kota Mojokerto"
+    },
+    "district": {
+      "id": "35.76.01",
+      "name": "Prajuritkulon"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

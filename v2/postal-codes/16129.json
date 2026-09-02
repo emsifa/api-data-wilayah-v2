@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "32.71.03.1006",
+      "name": "Sempur",
+      "postal_code": "16129",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.71",
+        "name": "Kota Bogor"
+      },
+      "district": {
+        "id": "32.71.03",
+        "name": "Bogor Tengah"
+      }
+    },
+    {
+      "id": "32.71.03.1007",
+      "name": "Tegallega",
+      "postal_code": "16129",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.71",
+        "name": "Kota Bogor"
+      },
+      "district": {
+        "id": "32.71.03",
+        "name": "Bogor Tengah"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

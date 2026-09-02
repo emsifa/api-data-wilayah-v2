@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.07.06.1011",
+    "name": "Wonorejo",
+    "postal_code": "56361",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.07",
+      "name": "Kabupaten Wonosobo"
+    },
+    "district": {
+      "id": "33.07.06",
+      "name": "Selomerto"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

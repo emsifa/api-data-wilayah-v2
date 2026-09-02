@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.08.08.2005",
+    "name": "Sosokan Taba",
+    "postal_code": "39375",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.08",
+      "name": "Kabupaten Kepahiang"
+    },
+    "district": {
+      "id": "17.08.08",
+      "name": "Muara Kemumu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

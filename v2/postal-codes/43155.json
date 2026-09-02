@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "32.02.28.2001",
+      "name": "Cicantayan",
+      "postal_code": "43155",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.28",
+        "name": "Cicantayan"
+      }
+    },
+    {
+      "id": "32.02.28.2002",
+      "name": "Lembursawah",
+      "postal_code": "43155",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.28",
+        "name": "Cicantayan"
+      }
+    },
+    {
+      "id": "32.02.28.2003",
+      "name": "Cijalingan",
+      "postal_code": "43155",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.28",
+        "name": "Cicantayan"
+      }
+    },
+    {
+      "id": "32.02.28.2004",
+      "name": "Cisande",
+      "postal_code": "43155",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.28",
+        "name": "Cicantayan"
+      }
+    },
+    {
+      "id": "32.02.28.2005",
+      "name": "Cimahi",
+      "postal_code": "43155",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.28",
+        "name": "Cicantayan"
+      }
+    },
+    {
+      "id": "32.02.28.2006",
+      "name": "Hegarmanah",
+      "postal_code": "43155",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.28",
+        "name": "Cicantayan"
+      }
+    },
+    {
+      "id": "32.02.28.2007",
+      "name": "Sukadamai",
+      "postal_code": "43155",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.28",
+        "name": "Cicantayan"
+      }
+    },
+    {
+      "id": "32.02.28.2008",
+      "name": "Cimanggis",
+      "postal_code": "43155",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.28",
+        "name": "Cicantayan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

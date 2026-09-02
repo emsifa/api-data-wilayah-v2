@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "21.01.08.2003",
+      "name": "Penaga",
+      "postal_code": "29134",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.01",
+        "name": "Kabupaten Bintan"
+      },
+      "district": {
+        "id": "21.01.08",
+        "name": "Teluk Bintan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "82.71.04.1001",
+      "name": "Takofi",
+      "postal_code": "97741",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.71",
+        "name": "Kota Ternate"
+      },
+      "district": {
+        "id": "82.71.04",
+        "name": "Moti"
+      }
+    },
+    {
+      "id": "82.71.04.1002",
+      "name": "Moti Kota",
+      "postal_code": "97741",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.71",
+        "name": "Kota Ternate"
+      },
+      "district": {
+        "id": "82.71.04",
+        "name": "Moti"
+      }
+    },
+    {
+      "id": "82.71.04.1003",
+      "name": "Tafamutu",
+      "postal_code": "97741",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.71",
+        "name": "Kota Ternate"
+      },
+      "district": {
+        "id": "82.71.04",
+        "name": "Moti"
+      }
+    },
+    {
+      "id": "82.71.04.1004",
+      "name": "Tafaga",
+      "postal_code": "97741",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.71",
+        "name": "Kota Ternate"
+      },
+      "district": {
+        "id": "82.71.04",
+        "name": "Moti"
+      }
+    },
+    {
+      "id": "82.71.04.1006",
+      "name": "Figur",
+      "postal_code": "97741",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.71",
+        "name": "Kota Ternate"
+      },
+      "district": {
+        "id": "82.71.04",
+        "name": "Moti"
+      }
+    },
+    {
+      "id": "82.71.04.1007",
+      "name": "Tadenas",
+      "postal_code": "97741",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.71",
+        "name": "Kota Ternate"
+      },
+      "district": {
+        "id": "82.71.04",
+        "name": "Moti"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

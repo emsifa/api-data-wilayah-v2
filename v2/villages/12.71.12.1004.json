@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.71.12.1004",
+    "name": "Tanah Enam Ratus",
+    "postal_code": "20245",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.71",
+      "name": "Kota Medan"
+    },
+    "district": {
+      "id": "12.71.12",
+      "name": "Medan Marelan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

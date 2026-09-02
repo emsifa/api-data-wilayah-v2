@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.72.04.1001",
+    "name": "Toba",
+    "postal_code": "21123",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.72",
+      "name": "Kota Pematangsiantar"
+    },
+    "district": {
+      "id": "12.72.04",
+      "name": "Siantar Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.72.02.1002",
+    "name": "Ciwedus",
+    "postal_code": "42418",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.72",
+      "name": "Kota Cilegon"
+    },
+    "district": {
+      "id": "36.72.02",
+      "name": "Cilegon"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

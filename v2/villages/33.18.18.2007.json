@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.18.18.2007",
+    "name": "Karangsari",
+    "postal_code": "59157",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.18",
+      "name": "Kabupaten Pati"
+    },
+    "district": {
+      "id": "33.18.18",
+      "name": "Cluwak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

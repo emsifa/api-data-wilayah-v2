@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.06.06.2016",
+    "name": "Lamteh Dayah",
+    "postal_code": "23361",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.06",
+      "name": "Kabupaten Aceh Besar"
+    },
+    "district": {
+      "id": "11.06.06",
+      "name": "Sukamakmur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

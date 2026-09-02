@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.78.26.1005",
+      "name": "Dukuh Sutorejo",
+      "postal_code": "60113",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.26",
+        "name": "Mulyorejo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

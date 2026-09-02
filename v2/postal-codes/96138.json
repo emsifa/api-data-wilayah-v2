@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "75.71.04.1001",
+      "name": "Huangobotu",
+      "postal_code": "96138",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.71",
+        "name": "Kota Gorontalo"
+      },
+      "district": {
+        "id": "75.71.04",
+        "name": "Dungingi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

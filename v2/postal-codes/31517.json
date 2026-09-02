@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "16.72.01.1002",
+      "name": "Bangun Rejo",
+      "postal_code": "31517",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.72",
+        "name": "Kota Pagar Alam"
+      },
+      "district": {
+        "id": "16.72.01",
+        "name": "Pagar Alam Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

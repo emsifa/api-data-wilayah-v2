@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.01.07.1002",
+    "name": "Tanjung Uban Utara",
+    "postal_code": "29152",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.01",
+      "name": "Kabupaten Bintan"
+    },
+    "district": {
+      "id": "21.01.07",
+      "name": "Bintan Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

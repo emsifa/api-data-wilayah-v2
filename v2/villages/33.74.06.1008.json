@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.74.06.1008",
+    "name": "Pedurungan Kidul",
+    "postal_code": "50192",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.74",
+      "name": "Kota Semarang"
+    },
+    "district": {
+      "id": "33.74.06",
+      "name": "Pedurungan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

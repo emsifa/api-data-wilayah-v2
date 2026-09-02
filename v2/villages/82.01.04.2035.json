@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.01.04.2035",
+    "name": "Sasur Pantai",
+    "postal_code": "97753",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.01",
+      "name": "Kabupaten Halmahera Barat"
+    },
+    "district": {
+      "id": "82.01.04",
+      "name": "Sahu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

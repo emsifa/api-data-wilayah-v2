@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "31.74.08.1002",
+      "name": "Kalibata",
+      "postal_code": "12740",
+      "province": {
+        "id": "31",
+        "name": "Daerah Khusus Ibukota Jakarta"
+      },
+      "regency": {
+        "id": "31.74",
+        "name": "Kota Administrasi Jakarta Selatan"
+      },
+      "district": {
+        "id": "31.74.08",
+        "name": "Pancoran"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

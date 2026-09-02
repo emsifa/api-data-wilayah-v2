@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "19.71.03.1008",
+    "name": "Rejosari",
+    "postal_code": "33111",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.71",
+      "name": "Kota Pangkal Pinang"
+    },
+    "district": {
+      "id": "19.71.03",
+      "name": "Pangkal Balam"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

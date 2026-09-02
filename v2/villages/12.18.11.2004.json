@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.18.11.2004",
+    "name": "Batu Masagi",
+    "postal_code": "20983",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.18",
+      "name": "Kabupaten Serdang Bedagai"
+    },
+    "district": {
+      "id": "12.18.11",
+      "name": "Silinda"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

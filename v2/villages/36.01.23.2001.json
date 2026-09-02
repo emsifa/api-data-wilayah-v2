@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.01.23.2001",
+    "name": "Rawasari",
+    "postal_code": "42273",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.01",
+      "name": "Kabupaten Pandeglang"
+    },
+    "district": {
+      "id": "36.01.23",
+      "name": "Cisata"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.07.01.2002",
+    "name": "Sungai Gerong",
+    "postal_code": "30963",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.07",
+      "name": "Kabupaten Banyuasin"
+    },
+    "district": {
+      "id": "16.07.01",
+      "name": "Banyuasin I"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

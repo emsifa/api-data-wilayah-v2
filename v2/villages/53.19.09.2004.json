@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.19.09.2004",
+    "name": "Gising",
+    "postal_code": "86580",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.19",
+      "name": "Kabupaten Manggarai Timur"
+    },
+    "district": {
+      "id": "53.19.09",
+      "name": "Elar Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

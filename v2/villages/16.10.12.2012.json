@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.10.12.2012",
+    "name": "S. Pinang Nibung",
+    "postal_code": "30662",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.10",
+      "name": "Kabupaten Ogan Ilir"
+    },
+    "district": {
+      "id": "16.10.12",
+      "name": "Sungai Pinang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

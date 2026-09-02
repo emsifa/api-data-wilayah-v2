@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "34.03.17.2001",
+      "name": "Hargosari",
+      "postal_code": "55881",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.17",
+        "name": "Tanjungsari"
+      }
+    },
+    {
+      "id": "34.03.17.2002",
+      "name": "Kemiri",
+      "postal_code": "55881",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.17",
+        "name": "Tanjungsari"
+      }
+    },
+    {
+      "id": "34.03.17.2003",
+      "name": "Kemadang",
+      "postal_code": "55881",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.17",
+        "name": "Tanjungsari"
+      }
+    },
+    {
+      "id": "34.03.17.2004",
+      "name": "Banjarejo",
+      "postal_code": "55881",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.17",
+        "name": "Tanjungsari"
+      }
+    },
+    {
+      "id": "34.03.17.2005",
+      "name": "Ngestirejo",
+      "postal_code": "55881",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.17",
+        "name": "Tanjungsari"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

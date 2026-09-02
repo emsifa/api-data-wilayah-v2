@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "51.04.03.1008",
+      "name": "Beng",
+      "postal_code": "80513",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.04",
+        "name": "Kabupaten Gianyar"
+      },
+      "district": {
+        "id": "51.04.03",
+        "name": "Gianyar"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

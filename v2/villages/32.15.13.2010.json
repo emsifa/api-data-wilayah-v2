@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.15.13.2010",
+    "name": "Kamojing",
+    "postal_code": "41373",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.15",
+      "name": "Kabupaten Karawang"
+    },
+    "district": {
+      "id": "32.15.13",
+      "name": "Cikampek"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

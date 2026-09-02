@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "31.71.05.1001",
+    "name": "Cempaka Putih Timur",
+    "postal_code": "10510",
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    },
+    "regency": {
+      "id": "31.71",
+      "name": "Kota Administrasi Jakarta Pusat"
+    },
+    "district": {
+      "id": "31.71.05",
+      "name": "Cempaka Putih"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

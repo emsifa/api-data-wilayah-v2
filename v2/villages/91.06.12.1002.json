@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "91.06.12.1002",
+    "name": "Brambaken",
+    "postal_code": "98551",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.06",
+      "name": "Kabupaten Biak Numfor"
+    },
+    "district": {
+      "id": "91.06.12",
+      "name": "Samofa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

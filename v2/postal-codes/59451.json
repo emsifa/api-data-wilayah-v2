@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "33.20.11.2012",
+      "name": "Tahunan",
+      "postal_code": "59451",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.20",
+        "name": "Kabupaten Jepara"
+      },
+      "district": {
+        "id": "33.20.11",
+        "name": "Tahunan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

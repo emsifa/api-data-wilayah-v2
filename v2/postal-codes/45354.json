@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "32.11.20.2001",
+      "name": "Sukamantri",
+      "postal_code": "45354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.20",
+        "name": "Tanjungkerta"
+      }
+    },
+    {
+      "id": "32.11.20.2002",
+      "name": "Cipanas",
+      "postal_code": "45354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.20",
+        "name": "Tanjungkerta"
+      }
+    },
+    {
+      "id": "32.11.20.2003",
+      "name": "Gunturmekar",
+      "postal_code": "45354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.20",
+        "name": "Tanjungkerta"
+      }
+    },
+    {
+      "id": "32.11.20.2004",
+      "name": "Mulyamekar",
+      "postal_code": "45354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.20",
+        "name": "Tanjungkerta"
+      }
+    },
+    {
+      "id": "32.11.20.2005",
+      "name": "Banyuasih",
+      "postal_code": "45354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.20",
+        "name": "Tanjungkerta"
+      }
+    },
+    {
+      "id": "32.11.20.2006",
+      "name": "Kertamekar",
+      "postal_code": "45354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.20",
+        "name": "Tanjungkerta"
+      }
+    },
+    {
+      "id": "32.11.20.2007",
+      "name": "Kertaharja",
+      "postal_code": "45354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.20",
+        "name": "Tanjungkerta"
+      }
+    },
+    {
+      "id": "32.11.20.2008",
+      "name": "Cigentur",
+      "postal_code": "45354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.20",
+        "name": "Tanjungkerta"
+      }
+    },
+    {
+      "id": "32.11.20.2009",
+      "name": "Tanjungmekar",
+      "postal_code": "45354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.20",
+        "name": "Tanjungkerta"
+      }
+    },
+    {
+      "id": "32.11.20.2010",
+      "name": "Tanjungmulya",
+      "postal_code": "45354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.20",
+        "name": "Tanjungkerta"
+      }
+    },
+    {
+      "id": "32.11.20.2011",
+      "name": "Boros",
+      "postal_code": "45354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.20",
+        "name": "Tanjungkerta"
+      }
+    },
+    {
+      "id": "32.11.20.2012",
+      "name": "Awilega",
+      "postal_code": "45354",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.20",
+        "name": "Tanjungkerta"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

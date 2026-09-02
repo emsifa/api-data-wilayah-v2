@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "31.75.03.1001",
+    "name": "Kampung Melayu",
+    "postal_code": "13320",
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    },
+    "regency": {
+      "id": "31.75",
+      "name": "Kota Administrasi Jakarta Timur"
+    },
+    "district": {
+      "id": "31.75.03",
+      "name": "Jatinegara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

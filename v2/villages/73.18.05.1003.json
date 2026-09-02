@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.18.05.1003",
+    "name": "Bombongan",
+    "postal_code": "91811",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.18",
+      "name": "Kabupaten Tana Toraja"
+    },
+    "district": {
+      "id": "73.18.05",
+      "name": "Makale"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

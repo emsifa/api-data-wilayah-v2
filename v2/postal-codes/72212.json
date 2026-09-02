@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "63.10.06.1001",
+      "name": "Kampung Baru",
+      "postal_code": "72212",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.10",
+        "name": "Kabupaten Tanah Bumbu"
+      },
+      "district": {
+        "id": "63.10.06",
+        "name": "Simpang Empat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

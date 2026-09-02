@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.02.12.1019",
+    "name": "Sendangan Selatan",
+    "postal_code": "95690",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.02",
+      "name": "Kabupaten Minahasa"
+    },
+    "district": {
+      "id": "71.02.12",
+      "name": "Kawangkoan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

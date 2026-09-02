@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.01.08.2013",
+    "name": "Dsn. Baru P. Tengah",
+    "postal_code": "37173",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.01",
+      "name": "Kabupaten Kerinci"
+    },
+    "district": {
+      "id": "15.01.08",
+      "name": "Keliling Danau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

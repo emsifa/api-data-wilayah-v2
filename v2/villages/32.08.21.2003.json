@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.08.21.2003",
+    "name": "Susukan",
+    "postal_code": "45592",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.08",
+      "name": "Kabupaten Kuningan"
+    },
+    "district": {
+      "id": "32.08.21",
+      "name": "Cipicung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

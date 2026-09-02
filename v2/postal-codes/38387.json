@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "17.03.01.2001",
+      "name": "Banjar Sari",
+      "postal_code": "38387",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.03",
+        "name": "Kabupaten Bengkulu Utara"
+      },
+      "district": {
+        "id": "17.03.01",
+        "name": "Enggano"
+      }
+    },
+    {
+      "id": "17.03.01.2002",
+      "name": "Meok",
+      "postal_code": "38387",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.03",
+        "name": "Kabupaten Bengkulu Utara"
+      },
+      "district": {
+        "id": "17.03.01",
+        "name": "Enggano"
+      }
+    },
+    {
+      "id": "17.03.01.2003",
+      "name": "Malakoni",
+      "postal_code": "38387",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.03",
+        "name": "Kabupaten Bengkulu Utara"
+      },
+      "district": {
+        "id": "17.03.01",
+        "name": "Enggano"
+      }
+    },
+    {
+      "id": "17.03.01.2004",
+      "name": "Kaana",
+      "postal_code": "38387",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.03",
+        "name": "Kabupaten Bengkulu Utara"
+      },
+      "district": {
+        "id": "17.03.01",
+        "name": "Enggano"
+      }
+    },
+    {
+      "id": "17.03.01.2005",
+      "name": "Kahyapu",
+      "postal_code": "38387",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.03",
+        "name": "Kabupaten Bengkulu Utara"
+      },
+      "district": {
+        "id": "17.03.01",
+        "name": "Enggano"
+      }
+    },
+    {
+      "id": "17.03.01.2006",
+      "name": "Apoho",
+      "postal_code": "38387",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.03",
+        "name": "Kabupaten Bengkulu Utara"
+      },
+      "district": {
+        "id": "17.03.01",
+        "name": "Enggano"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

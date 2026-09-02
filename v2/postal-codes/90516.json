@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "73.09.04.1001",
+      "name": "Baji Pa'mai",
+      "postal_code": "90516",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.09",
+        "name": "Kabupaten Maros"
+      },
+      "district": {
+        "id": "73.09.04",
+        "name": "Maros Baru"
+      }
+    },
+    {
+      "id": "73.09.04.1002",
+      "name": "Pallantikang",
+      "postal_code": "90516",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.09",
+        "name": "Kabupaten Maros"
+      },
+      "district": {
+        "id": "73.09.04",
+        "name": "Maros Baru"
+      }
+    },
+    {
+      "id": "73.09.14.1001",
+      "name": "Pettuadae",
+      "postal_code": "90516",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.09",
+        "name": "Kabupaten Maros"
+      },
+      "district": {
+        "id": "73.09.14",
+        "name": "Turikale"
+      }
+    },
+    {
+      "id": "73.09.14.1005",
+      "name": "Taroada",
+      "postal_code": "90516",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.09",
+        "name": "Kabupaten Maros"
+      },
+      "district": {
+        "id": "73.09.14",
+        "name": "Turikale"
+      }
+    },
+    {
+      "id": "73.09.14.1007",
+      "name": "Adatongeng",
+      "postal_code": "90516",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.09",
+        "name": "Kabupaten Maros"
+      },
+      "district": {
+        "id": "73.09.14",
+        "name": "Turikale"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

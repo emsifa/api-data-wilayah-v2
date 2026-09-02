@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "53.03.09.2010",
+      "name": "Humusu Wini",
+      "postal_code": "85672",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.09",
+        "name": "Insana Utara"
+      }
+    },
+    {
+      "id": "53.03.19.2001",
+      "name": "Fafinesu A",
+      "postal_code": "85672",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.19",
+        "name": "Insana Fafinesu"
+      }
+    },
+    {
+      "id": "53.03.19.2002",
+      "name": "Fafinesu B",
+      "postal_code": "85672",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.19",
+        "name": "Insana Fafinesu"
+      }
+    },
+    {
+      "id": "53.03.19.2003",
+      "name": "Fafinesu C",
+      "postal_code": "85672",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.19",
+        "name": "Insana Fafinesu"
+      }
+    },
+    {
+      "id": "53.03.19.2004",
+      "name": "Oenain",
+      "postal_code": "85672",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.19",
+        "name": "Insana Fafinesu"
+      }
+    },
+    {
+      "id": "53.03.19.2005",
+      "name": "Baunuan",
+      "postal_code": "85672",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.19",
+        "name": "Insana Fafinesu"
+      }
+    },
+    {
+      "id": "53.03.19.2006",
+      "name": "Fafinesu",
+      "postal_code": "85672",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.19",
+        "name": "Insana Fafinesu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

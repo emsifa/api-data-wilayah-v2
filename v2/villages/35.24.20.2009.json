@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.24.20.2009",
+    "name": "Lukrejo",
+    "postal_code": "62255",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.24",
+      "name": "Kabupaten Lamongan"
+    },
+    "district": {
+      "id": "35.24.20",
+      "name": "Kalitengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.03.21.2002",
+    "name": "Nahomas",
+    "postal_code": "99756",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.03",
+      "name": "Kabupaten Yahukimo"
+    },
+    "district": {
+      "id": "95.03.21",
+      "name": "Kosarek"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

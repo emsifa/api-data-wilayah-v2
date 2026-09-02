@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "73.72.01.1005",
+      "name": "Watang Bacukiki",
+      "postal_code": "91121",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.72",
+        "name": "Kota Parepare"
+      },
+      "district": {
+        "id": "73.72.01",
+        "name": "Bacukiki"
+      }
+    },
+    {
+      "id": "73.72.01.1009",
+      "name": "Lemoe",
+      "postal_code": "91121",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.72",
+        "name": "Kota Parepare"
+      },
+      "district": {
+        "id": "73.72.01",
+        "name": "Bacukiki"
+      }
+    },
+    {
+      "id": "73.72.01.1010",
+      "name": "Galung Maloang",
+      "postal_code": "91121",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.72",
+        "name": "Kota Parepare"
+      },
+      "district": {
+        "id": "73.72.01",
+        "name": "Bacukiki"
+      }
+    },
+    {
+      "id": "73.72.04.1001",
+      "name": "Kampung Baru",
+      "postal_code": "91121",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.72",
+        "name": "Kota Parepare"
+      },
+      "district": {
+        "id": "73.72.04",
+        "name": "Bacukiki Barat"
+      }
+    },
+    {
+      "id": "73.72.04.1005",
+      "name": "Sumpang Minangae",
+      "postal_code": "91121",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.72",
+        "name": "Kota Parepare"
+      },
+      "district": {
+        "id": "73.72.04",
+        "name": "Bacukiki Barat"
+      }
+    },
+    {
+      "id": "73.72.04.1006",
+      "name": "Bumi Harapan",
+      "postal_code": "91121",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.72",
+        "name": "Kota Parepare"
+      },
+      "district": {
+        "id": "73.72.04",
+        "name": "Bacukiki Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

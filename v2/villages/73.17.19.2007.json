@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.17.19.2007",
+    "name": "Tallang",
+    "postal_code": "91986",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.17",
+      "name": "Kabupaten Luwu"
+    },
+    "district": {
+      "id": "73.17.19",
+      "name": "Suli Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

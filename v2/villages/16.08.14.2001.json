@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.08.14.2001",
+    "name": "Tanjung Kukuh",
+    "postal_code": "32184",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.08",
+      "name": "Kabupaten Ogan Komering Ulu Timur"
+    },
+    "district": {
+      "id": "16.08.14",
+      "name": "Semendawai Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

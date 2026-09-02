@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.13.01.1022",
+    "name": "Pasar Hilir",
+    "postal_code": "22916",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.13",
+      "name": "Kabupaten Mandailing Natal"
+    },
+    "district": {
+      "id": "12.13.01",
+      "name": "Panyabungan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

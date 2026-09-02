@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "73.11.01.1001",
+      "name": "Lompo Riaja",
+      "postal_code": "90763",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.11",
+        "name": "Kabupaten Barru"
+      },
+      "district": {
+        "id": "73.11.01",
+        "name": "Tanete Riaja"
+      }
+    },
+    {
+      "id": "73.11.01.2002",
+      "name": "Harapan",
+      "postal_code": "90763",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.11",
+        "name": "Kabupaten Barru"
+      },
+      "district": {
+        "id": "73.11.01",
+        "name": "Tanete Riaja"
+      }
+    },
+    {
+      "id": "73.11.01.2003",
+      "name": "Lompo Tengah",
+      "postal_code": "90763",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.11",
+        "name": "Kabupaten Barru"
+      },
+      "district": {
+        "id": "73.11.01",
+        "name": "Tanete Riaja"
+      }
+    },
+    {
+      "id": "73.11.01.2004",
+      "name": "Kading",
+      "postal_code": "90763",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.11",
+        "name": "Kabupaten Barru"
+      },
+      "district": {
+        "id": "73.11.01",
+        "name": "Tanete Riaja"
+      }
+    },
+    {
+      "id": "73.11.01.2005",
+      "name": "Libureng",
+      "postal_code": "90763",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.11",
+        "name": "Kabupaten Barru"
+      },
+      "district": {
+        "id": "73.11.01",
+        "name": "Tanete Riaja"
+      }
+    },
+    {
+      "id": "73.11.01.2006",
+      "name": "Mattirowalie",
+      "postal_code": "90763",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.11",
+        "name": "Kabupaten Barru"
+      },
+      "district": {
+        "id": "73.11.01",
+        "name": "Tanete Riaja"
+      }
+    },
+    {
+      "id": "73.11.01.2007",
+      "name": "Lempang",
+      "postal_code": "90763",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.11",
+        "name": "Kabupaten Barru"
+      },
+      "district": {
+        "id": "73.11.01",
+        "name": "Tanete Riaja"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

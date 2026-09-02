@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.18.07.2002",
+    "name": "Ciganjeng",
+    "postal_code": "46372",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.18",
+      "name": "Kabupaten Pangandaran"
+    },
+    "district": {
+      "id": "32.18.07",
+      "name": "Padaherang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

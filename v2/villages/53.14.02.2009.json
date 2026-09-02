@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.14.02.2009",
+    "name": "Netenaen",
+    "postal_code": "85981",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.14",
+      "name": "Kabupaten Rote Ndao"
+    },
+    "district": {
+      "id": "53.14.02",
+      "name": "Rote Barat Laut"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

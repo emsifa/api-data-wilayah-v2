@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.03.05.2012",
+    "name": "Binjai",
+    "postal_code": "29782",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.03",
+      "name": "Kabupaten Natuna"
+    },
+    "district": {
+      "id": "21.03.05",
+      "name": "Bunguran Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

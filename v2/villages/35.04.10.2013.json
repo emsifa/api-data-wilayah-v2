@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.04.10.2013",
+    "name": "Bendiljati Wetan",
+    "postal_code": "66291",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.04",
+      "name": "Kabupaten Tulungagung"
+    },
+    "district": {
+      "id": "35.04.10",
+      "name": "Sumbergempol"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

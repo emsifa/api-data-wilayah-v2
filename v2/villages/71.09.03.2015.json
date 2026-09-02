@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.09.03.2015",
+    "name": "Pahiama",
+    "postal_code": "95863",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.09",
+      "name": "Kabupaten Kep. Siau Tagulandang Biaro"
+    },
+    "district": {
+      "id": "71.09.03",
+      "name": "Tagulandang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

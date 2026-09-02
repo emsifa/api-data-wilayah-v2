@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.08.05.2022",
+    "name": "Palampitan Hilir",
+    "postal_code": "71419",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.08",
+      "name": "Kabupaten Hulu Sungai Utara"
+    },
+    "district": {
+      "id": "63.08.05",
+      "name": "Amuntai Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

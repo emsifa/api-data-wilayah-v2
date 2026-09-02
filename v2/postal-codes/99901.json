@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "95.08.15.2001",
+      "name": "Alama",
+      "postal_code": "99901",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.15",
+        "name": "Alama"
+      }
+    },
+    {
+      "id": "95.08.15.2002",
+      "name": "Nolit",
+      "postal_code": "99901",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.15",
+        "name": "Alama"
+      }
+    },
+    {
+      "id": "95.08.15.2003",
+      "name": "Gin",
+      "postal_code": "99901",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.15",
+        "name": "Alama"
+      }
+    },
+    {
+      "id": "95.08.15.2004",
+      "name": "Kulesa",
+      "postal_code": "99901",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.15",
+        "name": "Alama"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

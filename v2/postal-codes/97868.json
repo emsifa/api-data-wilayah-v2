@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "82.06.07.2001",
+      "name": "Dodaga",
+      "postal_code": "97868",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.07",
+        "name": "Wasile Timur"
+      }
+    },
+    {
+      "id": "82.06.07.2002",
+      "name": "Dakaino",
+      "postal_code": "97868",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.07",
+        "name": "Wasile Timur"
+      }
+    },
+    {
+      "id": "82.06.07.2003",
+      "name": "Akedaga",
+      "postal_code": "97868",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.07",
+        "name": "Wasile Timur"
+      }
+    },
+    {
+      "id": "82.06.07.2004",
+      "name": "Toboino",
+      "postal_code": "97868",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.07",
+        "name": "Wasile Timur"
+      }
+    },
+    {
+      "id": "82.06.07.2005",
+      "name": "Tutuling Jaya",
+      "postal_code": "97868",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.07",
+        "name": "Wasile Timur"
+      }
+    },
+    {
+      "id": "82.06.07.2006",
+      "name": "Woka Jaya",
+      "postal_code": "97868",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.07",
+        "name": "Wasile Timur"
+      }
+    },
+    {
+      "id": "82.06.07.2007",
+      "name": "Rawamangun",
+      "postal_code": "97868",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.07",
+        "name": "Wasile Timur"
+      }
+    },
+    {
+      "id": "82.06.07.2008",
+      "name": "Sidomulyo",
+      "postal_code": "97868",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.07",
+        "name": "Wasile Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

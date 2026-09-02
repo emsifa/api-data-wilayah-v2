@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.09.07.2004",
+    "name": "Sido Rukun",
+    "postal_code": "37553",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.09",
+      "name": "Kabupaten Tebo"
+    },
+    "district": {
+      "id": "15.09.07",
+      "name": "Rimbo Ulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

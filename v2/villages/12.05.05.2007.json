@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.05.05.2007",
+    "name": "Suka Makmur",
+    "postal_code": "20761",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.05",
+      "name": "Kabupaten Langkat"
+    },
+    "district": {
+      "id": "12.05.05",
+      "name": "Binjai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

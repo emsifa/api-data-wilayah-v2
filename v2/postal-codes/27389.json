@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "13.02.13.2001",
+      "name": "Paninggahan",
+      "postal_code": "27389",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.02",
+        "name": "Kabupaten Solok"
+      },
+      "district": {
+        "id": "13.02.13",
+        "name": "Junjung Sirih"
+      }
+    },
+    {
+      "id": "13.02.13.2002",
+      "name": "Muaro Pingai",
+      "postal_code": "27389",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.02",
+        "name": "Kabupaten Solok"
+      },
+      "district": {
+        "id": "13.02.13",
+        "name": "Junjung Sirih"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

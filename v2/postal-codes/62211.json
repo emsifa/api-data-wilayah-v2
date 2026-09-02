@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.24.22.1019",
+      "name": "Jetis",
+      "postal_code": "62211",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.24",
+        "name": "Kabupaten Lamongan"
+      },
+      "district": {
+        "id": "35.24.22",
+        "name": "Lamongan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

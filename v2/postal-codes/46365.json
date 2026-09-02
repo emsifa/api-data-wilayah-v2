@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "32.07.19.2002",
+      "name": "Sidamulih",
+      "postal_code": "46365",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.07",
+        "name": "Kabupaten Ciamis"
+      },
+      "district": {
+        "id": "32.07.19",
+        "name": "Pamarican"
+      }
+    },
+    {
+      "id": "32.18.10.2001",
+      "name": "Sidamulih",
+      "postal_code": "46365",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.18",
+        "name": "Kabupaten Pangandaran"
+      },
+      "district": {
+        "id": "32.18.10",
+        "name": "Sidamulih"
+      }
+    },
+    {
+      "id": "32.18.10.2002",
+      "name": "Cikalong",
+      "postal_code": "46365",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.18",
+        "name": "Kabupaten Pangandaran"
+      },
+      "district": {
+        "id": "32.18.10",
+        "name": "Sidamulih"
+      }
+    },
+    {
+      "id": "32.18.10.2003",
+      "name": "Sukaresik",
+      "postal_code": "46365",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.18",
+        "name": "Kabupaten Pangandaran"
+      },
+      "district": {
+        "id": "32.18.10",
+        "name": "Sidamulih"
+      }
+    },
+    {
+      "id": "32.18.10.2004",
+      "name": "Cikembulan",
+      "postal_code": "46365",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.18",
+        "name": "Kabupaten Pangandaran"
+      },
+      "district": {
+        "id": "32.18.10",
+        "name": "Sidamulih"
+      }
+    },
+    {
+      "id": "32.18.10.2005",
+      "name": "Pajaten",
+      "postal_code": "46365",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.18",
+        "name": "Kabupaten Pangandaran"
+      },
+      "district": {
+        "id": "32.18.10",
+        "name": "Sidamulih"
+      }
+    },
+    {
+      "id": "32.18.10.2006",
+      "name": "Kersaratu",
+      "postal_code": "46365",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.18",
+        "name": "Kabupaten Pangandaran"
+      },
+      "district": {
+        "id": "32.18.10",
+        "name": "Sidamulih"
+      }
+    },
+    {
+      "id": "32.18.10.2007",
+      "name": "Kalijati",
+      "postal_code": "46365",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.18",
+        "name": "Kabupaten Pangandaran"
+      },
+      "district": {
+        "id": "32.18.10",
+        "name": "Sidamulih"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

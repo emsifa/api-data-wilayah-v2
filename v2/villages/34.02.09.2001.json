@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.02.09.2001",
+    "name": "Patalan",
+    "postal_code": "55781",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.02",
+      "name": "Kabupaten Bantul"
+    },
+    "district": {
+      "id": "34.02.09",
+      "name": "Jetis"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

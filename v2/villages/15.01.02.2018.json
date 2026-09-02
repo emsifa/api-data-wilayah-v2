@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.01.02.2018",
+    "name": "Tanjungharapan",
+    "postal_code": "37172",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.01",
+      "name": "Kabupaten Kerinci"
+    },
+    "district": {
+      "id": "15.01.02",
+      "name": "Danau Kerinci"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "76.04.10.1004",
+      "name": "Batupanga",
+      "postal_code": "91358",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.10",
+        "name": "Luyo"
+      }
+    },
+    {
+      "id": "76.04.10.2001",
+      "name": "Mambu",
+      "postal_code": "91358",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.10",
+        "name": "Luyo"
+      }
+    },
+    {
+      "id": "76.04.10.2002",
+      "name": "Tenggelang",
+      "postal_code": "91358",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.10",
+        "name": "Luyo"
+      }
+    },
+    {
+      "id": "76.04.10.2003",
+      "name": "Baru",
+      "postal_code": "91358",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.10",
+        "name": "Luyo"
+      }
+    },
+    {
+      "id": "76.04.10.2005",
+      "name": "Pussui",
+      "postal_code": "91358",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.10",
+        "name": "Luyo"
+      }
+    },
+    {
+      "id": "76.04.10.2006",
+      "name": "Mapilli Barat",
+      "postal_code": "91358",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.10",
+        "name": "Luyo"
+      }
+    },
+    {
+      "id": "76.04.10.2007",
+      "name": "Sambali Wali",
+      "postal_code": "91358",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.10",
+        "name": "Luyo"
+      }
+    },
+    {
+      "id": "76.04.10.2008",
+      "name": "Batupanga Daala",
+      "postal_code": "91358",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.10",
+        "name": "Luyo"
+      }
+    },
+    {
+      "id": "76.04.10.2009",
+      "name": "Luyo",
+      "postal_code": "91358",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.10",
+        "name": "Luyo"
+      }
+    },
+    {
+      "id": "76.04.10.2010",
+      "name": "Pussui Barat",
+      "postal_code": "91358",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.10",
+        "name": "Luyo"
+      }
+    },
+    {
+      "id": "76.04.10.2011",
+      "name": "Puccadi",
+      "postal_code": "91358",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.10",
+        "name": "Luyo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.04.02.2030",
+    "name": "Dorolamo",
+    "postal_code": "97780",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.04",
+      "name": "Kabupaten Halmahera Selatan"
+    },
+    "district": {
+      "id": "82.04.02",
+      "name": "Kayoa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

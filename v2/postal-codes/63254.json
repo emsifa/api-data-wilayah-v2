@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "35.21.11.2001",
+      "name": "Begal",
+      "postal_code": "63254",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.11",
+        "name": "Kedunggalar"
+      }
+    },
+    {
+      "id": "35.21.11.2002",
+      "name": "Wonorejo",
+      "postal_code": "63254",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.11",
+        "name": "Kedunggalar"
+      }
+    },
+    {
+      "id": "35.21.11.2003",
+      "name": "Katikan",
+      "postal_code": "63254",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.11",
+        "name": "Kedunggalar"
+      }
+    },
+    {
+      "id": "35.21.11.2004",
+      "name": "Pelang Kidul",
+      "postal_code": "63254",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.11",
+        "name": "Kedunggalar"
+      }
+    },
+    {
+      "id": "35.21.11.2005",
+      "name": "Kedunggalar",
+      "postal_code": "63254",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.11",
+        "name": "Kedunggalar"
+      }
+    },
+    {
+      "id": "35.21.11.2006",
+      "name": "Jatigembol",
+      "postal_code": "63254",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.11",
+        "name": "Kedunggalar"
+      }
+    },
+    {
+      "id": "35.21.11.2007",
+      "name": "Pelang Lor",
+      "postal_code": "63254",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.11",
+        "name": "Kedunggalar"
+      }
+    },
+    {
+      "id": "35.21.11.2008",
+      "name": "Bangunrejo Kidul",
+      "postal_code": "63254",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.11",
+        "name": "Kedunggalar"
+      }
+    },
+    {
+      "id": "35.21.11.2009",
+      "name": "Jenggrik",
+      "postal_code": "63254",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.11",
+        "name": "Kedunggalar"
+      }
+    },
+    {
+      "id": "35.21.11.2010",
+      "name": "Wonokerto",
+      "postal_code": "63254",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.11",
+        "name": "Kedunggalar"
+      }
+    },
+    {
+      "id": "35.21.11.2011",
+      "name": "Gemarang",
+      "postal_code": "63254",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.11",
+        "name": "Kedunggalar"
+      }
+    },
+    {
+      "id": "35.21.11.2012",
+      "name": "Kawu",
+      "postal_code": "63254",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.11",
+        "name": "Kedunggalar"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

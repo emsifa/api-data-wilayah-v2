@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.07.24.2002",
+    "name": "Sei Baharu",
+    "postal_code": "20374",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.07",
+      "name": "Kabupaten Deli Serdang"
+    },
+    "district": {
+      "id": "12.07.24",
+      "name": "Hamparan Perak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

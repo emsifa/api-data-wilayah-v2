@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "32.05.12.2001",
+      "name": "Cibatu",
+      "postal_code": "44185",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.12",
+        "name": "Cibatu"
+      }
+    },
+    {
+      "id": "32.05.12.2002",
+      "name": "Mekarsari",
+      "postal_code": "44185",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.12",
+        "name": "Cibatu"
+      }
+    },
+    {
+      "id": "32.05.12.2003",
+      "name": "Cibunar",
+      "postal_code": "44185",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.12",
+        "name": "Cibatu"
+      }
+    },
+    {
+      "id": "32.05.12.2004",
+      "name": "Sindangsuka",
+      "postal_code": "44185",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.12",
+        "name": "Cibatu"
+      }
+    },
+    {
+      "id": "32.05.12.2005",
+      "name": "Kertajaya",
+      "postal_code": "44185",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.12",
+        "name": "Cibatu"
+      }
+    },
+    {
+      "id": "32.05.12.2006",
+      "name": "Sukalilah",
+      "postal_code": "44185",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.12",
+        "name": "Cibatu"
+      }
+    },
+    {
+      "id": "32.05.12.2007",
+      "name": "Padasuka",
+      "postal_code": "44185",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.12",
+        "name": "Cibatu"
+      }
+    },
+    {
+      "id": "32.05.12.2008",
+      "name": "Karyamukti",
+      "postal_code": "44185",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.12",
+        "name": "Cibatu"
+      }
+    },
+    {
+      "id": "32.05.12.2009",
+      "name": "Girimukti",
+      "postal_code": "44185",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.12",
+        "name": "Cibatu"
+      }
+    },
+    {
+      "id": "32.05.12.2010",
+      "name": "Keresek",
+      "postal_code": "44185",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.12",
+        "name": "Cibatu"
+      }
+    },
+    {
+      "id": "32.05.12.2011",
+      "name": "Wanakerta",
+      "postal_code": "44185",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.12",
+        "name": "Cibatu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.71.02.1008",
+    "name": "Bonto Biraeng",
+    "postal_code": "90132",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.71",
+      "name": "Kota Makassar"
+    },
+    "district": {
+      "id": "73.71.02",
+      "name": "Mamajang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

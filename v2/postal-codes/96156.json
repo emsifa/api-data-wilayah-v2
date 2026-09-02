@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "75.01.14.2004",
+      "name": "Satria",
+      "postal_code": "96156",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.01",
+        "name": "Kabupaten Gorontalo"
+      },
+      "district": {
+        "id": "75.01.14",
+        "name": "Mootilango"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

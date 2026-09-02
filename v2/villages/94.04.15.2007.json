@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.04.15.2007",
+    "name": "Limau Asri Barat",
+    "postal_code": "99968",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.04",
+      "name": "Kabupaten Mimika"
+    },
+    "district": {
+      "id": "94.04.15",
+      "name": "Iwaka"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

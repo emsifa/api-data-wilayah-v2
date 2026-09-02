@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.77.04.1002",
+    "name": "Lubuk Raya",
+    "postal_code": "22703",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.77",
+      "name": "Kota Padangsidimpuan"
+    },
+    "district": {
+      "id": "12.77.04",
+      "name": "Padangsidimpuan Hutaimbaru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

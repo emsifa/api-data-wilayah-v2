@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.04.26.2003",
+    "name": "Kuoklanggunik",
+    "postal_code": "99438",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.04",
+      "name": "Kabupaten Tolikara"
+    },
+    "district": {
+      "id": "95.04.26",
+      "name": "Poganeri"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

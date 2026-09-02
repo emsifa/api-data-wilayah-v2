@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.74.03.2001",
+    "name": "Poyowa Besar Satu",
+    "postal_code": "95717",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.74",
+      "name": "Kota Kotamobagu"
+    },
+    "district": {
+      "id": "71.74.03",
+      "name": "Kotamobagu Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.08.24.2004",
+    "name": "Panombeian Baru",
+    "postal_code": "21185",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.08",
+      "name": "Kabupaten Simalungun"
+    },
+    "district": {
+      "id": "12.08.24",
+      "name": "Bandar Masilam"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

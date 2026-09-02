@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "72.10.10.2001",
+      "name": "Lambara",
+      "postal_code": "94368",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.10",
+        "name": "Tanambulava"
+      }
+    },
+    {
+      "id": "72.10.10.2002",
+      "name": "Sibalaya Selatan",
+      "postal_code": "94368",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.10",
+        "name": "Tanambulava"
+      }
+    },
+    {
+      "id": "72.10.10.2003",
+      "name": "Sibalaya Utara",
+      "postal_code": "94368",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.10",
+        "name": "Tanambulava"
+      }
+    },
+    {
+      "id": "72.10.10.2004",
+      "name": "Sibowi",
+      "postal_code": "94368",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.10",
+        "name": "Tanambulava"
+      }
+    },
+    {
+      "id": "72.10.10.2005",
+      "name": "Sibalaya Barat",
+      "postal_code": "94368",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.10",
+        "name": "Tanambulava"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

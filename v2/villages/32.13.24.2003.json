@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.13.24.2003",
+    "name": "Sukamaju",
+    "postal_code": "41250",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.13",
+      "name": "Kabupaten Subang"
+    },
+    "district": {
+      "id": "32.13.24",
+      "name": "Sukasari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

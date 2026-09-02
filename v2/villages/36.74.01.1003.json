@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.74.01.1003",
+    "name": "Rawa Mekar Jaya",
+    "postal_code": "15310",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.74",
+      "name": "Kota Tangerang Selatan"
+    },
+    "district": {
+      "id": "36.74.01",
+      "name": "Serpong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

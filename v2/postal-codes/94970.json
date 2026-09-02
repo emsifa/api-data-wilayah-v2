@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "72.12.10.2001",
+      "name": "Tiu",
+      "postal_code": "94970",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.12",
+        "name": "Kabupaten Morowali Utara"
+      },
+      "district": {
+        "id": "72.12.10",
+        "name": "Petasia Barat"
+      }
+    },
+    {
+      "id": "72.12.10.2002",
+      "name": "Tontowea",
+      "postal_code": "94970",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.12",
+        "name": "Kabupaten Morowali Utara"
+      },
+      "district": {
+        "id": "72.12.10",
+        "name": "Petasia Barat"
+      }
+    },
+    {
+      "id": "72.12.10.2003",
+      "name": "Togo Mulyo",
+      "postal_code": "94970",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.12",
+        "name": "Kabupaten Morowali Utara"
+      },
+      "district": {
+        "id": "72.12.10",
+        "name": "Petasia Barat"
+      }
+    },
+    {
+      "id": "72.12.10.2004",
+      "name": "Maralee",
+      "postal_code": "94970",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.12",
+        "name": "Kabupaten Morowali Utara"
+      },
+      "district": {
+        "id": "72.12.10",
+        "name": "Petasia Barat"
+      }
+    },
+    {
+      "id": "72.12.10.2005",
+      "name": "Mondowe",
+      "postal_code": "94970",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.12",
+        "name": "Kabupaten Morowali Utara"
+      },
+      "district": {
+        "id": "72.12.10",
+        "name": "Petasia Barat"
+      }
+    },
+    {
+      "id": "72.12.10.2006",
+      "name": "Sampalowo",
+      "postal_code": "94970",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.12",
+        "name": "Kabupaten Morowali Utara"
+      },
+      "district": {
+        "id": "72.12.10",
+        "name": "Petasia Barat"
+      }
+    },
+    {
+      "id": "72.12.10.2007",
+      "name": "Moleono",
+      "postal_code": "94970",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.12",
+        "name": "Kabupaten Morowali Utara"
+      },
+      "district": {
+        "id": "72.12.10",
+        "name": "Petasia Barat"
+      }
+    },
+    {
+      "id": "72.12.10.2008",
+      "name": "Onepute",
+      "postal_code": "94970",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.12",
+        "name": "Kabupaten Morowali Utara"
+      },
+      "district": {
+        "id": "72.12.10",
+        "name": "Petasia Barat"
+      }
+    },
+    {
+      "id": "72.12.10.2009",
+      "name": "Ulu Laa",
+      "postal_code": "94970",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.12",
+        "name": "Kabupaten Morowali Utara"
+      },
+      "district": {
+        "id": "72.12.10",
+        "name": "Petasia Barat"
+      }
+    },
+    {
+      "id": "72.12.10.2010",
+      "name": "Tadaku Jaya",
+      "postal_code": "94970",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.12",
+        "name": "Kabupaten Morowali Utara"
+      },
+      "district": {
+        "id": "72.12.10",
+        "name": "Petasia Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.71.06.1005",
+    "name": "Abian Tubuh Baru",
+    "postal_code": "83237",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.71",
+      "name": "Kota Mataram"
+    },
+    "district": {
+      "id": "52.71.06",
+      "name": "Sandubaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

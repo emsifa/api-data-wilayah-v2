@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.03.15.2011",
+    "name": "Buket Drien",
+    "postal_code": "24458",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.03",
+      "name": "Kabupaten Aceh Timur"
+    },
+    "district": {
+      "id": "11.03.15",
+      "name": "Banda Alam"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

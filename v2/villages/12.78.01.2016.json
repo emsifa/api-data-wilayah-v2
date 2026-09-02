@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.78.01.2016",
+    "name": "Mo'awo",
+    "postal_code": "22810",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.78",
+      "name": "Kota Gunungsitoli"
+    },
+    "district": {
+      "id": "12.78.01",
+      "name": "Gunungsitoli"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

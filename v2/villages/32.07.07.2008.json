@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.07.07.2008",
+    "name": "Tanjungmulya",
+    "postal_code": "46263",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.07",
+      "name": "Kabupaten Ciamis"
+    },
+    "district": {
+      "id": "32.07.07",
+      "name": "Panumbangan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

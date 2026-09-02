@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.08.32.2010",
+    "name": "Pamatang Sinaman",
+    "postal_code": "21164",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.08",
+      "name": "Kabupaten Simalungun"
+    },
+    "district": {
+      "id": "12.08.32",
+      "name": "Dolog Masagal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.13.07.2008",
+    "name": "Kalikur WL",
+    "postal_code": "86692",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.13",
+      "name": "Kabupaten Lembata"
+    },
+    "district": {
+      "id": "53.13.07",
+      "name": "Buyasuri"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

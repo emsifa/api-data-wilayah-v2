@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "94.04.09.1001",
+      "name": "Kuala Kencana",
+      "postal_code": "99969",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.04",
+        "name": "Kabupaten Mimika"
+      },
+      "district": {
+        "id": "94.04.09",
+        "name": "Kuala Kencana"
+      }
+    },
+    {
+      "id": "94.04.09.2006",
+      "name": "Mimika Gunung",
+      "postal_code": "99969",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.04",
+        "name": "Kabupaten Mimika"
+      },
+      "district": {
+        "id": "94.04.09",
+        "name": "Kuala Kencana"
+      }
+    },
+    {
+      "id": "94.04.09.2007",
+      "name": "Karya Kencana",
+      "postal_code": "99969",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.04",
+        "name": "Kabupaten Mimika"
+      },
+      "district": {
+        "id": "94.04.09",
+        "name": "Kuala Kencana"
+      }
+    },
+    {
+      "id": "94.04.09.2008",
+      "name": "Utikini Dua",
+      "postal_code": "99969",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.04",
+        "name": "Kabupaten Mimika"
+      },
+      "district": {
+        "id": "94.04.09",
+        "name": "Kuala Kencana"
+      }
+    },
+    {
+      "id": "94.04.09.2009",
+      "name": "Utikini Tiga",
+      "postal_code": "99969",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.04",
+        "name": "Kabupaten Mimika"
+      },
+      "district": {
+        "id": "94.04.09",
+        "name": "Kuala Kencana"
+      }
+    },
+    {
+      "id": "94.04.09.2010",
+      "name": "Jimbi",
+      "postal_code": "99969",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.04",
+        "name": "Kabupaten Mimika"
+      },
+      "district": {
+        "id": "94.04.09",
+        "name": "Kuala Kencana"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

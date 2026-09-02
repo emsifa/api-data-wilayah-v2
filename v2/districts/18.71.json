@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "18.71",
+    "name": "Kota Bandar Lampung",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.71",
+      "name": "Kota Bandar Lampung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

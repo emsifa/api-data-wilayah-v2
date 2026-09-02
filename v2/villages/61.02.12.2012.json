@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.02.12.2012",
+    "name": "Semudun",
+    "postal_code": "78371",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.02",
+      "name": "Kabupaten Mempawah"
+    },
+    "district": {
+      "id": "61.02.12",
+      "name": "Sungai Kunyit"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

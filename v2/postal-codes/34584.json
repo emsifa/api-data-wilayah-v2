@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "18.03.11.2001",
+      "name": "Gunung Besar",
+      "postal_code": "34584",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.03",
+        "name": "Kabupaten Lampung Utara"
+      },
+      "district": {
+        "id": "18.03.11",
+        "name": "Abung Tengah"
+      }
+    },
+    {
+      "id": "18.03.11.2002",
+      "name": "Kinciran",
+      "postal_code": "34584",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.03",
+        "name": "Kabupaten Lampung Utara"
+      },
+      "district": {
+        "id": "18.03.11",
+        "name": "Abung Tengah"
+      }
+    },
+    {
+      "id": "18.03.11.2003",
+      "name": "Negla Sari",
+      "postal_code": "34584",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.03",
+        "name": "Kabupaten Lampung Utara"
+      },
+      "district": {
+        "id": "18.03.11",
+        "name": "Abung Tengah"
+      }
+    },
+    {
+      "id": "18.03.11.2004",
+      "name": "Kedaton",
+      "postal_code": "34584",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.03",
+        "name": "Kabupaten Lampung Utara"
+      },
+      "district": {
+        "id": "18.03.11",
+        "name": "Abung Tengah"
+      }
+    },
+    {
+      "id": "18.03.11.2005",
+      "name": "Sri Bandung",
+      "postal_code": "34584",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.03",
+        "name": "Kabupaten Lampung Utara"
+      },
+      "district": {
+        "id": "18.03.11",
+        "name": "Abung Tengah"
+      }
+    },
+    {
+      "id": "18.03.11.2006",
+      "name": "Subik",
+      "postal_code": "34584",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.03",
+        "name": "Kabupaten Lampung Utara"
+      },
+      "district": {
+        "id": "18.03.11",
+        "name": "Abung Tengah"
+      }
+    },
+    {
+      "id": "18.03.11.2007",
+      "name": "Gunung Sadar",
+      "postal_code": "34584",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.03",
+        "name": "Kabupaten Lampung Utara"
+      },
+      "district": {
+        "id": "18.03.11",
+        "name": "Abung Tengah"
+      }
+    },
+    {
+      "id": "18.03.11.2008",
+      "name": "Gunung Gijul",
+      "postal_code": "34584",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.03",
+        "name": "Kabupaten Lampung Utara"
+      },
+      "district": {
+        "id": "18.03.11",
+        "name": "Abung Tengah"
+      }
+    },
+    {
+      "id": "18.03.11.2016",
+      "name": "Pekurun Barat",
+      "postal_code": "34584",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.03",
+        "name": "Kabupaten Lampung Utara"
+      },
+      "district": {
+        "id": "18.03.11",
+        "name": "Abung Tengah"
+      }
+    },
+    {
+      "id": "18.03.11.2017",
+      "name": "Pekurun Selatan",
+      "postal_code": "34584",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.03",
+        "name": "Kabupaten Lampung Utara"
+      },
+      "district": {
+        "id": "18.03.11",
+        "name": "Abung Tengah"
+      }
+    },
+    {
+      "id": "18.03.11.2018",
+      "name": "Pekurun Utara",
+      "postal_code": "34584",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.03",
+        "name": "Kabupaten Lampung Utara"
+      },
+      "district": {
+        "id": "18.03.11",
+        "name": "Abung Tengah"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "18.02.15.2001",
+      "name": "Rengas",
+      "postal_code": "34162",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.02",
+        "name": "Kabupaten Lampung Tengah"
+      },
+      "district": {
+        "id": "18.02.15",
+        "name": "Bekri"
+      }
+    },
+    {
+      "id": "18.02.15.2002",
+      "name": "Kesuma Dadi",
+      "postal_code": "34162",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.02",
+        "name": "Kabupaten Lampung Tengah"
+      },
+      "district": {
+        "id": "18.02.15",
+        "name": "Bekri"
+      }
+    },
+    {
+      "id": "18.02.15.2003",
+      "name": "Sinar Banten",
+      "postal_code": "34162",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.02",
+        "name": "Kabupaten Lampung Tengah"
+      },
+      "district": {
+        "id": "18.02.15",
+        "name": "Bekri"
+      }
+    },
+    {
+      "id": "18.02.15.2004",
+      "name": "Kesuma Jaya",
+      "postal_code": "34162",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.02",
+        "name": "Kabupaten Lampung Tengah"
+      },
+      "district": {
+        "id": "18.02.15",
+        "name": "Bekri"
+      }
+    },
+    {
+      "id": "18.02.15.2005",
+      "name": "Binjai Ngagung",
+      "postal_code": "34162",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.02",
+        "name": "Kabupaten Lampung Tengah"
+      },
+      "district": {
+        "id": "18.02.15",
+        "name": "Bekri"
+      }
+    },
+    {
+      "id": "18.02.15.2006",
+      "name": "Kedatuan",
+      "postal_code": "34162",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.02",
+        "name": "Kabupaten Lampung Tengah"
+      },
+      "district": {
+        "id": "18.02.15",
+        "name": "Bekri"
+      }
+    },
+    {
+      "id": "18.02.15.2007",
+      "name": "Goras Jaya",
+      "postal_code": "34162",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.02",
+        "name": "Kabupaten Lampung Tengah"
+      },
+      "district": {
+        "id": "18.02.15",
+        "name": "Bekri"
+      }
+    },
+    {
+      "id": "18.02.15.2008",
+      "name": "Bangun Sari",
+      "postal_code": "34162",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.02",
+        "name": "Kabupaten Lampung Tengah"
+      },
+      "district": {
+        "id": "18.02.15",
+        "name": "Bekri"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

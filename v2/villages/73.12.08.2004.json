@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.12.08.2004",
+    "name": "Tinco",
+    "postal_code": "90861",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.12",
+      "name": "Kabupaten Soppeng"
+    },
+    "district": {
+      "id": "73.12.08",
+      "name": "Citta"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

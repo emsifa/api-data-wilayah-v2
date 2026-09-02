@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "33.20.11.2004",
+      "name": "Petekeyan",
+      "postal_code": "59423",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.20",
+        "name": "Kabupaten Jepara"
+      },
+      "district": {
+        "id": "33.20.11",
+        "name": "Tahunan"
+      }
+    },
+    {
+      "id": "33.20.11.2006",
+      "name": "Platar",
+      "postal_code": "59423",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.20",
+        "name": "Kabupaten Jepara"
+      },
+      "district": {
+        "id": "33.20.11",
+        "name": "Tahunan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

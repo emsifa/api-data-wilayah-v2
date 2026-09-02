@@ -1,0 +1,20 @@
+{
+  "data": {
+    "id": "31",
+    "name": "Daerah Khusus Ibukota Jakarta",
+    "capital": "Jakarta",
+    "lat": -6.177801577599116,
+    "lng": 106.82844443327093,
+    "elv": -4,
+    "tz": 7,
+    "population": 11038216,
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.07.34.2001",
+    "name": "Cikupa",
+    "postal_code": "46258",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.07",
+      "name": "Kabupaten Ciamis"
+    },
+    "district": {
+      "id": "32.07.34",
+      "name": "Lumbung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

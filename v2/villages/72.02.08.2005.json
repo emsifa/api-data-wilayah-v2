@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.02.08.2005",
+    "name": "Torire",
+    "postal_code": "94656",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.02",
+      "name": "Kabupaten Poso"
+    },
+    "district": {
+      "id": "72.02.08",
+      "name": "Lore Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

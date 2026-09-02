@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "16.01.13.1007",
+      "name": "Batu Kuning",
+      "postal_code": "32121",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.13",
+        "name": "Baturaja Barat"
+      }
+    },
+    {
+      "id": "16.01.13.1011",
+      "name": "Air Gading",
+      "postal_code": "32121",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.13",
+        "name": "Baturaja Barat"
+      }
+    },
+    {
+      "id": "16.01.13.2001",
+      "name": "Batu Putih",
+      "postal_code": "32121",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.13",
+        "name": "Baturaja Barat"
+      }
+    },
+    {
+      "id": "16.01.13.2008",
+      "name": "Karang Agung",
+      "postal_code": "32121",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.13",
+        "name": "Baturaja Barat"
+      }
+    },
+    {
+      "id": "16.01.13.2009",
+      "name": "Karang Endah",
+      "postal_code": "32121",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.13",
+        "name": "Baturaja Barat"
+      }
+    },
+    {
+      "id": "16.01.13.2010",
+      "name": "Tanjung Karang",
+      "postal_code": "32121",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.13",
+        "name": "Baturaja Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

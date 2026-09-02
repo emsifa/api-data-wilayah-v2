@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.02.20.2004",
+    "name": "Bringinan",
+    "postal_code": "63456",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.02",
+      "name": "Kabupaten Ponorogo"
+    },
+    "district": {
+      "id": "35.02.20",
+      "name": "Jambon"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

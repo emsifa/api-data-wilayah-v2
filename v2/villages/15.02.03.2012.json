@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.02.03.2012",
+    "name": "Muara Siau",
+    "postal_code": "37370",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.02",
+      "name": "Kabupaten Merangin"
+    },
+    "district": {
+      "id": "15.02.03",
+      "name": "Muara Siau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

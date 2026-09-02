@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.17.03.2010",
+    "name": "Bondo Sulla",
+    "postal_code": "87258",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.17",
+      "name": "Kabupaten Sumba Tengah"
+    },
+    "district": {
+      "id": "53.17.03",
+      "name": "Mamboro"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

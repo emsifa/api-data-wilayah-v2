@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.01.35.2002",
+    "name": "Teluklada",
+    "postal_code": "42280",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.01",
+      "name": "Kabupaten Pandeglang"
+    },
+    "district": {
+      "id": "36.01.35",
+      "name": "Sobang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.02.02.2001",
+    "name": "Biloto",
+    "postal_code": "85542",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.02",
+      "name": "Kabupaten Timor Tengah Selatan"
+    },
+    "district": {
+      "id": "53.02.02",
+      "name": "Mollo Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

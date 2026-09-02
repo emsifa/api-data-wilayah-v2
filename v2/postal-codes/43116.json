@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.72.02.1006",
+      "name": "Subangjaya",
+      "postal_code": "43116",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.72",
+        "name": "Kota Sukabumi"
+      },
+      "district": {
+        "id": "32.72.02",
+        "name": "Cikole"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

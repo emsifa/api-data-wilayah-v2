@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.03.06.2031",
+    "name": "Karang Endah Selatan",
+    "postal_code": "31170",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.03",
+      "name": "Kabupaten Muara Enim"
+    },
+    "district": {
+      "id": "16.03.06",
+      "name": "Gelumbang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

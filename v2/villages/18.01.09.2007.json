@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.01.09.2007",
+    "name": "Kelau",
+    "postal_code": "35593",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.01",
+      "name": "Kabupaten Lampung Selatan"
+    },
+    "district": {
+      "id": "18.01.09",
+      "name": "Penengahan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

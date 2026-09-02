@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.73.03.1009",
+    "name": "Kapuren",
+    "postal_code": "42183",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.73",
+      "name": "Kota Serang"
+    },
+    "district": {
+      "id": "36.73.03",
+      "name": "Walantaka"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

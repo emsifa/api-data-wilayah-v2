@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.02.27.1008",
+    "name": "Sawidago",
+    "postal_code": "94667",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.02",
+      "name": "Kabupaten Poso"
+    },
+    "district": {
+      "id": "72.02.27",
+      "name": "Pamona Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

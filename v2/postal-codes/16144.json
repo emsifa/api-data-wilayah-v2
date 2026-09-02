@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.71.02.1003",
+      "name": "Katulampa",
+      "postal_code": "16144",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.71",
+        "name": "Kota Bogor"
+      },
+      "district": {
+        "id": "32.71.02",
+        "name": "Bogor Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

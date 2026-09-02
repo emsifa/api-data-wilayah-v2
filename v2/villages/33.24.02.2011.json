@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.24.02.2011",
+    "name": "Bangunsari",
+    "postal_code": "51361",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.24",
+      "name": "Kabupaten Kendal"
+    },
+    "district": {
+      "id": "33.24.02",
+      "name": "Pageruyung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

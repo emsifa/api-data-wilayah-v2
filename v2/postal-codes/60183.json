@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.78.28.1002",
+      "name": "Genting Kalianak",
+      "postal_code": "60183",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.28",
+        "name": "Asem Rowo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

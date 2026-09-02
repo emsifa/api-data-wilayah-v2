@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "96.03.06.2001",
+      "name": "Foley",
+      "postal_code": "98492",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.06",
+        "name": "Misool Timur"
+      }
+    },
+    {
+      "id": "96.03.06.2002",
+      "name": "Tomolol",
+      "postal_code": "98492",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.06",
+        "name": "Misool Timur"
+      }
+    },
+    {
+      "id": "96.03.06.2003",
+      "name": "Usaha Jaya",
+      "postal_code": "98492",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.06",
+        "name": "Misool Timur"
+      }
+    },
+    {
+      "id": "96.03.06.2004",
+      "name": "Limalas Timur",
+      "postal_code": "98492",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.06",
+        "name": "Misool Timur"
+      }
+    },
+    {
+      "id": "96.03.06.2005",
+      "name": "Audam",
+      "postal_code": "98492",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.06",
+        "name": "Misool Timur"
+      }
+    },
+    {
+      "id": "96.03.06.2006",
+      "name": "Limalas Barat",
+      "postal_code": "98492",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.06",
+        "name": "Misool Timur"
+      }
+    },
+    {
+      "id": "96.03.12.2001",
+      "name": "Fafanlap",
+      "postal_code": "98492",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.12",
+        "name": "Misool Selatan"
+      }
+    },
+    {
+      "id": "96.03.12.2002",
+      "name": "Yellu",
+      "postal_code": "98492",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.12",
+        "name": "Misool Selatan"
+      }
+    },
+    {
+      "id": "96.03.12.2003",
+      "name": "Harapan Jaya",
+      "postal_code": "98492",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.12",
+        "name": "Misool Selatan"
+      }
+    },
+    {
+      "id": "96.03.12.2004",
+      "name": "Kareyepop",
+      "postal_code": "98492",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.12",
+        "name": "Misool Selatan"
+      }
+    },
+    {
+      "id": "96.03.12.2005",
+      "name": "Dabatan",
+      "postal_code": "98492",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.12",
+        "name": "Misool Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.03.02.2008",
+    "name": "Suwangi Timur",
+    "postal_code": "83671",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.03",
+      "name": "Kabupaten Lombok Timur"
+    },
+    "district": {
+      "id": "52.03.02",
+      "name": "Sakra"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

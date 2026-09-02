@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "13.12.06.2004",
+    "name": "Bahoras",
+    "postal_code": "26571",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.12",
+      "name": "Kabupaten Pasaman Barat"
+    },
+    "district": {
+      "id": "13.12.06",
+      "name": "Gunung Tuleh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

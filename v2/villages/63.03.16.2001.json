@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.03.16.2001",
+    "name": "Madurejo",
+    "postal_code": "70677",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.03",
+      "name": "Kabupaten Banjar"
+    },
+    "district": {
+      "id": "63.03.16",
+      "name": "Sambung Makmur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

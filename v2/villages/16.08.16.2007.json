@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.08.16.2007",
+    "name": "Peracak Jaya",
+    "postal_code": "32381",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.08",
+      "name": "Kabupaten Ogan Komering Ulu Timur"
+    },
+    "district": {
+      "id": "16.08.16",
+      "name": "Jayapura"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

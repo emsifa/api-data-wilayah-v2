@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.11.02.2005",
+    "name": "Tolisetubono",
+    "postal_code": "94896",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.11",
+      "name": "Kabupaten Banggai Laut"
+    },
+    "district": {
+      "id": "72.11.02",
+      "name": "Banggai Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

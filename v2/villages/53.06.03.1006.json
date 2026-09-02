@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.06.03.1006",
+    "name": "Pohon Sirih",
+    "postal_code": "86214",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.06",
+      "name": "Kabupaten Flores Timur"
+    },
+    "district": {
+      "id": "53.06.03",
+      "name": "Larantuka"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

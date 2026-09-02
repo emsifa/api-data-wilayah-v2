@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.20.06.1011",
+      "name": "Tawanganom",
+      "postal_code": "63312",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.20",
+        "name": "Kabupaten Magetan"
+      },
+      "district": {
+        "id": "35.20.06",
+        "name": "Magetan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

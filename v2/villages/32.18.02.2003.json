@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.18.02.2003",
+    "name": "Cibanten",
+    "postal_code": "46394",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.18",
+      "name": "Kabupaten Pangandaran"
+    },
+    "district": {
+      "id": "32.18.02",
+      "name": "Cijulang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

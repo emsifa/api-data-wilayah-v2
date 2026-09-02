@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.09.15.2010",
+    "name": "Uluwae II",
+    "postal_code": "86413",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.09",
+      "name": "Kabupaten Ngada"
+    },
+    "district": {
+      "id": "53.09.15",
+      "name": "Bajawa Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

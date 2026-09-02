@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "96.04.28.2002",
+    "name": "Kasi Baru",
+    "postal_code": "98383",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.04",
+      "name": "Kabupaten Tambrauw"
+    },
+    "district": {
+      "id": "96.04.28",
+      "name": "Kasi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

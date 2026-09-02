@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.01.22.2012",
+    "name": "Baru Semerah",
+    "postal_code": "37171",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.01",
+      "name": "Kabupaten Kerinci"
+    },
+    "district": {
+      "id": "15.01.22",
+      "name": "Tanah Cogok"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

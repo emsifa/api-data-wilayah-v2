@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.03.16.2014",
+    "name": "Sukarami",
+    "postal_code": "31357",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.03",
+      "name": "Kabupaten Muara Enim"
+    },
+    "district": {
+      "id": "16.03.16",
+      "name": "Sungai Rotan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

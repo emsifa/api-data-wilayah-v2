@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "74.15.01.1002",
+      "name": "Busoa",
+      "postal_code": "93741",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.01",
+        "name": "Batauga"
+      }
+    },
+    {
+      "id": "74.15.01.1003",
+      "name": "Laompo",
+      "postal_code": "93741",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.01",
+        "name": "Batauga"
+      }
+    },
+    {
+      "id": "74.15.01.1004",
+      "name": "Masiri",
+      "postal_code": "93741",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.01",
+        "name": "Batauga"
+      }
+    },
+    {
+      "id": "74.15.01.1005",
+      "name": "Majapahit",
+      "postal_code": "93741",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.01",
+        "name": "Batauga"
+      }
+    },
+    {
+      "id": "74.15.01.1010",
+      "name": "Lakambau",
+      "postal_code": "93741",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.01",
+        "name": "Batauga"
+      }
+    },
+    {
+      "id": "74.15.01.1011",
+      "name": "Molagina",
+      "postal_code": "93741",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.01",
+        "name": "Batauga"
+      }
+    },
+    {
+      "id": "74.15.01.1012",
+      "name": "Bandar Batauga",
+      "postal_code": "93741",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.01",
+        "name": "Batauga"
+      }
+    },
+    {
+      "id": "74.15.01.2001",
+      "name": "Lawela",
+      "postal_code": "93741",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.01",
+        "name": "Batauga"
+      }
+    },
+    {
+      "id": "74.15.01.2006",
+      "name": "Bola",
+      "postal_code": "93741",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.01",
+        "name": "Batauga"
+      }
+    },
+    {
+      "id": "74.15.01.2007",
+      "name": "Poogalampa",
+      "postal_code": "93741",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.01",
+        "name": "Batauga"
+      }
+    },
+    {
+      "id": "74.15.01.2008",
+      "name": "Lawela Selatan",
+      "postal_code": "93741",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.01",
+        "name": "Batauga"
+      }
+    },
+    {
+      "id": "74.15.01.2009",
+      "name": "Lampanairi",
+      "postal_code": "93741",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.01",
+        "name": "Batauga"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

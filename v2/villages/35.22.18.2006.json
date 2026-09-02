@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.22.18.2006",
+    "name": "Punggur",
+    "postal_code": "62161",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.22",
+      "name": "Kabupaten Bojonegoro"
+    },
+    "district": {
+      "id": "35.22.18",
+      "name": "Purwosari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

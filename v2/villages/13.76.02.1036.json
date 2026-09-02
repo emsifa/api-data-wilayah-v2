@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "13.76.02.1036",
+    "name": "Ikua Koto Dibalai",
+    "postal_code": "26212",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.76",
+      "name": "Kota Payakumbuh"
+    },
+    "district": {
+      "id": "13.76.02",
+      "name": "Payakumbuh Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

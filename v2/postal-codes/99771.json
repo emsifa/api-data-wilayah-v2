@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "93.04.14.2001",
+      "name": "Yamkap",
+      "postal_code": "99771",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.14",
+        "name": "Der Koumur"
+      }
+    },
+    {
+      "id": "93.04.14.2002",
+      "name": "Amkum",
+      "postal_code": "99771",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.14",
+        "name": "Der Koumur"
+      }
+    },
+    {
+      "id": "93.04.14.2003",
+      "name": "Amaru",
+      "postal_code": "99771",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.14",
+        "name": "Der Koumur"
+      }
+    },
+    {
+      "id": "93.04.14.2004",
+      "name": "Amkai",
+      "postal_code": "99771",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.14",
+        "name": "Der Koumur"
+      }
+    },
+    {
+      "id": "93.04.14.2005",
+      "name": "Amagais",
+      "postal_code": "99771",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.14",
+        "name": "Der Koumur"
+      }
+    },
+    {
+      "id": "93.04.14.2006",
+      "name": "Erosaman",
+      "postal_code": "99771",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.14",
+        "name": "Der Koumur"
+      }
+    },
+    {
+      "id": "93.04.22.2001",
+      "name": "Yerfum",
+      "postal_code": "99771",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.22",
+        "name": "Awyu"
+      }
+    },
+    {
+      "id": "93.04.22.2002",
+      "name": "Suagai",
+      "postal_code": "99771",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.22",
+        "name": "Awyu"
+      }
+    },
+    {
+      "id": "93.04.22.2003",
+      "name": "Sohomane",
+      "postal_code": "99771",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.22",
+        "name": "Awyu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

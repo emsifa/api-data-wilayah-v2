@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "92.07.03.2001",
+      "name": "Aisandami",
+      "postal_code": "98345",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.07",
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "district": {
+        "id": "92.07.03",
+        "name": "Teluk Duairi"
+      }
+    },
+    {
+      "id": "92.07.03.2002",
+      "name": "Sobey",
+      "postal_code": "98345",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.07",
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "district": {
+        "id": "92.07.03",
+        "name": "Teluk Duairi"
+      }
+    },
+    {
+      "id": "92.07.03.2006",
+      "name": "Yopanggar",
+      "postal_code": "98345",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.07",
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "district": {
+        "id": "92.07.03",
+        "name": "Teluk Duairi"
+      }
+    },
+    {
+      "id": "92.07.03.2011",
+      "name": "Sobey Indah",
+      "postal_code": "98345",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.07",
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "district": {
+        "id": "92.07.03",
+        "name": "Teluk Duairi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

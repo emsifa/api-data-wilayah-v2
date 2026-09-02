@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.04.03.2027",
+    "name": "Tanjung Betung II",
+    "postal_code": "38956",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.04",
+      "name": "Kabupaten Kaur"
+    },
+    "district": {
+      "id": "17.04.03",
+      "name": "Kaur Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.03.21.2012",
+    "name": "Gunung Besar",
+    "postal_code": "38611",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.03",
+      "name": "Kabupaten Bengkulu Utara"
+    },
+    "district": {
+      "id": "17.03.21",
+      "name": "Arma Jaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

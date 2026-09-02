@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "21.71.02.1003",
+      "name": "Batu Merah",
+      "postal_code": "29452",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.71",
+        "name": "Kota Batam"
+      },
+      "district": {
+        "id": "21.71.02",
+        "name": "Batu Ampar"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "21.72.04.1002",
+      "name": "Dompak",
+      "postal_code": "29124",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.72",
+        "name": "Kota Tanjung Pinang"
+      },
+      "district": {
+        "id": "21.72.04",
+        "name": "Bukit Bestari"
+      }
+    },
+    {
+      "id": "21.72.04.1003",
+      "name": "Tanjung Ayun Sakti",
+      "postal_code": "29124",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.72",
+        "name": "Kota Tanjung Pinang"
+      },
+      "district": {
+        "id": "21.72.04",
+        "name": "Bukit Bestari"
+      }
+    },
+    {
+      "id": "21.72.04.1004",
+      "name": "Sei Jang",
+      "postal_code": "29124",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.72",
+        "name": "Kota Tanjung Pinang"
+      },
+      "district": {
+        "id": "21.72.04",
+        "name": "Bukit Bestari"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.01.15.2007",
+    "name": "Madura",
+    "postal_code": "53265",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.01",
+      "name": "Kabupaten Cilacap"
+    },
+    "district": {
+      "id": "33.01.15",
+      "name": "Wanareja"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

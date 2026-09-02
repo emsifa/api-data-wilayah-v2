@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.16.03.2014",
+    "name": "Johar",
+    "postal_code": "24476",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.16",
+      "name": "Kabupaten Aceh Tamiang"
+    },
+    "district": {
+      "id": "11.16.03",
+      "name": "Karang Baru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

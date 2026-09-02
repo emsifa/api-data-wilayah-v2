@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "35.03.11.2001",
+      "name": "Ngares",
+      "postal_code": "66319",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.03",
+        "name": "Kabupaten Trenggalek"
+      },
+      "district": {
+        "id": "35.03.11",
+        "name": "Trenggalek"
+      }
+    },
+    {
+      "id": "35.03.11.2004",
+      "name": "Karangsoko",
+      "postal_code": "66319",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.03",
+        "name": "Kabupaten Trenggalek"
+      },
+      "district": {
+        "id": "35.03.11",
+        "name": "Trenggalek"
+      }
+    },
+    {
+      "id": "35.03.11.2009",
+      "name": "Sumberdadi",
+      "postal_code": "66319",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.03",
+        "name": "Kabupaten Trenggalek"
+      },
+      "district": {
+        "id": "35.03.11",
+        "name": "Trenggalek"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

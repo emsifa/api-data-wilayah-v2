@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.11.04.2003",
+    "name": "Bumi Harapan",
+    "postal_code": "34694",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.11",
+      "name": "Kabupaten Mesuji"
+    },
+    "district": {
+      "id": "18.11.04",
+      "name": "Way Serdang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

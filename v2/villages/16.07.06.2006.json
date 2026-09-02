@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.07.06.2006",
+    "name": "Suka Pindah",
+    "postal_code": "30967",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.07",
+      "name": "Kabupaten Banyuasin"
+    },
+    "district": {
+      "id": "16.07.06",
+      "name": "Rambutan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

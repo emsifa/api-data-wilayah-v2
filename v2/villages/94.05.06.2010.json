@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.05.06.2010",
+    "name": "Gingga Baru",
+    "postal_code": "98977",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.05",
+      "name": "Kabupaten Puncak"
+    },
+    "district": {
+      "id": "94.05.06",
+      "name": "Sinak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

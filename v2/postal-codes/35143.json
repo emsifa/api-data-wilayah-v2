@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "18.71.11.1002",
+      "name": "Way Kandis",
+      "postal_code": "35143",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.11",
+        "name": "Tanjung Senang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

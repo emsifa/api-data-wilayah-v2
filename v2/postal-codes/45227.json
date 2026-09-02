@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "32.12.16.2009",
+      "name": "Babadan",
+      "postal_code": "45227",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.16",
+        "name": "Sindang"
+      }
+    },
+    {
+      "id": "32.12.16.2014",
+      "name": "Wanantara",
+      "postal_code": "45227",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.16",
+        "name": "Sindang"
+      }
+    },
+    {
+      "id": "32.12.29.2003",
+      "name": "Pagirikan",
+      "postal_code": "45227",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.29",
+        "name": "Pasekan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

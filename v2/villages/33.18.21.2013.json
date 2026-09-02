@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.18.21.2013",
+    "name": "Rejoagung",
+    "postal_code": "59153",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.18",
+      "name": "Kabupaten Pati"
+    },
+    "district": {
+      "id": "33.18.21",
+      "name": "Trangkil"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.06.15.2006",
+    "name": "Sampungu",
+    "postal_code": "84163",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.06",
+      "name": "Kabupaten Bima"
+    },
+    "district": {
+      "id": "52.06.15",
+      "name": "Soromandi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

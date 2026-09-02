@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.04.27.2011",
+    "name": "Bahari Makmur",
+    "postal_code": "93758",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.04",
+      "name": "Kabupaten Buton"
+    },
+    "district": {
+      "id": "74.04.27",
+      "name": "Siotapina"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

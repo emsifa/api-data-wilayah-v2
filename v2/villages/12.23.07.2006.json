@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.23.07.2006",
+    "name": "Perk. Aek Pamienke",
+    "postal_code": "21456",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.23",
+      "name": "Kabupaten Labuhanbatu Utara"
+    },
+    "district": {
+      "id": "12.23.07",
+      "name": "Aek Natas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

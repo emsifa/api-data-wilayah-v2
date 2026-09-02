@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.07.18.2017",
+    "name": "Tondoh",
+    "postal_code": "75774",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.07",
+      "name": "Kabupaten Kutai Barat"
+    },
+    "district": {
+      "id": "64.07.18",
+      "name": "Mook Manaar Bulatn"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

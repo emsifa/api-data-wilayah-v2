@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.74.05.1004",
+    "name": "Drajat",
+    "postal_code": "45133",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.74",
+      "name": "Kota Cirebon"
+    },
+    "district": {
+      "id": "32.74.05",
+      "name": "Kesambi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

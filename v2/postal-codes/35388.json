@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "18.06.17.2001",
+      "name": "Negeri Kelumbayan",
+      "postal_code": "35388",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.06",
+        "name": "Kabupaten Tanggamus"
+      },
+      "district": {
+        "id": "18.06.17",
+        "name": "Kelumbayan"
+      }
+    },
+    {
+      "id": "18.06.17.2002",
+      "name": "Pekon Susuk",
+      "postal_code": "35388",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.06",
+        "name": "Kabupaten Tanggamus"
+      },
+      "district": {
+        "id": "18.06.17",
+        "name": "Kelumbayan"
+      }
+    },
+    {
+      "id": "18.06.17.2003",
+      "name": "Napal",
+      "postal_code": "35388",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.06",
+        "name": "Kabupaten Tanggamus"
+      },
+      "district": {
+        "id": "18.06.17",
+        "name": "Kelumbayan"
+      }
+    },
+    {
+      "id": "18.06.17.2005",
+      "name": "Pekon Unggak",
+      "postal_code": "35388",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.06",
+        "name": "Kabupaten Tanggamus"
+      },
+      "district": {
+        "id": "18.06.17",
+        "name": "Kelumbayan"
+      }
+    },
+    {
+      "id": "18.06.17.2006",
+      "name": "Penyandingan",
+      "postal_code": "35388",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.06",
+        "name": "Kabupaten Tanggamus"
+      },
+      "district": {
+        "id": "18.06.17",
+        "name": "Kelumbayan"
+      }
+    },
+    {
+      "id": "18.06.17.2009",
+      "name": "Paku",
+      "postal_code": "35388",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.06",
+        "name": "Kabupaten Tanggamus"
+      },
+      "district": {
+        "id": "18.06.17",
+        "name": "Kelumbayan"
+      }
+    },
+    {
+      "id": "18.06.17.2010",
+      "name": "Umbar",
+      "postal_code": "35388",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.06",
+        "name": "Kabupaten Tanggamus"
+      },
+      "district": {
+        "id": "18.06.17",
+        "name": "Kelumbayan"
+      }
+    },
+    {
+      "id": "18.06.17.2012",
+      "name": "Kiluan Negeri",
+      "postal_code": "35388",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.06",
+        "name": "Kabupaten Tanggamus"
+      },
+      "district": {
+        "id": "18.06.17",
+        "name": "Kelumbayan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.17.21.2003",
+    "name": "Buntu Karya",
+    "postal_code": "91989",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.17",
+      "name": "Kabupaten Luwu"
+    },
+    "district": {
+      "id": "73.17.21",
+      "name": "Ponrang Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

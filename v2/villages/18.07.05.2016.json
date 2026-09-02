@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.07.05.2016",
+    "name": "Mekar Mukti",
+    "postal_code": "34382",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.07",
+      "name": "Kabupaten Lampung Timur"
+    },
+    "district": {
+      "id": "18.07.05",
+      "name": "Sekampung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

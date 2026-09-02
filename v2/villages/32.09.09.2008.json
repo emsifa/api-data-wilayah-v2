@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.09.09.2008",
+    "name": "Putat",
+    "postal_code": "45189",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.09",
+      "name": "Kabupaten Cirebon"
+    },
+    "district": {
+      "id": "32.09.09",
+      "name": "Sedong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

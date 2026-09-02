@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "36.03.17.1001",
+      "name": "Curug Kulon",
+      "postal_code": "15810",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.17",
+        "name": "Curug"
+      }
+    },
+    {
+      "id": "36.03.17.1005",
+      "name": "Sukabakti",
+      "postal_code": "15810",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.17",
+        "name": "Curug"
+      }
+    },
+    {
+      "id": "36.03.17.1006",
+      "name": "Binong",
+      "postal_code": "15810",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.17",
+        "name": "Curug"
+      }
+    },
+    {
+      "id": "36.03.17.2002",
+      "name": "Curug Wetan",
+      "postal_code": "15810",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.17",
+        "name": "Curug"
+      }
+    },
+    {
+      "id": "36.03.17.2003",
+      "name": "Kadu",
+      "postal_code": "15810",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.17",
+        "name": "Curug"
+      }
+    },
+    {
+      "id": "36.03.17.2004",
+      "name": "Kadu Jaya",
+      "postal_code": "15810",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.17",
+        "name": "Curug"
+      }
+    },
+    {
+      "id": "36.03.17.2010",
+      "name": "Cukanggalih",
+      "postal_code": "15810",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.17",
+        "name": "Curug"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

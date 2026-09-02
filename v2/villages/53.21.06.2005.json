@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.21.06.2005",
+    "name": "Bani-Bani",
+    "postal_code": "85768",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.21",
+      "name": "Kabupaten Malaka"
+    },
+    "district": {
+      "id": "53.21.06",
+      "name": "Io Kufeu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

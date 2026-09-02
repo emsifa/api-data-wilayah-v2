@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.71.05.1007",
+    "name": "Tanah Baru",
+    "postal_code": "16154",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.71",
+      "name": "Kota Bogor"
+    },
+    "district": {
+      "id": "32.71.05",
+      "name": "Bogor Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

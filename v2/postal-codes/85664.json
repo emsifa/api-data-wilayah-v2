@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "53.03.04.2001",
+      "name": "Bijeli",
+      "postal_code": "85664",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.04",
+        "name": "Noemuti"
+      }
+    },
+    {
+      "id": "53.03.04.2002",
+      "name": "Noebaun",
+      "postal_code": "85664",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.04",
+        "name": "Noemuti"
+      }
+    },
+    {
+      "id": "53.03.04.2003",
+      "name": "Seo",
+      "postal_code": "85664",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.04",
+        "name": "Noemuti"
+      }
+    },
+    {
+      "id": "53.03.04.2004",
+      "name": "Popnam",
+      "postal_code": "85664",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.04",
+        "name": "Noemuti"
+      }
+    },
+    {
+      "id": "53.03.04.2009",
+      "name": "Nibaaf",
+      "postal_code": "85664",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.04",
+        "name": "Noemuti"
+      }
+    },
+    {
+      "id": "53.03.04.2010",
+      "name": "Banfanu",
+      "postal_code": "85664",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.04",
+        "name": "Noemuti"
+      }
+    },
+    {
+      "id": "53.03.04.2016",
+      "name": "Oeperigi",
+      "postal_code": "85664",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.04",
+        "name": "Noemuti"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

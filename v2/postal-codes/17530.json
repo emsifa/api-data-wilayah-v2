@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "32.16.08.1008",
+      "name": "Telaga Asih",
+      "postal_code": "17530",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.08",
+        "name": "Cikarang Barat"
+      }
+    },
+    {
+      "id": "32.16.08.2001",
+      "name": "Telagamurni",
+      "postal_code": "17530",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.08",
+        "name": "Cikarang Barat"
+      }
+    },
+    {
+      "id": "32.16.08.2002",
+      "name": "Mekarwangi",
+      "postal_code": "17530",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.08",
+        "name": "Cikarang Barat"
+      }
+    },
+    {
+      "id": "32.16.08.2003",
+      "name": "Jatiwangi",
+      "postal_code": "17530",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.08",
+        "name": "Cikarang Barat"
+      }
+    },
+    {
+      "id": "32.16.08.2004",
+      "name": "Danau Indah",
+      "postal_code": "17530",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.08",
+        "name": "Cikarang Barat"
+      }
+    },
+    {
+      "id": "32.16.08.2005",
+      "name": "Gandamekar",
+      "postal_code": "17530",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.08",
+        "name": "Cikarang Barat"
+      }
+    },
+    {
+      "id": "32.16.08.2006",
+      "name": "Gandasari",
+      "postal_code": "17530",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.08",
+        "name": "Cikarang Barat"
+      }
+    },
+    {
+      "id": "32.16.08.2007",
+      "name": "Sukadanau",
+      "postal_code": "17530",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.08",
+        "name": "Cikarang Barat"
+      }
+    },
+    {
+      "id": "32.16.08.2009",
+      "name": "Kalijaya",
+      "postal_code": "17530",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.08",
+        "name": "Cikarang Barat"
+      }
+    },
+    {
+      "id": "32.16.08.2010",
+      "name": "Telajung",
+      "postal_code": "17530",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.08",
+        "name": "Cikarang Barat"
+      }
+    },
+    {
+      "id": "32.16.08.2011",
+      "name": "Cikedokan",
+      "postal_code": "17530",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.08",
+        "name": "Cikarang Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

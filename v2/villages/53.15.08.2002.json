@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.15.08.2002",
+    "name": "Tentang",
+    "postal_code": "86750",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.15",
+      "name": "Kabupaten Manggarai Barat"
+    },
+    "district": {
+      "id": "53.15.08",
+      "name": "Ndoso"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

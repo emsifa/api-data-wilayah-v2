@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "81.71.02.1015",
+      "name": "Batu Meja",
+      "postal_code": "97125",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.71",
+        "name": "Kota Ambon"
+      },
+      "district": {
+        "id": "81.71.02",
+        "name": "Sirimau"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

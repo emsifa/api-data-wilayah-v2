@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "96.04.11.2005",
+    "name": "Ifat Mitu",
+    "postal_code": "98374",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.04",
+      "name": "Kabupaten Tambrauw"
+    },
+    "district": {
+      "id": "96.04.11",
+      "name": "Senopi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.07.13.2027",
+    "name": "Balee Busu",
+    "postal_code": "24173",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.07",
+      "name": "Kabupaten Pidie"
+    },
+    "district": {
+      "id": "11.07.13",
+      "name": "Mutiara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

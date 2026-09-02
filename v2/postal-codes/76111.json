@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "64.71.06.1001",
+      "name": "Prapatan",
+      "postal_code": "76111",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.71",
+        "name": "Kota Balikpapan"
+      },
+      "district": {
+        "id": "64.71.06",
+        "name": "Balikpapan Kota"
+      }
+    },
+    {
+      "id": "64.71.06.1002",
+      "name": "Telaga Sari",
+      "postal_code": "76111",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.71",
+        "name": "Kota Balikpapan"
+      },
+      "district": {
+        "id": "64.71.06",
+        "name": "Balikpapan Kota"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

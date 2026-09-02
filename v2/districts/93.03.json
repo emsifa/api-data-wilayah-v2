@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "93.03",
+    "name": "Kabupaten Mappi",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.03",
+      "name": "Kabupaten Mappi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

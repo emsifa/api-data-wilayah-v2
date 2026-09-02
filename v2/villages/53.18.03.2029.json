@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.18.03.2029",
+    "name": "Kadi Wone",
+    "postal_code": "87250",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.18",
+      "name": "Kabupaten Sumba Barat Daya"
+    },
+    "district": {
+      "id": "53.18.03",
+      "name": "Wewewa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

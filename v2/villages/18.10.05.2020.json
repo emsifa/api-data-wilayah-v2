@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.10.05.2020",
+    "name": "Gemah Ripah",
+    "postal_code": "35375",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.10",
+      "name": "Kabupaten Pringsewu"
+    },
+    "district": {
+      "id": "18.10.05",
+      "name": "Pagelaran"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

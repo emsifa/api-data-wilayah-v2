@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.02.13.2004",
+    "name": "Pinang Merah",
+    "postal_code": "37318",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.02",
+      "name": "Kabupaten Merangin"
+    },
+    "district": {
+      "id": "15.02.13",
+      "name": "Pamenang Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "19.01.01.1001",
+      "name": "Sungailiat",
+      "postal_code": "33211",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.01",
+        "name": "Sungailiat"
+      }
+    },
+    {
+      "id": "19.01.01.1005",
+      "name": "Kenanga",
+      "postal_code": "33211",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.01",
+        "name": "Sungailiat"
+      }
+    },
+    {
+      "id": "19.01.01.1010",
+      "name": "Jelitik",
+      "postal_code": "33211",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.01",
+        "name": "Sungailiat"
+      }
+    },
+    {
+      "id": "19.01.01.1011",
+      "name": "Surya Timur",
+      "postal_code": "33211",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.01",
+        "name": "Sungailiat"
+      }
+    },
+    {
+      "id": "19.01.01.1012",
+      "name": "Lubuk Kelik",
+      "postal_code": "33211",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.01",
+        "name": "Sungailiat"
+      }
+    },
+    {
+      "id": "19.01.01.1013",
+      "name": "Bukit Betung",
+      "postal_code": "33211",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.01",
+        "name": "Sungailiat"
+      }
+    },
+    {
+      "id": "19.01.01.2007",
+      "name": "Rebo",
+      "postal_code": "33211",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.01",
+        "name": "Sungailiat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "93.04.18.2001",
+      "name": "Comoro",
+      "postal_code": "99776",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.18",
+        "name": "Ayib"
+      }
+    },
+    {
+      "id": "93.04.18.2002",
+      "name": "Kawet",
+      "postal_code": "99776",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.18",
+        "name": "Ayib"
+      }
+    },
+    {
+      "id": "93.04.18.2003",
+      "name": "Mausi",
+      "postal_code": "99776",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.18",
+        "name": "Ayib"
+      }
+    },
+    {
+      "id": "93.04.18.2004",
+      "name": "Sato Yod",
+      "postal_code": "99776",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.18",
+        "name": "Ayib"
+      }
+    },
+    {
+      "id": "93.04.18.2005",
+      "name": "Tamor",
+      "postal_code": "99776",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.18",
+        "name": "Ayib"
+      }
+    },
+    {
+      "id": "93.04.18.2006",
+      "name": "Ero Airo",
+      "postal_code": "99776",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.18",
+        "name": "Ayib"
+      }
+    },
+    {
+      "id": "93.04.22.2004",
+      "name": "Sagare",
+      "postal_code": "99776",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.22",
+        "name": "Awyu"
+      }
+    },
+    {
+      "id": "93.04.22.2005",
+      "name": "Yefuwagi",
+      "postal_code": "99776",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.22",
+        "name": "Awyu"
+      }
+    },
+    {
+      "id": "93.04.22.2006",
+      "name": "Wagi",
+      "postal_code": "99776",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.22",
+        "name": "Awyu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

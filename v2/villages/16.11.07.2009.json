@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.11.07.2009",
+    "name": "Talang Randai",
+    "postal_code": "31595",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.11",
+      "name": "Kabupaten Empat Lawang"
+    },
+    "district": {
+      "id": "16.11.07",
+      "name": "Pasemah Air Keruh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

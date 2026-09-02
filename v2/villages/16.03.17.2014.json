@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.03.17.2014",
+    "name": "Lubuk Enau",
+    "postal_code": "31177",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.03",
+      "name": "Kabupaten Muara Enim"
+    },
+    "district": {
+      "id": "16.03.17",
+      "name": "Lembak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

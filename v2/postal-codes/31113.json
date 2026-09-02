@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "16.74.02.1006",
+      "name": "Muara Dua",
+      "postal_code": "31113",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.74",
+        "name": "Kota Prabumulih"
+      },
+      "district": {
+        "id": "16.74.02",
+        "name": "Prabumulih Timur"
+      }
+    },
+    {
+      "id": "16.74.02.1007",
+      "name": "Gunung Ibul",
+      "postal_code": "31113",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.74",
+        "name": "Kota Prabumulih"
+      },
+      "district": {
+        "id": "16.74.02",
+        "name": "Prabumulih Timur"
+      }
+    },
+    {
+      "id": "16.74.02.1011",
+      "name": "Muara Dua Barat",
+      "postal_code": "31113",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.74",
+        "name": "Kota Prabumulih"
+      },
+      "district": {
+        "id": "16.74.02",
+        "name": "Prabumulih Timur"
+      }
+    },
+    {
+      "id": "16.74.02.1012",
+      "name": "Gunung Ibul Timur",
+      "postal_code": "31113",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.74",
+        "name": "Kota Prabumulih"
+      },
+      "district": {
+        "id": "16.74.02",
+        "name": "Prabumulih Timur"
+      }
+    },
+    {
+      "id": "16.74.02.1013",
+      "name": "Gunung Ibul Selatan",
+      "postal_code": "31113",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.74",
+        "name": "Kota Prabumulih"
+      },
+      "district": {
+        "id": "16.74.02",
+        "name": "Prabumulih Timur"
+      }
+    },
+    {
+      "id": "16.74.02.1014",
+      "name": "Gunung Ibul Utara",
+      "postal_code": "31113",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.74",
+        "name": "Kota Prabumulih"
+      },
+      "district": {
+        "id": "16.74.02",
+        "name": "Prabumulih Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

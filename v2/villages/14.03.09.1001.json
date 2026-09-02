@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.03.09.1001",
+    "name": "Air Jamban",
+    "postal_code": "28783",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.03",
+      "name": "Kabupaten Bengkalis"
+    },
+    "district": {
+      "id": "14.03.09",
+      "name": "Mandau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

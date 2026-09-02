@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "15.08.16.2001",
+      "name": "Tepian Danto",
+      "postal_code": "37257",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.08",
+        "name": "Kabupaten Bungo"
+      },
+      "district": {
+        "id": "15.08.16",
+        "name": "Jujuhan Ilir"
+      }
+    },
+    {
+      "id": "15.08.16.2002",
+      "name": "Aur Gading",
+      "postal_code": "37257",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.08",
+        "name": "Kabupaten Bungo"
+      },
+      "district": {
+        "id": "15.08.16",
+        "name": "Jujuhan Ilir"
+      }
+    },
+    {
+      "id": "15.08.16.2003",
+      "name": "Pulau Batu",
+      "postal_code": "37257",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.08",
+        "name": "Kabupaten Bungo"
+      },
+      "district": {
+        "id": "15.08.16",
+        "name": "Jujuhan Ilir"
+      }
+    },
+    {
+      "id": "15.08.16.2004",
+      "name": "Sari Mulya",
+      "postal_code": "37257",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.08",
+        "name": "Kabupaten Bungo"
+      },
+      "district": {
+        "id": "15.08.16",
+        "name": "Jujuhan Ilir"
+      }
+    },
+    {
+      "id": "15.08.16.2005",
+      "name": "Bukit Sari",
+      "postal_code": "37257",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.08",
+        "name": "Kabupaten Bungo"
+      },
+      "district": {
+        "id": "15.08.16",
+        "name": "Jujuhan Ilir"
+      }
+    },
+    {
+      "id": "15.08.16.2006",
+      "name": "Lubuk Tenam",
+      "postal_code": "37257",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.08",
+        "name": "Kabupaten Bungo"
+      },
+      "district": {
+        "id": "15.08.16",
+        "name": "Jujuhan Ilir"
+      }
+    },
+    {
+      "id": "15.08.16.2007",
+      "name": "Kuamang",
+      "postal_code": "37257",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.08",
+        "name": "Kabupaten Bungo"
+      },
+      "district": {
+        "id": "15.08.16",
+        "name": "Jujuhan Ilir"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

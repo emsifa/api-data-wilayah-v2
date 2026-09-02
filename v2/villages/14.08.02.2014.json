@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.08.02.2014",
+    "name": "Teluk Batil",
+    "postal_code": "28662",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.08",
+      "name": "Kabupaten Siak"
+    },
+    "district": {
+      "id": "14.08.02",
+      "name": "Sungai Apit"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

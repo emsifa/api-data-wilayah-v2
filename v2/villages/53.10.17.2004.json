@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.10.17.2004",
+    "name": "Golo Lanak",
+    "postal_code": "86590",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.10",
+      "name": "Kabupaten Manggarai"
+    },
+    "district": {
+      "id": "53.10.17",
+      "name": "Cibal barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.03.29.2008",
+    "name": "Caringin",
+    "postal_code": "43284",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.03",
+      "name": "Kabupaten Cianjur"
+    },
+    "district": {
+      "id": "32.03.29",
+      "name": "Cijati"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

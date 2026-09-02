@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.77.01.1008",
+    "name": "Batang Ayumi Julu",
+    "postal_code": "22711",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.77",
+      "name": "Kota Padangsidimpuan"
+    },
+    "district": {
+      "id": "12.77.01",
+      "name": "Padangsidimpuan Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

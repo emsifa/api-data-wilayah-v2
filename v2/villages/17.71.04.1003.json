@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.71.04.1003",
+    "name": "Pematang Gubernur",
+    "postal_code": "38125",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.71",
+      "name": "Kota Bengkulu"
+    },
+    "district": {
+      "id": "17.71.04",
+      "name": "Muara Bangka Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

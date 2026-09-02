@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.15.05.2019",
+    "name": "Gunong Cut",
+    "postal_code": "23662",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.15",
+      "name": "Kabupaten Nagan Raya"
+    },
+    "district": {
+      "id": "11.15.05",
+      "name": "Darul Makmur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

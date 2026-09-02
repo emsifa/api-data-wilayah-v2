@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.04.01.2016",
+    "name": "Simpang Rantau Gedang",
+    "postal_code": "36654",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.04",
+      "name": "Kabupaten Batanghari"
+    },
+    "district": {
+      "id": "15.04.01",
+      "name": "Mersam"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "91.05.14.2002",
+    "name": "Jeniari",
+    "postal_code": "98646",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.05",
+      "name": "Kabupaten Kepulauan Yapen"
+    },
+    "district": {
+      "id": "91.05.14",
+      "name": "Pulau Yerui"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

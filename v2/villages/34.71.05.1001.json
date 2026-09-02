@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.71.05.1001",
+    "name": "Sosromenduran",
+    "postal_code": "55271",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.71",
+      "name": "Kota Yogyakarta"
+    },
+    "district": {
+      "id": "34.71.05",
+      "name": "Gedongtengen"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

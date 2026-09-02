@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.14.06.2002",
+    "name": "Kuta Tuha",
+    "postal_code": "23653",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.14",
+      "name": "Kabupaten Aceh Jaya"
+    },
+    "district": {
+      "id": "11.14.06",
+      "name": "Panga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

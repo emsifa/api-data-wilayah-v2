@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.08.06.2008",
+    "name": "Waikoka",
+    "postal_code": "97794",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.08",
+      "name": "Kabupaten Pulau Taliabu"
+    },
+    "district": {
+      "id": "82.08.06",
+      "name": "Taliabu Timur Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

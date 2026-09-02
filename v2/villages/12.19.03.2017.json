@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.19.03.2017",
+    "name": "Perkotaan",
+    "postal_code": "21256",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.19",
+      "name": "Kabupaten Batu Bara"
+    },
+    "district": {
+      "id": "12.19.03",
+      "name": "Air Putih"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

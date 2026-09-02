@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "13.02.10.2001",
+      "name": "Koto Baru",
+      "postal_code": "27361",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.02",
+        "name": "Kabupaten Solok"
+      },
+      "district": {
+        "id": "13.02.10",
+        "name": "Kubung"
+      }
+    },
+    {
+      "id": "13.02.10.2002",
+      "name": "Selayo",
+      "postal_code": "27361",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.02",
+        "name": "Kabupaten Solok"
+      },
+      "district": {
+        "id": "13.02.10",
+        "name": "Kubung"
+      }
+    },
+    {
+      "id": "13.02.10.2003",
+      "name": "Panyakalan",
+      "postal_code": "27361",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.02",
+        "name": "Kabupaten Solok"
+      },
+      "district": {
+        "id": "13.02.10",
+        "name": "Kubung"
+      }
+    },
+    {
+      "id": "13.02.10.2004",
+      "name": "Gaung",
+      "postal_code": "27361",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.02",
+        "name": "Kabupaten Solok"
+      },
+      "district": {
+        "id": "13.02.10",
+        "name": "Kubung"
+      }
+    },
+    {
+      "id": "13.02.10.2005",
+      "name": "Gantuang Ciri",
+      "postal_code": "27361",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.02",
+        "name": "Kabupaten Solok"
+      },
+      "district": {
+        "id": "13.02.10",
+        "name": "Kubung"
+      }
+    },
+    {
+      "id": "13.02.10.2006",
+      "name": "Saok Laweh",
+      "postal_code": "27361",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.02",
+        "name": "Kabupaten Solok"
+      },
+      "district": {
+        "id": "13.02.10",
+        "name": "Kubung"
+      }
+    },
+    {
+      "id": "13.02.10.2007",
+      "name": "Koto Hilalang",
+      "postal_code": "27361",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.02",
+        "name": "Kabupaten Solok"
+      },
+      "district": {
+        "id": "13.02.10",
+        "name": "Kubung"
+      }
+    },
+    {
+      "id": "13.02.10.2008",
+      "name": "Tanjung Bingkung",
+      "postal_code": "27361",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.02",
+        "name": "Kabupaten Solok"
+      },
+      "district": {
+        "id": "13.02.10",
+        "name": "Kubung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

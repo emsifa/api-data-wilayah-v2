@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.01.07.2003",
+    "name": "Kedungsari",
+    "postal_code": "55652",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.01",
+      "name": "Kabupaten Kulon Progo"
+    },
+    "district": {
+      "id": "34.01.07",
+      "name": "Pengasih"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

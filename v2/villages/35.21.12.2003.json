@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.21.12.2003",
+    "name": "Sekaralas",
+    "postal_code": "63256",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.21",
+      "name": "Kabupaten Ngawi"
+    },
+    "district": {
+      "id": "35.21.12",
+      "name": "Widodaren"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

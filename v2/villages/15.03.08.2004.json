@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.03.08.2004",
+    "name": "Tanjung",
+    "postal_code": "37480",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.03",
+      "name": "Kabupaten Sarolangun"
+    },
+    "district": {
+      "id": "15.03.08",
+      "name": "Bathin VIII"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

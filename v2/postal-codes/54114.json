@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "33.06.06.1013",
+      "name": "Pangenjurutengah",
+      "postal_code": "54114",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.06",
+        "name": "Kabupaten Purworejo"
+      },
+      "district": {
+        "id": "33.06.06",
+        "name": "Purworejo"
+      }
+    },
+    {
+      "id": "33.06.06.1014",
+      "name": "Doplang",
+      "postal_code": "54114",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.06",
+        "name": "Kabupaten Purworejo"
+      },
+      "district": {
+        "id": "33.06.06",
+        "name": "Purworejo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

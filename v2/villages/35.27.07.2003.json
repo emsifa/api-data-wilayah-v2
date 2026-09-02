@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.27.07.2003",
+    "name": "Asemnonggal",
+    "postal_code": "69272",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.27",
+      "name": "Kabupaten Sampang"
+    },
+    "district": {
+      "id": "35.27.07",
+      "name": "Jrengik"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

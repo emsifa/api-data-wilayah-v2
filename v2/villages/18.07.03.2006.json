@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.07.03.2006",
+    "name": "Pematang Tahalo",
+    "postal_code": "34384",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.07",
+      "name": "Kabupaten Lampung Timur"
+    },
+    "district": {
+      "id": "18.07.03",
+      "name": "Jabung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

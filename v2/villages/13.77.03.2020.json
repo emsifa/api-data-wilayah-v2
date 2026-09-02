@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "13.77.03.2020",
+    "name": "Punggung Lading",
+    "postal_code": "25533",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.77",
+      "name": "Kota Pariaman"
+    },
+    "district": {
+      "id": "13.77.03",
+      "name": "Pariaman Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

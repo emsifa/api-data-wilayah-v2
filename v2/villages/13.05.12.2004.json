@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "13.05.12.2004",
+    "name": "Koto Dalam Barat",
+    "postal_code": "25573",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.05",
+      "name": "Kabupaten Padang Pariaman"
+    },
+    "district": {
+      "id": "13.05.12",
+      "name": "VII Koto Padang Sago"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

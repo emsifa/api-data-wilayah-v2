@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.05.06.2003",
+    "name": "Ulidang",
+    "postal_code": "91450",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.05",
+      "name": "Kabupaten Majene"
+    },
+    "district": {
+      "id": "76.05.06",
+      "name": "Tammerodo Sendana"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

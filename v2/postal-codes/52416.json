@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "33.28.10.2001",
+      "name": "Kalisapu",
+      "postal_code": "52416",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.28",
+        "name": "Kabupaten Tegal"
+      },
+      "district": {
+        "id": "33.28.10",
+        "name": "Slawi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

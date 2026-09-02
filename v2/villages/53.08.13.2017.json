@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.08.13.2017",
+    "name": "Nuanaga",
+    "postal_code": "86111",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.08",
+      "name": "Kabupaten Ende"
+    },
+    "district": {
+      "id": "53.08.13",
+      "name": "Kota Baru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

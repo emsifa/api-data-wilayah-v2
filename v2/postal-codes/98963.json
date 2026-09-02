@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "94.05.08.2002",
+      "name": "Misimaga",
+      "postal_code": "98963",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.05",
+        "name": "Kabupaten Puncak"
+      },
+      "district": {
+        "id": "94.05.08",
+        "name": "Gome"
+      }
+    },
+    {
+      "id": "94.05.08.2004",
+      "name": "Agiyome",
+      "postal_code": "98963",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.05",
+        "name": "Kabupaten Puncak"
+      },
+      "district": {
+        "id": "94.05.08",
+        "name": "Gome"
+      }
+    },
+    {
+      "id": "94.05.08.2006",
+      "name": "Wako",
+      "postal_code": "98963",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.05",
+        "name": "Kabupaten Puncak"
+      },
+      "district": {
+        "id": "94.05.08",
+        "name": "Gome"
+      }
+    },
+    {
+      "id": "94.05.08.2007",
+      "name": "Tegelobak",
+      "postal_code": "98963",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.05",
+        "name": "Kabupaten Puncak"
+      },
+      "district": {
+        "id": "94.05.08",
+        "name": "Gome"
+      }
+    },
+    {
+      "id": "94.05.08.2008",
+      "name": "Ninggabuma",
+      "postal_code": "98963",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.05",
+        "name": "Kabupaten Puncak"
+      },
+      "district": {
+        "id": "94.05.08",
+        "name": "Gome"
+      }
+    },
+    {
+      "id": "94.05.08.2009",
+      "name": "Kelanungin",
+      "postal_code": "98963",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.05",
+        "name": "Kabupaten Puncak"
+      },
+      "district": {
+        "id": "94.05.08",
+        "name": "Gome"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

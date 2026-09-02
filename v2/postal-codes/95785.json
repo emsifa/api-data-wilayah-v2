@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "71.10.06.2001",
+      "name": "Motongkad Utara",
+      "postal_code": "95785",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.10",
+        "name": "Kabupaten Bolaang Mongondow Timur"
+      },
+      "district": {
+        "id": "71.10.06",
+        "name": "Motongkad"
+      }
+    },
+    {
+      "id": "71.10.06.2002",
+      "name": "Motongkad",
+      "postal_code": "95785",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.10",
+        "name": "Kabupaten Bolaang Mongondow Timur"
+      },
+      "district": {
+        "id": "71.10.06",
+        "name": "Motongkad"
+      }
+    },
+    {
+      "id": "71.10.06.2003",
+      "name": "Motongkad Selatan",
+      "postal_code": "95785",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.10",
+        "name": "Kabupaten Bolaang Mongondow Timur"
+      },
+      "district": {
+        "id": "71.10.06",
+        "name": "Motongkad"
+      }
+    },
+    {
+      "id": "71.10.06.2004",
+      "name": "Atoga",
+      "postal_code": "95785",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.10",
+        "name": "Kabupaten Bolaang Mongondow Timur"
+      },
+      "district": {
+        "id": "71.10.06",
+        "name": "Motongkad"
+      }
+    },
+    {
+      "id": "71.10.06.2005",
+      "name": "Atoga Timur",
+      "postal_code": "95785",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.10",
+        "name": "Kabupaten Bolaang Mongondow Timur"
+      },
+      "district": {
+        "id": "71.10.06",
+        "name": "Motongkad"
+      }
+    },
+    {
+      "id": "71.10.06.2006",
+      "name": "Motongkad Tengah",
+      "postal_code": "95785",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.10",
+        "name": "Kabupaten Bolaang Mongondow Timur"
+      },
+      "district": {
+        "id": "71.10.06",
+        "name": "Motongkad"
+      }
+    },
+    {
+      "id": "71.10.06.2007",
+      "name": "Molobog",
+      "postal_code": "95785",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.10",
+        "name": "Kabupaten Bolaang Mongondow Timur"
+      },
+      "district": {
+        "id": "71.10.06",
+        "name": "Motongkad"
+      }
+    },
+    {
+      "id": "71.10.06.2008",
+      "name": "Molobog Barat",
+      "postal_code": "95785",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.10",
+        "name": "Kabupaten Bolaang Mongondow Timur"
+      },
+      "district": {
+        "id": "71.10.06",
+        "name": "Motongkad"
+      }
+    },
+    {
+      "id": "71.10.06.2009",
+      "name": "Jiko",
+      "postal_code": "95785",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.10",
+        "name": "Kabupaten Bolaang Mongondow Timur"
+      },
+      "district": {
+        "id": "71.10.06",
+        "name": "Motongkad"
+      }
+    },
+    {
+      "id": "71.10.06.2010",
+      "name": "Jiko Utara",
+      "postal_code": "95785",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.10",
+        "name": "Kabupaten Bolaang Mongondow Timur"
+      },
+      "district": {
+        "id": "71.10.06",
+        "name": "Motongkad"
+      }
+    },
+    {
+      "id": "71.10.06.2011",
+      "name": "Molobog Timur",
+      "postal_code": "95785",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.10",
+        "name": "Kabupaten Bolaang Mongondow Timur"
+      },
+      "district": {
+        "id": "71.10.06",
+        "name": "Motongkad"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

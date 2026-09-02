@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "95.02.14.2001",
+      "name": "Oksop",
+      "postal_code": "99416",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.14",
+        "name": "Oksop"
+      }
+    },
+    {
+      "id": "95.02.14.2002",
+      "name": "Mimin",
+      "postal_code": "99416",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.14",
+        "name": "Oksop"
+      }
+    },
+    {
+      "id": "95.02.14.2003",
+      "name": "Atenor",
+      "postal_code": "99416",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.14",
+        "name": "Oksop"
+      }
+    },
+    {
+      "id": "95.02.14.2004",
+      "name": "Oktumi",
+      "postal_code": "99416",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.14",
+        "name": "Oksop"
+      }
+    },
+    {
+      "id": "95.02.14.2005",
+      "name": "Alutbakon",
+      "postal_code": "99416",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.14",
+        "name": "Oksop"
+      }
+    },
+    {
+      "id": "95.04.06.2002",
+      "name": "Pokegi",
+      "postal_code": "99416",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.06",
+        "name": "Wunim"
+      }
+    },
+    {
+      "id": "95.04.06.2005",
+      "name": "Pindak",
+      "postal_code": "99416",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.06",
+        "name": "Wunim"
+      }
+    },
+    {
+      "id": "95.04.06.2006",
+      "name": "Gilopaga",
+      "postal_code": "99416",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.06",
+        "name": "Wunim"
+      }
+    },
+    {
+      "id": "95.04.06.2007",
+      "name": "Keribaga",
+      "postal_code": "99416",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.06",
+        "name": "Wunim"
+      }
+    },
+    {
+      "id": "95.04.06.2008",
+      "name": "Wona",
+      "postal_code": "99416",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.06",
+        "name": "Wunim"
+      }
+    },
+    {
+      "id": "95.04.06.2009",
+      "name": "Numbuboton",
+      "postal_code": "99416",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.06",
+        "name": "Wunim"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

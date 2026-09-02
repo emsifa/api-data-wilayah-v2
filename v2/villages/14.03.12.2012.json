@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.03.12.2012",
+    "name": "Sumber Jaya",
+    "postal_code": "28771",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.03",
+      "name": "Kabupaten Bengkalis"
+    },
+    "district": {
+      "id": "14.03.12",
+      "name": "Siak Kecil"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

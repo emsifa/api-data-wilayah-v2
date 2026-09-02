@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.02.17.2009",
+    "name": "Putun",
+    "postal_code": "85586",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.02",
+      "name": "Kabupaten Timor Tengah Selatan"
+    },
+    "district": {
+      "id": "53.02.17",
+      "name": "Nunkolo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

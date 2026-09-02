@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "15.02.05.1002",
+      "name": "Dusun Baru",
+      "postal_code": "37350",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.05",
+        "name": "Tabir"
+      }
+    },
+    {
+      "id": "15.02.05.1003",
+      "name": "Pasar Rantau Panjang",
+      "postal_code": "37350",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.05",
+        "name": "Tabir"
+      }
+    },
+    {
+      "id": "15.02.05.1005",
+      "name": "Kampung Baruh",
+      "postal_code": "37350",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.05",
+        "name": "Tabir"
+      }
+    },
+    {
+      "id": "15.02.05.1020",
+      "name": "Mampun",
+      "postal_code": "37350",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.05",
+        "name": "Tabir"
+      }
+    },
+    {
+      "id": "15.02.05.1036",
+      "name": "Pasar Baru Rantau",
+      "postal_code": "37350",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.05",
+        "name": "Tabir"
+      }
+    },
+    {
+      "id": "15.02.05.2007",
+      "name": "Kandang",
+      "postal_code": "37350",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.05",
+        "name": "Tabir"
+      }
+    },
+    {
+      "id": "15.02.05.2008",
+      "name": "Koto Rayo",
+      "postal_code": "37350",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.05",
+        "name": "Tabir"
+      }
+    },
+    {
+      "id": "15.02.05.2011",
+      "name": "Tanjung Ilir",
+      "postal_code": "37350",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.05",
+        "name": "Tabir"
+      }
+    },
+    {
+      "id": "15.02.05.2014",
+      "name": "Beluran Panjang",
+      "postal_code": "37350",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.05",
+        "name": "Tabir"
+      }
+    },
+    {
+      "id": "15.02.05.2015",
+      "name": "Seling",
+      "postal_code": "37350",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.05",
+        "name": "Tabir"
+      }
+    },
+    {
+      "id": "15.02.05.2035",
+      "name": "Lubuk Napal",
+      "postal_code": "37350",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.05",
+        "name": "Tabir"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

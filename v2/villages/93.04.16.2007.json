@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.04.16.2007",
+    "name": "Kayirim",
+    "postal_code": "99774",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.04",
+      "name": "Kabupaten Asmat"
+    },
+    "district": {
+      "id": "93.04.16",
+      "name": "Safan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

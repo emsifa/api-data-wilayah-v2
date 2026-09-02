@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.05.02.2004",
+    "name": "Bababulo",
+    "postal_code": "91451",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.05",
+      "name": "Kabupaten Majene"
+    },
+    "district": {
+      "id": "76.05.02",
+      "name": "Pamboang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

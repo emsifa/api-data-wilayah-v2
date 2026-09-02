@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.16.13.2015",
+    "name": "Ngingasrembyong",
+    "postal_code": "61361",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.16",
+      "name": "Kabupaten Mojokerto"
+    },
+    "district": {
+      "id": "35.16.13",
+      "name": "Sooko"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

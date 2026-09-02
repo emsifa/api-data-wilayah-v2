@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.12.03.2005",
+    "name": "Gunung Katun Malai",
+    "postal_code": "34791",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.12",
+      "name": "Kabupaten Tulang Bawang Barat"
+    },
+    "district": {
+      "id": "18.12.03",
+      "name": "Tulang Bawang Udik"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.02.11.2015",
+    "name": "Uning Sigugur",
+    "postal_code": "24675",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.02",
+      "name": "Kabupaten Aceh Tenggara"
+    },
+    "district": {
+      "id": "11.02.11",
+      "name": "Babul Rahmah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

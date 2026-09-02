@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "96.71.08.1003",
+    "name": "Klasaman",
+    "postal_code": "98418",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.71",
+      "name": "Kota Sorong"
+    },
+    "district": {
+      "id": "96.71.08",
+      "name": "Klaurung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

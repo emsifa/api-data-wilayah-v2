@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "11.74.03.2002",
+      "name": "Peukan Langsa",
+      "postal_code": "24412",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.74",
+        "name": "Kota Langsa"
+      },
+      "district": {
+        "id": "11.74.03",
+        "name": "Langsa Kota"
+      }
+    },
+    {
+      "id": "11.74.03.2011",
+      "name": "Blang Seunibong",
+      "postal_code": "24412",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.74",
+        "name": "Kota Langsa"
+      },
+      "district": {
+        "id": "11.74.03",
+        "name": "Langsa Kota"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

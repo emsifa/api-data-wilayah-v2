@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": "14.04.02.1001",
+      "name": "Enok",
+      "postal_code": "29272",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.04",
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "district": {
+        "id": "14.04.02",
+        "name": "Enok"
+      }
+    },
+    {
+      "id": "14.04.02.1002",
+      "name": "Pusaran",
+      "postal_code": "29272",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.04",
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "district": {
+        "id": "14.04.02",
+        "name": "Enok"
+      }
+    },
+    {
+      "id": "14.04.02.1003",
+      "name": "Telukmedan",
+      "postal_code": "29272",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.04",
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "district": {
+        "id": "14.04.02",
+        "name": "Enok"
+      }
+    },
+    {
+      "id": "14.04.02.1013",
+      "name": "Pantaiseberang Makmur",
+      "postal_code": "29272",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.04",
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "district": {
+        "id": "14.04.02",
+        "name": "Enok"
+      }
+    },
+    {
+      "id": "14.04.02.2004",
+      "name": "Pengalihan",
+      "postal_code": "29272",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.04",
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "district": {
+        "id": "14.04.02",
+        "name": "Enok"
+      }
+    },
+    {
+      "id": "14.04.02.2005",
+      "name": "Sungaiambat",
+      "postal_code": "29272",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.04",
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "district": {
+        "id": "14.04.02",
+        "name": "Enok"
+      }
+    },
+    {
+      "id": "14.04.02.2006",
+      "name": "Simpang Tiga",
+      "postal_code": "29272",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.04",
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "district": {
+        "id": "14.04.02",
+        "name": "Enok"
+      }
+    },
+    {
+      "id": "14.04.02.2007",
+      "name": "Rantau Panjang",
+      "postal_code": "29272",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.04",
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "district": {
+        "id": "14.04.02",
+        "name": "Enok"
+      }
+    },
+    {
+      "id": "14.04.02.2008",
+      "name": "Sungairukam",
+      "postal_code": "29272",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.04",
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "district": {
+        "id": "14.04.02",
+        "name": "Enok"
+      }
+    },
+    {
+      "id": "14.04.02.2009",
+      "name": "Bagan Jaya",
+      "postal_code": "29272",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.04",
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "district": {
+        "id": "14.04.02",
+        "name": "Enok"
+      }
+    },
+    {
+      "id": "14.04.02.2010",
+      "name": "Suhada",
+      "postal_code": "29272",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.04",
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "district": {
+        "id": "14.04.02",
+        "name": "Enok"
+      }
+    },
+    {
+      "id": "14.04.02.2011",
+      "name": "Jaya Bhakti",
+      "postal_code": "29272",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.04",
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "district": {
+        "id": "14.04.02",
+        "name": "Enok"
+      }
+    },
+    {
+      "id": "14.04.02.2012",
+      "name": "Sungailokan",
+      "postal_code": "29272",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.04",
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "district": {
+        "id": "14.04.02",
+        "name": "Enok"
+      }
+    },
+    {
+      "id": "14.04.02.2014",
+      "name": "Simpang Tiga Daratan",
+      "postal_code": "29272",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.04",
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "district": {
+        "id": "14.04.02",
+        "name": "Enok"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

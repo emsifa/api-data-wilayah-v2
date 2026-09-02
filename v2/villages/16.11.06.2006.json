@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.11.06.2006",
+    "name": "Lubuk Buntak",
+    "postal_code": "31596",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.11",
+      "name": "Kabupaten Empat Lawang"
+    },
+    "district": {
+      "id": "16.11.06",
+      "name": "Talang Padang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

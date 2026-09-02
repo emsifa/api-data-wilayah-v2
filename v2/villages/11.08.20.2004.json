@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.08.20.2004",
+    "name": "Blang Sialet",
+    "postal_code": "24383",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.08",
+      "name": "Kabupaten Aceh Utara"
+    },
+    "district": {
+      "id": "11.08.20",
+      "name": "Paya Bakong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.01.22.2009",
+    "name": "Karta Mulya",
+    "postal_code": "32192",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.01",
+      "name": "Kabupaten Ogan Komering Ulu"
+    },
+    "district": {
+      "id": "16.01.22",
+      "name": "Lubuk Batang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

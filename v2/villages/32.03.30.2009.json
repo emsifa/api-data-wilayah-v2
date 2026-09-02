@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.03.30.2009",
+    "name": "Sirnasari",
+    "postal_code": "43273",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.03",
+      "name": "Kabupaten Cianjur"
+    },
+    "district": {
+      "id": "32.03.30",
+      "name": "Leles"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.13.08.2001",
+    "name": "Pangur",
+    "postal_code": "24652",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.13",
+      "name": "Kabupaten Gayo Lues"
+    },
+    "district": {
+      "id": "11.13.08",
+      "name": "Dabun Gelang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

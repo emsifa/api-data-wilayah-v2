@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.10.02.2025",
+    "name": "Pandan Sari",
+    "postal_code": "24794",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.10",
+      "name": "Kabupaten Aceh Singkil"
+    },
+    "district": {
+      "id": "11.10.02",
+      "name": "Simpang Kanan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

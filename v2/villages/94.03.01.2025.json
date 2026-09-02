@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.03.01.2025",
+    "name": "Agumaida",
+    "postal_code": "98711",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.03",
+      "name": "Kabupaten Paniai"
+    },
+    "district": {
+      "id": "94.03.01",
+      "name": "Paniai Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

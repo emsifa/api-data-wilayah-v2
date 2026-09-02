@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.01.01.2003",
+    "name": "Ujong Padang",
+    "postal_code": "23773",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.01",
+      "name": "Kabupaten Aceh Selatan"
+    },
+    "district": {
+      "id": "11.01.01",
+      "name": "Bakongan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.72.05.2003",
+    "name": "Yapas",
+    "postal_code": "97614",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.72",
+      "name": "Kota Tual"
+    },
+    "district": {
+      "id": "81.72.05",
+      "name": "Kur Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.08.05.2012",
+    "name": "Tanah Bekali",
+    "postal_code": "37263",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.08",
+      "name": "Kabupaten Bungo"
+    },
+    "district": {
+      "id": "15.08.05",
+      "name": "Tanah Sepenggal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

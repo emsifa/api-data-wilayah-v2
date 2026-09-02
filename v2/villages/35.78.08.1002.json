@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.78.08.1002",
+    "name": "Mojo",
+    "postal_code": "60285",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.78",
+      "name": "Kota Surabaya"
+    },
+    "district": {
+      "id": "35.78.08",
+      "name": "Gubeng"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

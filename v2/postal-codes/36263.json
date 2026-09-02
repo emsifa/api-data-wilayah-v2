@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "15.71.06.1004",
+      "name": "Tanjung Pasir",
+      "postal_code": "36263",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.71",
+        "name": "Kota Jambi"
+      },
+      "district": {
+        "id": "15.71.06",
+        "name": "Danau Teluk"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

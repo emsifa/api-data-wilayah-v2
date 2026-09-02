@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.04.27.2006",
+    "name": "Hegarmanah",
+    "postal_code": "40396",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.04",
+      "name": "Kabupaten Bandung"
+    },
+    "district": {
+      "id": "32.04.27",
+      "name": "Cikancung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

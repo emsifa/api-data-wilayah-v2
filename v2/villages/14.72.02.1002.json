@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.72.02.1002",
+    "name": "Teluk Binjai",
+    "postal_code": "28813",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.72",
+      "name": "Kota Dumai"
+    },
+    "district": {
+      "id": "14.72.02",
+      "name": "Dumai Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

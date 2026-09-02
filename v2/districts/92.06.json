@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "92.06",
+    "name": "Kabupaten Teluk Bintuni",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.06",
+      "name": "Kabupaten Teluk Bintuni"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

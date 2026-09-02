@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "51.03.06.1001",
+      "name": "Kerobokan Kelod",
+      "postal_code": "80363",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.03",
+        "name": "Kabupaten Badung"
+      },
+      "district": {
+        "id": "51.03.06",
+        "name": "Kuta Utara"
+      }
+    },
+    {
+      "id": "51.03.06.1002",
+      "name": "Kerobokan",
+      "postal_code": "80363",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.03",
+        "name": "Kabupaten Badung"
+      },
+      "district": {
+        "id": "51.03.06",
+        "name": "Kuta Utara"
+      }
+    },
+    {
+      "id": "51.03.06.1003",
+      "name": "Kerobokan Kaja",
+      "postal_code": "80363",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.03",
+        "name": "Kabupaten Badung"
+      },
+      "district": {
+        "id": "51.03.06",
+        "name": "Kuta Utara"
+      }
+    },
+    {
+      "id": "51.03.06.2004",
+      "name": "Tibubeneng",
+      "postal_code": "80363",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.03",
+        "name": "Kabupaten Badung"
+      },
+      "district": {
+        "id": "51.03.06",
+        "name": "Kuta Utara"
+      }
+    },
+    {
+      "id": "51.03.06.2005",
+      "name": "Canggu",
+      "postal_code": "80363",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.03",
+        "name": "Kabupaten Badung"
+      },
+      "district": {
+        "id": "51.03.06",
+        "name": "Kuta Utara"
+      }
+    },
+    {
+      "id": "51.03.06.2006",
+      "name": "Dalung",
+      "postal_code": "80363",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.03",
+        "name": "Kabupaten Badung"
+      },
+      "district": {
+        "id": "51.03.06",
+        "name": "Kuta Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

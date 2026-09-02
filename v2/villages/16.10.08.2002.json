@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.10.08.2002",
+    "name": "Tanjung Lubuk",
+    "postal_code": "30862",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.10",
+      "name": "Kabupaten Ogan Ilir"
+    },
+    "district": {
+      "id": "16.10.08",
+      "name": "Indralaya Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.02.17.2008",
+    "name": "Putra Lempuyang",
+    "postal_code": "35213",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.02",
+      "name": "Kabupaten Lampung Tengah"
+    },
+    "district": {
+      "id": "18.02.17",
+      "name": "Way Pengubuan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.01.06.1008",
+    "name": "Kijang Kota",
+    "postal_code": "29150",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.01",
+      "name": "Kabupaten Bintan"
+    },
+    "district": {
+      "id": "21.01.06",
+      "name": "Bintan Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

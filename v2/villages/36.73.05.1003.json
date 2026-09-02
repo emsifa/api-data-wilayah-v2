@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.73.05.1003",
+    "name": "Panancangan",
+    "postal_code": "42124",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.73",
+      "name": "Kota Serang"
+    },
+    "district": {
+      "id": "36.73.05",
+      "name": "Cipocok Jaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

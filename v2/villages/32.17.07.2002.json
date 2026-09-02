@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.17.07.2002",
+    "name": "Cipatat",
+    "postal_code": "40554",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.17",
+      "name": "Kabupaten Bandung Barat"
+    },
+    "district": {
+      "id": "32.17.07",
+      "name": "Cipatat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

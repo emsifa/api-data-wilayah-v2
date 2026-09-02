@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.02.11.2006",
+    "name": "Jatimulyo",
+    "postal_code": "55783",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.02",
+      "name": "Kabupaten Bantul"
+    },
+    "district": {
+      "id": "34.02.11",
+      "name": "Dlingo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.10.07.2012",
+    "name": "Karang Rejo",
+    "postal_code": "72211",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.10",
+      "name": "Kabupaten Tanah Bumbu"
+    },
+    "district": {
+      "id": "63.10.07",
+      "name": "Karang Bintang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

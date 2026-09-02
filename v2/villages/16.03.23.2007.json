@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.03.23.2007",
+    "name": "Bulang",
+    "postal_code": "31352",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.03",
+      "name": "Kabupaten Muara Enim"
+    },
+    "district": {
+      "id": "16.03.23",
+      "name": "Belimbing"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

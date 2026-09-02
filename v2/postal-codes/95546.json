@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "71.72.05.1002",
+      "name": "Sagerat",
+      "postal_code": "95546",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.72",
+        "name": "Kota Bitung"
+      },
+      "district": {
+        "id": "71.72.05",
+        "name": "Matuari"
+      }
+    },
+    {
+      "id": "71.72.05.1011",
+      "name": "Sagerat Weru Satu",
+      "postal_code": "95546",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.72",
+        "name": "Kota Bitung"
+      },
+      "district": {
+        "id": "71.72.05",
+        "name": "Matuari"
+      }
+    },
+    {
+      "id": "71.72.05.1012",
+      "name": "Sagerat Weru Dua",
+      "postal_code": "95546",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.72",
+        "name": "Kota Bitung"
+      },
+      "district": {
+        "id": "71.72.05",
+        "name": "Matuari"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

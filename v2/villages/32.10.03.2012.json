@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.10.03.2012",
+    "name": "Cipulus",
+    "postal_code": "45466",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.10",
+      "name": "Kabupaten Majalengka"
+    },
+    "district": {
+      "id": "32.10.03",
+      "name": "Cikijing"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.02.04.2006",
+    "name": "Tamangil Nuhuyanat",
+    "postal_code": "97632",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.02",
+      "name": "Kabupaten Maluku Tenggara"
+    },
+    "district": {
+      "id": "81.02.04",
+      "name": "Kei Besar Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

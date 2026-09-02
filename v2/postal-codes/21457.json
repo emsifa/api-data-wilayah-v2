@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "id": "12.23.01.1001",
+      "name": "Aek Kanopan",
+      "postal_code": "21457",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.23",
+        "name": "Kabupaten Labuhanbatu Utara"
+      },
+      "district": {
+        "id": "12.23.01",
+        "name": "Kualuh Hulu"
+      }
+    },
+    {
+      "id": "12.23.01.1002",
+      "name": "Aek Kanopan Timur",
+      "postal_code": "21457",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.23",
+        "name": "Kabupaten Labuhanbatu Utara"
+      },
+      "district": {
+        "id": "12.23.01",
+        "name": "Kualuh Hulu"
+      }
+    },
+    {
+      "id": "12.23.01.2003",
+      "name": "Kuala Beringin",
+      "postal_code": "21457",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.23",
+        "name": "Kabupaten Labuhanbatu Utara"
+      },
+      "district": {
+        "id": "12.23.01",
+        "name": "Kualuh Hulu"
+      }
+    },
+    {
+      "id": "12.23.01.2004",
+      "name": "Parpaudangan",
+      "postal_code": "21457",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.23",
+        "name": "Kabupaten Labuhanbatu Utara"
+      },
+      "district": {
+        "id": "12.23.01",
+        "name": "Kualuh Hulu"
+      }
+    },
+    {
+      "id": "12.23.01.2005",
+      "name": "Pulo Dogom",
+      "postal_code": "21457",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.23",
+        "name": "Kabupaten Labuhanbatu Utara"
+      },
+      "district": {
+        "id": "12.23.01",
+        "name": "Kualuh Hulu"
+      }
+    },
+    {
+      "id": "12.23.01.2006",
+      "name": "Londut",
+      "postal_code": "21457",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.23",
+        "name": "Kabupaten Labuhanbatu Utara"
+      },
+      "district": {
+        "id": "12.23.01",
+        "name": "Kualuh Hulu"
+      }
+    },
+    {
+      "id": "12.23.01.2007",
+      "name": "Perkebunan Kanopan Ulu",
+      "postal_code": "21457",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.23",
+        "name": "Kabupaten Labuhanbatu Utara"
+      },
+      "district": {
+        "id": "12.23.01",
+        "name": "Kualuh Hulu"
+      }
+    },
+    {
+      "id": "12.23.01.2008",
+      "name": "Perkebunan Membang Muda",
+      "postal_code": "21457",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.23",
+        "name": "Kabupaten Labuhanbatu Utara"
+      },
+      "district": {
+        "id": "12.23.01",
+        "name": "Kualuh Hulu"
+      }
+    },
+    {
+      "id": "12.23.01.2009",
+      "name": "Perkebunan Labuhan Haji",
+      "postal_code": "21457",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.23",
+        "name": "Kabupaten Labuhanbatu Utara"
+      },
+      "district": {
+        "id": "12.23.01",
+        "name": "Kualuh Hulu"
+      }
+    },
+    {
+      "id": "12.23.01.2010",
+      "name": "Perkebunan Hanna",
+      "postal_code": "21457",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.23",
+        "name": "Kabupaten Labuhanbatu Utara"
+      },
+      "district": {
+        "id": "12.23.01",
+        "name": "Kualuh Hulu"
+      }
+    },
+    {
+      "id": "12.23.01.2011",
+      "name": "Sonomartani",
+      "postal_code": "21457",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.23",
+        "name": "Kabupaten Labuhanbatu Utara"
+      },
+      "district": {
+        "id": "12.23.01",
+        "name": "Kualuh Hulu"
+      }
+    },
+    {
+      "id": "12.23.01.2012",
+      "name": "Sukarame",
+      "postal_code": "21457",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.23",
+        "name": "Kabupaten Labuhanbatu Utara"
+      },
+      "district": {
+        "id": "12.23.01",
+        "name": "Kualuh Hulu"
+      }
+    },
+    {
+      "id": "12.23.01.2013",
+      "name": "Sukarame Baru",
+      "postal_code": "21457",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.23",
+        "name": "Kabupaten Labuhanbatu Utara"
+      },
+      "district": {
+        "id": "12.23.01",
+        "name": "Kualuh Hulu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

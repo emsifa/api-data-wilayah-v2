@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.07.15.2004",
+    "name": "Karimunting",
+    "postal_code": "79273",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.07",
+      "name": "Kabupaten Bengkayang"
+    },
+    "district": {
+      "id": "61.07.15",
+      "name": "Sungai Raya Kepulauan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

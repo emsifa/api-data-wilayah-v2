@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.10.05.2008",
+    "name": "Tambakrejo",
+    "postal_code": "68472",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.10",
+      "name": "Kabupaten Banyuwangi"
+    },
+    "district": {
+      "id": "35.10.05",
+      "name": "Muncar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

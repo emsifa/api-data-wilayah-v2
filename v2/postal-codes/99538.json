@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "95.07.08.2003",
+      "name": "Arigineri",
+      "postal_code": "99538",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.08",
+        "name": "Tiomneri"
+      }
+    },
+    {
+      "id": "95.07.08.2004",
+      "name": "Muleme",
+      "postal_code": "99538",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.08",
+        "name": "Tiomneri"
+      }
+    },
+    {
+      "id": "95.07.08.2006",
+      "name": "Ponuma",
+      "postal_code": "99538",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.08",
+        "name": "Tiomneri"
+      }
+    },
+    {
+      "id": "95.07.08.2007",
+      "name": "Gubulela",
+      "postal_code": "99538",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.08",
+        "name": "Tiomneri"
+      }
+    },
+    {
+      "id": "95.07.08.2008",
+      "name": "Kolari",
+      "postal_code": "99538",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.08",
+        "name": "Tiomneri"
+      }
+    },
+    {
+      "id": "95.07.08.2009",
+      "name": "Gumbo",
+      "postal_code": "99538",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.08",
+        "name": "Tiomneri"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

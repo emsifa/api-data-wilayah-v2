@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.03.13.2006",
+    "name": "Jambu Burung",
+    "postal_code": "70656",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.03",
+      "name": "Kabupaten Banjar"
+    },
+    "district": {
+      "id": "63.03.13",
+      "name": "Beruntung Baru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

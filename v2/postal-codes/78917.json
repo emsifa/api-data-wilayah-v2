@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "61.02.18.1001",
+      "name": "Pulau Pedalaman",
+      "postal_code": "78917",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.02",
+        "name": "Kabupaten Mempawah"
+      },
+      "district": {
+        "id": "61.02.18",
+        "name": "Mempawah Timur"
+      }
+    },
+    {
+      "id": "61.02.18.2003",
+      "name": "Antibar",
+      "postal_code": "78917",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.02",
+        "name": "Kabupaten Mempawah"
+      },
+      "district": {
+        "id": "61.02.18",
+        "name": "Mempawah Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

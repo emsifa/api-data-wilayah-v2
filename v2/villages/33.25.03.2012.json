@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.25.03.2012",
+    "name": "Pesantren",
+    "postal_code": "51255",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.25",
+      "name": "Kabupaten Batang"
+    },
+    "district": {
+      "id": "33.25.03",
+      "name": "Blado"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

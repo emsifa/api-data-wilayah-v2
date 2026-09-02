@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.01.24.2015",
+    "name": "Surianeun",
+    "postal_code": "42266",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.01",
+      "name": "Kabupaten Pandeglang"
+    },
+    "district": {
+      "id": "36.01.24",
+      "name": "Patia"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

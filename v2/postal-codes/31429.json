@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "16.04.31.2010",
+      "name": "Talang Sejemput",
+      "postal_code": "31429",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.04",
+        "name": "Kabupaten Lahat"
+      },
+      "district": {
+        "id": "16.04.31",
+        "name": "Lahat Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

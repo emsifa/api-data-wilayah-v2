@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "95.04.08.2001",
+      "name": "Umagi",
+      "postal_code": "99061",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.08",
+        "name": "Umagi"
+      }
+    },
+    {
+      "id": "95.04.08.2003",
+      "name": "Nambu",
+      "postal_code": "99061",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.08",
+        "name": "Umagi"
+      }
+    },
+    {
+      "id": "95.04.08.2004",
+      "name": "Nolopur",
+      "postal_code": "99061",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.08",
+        "name": "Umagi"
+      }
+    },
+    {
+      "id": "95.04.08.2005",
+      "name": "Yaleme",
+      "postal_code": "99061",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.08",
+        "name": "Umagi"
+      }
+    },
+    {
+      "id": "95.04.08.2007",
+      "name": "Mino",
+      "postal_code": "99061",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.08",
+        "name": "Umagi"
+      }
+    },
+    {
+      "id": "95.04.08.2010",
+      "name": "Pagongga",
+      "postal_code": "99061",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.08",
+        "name": "Umagi"
+      }
+    },
+    {
+      "id": "95.04.08.2012",
+      "name": "Popaga",
+      "postal_code": "99061",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.08",
+        "name": "Umagi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

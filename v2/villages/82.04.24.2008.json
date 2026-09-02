@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.04.24.2008",
+    "name": "Posi Posi",
+    "postal_code": "97789",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.04",
+      "name": "Kabupaten Halmahera Selatan"
+    },
+    "district": {
+      "id": "82.04.24",
+      "name": "Gane Barat Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

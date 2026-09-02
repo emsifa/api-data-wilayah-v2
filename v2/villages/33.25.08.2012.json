@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.25.08.2012",
+    "name": "Amongrogo",
+    "postal_code": "51271",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.25",
+      "name": "Kabupaten Batang"
+    },
+    "district": {
+      "id": "33.25.08",
+      "name": "Limpung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

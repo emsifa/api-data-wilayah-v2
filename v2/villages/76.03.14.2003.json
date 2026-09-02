@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.03.14.2003",
+    "name": "Kariango",
+    "postal_code": "91368",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.03",
+      "name": "Kabupaten Mamasa"
+    },
+    "district": {
+      "id": "76.03.14",
+      "name": "Tawalian"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

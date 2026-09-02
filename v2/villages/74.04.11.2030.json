@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.04.11.2030",
+    "name": "Mantowu",
+    "postal_code": "93752",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.04",
+      "name": "Kabupaten Buton"
+    },
+    "district": {
+      "id": "74.04.11",
+      "name": "Pasarwajo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

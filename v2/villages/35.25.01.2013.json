@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.25.01.2013",
+    "name": "Mentaras",
+    "postal_code": "61155",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.25",
+      "name": "Kabupaten Gresik"
+    },
+    "district": {
+      "id": "35.25.01",
+      "name": "Dukun"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

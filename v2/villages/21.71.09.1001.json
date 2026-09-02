@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.71.09.1001",
+    "name": "Bengkong Indah",
+    "postal_code": "29458",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.71",
+      "name": "Kota Batam"
+    },
+    "district": {
+      "id": "21.71.09",
+      "name": "Bengkong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

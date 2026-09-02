@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.14.09.1002",
+    "name": "Salomalori",
+    "postal_code": "91681",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.14",
+      "name": "Kabupaten Sidenreng Rappang"
+    },
+    "district": {
+      "id": "73.14.09",
+      "name": "Dua Pitue"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

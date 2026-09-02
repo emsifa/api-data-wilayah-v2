@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.02.02.2011",
+    "name": "Jembayan Tengah",
+    "postal_code": "75571",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.02",
+      "name": "Kabupaten Kutai Kartanegara"
+    },
+    "district": {
+      "id": "64.02.02",
+      "name": "Loa Kulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "id": "32.16.13.1011",
+      "name": "Kertasari",
+      "postal_code": "17710",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.13",
+        "name": "Pebayuran"
+      }
+    },
+    {
+      "id": "32.16.13.2001",
+      "name": "Karangharja",
+      "postal_code": "17710",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.13",
+        "name": "Pebayuran"
+      }
+    },
+    {
+      "id": "32.16.13.2002",
+      "name": "Karangsegar",
+      "postal_code": "17710",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.13",
+        "name": "Pebayuran"
+      }
+    },
+    {
+      "id": "32.16.13.2003",
+      "name": "Sumberurip",
+      "postal_code": "17710",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.13",
+        "name": "Pebayuran"
+      }
+    },
+    {
+      "id": "32.16.13.2004",
+      "name": "Sumbereja",
+      "postal_code": "17710",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.13",
+        "name": "Pebayuran"
+      }
+    },
+    {
+      "id": "32.16.13.2005",
+      "name": "Karangreja",
+      "postal_code": "17710",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.13",
+        "name": "Pebayuran"
+      }
+    },
+    {
+      "id": "32.16.13.2006",
+      "name": "Karangjaya",
+      "postal_code": "17710",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.13",
+        "name": "Pebayuran"
+      }
+    },
+    {
+      "id": "32.16.13.2007",
+      "name": "Sumbersari",
+      "postal_code": "17710",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.13",
+        "name": "Pebayuran"
+      }
+    },
+    {
+      "id": "32.16.13.2008",
+      "name": "Karangpatri",
+      "postal_code": "17710",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.13",
+        "name": "Pebayuran"
+      }
+    },
+    {
+      "id": "32.16.13.2009",
+      "name": "Karanghaur",
+      "postal_code": "17710",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.13",
+        "name": "Pebayuran"
+      }
+    },
+    {
+      "id": "32.16.13.2010",
+      "name": "Kertajaya",
+      "postal_code": "17710",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.13",
+        "name": "Pebayuran"
+      }
+    },
+    {
+      "id": "32.16.13.2012",
+      "name": "Bantarsari",
+      "postal_code": "17710",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.13",
+        "name": "Pebayuran"
+      }
+    },
+    {
+      "id": "32.16.13.2013",
+      "name": "Bantarjaya",
+      "postal_code": "17710",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.13",
+        "name": "Pebayuran"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

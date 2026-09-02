@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.10.04.1002",
+    "name": "Mappasaile",
+    "postal_code": "90617",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.10",
+      "name": "Kabupaten Pangkajene dan Kepulauan"
+    },
+    "district": {
+      "id": "73.10.04",
+      "name": "Pangkajene"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

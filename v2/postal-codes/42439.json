@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "36.72.03.1004",
+      "name": "Suralaya",
+      "postal_code": "42439",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.72",
+        "name": "Kota Cilegon"
+      },
+      "district": {
+        "id": "36.72.03",
+        "name": "Pulomerak"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

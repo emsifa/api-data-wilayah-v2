@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.23.12.2010",
+    "name": "Mento",
+    "postal_code": "56257",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.23",
+      "name": "Kabupaten Temanggung"
+    },
+    "district": {
+      "id": "33.23.12",
+      "name": "Candiroto"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

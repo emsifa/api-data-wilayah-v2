@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.06.16.2015",
+    "name": "Lambeugak",
+    "postal_code": "23364",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.06",
+      "name": "Kabupaten Aceh Besar"
+    },
+    "district": {
+      "id": "11.06.16",
+      "name": "Kuta Cot Glie"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

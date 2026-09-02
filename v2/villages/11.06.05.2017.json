@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.06.05.2017",
+    "name": "Weu Bada",
+    "postal_code": "23362",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.06",
+      "name": "Kabupaten Aceh Besar"
+    },
+    "district": {
+      "id": "11.06.05",
+      "name": "Montasik"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

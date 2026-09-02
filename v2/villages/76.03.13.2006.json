@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.03.13.2006",
+    "name": "Minanga Timur",
+    "postal_code": "91363",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.03",
+      "name": "Kabupaten Mamasa"
+    },
+    "district": {
+      "id": "76.03.13",
+      "name": "Nosu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

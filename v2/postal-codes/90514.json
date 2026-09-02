@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "73.09.12.1001",
+      "name": "Allepolea",
+      "postal_code": "90514",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.09",
+        "name": "Kabupaten Maros"
+      },
+      "district": {
+        "id": "73.09.12",
+        "name": "Lau"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

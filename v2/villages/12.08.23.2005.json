@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.08.23.2005",
+    "name": "Bandar Pulo",
+    "postal_code": "21184",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.08",
+      "name": "Kabupaten Simalungun"
+    },
+    "district": {
+      "id": "12.08.23",
+      "name": "Bandar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

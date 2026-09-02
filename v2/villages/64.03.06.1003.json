@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.03.06.1003",
+    "name": "Gunung Tabur",
+    "postal_code": "77352",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.03",
+      "name": "Kabupaten Berau"
+    },
+    "district": {
+      "id": "64.03.06",
+      "name": "Gunung Tabur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

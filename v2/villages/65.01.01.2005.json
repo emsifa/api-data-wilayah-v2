@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "65.01.01.2005",
+    "name": "Gunung Putih",
+    "postal_code": "77211",
+    "province": {
+      "id": "65",
+      "name": "Kalimantan Utara"
+    },
+    "regency": {
+      "id": "65.01",
+      "name": "Kabupaten Bulungan"
+    },
+    "district": {
+      "id": "65.01.01",
+      "name": "Tanjung Palas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

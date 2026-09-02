@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.72.01.1001",
+    "name": "Sukorejo",
+    "postal_code": "31551",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.72",
+      "name": "Kota Pagar Alam"
+    },
+    "district": {
+      "id": "16.72.01",
+      "name": "Pagar Alam Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

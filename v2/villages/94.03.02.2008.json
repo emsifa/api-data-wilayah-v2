@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.03.02.2008",
+    "name": "Wiyogei",
+    "postal_code": "98723",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.03",
+      "name": "Kabupaten Paniai"
+    },
+    "district": {
+      "id": "94.03.02",
+      "name": "Paniai Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

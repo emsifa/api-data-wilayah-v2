@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.01.09.2013",
+    "name": "Tebru Paser Damai",
+    "postal_code": "76261",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.01",
+      "name": "Kabupaten Paser"
+    },
+    "district": {
+      "id": "64.01.09",
+      "name": "Batu Engau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

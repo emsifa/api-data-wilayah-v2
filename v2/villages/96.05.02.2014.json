@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "96.05.02.2014",
+    "name": "Yarat Timur",
+    "postal_code": "98052",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.05",
+      "name": "Kabupaten Maybrat"
+    },
+    "district": {
+      "id": "96.05.02",
+      "name": "Aifat Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

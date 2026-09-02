@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.04.29.2001",
+    "name": "Sisobawino I",
+    "postal_code": "22871",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.04",
+      "name": "Kabupaten Nias"
+    },
+    "district": {
+      "id": "12.04.29",
+      "name": "Somolo-molo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

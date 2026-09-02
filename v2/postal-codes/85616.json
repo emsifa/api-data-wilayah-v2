@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "53.03.05.1009",
+      "name": "Sasi",
+      "postal_code": "85616",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.05",
+        "name": "Kota Kefamenanu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

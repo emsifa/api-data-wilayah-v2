@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.71.01.1010",
+    "name": "Tidar Utara",
+    "postal_code": "56125",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.71",
+      "name": "Kota Magelang"
+    },
+    "district": {
+      "id": "33.71.01",
+      "name": "Magelang Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

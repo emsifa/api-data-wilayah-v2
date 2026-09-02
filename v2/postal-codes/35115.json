@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "18.71.06.1006",
+      "name": "Kaliawi",
+      "postal_code": "35115",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.06",
+        "name": "Tanjungkarang Pusat"
+      }
+    },
+    {
+      "id": "18.71.06.1012",
+      "name": "Kaliawi Persada",
+      "postal_code": "35115",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.06",
+        "name": "Tanjungkarang Pusat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

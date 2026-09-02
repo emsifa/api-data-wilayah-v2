@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.75.03.1004",
+    "name": "Panjang Wetan",
+    "postal_code": "51141",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.75",
+      "name": "Kota Pekalongan"
+    },
+    "district": {
+      "id": "33.75.03",
+      "name": "Pekalongan Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

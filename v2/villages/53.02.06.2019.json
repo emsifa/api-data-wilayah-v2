@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.02.06.2019",
+    "name": "Eno Neten",
+    "postal_code": "85562",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.02",
+      "name": "Kabupaten Timor Tengah Selatan"
+    },
+    "district": {
+      "id": "53.02.06",
+      "name": "Amanuban Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

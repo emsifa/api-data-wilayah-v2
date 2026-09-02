@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "34.04.17.2001",
+      "name": "Argomulyo",
+      "postal_code": "55583",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.17",
+        "name": "Cangkringan"
+      }
+    },
+    {
+      "id": "34.04.17.2002",
+      "name": "Wukirsari",
+      "postal_code": "55583",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.17",
+        "name": "Cangkringan"
+      }
+    },
+    {
+      "id": "34.04.17.2003",
+      "name": "Glagaharjo",
+      "postal_code": "55583",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.17",
+        "name": "Cangkringan"
+      }
+    },
+    {
+      "id": "34.04.17.2004",
+      "name": "Kepuharjo",
+      "postal_code": "55583",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.17",
+        "name": "Cangkringan"
+      }
+    },
+    {
+      "id": "34.04.17.2005",
+      "name": "Umbulharjo",
+      "postal_code": "55583",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.17",
+        "name": "Cangkringan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

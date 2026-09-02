@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.12.01.2002",
+    "name": "Panaragan",
+    "postal_code": "34793",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.12",
+      "name": "Kabupaten Tulang Bawang Barat"
+    },
+    "district": {
+      "id": "18.12.01",
+      "name": "Tulang Bawang Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

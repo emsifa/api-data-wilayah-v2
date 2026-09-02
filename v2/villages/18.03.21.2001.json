@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.03.21.2001",
+    "name": "Sinar Harapan",
+    "postal_code": "34552",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.03",
+      "name": "Kabupaten Lampung Utara"
+    },
+    "district": {
+      "id": "18.03.21",
+      "name": "Sungkai Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "72.06.20.2001",
+      "name": "Tanjung Harapan",
+      "postal_code": "94943",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.20",
+        "name": "Sombori Kepulauan"
+      }
+    },
+    {
+      "id": "72.06.20.2002",
+      "name": "Matano",
+      "postal_code": "94943",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.20",
+        "name": "Sombori Kepulauan"
+      }
+    },
+    {
+      "id": "72.06.20.2003",
+      "name": "Tanona",
+      "postal_code": "94943",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.20",
+        "name": "Sombori Kepulauan"
+      }
+    },
+    {
+      "id": "72.06.20.2004",
+      "name": "Tanjung Tiram",
+      "postal_code": "94943",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.20",
+        "name": "Sombori Kepulauan"
+      }
+    },
+    {
+      "id": "72.06.20.2005",
+      "name": "Matarape",
+      "postal_code": "94943",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.20",
+        "name": "Sombori Kepulauan"
+      }
+    },
+    {
+      "id": "72.06.20.2006",
+      "name": "Mbokita",
+      "postal_code": "94943",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.20",
+        "name": "Sombori Kepulauan"
+      }
+    },
+    {
+      "id": "72.06.20.2007",
+      "name": "Dongkalan",
+      "postal_code": "94943",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.20",
+        "name": "Sombori Kepulauan"
+      }
+    },
+    {
+      "id": "72.06.20.2008",
+      "name": "Pulau Tengah",
+      "postal_code": "94943",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.20",
+        "name": "Sombori Kepulauan"
+      }
+    },
+    {
+      "id": "72.06.20.2009",
+      "name": "Masadian",
+      "postal_code": "94943",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.20",
+        "name": "Sombori Kepulauan"
+      }
+    },
+    {
+      "id": "72.06.20.2010",
+      "name": "Pulau Tiga",
+      "postal_code": "94943",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.20",
+        "name": "Sombori Kepulauan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

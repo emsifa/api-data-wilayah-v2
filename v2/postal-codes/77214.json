@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "65.01.01.1004",
+      "name": "Karang Anyar",
+      "postal_code": "77214",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.01",
+        "name": "Kabupaten Bulungan"
+      },
+      "district": {
+        "id": "65.01.01",
+        "name": "Tanjung Palas"
+      }
+    },
+    {
+      "id": "65.01.01.2008",
+      "name": "Teras Baru",
+      "postal_code": "77214",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.01",
+        "name": "Kabupaten Bulungan"
+      },
+      "district": {
+        "id": "65.01.01",
+        "name": "Tanjung Palas"
+      }
+    },
+    {
+      "id": "65.01.01.2009",
+      "name": "Teras Nawang",
+      "postal_code": "77214",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.01",
+        "name": "Kabupaten Bulungan"
+      },
+      "district": {
+        "id": "65.01.01",
+        "name": "Tanjung Palas"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

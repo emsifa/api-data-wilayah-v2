@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "19.04.03.2007",
+    "name": "Kemingking",
+    "postal_code": "33675",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.04",
+      "name": "Kabupaten Bangka Tengah"
+    },
+    "district": {
+      "id": "19.04.03",
+      "name": "Sungai Selan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "61.10.06.2001",
+      "name": "Batu Begigi",
+      "postal_code": "79674",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.10",
+        "name": "Kabupaten Melawi"
+      },
+      "district": {
+        "id": "61.10.06",
+        "name": "Tanah Pinoh"
+      }
+    },
+    {
+      "id": "61.10.06.2002",
+      "name": "Loka Jaya",
+      "postal_code": "79674",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.10",
+        "name": "Kabupaten Melawi"
+      },
+      "district": {
+        "id": "61.10.06",
+        "name": "Tanah Pinoh"
+      }
+    },
+    {
+      "id": "61.10.06.2003",
+      "name": "Suka Maju",
+      "postal_code": "79674",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.10",
+        "name": "Kabupaten Melawi"
+      },
+      "district": {
+        "id": "61.10.06",
+        "name": "Tanah Pinoh"
+      }
+    },
+    {
+      "id": "61.10.06.2004",
+      "name": "Bina Jaya",
+      "postal_code": "79674",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.10",
+        "name": "Kabupaten Melawi"
+      },
+      "district": {
+        "id": "61.10.06",
+        "name": "Tanah Pinoh"
+      }
+    },
+    {
+      "id": "61.10.06.2005",
+      "name": "Bina Karya",
+      "postal_code": "79674",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.10",
+        "name": "Kabupaten Melawi"
+      },
+      "district": {
+        "id": "61.10.06",
+        "name": "Tanah Pinoh"
+      }
+    },
+    {
+      "id": "61.10.06.2006",
+      "name": "Madong Jaya",
+      "postal_code": "79674",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.10",
+        "name": "Kabupaten Melawi"
+      },
+      "district": {
+        "id": "61.10.06",
+        "name": "Tanah Pinoh"
+      }
+    },
+    {
+      "id": "61.10.06.2016",
+      "name": "Bata Luar",
+      "postal_code": "79674",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.10",
+        "name": "Kabupaten Melawi"
+      },
+      "district": {
+        "id": "61.10.06",
+        "name": "Tanah Pinoh"
+      }
+    },
+    {
+      "id": "61.10.06.2017",
+      "name": "Maris Permai",
+      "postal_code": "79674",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.10",
+        "name": "Kabupaten Melawi"
+      },
+      "district": {
+        "id": "61.10.06",
+        "name": "Tanah Pinoh"
+      }
+    },
+    {
+      "id": "61.10.06.2019",
+      "name": "Pelita Kenaya",
+      "postal_code": "79674",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.10",
+        "name": "Kabupaten Melawi"
+      },
+      "district": {
+        "id": "61.10.06",
+        "name": "Tanah Pinoh"
+      }
+    },
+    {
+      "id": "61.10.06.2020",
+      "name": "Tanjung Beringin Raya",
+      "postal_code": "79674",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.10",
+        "name": "Kabupaten Melawi"
+      },
+      "district": {
+        "id": "61.10.06",
+        "name": "Tanah Pinoh"
+      }
+    },
+    {
+      "id": "61.10.06.2021",
+      "name": "Tanjung Gunung",
+      "postal_code": "79674",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.10",
+        "name": "Kabupaten Melawi"
+      },
+      "district": {
+        "id": "61.10.06",
+        "name": "Tanah Pinoh"
+      }
+    },
+    {
+      "id": "61.10.06.2022",
+      "name": "Keranjik",
+      "postal_code": "79674",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.10",
+        "name": "Kabupaten Melawi"
+      },
+      "district": {
+        "id": "61.10.06",
+        "name": "Tanah Pinoh"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

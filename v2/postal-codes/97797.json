@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "82.05.03.2005",
+      "name": "Wai Ina",
+      "postal_code": "97797",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.05",
+        "name": "Kabupaten Kepulauan Sula"
+      },
+      "district": {
+        "id": "82.05.03",
+        "name": "Sulabesi Barat"
+      }
+    },
+    {
+      "id": "82.05.03.2006",
+      "name": "Kabau Pantai",
+      "postal_code": "97797",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.05",
+        "name": "Kabupaten Kepulauan Sula"
+      },
+      "district": {
+        "id": "82.05.03",
+        "name": "Sulabesi Barat"
+      }
+    },
+    {
+      "id": "82.05.03.2007",
+      "name": "Ona",
+      "postal_code": "97797",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.05",
+        "name": "Kabupaten Kepulauan Sula"
+      },
+      "district": {
+        "id": "82.05.03",
+        "name": "Sulabesi Barat"
+      }
+    },
+    {
+      "id": "82.05.03.2008",
+      "name": "Kabau Darat",
+      "postal_code": "97797",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.05",
+        "name": "Kabupaten Kepulauan Sula"
+      },
+      "district": {
+        "id": "82.05.03",
+        "name": "Sulabesi Barat"
+      }
+    },
+    {
+      "id": "82.05.03.2009",
+      "name": "Nahi",
+      "postal_code": "97797",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.05",
+        "name": "Kabupaten Kepulauan Sula"
+      },
+      "district": {
+        "id": "82.05.03",
+        "name": "Sulabesi Barat"
+      }
+    },
+    {
+      "id": "82.05.03.2010",
+      "name": "Paratina",
+      "postal_code": "97797",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.05",
+        "name": "Kabupaten Kepulauan Sula"
+      },
+      "district": {
+        "id": "82.05.03",
+        "name": "Sulabesi Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

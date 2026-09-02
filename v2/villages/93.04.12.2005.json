@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.04.12.2005",
+    "name": "Nakai",
+    "postal_code": "99778",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.04",
+      "name": "Kabupaten Asmat"
+    },
+    "district": {
+      "id": "93.04.12",
+      "name": "Pulau Tiga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

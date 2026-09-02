@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.06.06.2005",
+    "name": "Bakala",
+    "postal_code": "94979",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.06",
+      "name": "Kabupaten Morowali"
+    },
+    "district": {
+      "id": "72.06.06",
+      "name": "Bungku Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

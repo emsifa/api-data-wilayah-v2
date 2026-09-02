@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.02.17.2001",
+    "name": "Warkapi",
+    "postal_code": "98315",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.02",
+      "name": "Kabupaten Manokwari"
+    },
+    "district": {
+      "id": "92.02.17",
+      "name": "Tanah Rubuh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

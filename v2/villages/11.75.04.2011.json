@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.75.04.2011",
+    "name": "Pulo Belen",
+    "postal_code": "24783",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.75",
+      "name": "Kota Subulussalam"
+    },
+    "district": {
+      "id": "11.75.04",
+      "name": "Sultan Daulat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

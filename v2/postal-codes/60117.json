@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "35.78.09.1002",
+      "name": "Gebang Putih",
+      "postal_code": "60117",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.09",
+        "name": "Sukolilo"
+      }
+    },
+    {
+      "id": "35.78.09.1003",
+      "name": "Klampis Ngasem",
+      "postal_code": "60117",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.09",
+        "name": "Sukolilo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

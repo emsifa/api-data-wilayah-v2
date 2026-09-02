@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "35.77.01.1003",
+      "name": "Klegen",
+      "postal_code": "63117",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.77",
+        "name": "Kota Madiun"
+      },
+      "district": {
+        "id": "35.77.01",
+        "name": "Kartoharjo"
+      }
+    },
+    {
+      "id": "35.77.01.1008",
+      "name": "Kartoharjo",
+      "postal_code": "63117",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.77",
+        "name": "Kota Madiun"
+      },
+      "district": {
+        "id": "35.77.01",
+        "name": "Kartoharjo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

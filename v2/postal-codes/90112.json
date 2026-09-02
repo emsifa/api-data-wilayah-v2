@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "73.71.04.1001",
+      "name": "Maloku",
+      "postal_code": "90112",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.71",
+        "name": "Kota Makassar"
+      },
+      "district": {
+        "id": "73.71.04",
+        "name": "Ujung Pandang"
+      }
+    },
+    {
+      "id": "73.71.04.1008",
+      "name": "Losari",
+      "postal_code": "90112",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.71",
+        "name": "Kota Makassar"
+      },
+      "district": {
+        "id": "73.71.04",
+        "name": "Ujung Pandang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

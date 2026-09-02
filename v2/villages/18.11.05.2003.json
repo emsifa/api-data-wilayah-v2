@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.11.05.2003",
+    "name": "Margo Rahayu",
+    "postal_code": "34699",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.11",
+      "name": "Kabupaten Mesuji"
+    },
+    "district": {
+      "id": "18.11.05",
+      "name": "Simpang Pematang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

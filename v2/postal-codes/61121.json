@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "35.25.14.1010",
+      "name": "Kebomas",
+      "postal_code": "61121",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.14",
+        "name": "Kebomas"
+      }
+    },
+    {
+      "id": "35.25.14.1011",
+      "name": "Kawis Anyar",
+      "postal_code": "61121",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.14",
+        "name": "Kebomas"
+      }
+    },
+    {
+      "id": "35.25.14.2004",
+      "name": "Randuagung",
+      "postal_code": "61121",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.14",
+        "name": "Kebomas"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

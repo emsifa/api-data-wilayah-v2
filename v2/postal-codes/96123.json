@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "75.71.03.1010",
+      "name": "Dulomo Selatan",
+      "postal_code": "96123",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.71",
+        "name": "Kota Gorontalo"
+      },
+      "district": {
+        "id": "75.71.03",
+        "name": "Kota Utara"
+      }
+    },
+    {
+      "id": "75.71.03.1014",
+      "name": "Dulomo Utara",
+      "postal_code": "96123",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.71",
+        "name": "Kota Gorontalo"
+      },
+      "district": {
+        "id": "75.71.03",
+        "name": "Kota Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

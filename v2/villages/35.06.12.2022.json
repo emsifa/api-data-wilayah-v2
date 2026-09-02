@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.06.12.2022",
+    "name": "Ngebrak",
+    "postal_code": "64182",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.06",
+      "name": "Kabupaten Kediri"
+    },
+    "district": {
+      "id": "35.06.12",
+      "name": "Gampengrejo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

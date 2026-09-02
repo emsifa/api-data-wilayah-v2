@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "73.18.27.1003",
+      "name": "Bungin",
+      "postal_code": "91812",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.18",
+        "name": "Kabupaten Tana Toraja"
+      },
+      "district": {
+        "id": "73.18.27",
+        "name": "Makale Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

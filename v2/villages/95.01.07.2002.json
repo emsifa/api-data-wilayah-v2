@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.01.07.2002",
+    "name": "Anegera",
+    "postal_code": "99533",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.01",
+      "name": "Kabupaten Jayawijaya"
+    },
+    "district": {
+      "id": "95.01.07",
+      "name": "Musatfak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

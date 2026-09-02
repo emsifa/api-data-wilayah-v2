@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.02.05.2009",
+    "name": "Parentek",
+    "postal_code": "95685",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.02",
+      "name": "Kabupaten Minahasa"
+    },
+    "district": {
+      "id": "71.02.05",
+      "name": "Lembean Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.08.05.2006",
+    "name": "Wamesa",
+    "postal_code": "98114",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.08",
+      "name": "Kabupaten Kaimana"
+    },
+    "district": {
+      "id": "92.08.05",
+      "name": "Kambrau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

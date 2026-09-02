@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.03.10.2003",
+    "name": "Tambakromo",
+    "postal_code": "55892",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.03",
+      "name": "Kabupaten Gunungkidul"
+    },
+    "district": {
+      "id": "34.03.10",
+      "name": "Ponjong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

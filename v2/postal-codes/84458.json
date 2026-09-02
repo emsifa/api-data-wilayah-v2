@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "52.07.05.2001",
+      "name": "Desa Beru",
+      "postal_code": "84458",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.07",
+        "name": "Kabupaten Sumbawa Barat"
+      },
+      "district": {
+        "id": "52.07.05",
+        "name": "Brang Rea"
+      }
+    },
+    {
+      "id": "52.07.05.2002",
+      "name": "Tepas",
+      "postal_code": "84458",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.07",
+        "name": "Kabupaten Sumbawa Barat"
+      },
+      "district": {
+        "id": "52.07.05",
+        "name": "Brang Rea"
+      }
+    },
+    {
+      "id": "52.07.05.2003",
+      "name": "Bangkat Monteh",
+      "postal_code": "84458",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.07",
+        "name": "Kabupaten Sumbawa Barat"
+      },
+      "district": {
+        "id": "52.07.05",
+        "name": "Brang Rea"
+      }
+    },
+    {
+      "id": "52.07.05.2004",
+      "name": "Sapugara Bree",
+      "postal_code": "84458",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.07",
+        "name": "Kabupaten Sumbawa Barat"
+      },
+      "district": {
+        "id": "52.07.05",
+        "name": "Brang Rea"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

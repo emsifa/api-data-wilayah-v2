@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.05.05.2005",
+    "name": "Sotol",
+    "postal_code": "28380",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.05",
+      "name": "Kabupaten Pelalawan"
+    },
+    "district": {
+      "id": "14.05.05",
+      "name": "Langgam"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

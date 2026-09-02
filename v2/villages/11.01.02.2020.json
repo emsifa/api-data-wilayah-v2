@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.01.02.2020",
+    "name": "Kotafajar",
+    "postal_code": "23771",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.01",
+      "name": "Kabupaten Aceh Selatan"
+    },
+    "district": {
+      "id": "11.01.02",
+      "name": "Kluet Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

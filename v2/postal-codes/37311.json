@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "15.02.02.1010",
+      "name": "Pasar Bangko",
+      "postal_code": "37311",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.02",
+        "name": "Bangko"
+      }
+    },
+    {
+      "id": "15.02.02.2004",
+      "name": "Kungkai",
+      "postal_code": "37311",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.02",
+        "name": "Bangko"
+      }
+    },
+    {
+      "id": "15.02.02.2008",
+      "name": "Mudo",
+      "postal_code": "37311",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.02",
+        "name": "Bangko"
+      }
+    },
+    {
+      "id": "15.02.02.2012",
+      "name": "Langling",
+      "postal_code": "37311",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.02",
+        "name": "Bangko"
+      }
+    },
+    {
+      "id": "15.02.02.2024",
+      "name": "Sungai Kapas",
+      "postal_code": "37311",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.02",
+        "name": "Bangko"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

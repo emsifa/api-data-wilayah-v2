@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.71.02.1002",
+    "name": "Pasir Putih",
+    "postal_code": "36139",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.71",
+      "name": "Kota Jambi"
+    },
+    "district": {
+      "id": "15.71.02",
+      "name": "Jambi Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

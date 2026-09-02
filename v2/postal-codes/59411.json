@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "33.20.06.1001",
+      "name": "Karangkebagusan",
+      "postal_code": "59411",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.20",
+        "name": "Kabupaten Jepara"
+      },
+      "district": {
+        "id": "33.20.06",
+        "name": "Jepara"
+      }
+    },
+    {
+      "id": "33.20.06.1006",
+      "name": "Panggang",
+      "postal_code": "59411",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.20",
+        "name": "Kabupaten Jepara"
+      },
+      "district": {
+        "id": "33.20.06",
+        "name": "Jepara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

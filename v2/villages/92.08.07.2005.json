@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.08.07.2005",
+    "name": "Hairapara",
+    "postal_code": "98122",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.08",
+      "name": "Kabupaten Kaimana"
+    },
+    "district": {
+      "id": "92.08.07",
+      "name": "Yamor"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

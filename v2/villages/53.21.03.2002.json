@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.21.03.2002",
+    "name": "Weulun",
+    "postal_code": "85775",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.21",
+      "name": "Kabupaten Malaka"
+    },
+    "district": {
+      "id": "53.21.03",
+      "name": "Wewiku"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.12.04.2010",
+    "name": "Lembono",
+    "postal_code": "93396",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.12",
+      "name": "Kabupaten Konawe Kepulauan"
+    },
+    "district": {
+      "id": "74.12.04",
+      "name": "Wawonii Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

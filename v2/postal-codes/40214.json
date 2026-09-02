@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "32.04.10.2006",
+      "name": "Cigondewah Hilir",
+      "postal_code": "40214",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.10",
+        "name": "Margaasih"
+      }
+    },
+    {
+      "id": "32.73.15.1005",
+      "name": "Cigondewah Kaler",
+      "postal_code": "40214",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.15",
+        "name": "Bandung Kulon"
+      }
+    },
+    {
+      "id": "32.73.15.1008",
+      "name": "Cigondewah Kidul",
+      "postal_code": "40214",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.15",
+        "name": "Bandung Kulon"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

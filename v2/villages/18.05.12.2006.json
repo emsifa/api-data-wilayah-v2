@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.05.12.2006",
+    "name": "Wono Agung",
+    "postal_code": "34591",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.05",
+      "name": "Kabupaten Tulang Bawang"
+    },
+    "district": {
+      "id": "18.05.12",
+      "name": "Rawa Jitu Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

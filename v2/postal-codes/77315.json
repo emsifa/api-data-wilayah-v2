@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "64.03.05.1003",
+      "name": "Sungai Bedungun",
+      "postal_code": "77315",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.03",
+        "name": "Kabupaten Berau"
+      },
+      "district": {
+        "id": "64.03.05",
+        "name": "Tanjung Redeb"
+      }
+    },
+    {
+      "id": "64.03.05.1004",
+      "name": "Tanjung Redeb",
+      "postal_code": "77315",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.03",
+        "name": "Kabupaten Berau"
+      },
+      "district": {
+        "id": "64.03.05",
+        "name": "Tanjung Redeb"
+      }
+    },
+    {
+      "id": "64.03.05.1006",
+      "name": "Gayam",
+      "postal_code": "77315",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.03",
+        "name": "Kabupaten Berau"
+      },
+      "district": {
+        "id": "64.03.05",
+        "name": "Tanjung Redeb"
+      }
+    },
+    {
+      "id": "64.03.05.1007",
+      "name": "Karang Ambun",
+      "postal_code": "77315",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.03",
+        "name": "Kabupaten Berau"
+      },
+      "district": {
+        "id": "64.03.05",
+        "name": "Tanjung Redeb"
+      }
+    },
+    {
+      "id": "64.03.09.1002",
+      "name": "Teluk Bayur",
+      "postal_code": "77315",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.03",
+        "name": "Kabupaten Berau"
+      },
+      "district": {
+        "id": "64.03.09",
+        "name": "Teluk Bayur"
+      }
+    },
+    {
+      "id": "64.03.09.2001",
+      "name": "Tumbit Melayu",
+      "postal_code": "77315",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.03",
+        "name": "Kabupaten Berau"
+      },
+      "district": {
+        "id": "64.03.09",
+        "name": "Teluk Bayur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

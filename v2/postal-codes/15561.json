@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "36.03.29.2001",
+      "name": "Sindang Jaya",
+      "postal_code": "15561",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.29",
+        "name": "Sindang Jaya"
+      }
+    },
+    {
+      "id": "36.03.29.2002",
+      "name": "Wanakerta",
+      "postal_code": "15561",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.29",
+        "name": "Sindang Jaya"
+      }
+    },
+    {
+      "id": "36.03.29.2003",
+      "name": "Sukaharja",
+      "postal_code": "15561",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.29",
+        "name": "Sindang Jaya"
+      }
+    },
+    {
+      "id": "36.03.29.2004",
+      "name": "Sindangasih",
+      "postal_code": "15561",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.29",
+        "name": "Sindang Jaya"
+      }
+    },
+    {
+      "id": "36.03.29.2005",
+      "name": "Sindangpanon",
+      "postal_code": "15561",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.29",
+        "name": "Sindang Jaya"
+      }
+    },
+    {
+      "id": "36.03.29.2006",
+      "name": "Sindangsono",
+      "postal_code": "15561",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.29",
+        "name": "Sindang Jaya"
+      }
+    },
+    {
+      "id": "36.03.29.2007",
+      "name": "Badak Anom",
+      "postal_code": "15561",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.29",
+        "name": "Sindang Jaya"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

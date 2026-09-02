@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.08.12.2015",
+    "name": "Nua Lima",
+    "postal_code": "86361",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.08",
+      "name": "Kabupaten Ende"
+    },
+    "district": {
+      "id": "53.08.12",
+      "name": "Lio Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

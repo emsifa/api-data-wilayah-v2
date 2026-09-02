@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.25.02.2013",
+    "name": "Hilimberuanaa",
+    "postal_code": "22863",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.25",
+      "name": "Kabupaten Nias Barat"
+    },
+    "district": {
+      "id": "12.25.02",
+      "name": "Sirombu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "91.06.11.2006",
+    "name": "Sunyar",
+    "postal_code": "98547",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.06",
+      "name": "Kabupaten Biak Numfor"
+    },
+    "district": {
+      "id": "91.06.11",
+      "name": "Yendidori"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

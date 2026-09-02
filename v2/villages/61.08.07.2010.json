@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.08.07.2010",
+    "name": "Keranji Mancal",
+    "postal_code": "79356",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.08",
+      "name": "Kabupaten Landak"
+    },
+    "district": {
+      "id": "61.08.07",
+      "name": "Sengah Temila"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

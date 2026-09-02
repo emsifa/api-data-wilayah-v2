@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.11.04.2007",
+    "name": "Mataindo Utara",
+    "postal_code": "95776",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.11",
+      "name": "Kabupaten Bolaang Mongondow Selatan"
+    },
+    "district": {
+      "id": "71.11.04",
+      "name": "Pinolosian Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

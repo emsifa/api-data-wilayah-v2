@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.09.03.2017",
+    "name": "Medan Seri Rambahan",
+    "postal_code": "37555",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.09",
+      "name": "Kabupaten Tebo"
+    },
+    "district": {
+      "id": "15.09.03",
+      "name": "Tebo Ulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

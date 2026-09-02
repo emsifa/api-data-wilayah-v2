@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.08.06.2002",
+    "name": "Ilputih",
+    "postal_code": "97446",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.08",
+      "name": "Kabupaten Maluku Barat Daya"
+    },
+    "district": {
+      "id": "81.08.06",
+      "name": "Wetar Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

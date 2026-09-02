@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.22.07.2005",
+    "name": "Kemambang",
+    "postal_code": "50664",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.22",
+      "name": "Kabupaten Semarang"
+    },
+    "district": {
+      "id": "33.22.07",
+      "name": "Banyubiru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.06.06.2007",
+    "name": "Air Merah",
+    "postal_code": "38762",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.06",
+      "name": "Kabupaten Mukomuko"
+    },
+    "district": {
+      "id": "17.06.06",
+      "name": "Malin Deman"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

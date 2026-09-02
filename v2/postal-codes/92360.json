@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "73.04.04.1001",
+      "name": "Togo Togo",
+      "postal_code": "92360",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.04",
+        "name": "Kabupaten Jeneponto"
+      },
+      "district": {
+        "id": "73.04.04",
+        "name": "Batang"
+      }
+    },
+    {
+      "id": "73.04.04.1002",
+      "name": "Bonto Raya",
+      "postal_code": "92360",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.04",
+        "name": "Kabupaten Jeneponto"
+      },
+      "district": {
+        "id": "73.04.04",
+        "name": "Batang"
+      }
+    },
+    {
+      "id": "73.04.04.2003",
+      "name": "Maccinibaji",
+      "postal_code": "92360",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.04",
+        "name": "Kabupaten Jeneponto"
+      },
+      "district": {
+        "id": "73.04.04",
+        "name": "Batang"
+      }
+    },
+    {
+      "id": "73.04.04.2008",
+      "name": "Camba Camba",
+      "postal_code": "92360",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.04",
+        "name": "Kabupaten Jeneponto"
+      },
+      "district": {
+        "id": "73.04.04",
+        "name": "Batang"
+      }
+    },
+    {
+      "id": "73.04.04.2009",
+      "name": "Kaluku",
+      "postal_code": "92360",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.04",
+        "name": "Kabupaten Jeneponto"
+      },
+      "district": {
+        "id": "73.04.04",
+        "name": "Batang"
+      }
+    },
+    {
+      "id": "73.04.04.2014",
+      "name": "Bungeng",
+      "postal_code": "92360",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.04",
+        "name": "Kabupaten Jeneponto"
+      },
+      "district": {
+        "id": "73.04.04",
+        "name": "Batang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

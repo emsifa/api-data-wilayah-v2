@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.12.03.1003",
+    "name": "Pajalesang",
+    "postal_code": "90871",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.12",
+      "name": "Kabupaten Soppeng"
+    },
+    "district": {
+      "id": "73.12.03",
+      "name": "Lilirilau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.04.06.2006",
+    "name": "Sibea",
+    "postal_code": "94518",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.04",
+      "name": "Kabupaten Toli-Toli"
+    },
+    "district": {
+      "id": "72.04.06",
+      "name": "Lampasio"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

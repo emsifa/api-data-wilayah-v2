@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.01.08.2003",
+    "name": "Pirambot",
+    "postal_code": "99523",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.01",
+      "name": "Kabupaten Jayawijaya"
+    },
+    "district": {
+      "id": "95.01.08",
+      "name": "Wolo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

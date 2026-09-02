@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "14.10.01.1001",
+      "name": "Selatpanjang Kota",
+      "postal_code": "28753",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.10",
+        "name": "Kabupaten Kepulauan Meranti"
+      },
+      "district": {
+        "id": "14.10.01",
+        "name": "Tebing Tinggi"
+      }
+    },
+    {
+      "id": "14.10.01.1002",
+      "name": "Selatpanjang Barat",
+      "postal_code": "28753",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.10",
+        "name": "Kabupaten Kepulauan Meranti"
+      },
+      "district": {
+        "id": "14.10.01",
+        "name": "Tebing Tinggi"
+      }
+    },
+    {
+      "id": "14.10.01.1003",
+      "name": "Selatpanjang Selatan",
+      "postal_code": "28753",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.10",
+        "name": "Kabupaten Kepulauan Meranti"
+      },
+      "district": {
+        "id": "14.10.01",
+        "name": "Tebing Tinggi"
+      }
+    },
+    {
+      "id": "14.10.01.1004",
+      "name": "Selatpanjang Timur",
+      "postal_code": "28753",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.10",
+        "name": "Kabupaten Kepulauan Meranti"
+      },
+      "district": {
+        "id": "14.10.01",
+        "name": "Tebing Tinggi"
+      }
+    },
+    {
+      "id": "14.10.01.2005",
+      "name": "Banglas",
+      "postal_code": "28753",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.10",
+        "name": "Kabupaten Kepulauan Meranti"
+      },
+      "district": {
+        "id": "14.10.01",
+        "name": "Tebing Tinggi"
+      }
+    },
+    {
+      "id": "14.10.01.2006",
+      "name": "Alah Air",
+      "postal_code": "28753",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.10",
+        "name": "Kabupaten Kepulauan Meranti"
+      },
+      "district": {
+        "id": "14.10.01",
+        "name": "Tebing Tinggi"
+      }
+    },
+    {
+      "id": "14.10.01.2007",
+      "name": "Alah Air Timur",
+      "postal_code": "28753",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.10",
+        "name": "Kabupaten Kepulauan Meranti"
+      },
+      "district": {
+        "id": "14.10.01",
+        "name": "Tebing Tinggi"
+      }
+    },
+    {
+      "id": "14.10.01.2008",
+      "name": "Sesap",
+      "postal_code": "28753",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.10",
+        "name": "Kabupaten Kepulauan Meranti"
+      },
+      "district": {
+        "id": "14.10.01",
+        "name": "Tebing Tinggi"
+      }
+    },
+    {
+      "id": "14.10.01.2016",
+      "name": "Banglas Barat",
+      "postal_code": "28753",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.10",
+        "name": "Kabupaten Kepulauan Meranti"
+      },
+      "district": {
+        "id": "14.10.01",
+        "name": "Tebing Tinggi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

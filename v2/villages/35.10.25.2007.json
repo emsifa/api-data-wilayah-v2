@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.10.25.2007",
+    "name": "Kaligung",
+    "postal_code": "68460",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.10",
+      "name": "Kabupaten Banyuwangi"
+    },
+    "district": {
+      "id": "35.10.25",
+      "name": "Blimbingsari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

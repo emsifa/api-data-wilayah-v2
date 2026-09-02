@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": "12.20.11.2001",
+      "name": "Siancimun",
+      "postal_code": "22752",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.20",
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "district": {
+        "id": "12.20.11",
+        "name": "Halongonan Timur"
+      }
+    },
+    {
+      "id": "12.20.11.2002",
+      "name": "Bolatan",
+      "postal_code": "22752",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.20",
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "district": {
+        "id": "12.20.11",
+        "name": "Halongonan Timur"
+      }
+    },
+    {
+      "id": "12.20.11.2003",
+      "name": "Pasir Bara",
+      "postal_code": "22752",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.20",
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "district": {
+        "id": "12.20.11",
+        "name": "Halongonan Timur"
+      }
+    },
+    {
+      "id": "12.20.11.2004",
+      "name": "Gunung Intan",
+      "postal_code": "22752",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.20",
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "district": {
+        "id": "12.20.11",
+        "name": "Halongonan Timur"
+      }
+    },
+    {
+      "id": "12.20.11.2005",
+      "name": "Mompang I",
+      "postal_code": "22752",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.20",
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "district": {
+        "id": "12.20.11",
+        "name": "Halongonan Timur"
+      }
+    },
+    {
+      "id": "12.20.11.2006",
+      "name": "Gunung Manaon III",
+      "postal_code": "22752",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.20",
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "district": {
+        "id": "12.20.11",
+        "name": "Halongonan Timur"
+      }
+    },
+    {
+      "id": "12.20.11.2007",
+      "name": "Sihopuk Baru",
+      "postal_code": "22752",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.20",
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "district": {
+        "id": "12.20.11",
+        "name": "Halongonan Timur"
+      }
+    },
+    {
+      "id": "12.20.11.2008",
+      "name": "Sihopuk Lama",
+      "postal_code": "22752",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.20",
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "district": {
+        "id": "12.20.11",
+        "name": "Halongonan Timur"
+      }
+    },
+    {
+      "id": "12.20.11.2009",
+      "name": "Rondaman",
+      "postal_code": "22752",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.20",
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "district": {
+        "id": "12.20.11",
+        "name": "Halongonan Timur"
+      }
+    },
+    {
+      "id": "12.20.11.2010",
+      "name": "Hutabaru Nangka",
+      "postal_code": "22752",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.20",
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "district": {
+        "id": "12.20.11",
+        "name": "Halongonan Timur"
+      }
+    },
+    {
+      "id": "12.20.11.2011",
+      "name": "Situmbaga",
+      "postal_code": "22752",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.20",
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "district": {
+        "id": "12.20.11",
+        "name": "Halongonan Timur"
+      }
+    },
+    {
+      "id": "12.20.11.2012",
+      "name": "Batang Pane I",
+      "postal_code": "22752",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.20",
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "district": {
+        "id": "12.20.11",
+        "name": "Halongonan Timur"
+      }
+    },
+    {
+      "id": "12.20.11.2013",
+      "name": "Batang Pane II",
+      "postal_code": "22752",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.20",
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "district": {
+        "id": "12.20.11",
+        "name": "Halongonan Timur"
+      }
+    },
+    {
+      "id": "12.20.11.2014",
+      "name": "Batang Pane III",
+      "postal_code": "22752",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.20",
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "district": {
+        "id": "12.20.11",
+        "name": "Halongonan Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

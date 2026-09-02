@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.75.05.1004",
+    "name": "Rambung Dalam",
+    "postal_code": "20722",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.75",
+      "name": "Kota Binjai"
+    },
+    "district": {
+      "id": "12.75.05",
+      "name": "Binjai Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

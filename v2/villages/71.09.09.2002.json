@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.09.09.2002",
+    "name": "Beong",
+    "postal_code": "95860",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.09",
+      "name": "Kabupaten Kep. Siau Tagulandang Biaro"
+    },
+    "district": {
+      "id": "71.09.09",
+      "name": "Siau Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

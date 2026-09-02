@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.02.08.2003",
+    "name": "Banua Lawas",
+    "postal_code": "72162",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.02",
+      "name": "Kabupaten Kotabaru"
+    },
+    "district": {
+      "id": "63.02.08",
+      "name": "Kelumpang Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

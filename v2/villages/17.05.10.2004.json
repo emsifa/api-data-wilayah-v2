@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.05.10.2004",
+    "name": "Pandan",
+    "postal_code": "38884",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.05",
+      "name": "Kabupaten Seluma"
+    },
+    "district": {
+      "id": "17.05.10",
+      "name": "Seluma Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

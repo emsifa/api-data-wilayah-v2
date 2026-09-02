@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "73.16.09.1001",
+      "name": "Malua",
+      "postal_code": "91751",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.09",
+        "name": "Malua"
+      }
+    },
+    {
+      "id": "73.16.09.2002",
+      "name": "Bonto",
+      "postal_code": "91751",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.09",
+        "name": "Malua"
+      }
+    },
+    {
+      "id": "73.16.09.2003",
+      "name": "Tallung Tondok",
+      "postal_code": "91751",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.09",
+        "name": "Malua"
+      }
+    },
+    {
+      "id": "73.16.09.2004",
+      "name": "Rante Mario",
+      "postal_code": "91751",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.09",
+        "name": "Malua"
+      }
+    },
+    {
+      "id": "73.16.09.2005",
+      "name": "Tangru",
+      "postal_code": "91751",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.09",
+        "name": "Malua"
+      }
+    },
+    {
+      "id": "73.16.09.2006",
+      "name": "Kolai",
+      "postal_code": "91751",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.09",
+        "name": "Malua"
+      }
+    },
+    {
+      "id": "73.16.09.2007",
+      "name": "Dulang",
+      "postal_code": "91751",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.09",
+        "name": "Malua"
+      }
+    },
+    {
+      "id": "73.16.09.2008",
+      "name": "Buntu Batuan",
+      "postal_code": "91751",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.09",
+        "name": "Malua"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.07.09.2010",
+    "name": "Lampoh Krueng",
+    "postal_code": "24119",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.07",
+      "name": "Kabupaten Pidie"
+    },
+    "district": {
+      "id": "11.07.09",
+      "name": "Kota Sigli"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

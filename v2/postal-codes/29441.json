@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "21.71.06.1004",
+      "name": "Batu Selicin",
+      "postal_code": "29441",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.71",
+        "name": "Kota Batam"
+      },
+      "district": {
+        "id": "21.71.06",
+        "name": "Lubuk Baja"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "12.72.01.1007",
+      "name": "Siopat Suhu",
+      "postal_code": "21139",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.72",
+        "name": "Kota Pematangsiantar"
+      },
+      "district": {
+        "id": "12.72.01",
+        "name": "Siantar Timur"
+      }
+    },
+    {
+      "id": "12.72.07.1002",
+      "name": "Bah Kapul",
+      "postal_code": "21139",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.72",
+        "name": "Kota Pematangsiantar"
+      },
+      "district": {
+        "id": "12.72.07",
+        "name": "Siantar Sitalasari"
+      }
+    },
+    {
+      "id": "12.72.07.1005",
+      "name": "Bah Sorma",
+      "postal_code": "21139",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.72",
+        "name": "Kota Pematangsiantar"
+      },
+      "district": {
+        "id": "12.72.07",
+        "name": "Siantar Sitalasari"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

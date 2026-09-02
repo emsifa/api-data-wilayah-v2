@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.75.01.1003",
+    "name": "Podosugih",
+    "postal_code": "51111",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.75",
+      "name": "Kota Pekalongan"
+    },
+    "district": {
+      "id": "33.75.01",
+      "name": "Pekalongan Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

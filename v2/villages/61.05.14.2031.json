@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.05.14.2031",
+    "name": "Nanga Ruhan",
+    "postal_code": "78683",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.05",
+      "name": "Kabupaten Sintang"
+    },
+    "district": {
+      "id": "61.05.14",
+      "name": "Serawai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

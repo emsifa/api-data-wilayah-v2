@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.08.09.2005",
+    "name": "Marsela",
+    "postal_code": "97653",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.08",
+      "name": "Kabupaten Maluku Barat Daya"
+    },
+    "district": {
+      "id": "81.08.09",
+      "name": "Pulau Masela"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

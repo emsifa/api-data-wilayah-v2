@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.05.03.2033",
+    "name": "Ataku",
+    "postal_code": "93819",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.05",
+      "name": "Kabupaten Konawe Selatan"
+    },
+    "district": {
+      "id": "74.05.03",
+      "name": "Andoolo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

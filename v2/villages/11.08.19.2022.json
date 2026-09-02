@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.08.19.2022",
+    "name": "Lhok Euncien",
+    "postal_code": "24396",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.08",
+      "name": "Kabupaten Aceh Utara"
+    },
+    "district": {
+      "id": "11.08.19",
+      "name": "Baktiya Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

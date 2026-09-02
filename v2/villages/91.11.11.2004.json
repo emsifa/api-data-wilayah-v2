@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "91.11.11.2004",
+    "name": "Onam",
+    "postal_code": "99465",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.11",
+      "name": "Kabupaten Keerom"
+    },
+    "district": {
+      "id": "91.11.11",
+      "name": "Kaisenar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

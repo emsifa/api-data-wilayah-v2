@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "18.71.08.1007",
+      "name": "Negeri Olok Gading",
+      "postal_code": "35233",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.08",
+        "name": "Telukbetung Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.05.04.2004",
+    "name": "Tiangau",
+    "postal_code": "29790",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.05",
+      "name": "Kabupaten Kepulauan Anambas"
+    },
+    "district": {
+      "id": "21.05.04",
+      "name": "Siantan Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

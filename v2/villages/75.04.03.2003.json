@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.04.03.2003",
+    "name": "Manunggal Karya",
+    "postal_code": "96469",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.04",
+      "name": "Kabupaten Pohuwato"
+    },
+    "district": {
+      "id": "75.04.03",
+      "name": "Randangan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

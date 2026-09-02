@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.03.21.2012",
+    "name": "Lhok Leumak",
+    "postal_code": "24468",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.03",
+      "name": "Kabupaten Aceh Timur"
+    },
+    "district": {
+      "id": "11.03.21",
+      "name": "Darul Ihsan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

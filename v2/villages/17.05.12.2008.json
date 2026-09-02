@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.05.12.2008",
+    "name": "Sungai Petai",
+    "postal_code": "38888",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.05",
+      "name": "Kabupaten Seluma"
+    },
+    "district": {
+      "id": "17.05.12",
+      "name": "Talo Kecil"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

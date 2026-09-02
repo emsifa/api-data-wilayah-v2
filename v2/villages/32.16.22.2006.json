@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.16.22.2006",
+    "name": "Cibarusah Jaya",
+    "postal_code": "17340",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.16",
+      "name": "Kabupaten Bekasi"
+    },
+    "district": {
+      "id": "32.16.22",
+      "name": "Cibarusah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.16.10.2009",
+    "name": "Sibongkare Sianju",
+    "postal_code": "22451",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.16",
+      "name": "Kabupaten Humbang Hasundutan"
+    },
+    "district": {
+      "id": "12.16.10",
+      "name": "Tarabintang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

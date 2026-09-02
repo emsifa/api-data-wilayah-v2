@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.02.18.2005",
+    "name": "Asem",
+    "postal_code": "42357",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.02",
+      "name": "Kabupaten Lebak"
+    },
+    "district": {
+      "id": "36.02.18",
+      "name": "Cibadak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

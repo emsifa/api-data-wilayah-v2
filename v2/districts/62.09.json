@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "62.09",
+    "name": "Kabupaten Lamandau",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.09",
+      "name": "Kabupaten Lamandau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

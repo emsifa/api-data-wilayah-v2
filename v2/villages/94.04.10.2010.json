@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.04.10.2010",
+    "name": "Aingogin",
+    "postal_code": "99967",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.04",
+      "name": "Kabupaten Mimika"
+    },
+    "district": {
+      "id": "94.04.10",
+      "name": "Tembagapura"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

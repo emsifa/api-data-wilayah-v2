@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.04.01.2014",
+    "name": "Pulauruku",
+    "postal_code": "29273",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.04",
+      "name": "Kabupaten Indragiri Hilir"
+    },
+    "district": {
+      "id": "14.04.01",
+      "name": "Reteh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

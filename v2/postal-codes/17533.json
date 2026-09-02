@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "32.16.11.1007",
+      "name": "Sertajaya",
+      "postal_code": "17533",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.11",
+        "name": "Cikarang Timur"
+      }
+    },
+    {
+      "id": "32.16.11.2001",
+      "name": "Tanjungbaru",
+      "postal_code": "17533",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.11",
+        "name": "Cikarang Timur"
+      }
+    },
+    {
+      "id": "32.16.11.2002",
+      "name": "Cipayung",
+      "postal_code": "17533",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.11",
+        "name": "Cikarang Timur"
+      }
+    },
+    {
+      "id": "32.16.11.2003",
+      "name": "Hegarmanah",
+      "postal_code": "17533",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.11",
+        "name": "Cikarang Timur"
+      }
+    },
+    {
+      "id": "32.16.11.2004",
+      "name": "Jatireja",
+      "postal_code": "17533",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.11",
+        "name": "Cikarang Timur"
+      }
+    },
+    {
+      "id": "32.16.11.2005",
+      "name": "Jatibaru",
+      "postal_code": "17533",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.11",
+        "name": "Cikarang Timur"
+      }
+    },
+    {
+      "id": "32.16.11.2006",
+      "name": "Labansari",
+      "postal_code": "17533",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.11",
+        "name": "Cikarang Timur"
+      }
+    },
+    {
+      "id": "32.16.11.2008",
+      "name": "Karangsari",
+      "postal_code": "17533",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.11",
+        "name": "Cikarang Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

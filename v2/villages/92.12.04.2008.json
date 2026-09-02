@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.12.04.2008",
+    "name": "Dugahani",
+    "postal_code": "98358",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.12",
+      "name": "Kabupaten Pegunungan Arfak"
+    },
+    "district": {
+      "id": "92.12.04",
+      "name": "Sururey"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

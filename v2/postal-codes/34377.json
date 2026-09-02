@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "18.07.17.2001",
+      "name": "Wana",
+      "postal_code": "34377",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.07",
+        "name": "Kabupaten Lampung Timur"
+      },
+      "district": {
+        "id": "18.07.17",
+        "name": "Melinting"
+      }
+    },
+    {
+      "id": "18.07.17.2002",
+      "name": "Tanjung Aji",
+      "postal_code": "34377",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.07",
+        "name": "Kabupaten Lampung Timur"
+      },
+      "district": {
+        "id": "18.07.17",
+        "name": "Melinting"
+      }
+    },
+    {
+      "id": "18.07.17.2003",
+      "name": "Tebing",
+      "postal_code": "34377",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.07",
+        "name": "Kabupaten Lampung Timur"
+      },
+      "district": {
+        "id": "18.07.17",
+        "name": "Melinting"
+      }
+    },
+    {
+      "id": "18.07.17.2004",
+      "name": "Sido Makmur",
+      "postal_code": "34377",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.07",
+        "name": "Kabupaten Lampung Timur"
+      },
+      "district": {
+        "id": "18.07.17",
+        "name": "Melinting"
+      }
+    },
+    {
+      "id": "18.07.17.2005",
+      "name": "Itik Renday",
+      "postal_code": "34377",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.07",
+        "name": "Kabupaten Lampung Timur"
+      },
+      "district": {
+        "id": "18.07.17",
+        "name": "Melinting"
+      }
+    },
+    {
+      "id": "18.07.17.2006",
+      "name": "Sumber Hadi",
+      "postal_code": "34377",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.07",
+        "name": "Kabupaten Lampung Timur"
+      },
+      "district": {
+        "id": "18.07.17",
+        "name": "Melinting"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

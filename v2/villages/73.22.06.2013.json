@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.22.06.2013",
+    "name": "Tolangi",
+    "postal_code": "92963",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.22",
+      "name": "Kabupaten Luwu Utara"
+    },
+    "district": {
+      "id": "73.22.06",
+      "name": "Sukamaju"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

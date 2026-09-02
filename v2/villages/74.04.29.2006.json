@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.04.29.2006",
+    "name": "Wabula Satu",
+    "postal_code": "93753",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.04",
+      "name": "Kabupaten Buton"
+    },
+    "district": {
+      "id": "74.04.29",
+      "name": "Wabula"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.28.12.2013",
+    "name": "Talang",
+    "postal_code": "52193",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.28",
+      "name": "Kabupaten Tegal"
+    },
+    "district": {
+      "id": "33.28.12",
+      "name": "Talang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

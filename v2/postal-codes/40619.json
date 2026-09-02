@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "32.04.07.2006",
+      "name": "Girimekar",
+      "postal_code": "40619",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.07",
+        "name": "Cilengkrang"
+      }
+    },
+    {
+      "id": "32.73.26.1003",
+      "name": "Pasir Endah",
+      "postal_code": "40619",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.26",
+        "name": "Ujungberung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "12.71.06.1004",
+      "name": "Kota Bangun",
+      "postal_code": "20243",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.71",
+        "name": "Kota Medan"
+      },
+      "district": {
+        "id": "12.71.06",
+        "name": "Medan Deli"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

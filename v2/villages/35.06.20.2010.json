@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.06.20.2010",
+    "name": "Cengkok",
+    "postal_code": "64152",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.06",
+      "name": "Kabupaten Kediri"
+    },
+    "district": {
+      "id": "35.06.20",
+      "name": "Tarokan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

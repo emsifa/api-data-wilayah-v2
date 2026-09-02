@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.08.05.2008",
+    "name": "Pamatang Panei",
+    "postal_code": "21165",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.08",
+      "name": "Kabupaten Simalungun"
+    },
+    "district": {
+      "id": "12.08.05",
+      "name": "Panombeian Panei"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

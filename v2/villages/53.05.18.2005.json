@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.05.18.2005",
+    "name": "Wakapsir Timur",
+    "postal_code": "85861",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.05",
+      "name": "Kabupaten Alor"
+    },
+    "district": {
+      "id": "53.05.18",
+      "name": "Abad Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

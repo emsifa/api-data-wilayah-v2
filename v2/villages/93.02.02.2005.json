@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.02.02.2005",
+    "name": "Epsembit",
+    "postal_code": "99663",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.02",
+      "name": "Kabupaten Boven Digoel"
+    },
+    "district": {
+      "id": "93.02.02",
+      "name": "Mindiptana"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "32.08.23.2001",
+      "name": "Garatengah",
+      "postal_code": "45555",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.08",
+        "name": "Kabupaten Kuningan"
+      },
+      "district": {
+        "id": "32.08.23",
+        "name": "Japara"
+      }
+    },
+    {
+      "id": "32.08.23.2002",
+      "name": "Rajadanu",
+      "postal_code": "45555",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.08",
+        "name": "Kabupaten Kuningan"
+      },
+      "district": {
+        "id": "32.08.23",
+        "name": "Japara"
+      }
+    },
+    {
+      "id": "32.08.23.2003",
+      "name": "Singkup",
+      "postal_code": "45555",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.08",
+        "name": "Kabupaten Kuningan"
+      },
+      "district": {
+        "id": "32.08.23",
+        "name": "Japara"
+      }
+    },
+    {
+      "id": "32.08.23.2004",
+      "name": "Japara",
+      "postal_code": "45555",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.08",
+        "name": "Kabupaten Kuningan"
+      },
+      "district": {
+        "id": "32.08.23",
+        "name": "Japara"
+      }
+    },
+    {
+      "id": "32.08.23.2005",
+      "name": "Wano",
+      "postal_code": "45555",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.08",
+        "name": "Kabupaten Kuningan"
+      },
+      "district": {
+        "id": "32.08.23",
+        "name": "Japara"
+      }
+    },
+    {
+      "id": "32.08.23.2006",
+      "name": "Citapen",
+      "postal_code": "45555",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.08",
+        "name": "Kabupaten Kuningan"
+      },
+      "district": {
+        "id": "32.08.23",
+        "name": "Japara"
+      }
+    },
+    {
+      "id": "32.08.23.2007",
+      "name": "Cengal",
+      "postal_code": "45555",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.08",
+        "name": "Kabupaten Kuningan"
+      },
+      "district": {
+        "id": "32.08.23",
+        "name": "Japara"
+      }
+    },
+    {
+      "id": "32.08.23.2008",
+      "name": "Cikeleng",
+      "postal_code": "45555",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.08",
+        "name": "Kabupaten Kuningan"
+      },
+      "district": {
+        "id": "32.08.23",
+        "name": "Japara"
+      }
+    },
+    {
+      "id": "32.08.23.2009",
+      "name": "Kalimati",
+      "postal_code": "45555",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.08",
+        "name": "Kabupaten Kuningan"
+      },
+      "district": {
+        "id": "32.08.23",
+        "name": "Japara"
+      }
+    },
+    {
+      "id": "32.08.23.2010",
+      "name": "Dukuhdalem",
+      "postal_code": "45555",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.08",
+        "name": "Kabupaten Kuningan"
+      },
+      "district": {
+        "id": "32.08.23",
+        "name": "Japara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

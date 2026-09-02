@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.71.09.1004",
+    "name": "Donggala",
+    "postal_code": "96116",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.71",
+      "name": "Kota Gorontalo"
+    },
+    "district": {
+      "id": "75.71.09",
+      "name": "Hulonthalangi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

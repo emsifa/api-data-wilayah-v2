@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "34.02.08.2005",
+      "name": "Sabdodadi",
+      "postal_code": "55715",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.02",
+        "name": "Kabupaten Bantul"
+      },
+      "district": {
+        "id": "34.02.08",
+        "name": "Bantul"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

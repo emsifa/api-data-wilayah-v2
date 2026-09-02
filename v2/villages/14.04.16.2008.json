@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.04.16.2008",
+    "name": "Sumber Makmur Jaya",
+    "postal_code": "29258",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.04",
+      "name": "Kabupaten Indragiri Hilir"
+    },
+    "district": {
+      "id": "14.04.16",
+      "name": "Teluk Belengkong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

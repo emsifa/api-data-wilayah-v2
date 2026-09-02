@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.06.07.2010",
+    "name": "Tadewa",
+    "postal_code": "84152",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.06",
+      "name": "Kabupaten Bima"
+    },
+    "district": {
+      "id": "52.06.07",
+      "name": "Wera"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

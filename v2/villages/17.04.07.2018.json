@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.04.07.2018",
+    "name": "Sinar Banten",
+    "postal_code": "38964",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.04",
+      "name": "Kabupaten Kaur"
+    },
+    "district": {
+      "id": "17.04.07",
+      "name": "Nasal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

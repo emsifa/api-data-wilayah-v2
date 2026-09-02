@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.01.07.2010",
+    "name": "Oko-Oko",
+    "postal_code": "93562",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.01",
+      "name": "Kabupaten Kolaka"
+    },
+    "district": {
+      "id": "74.01.07",
+      "name": "Pomalaa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

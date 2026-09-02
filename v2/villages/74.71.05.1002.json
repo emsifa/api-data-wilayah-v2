@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.71.05.1002",
+    "name": "Watu-Watu",
+    "postal_code": "93121",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.71",
+      "name": "Kota Kendari"
+    },
+    "district": {
+      "id": "74.71.05",
+      "name": "Kendari Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

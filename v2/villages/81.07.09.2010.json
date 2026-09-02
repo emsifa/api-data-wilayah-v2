@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.07.09.2010",
+    "name": "Gomar Meti",
+    "postal_code": "97666",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.07",
+      "name": "Kabupaten Kepulauan Aru"
+    },
+    "district": {
+      "id": "81.07.09",
+      "name": "Aru Selatan Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

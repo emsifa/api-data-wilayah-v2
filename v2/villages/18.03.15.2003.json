@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.03.15.2003",
+    "name": "Karang Sari",
+    "postal_code": "34559",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.03",
+      "name": "Kabupaten Lampung Utara"
+    },
+    "district": {
+      "id": "18.03.15",
+      "name": "Muara Sungkai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

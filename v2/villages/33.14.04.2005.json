@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.14.04.2005",
+    "name": "Jenggrik",
+    "postal_code": "57292",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.14",
+      "name": "Kabupaten Sragen"
+    },
+    "district": {
+      "id": "33.14.04",
+      "name": "Kedawung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

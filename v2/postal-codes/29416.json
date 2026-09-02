@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "21.71.01.1004",
+      "name": "Pulau Terung",
+      "postal_code": "29416",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.71",
+        "name": "Kota Batam"
+      },
+      "district": {
+        "id": "21.71.01",
+        "name": "Belakang Padang"
+      }
+    },
+    {
+      "id": "21.71.01.1006",
+      "name": "Tanjung Sari",
+      "postal_code": "29416",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.71",
+        "name": "Kota Batam"
+      },
+      "district": {
+        "id": "21.71.01",
+        "name": "Belakang Padang"
+      }
+    },
+    {
+      "id": "21.71.01.1007",
+      "name": "Sekanak Raya",
+      "postal_code": "29416",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.71",
+        "name": "Kota Batam"
+      },
+      "district": {
+        "id": "21.71.01",
+        "name": "Belakang Padang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

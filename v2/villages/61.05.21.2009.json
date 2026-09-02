@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.05.21.2009",
+    "name": "Empaka Kabiau Raya",
+    "postal_code": "78663",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.05",
+      "name": "Kabupaten Sintang"
+    },
+    "district": {
+      "id": "61.05.21",
+      "name": "Binjai Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.06.37.2005",
+    "name": "Buniasih",
+    "postal_code": "46157",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.06",
+      "name": "Kabupaten Tasikmalaya"
+    },
+    "district": {
+      "id": "32.06.37",
+      "name": "Kadipaten"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

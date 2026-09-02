@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "15.07.11.1001",
+      "name": "Simpang",
+      "postal_code": "36751",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.07",
+        "name": "Kabupaten Tanjung Jabung Timur"
+      },
+      "district": {
+        "id": "15.07.11",
+        "name": "Berbak"
+      }
+    },
+    {
+      "id": "15.07.11.2002",
+      "name": "Rantau Rasau",
+      "postal_code": "36751",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.07",
+        "name": "Kabupaten Tanjung Jabung Timur"
+      },
+      "district": {
+        "id": "15.07.11",
+        "name": "Berbak"
+      }
+    },
+    {
+      "id": "15.07.11.2003",
+      "name": "Rantau Makmur",
+      "postal_code": "36751",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.07",
+        "name": "Kabupaten Tanjung Jabung Timur"
+      },
+      "district": {
+        "id": "15.07.11",
+        "name": "Berbak"
+      }
+    },
+    {
+      "id": "15.07.11.2004",
+      "name": "Sungai Rambut",
+      "postal_code": "36751",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.07",
+        "name": "Kabupaten Tanjung Jabung Timur"
+      },
+      "district": {
+        "id": "15.07.11",
+        "name": "Berbak"
+      }
+    },
+    {
+      "id": "15.07.11.2005",
+      "name": "Rawasari",
+      "postal_code": "36751",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.07",
+        "name": "Kabupaten Tanjung Jabung Timur"
+      },
+      "district": {
+        "id": "15.07.11",
+        "name": "Berbak"
+      }
+    },
+    {
+      "id": "15.07.11.2006",
+      "name": "Telaga Limo",
+      "postal_code": "36751",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.07",
+        "name": "Kabupaten Tanjung Jabung Timur"
+      },
+      "district": {
+        "id": "15.07.11",
+        "name": "Berbak"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

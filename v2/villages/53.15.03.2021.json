@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.15.03.2021",
+    "name": "Siru",
+    "postal_code": "86753",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.15",
+      "name": "Kabupaten Manggarai Barat"
+    },
+    "district": {
+      "id": "53.15.03",
+      "name": "Lembor"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

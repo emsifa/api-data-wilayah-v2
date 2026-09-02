@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "35.28.03.2001",
+      "name": "Tobungan",
+      "postal_code": "69382",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.03",
+        "name": "Galis"
+      }
+    },
+    {
+      "id": "35.28.03.2002",
+      "name": "Konang",
+      "postal_code": "69382",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.03",
+        "name": "Galis"
+      }
+    },
+    {
+      "id": "35.28.03.2003",
+      "name": "Pandan",
+      "postal_code": "69382",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.03",
+        "name": "Galis"
+      }
+    },
+    {
+      "id": "35.28.03.2004",
+      "name": "Lembung",
+      "postal_code": "69382",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.03",
+        "name": "Galis"
+      }
+    },
+    {
+      "id": "35.28.03.2005",
+      "name": "Galis",
+      "postal_code": "69382",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.03",
+        "name": "Galis"
+      }
+    },
+    {
+      "id": "35.28.03.2006",
+      "name": "Bulay",
+      "postal_code": "69382",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.03",
+        "name": "Galis"
+      }
+    },
+    {
+      "id": "35.28.03.2007",
+      "name": "Pagendingan",
+      "postal_code": "69382",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.03",
+        "name": "Galis"
+      }
+    },
+    {
+      "id": "35.28.03.2008",
+      "name": "Ponteh",
+      "postal_code": "69382",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.03",
+        "name": "Galis"
+      }
+    },
+    {
+      "id": "35.28.03.2009",
+      "name": "Polagan",
+      "postal_code": "69382",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.03",
+        "name": "Galis"
+      }
+    },
+    {
+      "id": "35.28.03.2010",
+      "name": "Artodung",
+      "postal_code": "69382",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.03",
+        "name": "Galis"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

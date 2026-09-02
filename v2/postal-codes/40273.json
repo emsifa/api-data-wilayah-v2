@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "32.73.12.1003",
+      "name": "Cibangkong",
+      "postal_code": "40273",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.12",
+        "name": "Batununggal"
+      }
+    },
+    {
+      "id": "32.73.12.1007",
+      "name": "Samoja",
+      "postal_code": "40273",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.12",
+        "name": "Batununggal"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.04.04.2008",
+    "name": "Cumnew",
+    "postal_code": "99779",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.04",
+      "name": "Kabupaten Asmat"
+    },
+    "district": {
+      "id": "93.04.04",
+      "name": "Akat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

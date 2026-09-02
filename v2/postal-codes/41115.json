@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "32.14.01.1002",
+      "name": "Nagri Kaler",
+      "postal_code": "41115",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.01",
+        "name": "Purwakarta"
+      }
+    },
+    {
+      "id": "32.14.16.2001",
+      "name": "Parakansalam",
+      "postal_code": "41115",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.16",
+        "name": "Pondoksalam"
+      }
+    },
+    {
+      "id": "32.14.16.2002",
+      "name": "Pondokbungur",
+      "postal_code": "41115",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.16",
+        "name": "Pondoksalam"
+      }
+    },
+    {
+      "id": "32.14.16.2003",
+      "name": "Salem",
+      "postal_code": "41115",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.16",
+        "name": "Pondoksalam"
+      }
+    },
+    {
+      "id": "32.14.16.2004",
+      "name": "Galudra",
+      "postal_code": "41115",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.16",
+        "name": "Pondoksalam"
+      }
+    },
+    {
+      "id": "32.14.16.2005",
+      "name": "Tanjungsari",
+      "postal_code": "41115",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.16",
+        "name": "Pondoksalam"
+      }
+    },
+    {
+      "id": "32.14.16.2006",
+      "name": "Salammulya",
+      "postal_code": "41115",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.16",
+        "name": "Pondoksalam"
+      }
+    },
+    {
+      "id": "32.14.16.2007",
+      "name": "Salamjaya",
+      "postal_code": "41115",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.16",
+        "name": "Pondoksalam"
+      }
+    },
+    {
+      "id": "32.14.16.2008",
+      "name": "Bungurjaya",
+      "postal_code": "41115",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.16",
+        "name": "Pondoksalam"
+      }
+    },
+    {
+      "id": "32.14.16.2009",
+      "name": "Gurudug",
+      "postal_code": "41115",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.16",
+        "name": "Pondoksalam"
+      }
+    },
+    {
+      "id": "32.14.16.2010",
+      "name": "Sukajadi",
+      "postal_code": "41115",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.16",
+        "name": "Pondoksalam"
+      }
+    },
+    {
+      "id": "32.14.16.2011",
+      "name": "Situ",
+      "postal_code": "41115",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.16",
+        "name": "Pondoksalam"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

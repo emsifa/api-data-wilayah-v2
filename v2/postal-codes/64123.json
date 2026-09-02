@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "35.71.02.1008",
+      "name": "Pakelan",
+      "postal_code": "64123",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.71",
+        "name": "Kota Kediri"
+      },
+      "district": {
+        "id": "35.71.02",
+        "name": "Kota"
+      }
+    },
+    {
+      "id": "35.71.02.1016",
+      "name": "Pocanan",
+      "postal_code": "64123",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.71",
+        "name": "Kota Kediri"
+      },
+      "district": {
+        "id": "35.71.02",
+        "name": "Kota"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

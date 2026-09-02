@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.20.01.2015",
+    "name": "Hutaimbaru Simundol",
+    "postal_code": "22757",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.20",
+      "name": "Kabupaten Padang Lawas Utara"
+    },
+    "district": {
+      "id": "12.20.01",
+      "name": "Dolok Sigompulon"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

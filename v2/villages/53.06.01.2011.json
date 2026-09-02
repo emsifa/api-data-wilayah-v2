@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.06.01.2011",
+    "name": "Nileknoheng",
+    "postal_code": "86256",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.06",
+      "name": "Kabupaten Flores Timur"
+    },
+    "district": {
+      "id": "53.06.01",
+      "name": "Wulanggitang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

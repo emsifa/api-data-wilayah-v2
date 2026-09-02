@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.06.23.2003",
+    "name": "Meulayo",
+    "postal_code": "23360",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.06",
+      "name": "Kabupaten Aceh Besar"
+    },
+    "district": {
+      "id": "11.06.23",
+      "name": "Blang Bintang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.06.10.2009",
+    "name": "Loksado",
+    "postal_code": "71282",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.06",
+      "name": "Kabupaten Hulu Sungai Selatan"
+    },
+    "district": {
+      "id": "63.06.10",
+      "name": "Loksado"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

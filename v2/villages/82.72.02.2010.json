@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.72.02.2010",
+    "name": "Bukit Durian",
+    "postal_code": "97827",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.72",
+      "name": "Kota Tidore Kepulauan"
+    },
+    "district": {
+      "id": "82.72.02",
+      "name": "Oba Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

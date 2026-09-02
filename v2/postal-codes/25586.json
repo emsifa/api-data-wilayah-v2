@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "13.05.02.2001",
+      "name": "Katapiang",
+      "postal_code": "25586",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.05",
+        "name": "Kabupaten Padang Pariaman"
+      },
+      "district": {
+        "id": "13.05.02",
+        "name": "Batang Anai"
+      }
+    },
+    {
+      "id": "13.05.02.2002",
+      "name": "Kasang",
+      "postal_code": "25586",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.05",
+        "name": "Kabupaten Padang Pariaman"
+      },
+      "district": {
+        "id": "13.05.02",
+        "name": "Batang Anai"
+      }
+    },
+    {
+      "id": "13.05.02.2003",
+      "name": "Sungai Buluah",
+      "postal_code": "25586",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.05",
+        "name": "Kabupaten Padang Pariaman"
+      },
+      "district": {
+        "id": "13.05.02",
+        "name": "Batang Anai"
+      }
+    },
+    {
+      "id": "13.05.02.2004",
+      "name": "Buayan Lubuk Alung",
+      "postal_code": "25586",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.05",
+        "name": "Kabupaten Padang Pariaman"
+      },
+      "district": {
+        "id": "13.05.02",
+        "name": "Batang Anai"
+      }
+    },
+    {
+      "id": "13.05.02.2005",
+      "name": "Sungai Buluah Timur",
+      "postal_code": "25586",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.05",
+        "name": "Kabupaten Padang Pariaman"
+      },
+      "district": {
+        "id": "13.05.02",
+        "name": "Batang Anai"
+      }
+    },
+    {
+      "id": "13.05.02.2006",
+      "name": "Sungai Buluah Barat",
+      "postal_code": "25586",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.05",
+        "name": "Kabupaten Padang Pariaman"
+      },
+      "district": {
+        "id": "13.05.02",
+        "name": "Batang Anai"
+      }
+    },
+    {
+      "id": "13.05.02.2007",
+      "name": "Sungai Buluah Utara",
+      "postal_code": "25586",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.05",
+        "name": "Kabupaten Padang Pariaman"
+      },
+      "district": {
+        "id": "13.05.02",
+        "name": "Batang Anai"
+      }
+    },
+    {
+      "id": "13.05.02.2008",
+      "name": "Sungai Buluah Selatan",
+      "postal_code": "25586",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.05",
+        "name": "Kabupaten Padang Pariaman"
+      },
+      "district": {
+        "id": "13.05.02",
+        "name": "Batang Anai"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

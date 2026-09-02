@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.25.09.2026",
+    "name": "Kemiri Timur",
+    "postal_code": "51263",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.25",
+      "name": "Kabupaten Batang"
+    },
+    "district": {
+      "id": "33.25.09",
+      "name": "Subah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

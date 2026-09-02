@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.03.14.2004",
+    "name": "Tenggayun",
+    "postal_code": "28762",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.03",
+      "name": "Kabupaten Bengkalis"
+    },
+    "district": {
+      "id": "14.03.14",
+      "name": "Bandar Laksamana"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

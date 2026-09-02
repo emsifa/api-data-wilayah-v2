@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.06.14.2001",
+    "name": "Badau",
+    "postal_code": "78767",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.06",
+      "name": "Kabupaten Kapuas Hulu"
+    },
+    "district": {
+      "id": "61.06.14",
+      "name": "Badau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

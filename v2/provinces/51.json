@@ -1,0 +1,17 @@
+{
+  "data": {
+    "id": "51",
+    "name": "Bali",
+    "capital": "Denpasar",
+    "lat": -8.667787148634874,
+    "lng": 115.23408728305897,
+    "elv": 22,
+    "tz": 8,
+    "population": 4375263,
+    "total_area": 5582.827
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 1
+  }
+}

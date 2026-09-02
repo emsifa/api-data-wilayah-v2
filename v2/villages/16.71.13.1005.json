@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.71.13.1005",
+    "name": "Karyajaya",
+    "postal_code": "30259",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.71",
+      "name": "Kota Palembang"
+    },
+    "district": {
+      "id": "16.71.13",
+      "name": "Kertapati"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

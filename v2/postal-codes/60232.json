@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "35.78.23.1001",
+      "name": "Jambangan",
+      "postal_code": "60232",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.23",
+        "name": "Jambangan"
+      }
+    },
+    {
+      "id": "35.78.23.1002",
+      "name": "Karah",
+      "postal_code": "60232",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.23",
+        "name": "Jambangan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

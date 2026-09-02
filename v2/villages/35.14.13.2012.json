@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.14.13.2012",
+    "name": "Beji",
+    "postal_code": "67154",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.14",
+      "name": "Kabupaten Pasuruan"
+    },
+    "district": {
+      "id": "35.14.13",
+      "name": "Beji"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

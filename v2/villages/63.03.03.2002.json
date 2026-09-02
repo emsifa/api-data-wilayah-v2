@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.03.03.2002",
+    "name": "Sungai Kupang",
+    "postal_code": "70652",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.03",
+      "name": "Kabupaten Banjar"
+    },
+    "district": {
+      "id": "63.03.03",
+      "name": "Gambut"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

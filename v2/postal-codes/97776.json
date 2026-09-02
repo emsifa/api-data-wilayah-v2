@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "82.07.05.2014",
+      "name": "Gamlamo",
+      "postal_code": "97776",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.07",
+        "name": "Kabupaten Pulau Morotai"
+      },
+      "district": {
+        "id": "82.07.05",
+        "name": "Morotai Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

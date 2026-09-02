@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.01.01.2004",
+    "name": "Randomayang",
+    "postal_code": "91575",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.01",
+      "name": "Kabupaten Pasangkayu"
+    },
+    "district": {
+      "id": "76.01.01",
+      "name": "Bambalamotu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

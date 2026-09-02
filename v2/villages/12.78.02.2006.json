@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.78.02.2006",
+    "name": "Mazingo Tabaloho",
+    "postal_code": "22851",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.78",
+      "name": "Kota Gunungsitoli"
+    },
+    "district": {
+      "id": "12.78.02",
+      "name": "Gunungsitoli Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

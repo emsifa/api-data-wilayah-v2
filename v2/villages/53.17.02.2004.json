@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.17.02.2004",
+    "name": "Maderi",
+    "postal_code": "87281",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.17",
+      "name": "Kabupaten Sumba Tengah"
+    },
+    "district": {
+      "id": "53.17.02",
+      "name": "Umbu Ratu Nggay Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

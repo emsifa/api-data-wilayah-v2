@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "16.03.07.2004",
+      "name": "Tegal Rejo",
+      "postal_code": "31713",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.03",
+        "name": "Kabupaten Muara Enim"
+      },
+      "district": {
+        "id": "16.03.07",
+        "name": "Lawang Kidul"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

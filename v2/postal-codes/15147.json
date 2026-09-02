@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "36.71.05.1006",
+      "name": "Petir",
+      "postal_code": "15147",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.05",
+        "name": "Cipondoh"
+      }
+    },
+    {
+      "id": "36.71.05.1007",
+      "name": "Ketapang",
+      "postal_code": "15147",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.05",
+        "name": "Cipondoh"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

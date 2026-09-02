@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.26.17.2013",
+    "name": "Blimbingwuluh",
+    "postal_code": "51137",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.26",
+      "name": "Kabupaten Pekalongan"
+    },
+    "district": {
+      "id": "33.26.17",
+      "name": "Siwalan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

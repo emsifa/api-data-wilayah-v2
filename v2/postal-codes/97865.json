@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "82.06.01.2006",
+      "name": "Subaim",
+      "postal_code": "97865",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.01",
+        "name": "Wasile"
+      }
+    },
+    {
+      "id": "82.06.01.2008",
+      "name": "Cemara Jaya",
+      "postal_code": "97865",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.01",
+        "name": "Wasile"
+      }
+    },
+    {
+      "id": "82.06.01.2009",
+      "name": "Bumi Restu",
+      "postal_code": "97865",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.01",
+        "name": "Wasile"
+      }
+    },
+    {
+      "id": "82.06.01.2014",
+      "name": "Batu Raja",
+      "postal_code": "97865",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.01",
+        "name": "Wasile"
+      }
+    },
+    {
+      "id": "82.06.01.2015",
+      "name": "Mekar Sari",
+      "postal_code": "97865",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.01",
+        "name": "Wasile"
+      }
+    },
+    {
+      "id": "82.06.01.2016",
+      "name": "Gulapapo",
+      "postal_code": "97865",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.01",
+        "name": "Wasile"
+      }
+    },
+    {
+      "id": "82.06.01.2027",
+      "name": "Waisuba",
+      "postal_code": "97865",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.06",
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "district": {
+        "id": "82.06.01",
+        "name": "Wasile"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

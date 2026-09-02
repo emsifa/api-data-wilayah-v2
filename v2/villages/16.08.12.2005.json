@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.08.12.2005",
+    "name": "Suka Maju",
+    "postal_code": "32360",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.08",
+      "name": "Kabupaten Ogan Komering Ulu Timur"
+    },
+    "district": {
+      "id": "16.08.12",
+      "name": "Buay Madang Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

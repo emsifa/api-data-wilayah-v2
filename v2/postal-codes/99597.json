@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "95.07.17.2001",
+      "name": "Tabukeker",
+      "postal_code": "99597",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.17",
+        "name": "Wereka"
+      }
+    },
+    {
+      "id": "95.07.17.2002",
+      "name": "Ponalo",
+      "postal_code": "99597",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.17",
+        "name": "Wereka"
+      }
+    },
+    {
+      "id": "95.07.17.2003",
+      "name": "Timi",
+      "postal_code": "99597",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.17",
+        "name": "Wereka"
+      }
+    },
+    {
+      "id": "95.07.17.2004",
+      "name": "Wuragi",
+      "postal_code": "99597",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.17",
+        "name": "Wereka"
+      }
+    },
+    {
+      "id": "95.07.17.2005",
+      "name": "Tiwa",
+      "postal_code": "99597",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.17",
+        "name": "Wereka"
+      }
+    },
+    {
+      "id": "95.07.17.2006",
+      "name": "Dingun",
+      "postal_code": "99597",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.17",
+        "name": "Wereka"
+      }
+    },
+    {
+      "id": "95.07.17.2007",
+      "name": "Lura Marah",
+      "postal_code": "99597",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.17",
+        "name": "Wereka"
+      }
+    },
+    {
+      "id": "95.07.17.2008",
+      "name": "Pelek",
+      "postal_code": "99597",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.17",
+        "name": "Wereka"
+      }
+    },
+    {
+      "id": "95.07.17.2009",
+      "name": "Beyongwi",
+      "postal_code": "99597",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.07",
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "district": {
+        "id": "95.07.17",
+        "name": "Wereka"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

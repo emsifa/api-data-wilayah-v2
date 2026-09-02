@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "32.06.37.2001",
+      "name": "Kadipaten",
+      "postal_code": "46157",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.37",
+        "name": "Kadipaten"
+      }
+    },
+    {
+      "id": "32.06.37.2002",
+      "name": "Dirgahayu",
+      "postal_code": "46157",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.37",
+        "name": "Kadipaten"
+      }
+    },
+    {
+      "id": "32.06.37.2003",
+      "name": "Cibahayu",
+      "postal_code": "46157",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.37",
+        "name": "Kadipaten"
+      }
+    },
+    {
+      "id": "32.06.37.2004",
+      "name": "Mekarsari",
+      "postal_code": "46157",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.37",
+        "name": "Kadipaten"
+      }
+    },
+    {
+      "id": "32.06.37.2005",
+      "name": "Buniasih",
+      "postal_code": "46157",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.37",
+        "name": "Kadipaten"
+      }
+    },
+    {
+      "id": "32.06.37.2006",
+      "name": "Pamoyanan",
+      "postal_code": "46157",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.37",
+        "name": "Kadipaten"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

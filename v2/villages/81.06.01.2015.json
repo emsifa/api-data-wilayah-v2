@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.06.01.2015",
+    "name": "Uraur",
+    "postal_code": "97566",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.06",
+      "name": "Kabupaten Seram Bagian Barat"
+    },
+    "district": {
+      "id": "81.06.01",
+      "name": "Kairatu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

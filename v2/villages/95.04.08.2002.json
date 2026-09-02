@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.04.08.2002",
+    "name": "Yali",
+    "postal_code": "99418",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.04",
+      "name": "Kabupaten Tolikara"
+    },
+    "district": {
+      "id": "95.04.08",
+      "name": "Umagi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

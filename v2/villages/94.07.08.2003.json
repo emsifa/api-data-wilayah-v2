@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.07.08.2003",
+    "name": "Dapiaga",
+    "postal_code": "98783",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.07",
+      "name": "Kabupaten Intan Jaya"
+    },
+    "district": {
+      "id": "94.07.08",
+      "name": "Tomosiga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

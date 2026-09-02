@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.08.07.2017",
+    "name": "Mengulak",
+    "postal_code": "32362",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.08",
+      "name": "Kabupaten Ogan Komering Ulu Timur"
+    },
+    "district": {
+      "id": "16.08.07",
+      "name": "Madang Suku I"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

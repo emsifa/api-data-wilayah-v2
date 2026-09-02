@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.13.08.2003",
+    "name": "Way Napal",
+    "postal_code": "34874",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.13",
+      "name": "Kabupaten Pesisir Barat"
+    },
+    "district": {
+      "id": "18.13.08",
+      "name": "Krui Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

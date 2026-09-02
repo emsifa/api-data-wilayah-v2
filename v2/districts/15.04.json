@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "15.04",
+    "name": "Kabupaten Batanghari",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.04",
+      "name": "Kabupaten Batanghari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

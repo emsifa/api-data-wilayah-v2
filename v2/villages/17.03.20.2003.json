@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.03.20.2003",
+    "name": "Teluk Ajang",
+    "postal_code": "38653",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.03",
+      "name": "Kabupaten Bengkulu Utara"
+    },
+    "district": {
+      "id": "17.03.20",
+      "name": "Air Padang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

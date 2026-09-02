@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.11.05.2008",
+    "name": "Bojo",
+    "postal_code": "90753",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.11",
+      "name": "Kabupaten Barru"
+    },
+    "district": {
+      "id": "73.11.05",
+      "name": "Mallusetasi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

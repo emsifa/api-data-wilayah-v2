@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "32.05.21.2001",
+      "name": "Sukaresmi",
+      "postal_code": "44154",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.21",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.05.21.2002",
+      "name": "Cintadamai",
+      "postal_code": "44154",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.21",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.05.21.2003",
+      "name": "Mekarjaya",
+      "postal_code": "44154",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.21",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.05.21.2004",
+      "name": "Sukajaya",
+      "postal_code": "44154",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.21",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.05.21.2005",
+      "name": "Sukamulya",
+      "postal_code": "44154",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.21",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.05.21.2006",
+      "name": "Padamukti",
+      "postal_code": "44154",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.21",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.05.21.2007",
+      "name": "Sukalilah",
+      "postal_code": "44154",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.21",
+        "name": "Sukaresmi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

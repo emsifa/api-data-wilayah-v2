@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "61.71.02.1001",
+      "name": "Paritmayor",
+      "postal_code": "78231",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.71",
+        "name": "Kota Pontianak"
+      },
+      "district": {
+        "id": "61.71.02",
+        "name": "Pontianak Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

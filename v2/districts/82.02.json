@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "82.02",
+    "name": "Kabupaten Halmahera Tengah",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.02",
+      "name": "Kabupaten Halmahera Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "19.05.04.2007",
+    "name": "Sinar Sari",
+    "postal_code": "33364",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.05",
+      "name": "Kabupaten Bangka Barat"
+    },
+    "district": {
+      "id": "19.05.04",
+      "name": "Kelapa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

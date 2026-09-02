@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.04.12.2008",
+    "name": "Dava",
+    "postal_code": "97579",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.04",
+      "name": "Kabupaten Buru"
+    },
+    "district": {
+      "id": "81.04.12",
+      "name": "Waelata"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

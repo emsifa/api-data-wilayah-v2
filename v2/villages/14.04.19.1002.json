@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.04.19.1002",
+    "name": "Kempas Jaya",
+    "postal_code": "29261",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.04",
+      "name": "Kabupaten Indragiri Hilir"
+    },
+    "district": {
+      "id": "14.04.19",
+      "name": "Kempas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

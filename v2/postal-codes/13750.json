@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "31.75.09.1004",
+      "name": "Susukan",
+      "postal_code": "13750",
+      "province": {
+        "id": "31",
+        "name": "Daerah Khusus Ibukota Jakarta"
+      },
+      "regency": {
+        "id": "31.75",
+        "name": "Kota Administrasi Jakarta Timur"
+      },
+      "district": {
+        "id": "31.75.09",
+        "name": "Ciracas"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "63.04.10.2002",
+      "name": "Banua Anyar",
+      "postal_code": "70513",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.04",
+        "name": "Kabupaten Barito Kuala"
+      },
+      "district": {
+        "id": "63.04.10",
+        "name": "Bakumpai"
+      }
+    },
+    {
+      "id": "63.04.10.2003",
+      "name": "Murung Raya",
+      "postal_code": "70513",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.04",
+        "name": "Kabupaten Barito Kuala"
+      },
+      "district": {
+        "id": "63.04.10",
+        "name": "Bakumpai"
+      }
+    },
+    {
+      "id": "63.04.10.2004",
+      "name": "Palingkau",
+      "postal_code": "70513",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.04",
+        "name": "Kabupaten Barito Kuala"
+      },
+      "district": {
+        "id": "63.04.10",
+        "name": "Bakumpai"
+      }
+    },
+    {
+      "id": "63.04.10.2005",
+      "name": "Balukung",
+      "postal_code": "70513",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.04",
+        "name": "Kabupaten Barito Kuala"
+      },
+      "district": {
+        "id": "63.04.10",
+        "name": "Bakumpai"
+      }
+    },
+    {
+      "id": "63.04.10.2006",
+      "name": "Banitan",
+      "postal_code": "70513",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.04",
+        "name": "Kabupaten Barito Kuala"
+      },
+      "district": {
+        "id": "63.04.10",
+        "name": "Bakumpai"
+      }
+    },
+    {
+      "id": "63.04.10.2007",
+      "name": "Batik",
+      "postal_code": "70513",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.04",
+        "name": "Kabupaten Barito Kuala"
+      },
+      "district": {
+        "id": "63.04.10",
+        "name": "Bakumpai"
+      }
+    },
+    {
+      "id": "63.04.10.2008",
+      "name": "Bahalayung",
+      "postal_code": "70513",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.04",
+        "name": "Kabupaten Barito Kuala"
+      },
+      "district": {
+        "id": "63.04.10",
+        "name": "Bakumpai"
+      }
+    },
+    {
+      "id": "63.04.10.2009",
+      "name": "Sungai Selirik",
+      "postal_code": "70513",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.04",
+        "name": "Kabupaten Barito Kuala"
+      },
+      "district": {
+        "id": "63.04.10",
+        "name": "Bakumpai"
+      }
+    },
+    {
+      "id": "63.04.15.1002",
+      "name": "Ulu Benteng",
+      "postal_code": "70513",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.04",
+        "name": "Kabupaten Barito Kuala"
+      },
+      "district": {
+        "id": "63.04.15",
+        "name": "Marabahan"
+      }
+    },
+    {
+      "id": "63.04.15.2010",
+      "name": "Karya Maju",
+      "postal_code": "70513",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.04",
+        "name": "Kabupaten Barito Kuala"
+      },
+      "district": {
+        "id": "63.04.15",
+        "name": "Marabahan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

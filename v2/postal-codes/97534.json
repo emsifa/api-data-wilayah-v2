@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "81.01.24.2001",
+      "name": "Seti",
+      "postal_code": "97534",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.01",
+        "name": "Kabupaten Maluku Tengah"
+      },
+      "district": {
+        "id": "81.01.24",
+        "name": "Seram Utara Timur Seti"
+      }
+    },
+    {
+      "id": "81.01.24.2002",
+      "name": "Kobisonta",
+      "postal_code": "97534",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.01",
+        "name": "Kabupaten Maluku Tengah"
+      },
+      "district": {
+        "id": "81.01.24",
+        "name": "Seram Utara Timur Seti"
+      }
+    },
+    {
+      "id": "81.01.24.2003",
+      "name": "Wailoping",
+      "postal_code": "97534",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.01",
+        "name": "Kabupaten Maluku Tengah"
+      },
+      "district": {
+        "id": "81.01.24",
+        "name": "Seram Utara Timur Seti"
+      }
+    },
+    {
+      "id": "81.01.24.2004",
+      "name": "Tihuana",
+      "postal_code": "97534",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.01",
+        "name": "Kabupaten Maluku Tengah"
+      },
+      "district": {
+        "id": "81.01.24",
+        "name": "Seram Utara Timur Seti"
+      }
+    },
+    {
+      "id": "81.01.24.2005",
+      "name": "Waitila",
+      "postal_code": "97534",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.01",
+        "name": "Kabupaten Maluku Tengah"
+      },
+      "district": {
+        "id": "81.01.24",
+        "name": "Seram Utara Timur Seti"
+      }
+    },
+    {
+      "id": "81.01.24.2006",
+      "name": "Waiputih",
+      "postal_code": "97534",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.01",
+        "name": "Kabupaten Maluku Tengah"
+      },
+      "district": {
+        "id": "81.01.24",
+        "name": "Seram Utara Timur Seti"
+      }
+    },
+    {
+      "id": "81.01.24.2007",
+      "name": "Waimusal",
+      "postal_code": "97534",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.01",
+        "name": "Kabupaten Maluku Tengah"
+      },
+      "district": {
+        "id": "81.01.24",
+        "name": "Seram Utara Timur Seti"
+      }
+    },
+    {
+      "id": "81.01.24.2008",
+      "name": "Tanah Merah",
+      "postal_code": "97534",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.01",
+        "name": "Kabupaten Maluku Tengah"
+      },
+      "district": {
+        "id": "81.01.24",
+        "name": "Seram Utara Timur Seti"
+      }
+    },
+    {
+      "id": "81.01.24.2009",
+      "name": "Aketernate",
+      "postal_code": "97534",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.01",
+        "name": "Kabupaten Maluku Tengah"
+      },
+      "district": {
+        "id": "81.01.24",
+        "name": "Seram Utara Timur Seti"
+      }
+    },
+    {
+      "id": "81.01.24.2010",
+      "name": "Namto",
+      "postal_code": "97534",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.01",
+        "name": "Kabupaten Maluku Tengah"
+      },
+      "district": {
+        "id": "81.01.24",
+        "name": "Seram Utara Timur Seti"
+      }
+    },
+    {
+      "id": "81.01.24.2011",
+      "name": "Loping Mulyo",
+      "postal_code": "97534",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.01",
+        "name": "Kabupaten Maluku Tengah"
+      },
+      "district": {
+        "id": "81.01.24",
+        "name": "Seram Utara Timur Seti"
+      }
+    },
+    {
+      "id": "81.01.24.2012",
+      "name": "Wonosari",
+      "postal_code": "97534",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.01",
+        "name": "Kabupaten Maluku Tengah"
+      },
+      "district": {
+        "id": "81.01.24",
+        "name": "Seram Utara Timur Seti"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

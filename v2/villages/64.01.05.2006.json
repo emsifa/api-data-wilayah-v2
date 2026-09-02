@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.01.05.2006",
+    "name": "Modang",
+    "postal_code": "76281",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.01",
+      "name": "Kabupaten Paser"
+    },
+    "district": {
+      "id": "64.01.05",
+      "name": "Kuaro"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

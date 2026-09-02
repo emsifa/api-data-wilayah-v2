@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.01.08.2002",
+    "name": "Yeretuar",
+    "postal_code": "98851",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.01",
+      "name": "Kabupaten Nabire"
+    },
+    "district": {
+      "id": "94.01.08",
+      "name": "Teluk Umar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

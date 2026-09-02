@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "65.01.03.2002",
+    "name": "Pimping",
+    "postal_code": "77218",
+    "province": {
+      "id": "65",
+      "name": "Kalimantan Utara"
+    },
+    "regency": {
+      "id": "65.01",
+      "name": "Kabupaten Bulungan"
+    },
+    "district": {
+      "id": "65.01.03",
+      "name": "Tanjung Palas Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

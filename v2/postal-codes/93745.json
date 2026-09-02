@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "74.15.04.2001",
+      "name": "Batuatas Liwu",
+      "postal_code": "93745",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.04",
+        "name": "Batu Atas"
+      }
+    },
+    {
+      "id": "74.15.04.2002",
+      "name": "Batuatas Barat",
+      "postal_code": "93745",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.04",
+        "name": "Batu Atas"
+      }
+    },
+    {
+      "id": "74.15.04.2003",
+      "name": "Wacuala",
+      "postal_code": "93745",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.04",
+        "name": "Batu Atas"
+      }
+    },
+    {
+      "id": "74.15.04.2004",
+      "name": "Batu Atas Timur",
+      "postal_code": "93745",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.04",
+        "name": "Batu Atas"
+      }
+    },
+    {
+      "id": "74.15.04.2005",
+      "name": "Tolando Jaya",
+      "postal_code": "93745",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.04",
+        "name": "Batu Atas"
+      }
+    },
+    {
+      "id": "74.15.04.2006",
+      "name": "Taduasa",
+      "postal_code": "93745",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.04",
+        "name": "Batu Atas"
+      }
+    },
+    {
+      "id": "74.15.04.2007",
+      "name": "Wambongi",
+      "postal_code": "93745",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.04",
+        "name": "Batu Atas"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

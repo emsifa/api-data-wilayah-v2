@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.16.06.2005",
+    "name": "Simarigung",
+    "postal_code": "22457",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.16",
+      "name": "Kabupaten Humbang Hasundutan"
+    },
+    "district": {
+      "id": "12.16.06",
+      "name": "Dolok Sanggul"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

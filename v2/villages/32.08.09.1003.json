@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.08.09.1003",
+    "name": "Winduhaji",
+    "postal_code": "45516",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.08",
+      "name": "Kabupaten Kuningan"
+    },
+    "district": {
+      "id": "32.08.09",
+      "name": "Kuningan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

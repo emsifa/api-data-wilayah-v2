@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.05.02.2013",
+    "name": "Sandarsi Jaya",
+    "postal_code": "93875",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.05",
+      "name": "Kabupaten Konawe Selatan"
+    },
+    "district": {
+      "id": "74.05.02",
+      "name": "Angata"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.74.03.1005",
+    "name": "Pondok Aren",
+    "postal_code": "15224",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.74",
+      "name": "Kota Tangerang Selatan"
+    },
+    "district": {
+      "id": "36.74.03",
+      "name": "Pondok Aren"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

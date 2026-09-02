@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.02.14.2011",
+    "name": "Asai",
+    "postal_code": "98314",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.02",
+      "name": "Kabupaten Manokwari"
+    },
+    "district": {
+      "id": "92.02.14",
+      "name": "Manokwari Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

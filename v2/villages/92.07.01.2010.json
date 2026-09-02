@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.07.01.2010",
+    "name": "Ramiki",
+    "postal_code": "98346",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.07",
+      "name": "Kabupaten Teluk Wondama"
+    },
+    "district": {
+      "id": "92.07.01",
+      "name": "Wasior"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

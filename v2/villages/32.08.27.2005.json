@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.08.27.2005",
+    "name": "Wanasaraya",
+    "postal_code": "45594",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.08",
+      "name": "Kabupaten Kuningan"
+    },
+    "district": {
+      "id": "32.08.27",
+      "name": "Kalimanggis"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.29.06.2002",
+    "name": "Kalijurang",
+    "postal_code": "52271",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.29",
+      "name": "Kabupaten Brebes"
+    },
+    "district": {
+      "id": "33.29.06",
+      "name": "Tonjong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

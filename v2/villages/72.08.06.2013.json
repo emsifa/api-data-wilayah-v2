@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.08.06.2013",
+    "name": "Sausu Pakareme",
+    "postal_code": "94472",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.08",
+      "name": "Kabupaten Parigi Moutong"
+    },
+    "district": {
+      "id": "72.08.06",
+      "name": "Sausu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

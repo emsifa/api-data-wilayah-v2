@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "95.04.17.2006",
+      "name": "Jekito",
+      "postal_code": "99428",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.17",
+        "name": "Nabunage"
+      }
+    },
+    {
+      "id": "95.04.17.2007",
+      "name": "Wewo",
+      "postal_code": "99428",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.17",
+        "name": "Nabunage"
+      }
+    },
+    {
+      "id": "95.04.17.2008",
+      "name": "Geningga",
+      "postal_code": "99428",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.17",
+        "name": "Nabunage"
+      }
+    },
+    {
+      "id": "95.04.17.2009",
+      "name": "Kimilo",
+      "postal_code": "99428",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.17",
+        "name": "Nabunage"
+      }
+    },
+    {
+      "id": "95.04.17.2010",
+      "name": "Missa",
+      "postal_code": "99428",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.17",
+        "name": "Nabunage"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

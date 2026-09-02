@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.05.19.2017",
+    "name": "Sukatani",
+    "postal_code": "44181",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.05",
+      "name": "Kabupaten Garut"
+    },
+    "district": {
+      "id": "32.05.19",
+      "name": "Cilawu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

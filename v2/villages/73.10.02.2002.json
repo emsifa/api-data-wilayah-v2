@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.10.02.2002",
+    "name": "Pammas",
+    "postal_code": "90672",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.10",
+      "name": "Kabupaten Pangkajene dan Kepulauan"
+    },
+    "district": {
+      "id": "73.10.02",
+      "name": "Liukang Kalmas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

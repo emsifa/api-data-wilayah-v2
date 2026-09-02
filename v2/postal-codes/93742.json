@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "74.15.07.2001",
+      "name": "Waonu",
+      "postal_code": "93742",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.07",
+        "name": "Kadatua"
+      }
+    },
+    {
+      "id": "74.15.07.2002",
+      "name": "Kaofe",
+      "postal_code": "93742",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.07",
+        "name": "Kadatua"
+      }
+    },
+    {
+      "id": "74.15.07.2003",
+      "name": "Uwemaasi",
+      "postal_code": "93742",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.07",
+        "name": "Kadatua"
+      }
+    },
+    {
+      "id": "74.15.07.2004",
+      "name": "Lipu",
+      "postal_code": "93742",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.07",
+        "name": "Kadatua"
+      }
+    },
+    {
+      "id": "74.15.07.2005",
+      "name": "Kapoa",
+      "postal_code": "93742",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.07",
+        "name": "Kadatua"
+      }
+    },
+    {
+      "id": "74.15.07.2006",
+      "name": "Banabungi",
+      "postal_code": "93742",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.07",
+        "name": "Kadatua"
+      }
+    },
+    {
+      "id": "74.15.07.2007",
+      "name": "Mawambunga",
+      "postal_code": "93742",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.07",
+        "name": "Kadatua"
+      }
+    },
+    {
+      "id": "74.15.07.2008",
+      "name": "Banabungi Selatan",
+      "postal_code": "93742",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.07",
+        "name": "Kadatua"
+      }
+    },
+    {
+      "id": "74.15.07.2009",
+      "name": "Marawali",
+      "postal_code": "93742",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.07",
+        "name": "Kadatua"
+      }
+    },
+    {
+      "id": "74.15.07.2010",
+      "name": "Kapoa Barat",
+      "postal_code": "93742",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.15",
+        "name": "Kabupaten Buton Selatan"
+      },
+      "district": {
+        "id": "74.15.07",
+        "name": "Kadatua"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

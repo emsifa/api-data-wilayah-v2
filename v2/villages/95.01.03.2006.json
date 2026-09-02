@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.01.03.2006",
+    "name": "Miligatnem",
+    "postal_code": "99531",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.01",
+      "name": "Kabupaten Jayawijaya"
+    },
+    "district": {
+      "id": "95.01.03",
+      "name": "Asologaima"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

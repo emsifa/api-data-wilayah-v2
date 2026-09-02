@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.16.07.2006",
+    "name": "Windurejo",
+    "postal_code": "61383",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.16",
+      "name": "Kabupaten Mojokerto"
+    },
+    "district": {
+      "id": "35.16.07",
+      "name": "Kutorejo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

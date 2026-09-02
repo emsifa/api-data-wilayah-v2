@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "61.07.07.2001",
+      "name": "Jagoi",
+      "postal_code": "79286",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.07",
+        "name": "Kabupaten Bengkayang"
+      },
+      "district": {
+        "id": "61.07.07",
+        "name": "Jagoi Babang"
+      }
+    },
+    {
+      "id": "61.07.07.2002",
+      "name": "Kumba",
+      "postal_code": "79286",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.07",
+        "name": "Kabupaten Bengkayang"
+      },
+      "district": {
+        "id": "61.07.07",
+        "name": "Jagoi Babang"
+      }
+    },
+    {
+      "id": "61.07.07.2006",
+      "name": "Sekida",
+      "postal_code": "79286",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.07",
+        "name": "Kabupaten Bengkayang"
+      },
+      "district": {
+        "id": "61.07.07",
+        "name": "Jagoi Babang"
+      }
+    },
+    {
+      "id": "61.07.07.2007",
+      "name": "Gersik",
+      "postal_code": "79286",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.07",
+        "name": "Kabupaten Bengkayang"
+      },
+      "district": {
+        "id": "61.07.07",
+        "name": "Jagoi Babang"
+      }
+    },
+    {
+      "id": "61.07.07.2008",
+      "name": "Semunying Jaya",
+      "postal_code": "79286",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.07",
+        "name": "Kabupaten Bengkayang"
+      },
+      "district": {
+        "id": "61.07.07",
+        "name": "Jagoi Babang"
+      }
+    },
+    {
+      "id": "61.07.07.2009",
+      "name": "Sinar Baru",
+      "postal_code": "79286",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.07",
+        "name": "Kabupaten Bengkayang"
+      },
+      "district": {
+        "id": "61.07.07",
+        "name": "Jagoi Babang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

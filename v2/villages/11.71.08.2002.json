@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.71.08.2002",
+    "name": "Bitai",
+    "postal_code": "23235",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.71",
+      "name": "Kota Banda Aceh"
+    },
+    "district": {
+      "id": "11.71.08",
+      "name": "Jaya Baru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

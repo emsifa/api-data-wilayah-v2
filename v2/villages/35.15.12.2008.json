@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.15.12.2008",
+    "name": "Gagangkepuhsari",
+    "postal_code": "61263",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.15",
+      "name": "Kabupaten Sidoarjo"
+    },
+    "district": {
+      "id": "35.15.12",
+      "name": "Balongbendo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

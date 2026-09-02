@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.15.04.2005",
+    "name": "Cikaok",
+    "postal_code": "22276",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.15",
+      "name": "Kabupaten Pakpak Bharat"
+    },
+    "district": {
+      "id": "12.15.04",
+      "name": "Sitelu Tali Urang Julu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

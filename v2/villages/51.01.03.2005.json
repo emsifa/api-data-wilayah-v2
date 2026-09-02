@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.01.03.2005",
+    "name": "Pangyangan",
+    "postal_code": "82262",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.01",
+      "name": "Kabupaten Jembrana"
+    },
+    "district": {
+      "id": "51.01.03",
+      "name": "Pekutatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

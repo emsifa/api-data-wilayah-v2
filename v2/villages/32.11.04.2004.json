@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.11.04.2004",
+    "name": "Sukaraja",
+    "postal_code": "45375",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.11",
+      "name": "Kabupaten Sumedang"
+    },
+    "district": {
+      "id": "32.11.04",
+      "name": "Cibugel"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

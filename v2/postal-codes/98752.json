@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "94.08.05.2001",
+      "name": "Komauto/Kapiraya",
+      "postal_code": "98752",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.08",
+        "name": "Kabupaten Deiyai"
+      },
+      "district": {
+        "id": "94.08.05",
+        "name": "Kapiraya"
+      }
+    },
+    {
+      "id": "94.08.05.2002",
+      "name": "Mogodagi",
+      "postal_code": "98752",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.08",
+        "name": "Kabupaten Deiyai"
+      },
+      "district": {
+        "id": "94.08.05",
+        "name": "Kapiraya"
+      }
+    },
+    {
+      "id": "94.08.05.2003",
+      "name": "Yamouwitina",
+      "postal_code": "98752",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.08",
+        "name": "Kabupaten Deiyai"
+      },
+      "district": {
+        "id": "94.08.05",
+        "name": "Kapiraya"
+      }
+    },
+    {
+      "id": "94.08.05.2004",
+      "name": "Idego",
+      "postal_code": "98752",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.08",
+        "name": "Kabupaten Deiyai"
+      },
+      "district": {
+        "id": "94.08.05",
+        "name": "Kapiraya"
+      }
+    },
+    {
+      "id": "94.08.05.2005",
+      "name": "Uwe Onagei",
+      "postal_code": "98752",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.08",
+        "name": "Kabupaten Deiyai"
+      },
+      "district": {
+        "id": "94.08.05",
+        "name": "Kapiraya"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

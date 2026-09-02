@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.05.05.2003",
+    "name": "Bukit Padi",
+    "postal_code": "29793",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.05",
+      "name": "Kabupaten Kepulauan Anambas"
+    },
+    "district": {
+      "id": "21.05.05",
+      "name": "Jemaja Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

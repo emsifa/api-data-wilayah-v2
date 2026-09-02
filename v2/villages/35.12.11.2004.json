@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.12.11.2004",
+    "name": "Kedungdowo",
+    "postal_code": "68371",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.12",
+      "name": "Kabupaten Situbondo"
+    },
+    "district": {
+      "id": "35.12.11",
+      "name": "Arjasa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

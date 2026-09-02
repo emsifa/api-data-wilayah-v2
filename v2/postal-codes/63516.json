@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.01.04.2007",
+      "name": "Arjowinangun",
+      "postal_code": "63516",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.01",
+        "name": "Kabupaten Pacitan"
+      },
+      "district": {
+        "id": "35.01.04",
+        "name": "Pacitan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

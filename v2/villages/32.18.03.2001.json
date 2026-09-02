@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.18.03.2001",
+    "name": "Kertaharja",
+    "postal_code": "46395",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.18",
+      "name": "Kabupaten Pangandaran"
+    },
+    "district": {
+      "id": "32.18.03",
+      "name": "Cimerak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

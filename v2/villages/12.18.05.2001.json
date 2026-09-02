@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.18.05.2001",
+    "name": "Pekan Tanjung Beringin",
+    "postal_code": "20996",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.18",
+      "name": "Kabupaten Serdang Bedagai"
+    },
+    "district": {
+      "id": "12.18.05",
+      "name": "Tanjung Beringin"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

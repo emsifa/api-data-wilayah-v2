@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.01.28.2006",
+    "name": "Tanjunglengkayap",
+    "postal_code": "32158",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.01",
+      "name": "Kabupaten Ogan Komering Ulu"
+    },
+    "district": {
+      "id": "16.01.28",
+      "name": "Lengkiti"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

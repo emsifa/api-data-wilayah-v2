@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.07.10.2005",
+    "name": "Inday",
+    "postal_code": "98344",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.07",
+      "name": "Kabupaten Teluk Wondama"
+    },
+    "district": {
+      "id": "92.07.10",
+      "name": "Roon"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

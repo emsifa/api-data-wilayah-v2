@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "31.74.06.1005",
+      "name": "Cipete Selatan",
+      "postal_code": "12410",
+      "province": {
+        "id": "31",
+        "name": "Daerah Khusus Ibukota Jakarta"
+      },
+      "regency": {
+        "id": "31.74",
+        "name": "Kota Administrasi Jakarta Selatan"
+      },
+      "district": {
+        "id": "31.74.06",
+        "name": "Cilandak"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

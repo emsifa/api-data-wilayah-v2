@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.08.31.2008",
+    "name": "Babakanreuma",
+    "postal_code": "45573",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.08",
+      "name": "Kabupaten Kuningan"
+    },
+    "district": {
+      "id": "32.08.31",
+      "name": "Sindangagung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

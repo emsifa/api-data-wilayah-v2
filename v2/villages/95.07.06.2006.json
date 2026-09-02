@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.07.06.2006",
+    "name": "Gumban",
+    "postal_code": "99589",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.07",
+      "name": "Kabupaten Lanny Jaya"
+    },
+    "district": {
+      "id": "95.07.06",
+      "name": "Melagineri"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

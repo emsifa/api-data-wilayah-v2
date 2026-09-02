@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "32.04.39.2001",
+      "name": "Lebakmuncang",
+      "postal_code": "40973",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.39",
+        "name": "Ciwidey"
+      }
+    },
+    {
+      "id": "32.04.39.2002",
+      "name": "Ciwidey",
+      "postal_code": "40973",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.39",
+        "name": "Ciwidey"
+      }
+    },
+    {
+      "id": "32.04.39.2003",
+      "name": "Nengkelan",
+      "postal_code": "40973",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.39",
+        "name": "Ciwidey"
+      }
+    },
+    {
+      "id": "32.04.39.2004",
+      "name": "Panundaan",
+      "postal_code": "40973",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.39",
+        "name": "Ciwidey"
+      }
+    },
+    {
+      "id": "32.04.39.2005",
+      "name": "Panyocokan",
+      "postal_code": "40973",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.39",
+        "name": "Ciwidey"
+      }
+    },
+    {
+      "id": "32.04.39.2006",
+      "name": "Rawabogo",
+      "postal_code": "40973",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.39",
+        "name": "Ciwidey"
+      }
+    },
+    {
+      "id": "32.04.39.2007",
+      "name": "Sukawening",
+      "postal_code": "40973",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.39",
+        "name": "Ciwidey"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

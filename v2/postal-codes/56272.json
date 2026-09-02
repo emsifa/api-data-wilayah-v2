@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": "33.23.04.2001",
+      "name": "Pringsurat",
+      "postal_code": "56272",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.23",
+        "name": "Kabupaten Temanggung"
+      },
+      "district": {
+        "id": "33.23.04",
+        "name": "Pringsurat"
+      }
+    },
+    {
+      "id": "33.23.04.2002",
+      "name": "Kebumen",
+      "postal_code": "56272",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.23",
+        "name": "Kabupaten Temanggung"
+      },
+      "district": {
+        "id": "33.23.04",
+        "name": "Pringsurat"
+      }
+    },
+    {
+      "id": "33.23.04.2003",
+      "name": "Soropadan",
+      "postal_code": "56272",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.23",
+        "name": "Kabupaten Temanggung"
+      },
+      "district": {
+        "id": "33.23.04",
+        "name": "Pringsurat"
+      }
+    },
+    {
+      "id": "33.23.04.2004",
+      "name": "Kupen",
+      "postal_code": "56272",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.23",
+        "name": "Kabupaten Temanggung"
+      },
+      "district": {
+        "id": "33.23.04",
+        "name": "Pringsurat"
+      }
+    },
+    {
+      "id": "33.23.04.2005",
+      "name": "Karangwuni",
+      "postal_code": "56272",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.23",
+        "name": "Kabupaten Temanggung"
+      },
+      "district": {
+        "id": "33.23.04",
+        "name": "Pringsurat"
+      }
+    },
+    {
+      "id": "33.23.04.2006",
+      "name": "Gowak",
+      "postal_code": "56272",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.23",
+        "name": "Kabupaten Temanggung"
+      },
+      "district": {
+        "id": "33.23.04",
+        "name": "Pringsurat"
+      }
+    },
+    {
+      "id": "33.23.04.2007",
+      "name": "Rejosari",
+      "postal_code": "56272",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.23",
+        "name": "Kabupaten Temanggung"
+      },
+      "district": {
+        "id": "33.23.04",
+        "name": "Pringsurat"
+      }
+    },
+    {
+      "id": "33.23.04.2008",
+      "name": "Ngipik",
+      "postal_code": "56272",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.23",
+        "name": "Kabupaten Temanggung"
+      },
+      "district": {
+        "id": "33.23.04",
+        "name": "Pringsurat"
+      }
+    },
+    {
+      "id": "33.23.04.2009",
+      "name": "Pingit",
+      "postal_code": "56272",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.23",
+        "name": "Kabupaten Temanggung"
+      },
+      "district": {
+        "id": "33.23.04",
+        "name": "Pringsurat"
+      }
+    },
+    {
+      "id": "33.23.04.2010",
+      "name": "Klepu",
+      "postal_code": "56272",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.23",
+        "name": "Kabupaten Temanggung"
+      },
+      "district": {
+        "id": "33.23.04",
+        "name": "Pringsurat"
+      }
+    },
+    {
+      "id": "33.23.04.2011",
+      "name": "Soborejo",
+      "postal_code": "56272",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.23",
+        "name": "Kabupaten Temanggung"
+      },
+      "district": {
+        "id": "33.23.04",
+        "name": "Pringsurat"
+      }
+    },
+    {
+      "id": "33.23.04.2012",
+      "name": "Nglorog",
+      "postal_code": "56272",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.23",
+        "name": "Kabupaten Temanggung"
+      },
+      "district": {
+        "id": "33.23.04",
+        "name": "Pringsurat"
+      }
+    },
+    {
+      "id": "33.23.04.2013",
+      "name": "Pagergunung",
+      "postal_code": "56272",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.23",
+        "name": "Kabupaten Temanggung"
+      },
+      "district": {
+        "id": "33.23.04",
+        "name": "Pringsurat"
+      }
+    },
+    {
+      "id": "33.23.04.2014",
+      "name": "Wonokerso",
+      "postal_code": "56272",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.23",
+        "name": "Kabupaten Temanggung"
+      },
+      "district": {
+        "id": "33.23.04",
+        "name": "Pringsurat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

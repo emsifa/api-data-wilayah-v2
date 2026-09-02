@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.06.23.2002",
+    "name": "Merakai Panjang",
+    "postal_code": "78769",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.06",
+      "name": "Kabupaten Kapuas Hulu"
+    },
+    "district": {
+      "id": "61.06.23",
+      "name": "Puring Kencana"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

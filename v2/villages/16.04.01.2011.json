@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.04.01.2011",
+    "name": "Simpang III Pumu",
+    "postal_code": "31582",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.04",
+      "name": "Kabupaten Lahat"
+    },
+    "district": {
+      "id": "16.04.01",
+      "name": "Tanjungsakti Pumu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

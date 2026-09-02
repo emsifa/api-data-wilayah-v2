@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.07.26.1020",
+    "name": "Kenangan Baru",
+    "postal_code": "20371",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.07",
+      "name": "Kabupaten Deli Serdang"
+    },
+    "district": {
+      "id": "12.07.26",
+      "name": "Percut Sei Tuan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

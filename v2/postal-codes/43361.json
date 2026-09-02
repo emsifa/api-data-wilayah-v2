@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "32.02.02.2001",
+      "name": "Cidadap",
+      "postal_code": "43361",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.02",
+        "name": "Simpenan"
+      }
+    },
+    {
+      "id": "32.02.02.2002",
+      "name": "Loji",
+      "postal_code": "43361",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.02",
+        "name": "Simpenan"
+      }
+    },
+    {
+      "id": "32.02.02.2003",
+      "name": "Kertajaya",
+      "postal_code": "43361",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.02",
+        "name": "Simpenan"
+      }
+    },
+    {
+      "id": "32.02.02.2004",
+      "name": "Cihaur",
+      "postal_code": "43361",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.02",
+        "name": "Simpenan"
+      }
+    },
+    {
+      "id": "32.02.02.2005",
+      "name": "Cibuntu",
+      "postal_code": "43361",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.02",
+        "name": "Simpenan"
+      }
+    },
+    {
+      "id": "32.02.02.2006",
+      "name": "Mekarasih",
+      "postal_code": "43361",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.02",
+        "name": "Simpenan"
+      }
+    },
+    {
+      "id": "32.02.02.2007",
+      "name": "Sangrawayang",
+      "postal_code": "43361",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.02",
+        "name": "Simpenan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

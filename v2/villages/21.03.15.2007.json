@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.03.15.2007",
+    "name": "Seleman",
+    "postal_code": "29776",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.03",
+      "name": "Kabupaten Natuna"
+    },
+    "district": {
+      "id": "21.03.15",
+      "name": "Bunguran Timur Laut"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

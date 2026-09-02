@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.17.13.2004",
+    "name": "Cibitung",
+    "postal_code": "40566",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.17",
+      "name": "Kabupaten Bandung Barat"
+    },
+    "district": {
+      "id": "32.17.13",
+      "name": "Rongga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

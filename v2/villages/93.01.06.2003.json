@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.01.06.2003",
+    "name": "Waninggap Say",
+    "postal_code": "99632",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.01",
+      "name": "Kabupaten Merauke"
+    },
+    "district": {
+      "id": "93.01.06",
+      "name": "Tanah Miring"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.01.20.2005",
+    "name": "Tanjung Syam",
+    "postal_code": "37176",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.01",
+      "name": "Kabupaten Kerinci"
+    },
+    "district": {
+      "id": "15.01.20",
+      "name": "Bukit Kerman"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

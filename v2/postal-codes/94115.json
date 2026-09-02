@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "72.71.08.1006",
+      "name": "Poboya",
+      "postal_code": "94115",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.71",
+        "name": "Kota Palu"
+      },
+      "district": {
+        "id": "72.71.08",
+        "name": "Mantikulore"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "63.06.11.2001",
+      "name": "Siang Gantung",
+      "postal_code": "71252",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.06",
+        "name": "Kabupaten Hulu Sungai Selatan"
+      },
+      "district": {
+        "id": "63.06.11",
+        "name": "Daha Barat"
+      }
+    },
+    {
+      "id": "63.06.11.2002",
+      "name": "Baru",
+      "postal_code": "71252",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.06",
+        "name": "Kabupaten Hulu Sungai Selatan"
+      },
+      "district": {
+        "id": "63.06.11",
+        "name": "Daha Barat"
+      }
+    },
+    {
+      "id": "63.06.11.2003",
+      "name": "Tanjung Selor",
+      "postal_code": "71252",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.06",
+        "name": "Kabupaten Hulu Sungai Selatan"
+      },
+      "district": {
+        "id": "63.06.11",
+        "name": "Daha Barat"
+      }
+    },
+    {
+      "id": "63.06.11.2004",
+      "name": "Badaun",
+      "postal_code": "71252",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.06",
+        "name": "Kabupaten Hulu Sungai Selatan"
+      },
+      "district": {
+        "id": "63.06.11",
+        "name": "Daha Barat"
+      }
+    },
+    {
+      "id": "63.06.11.2005",
+      "name": "Bajayau",
+      "postal_code": "71252",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.06",
+        "name": "Kabupaten Hulu Sungai Selatan"
+      },
+      "district": {
+        "id": "63.06.11",
+        "name": "Daha Barat"
+      }
+    },
+    {
+      "id": "63.06.11.2006",
+      "name": "Bajayau Tengah",
+      "postal_code": "71252",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.06",
+        "name": "Kabupaten Hulu Sungai Selatan"
+      },
+      "district": {
+        "id": "63.06.11",
+        "name": "Daha Barat"
+      }
+    },
+    {
+      "id": "63.06.11.2007",
+      "name": "Bajayau Lama",
+      "postal_code": "71252",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.06",
+        "name": "Kabupaten Hulu Sungai Selatan"
+      },
+      "district": {
+        "id": "63.06.11",
+        "name": "Daha Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

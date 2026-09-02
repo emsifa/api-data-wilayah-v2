@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.05.23.2007",
+    "name": "Serang Jaya",
+    "postal_code": "20859",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.05",
+      "name": "Kabupaten Langkat"
+    },
+    "district": {
+      "id": "12.05.23",
+      "name": "Pematang Jaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

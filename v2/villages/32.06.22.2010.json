@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.06.22.2010",
+    "name": "Margahayu",
+    "postal_code": "46197",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.06",
+      "name": "Kabupaten Tasikmalaya"
+    },
+    "district": {
+      "id": "32.06.22",
+      "name": "Manonjaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

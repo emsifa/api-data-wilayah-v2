@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.11.09.2009",
+    "name": "Kuta Usang",
+    "postal_code": "22283",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.11",
+      "name": "Kabupaten Dairi"
+    },
+    "district": {
+      "id": "12.11.09",
+      "name": "Pegagan Hilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

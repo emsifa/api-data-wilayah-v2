@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.03.07.2055",
+    "name": "Hurase",
+    "postal_code": "22773",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.03",
+      "name": "Kabupaten Tapanuli Selatan"
+    },
+    "district": {
+      "id": "12.03.07",
+      "name": "Batang Angkola"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

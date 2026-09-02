@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.74.03.1002",
+      "name": "Harjamukti",
+      "postal_code": "45143",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.74",
+        "name": "Kota Cirebon"
+      },
+      "district": {
+        "id": "32.74.03",
+        "name": "Harjamukti"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

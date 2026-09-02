@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "74.11.09.1001",
+      "name": "Tinengi",
+      "postal_code": "93570",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.11",
+        "name": "Kabupaten Kolaka Timur"
+      },
+      "district": {
+        "id": "74.11.09",
+        "name": "Tinondo"
+      }
+    },
+    {
+      "id": "74.11.09.2002",
+      "name": "Solewatu",
+      "postal_code": "93570",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.11",
+        "name": "Kabupaten Kolaka Timur"
+      },
+      "district": {
+        "id": "74.11.09",
+        "name": "Tinondo"
+      }
+    },
+    {
+      "id": "74.11.09.2003",
+      "name": "Ambapa",
+      "postal_code": "93570",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.11",
+        "name": "Kabupaten Kolaka Timur"
+      },
+      "district": {
+        "id": "74.11.09",
+        "name": "Tinondo"
+      }
+    },
+    {
+      "id": "74.11.09.2004",
+      "name": "Ameroro",
+      "postal_code": "93570",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.11",
+        "name": "Kabupaten Kolaka Timur"
+      },
+      "district": {
+        "id": "74.11.09",
+        "name": "Tinondo"
+      }
+    },
+    {
+      "id": "74.11.09.2005",
+      "name": "Lamunde",
+      "postal_code": "93570",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.11",
+        "name": "Kabupaten Kolaka Timur"
+      },
+      "district": {
+        "id": "74.11.09",
+        "name": "Tinondo"
+      }
+    },
+    {
+      "id": "74.11.09.2006",
+      "name": "Tawarombadaka",
+      "postal_code": "93570",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.11",
+        "name": "Kabupaten Kolaka Timur"
+      },
+      "district": {
+        "id": "74.11.09",
+        "name": "Tinondo"
+      }
+    },
+    {
+      "id": "74.11.09.2007",
+      "name": "Talata",
+      "postal_code": "93570",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.11",
+        "name": "Kabupaten Kolaka Timur"
+      },
+      "district": {
+        "id": "74.11.09",
+        "name": "Tinondo"
+      }
+    },
+    {
+      "id": "74.11.09.2008",
+      "name": "Weamo",
+      "postal_code": "93570",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.11",
+        "name": "Kabupaten Kolaka Timur"
+      },
+      "district": {
+        "id": "74.11.09",
+        "name": "Tinondo"
+      }
+    },
+    {
+      "id": "74.11.09.2009",
+      "name": "Tawa-tawaro",
+      "postal_code": "93570",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.11",
+        "name": "Kabupaten Kolaka Timur"
+      },
+      "district": {
+        "id": "74.11.09",
+        "name": "Tinondo"
+      }
+    },
+    {
+      "id": "74.11.09.2010",
+      "name": "Singgere",
+      "postal_code": "93570",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.11",
+        "name": "Kabupaten Kolaka Timur"
+      },
+      "district": {
+        "id": "74.11.09",
+        "name": "Tinondo"
+      }
+    },
+    {
+      "id": "74.11.09.2011",
+      "name": "Tutuwi",
+      "postal_code": "93570",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.11",
+        "name": "Kabupaten Kolaka Timur"
+      },
+      "district": {
+        "id": "74.11.09",
+        "name": "Tinondo"
+      }
+    },
+    {
+      "id": "74.11.09.2012",
+      "name": "Iwoimea",
+      "postal_code": "93570",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.11",
+        "name": "Kabupaten Kolaka Timur"
+      },
+      "district": {
+        "id": "74.11.09",
+        "name": "Tinondo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

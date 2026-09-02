@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.17.01.2007",
+    "name": "Gudangkahuripan",
+    "postal_code": "40391",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.17",
+      "name": "Kabupaten Bandung Barat"
+    },
+    "district": {
+      "id": "32.17.01",
+      "name": "Lembang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.75.07.1008",
+    "name": "Sumurbatu",
+    "postal_code": "17154",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.75",
+      "name": "Kota Bekasi"
+    },
+    "district": {
+      "id": "32.75.07",
+      "name": "Bantargebang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

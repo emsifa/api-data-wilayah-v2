@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.02.04.1002",
+    "name": "Baran Barat",
+    "postal_code": "29666",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.02",
+      "name": "Kabupaten Karimun"
+    },
+    "district": {
+      "id": "21.02.04",
+      "name": "Meral"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

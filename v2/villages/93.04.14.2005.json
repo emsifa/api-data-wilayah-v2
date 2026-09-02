@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.04.14.2005",
+    "name": "Amagais",
+    "postal_code": "99771",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.04",
+      "name": "Kabupaten Asmat"
+    },
+    "district": {
+      "id": "93.04.14",
+      "name": "Der Koumur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

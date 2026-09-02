@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "32.05.41.2001",
+      "name": "Citangtu",
+      "postal_code": "44183",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.41",
+        "name": "Pangatikan"
+      }
+    },
+    {
+      "id": "32.05.41.2002",
+      "name": "Cimaragas",
+      "postal_code": "44183",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.41",
+        "name": "Pangatikan"
+      }
+    },
+    {
+      "id": "32.05.41.2003",
+      "name": "Babakan Loa",
+      "postal_code": "44183",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.41",
+        "name": "Pangatikan"
+      }
+    },
+    {
+      "id": "32.05.41.2004",
+      "name": "Sukahurip",
+      "postal_code": "44183",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.41",
+        "name": "Pangatikan"
+      }
+    },
+    {
+      "id": "32.05.41.2005",
+      "name": "Sukamulya",
+      "postal_code": "44183",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.41",
+        "name": "Pangatikan"
+      }
+    },
+    {
+      "id": "32.05.41.2006",
+      "name": "Cihuni",
+      "postal_code": "44183",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.41",
+        "name": "Pangatikan"
+      }
+    },
+    {
+      "id": "32.05.41.2007",
+      "name": "Sukarasa",
+      "postal_code": "44183",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.41",
+        "name": "Pangatikan"
+      }
+    },
+    {
+      "id": "32.05.41.2008",
+      "name": "Karangsari",
+      "postal_code": "44183",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.41",
+        "name": "Pangatikan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

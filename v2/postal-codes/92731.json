@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "73.08.22.1002",
+      "name": "Matirro Walie",
+      "postal_code": "92731",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.22",
+        "name": "Tanete Riattang Barat"
+      }
+    },
+    {
+      "id": "73.08.22.1007",
+      "name": "Polewali",
+      "postal_code": "92731",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.22",
+        "name": "Tanete Riattang Barat"
+      }
+    },
+    {
+      "id": "73.08.22.1008",
+      "name": "Watang Palakka",
+      "postal_code": "92731",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.22",
+        "name": "Tanete Riattang Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

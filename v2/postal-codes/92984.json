@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "73.24.11.2001",
+      "name": "Ledu Ledu",
+      "postal_code": "92984",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.11",
+        "name": "Wasuponda"
+      }
+    },
+    {
+      "id": "73.24.11.2002",
+      "name": "Kawata",
+      "postal_code": "92984",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.11",
+        "name": "Wasuponda"
+      }
+    },
+    {
+      "id": "73.24.11.2003",
+      "name": "Tabarano",
+      "postal_code": "92984",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.11",
+        "name": "Wasuponda"
+      }
+    },
+    {
+      "id": "73.24.11.2004",
+      "name": "Wasuponda",
+      "postal_code": "92984",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.11",
+        "name": "Wasuponda"
+      }
+    },
+    {
+      "id": "73.24.11.2005",
+      "name": "Parumpanai",
+      "postal_code": "92984",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.11",
+        "name": "Wasuponda"
+      }
+    },
+    {
+      "id": "73.24.11.2006",
+      "name": "Balambano",
+      "postal_code": "92984",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.11",
+        "name": "Wasuponda"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "73.16.10.2001",
+      "name": "Pasui",
+      "postal_code": "91750",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.10",
+        "name": "Buntu Batu"
+      }
+    },
+    {
+      "id": "73.16.10.2002",
+      "name": "Eran Batu",
+      "postal_code": "91750",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.10",
+        "name": "Buntu Batu"
+      }
+    },
+    {
+      "id": "73.16.10.2003",
+      "name": "Latimojong",
+      "postal_code": "91750",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.10",
+        "name": "Buntu Batu"
+      }
+    },
+    {
+      "id": "73.16.10.2004",
+      "name": "Buntu Mondong",
+      "postal_code": "91750",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.10",
+        "name": "Buntu Batu"
+      }
+    },
+    {
+      "id": "73.16.10.2005",
+      "name": "Ledan",
+      "postal_code": "91750",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.10",
+        "name": "Buntu Batu"
+      }
+    },
+    {
+      "id": "73.16.10.2006",
+      "name": "Lunjen",
+      "postal_code": "91750",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.10",
+        "name": "Buntu Batu"
+      }
+    },
+    {
+      "id": "73.16.10.2007",
+      "name": "Langda",
+      "postal_code": "91750",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.10",
+        "name": "Buntu Batu"
+      }
+    },
+    {
+      "id": "73.16.10.2008",
+      "name": "Potok Ullin",
+      "postal_code": "91750",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.16",
+        "name": "Kabupaten Enrekang"
+      },
+      "district": {
+        "id": "73.16.10",
+        "name": "Buntu Batu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

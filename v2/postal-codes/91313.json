@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "76.04.04.1004",
+      "name": "Lantora",
+      "postal_code": "91313",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.04",
+        "name": "Polewali"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

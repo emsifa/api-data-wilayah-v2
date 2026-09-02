@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.06.01.2005",
+    "name": "Sulahan",
+    "postal_code": "80661",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.06",
+      "name": "Kabupaten Bangli"
+    },
+    "district": {
+      "id": "51.06.01",
+      "name": "Susut"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

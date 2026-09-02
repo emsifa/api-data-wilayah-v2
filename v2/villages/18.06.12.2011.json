@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.06.12.2011",
+    "name": "Sudimoro Bangun",
+    "postal_code": "35386",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.06",
+      "name": "Kabupaten Tanggamus"
+    },
+    "district": {
+      "id": "18.06.12",
+      "name": "Semaka"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.08.18.2004",
+    "name": "Raja Maligas",
+    "postal_code": "21182",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.08",
+      "name": "Kabupaten Simalungun"
+    },
+    "district": {
+      "id": "12.08.18",
+      "name": "Hutabayu Raja"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

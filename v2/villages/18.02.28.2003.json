@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.02.28.2003",
+    "name": "Bina Karya Sakti",
+    "postal_code": "34157",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.02",
+      "name": "Kabupaten Lampung Tengah"
+    },
+    "district": {
+      "id": "18.02.28",
+      "name": "Putra Rumbia"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.02.09.2018",
+    "name": "Kaduhauk",
+    "postal_code": "42355",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.02",
+      "name": "Kabupaten Lebak"
+    },
+    "district": {
+      "id": "36.02.09",
+      "name": "Banjarsari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

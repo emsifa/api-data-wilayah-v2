@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.14.33.2001",
+    "name": "Hilifalago",
+    "postal_code": "22869",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.14",
+      "name": "Kabupaten Nias Selatan"
+    },
+    "district": {
+      "id": "12.14.33",
+      "name": "Onolalu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

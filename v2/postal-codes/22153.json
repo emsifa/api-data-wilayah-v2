@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "12.06.15.2001",
+      "name": "Cinta Rakyat",
+      "postal_code": "22153",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.06",
+        "name": "Kabupaten Karo"
+      },
+      "district": {
+        "id": "12.06.15",
+        "name": "Merdeka"
+      }
+    },
+    {
+      "id": "12.06.15.2002",
+      "name": "Semangat",
+      "postal_code": "22153",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.06",
+        "name": "Kabupaten Karo"
+      },
+      "district": {
+        "id": "12.06.15",
+        "name": "Merdeka"
+      }
+    },
+    {
+      "id": "12.06.15.2003",
+      "name": "Ujung Teran",
+      "postal_code": "22153",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.06",
+        "name": "Kabupaten Karo"
+      },
+      "district": {
+        "id": "12.06.15",
+        "name": "Merdeka"
+      }
+    },
+    {
+      "id": "12.06.15.2004",
+      "name": "Gongsol",
+      "postal_code": "22153",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.06",
+        "name": "Kabupaten Karo"
+      },
+      "district": {
+        "id": "12.06.15",
+        "name": "Merdeka"
+      }
+    },
+    {
+      "id": "12.06.15.2005",
+      "name": "Jaranguda",
+      "postal_code": "22153",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.06",
+        "name": "Kabupaten Karo"
+      },
+      "district": {
+        "id": "12.06.15",
+        "name": "Merdeka"
+      }
+    },
+    {
+      "id": "12.06.15.2006",
+      "name": "Semangat Gunung",
+      "postal_code": "22153",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.06",
+        "name": "Kabupaten Karo"
+      },
+      "district": {
+        "id": "12.06.15",
+        "name": "Merdeka"
+      }
+    },
+    {
+      "id": "12.06.15.2007",
+      "name": "Deram",
+      "postal_code": "22153",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.06",
+        "name": "Kabupaten Karo"
+      },
+      "district": {
+        "id": "12.06.15",
+        "name": "Merdeka"
+      }
+    },
+    {
+      "id": "12.06.15.2008",
+      "name": "Merdeka",
+      "postal_code": "22153",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.06",
+        "name": "Kabupaten Karo"
+      },
+      "district": {
+        "id": "12.06.15",
+        "name": "Merdeka"
+      }
+    },
+    {
+      "id": "12.06.15.2009",
+      "name": "Sada Perarih",
+      "postal_code": "22153",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.06",
+        "name": "Kabupaten Karo"
+      },
+      "district": {
+        "id": "12.06.15",
+        "name": "Merdeka"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

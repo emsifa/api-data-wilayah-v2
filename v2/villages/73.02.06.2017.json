@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.02.06.2017",
+    "name": "Lembang Lohe",
+    "postal_code": "92574",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.02",
+      "name": "Kabupaten Bulukumba"
+    },
+    "district": {
+      "id": "73.02.06",
+      "name": "Kajang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.01.12.2003",
+    "name": "Toapaya Selatan",
+    "postal_code": "29157",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.01",
+      "name": "Kabupaten Bintan"
+    },
+    "district": {
+      "id": "21.01.12",
+      "name": "Toapaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

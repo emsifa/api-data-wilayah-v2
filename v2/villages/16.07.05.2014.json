@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.07.05.2014",
+    "name": "Taja Mulya",
+    "postal_code": "30958",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.07",
+      "name": "Kabupaten Banyuasin"
+    },
+    "district": {
+      "id": "16.07.05",
+      "name": "Betung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

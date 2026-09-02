@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.04.13.2003",
+    "name": "Waspait",
+    "postal_code": "97575",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.04",
+      "name": "Kabupaten Buru"
+    },
+    "district": {
+      "id": "81.04.13",
+      "name": "Fena Leisela"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

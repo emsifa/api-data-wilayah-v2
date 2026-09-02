@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.74.02.1004",
+    "name": "Pondok Jagung",
+    "postal_code": "15326",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.74",
+      "name": "Kota Tangerang Selatan"
+    },
+    "district": {
+      "id": "36.74.02",
+      "name": "Serpong Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

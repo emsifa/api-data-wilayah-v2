@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.03.08.2008",
+    "name": "Botubarani",
+    "postal_code": "96553",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.03",
+      "name": "Kabupaten Bone Bolango"
+    },
+    "district": {
+      "id": "75.03.08",
+      "name": "Kabila Bone"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

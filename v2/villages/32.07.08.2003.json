@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.07.08.2003",
+    "name": "Ciomas",
+    "postal_code": "46264",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.07",
+      "name": "Kabupaten Ciamis"
+    },
+    "district": {
+      "id": "32.07.08",
+      "name": "Panjalu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

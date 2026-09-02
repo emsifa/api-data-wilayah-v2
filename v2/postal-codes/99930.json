@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "95.08.26.2001",
+      "name": "Wusi",
+      "postal_code": "99930",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.26",
+        "name": "Wusi"
+      }
+    },
+    {
+      "id": "95.08.26.2002",
+      "name": "Ginigit",
+      "postal_code": "99930",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.26",
+        "name": "Wusi"
+      }
+    },
+    {
+      "id": "95.08.26.2003",
+      "name": "Pijemae",
+      "postal_code": "99930",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.26",
+        "name": "Wusi"
+      }
+    },
+    {
+      "id": "95.08.26.2004",
+      "name": "Gimigip",
+      "postal_code": "99930",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.26",
+        "name": "Wusi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

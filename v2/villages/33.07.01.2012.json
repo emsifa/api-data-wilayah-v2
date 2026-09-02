@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.07.01.2012",
+    "name": "Trimulyo",
+    "postal_code": "56365",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.07",
+      "name": "Kabupaten Wonosobo"
+    },
+    "district": {
+      "id": "33.07.01",
+      "name": "Wadaslintang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

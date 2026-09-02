@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.06.10.2003",
+    "name": "Labota",
+    "postal_code": "94974",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.06",
+      "name": "Kabupaten Morowali"
+    },
+    "district": {
+      "id": "72.06.10",
+      "name": "Bahodopi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

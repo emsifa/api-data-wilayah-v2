@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.75.01.1007",
+      "name": "Krapyakrejo",
+      "postal_code": "67137",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.75",
+        "name": "Kota Pasuruan"
+      },
+      "district": {
+        "id": "35.75.01",
+        "name": "Gadingrejo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

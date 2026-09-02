@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.01.12.2003",
+    "name": "Banyubiru",
+    "postal_code": "42260",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.01",
+      "name": "Kabupaten Pandeglang"
+    },
+    "district": {
+      "id": "36.01.12",
+      "name": "Labuan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

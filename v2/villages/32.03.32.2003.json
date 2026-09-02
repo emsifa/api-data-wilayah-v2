@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.03.32.2003",
+    "name": "Pusakajaya",
+    "postal_code": "43266",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.03",
+      "name": "Kabupaten Cianjur"
+    },
+    "district": {
+      "id": "32.03.32",
+      "name": "Pasirkuda"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

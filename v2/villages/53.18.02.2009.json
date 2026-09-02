@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.18.02.2009",
+    "name": "Odi Paurata",
+    "postal_code": "87251",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.18",
+      "name": "Kabupaten Sumba Barat Daya"
+    },
+    "district": {
+      "id": "53.18.02",
+      "name": "Wewewa Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

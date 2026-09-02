@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.15.01.2001",
+    "name": "Karanglangu",
+    "postal_code": "58167",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.15",
+      "name": "Kabupaten Grobogan"
+    },
+    "district": {
+      "id": "33.15.01",
+      "name": "Kedungjati"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

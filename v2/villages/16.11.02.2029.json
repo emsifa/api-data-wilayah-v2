@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.11.02.2029",
+    "name": "Gn Merakasa Lama",
+    "postal_code": "31598",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.11",
+      "name": "Kabupaten Empat Lawang"
+    },
+    "district": {
+      "id": "16.11.02",
+      "name": "Pendopo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

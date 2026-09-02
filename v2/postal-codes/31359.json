@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "16.03.09.2001",
+      "name": "Tenam Bungkuk",
+      "postal_code": "31359",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.03",
+        "name": "Kabupaten Muara Enim"
+      },
+      "district": {
+        "id": "16.03.09",
+        "name": "Semende Darat Tengah"
+      }
+    },
+    {
+      "id": "16.03.09.2002",
+      "name": "Kota Padang",
+      "postal_code": "31359",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.03",
+        "name": "Kabupaten Muara Enim"
+      },
+      "district": {
+        "id": "16.03.09",
+        "name": "Semende Darat Tengah"
+      }
+    },
+    {
+      "id": "16.03.09.2003",
+      "name": "Gunung Agung",
+      "postal_code": "31359",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.03",
+        "name": "Kabupaten Muara Enim"
+      },
+      "district": {
+        "id": "16.03.09",
+        "name": "Semende Darat Tengah"
+      }
+    },
+    {
+      "id": "16.03.09.2004",
+      "name": "Sri Tanjung",
+      "postal_code": "31359",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.03",
+        "name": "Kabupaten Muara Enim"
+      },
+      "district": {
+        "id": "16.03.09",
+        "name": "Semende Darat Tengah"
+      }
+    },
+    {
+      "id": "16.03.09.2005",
+      "name": "Tebing Abang",
+      "postal_code": "31359",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.03",
+        "name": "Kabupaten Muara Enim"
+      },
+      "district": {
+        "id": "16.03.09",
+        "name": "Semende Darat Tengah"
+      }
+    },
+    {
+      "id": "16.03.09.2006",
+      "name": "Batu Surau",
+      "postal_code": "31359",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.03",
+        "name": "Kabupaten Muara Enim"
+      },
+      "district": {
+        "id": "16.03.09",
+        "name": "Semende Darat Tengah"
+      }
+    },
+    {
+      "id": "16.03.09.2007",
+      "name": "Tanjung Raya",
+      "postal_code": "31359",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.03",
+        "name": "Kabupaten Muara Enim"
+      },
+      "district": {
+        "id": "16.03.09",
+        "name": "Semende Darat Tengah"
+      }
+    },
+    {
+      "id": "16.03.09.2008",
+      "name": "Muara Tenang",
+      "postal_code": "31359",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.03",
+        "name": "Kabupaten Muara Enim"
+      },
+      "district": {
+        "id": "16.03.09",
+        "name": "Semende Darat Tengah"
+      }
+    },
+    {
+      "id": "16.03.09.2009",
+      "name": "Rekimai Jaya",
+      "postal_code": "31359",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.03",
+        "name": "Kabupaten Muara Enim"
+      },
+      "district": {
+        "id": "16.03.09",
+        "name": "Semende Darat Tengah"
+      }
+    },
+    {
+      "id": "16.03.09.2010",
+      "name": "Palak Tanah",
+      "postal_code": "31359",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.03",
+        "name": "Kabupaten Muara Enim"
+      },
+      "district": {
+        "id": "16.03.09",
+        "name": "Semende Darat Tengah"
+      }
+    },
+    {
+      "id": "16.03.09.2011",
+      "name": "Kota Agung",
+      "postal_code": "31359",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.03",
+        "name": "Kabupaten Muara Enim"
+      },
+      "district": {
+        "id": "16.03.09",
+        "name": "Semende Darat Tengah"
+      }
+    },
+    {
+      "id": "16.03.09.2012",
+      "name": "Swarna Dwipa",
+      "postal_code": "31359",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.03",
+        "name": "Kabupaten Muara Enim"
+      },
+      "district": {
+        "id": "16.03.09",
+        "name": "Semende Darat Tengah"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

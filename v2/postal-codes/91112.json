@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "73.72.02.1004",
+      "name": "Lapadde",
+      "postal_code": "91112",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.72",
+        "name": "Kota Parepare"
+      },
+      "district": {
+        "id": "73.72.02",
+        "name": "Ujung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

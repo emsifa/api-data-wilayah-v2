@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "64.72.04.1002",
+      "name": "Sungai Dama",
+      "postal_code": "75115",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.72",
+        "name": "Kota Samarinda"
+      },
+      "district": {
+        "id": "64.72.04",
+        "name": "Samarinda Ilir"
+      }
+    },
+    {
+      "id": "64.72.07.1002",
+      "name": "Sambutan",
+      "postal_code": "75115",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.72",
+        "name": "Kota Samarinda"
+      },
+      "district": {
+        "id": "64.72.07",
+        "name": "Sambutan"
+      }
+    },
+    {
+      "id": "64.72.07.1003",
+      "name": "Makroman",
+      "postal_code": "75115",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.72",
+        "name": "Kota Samarinda"
+      },
+      "district": {
+        "id": "64.72.07",
+        "name": "Sambutan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

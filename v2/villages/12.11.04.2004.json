@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.11.04.2004",
+    "name": "Adian Nangka",
+    "postal_code": "22261",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.11",
+      "name": "Kabupaten Dairi"
+    },
+    "district": {
+      "id": "12.11.04",
+      "name": "Siempat Nempu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

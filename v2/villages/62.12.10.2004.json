@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.12.10.2004",
+    "name": "Tumbang Topus",
+    "postal_code": "73983",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.12",
+      "name": "Kabupaten Murung Raya"
+    },
+    "district": {
+      "id": "62.12.10",
+      "name": "Uut Murung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

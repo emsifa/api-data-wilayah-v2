@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "64.08.08.2001",
+      "name": "Makmur Jaya",
+      "postal_code": "75555",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.08",
+        "name": "Kabupaten Kutai Timur"
+      },
+      "district": {
+        "id": "64.08.08",
+        "name": "Kombeng"
+      }
+    },
+    {
+      "id": "64.08.08.2002",
+      "name": "Marga Mulya",
+      "postal_code": "75555",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.08",
+        "name": "Kabupaten Kutai Timur"
+      },
+      "district": {
+        "id": "64.08.08",
+        "name": "Kombeng"
+      }
+    },
+    {
+      "id": "64.08.08.2003",
+      "name": "Sukamaju",
+      "postal_code": "75555",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.08",
+        "name": "Kabupaten Kutai Timur"
+      },
+      "district": {
+        "id": "64.08.08",
+        "name": "Kombeng"
+      }
+    },
+    {
+      "id": "64.08.08.2004",
+      "name": "Sidomulyo",
+      "postal_code": "75555",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.08",
+        "name": "Kabupaten Kutai Timur"
+      },
+      "district": {
+        "id": "64.08.08",
+        "name": "Kombeng"
+      }
+    },
+    {
+      "id": "64.08.08.2005",
+      "name": "Sri Pantun",
+      "postal_code": "75555",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.08",
+        "name": "Kabupaten Kutai Timur"
+      },
+      "district": {
+        "id": "64.08.08",
+        "name": "Kombeng"
+      }
+    },
+    {
+      "id": "64.08.08.2006",
+      "name": "Kombeng Indah",
+      "postal_code": "75555",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.08",
+        "name": "Kabupaten Kutai Timur"
+      },
+      "district": {
+        "id": "64.08.08",
+        "name": "Kombeng"
+      }
+    },
+    {
+      "id": "64.08.08.2007",
+      "name": "Miau Baru",
+      "postal_code": "75555",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.08",
+        "name": "Kabupaten Kutai Timur"
+      },
+      "district": {
+        "id": "64.08.08",
+        "name": "Kombeng"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.05.06.2002",
+    "name": "Muara Kumpeh",
+    "postal_code": "36373",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.05",
+      "name": "Kabupaten Muaro Jambi"
+    },
+    "district": {
+      "id": "15.05.06",
+      "name": "Kumpeh Ulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

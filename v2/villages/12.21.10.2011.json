@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.21.10.2011",
+    "name": "Panarian",
+    "postal_code": "22764",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.21",
+      "name": "Kabupaten Padang Lawas"
+    },
+    "district": {
+      "id": "12.21.10",
+      "name": "Barumun Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

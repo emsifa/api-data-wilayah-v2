@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "32.02.29.2002",
+      "name": "Sukasari",
+      "postal_code": "43134",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.29",
+        "name": "Cisaat"
+      }
+    },
+    {
+      "id": "32.72.04.1003",
+      "name": "Dayeuhluhur",
+      "postal_code": "43134",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.72",
+        "name": "Kota Sukabumi"
+      },
+      "district": {
+        "id": "32.72.04",
+        "name": "Warudoyong"
+      }
+    },
+    {
+      "id": "32.72.06.1001",
+      "name": "Cipanengah",
+      "postal_code": "43134",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.72",
+        "name": "Kota Sukabumi"
+      },
+      "district": {
+        "id": "32.72.06",
+        "name": "Lembursitu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

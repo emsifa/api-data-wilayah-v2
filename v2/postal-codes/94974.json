@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "72.06.10.2001",
+      "name": "Bete-Bete",
+      "postal_code": "94974",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.10",
+        "name": "Bahodopi"
+      }
+    },
+    {
+      "id": "72.06.10.2002",
+      "name": "Padabahao",
+      "postal_code": "94974",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.10",
+        "name": "Bahodopi"
+      }
+    },
+    {
+      "id": "72.06.10.2003",
+      "name": "Labota",
+      "postal_code": "94974",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.10",
+        "name": "Bahodopi"
+      }
+    },
+    {
+      "id": "72.06.10.2004",
+      "name": "Fatufia",
+      "postal_code": "94974",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.10",
+        "name": "Bahodopi"
+      }
+    },
+    {
+      "id": "72.06.10.2005",
+      "name": "Keurea",
+      "postal_code": "94974",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.10",
+        "name": "Bahodopi"
+      }
+    },
+    {
+      "id": "72.06.10.2006",
+      "name": "Bahodopi",
+      "postal_code": "94974",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.10",
+        "name": "Bahodopi"
+      }
+    },
+    {
+      "id": "72.06.10.2007",
+      "name": "Lalampu",
+      "postal_code": "94974",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.10",
+        "name": "Bahodopi"
+      }
+    },
+    {
+      "id": "72.06.10.2008",
+      "name": "Siumbatu",
+      "postal_code": "94974",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.10",
+        "name": "Bahodopi"
+      }
+    },
+    {
+      "id": "72.06.10.2009",
+      "name": "Dampala",
+      "postal_code": "94974",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.10",
+        "name": "Bahodopi"
+      }
+    },
+    {
+      "id": "72.06.10.2010",
+      "name": "Le-Le",
+      "postal_code": "94974",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.10",
+        "name": "Bahodopi"
+      }
+    },
+    {
+      "id": "72.06.10.2011",
+      "name": "Baho Makmur",
+      "postal_code": "94974",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.10",
+        "name": "Bahodopi"
+      }
+    },
+    {
+      "id": "72.06.10.2012",
+      "name": "Makartijaya",
+      "postal_code": "94974",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.06",
+        "name": "Kabupaten Morowali"
+      },
+      "district": {
+        "id": "72.06.10",
+        "name": "Bahodopi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.06.24.2009",
+      "name": "Singasari",
+      "postal_code": "46412",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.24",
+        "name": "Singaparna"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.71.15.1003",
+    "name": "Gunungsulah",
+    "postal_code": "35136",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.71",
+      "name": "Kota Bandar Lampung"
+    },
+    "district": {
+      "id": "18.71.15",
+      "name": "Way Halim"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

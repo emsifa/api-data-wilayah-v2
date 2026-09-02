@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": "35.28.04.1001",
+      "name": "Kangenan",
+      "postal_code": "69317",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.04",
+        "name": "Pamekasan"
+      }
+    },
+    {
+      "id": "35.28.04.1012",
+      "name": "Jungcangcang",
+      "postal_code": "69317",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.04",
+        "name": "Pamekasan"
+      }
+    },
+    {
+      "id": "35.28.04.1014",
+      "name": "Barurambat Kota",
+      "postal_code": "69317",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.04",
+        "name": "Pamekasan"
+      }
+    },
+    {
+      "id": "35.28.04.1015",
+      "name": "Gladak Anyar",
+      "postal_code": "69317",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.04",
+        "name": "Pamekasan"
+      }
+    },
+    {
+      "id": "35.28.04.1017",
+      "name": "Kowel",
+      "postal_code": "69317",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.04",
+        "name": "Pamekasan"
+      }
+    },
+    {
+      "id": "35.28.04.2002",
+      "name": "Panempan",
+      "postal_code": "69317",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.04",
+        "name": "Pamekasan"
+      }
+    },
+    {
+      "id": "35.28.04.2004",
+      "name": "Laden",
+      "postal_code": "69317",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.04",
+        "name": "Pamekasan"
+      }
+    },
+    {
+      "id": "35.28.04.2005",
+      "name": "Jalmak",
+      "postal_code": "69317",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.04",
+        "name": "Pamekasan"
+      }
+    },
+    {
+      "id": "35.28.04.2006",
+      "name": "Teja Barat",
+      "postal_code": "69317",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.04",
+        "name": "Pamekasan"
+      }
+    },
+    {
+      "id": "35.28.04.2007",
+      "name": "Teja Timur",
+      "postal_code": "69317",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.04",
+        "name": "Pamekasan"
+      }
+    },
+    {
+      "id": "35.28.04.2008",
+      "name": "Bettet",
+      "postal_code": "69317",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.04",
+        "name": "Pamekasan"
+      }
+    },
+    {
+      "id": "35.28.04.2009",
+      "name": "Nyalabu Laok",
+      "postal_code": "69317",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.04",
+        "name": "Pamekasan"
+      }
+    },
+    {
+      "id": "35.28.04.2010",
+      "name": "Nyalabu Daya",
+      "postal_code": "69317",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.04",
+        "name": "Pamekasan"
+      }
+    },
+    {
+      "id": "35.28.04.2018",
+      "name": "Toronan",
+      "postal_code": "69317",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.28",
+        "name": "Kabupaten Pamekasan"
+      },
+      "district": {
+        "id": "35.28.04",
+        "name": "Pamekasan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

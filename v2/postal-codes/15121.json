@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "36.71.03.1002",
+      "name": "Batu Jaya",
+      "postal_code": "15121",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.03",
+        "name": "Batuceper"
+      }
+    },
+    {
+      "id": "36.71.03.1006",
+      "name": "Batu Sari",
+      "postal_code": "15121",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.03",
+        "name": "Batuceper"
+      }
+    },
+    {
+      "id": "36.71.10.1002",
+      "name": "Karang Sari",
+      "postal_code": "15121",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.10",
+        "name": "Neglasari"
+      }
+    },
+    {
+      "id": "36.71.10.1006",
+      "name": "Karang Anyar",
+      "postal_code": "15121",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.10",
+        "name": "Neglasari"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

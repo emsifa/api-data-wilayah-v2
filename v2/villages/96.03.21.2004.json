@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "96.03.21.2004",
+    "name": "Waijan",
+    "postal_code": "98496",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.03",
+      "name": "Kabupaten Raja Ampat"
+    },
+    "district": {
+      "id": "96.03.21",
+      "name": "Salawati Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

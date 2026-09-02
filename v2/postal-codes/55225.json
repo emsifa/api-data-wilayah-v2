@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "34.71.03.1004",
+      "name": "Baciro",
+      "postal_code": "55225",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.71",
+        "name": "Kota Yogyakarta"
+      },
+      "district": {
+        "id": "34.71.03",
+        "name": "Gondokusuman"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

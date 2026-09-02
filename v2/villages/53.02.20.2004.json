@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.02.20.2004",
+    "name": "Hoibeti",
+    "postal_code": "85576",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.02",
+      "name": "Kabupaten Timor Tengah Selatan"
+    },
+    "district": {
+      "id": "53.02.20",
+      "name": "Kot olin"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

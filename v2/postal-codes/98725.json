@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "94.03.20.2001",
+      "name": "Uwebutu",
+      "postal_code": "98725",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.03",
+        "name": "Kabupaten Paniai"
+      },
+      "district": {
+        "id": "94.03.20",
+        "name": "Deiyai Miyo"
+      }
+    },
+    {
+      "id": "94.03.20.2002",
+      "name": "Epouto",
+      "postal_code": "98725",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.03",
+        "name": "Kabupaten Paniai"
+      },
+      "district": {
+        "id": "94.03.20",
+        "name": "Deiyai Miyo"
+      }
+    },
+    {
+      "id": "94.03.20.2003",
+      "name": "Tugumo",
+      "postal_code": "98725",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.03",
+        "name": "Kabupaten Paniai"
+      },
+      "district": {
+        "id": "94.03.20",
+        "name": "Deiyai Miyo"
+      }
+    },
+    {
+      "id": "94.03.20.2004",
+      "name": "Tugu Kagomoma",
+      "postal_code": "98725",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.03",
+        "name": "Kabupaten Paniai"
+      },
+      "district": {
+        "id": "94.03.20",
+        "name": "Deiyai Miyo"
+      }
+    },
+    {
+      "id": "94.03.20.2005",
+      "name": "Deiyamo",
+      "postal_code": "98725",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.03",
+        "name": "Kabupaten Paniai"
+      },
+      "district": {
+        "id": "94.03.20",
+        "name": "Deiyai Miyo"
+      }
+    },
+    {
+      "id": "94.03.20.2006",
+      "name": "Miyamo",
+      "postal_code": "98725",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.03",
+        "name": "Kabupaten Paniai"
+      },
+      "district": {
+        "id": "94.03.20",
+        "name": "Deiyai Miyo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

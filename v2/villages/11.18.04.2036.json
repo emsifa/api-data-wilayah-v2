@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.18.04.2036",
+    "name": "Cot Keng",
+    "postal_code": "24188",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.18",
+      "name": "Kabupaten Pidie Jaya"
+    },
+    "district": {
+      "id": "11.18.04",
+      "name": "Bandar Dua"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

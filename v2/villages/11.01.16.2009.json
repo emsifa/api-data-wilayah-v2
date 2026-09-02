@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.01.16.2009",
+    "name": "Seuneubok Punto",
+    "postal_code": "23776",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.01",
+      "name": "Kabupaten Aceh Selatan"
+    },
+    "district": {
+      "id": "11.01.16",
+      "name": "Trumon Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

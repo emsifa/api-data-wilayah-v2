@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.02.23.2010",
+    "name": "Lebakasih",
+    "postal_code": "42381",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.02",
+      "name": "Kabupaten Lebak"
+    },
+    "district": {
+      "id": "36.02.23",
+      "name": "Curugbitung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

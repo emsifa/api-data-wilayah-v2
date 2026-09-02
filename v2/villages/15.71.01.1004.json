@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.71.01.1004",
+    "name": "Telanaipura",
+    "postal_code": "36122",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.71",
+      "name": "Kota Jambi"
+    },
+    "district": {
+      "id": "15.71.01",
+      "name": "Telanaipura"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

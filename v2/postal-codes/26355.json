@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "13.08.14.2002",
+      "name": "Taruang Taruang",
+      "postal_code": "26355",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.08",
+        "name": "Kabupaten Pasaman"
+      },
+      "district": {
+        "id": "13.08.14",
+        "name": "Rao"
+      }
+    },
+    {
+      "id": "13.08.14.2005",
+      "name": "Padang Mantinggi",
+      "postal_code": "26355",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.08",
+        "name": "Kabupaten Pasaman"
+      },
+      "district": {
+        "id": "13.08.14",
+        "name": "Rao"
+      }
+    },
+    {
+      "id": "13.08.14.2008",
+      "name": "Taruang Taruang Selatan",
+      "postal_code": "26355",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.08",
+        "name": "Kabupaten Pasaman"
+      },
+      "district": {
+        "id": "13.08.14",
+        "name": "Rao"
+      }
+    },
+    {
+      "id": "13.08.14.2009",
+      "name": "Taruang Taruang Utara",
+      "postal_code": "26355",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.08",
+        "name": "Kabupaten Pasaman"
+      },
+      "district": {
+        "id": "13.08.14",
+        "name": "Rao"
+      }
+    },
+    {
+      "id": "13.08.14.2010",
+      "name": "Padang Mantinggi Utara",
+      "postal_code": "26355",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.08",
+        "name": "Kabupaten Pasaman"
+      },
+      "district": {
+        "id": "13.08.14",
+        "name": "Rao"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "33.02.26.1001",
+      "name": "Sokanegara",
+      "postal_code": "53115",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.02",
+        "name": "Kabupaten Banyumas"
+      },
+      "district": {
+        "id": "33.02.26",
+        "name": "Purwokerto Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

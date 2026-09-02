@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.75.10.1005",
+    "name": "Jatiraden",
+    "postal_code": "17433",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.75",
+      "name": "Kota Bekasi"
+    },
+    "district": {
+      "id": "32.75.10",
+      "name": "Jatisampurna"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

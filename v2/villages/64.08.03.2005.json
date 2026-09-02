@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.08.03.2005",
+    "name": "Benua Baru",
+    "postal_code": "75656",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.08",
+      "name": "Kabupaten Kutai Timur"
+    },
+    "district": {
+      "id": "64.08.03",
+      "name": "Muara Bengkal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

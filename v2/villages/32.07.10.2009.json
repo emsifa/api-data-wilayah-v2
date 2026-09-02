@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.07.10.2009",
+    "name": "Sadapaingan",
+    "postal_code": "46255",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.07",
+      "name": "Kabupaten Ciamis"
+    },
+    "district": {
+      "id": "32.07.10",
+      "name": "Panawangan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

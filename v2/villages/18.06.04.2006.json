@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.06.04.2006",
+    "name": "Kemuning",
+    "postal_code": "35678",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.06",
+      "name": "Kabupaten Tanggamus"
+    },
+    "district": {
+      "id": "18.06.04",
+      "name": "Pulau Panggung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

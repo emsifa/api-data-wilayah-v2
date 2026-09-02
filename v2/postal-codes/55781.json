@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "34.02.09.2001",
+      "name": "Patalan",
+      "postal_code": "55781",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.02",
+        "name": "Kabupaten Bantul"
+      },
+      "district": {
+        "id": "34.02.09",
+        "name": "Jetis"
+      }
+    },
+    {
+      "id": "34.02.09.2002",
+      "name": "Canden",
+      "postal_code": "55781",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.02",
+        "name": "Kabupaten Bantul"
+      },
+      "district": {
+        "id": "34.02.09",
+        "name": "Jetis"
+      }
+    },
+    {
+      "id": "34.02.09.2003",
+      "name": "Sumberagung",
+      "postal_code": "55781",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.02",
+        "name": "Kabupaten Bantul"
+      },
+      "district": {
+        "id": "34.02.09",
+        "name": "Jetis"
+      }
+    },
+    {
+      "id": "34.02.09.2004",
+      "name": "Trimulyo",
+      "postal_code": "55781",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.02",
+        "name": "Kabupaten Bantul"
+      },
+      "district": {
+        "id": "34.02.09",
+        "name": "Jetis"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

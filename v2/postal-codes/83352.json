@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "52.08.05.2001",
+      "name": "Pemenang Timur",
+      "postal_code": "83352",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.08",
+        "name": "Kabupaten Lombok Utara"
+      },
+      "district": {
+        "id": "52.08.05",
+        "name": "Pemenang"
+      }
+    },
+    {
+      "id": "52.08.05.2002",
+      "name": "Pemenang Barat",
+      "postal_code": "83352",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.08",
+        "name": "Kabupaten Lombok Utara"
+      },
+      "district": {
+        "id": "52.08.05",
+        "name": "Pemenang"
+      }
+    },
+    {
+      "id": "52.08.05.2003",
+      "name": "Gili Indah",
+      "postal_code": "83352",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.08",
+        "name": "Kabupaten Lombok Utara"
+      },
+      "district": {
+        "id": "52.08.05",
+        "name": "Pemenang"
+      }
+    },
+    {
+      "id": "52.08.05.2004",
+      "name": "Malaka",
+      "postal_code": "83352",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.08",
+        "name": "Kabupaten Lombok Utara"
+      },
+      "district": {
+        "id": "52.08.05",
+        "name": "Pemenang"
+      }
+    },
+    {
+      "id": "52.08.05.2005",
+      "name": "Menggala",
+      "postal_code": "83352",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.08",
+        "name": "Kabupaten Lombok Utara"
+      },
+      "district": {
+        "id": "52.08.05",
+        "name": "Pemenang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

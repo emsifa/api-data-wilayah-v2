@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "62.11.08.2001",
+      "name": "Paduran Sebangau",
+      "postal_code": "74874",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.11",
+        "name": "Kabupaten Pulang Pisau"
+      },
+      "district": {
+        "id": "62.11.08",
+        "name": "Sebangau Kuala"
+      }
+    },
+    {
+      "id": "62.11.08.2002",
+      "name": "Paduran Mulya",
+      "postal_code": "74874",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.11",
+        "name": "Kabupaten Pulang Pisau"
+      },
+      "district": {
+        "id": "62.11.08",
+        "name": "Sebangau Kuala"
+      }
+    },
+    {
+      "id": "62.11.08.2003",
+      "name": "Sebangau Mulya",
+      "postal_code": "74874",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.11",
+        "name": "Kabupaten Pulang Pisau"
+      },
+      "district": {
+        "id": "62.11.08",
+        "name": "Sebangau Kuala"
+      }
+    },
+    {
+      "id": "62.11.08.2004",
+      "name": "Sebangau Permai",
+      "postal_code": "74874",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.11",
+        "name": "Kabupaten Pulang Pisau"
+      },
+      "district": {
+        "id": "62.11.08",
+        "name": "Sebangau Kuala"
+      }
+    },
+    {
+      "id": "62.11.08.2005",
+      "name": "Mekar Jaya",
+      "postal_code": "74874",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.11",
+        "name": "Kabupaten Pulang Pisau"
+      },
+      "district": {
+        "id": "62.11.08",
+        "name": "Sebangau Kuala"
+      }
+    },
+    {
+      "id": "62.11.08.2006",
+      "name": "Sebangau Jaya",
+      "postal_code": "74874",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.11",
+        "name": "Kabupaten Pulang Pisau"
+      },
+      "district": {
+        "id": "62.11.08",
+        "name": "Sebangau Kuala"
+      }
+    },
+    {
+      "id": "62.11.08.2007",
+      "name": "Sei Hambawang",
+      "postal_code": "74874",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.11",
+        "name": "Kabupaten Pulang Pisau"
+      },
+      "district": {
+        "id": "62.11.08",
+        "name": "Sebangau Kuala"
+      }
+    },
+    {
+      "id": "62.11.08.2008",
+      "name": "Sei Bakau",
+      "postal_code": "74874",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.11",
+        "name": "Kabupaten Pulang Pisau"
+      },
+      "district": {
+        "id": "62.11.08",
+        "name": "Sebangau Kuala"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

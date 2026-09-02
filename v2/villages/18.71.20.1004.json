@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.71.20.1004",
+    "name": "Bumi Raya",
+    "postal_code": "35228",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.71",
+      "name": "Kota Bandar Lampung"
+    },
+    "district": {
+      "id": "18.71.20",
+      "name": "Bumi Waras"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

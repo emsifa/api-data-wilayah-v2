@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "36.03.22.2008",
+      "name": "Jatake",
+      "postal_code": "15330",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.22",
+        "name": "Pagedangan"
+      }
+    },
+    {
+      "id": "36.03.22.2011",
+      "name": "Malang Nengah",
+      "postal_code": "15330",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.22",
+        "name": "Pagedangan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

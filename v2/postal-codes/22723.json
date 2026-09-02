@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "12.77.02.1001",
+      "name": "Wek V",
+      "postal_code": "22723",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.77",
+        "name": "Kota Padangsidimpuan"
+      },
+      "district": {
+        "id": "12.77.02",
+        "name": "Padangsidimpuan Selatan"
+      }
+    },
+    {
+      "id": "12.77.02.1004",
+      "name": "Sitamiang",
+      "postal_code": "22723",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.77",
+        "name": "Kota Padangsidimpuan"
+      },
+      "district": {
+        "id": "12.77.02",
+        "name": "Padangsidimpuan Selatan"
+      }
+    },
+    {
+      "id": "12.77.02.1012",
+      "name": "Sitamiang Baru",
+      "postal_code": "22723",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.77",
+        "name": "Kota Padangsidimpuan"
+      },
+      "district": {
+        "id": "12.77.02",
+        "name": "Padangsidimpuan Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

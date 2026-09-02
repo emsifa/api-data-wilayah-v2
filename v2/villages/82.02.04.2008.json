@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.02.04.2008",
+    "name": "Kiya",
+    "postal_code": "97854",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.02",
+      "name": "Kabupaten Halmahera Tengah"
+    },
+    "district": {
+      "id": "82.02.04",
+      "name": "Weda Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.07.02.2024",
+    "name": "Suka Jaya",
+    "postal_code": "74280",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.07",
+      "name": "Kabupaten Seruyan"
+    },
+    "district": {
+      "id": "62.07.02",
+      "name": "Seruyan Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

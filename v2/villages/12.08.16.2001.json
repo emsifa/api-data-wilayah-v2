@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.08.16.2001",
+    "name": "Sipangan Bolon",
+    "postal_code": "21174",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.08",
+      "name": "Kabupaten Simalungun"
+    },
+    "district": {
+      "id": "12.08.16",
+      "name": "Girsang Sipangan Bolon"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

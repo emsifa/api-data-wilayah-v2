@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.07.29.2004",
+    "name": "Bojongmalang",
+    "postal_code": "46381",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.07",
+      "name": "Kabupaten Ciamis"
+    },
+    "district": {
+      "id": "32.07.29",
+      "name": "Cimaragas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

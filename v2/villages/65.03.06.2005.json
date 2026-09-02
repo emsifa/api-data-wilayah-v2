@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "65.03.06.2005",
+    "name": "Kekayap",
+    "postal_code": "77481",
+    "province": {
+      "id": "65",
+      "name": "Kalimantan Utara"
+    },
+    "regency": {
+      "id": "65.03",
+      "name": "Kabupaten Nunukan"
+    },
+    "district": {
+      "id": "65.03.06",
+      "name": "Sebuku"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

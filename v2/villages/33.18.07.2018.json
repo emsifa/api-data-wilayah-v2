@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.18.07.2018",
+    "name": "Pecangaan",
+    "postal_code": "59186",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.18",
+      "name": "Kabupaten Pati"
+    },
+    "district": {
+      "id": "33.18.07",
+      "name": "Batangan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

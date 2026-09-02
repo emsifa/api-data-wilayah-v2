@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "33.22.10.1004",
+      "name": "Tambakboyo",
+      "postal_code": "50612",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.22",
+        "name": "Kabupaten Semarang"
+      },
+      "district": {
+        "id": "33.22.10",
+        "name": "Ambarawa"
+      }
+    },
+    {
+      "id": "33.22.10.1006",
+      "name": "Kupang",
+      "postal_code": "50612",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.22",
+        "name": "Kabupaten Semarang"
+      },
+      "district": {
+        "id": "33.22.10",
+        "name": "Ambarawa"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

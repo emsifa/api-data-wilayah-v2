@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "12.24.05.2006",
+      "name": "Sisobahili",
+      "postal_code": "22817",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.24",
+        "name": "Kabupaten Nias Utara"
+      },
+      "district": {
+        "id": "12.24.05",
+        "name": "Namohalu Esiwa"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

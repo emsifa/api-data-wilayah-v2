@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.08.13.1002",
+    "name": "Cadika",
+    "postal_code": "37215",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.08",
+      "name": "Kabupaten Bungo"
+    },
+    "district": {
+      "id": "15.08.13",
+      "name": "Rimbo Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

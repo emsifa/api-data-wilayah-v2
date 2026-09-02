@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "62.02.12.2003",
+      "name": "Batuah",
+      "postal_code": "74315",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.02",
+        "name": "Kabupaten Kotawaringin Timur"
+      },
+      "district": {
+        "id": "62.02.12",
+        "name": "Seranau"
+      }
+    },
+    {
+      "id": "62.02.12.2004",
+      "name": "Terantang Hilir",
+      "postal_code": "74315",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.02",
+        "name": "Kabupaten Kotawaringin Timur"
+      },
+      "district": {
+        "id": "62.02.12",
+        "name": "Seranau"
+      }
+    },
+    {
+      "id": "62.02.12.2006",
+      "name": "Seragam Jaya",
+      "postal_code": "74315",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.02",
+        "name": "Kabupaten Kotawaringin Timur"
+      },
+      "district": {
+        "id": "62.02.12",
+        "name": "Seranau"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

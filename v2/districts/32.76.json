@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "32.76",
+    "name": "Kota Depok",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.76",
+      "name": "Kota Depok"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

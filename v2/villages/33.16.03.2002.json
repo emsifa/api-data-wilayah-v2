@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.16.03.2002",
+    "name": "Nglebak",
+    "postal_code": "58383",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.16",
+      "name": "Kabupaten Blora"
+    },
+    "district": {
+      "id": "33.16.03",
+      "name": "Kradenan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

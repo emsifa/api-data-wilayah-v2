@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.10.02.2019",
+    "name": "Mudalang",
+    "postal_code": "72273",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.10",
+      "name": "Kabupaten Tanah Bumbu"
+    },
+    "district": {
+      "id": "63.10.02",
+      "name": "Kusan Hilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

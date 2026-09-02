@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "72.05.02.2009",
+      "name": "Tuinan",
+      "postal_code": "94573",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.05",
+        "name": "Kabupaten Buol"
+      },
+      "district": {
+        "id": "72.05.02",
+        "name": "Lakea"
+      }
+    },
+    {
+      "id": "72.05.02.2010",
+      "name": "Lakea II",
+      "postal_code": "94573",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.05",
+        "name": "Kabupaten Buol"
+      },
+      "district": {
+        "id": "72.05.02",
+        "name": "Lakea"
+      }
+    },
+    {
+      "id": "72.05.02.2011",
+      "name": "Lakea I",
+      "postal_code": "94573",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.05",
+        "name": "Kabupaten Buol"
+      },
+      "district": {
+        "id": "72.05.02",
+        "name": "Lakea"
+      }
+    },
+    {
+      "id": "72.05.02.2012",
+      "name": "Lakuan Buol",
+      "postal_code": "94573",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.05",
+        "name": "Kabupaten Buol"
+      },
+      "district": {
+        "id": "72.05.02",
+        "name": "Lakea"
+      }
+    },
+    {
+      "id": "72.05.02.2017",
+      "name": "Bukaan",
+      "postal_code": "94573",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.05",
+        "name": "Kabupaten Buol"
+      },
+      "district": {
+        "id": "72.05.02",
+        "name": "Lakea"
+      }
+    },
+    {
+      "id": "72.05.02.2018",
+      "name": "Ngune",
+      "postal_code": "94573",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.05",
+        "name": "Kabupaten Buol"
+      },
+      "district": {
+        "id": "72.05.02",
+        "name": "Lakea"
+      }
+    },
+    {
+      "id": "72.05.02.2019",
+      "name": "Ilambe",
+      "postal_code": "94573",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.05",
+        "name": "Kabupaten Buol"
+      },
+      "district": {
+        "id": "72.05.02",
+        "name": "Lakea"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "96.01.28.2001",
+    "name": "Waliam",
+    "postal_code": "98436",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.01",
+      "name": "Kabupaten Sorong"
+    },
+    "district": {
+      "id": "96.01.28",
+      "name": "Salawati Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

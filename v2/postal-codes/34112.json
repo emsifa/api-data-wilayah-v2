@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "18.72.04.1003",
+      "name": "Iring Mulyo",
+      "postal_code": "34112",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.72",
+        "name": "Kota Metro"
+      },
+      "district": {
+        "id": "18.72.04",
+        "name": "Metro Timur"
+      }
+    },
+    {
+      "id": "18.72.04.1004",
+      "name": "Yosorejo",
+      "postal_code": "34112",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.72",
+        "name": "Kota Metro"
+      },
+      "district": {
+        "id": "18.72.04",
+        "name": "Metro Timur"
+      }
+    },
+    {
+      "id": "18.72.04.1005",
+      "name": "Tejo Agung",
+      "postal_code": "34112",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.72",
+        "name": "Kota Metro"
+      },
+      "district": {
+        "id": "18.72.04",
+        "name": "Metro Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

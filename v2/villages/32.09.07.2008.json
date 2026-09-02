@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.09.07.2008",
+    "name": "Sigong",
+    "postal_code": "45183",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.09",
+      "name": "Kabupaten Cirebon"
+    },
+    "district": {
+      "id": "32.09.07",
+      "name": "Lemahabang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

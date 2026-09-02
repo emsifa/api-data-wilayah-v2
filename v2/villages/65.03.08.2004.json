@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "65.03.08.2004",
+    "name": "Bambangan",
+    "postal_code": "77486",
+    "province": {
+      "id": "65",
+      "name": "Kalimantan Utara"
+    },
+    "regency": {
+      "id": "65.03",
+      "name": "Kabupaten Nunukan"
+    },
+    "district": {
+      "id": "65.03.08",
+      "name": "Sebatik Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.06.08.2010",
+    "name": "Bukit Saburi I",
+    "postal_code": "86263",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.06",
+      "name": "Kabupaten Flores Timur"
+    },
+    "district": {
+      "id": "53.06.08",
+      "name": "Adonara Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

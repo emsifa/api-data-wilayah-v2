@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "96.03.02.2001",
+      "name": "Kabare",
+      "postal_code": "98481",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.02",
+        "name": "Waigeo Utara"
+      }
+    },
+    {
+      "id": "96.03.02.2002",
+      "name": "Andey",
+      "postal_code": "98481",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.02",
+        "name": "Waigeo Utara"
+      }
+    },
+    {
+      "id": "96.03.02.2003",
+      "name": "Asukweri",
+      "postal_code": "98481",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.02",
+        "name": "Waigeo Utara"
+      }
+    },
+    {
+      "id": "96.03.02.2004",
+      "name": "Bonsayor",
+      "postal_code": "98481",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.02",
+        "name": "Waigeo Utara"
+      }
+    },
+    {
+      "id": "96.03.02.2005",
+      "name": "Darumbab",
+      "postal_code": "98481",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.02",
+        "name": "Waigeo Utara"
+      }
+    },
+    {
+      "id": "96.03.02.2006",
+      "name": "Kalisade",
+      "postal_code": "98481",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.02",
+        "name": "Waigeo Utara"
+      }
+    },
+    {
+      "id": "96.03.08.2001",
+      "name": "Puper",
+      "postal_code": "98481",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.08",
+        "name": "Waigeo Timur"
+      }
+    },
+    {
+      "id": "96.03.08.2002",
+      "name": "Yenbekaki",
+      "postal_code": "98481",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.08",
+        "name": "Waigeo Timur"
+      }
+    },
+    {
+      "id": "96.03.08.2003",
+      "name": "Urbinasopen",
+      "postal_code": "98481",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.08",
+        "name": "Waigeo Timur"
+      }
+    },
+    {
+      "id": "96.03.08.2004",
+      "name": "Yensner",
+      "postal_code": "98481",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.08",
+        "name": "Waigeo Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

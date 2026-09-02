@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.01.08.2003",
+    "name": "Jeruklegi Wetan",
+    "postal_code": "53252",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.01",
+      "name": "Kabupaten Cilacap"
+    },
+    "district": {
+      "id": "33.01.08",
+      "name": "Jeruklegi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

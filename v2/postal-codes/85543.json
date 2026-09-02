@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "53.02.30.2001",
+      "name": "Oelbubuk",
+      "postal_code": "85543",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.02",
+        "name": "Kabupaten Timor Tengah Selatan"
+      },
+      "district": {
+        "id": "53.02.30",
+        "name": "Mollo Tengah"
+      }
+    },
+    {
+      "id": "53.02.30.2002",
+      "name": "Nekemunifeto",
+      "postal_code": "85543",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.02",
+        "name": "Kabupaten Timor Tengah Selatan"
+      },
+      "district": {
+        "id": "53.02.30",
+        "name": "Mollo Tengah"
+      }
+    },
+    {
+      "id": "53.02.30.2003",
+      "name": "Binaus",
+      "postal_code": "85543",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.02",
+        "name": "Kabupaten Timor Tengah Selatan"
+      },
+      "district": {
+        "id": "53.02.30",
+        "name": "Mollo Tengah"
+      }
+    },
+    {
+      "id": "53.02.30.2004",
+      "name": "Oel'Ekam",
+      "postal_code": "85543",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.02",
+        "name": "Kabupaten Timor Tengah Selatan"
+      },
+      "district": {
+        "id": "53.02.30",
+        "name": "Mollo Tengah"
+      }
+    },
+    {
+      "id": "53.02.30.2005",
+      "name": "Kualeu",
+      "postal_code": "85543",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.02",
+        "name": "Kabupaten Timor Tengah Selatan"
+      },
+      "district": {
+        "id": "53.02.30",
+        "name": "Mollo Tengah"
+      }
+    },
+    {
+      "id": "53.02.30.2006",
+      "name": "Pika",
+      "postal_code": "85543",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.02",
+        "name": "Kabupaten Timor Tengah Selatan"
+      },
+      "district": {
+        "id": "53.02.30",
+        "name": "Mollo Tengah"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

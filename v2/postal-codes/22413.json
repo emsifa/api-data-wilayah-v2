@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "12.02.01.1002",
+      "name": "Hutatoruan V",
+      "postal_code": "22413",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.02",
+        "name": "Kabupaten Tapanuli Utara"
+      },
+      "district": {
+        "id": "12.02.01",
+        "name": "Tarutung"
+      }
+    },
+    {
+      "id": "12.02.01.1003",
+      "name": "Hutatoruan VI",
+      "postal_code": "22413",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.02",
+        "name": "Kabupaten Tapanuli Utara"
+      },
+      "district": {
+        "id": "12.02.01",
+        "name": "Tarutung"
+      }
+    },
+    {
+      "id": "12.02.01.1004",
+      "name": "Hutatoruan VII",
+      "postal_code": "22413",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.02",
+        "name": "Kabupaten Tapanuli Utara"
+      },
+      "district": {
+        "id": "12.02.01",
+        "name": "Tarutung"
+      }
+    },
+    {
+      "id": "12.02.01.2015",
+      "name": "Aek Siansimun",
+      "postal_code": "22413",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.02",
+        "name": "Kabupaten Tapanuli Utara"
+      },
+      "district": {
+        "id": "12.02.01",
+        "name": "Tarutung"
+      }
+    },
+    {
+      "id": "12.02.01.2020",
+      "name": "Hutatoruan VIII",
+      "postal_code": "22413",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.02",
+        "name": "Kabupaten Tapanuli Utara"
+      },
+      "district": {
+        "id": "12.02.01",
+        "name": "Tarutung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

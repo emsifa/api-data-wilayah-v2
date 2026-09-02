@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.14.15.2014",
+    "name": "Hilimbowo",
+    "postal_code": "22866",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.14",
+      "name": "Kabupaten Nias Selatan"
+    },
+    "district": {
+      "id": "12.14.15",
+      "name": "Aramo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

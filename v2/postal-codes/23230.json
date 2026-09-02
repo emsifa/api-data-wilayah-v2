@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "11.71.08.2008",
+      "name": "Lamteumen Timur",
+      "postal_code": "23230",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.71",
+        "name": "Kota Banda Aceh"
+      },
+      "district": {
+        "id": "11.71.08",
+        "name": "Jaya Baru"
+      }
+    },
+    {
+      "id": "11.71.08.2009",
+      "name": "Lamteumen Barat",
+      "postal_code": "23230",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.71",
+        "name": "Kota Banda Aceh"
+      },
+      "district": {
+        "id": "11.71.08",
+        "name": "Jaya Baru"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

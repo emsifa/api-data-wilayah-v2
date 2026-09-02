@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.02.21.2003",
+    "name": "Cilangkap",
+    "postal_code": "42396",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.02",
+      "name": "Kabupaten Lebak"
+    },
+    "district": {
+      "id": "36.02.21",
+      "name": "Wanasalam"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

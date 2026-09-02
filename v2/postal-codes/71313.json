@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "63.07.06.1004",
+      "name": "Barabai Utara",
+      "postal_code": "71313",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.07",
+        "name": "Kabupaten Hulu Sungai Tengah"
+      },
+      "district": {
+        "id": "63.07.06",
+        "name": "Barabai"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

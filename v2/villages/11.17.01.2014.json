@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.17.01.2014",
+    "name": "Singah Mulo",
+    "postal_code": "24554",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.17",
+      "name": "Kabupaten Bener Meriah"
+    },
+    "district": {
+      "id": "11.17.01",
+      "name": "Pintu Rime Gayo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

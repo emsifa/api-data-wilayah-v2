@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.10.02.2033",
+    "name": "Semadin Lengkong",
+    "postal_code": "79672",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.10",
+      "name": "Kabupaten Melawi"
+    },
+    "district": {
+      "id": "61.10.02",
+      "name": "Nanga Pinoh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "id": "95.08.10.2001",
+      "name": "Gilpid",
+      "postal_code": "99906",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.10",
+        "name": "Kegayem"
+      }
+    },
+    {
+      "id": "95.08.10.2002",
+      "name": "Wipdumu",
+      "postal_code": "99906",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.10",
+        "name": "Kegayem"
+      }
+    },
+    {
+      "id": "95.08.10.2003",
+      "name": "Bambi",
+      "postal_code": "99906",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.10",
+        "name": "Kegayem"
+      }
+    },
+    {
+      "id": "95.08.10.2004",
+      "name": "Osama",
+      "postal_code": "99906",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.10",
+        "name": "Kegayem"
+      }
+    },
+    {
+      "id": "95.08.10.2005",
+      "name": "Kagayem",
+      "postal_code": "99906",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.10",
+        "name": "Kegayem"
+      }
+    },
+    {
+      "id": "95.08.10.2006",
+      "name": "Ininkwaning",
+      "postal_code": "99906",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.10",
+        "name": "Kegayem"
+      }
+    },
+    {
+      "id": "95.08.10.2007",
+      "name": "Kumbuklema",
+      "postal_code": "99906",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.10",
+        "name": "Kegayem"
+      }
+    },
+    {
+      "id": "95.08.10.2008",
+      "name": "Sigimbut",
+      "postal_code": "99906",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.10",
+        "name": "Kegayem"
+      }
+    },
+    {
+      "id": "95.08.10.2009",
+      "name": "Sanwaruk",
+      "postal_code": "99906",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.10",
+        "name": "Kegayem"
+      }
+    },
+    {
+      "id": "95.08.10.2010",
+      "name": "Kusit",
+      "postal_code": "99906",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.10",
+        "name": "Kegayem"
+      }
+    },
+    {
+      "id": "95.08.10.2011",
+      "name": "Kumbun",
+      "postal_code": "99906",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.10",
+        "name": "Kegayem"
+      }
+    },
+    {
+      "id": "95.08.10.2012",
+      "name": "Peya-Peya",
+      "postal_code": "99906",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.10",
+        "name": "Kegayem"
+      }
+    },
+    {
+      "id": "95.08.10.2013",
+      "name": "Narugu",
+      "postal_code": "99906",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.10",
+        "name": "Kegayem"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.08.17.2004",
+    "name": "Dolok Ilir I",
+    "postal_code": "21155",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.08",
+      "name": "Kabupaten Simalungun"
+    },
+    "district": {
+      "id": "12.08.17",
+      "name": "Dolok Batu Nanggar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

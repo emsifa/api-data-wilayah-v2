@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "64.71.03.1002",
+      "name": "Gunung Samarinda",
+      "postal_code": "76125",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.71",
+        "name": "Kota Balikpapan"
+      },
+      "district": {
+        "id": "64.71.03",
+        "name": "Balikpapan Utara"
+      }
+    },
+    {
+      "id": "64.71.03.1004",
+      "name": "Muara Rapak",
+      "postal_code": "76125",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.71",
+        "name": "Kota Balikpapan"
+      },
+      "district": {
+        "id": "64.71.03",
+        "name": "Balikpapan Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

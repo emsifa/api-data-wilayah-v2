@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "72.05.10.2001",
+      "name": "Mokupo",
+      "postal_code": "94572",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.05",
+        "name": "Kabupaten Buol"
+      },
+      "district": {
+        "id": "72.05.10",
+        "name": "Karamat"
+      }
+    },
+    {
+      "id": "72.05.10.2002",
+      "name": "Mendaan",
+      "postal_code": "94572",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.05",
+        "name": "Kabupaten Buol"
+      },
+      "district": {
+        "id": "72.05.10",
+        "name": "Karamat"
+      }
+    },
+    {
+      "id": "72.05.10.2003",
+      "name": "Baruga",
+      "postal_code": "94572",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.05",
+        "name": "Kabupaten Buol"
+      },
+      "district": {
+        "id": "72.05.10",
+        "name": "Karamat"
+      }
+    },
+    {
+      "id": "72.05.10.2004",
+      "name": "Monano",
+      "postal_code": "94572",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.05",
+        "name": "Kabupaten Buol"
+      },
+      "district": {
+        "id": "72.05.10",
+        "name": "Karamat"
+      }
+    },
+    {
+      "id": "72.05.10.2005",
+      "name": "Busak I",
+      "postal_code": "94572",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.05",
+        "name": "Kabupaten Buol"
+      },
+      "district": {
+        "id": "72.05.10",
+        "name": "Karamat"
+      }
+    },
+    {
+      "id": "72.05.10.2006",
+      "name": "Busak II",
+      "postal_code": "94572",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.05",
+        "name": "Kabupaten Buol"
+      },
+      "district": {
+        "id": "72.05.10",
+        "name": "Karamat"
+      }
+    },
+    {
+      "id": "72.05.10.2007",
+      "name": "Lamakan",
+      "postal_code": "94572",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.05",
+        "name": "Kabupaten Buol"
+      },
+      "district": {
+        "id": "72.05.10",
+        "name": "Karamat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

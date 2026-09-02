@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "32.73.05.1001",
+      "name": "Maleber",
+      "postal_code": "40184",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.05",
+        "name": "Andir"
+      }
+    },
+    {
+      "id": "32.73.05.1005",
+      "name": "Garuda",
+      "postal_code": "40184",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.05",
+        "name": "Andir"
+      }
+    },
+    {
+      "id": "32.73.05.1006",
+      "name": "Campaka",
+      "postal_code": "40184",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.05",
+        "name": "Andir"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

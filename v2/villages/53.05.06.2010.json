@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.05.06.2010",
+    "name": "Baolang",
+    "postal_code": "85881",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.05",
+      "name": "Kabupaten Alor"
+    },
+    "district": {
+      "id": "53.05.06",
+      "name": "Pantar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

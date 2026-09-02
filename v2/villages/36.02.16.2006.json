@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.02.16.2006",
+    "name": "Cipalabuh",
+    "postal_code": "42397",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.02",
+      "name": "Kabupaten Lebak"
+    },
+    "district": {
+      "id": "36.02.16",
+      "name": "Cijaku"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

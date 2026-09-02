@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.71.04.1003",
+    "name": "Kereng Bangkirai",
+    "postal_code": "73113",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.71",
+      "name": "Kota Palangkaraya"
+    },
+    "district": {
+      "id": "62.71.04",
+      "name": "Sabangau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "91.71.02.1005",
+    "name": "Entrop",
+    "postal_code": "99224",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.71",
+      "name": "Kota Jayapura"
+    },
+    "district": {
+      "id": "91.71.02",
+      "name": "Jayapura Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

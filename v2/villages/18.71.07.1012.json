@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.71.07.1012",
+    "name": "Sumur Putri",
+    "postal_code": "35215",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.71",
+      "name": "Kota Bandar Lampung"
+    },
+    "district": {
+      "id": "18.71.07",
+      "name": "Telukbetung Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

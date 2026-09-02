@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.05.18.2001",
+    "name": "Cigedug",
+    "postal_code": "44116",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.05",
+      "name": "Kabupaten Garut"
+    },
+    "district": {
+      "id": "32.05.18",
+      "name": "Cigedug"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

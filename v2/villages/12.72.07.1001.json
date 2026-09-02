@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.72.07.1001",
+    "name": "Gurilla",
+    "postal_code": "21137",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.72",
+      "name": "Kota Pematangsiantar"
+    },
+    "district": {
+      "id": "12.72.07",
+      "name": "Siantar Sitalasari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

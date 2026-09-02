@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.25.15.2001",
+    "name": "Karangandong",
+    "postal_code": "61177",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.25",
+      "name": "Kabupaten Gresik"
+    },
+    "district": {
+      "id": "35.25.15",
+      "name": "Driyorejo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

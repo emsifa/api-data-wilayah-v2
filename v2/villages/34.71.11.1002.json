@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.71.11.1002",
+    "name": "Gunungketur",
+    "postal_code": "55111",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.71",
+      "name": "Kota Yogyakarta"
+    },
+    "district": {
+      "id": "34.71.11",
+      "name": "Pakualaman"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

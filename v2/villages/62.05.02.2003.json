@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.05.02.2003",
+    "name": "Ketapang",
+    "postal_code": "73862",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.05",
+      "name": "Kabupaten Barito Utara"
+    },
+    "district": {
+      "id": "62.05.02",
+      "name": "Gunung Timang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

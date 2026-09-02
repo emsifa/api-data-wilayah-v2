@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "33.10.24.2006",
+      "name": "Jonggrangan",
+      "postal_code": "57435",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.10",
+        "name": "Kabupaten Klaten"
+      },
+      "district": {
+        "id": "33.10.24",
+        "name": "Klaten Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

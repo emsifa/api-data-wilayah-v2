@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "32.15.19.2001",
+      "name": "Karyamukti",
+      "postal_code": "41383",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.19",
+        "name": "Lemahabang"
+      }
+    },
+    {
+      "id": "32.15.19.2002",
+      "name": "Ciwaringin",
+      "postal_code": "41383",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.19",
+        "name": "Lemahabang"
+      }
+    },
+    {
+      "id": "32.15.19.2003",
+      "name": "Waringinkarya",
+      "postal_code": "41383",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.19",
+        "name": "Lemahabang"
+      }
+    },
+    {
+      "id": "32.15.19.2004",
+      "name": "Kedawung",
+      "postal_code": "41383",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.19",
+        "name": "Lemahabang"
+      }
+    },
+    {
+      "id": "32.15.19.2005",
+      "name": "Karangtanjung",
+      "postal_code": "41383",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.19",
+        "name": "Lemahabang"
+      }
+    },
+    {
+      "id": "32.15.19.2006",
+      "name": "Pasirtanjung",
+      "postal_code": "41383",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.19",
+        "name": "Lemahabang"
+      }
+    },
+    {
+      "id": "32.15.19.2007",
+      "name": "Lemahabang",
+      "postal_code": "41383",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.19",
+        "name": "Lemahabang"
+      }
+    },
+    {
+      "id": "32.15.19.2008",
+      "name": "Lemahmukti",
+      "postal_code": "41383",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.19",
+        "name": "Lemahabang"
+      }
+    },
+    {
+      "id": "32.15.19.2009",
+      "name": "Pulojaya",
+      "postal_code": "41383",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.19",
+        "name": "Lemahabang"
+      }
+    },
+    {
+      "id": "32.15.19.2010",
+      "name": "Pulokalapa",
+      "postal_code": "41383",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.19",
+        "name": "Lemahabang"
+      }
+    },
+    {
+      "id": "32.15.19.2011",
+      "name": "Pulomulya",
+      "postal_code": "41383",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.19",
+        "name": "Lemahabang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "18.72.02.1001",
+      "name": "Banjarsari",
+      "postal_code": "34117",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.72",
+        "name": "Kota Metro"
+      },
+      "district": {
+        "id": "18.72.02",
+        "name": "Metro Utara"
+      }
+    },
+    {
+      "id": "18.72.02.1004",
+      "name": "Purwoasri",
+      "postal_code": "34117",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.72",
+        "name": "Kota Metro"
+      },
+      "district": {
+        "id": "18.72.02",
+        "name": "Metro Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

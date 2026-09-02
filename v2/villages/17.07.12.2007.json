@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.07.12.2007",
+    "name": "Sebelat",
+    "postal_code": "39269",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.07",
+      "name": "Kabupaten Lebong"
+    },
+    "district": {
+      "id": "17.07.12",
+      "name": "Pinang Belapis"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

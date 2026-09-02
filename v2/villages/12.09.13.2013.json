@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.09.13.2013",
+    "name": "Air Genting",
+    "postal_code": "21272",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.09",
+      "name": "Kabupaten Asahan"
+    },
+    "district": {
+      "id": "12.09.13",
+      "name": "Air Batu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

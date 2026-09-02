@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "53.21.07.2001",
+      "name": "As Manulea",
+      "postal_code": "85769",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.21",
+        "name": "Kabupaten Malaka"
+      },
+      "district": {
+        "id": "53.21.07",
+        "name": "Sasitamean"
+      }
+    },
+    {
+      "id": "53.21.07.2002",
+      "name": "Manulea",
+      "postal_code": "85769",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.21",
+        "name": "Kabupaten Malaka"
+      },
+      "district": {
+        "id": "53.21.07",
+        "name": "Sasitamean"
+      }
+    },
+    {
+      "id": "53.21.07.2003",
+      "name": "Naibone",
+      "postal_code": "85769",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.21",
+        "name": "Kabupaten Malaka"
+      },
+      "district": {
+        "id": "53.21.07",
+        "name": "Sasitamean"
+      }
+    },
+    {
+      "id": "53.21.07.2004",
+      "name": "Fatuaruin",
+      "postal_code": "85769",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.21",
+        "name": "Kabupaten Malaka"
+      },
+      "district": {
+        "id": "53.21.07",
+        "name": "Sasitamean"
+      }
+    },
+    {
+      "id": "53.21.07.2005",
+      "name": "Builaran",
+      "postal_code": "85769",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.21",
+        "name": "Kabupaten Malaka"
+      },
+      "district": {
+        "id": "53.21.07",
+        "name": "Sasitamean"
+      }
+    },
+    {
+      "id": "53.21.07.2006",
+      "name": "Manumutin Silole",
+      "postal_code": "85769",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.21",
+        "name": "Kabupaten Malaka"
+      },
+      "district": {
+        "id": "53.21.07",
+        "name": "Sasitamean"
+      }
+    },
+    {
+      "id": "53.21.07.2007",
+      "name": "Umutnana",
+      "postal_code": "85769",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.21",
+        "name": "Kabupaten Malaka"
+      },
+      "district": {
+        "id": "53.21.07",
+        "name": "Sasitamean"
+      }
+    },
+    {
+      "id": "53.21.07.2008",
+      "name": "Beaneno",
+      "postal_code": "85769",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.21",
+        "name": "Kabupaten Malaka"
+      },
+      "district": {
+        "id": "53.21.07",
+        "name": "Sasitamean"
+      }
+    },
+    {
+      "id": "53.21.07.2009",
+      "name": "Naisau",
+      "postal_code": "85769",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.21",
+        "name": "Kabupaten Malaka"
+      },
+      "district": {
+        "id": "53.21.07",
+        "name": "Sasitamean"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

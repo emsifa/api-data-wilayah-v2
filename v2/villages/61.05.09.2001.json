@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.05.09.2001",
+    "name": "Nanga Tebidah",
+    "postal_code": "78694",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.05",
+      "name": "Kabupaten Sintang"
+    },
+    "district": {
+      "id": "61.05.09",
+      "name": "Kayan Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

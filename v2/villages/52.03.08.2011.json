@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.03.08.2011",
+    "name": "Anggaraksa",
+    "postal_code": "83654",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.03",
+      "name": "Kabupaten Lombok Timur"
+    },
+    "district": {
+      "id": "52.03.08",
+      "name": "Pringgabaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

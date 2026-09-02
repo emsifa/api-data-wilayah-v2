@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.02.14.2009",
+    "name": "Kerta Mukti",
+    "postal_code": "30656",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.02",
+      "name": "Kabupaten Ogan Komering Ilir"
+    },
+    "district": {
+      "id": "16.02.14",
+      "name": "Air Sugihan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

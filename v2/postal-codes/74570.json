@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "62.10.01.1001",
+      "name": "Sepang Simin",
+      "postal_code": "74570",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.01",
+        "name": "Sepang"
+      }
+    },
+    {
+      "id": "62.10.01.2002",
+      "name": "Sepang Kota",
+      "postal_code": "74570",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.01",
+        "name": "Sepang"
+      }
+    },
+    {
+      "id": "62.10.01.2003",
+      "name": "Tewai Baru",
+      "postal_code": "74570",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.01",
+        "name": "Sepang"
+      }
+    },
+    {
+      "id": "62.10.01.2004",
+      "name": "Tanjung Karitak",
+      "postal_code": "74570",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.01",
+        "name": "Sepang"
+      }
+    },
+    {
+      "id": "62.10.01.2011",
+      "name": "Pamatang Limau",
+      "postal_code": "74570",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.01",
+        "name": "Sepang"
+      }
+    },
+    {
+      "id": "62.10.01.2012",
+      "name": "Tampelas",
+      "postal_code": "74570",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.01",
+        "name": "Sepang"
+      }
+    },
+    {
+      "id": "62.10.01.2014",
+      "name": "Rabauh",
+      "postal_code": "74570",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.01",
+        "name": "Sepang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

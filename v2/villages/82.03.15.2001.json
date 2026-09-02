@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.03.15.2001",
+    "name": "Limau",
+    "postal_code": "97769",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.03",
+      "name": "Kabupaten Halmahera Utara"
+    },
+    "district": {
+      "id": "82.03.15",
+      "name": "Galela Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

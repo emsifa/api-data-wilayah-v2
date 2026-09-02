@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "31.73.06.1001",
+    "name": "Kalideres",
+    "postal_code": "11840",
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    },
+    "regency": {
+      "id": "31.73",
+      "name": "Kota Administrasi Jakarta Barat"
+    },
+    "district": {
+      "id": "31.73.06",
+      "name": "Kalideres"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

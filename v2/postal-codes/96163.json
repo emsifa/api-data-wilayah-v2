@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "75.01.16.2011",
+      "name": "Bukit Aren",
+      "postal_code": "96163",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.01",
+        "name": "Kabupaten Gorontalo"
+      },
+      "district": {
+        "id": "75.01.16",
+        "name": "Pulubala"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

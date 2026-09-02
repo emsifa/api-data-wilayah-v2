@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "74.06.20.2001",
+      "name": "Tontonunu",
+      "postal_code": "93789",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.06",
+        "name": "Kabupaten Bombana"
+      },
+      "district": {
+        "id": "74.06.20",
+        "name": "Tontonunu"
+      }
+    },
+    {
+      "id": "74.06.20.2002",
+      "name": "Tongkoseng",
+      "postal_code": "93789",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.06",
+        "name": "Kabupaten Bombana"
+      },
+      "district": {
+        "id": "74.06.20",
+        "name": "Tontonunu"
+      }
+    },
+    {
+      "id": "74.06.20.2003",
+      "name": "Tetehaka",
+      "postal_code": "93789",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.06",
+        "name": "Kabupaten Bombana"
+      },
+      "district": {
+        "id": "74.06.20",
+        "name": "Tontonunu"
+      }
+    },
+    {
+      "id": "74.06.20.2004",
+      "name": "Watu Melomba",
+      "postal_code": "93789",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.06",
+        "name": "Kabupaten Bombana"
+      },
+      "district": {
+        "id": "74.06.20",
+        "name": "Tontonunu"
+      }
+    },
+    {
+      "id": "74.06.20.2005",
+      "name": "Puu Wonua",
+      "postal_code": "93789",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.06",
+        "name": "Kabupaten Bombana"
+      },
+      "district": {
+        "id": "74.06.20",
+        "name": "Tontonunu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

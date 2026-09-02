@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.12.08.1007",
+      "name": "Mimbaan",
+      "postal_code": "68322",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.12",
+        "name": "Kabupaten Situbondo"
+      },
+      "district": {
+        "id": "35.12.08",
+        "name": "Panji"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

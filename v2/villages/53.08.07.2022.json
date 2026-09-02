@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.08.07.2022",
+    "name": "Ekolea",
+    "postal_code": "86353",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.08",
+      "name": "Kabupaten Ende"
+    },
+    "district": {
+      "id": "53.08.07",
+      "name": "Wewaria"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

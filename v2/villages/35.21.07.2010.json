@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.21.07.2010",
+    "name": "Jatipuro",
+    "postal_code": "63284",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.21",
+      "name": "Kabupaten Ngawi"
+    },
+    "district": {
+      "id": "35.21.07",
+      "name": "Karangjati"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

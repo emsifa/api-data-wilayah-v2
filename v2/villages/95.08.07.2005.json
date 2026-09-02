@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.08.07.2005",
+    "name": "Digilimu",
+    "postal_code": "99910",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.08",
+      "name": "Kabupaten Nduga"
+    },
+    "district": {
+      "id": "95.08.07",
+      "name": "Mbuwa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.71.03.1003",
+    "name": "Tiga-belas Ulu",
+    "postal_code": "30263",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.71",
+      "name": "Kota Palembang"
+    },
+    "district": {
+      "id": "16.71.03",
+      "name": "Seberang Ulu Dua"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

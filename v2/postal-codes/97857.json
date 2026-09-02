@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "82.02.10.2001",
+      "name": "Sakam",
+      "postal_code": "97857",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.02",
+        "name": "Kabupaten Halmahera Tengah"
+      },
+      "district": {
+        "id": "82.02.10",
+        "name": "Patani Timur"
+      }
+    },
+    {
+      "id": "82.02.10.2002",
+      "name": "Nursifa",
+      "postal_code": "97857",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.02",
+        "name": "Kabupaten Halmahera Tengah"
+      },
+      "district": {
+        "id": "82.02.10",
+        "name": "Patani Timur"
+      }
+    },
+    {
+      "id": "82.02.10.2003",
+      "name": "Damuli",
+      "postal_code": "97857",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.02",
+        "name": "Kabupaten Halmahera Tengah"
+      },
+      "district": {
+        "id": "82.02.10",
+        "name": "Patani Timur"
+      }
+    },
+    {
+      "id": "82.02.10.2004",
+      "name": "Peniti",
+      "postal_code": "97857",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.02",
+        "name": "Kabupaten Halmahera Tengah"
+      },
+      "district": {
+        "id": "82.02.10",
+        "name": "Patani Timur"
+      }
+    },
+    {
+      "id": "82.02.10.2005",
+      "name": "Masure",
+      "postal_code": "97857",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.02",
+        "name": "Kabupaten Halmahera Tengah"
+      },
+      "district": {
+        "id": "82.02.10",
+        "name": "Patani Timur"
+      }
+    },
+    {
+      "id": "82.02.10.2006",
+      "name": "Palo",
+      "postal_code": "97857",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.02",
+        "name": "Kabupaten Halmahera Tengah"
+      },
+      "district": {
+        "id": "82.02.10",
+        "name": "Patani Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

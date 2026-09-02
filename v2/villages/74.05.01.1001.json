@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.05.01.1001",
+    "name": "Tinanggea",
+    "postal_code": "93886",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.05",
+      "name": "Kabupaten Konawe Selatan"
+    },
+    "district": {
+      "id": "74.05.01",
+      "name": "Tinanggea"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

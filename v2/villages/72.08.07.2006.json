@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.08.07.2006",
+    "name": "Margapura",
+    "postal_code": "94480",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.08",
+      "name": "Kabupaten Parigi Moutong"
+    },
+    "district": {
+      "id": "72.08.07",
+      "name": "Bolano Lambunu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

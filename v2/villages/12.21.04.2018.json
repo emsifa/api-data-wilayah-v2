@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.21.04.2018",
+    "name": "Sangkilon",
+    "postal_code": "22766",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.21",
+      "name": "Kabupaten Padang Lawas"
+    },
+    "district": {
+      "id": "12.21.04",
+      "name": "Lubuk Barumun"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

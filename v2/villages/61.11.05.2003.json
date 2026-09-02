@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.11.05.2003",
+    "name": "Wonorejo",
+    "postal_code": "78857",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.11",
+      "name": "Kabupaten Kayong Utara"
+    },
+    "district": {
+      "id": "61.11.05",
+      "name": "Seponti"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

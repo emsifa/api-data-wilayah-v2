@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.06.05.2003",
+    "name": "Petak Puti",
+    "postal_code": "74454",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.06",
+      "name": "Kabupaten Katingan"
+    },
+    "district": {
+      "id": "62.06.05",
+      "name": "Katingan Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

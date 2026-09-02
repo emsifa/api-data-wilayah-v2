@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "91.10.02.2010",
+    "name": "Denander",
+    "postal_code": "99372",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.10",
+      "name": "Kabupaten Sarmi"
+    },
+    "district": {
+      "id": "91.10.02",
+      "name": "Tor Atas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

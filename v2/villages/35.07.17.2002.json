@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.07.17.2002",
+    "name": "Ngadirejo",
+    "postal_code": "65155",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.07",
+      "name": "Kabupaten Malang"
+    },
+    "district": {
+      "id": "35.07.17",
+      "name": "Jabung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

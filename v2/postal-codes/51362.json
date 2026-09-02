@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "33.24.01.2001",
+      "name": "Blumah",
+      "postal_code": "51362",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.01",
+        "name": "Plantungan"
+      }
+    },
+    {
+      "id": "33.24.01.2002",
+      "name": "Kediten",
+      "postal_code": "51362",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.01",
+        "name": "Plantungan"
+      }
+    },
+    {
+      "id": "33.24.01.2003",
+      "name": "Tlogopayung",
+      "postal_code": "51362",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.01",
+        "name": "Plantungan"
+      }
+    },
+    {
+      "id": "33.24.01.2004",
+      "name": "Wonodadi",
+      "postal_code": "51362",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.01",
+        "name": "Plantungan"
+      }
+    },
+    {
+      "id": "33.24.01.2005",
+      "name": "Manggungmangu",
+      "postal_code": "51362",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.01",
+        "name": "Plantungan"
+      }
+    },
+    {
+      "id": "33.24.01.2006",
+      "name": "Tirtomulyo",
+      "postal_code": "51362",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.01",
+        "name": "Plantungan"
+      }
+    },
+    {
+      "id": "33.24.01.2007",
+      "name": "Karanganyar",
+      "postal_code": "51362",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.01",
+        "name": "Plantungan"
+      }
+    },
+    {
+      "id": "33.24.01.2008",
+      "name": "Jurangagung",
+      "postal_code": "51362",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.01",
+        "name": "Plantungan"
+      }
+    },
+    {
+      "id": "33.24.01.2009",
+      "name": "Jati",
+      "postal_code": "51362",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.01",
+        "name": "Plantungan"
+      }
+    },
+    {
+      "id": "33.24.01.2010",
+      "name": "Wadas",
+      "postal_code": "51362",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.01",
+        "name": "Plantungan"
+      }
+    },
+    {
+      "id": "33.24.01.2011",
+      "name": "Bendosari",
+      "postal_code": "51362",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.01",
+        "name": "Plantungan"
+      }
+    },
+    {
+      "id": "33.24.01.2012",
+      "name": "Mojoagung",
+      "postal_code": "51362",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.01",
+        "name": "Plantungan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "18.71.10.1001",
+      "name": "Rajabasa",
+      "postal_code": "35144",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.10",
+        "name": "Rajabasa"
+      }
+    },
+    {
+      "id": "18.71.10.1005",
+      "name": "Rajabasa Nunyai",
+      "postal_code": "35144",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.10",
+        "name": "Rajabasa"
+      }
+    },
+    {
+      "id": "18.71.10.1006",
+      "name": "Rajabasa Pemuka",
+      "postal_code": "35144",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.10",
+        "name": "Rajabasa"
+      }
+    },
+    {
+      "id": "18.71.10.1008",
+      "name": "Rajabasa Raya",
+      "postal_code": "35144",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.10",
+        "name": "Rajabasa"
+      }
+    },
+    {
+      "id": "18.71.10.1009",
+      "name": "Rajabasa Jaya",
+      "postal_code": "35144",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.10",
+        "name": "Rajabasa"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

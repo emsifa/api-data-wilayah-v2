@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.08.07.2010",
+    "name": "Keude Karieng",
+    "postal_code": "24372",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.08",
+      "name": "Kabupaten Aceh Utara"
+    },
+    "district": {
+      "id": "11.08.07",
+      "name": "Meurah Mulia"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

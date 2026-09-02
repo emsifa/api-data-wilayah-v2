@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.71.09.2002",
+    "name": "Lamteh",
+    "postal_code": "23118",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.71",
+      "name": "Kota Banda Aceh"
+    },
+    "district": {
+      "id": "11.71.09",
+      "name": "Ulee Kareng"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": "63.02.04.2001",
+      "name": "Batu Tunau",
+      "postal_code": "72152",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.04",
+        "name": "Pulau Laut Timur"
+      }
+    },
+    {
+      "id": "63.02.04.2002",
+      "name": "Sejakah",
+      "postal_code": "72152",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.04",
+        "name": "Pulau Laut Timur"
+      }
+    },
+    {
+      "id": "63.02.04.2003",
+      "name": "Bekambit",
+      "postal_code": "72152",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.04",
+        "name": "Pulau Laut Timur"
+      }
+    },
+    {
+      "id": "63.02.04.2004",
+      "name": "Langkang Baru",
+      "postal_code": "72152",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.04",
+        "name": "Pulau Laut Timur"
+      }
+    },
+    {
+      "id": "63.02.04.2005",
+      "name": "Langkang Lama",
+      "postal_code": "72152",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.04",
+        "name": "Pulau Laut Timur"
+      }
+    },
+    {
+      "id": "63.02.04.2006",
+      "name": "Sungai Limau",
+      "postal_code": "72152",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.04",
+        "name": "Pulau Laut Timur"
+      }
+    },
+    {
+      "id": "63.02.04.2007",
+      "name": "Berangas",
+      "postal_code": "72152",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.04",
+        "name": "Pulau Laut Timur"
+      }
+    },
+    {
+      "id": "63.02.04.2008",
+      "name": "Tanjung Pengharapan",
+      "postal_code": "72152",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.04",
+        "name": "Pulau Laut Timur"
+      }
+    },
+    {
+      "id": "63.02.04.2009",
+      "name": "Betung",
+      "postal_code": "72152",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.04",
+        "name": "Pulau Laut Timur"
+      }
+    },
+    {
+      "id": "63.02.04.2010",
+      "name": "Teluk Mesjid",
+      "postal_code": "72152",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.04",
+        "name": "Pulau Laut Timur"
+      }
+    },
+    {
+      "id": "63.02.04.2011",
+      "name": "Teluk Gosong",
+      "postal_code": "72152",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.04",
+        "name": "Pulau Laut Timur"
+      }
+    },
+    {
+      "id": "63.02.04.2012",
+      "name": "Kulipak",
+      "postal_code": "72152",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.04",
+        "name": "Pulau Laut Timur"
+      }
+    },
+    {
+      "id": "63.02.04.2013",
+      "name": "Karangsari Indah",
+      "postal_code": "72152",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.04",
+        "name": "Pulau Laut Timur"
+      }
+    },
+    {
+      "id": "63.02.04.2014",
+      "name": "Bekambit Asri",
+      "postal_code": "72152",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.04",
+        "name": "Pulau Laut Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

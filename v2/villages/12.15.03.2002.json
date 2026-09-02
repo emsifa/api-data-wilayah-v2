@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.15.03.2002",
+    "name": "Salak II",
+    "postal_code": "22272",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.15",
+      "name": "Kabupaten Pakpak Bharat"
+    },
+    "district": {
+      "id": "12.15.03",
+      "name": "Salak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

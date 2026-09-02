@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "34.02.06.2001",
+      "name": "Caturharjo",
+      "postal_code": "55761",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.02",
+        "name": "Kabupaten Bantul"
+      },
+      "district": {
+        "id": "34.02.06",
+        "name": "Pandak"
+      }
+    },
+    {
+      "id": "34.02.06.2002",
+      "name": "Triharjo",
+      "postal_code": "55761",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.02",
+        "name": "Kabupaten Bantul"
+      },
+      "district": {
+        "id": "34.02.06",
+        "name": "Pandak"
+      }
+    },
+    {
+      "id": "34.02.06.2003",
+      "name": "Gilangharjo",
+      "postal_code": "55761",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.02",
+        "name": "Kabupaten Bantul"
+      },
+      "district": {
+        "id": "34.02.06",
+        "name": "Pandak"
+      }
+    },
+    {
+      "id": "34.02.06.2004",
+      "name": "Wijirejo",
+      "postal_code": "55761",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.02",
+        "name": "Kabupaten Bantul"
+      },
+      "district": {
+        "id": "34.02.06",
+        "name": "Pandak"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.03.08.2007",
+    "name": "Kedung Dalem",
+    "postal_code": "15531",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.03",
+      "name": "Kabupaten Tangerang"
+    },
+    "district": {
+      "id": "36.03.08",
+      "name": "Mauk"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

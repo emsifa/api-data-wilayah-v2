@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "36.02.15.2001",
+      "name": "Sukarendah",
+      "postal_code": "42352",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.15",
+        "name": "Warunggunung"
+      }
+    },
+    {
+      "id": "36.02.15.2002",
+      "name": "Warunggunung",
+      "postal_code": "42352",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.15",
+        "name": "Warunggunung"
+      }
+    },
+    {
+      "id": "36.02.15.2003",
+      "name": "Cibuah",
+      "postal_code": "42352",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.15",
+        "name": "Warunggunung"
+      }
+    },
+    {
+      "id": "36.02.15.2004",
+      "name": "Pasir Tangkil",
+      "postal_code": "42352",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.15",
+        "name": "Warunggunung"
+      }
+    },
+    {
+      "id": "36.02.15.2005",
+      "name": "Baros",
+      "postal_code": "42352",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.15",
+        "name": "Warunggunung"
+      }
+    },
+    {
+      "id": "36.02.15.2006",
+      "name": "Banjarsari",
+      "postal_code": "42352",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.15",
+        "name": "Warunggunung"
+      }
+    },
+    {
+      "id": "36.02.15.2007",
+      "name": "Padasuka",
+      "postal_code": "42352",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.15",
+        "name": "Warunggunung"
+      }
+    },
+    {
+      "id": "36.02.15.2008",
+      "name": "Sukaraja",
+      "postal_code": "42352",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.15",
+        "name": "Warunggunung"
+      }
+    },
+    {
+      "id": "36.02.15.2009",
+      "name": "Jagabaya",
+      "postal_code": "42352",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.15",
+        "name": "Warunggunung"
+      }
+    },
+    {
+      "id": "36.02.15.2010",
+      "name": "Selaraja",
+      "postal_code": "42352",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.15",
+        "name": "Warunggunung"
+      }
+    },
+    {
+      "id": "36.02.15.2011",
+      "name": "Cempaka",
+      "postal_code": "42352",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.15",
+        "name": "Warunggunung"
+      }
+    },
+    {
+      "id": "36.02.15.2012",
+      "name": "Sindangsari",
+      "postal_code": "42352",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.15",
+        "name": "Warunggunung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

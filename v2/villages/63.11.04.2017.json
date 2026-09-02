@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.11.04.2017",
+    "name": "Hampa Raya",
+    "postal_code": "71663",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.11",
+      "name": "Kabupaten Balangan"
+    },
+    "district": {
+      "id": "63.11.04",
+      "name": "Batu Mandi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

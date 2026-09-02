@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.07.11.2005",
+    "name": "Abung Surapati",
+    "postal_code": "71392",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.07",
+      "name": "Kabupaten Hulu Sungai Tengah"
+    },
+    "district": {
+      "id": "63.07.11",
+      "name": "Limpasu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

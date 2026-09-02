@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "18.05.23.2001",
+      "name": "Gedung Harapan",
+      "postal_code": "34592",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.05",
+        "name": "Kabupaten Tulang Bawang"
+      },
+      "district": {
+        "id": "18.05.23",
+        "name": "Penawar Aji"
+      }
+    },
+    {
+      "id": "18.05.23.2002",
+      "name": "Gedung Asri",
+      "postal_code": "34592",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.05",
+        "name": "Kabupaten Tulang Bawang"
+      },
+      "district": {
+        "id": "18.05.23",
+        "name": "Penawar Aji"
+      }
+    },
+    {
+      "id": "18.05.23.2003",
+      "name": "Gedung Rejo Sakti",
+      "postal_code": "34592",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.05",
+        "name": "Kabupaten Tulang Bawang"
+      },
+      "district": {
+        "id": "18.05.23",
+        "name": "Penawar Aji"
+      }
+    },
+    {
+      "id": "18.05.23.2004",
+      "name": "Pasar Batang",
+      "postal_code": "34592",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.05",
+        "name": "Kabupaten Tulang Bawang"
+      },
+      "district": {
+        "id": "18.05.23",
+        "name": "Penawar Aji"
+      }
+    },
+    {
+      "id": "18.05.23.2005",
+      "name": "Suka Makmur",
+      "postal_code": "34592",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.05",
+        "name": "Kabupaten Tulang Bawang"
+      },
+      "district": {
+        "id": "18.05.23",
+        "name": "Penawar Aji"
+      }
+    },
+    {
+      "id": "18.05.23.2006",
+      "name": "Karya Makmur",
+      "postal_code": "34592",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.05",
+        "name": "Kabupaten Tulang Bawang"
+      },
+      "district": {
+        "id": "18.05.23",
+        "name": "Penawar Aji"
+      }
+    },
+    {
+      "id": "18.05.23.2007",
+      "name": "Wono Rejo",
+      "postal_code": "34592",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.05",
+        "name": "Kabupaten Tulang Bawang"
+      },
+      "district": {
+        "id": "18.05.23",
+        "name": "Penawar Aji"
+      }
+    },
+    {
+      "id": "18.05.23.2008",
+      "name": "Panca Tunggal Jaya",
+      "postal_code": "34592",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.05",
+        "name": "Kabupaten Tulang Bawang"
+      },
+      "district": {
+        "id": "18.05.23",
+        "name": "Penawar Aji"
+      }
+    },
+    {
+      "id": "18.05.23.2009",
+      "name": "Sumber Sari",
+      "postal_code": "34592",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.05",
+        "name": "Kabupaten Tulang Bawang"
+      },
+      "district": {
+        "id": "18.05.23",
+        "name": "Penawar Aji"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

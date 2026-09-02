@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.04.10.2011",
+    "name": "Teba Liokh",
+    "postal_code": "34881",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.04",
+      "name": "Kabupaten Lampung Barat"
+    },
+    "district": {
+      "id": "18.04.10",
+      "name": "Batu Brak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

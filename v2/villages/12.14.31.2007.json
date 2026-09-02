@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.14.31.2007",
+    "name": "Makole",
+    "postal_code": "22887",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.14",
+      "name": "Kabupaten Nias Selatan"
+    },
+    "district": {
+      "id": "12.14.31",
+      "name": "Tanah Masa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

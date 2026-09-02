@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "21.72",
+    "name": "Kota Tanjung Pinang",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.72",
+      "name": "Kota Tanjung Pinang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

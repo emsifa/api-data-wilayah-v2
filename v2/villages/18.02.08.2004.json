@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.02.08.2004",
+    "name": "Rama Dewa",
+    "postal_code": "34155",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.02",
+      "name": "Kabupaten Lampung Tengah"
+    },
+    "district": {
+      "id": "18.02.08",
+      "name": "Seputih Raman"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

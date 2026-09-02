@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.15.04.2018",
+    "name": "Sano Nggoang",
+    "postal_code": "86758",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.15",
+      "name": "Kabupaten Manggarai Barat"
+    },
+    "district": {
+      "id": "53.15.04",
+      "name": "Sano Nggoang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

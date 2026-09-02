@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.02.02.2001",
+    "name": "Gadingsari",
+    "postal_code": "55763",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.02",
+      "name": "Kabupaten Bantul"
+    },
+    "district": {
+      "id": "34.02.02",
+      "name": "Sanden"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.71.18.1005",
+    "name": "Kalibalau Kencana",
+    "postal_code": "35132",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.71",
+      "name": "Kota Bandar Lampung"
+    },
+    "district": {
+      "id": "18.71.18",
+      "name": "Kedamaian"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

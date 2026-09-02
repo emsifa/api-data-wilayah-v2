@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": "11.17.03.2001",
+      "name": "Blang Panu",
+      "postal_code": "24586",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.17",
+        "name": "Kabupaten Bener Meriah"
+      },
+      "district": {
+        "id": "11.17.03",
+        "name": "Syiah Utama"
+      }
+    },
+    {
+      "id": "11.17.03.2003",
+      "name": "Gerpa",
+      "postal_code": "24586",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.17",
+        "name": "Kabupaten Bener Meriah"
+      },
+      "district": {
+        "id": "11.17.03",
+        "name": "Syiah Utama"
+      }
+    },
+    {
+      "id": "11.17.03.2004",
+      "name": "Goneng",
+      "postal_code": "24586",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.17",
+        "name": "Kabupaten Bener Meriah"
+      },
+      "district": {
+        "id": "11.17.03",
+        "name": "Syiah Utama"
+      }
+    },
+    {
+      "id": "11.17.03.2007",
+      "name": "Kerlang",
+      "postal_code": "24586",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.17",
+        "name": "Kabupaten Bener Meriah"
+      },
+      "district": {
+        "id": "11.17.03",
+        "name": "Syiah Utama"
+      }
+    },
+    {
+      "id": "11.17.03.2008",
+      "name": "Kutelah Lane",
+      "postal_code": "24586",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.17",
+        "name": "Kabupaten Bener Meriah"
+      },
+      "district": {
+        "id": "11.17.03",
+        "name": "Syiah Utama"
+      }
+    },
+    {
+      "id": "11.17.03.2009",
+      "name": "Pasir Putih",
+      "postal_code": "24586",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.17",
+        "name": "Kabupaten Bener Meriah"
+      },
+      "district": {
+        "id": "11.17.03",
+        "name": "Syiah Utama"
+      }
+    },
+    {
+      "id": "11.17.03.2010",
+      "name": "Payung",
+      "postal_code": "24586",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.17",
+        "name": "Kabupaten Bener Meriah"
+      },
+      "district": {
+        "id": "11.17.03",
+        "name": "Syiah Utama"
+      }
+    },
+    {
+      "id": "11.17.03.2012",
+      "name": "Rusip",
+      "postal_code": "24586",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.17",
+        "name": "Kabupaten Bener Meriah"
+      },
+      "district": {
+        "id": "11.17.03",
+        "name": "Syiah Utama"
+      }
+    },
+    {
+      "id": "11.17.03.2014",
+      "name": "Tembolon",
+      "postal_code": "24586",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.17",
+        "name": "Kabupaten Bener Meriah"
+      },
+      "district": {
+        "id": "11.17.03",
+        "name": "Syiah Utama"
+      }
+    },
+    {
+      "id": "11.17.03.2015",
+      "name": "Uning",
+      "postal_code": "24586",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.17",
+        "name": "Kabupaten Bener Meriah"
+      },
+      "district": {
+        "id": "11.17.03",
+        "name": "Syiah Utama"
+      }
+    },
+    {
+      "id": "11.17.03.2016",
+      "name": "Wihni Durin",
+      "postal_code": "24586",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.17",
+        "name": "Kabupaten Bener Meriah"
+      },
+      "district": {
+        "id": "11.17.03",
+        "name": "Syiah Utama"
+      }
+    },
+    {
+      "id": "11.17.03.2017",
+      "name": "Rata Mulie",
+      "postal_code": "24586",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.17",
+        "name": "Kabupaten Bener Meriah"
+      },
+      "district": {
+        "id": "11.17.03",
+        "name": "Syiah Utama"
+      }
+    },
+    {
+      "id": "11.17.03.2018",
+      "name": "Tempen Baru",
+      "postal_code": "24586",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.17",
+        "name": "Kabupaten Bener Meriah"
+      },
+      "district": {
+        "id": "11.17.03",
+        "name": "Syiah Utama"
+      }
+    },
+    {
+      "id": "11.17.03.2019",
+      "name": "Geruti Jaya",
+      "postal_code": "24586",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.17",
+        "name": "Kabupaten Bener Meriah"
+      },
+      "district": {
+        "id": "11.17.03",
+        "name": "Syiah Utama"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

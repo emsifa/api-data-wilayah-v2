@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.02.14.1001",
+    "name": "Muara Jawa Ilir",
+    "postal_code": "75263",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.02",
+      "name": "Kabupaten Kutai Kartanegara"
+    },
+    "district": {
+      "id": "64.02.14",
+      "name": "Muara Jawa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

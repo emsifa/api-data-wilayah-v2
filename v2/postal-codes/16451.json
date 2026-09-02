@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "32.76.02.1009",
+      "name": "Tugu",
+      "postal_code": "16451",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.76",
+        "name": "Kota Depok"
+      },
+      "district": {
+        "id": "32.76.02",
+        "name": "Cimanggis"
+      }
+    },
+    {
+      "id": "32.76.02.1011",
+      "name": "Pasir Gunung Selatan",
+      "postal_code": "16451",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.76",
+        "name": "Kota Depok"
+      },
+      "district": {
+        "id": "32.76.02",
+        "name": "Cimanggis"
+      }
+    },
+    {
+      "id": "32.76.10.1005",
+      "name": "Jatijajar",
+      "postal_code": "16451",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.76",
+        "name": "Kota Depok"
+      },
+      "district": {
+        "id": "32.76.10",
+        "name": "Tapos"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

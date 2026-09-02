@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.14.30.2012",
+    "name": "Bale-bale Sibohou",
+    "postal_code": "22885",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.14",
+      "name": "Kabupaten Nias Selatan"
+    },
+    "district": {
+      "id": "12.14.30",
+      "name": "Pulau-Pulau Batu Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

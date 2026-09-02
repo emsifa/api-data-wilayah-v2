@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.24.19.2008",
+    "name": "Kebonagung",
+    "postal_code": "51357",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.24",
+      "name": "Kabupaten Kendal"
+    },
+    "district": {
+      "id": "33.24.19",
+      "name": "Ngampel"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

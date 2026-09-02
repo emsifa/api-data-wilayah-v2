@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.73.03.1008",
+    "name": "Jukung",
+    "postal_code": "31629",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.73",
+      "name": "Kota Lubuk Linggau"
+    },
+    "district": {
+      "id": "16.73.03",
+      "name": "Lubuk Linggau Selatan I"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

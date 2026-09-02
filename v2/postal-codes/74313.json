@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "62.02.05.1003",
+      "name": "Baamang Hulu",
+      "postal_code": "74313",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.02",
+        "name": "Kabupaten Kotawaringin Timur"
+      },
+      "district": {
+        "id": "62.02.05",
+        "name": "Baamang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

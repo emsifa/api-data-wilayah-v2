@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.07.04.2006",
+    "name": "Derangga",
+    "postal_code": "74270",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.07",
+      "name": "Kabupaten Seruyan"
+    },
+    "district": {
+      "id": "62.07.04",
+      "name": "Hanau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

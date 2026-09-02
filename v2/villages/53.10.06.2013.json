@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.10.06.2013",
+    "name": "Ladur",
+    "postal_code": "86591",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.10",
+      "name": "Kabupaten Manggarai"
+    },
+    "district": {
+      "id": "53.10.06",
+      "name": "Cibal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

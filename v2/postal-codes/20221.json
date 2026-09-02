@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "12.71.14.1001",
+      "name": "Indra Kasih",
+      "postal_code": "20221",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.71",
+        "name": "Kota Medan"
+      },
+      "district": {
+        "id": "12.71.14",
+        "name": "Medan Tembung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

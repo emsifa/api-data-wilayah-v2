@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.03.05.2001",
+    "name": "Bonti",
+    "postal_code": "78552",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.03",
+      "name": "Kabupaten Sanggau"
+    },
+    "district": {
+      "id": "61.03.05",
+      "name": "Bonti"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

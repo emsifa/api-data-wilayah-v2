@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.07.09.2013",
+    "name": "Pasi Rawa",
+    "postal_code": "24116",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.07",
+      "name": "Kabupaten Pidie"
+    },
+    "district": {
+      "id": "11.07.09",
+      "name": "Kota Sigli"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

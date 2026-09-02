@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "63.72",
+    "name": "Kota Banjarbaru",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.72",
+      "name": "Kota Banjarbaru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

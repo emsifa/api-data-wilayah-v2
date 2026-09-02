@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.71.04.1005",
+    "name": "Tomulabutao Selatan",
+    "postal_code": "96139",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.71",
+      "name": "Kota Gorontalo"
+    },
+    "district": {
+      "id": "75.71.04",
+      "name": "Dungingi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

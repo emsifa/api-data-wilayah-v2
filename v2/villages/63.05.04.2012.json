@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.05.04.2012",
+    "name": "Kakaran",
+    "postal_code": "71114",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.05",
+      "name": "Kabupaten Tapin"
+    },
+    "district": {
+      "id": "63.05.04",
+      "name": "Tapin Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

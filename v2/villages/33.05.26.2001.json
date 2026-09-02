@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.05.26.2001",
+    "name": "Widoro",
+    "postal_code": "54353",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.05",
+      "name": "Kabupaten Kebumen"
+    },
+    "district": {
+      "id": "33.05.26",
+      "name": "Karangsambung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

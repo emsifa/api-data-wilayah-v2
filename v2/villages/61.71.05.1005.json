@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.71.05.1005",
+    "name": "Sungaijawi",
+    "postal_code": "78113",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.71",
+      "name": "Kota Pontianak"
+    },
+    "district": {
+      "id": "61.71.05",
+      "name": "Pontianak Kota"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

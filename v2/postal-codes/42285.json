@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "36.01.03.2001",
+      "name": "Mendung",
+      "postal_code": "42285",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.03",
+        "name": "Cibaliung"
+      }
+    },
+    {
+      "id": "36.01.03.2006",
+      "name": "Sudimanik",
+      "postal_code": "42285",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.03",
+        "name": "Cibaliung"
+      }
+    },
+    {
+      "id": "36.01.03.2007",
+      "name": "Curug",
+      "postal_code": "42285",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.03",
+        "name": "Cibaliung"
+      }
+    },
+    {
+      "id": "36.01.03.2008",
+      "name": "Cibingbin",
+      "postal_code": "42285",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.03",
+        "name": "Cibaliung"
+      }
+    },
+    {
+      "id": "36.01.03.2009",
+      "name": "Sukajadi",
+      "postal_code": "42285",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.03",
+        "name": "Cibaliung"
+      }
+    },
+    {
+      "id": "36.01.03.2011",
+      "name": "Mahendra",
+      "postal_code": "42285",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.03",
+        "name": "Cibaliung"
+      }
+    },
+    {
+      "id": "36.01.03.2012",
+      "name": "Cibaliung",
+      "postal_code": "42285",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.03",
+        "name": "Cibaliung"
+      }
+    },
+    {
+      "id": "36.01.03.2015",
+      "name": "Cihanjuang",
+      "postal_code": "42285",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.03",
+        "name": "Cibaliung"
+      }
+    },
+    {
+      "id": "36.01.03.2016",
+      "name": "Sorongan",
+      "postal_code": "42285",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.03",
+        "name": "Cibaliung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

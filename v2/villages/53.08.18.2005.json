@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.08.18.2005",
+    "name": "Borokanda",
+    "postal_code": "86310",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.08",
+      "name": "Kabupaten Ende"
+    },
+    "district": {
+      "id": "53.08.18",
+      "name": "Ende Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

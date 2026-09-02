@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.05.23.2007",
+    "name": "Bonorowo",
+    "postal_code": "54395",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.05",
+      "name": "Kabupaten Kebumen"
+    },
+    "district": {
+      "id": "33.05.23",
+      "name": "Bonorowo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

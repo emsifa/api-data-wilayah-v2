@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "15.71.03.1008",
+      "name": "Rajawali",
+      "postal_code": "36143",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.71",
+        "name": "Kota Jambi"
+      },
+      "district": {
+        "id": "15.71.03",
+        "name": "Jambi Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

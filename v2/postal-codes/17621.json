@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "32.16.04.2001",
+      "name": "Sukawijaya",
+      "postal_code": "17621",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.04",
+        "name": "Tambelang"
+      }
+    },
+    {
+      "id": "32.16.04.2002",
+      "name": "Sukamaju",
+      "postal_code": "17621",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.04",
+        "name": "Tambelang"
+      }
+    },
+    {
+      "id": "32.16.04.2003",
+      "name": "Sukaraja",
+      "postal_code": "17621",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.04",
+        "name": "Tambelang"
+      }
+    },
+    {
+      "id": "32.16.04.2004",
+      "name": "Sukarapih",
+      "postal_code": "17621",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.04",
+        "name": "Tambelang"
+      }
+    },
+    {
+      "id": "32.16.04.2005",
+      "name": "Sukarahayu",
+      "postal_code": "17621",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.04",
+        "name": "Tambelang"
+      }
+    },
+    {
+      "id": "32.16.04.2006",
+      "name": "Sukamantri",
+      "postal_code": "17621",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.04",
+        "name": "Tambelang"
+      }
+    },
+    {
+      "id": "32.16.04.2007",
+      "name": "Sukabakti",
+      "postal_code": "17621",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.04",
+        "name": "Tambelang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

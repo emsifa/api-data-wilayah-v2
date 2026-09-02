@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.01.06.2004",
+    "name": "Tibai",
+    "postal_code": "98841",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.01",
+      "name": "Kabupaten Nabire"
+    },
+    "district": {
+      "id": "94.01.06",
+      "name": "Siriwo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

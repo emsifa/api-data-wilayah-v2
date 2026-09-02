@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "95.02.05.2001",
+      "name": "Batom",
+      "postal_code": "99442",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.05",
+        "name": "Batom"
+      }
+    },
+    {
+      "id": "95.02.05.2006",
+      "name": "Muara",
+      "postal_code": "99442",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.05",
+        "name": "Batom"
+      }
+    },
+    {
+      "id": "95.02.05.2009",
+      "name": "Peteng",
+      "postal_code": "99442",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.05",
+        "name": "Batom"
+      }
+    },
+    {
+      "id": "95.02.05.2011",
+      "name": "Abukerom",
+      "postal_code": "99442",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.05",
+        "name": "Batom"
+      }
+    },
+    {
+      "id": "95.04.29.2002",
+      "name": "Wari/Taiyeve",
+      "postal_code": "99442",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.29",
+        "name": "Wari/Taiyeve II"
+      }
+    },
+    {
+      "id": "95.04.29.2003",
+      "name": "Papedari",
+      "postal_code": "99442",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.29",
+        "name": "Wari/Taiyeve II"
+      }
+    },
+    {
+      "id": "95.04.29.2009",
+      "name": "Friji",
+      "postal_code": "99442",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.29",
+        "name": "Wari/Taiyeve II"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

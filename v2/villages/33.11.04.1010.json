@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.11.04.1010",
+    "name": "Bulakan",
+    "postal_code": "57551",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.11",
+      "name": "Kabupaten Sukoharjo"
+    },
+    "district": {
+      "id": "33.11.04",
+      "name": "Sukoharjo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

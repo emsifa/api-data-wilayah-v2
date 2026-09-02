@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "53.04.23.2001",
+      "name": "Dubesi",
+      "postal_code": "85751",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.04",
+        "name": "Kabupaten Belu"
+      },
+      "district": {
+        "id": "53.04.23",
+        "name": "Nanaet Duabesi"
+      }
+    },
+    {
+      "id": "53.04.23.2002",
+      "name": "Nanaet",
+      "postal_code": "85751",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.04",
+        "name": "Kabupaten Belu"
+      },
+      "district": {
+        "id": "53.04.23",
+        "name": "Nanaet Duabesi"
+      }
+    },
+    {
+      "id": "53.04.23.2003",
+      "name": "Fohoeka",
+      "postal_code": "85751",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.04",
+        "name": "Kabupaten Belu"
+      },
+      "district": {
+        "id": "53.04.23",
+        "name": "Nanaet Duabesi"
+      }
+    },
+    {
+      "id": "53.04.23.2004",
+      "name": "Nanaenoe",
+      "postal_code": "85751",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.04",
+        "name": "Kabupaten Belu"
+      },
+      "district": {
+        "id": "53.04.23",
+        "name": "Nanaet Duabesi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

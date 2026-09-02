@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.09.05.2010",
+    "name": "Kase",
+    "postal_code": "97543",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.09",
+      "name": "Kabupaten Buru Selatan"
+    },
+    "district": {
+      "id": "81.09.05",
+      "name": "Leksula"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

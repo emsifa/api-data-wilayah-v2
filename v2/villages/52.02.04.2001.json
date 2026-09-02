@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.02.04.2001",
+    "name": "Sengkol",
+    "postal_code": "83573",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.02",
+      "name": "Kabupaten Lombok Tengah"
+    },
+    "district": {
+      "id": "52.02.04",
+      "name": "Pujut"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

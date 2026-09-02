@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "71.73.01.1008",
+      "name": "Walian",
+      "postal_code": "95439",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.73",
+        "name": "Kota Tomohon"
+      },
+      "district": {
+        "id": "71.73.01",
+        "name": "Tomohon Selatan"
+      }
+    },
+    {
+      "id": "71.73.01.1010",
+      "name": "Walian Satu",
+      "postal_code": "95439",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.73",
+        "name": "Kota Tomohon"
+      },
+      "district": {
+        "id": "71.73.01",
+        "name": "Tomohon Selatan"
+      }
+    },
+    {
+      "id": "71.73.01.1011",
+      "name": "Walian Dua",
+      "postal_code": "95439",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.73",
+        "name": "Kota Tomohon"
+      },
+      "district": {
+        "id": "71.73.01",
+        "name": "Tomohon Selatan"
+      }
+    },
+    {
+      "id": "71.73.01.1012",
+      "name": "Tumatangtang Satu",
+      "postal_code": "95439",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.73",
+        "name": "Kota Tomohon"
+      },
+      "district": {
+        "id": "71.73.01",
+        "name": "Tomohon Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

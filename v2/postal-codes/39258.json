@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "17.07.04.1002",
+      "name": "Tes",
+      "postal_code": "39258",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.07",
+        "name": "Kabupaten Lebong"
+      },
+      "district": {
+        "id": "17.07.04",
+        "name": "Lebong Selatan"
+      }
+    },
+    {
+      "id": "17.07.04.1003",
+      "name": "Taba Anyar",
+      "postal_code": "39258",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.07",
+        "name": "Kabupaten Lebong"
+      },
+      "district": {
+        "id": "17.07.04",
+        "name": "Lebong Selatan"
+      }
+    },
+    {
+      "id": "17.07.04.1004",
+      "name": "Mubai",
+      "postal_code": "39258",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.07",
+        "name": "Kabupaten Lebong"
+      },
+      "district": {
+        "id": "17.07.04",
+        "name": "Lebong Selatan"
+      }
+    },
+    {
+      "id": "17.07.04.1005",
+      "name": "Turan Lalang",
+      "postal_code": "39258",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.07",
+        "name": "Kabupaten Lebong"
+      },
+      "district": {
+        "id": "17.07.04",
+        "name": "Lebong Selatan"
+      }
+    },
+    {
+      "id": "17.07.04.2001",
+      "name": "Kutai Donok",
+      "postal_code": "39258",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.07",
+        "name": "Kabupaten Lebong"
+      },
+      "district": {
+        "id": "17.07.04",
+        "name": "Lebong Selatan"
+      }
+    },
+    {
+      "id": "17.07.04.2013",
+      "name": "Turan Tiging",
+      "postal_code": "39258",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.07",
+        "name": "Kabupaten Lebong"
+      },
+      "district": {
+        "id": "17.07.04",
+        "name": "Lebong Selatan"
+      }
+    },
+    {
+      "id": "17.07.04.2014",
+      "name": "Suka Sari",
+      "postal_code": "39258",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.07",
+        "name": "Kabupaten Lebong"
+      },
+      "district": {
+        "id": "17.07.04",
+        "name": "Lebong Selatan"
+      }
+    },
+    {
+      "id": "17.07.04.2016",
+      "name": "Mangkurajo",
+      "postal_code": "39258",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.07",
+        "name": "Kabupaten Lebong"
+      },
+      "district": {
+        "id": "17.07.04",
+        "name": "Lebong Selatan"
+      }
+    },
+    {
+      "id": "17.07.04.2018",
+      "name": "Tik Jeniak",
+      "postal_code": "39258",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.07",
+        "name": "Kabupaten Lebong"
+      },
+      "district": {
+        "id": "17.07.04",
+        "name": "Lebong Selatan"
+      }
+    },
+    {
+      "id": "17.07.04.2019",
+      "name": "Manai Blau",
+      "postal_code": "39258",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.07",
+        "name": "Kabupaten Lebong"
+      },
+      "district": {
+        "id": "17.07.04",
+        "name": "Lebong Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

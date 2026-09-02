@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.07.02.2020",
+    "name": "Sanepa",
+    "postal_code": "98791",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.07",
+      "name": "Kabupaten Intan Jaya"
+    },
+    "district": {
+      "id": "94.07.02",
+      "name": "Homeyo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

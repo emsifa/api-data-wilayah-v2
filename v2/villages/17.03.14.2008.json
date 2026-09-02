@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.03.14.2008",
+    "name": "Pasar Sebelat",
+    "postal_code": "38326",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.03",
+      "name": "Kabupaten Bengkulu Utara"
+    },
+    "district": {
+      "id": "17.03.14",
+      "name": "Putri Hijau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

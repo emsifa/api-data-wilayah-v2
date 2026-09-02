@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.05.06.1005",
+    "name": "Kumaligon",
+    "postal_code": "94563",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.05",
+      "name": "Kabupaten Buol"
+    },
+    "district": {
+      "id": "72.05.06",
+      "name": "Biau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

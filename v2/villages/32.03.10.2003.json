@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.03.10.2003",
+    "name": "Cibodas",
+    "postal_code": "43253",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.03",
+      "name": "Kabupaten Cianjur"
+    },
+    "district": {
+      "id": "32.03.10",
+      "name": "Pacet"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

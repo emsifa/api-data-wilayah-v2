@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.03.24.2009",
+    "name": "Ibul",
+    "postal_code": "31171",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.03",
+      "name": "Kabupaten Muara Enim"
+    },
+    "district": {
+      "id": "16.03.24",
+      "name": "Belida Darat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

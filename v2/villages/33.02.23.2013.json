@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.02.23.2013",
+    "name": "Kutaliman",
+    "postal_code": "53152",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.02",
+      "name": "Kabupaten Banyumas"
+    },
+    "district": {
+      "id": "33.02.23",
+      "name": "Kedungbanteng"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "31.72.02.1007",
+      "name": "Warakas",
+      "postal_code": "14370",
+      "province": {
+        "id": "31",
+        "name": "Daerah Khusus Ibukota Jakarta"
+      },
+      "regency": {
+        "id": "31.72",
+        "name": "Kota Administrasi Jakarta Utara"
+      },
+      "district": {
+        "id": "31.72.02",
+        "name": "Tanjung Priok"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

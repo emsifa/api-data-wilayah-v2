@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.06.25.2002",
+    "name": "Bandar Sukabumi",
+    "postal_code": "35686",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.06",
+      "name": "Kabupaten Tanggamus"
+    },
+    "district": {
+      "id": "18.06.25",
+      "name": "Bandar Negeri Semuong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "14.03.15.2001",
+      "name": "Tasik Serai",
+      "postal_code": "28786",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.03",
+        "name": "Kabupaten Bengkalis"
+      },
+      "district": {
+        "id": "14.03.15",
+        "name": "Talang Muandau"
+      }
+    },
+    {
+      "id": "14.03.15.2002",
+      "name": "Tasik Serai Barat",
+      "postal_code": "28786",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.03",
+        "name": "Kabupaten Bengkalis"
+      },
+      "district": {
+        "id": "14.03.15",
+        "name": "Talang Muandau"
+      }
+    },
+    {
+      "id": "14.03.15.2003",
+      "name": "Kualo Penaso",
+      "postal_code": "28786",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.03",
+        "name": "Kabupaten Bengkalis"
+      },
+      "district": {
+        "id": "14.03.15",
+        "name": "Talang Muandau"
+      }
+    },
+    {
+      "id": "14.03.15.2004",
+      "name": "Beringin",
+      "postal_code": "28786",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.03",
+        "name": "Kabupaten Bengkalis"
+      },
+      "district": {
+        "id": "14.03.15",
+        "name": "Talang Muandau"
+      }
+    },
+    {
+      "id": "14.03.15.2005",
+      "name": "Koto Pait Beringin",
+      "postal_code": "28786",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.03",
+        "name": "Kabupaten Bengkalis"
+      },
+      "district": {
+        "id": "14.03.15",
+        "name": "Talang Muandau"
+      }
+    },
+    {
+      "id": "14.03.15.2006",
+      "name": "Melibur",
+      "postal_code": "28786",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.03",
+        "name": "Kabupaten Bengkalis"
+      },
+      "district": {
+        "id": "14.03.15",
+        "name": "Talang Muandau"
+      }
+    },
+    {
+      "id": "14.03.15.2007",
+      "name": "Tasik Serai Timur",
+      "postal_code": "28786",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.03",
+        "name": "Kabupaten Bengkalis"
+      },
+      "district": {
+        "id": "14.03.15",
+        "name": "Talang Muandau"
+      }
+    },
+    {
+      "id": "14.03.15.2008",
+      "name": "Tasik Tebing Serai",
+      "postal_code": "28786",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.03",
+        "name": "Kabupaten Bengkalis"
+      },
+      "district": {
+        "id": "14.03.15",
+        "name": "Talang Muandau"
+      }
+    },
+    {
+      "id": "14.03.15.2009",
+      "name": "Serai Wangi",
+      "postal_code": "28786",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.03",
+        "name": "Kabupaten Bengkalis"
+      },
+      "district": {
+        "id": "14.03.15",
+        "name": "Talang Muandau"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

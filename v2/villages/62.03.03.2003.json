@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.03.03.2003",
+    "name": "Anjir Serapat Barat",
+    "postal_code": "73581",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.03",
+      "name": "Kabupaten Kapuas"
+    },
+    "district": {
+      "id": "62.03.03",
+      "name": "Kapuas Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

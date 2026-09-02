@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.08.22.2009",
+    "name": "Bandar Betsy II",
+    "postal_code": "21184",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.08",
+      "name": "Kabupaten Simalungun"
+    },
+    "district": {
+      "id": "12.08.22",
+      "name": "Bandar Huluan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

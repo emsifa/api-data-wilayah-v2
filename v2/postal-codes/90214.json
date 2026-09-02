@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "73.71.07.1002",
+      "name": "Kalukuang",
+      "postal_code": "90214",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.71",
+        "name": "Kota Makassar"
+      },
+      "district": {
+        "id": "73.71.07",
+        "name": "Tallo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

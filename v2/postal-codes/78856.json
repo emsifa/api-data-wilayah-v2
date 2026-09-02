@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "61.11.03.2001",
+      "name": "Mas Bangun",
+      "postal_code": "78856",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.11",
+        "name": "Kabupaten Kayong Utara"
+      },
+      "district": {
+        "id": "61.11.03",
+        "name": "Teluk Batang"
+      }
+    },
+    {
+      "id": "61.11.03.2002",
+      "name": "Alur Bandung",
+      "postal_code": "78856",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.11",
+        "name": "Kabupaten Kayong Utara"
+      },
+      "district": {
+        "id": "61.11.03",
+        "name": "Teluk Batang"
+      }
+    },
+    {
+      "id": "61.11.03.2003",
+      "name": "Telukbatang",
+      "postal_code": "78856",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.11",
+        "name": "Kabupaten Kayong Utara"
+      },
+      "district": {
+        "id": "61.11.03",
+        "name": "Teluk Batang"
+      }
+    },
+    {
+      "id": "61.11.03.2004",
+      "name": "Sungaipaduan",
+      "postal_code": "78856",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.11",
+        "name": "Kabupaten Kayong Utara"
+      },
+      "district": {
+        "id": "61.11.03",
+        "name": "Teluk Batang"
+      }
+    },
+    {
+      "id": "61.11.03.2005",
+      "name": "Banyu Abang",
+      "postal_code": "78856",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.11",
+        "name": "Kabupaten Kayong Utara"
+      },
+      "district": {
+        "id": "61.11.03",
+        "name": "Teluk Batang"
+      }
+    },
+    {
+      "id": "61.11.03.2006",
+      "name": "Telukbatang Selatan",
+      "postal_code": "78856",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.11",
+        "name": "Kabupaten Kayong Utara"
+      },
+      "district": {
+        "id": "61.11.03",
+        "name": "Teluk Batang"
+      }
+    },
+    {
+      "id": "61.11.03.2007",
+      "name": "Telukbatang Utara",
+      "postal_code": "78856",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.11",
+        "name": "Kabupaten Kayong Utara"
+      },
+      "district": {
+        "id": "61.11.03",
+        "name": "Teluk Batang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

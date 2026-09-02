@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.16.01.2001",
+      "name": "Sagara Makmur",
+      "postal_code": "17211",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.16",
+        "name": "Kabupaten Bekasi"
+      },
+      "district": {
+        "id": "32.16.01",
+        "name": "Tarumajaya"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

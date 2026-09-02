@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "19.03.05.2006",
+    "name": "Bedengung",
+    "postal_code": "33778",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.03",
+      "name": "Kabupaten Bangka Selatan"
+    },
+    "district": {
+      "id": "19.03.05",
+      "name": "Payung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.06.16.2006",
+    "name": "Betung",
+    "postal_code": "35382",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.06",
+      "name": "Kabupaten Tanggamus"
+    },
+    "district": {
+      "id": "18.06.16",
+      "name": "Pematang Sawa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

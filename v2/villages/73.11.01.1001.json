@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.11.01.1001",
+    "name": "Lompo Riaja",
+    "postal_code": "90763",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.11",
+      "name": "Kabupaten Barru"
+    },
+    "district": {
+      "id": "73.11.01",
+      "name": "Tanete Riaja"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

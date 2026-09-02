@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.78.06.1007",
+    "name": "Kersanagara",
+    "postal_code": "46196",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.78",
+      "name": "Kota Tasikmalaya"
+    },
+    "district": {
+      "id": "32.78.06",
+      "name": "Cibeureum"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

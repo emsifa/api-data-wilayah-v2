@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "19.03.01.2012",
+    "name": "Keposang",
+    "postal_code": "33783",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.03",
+      "name": "Kabupaten Bangka Selatan"
+    },
+    "district": {
+      "id": "19.03.01",
+      "name": "Toboali"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

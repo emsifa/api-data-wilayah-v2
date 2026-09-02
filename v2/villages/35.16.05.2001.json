@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.16.05.2001",
+    "name": "Srigading",
+    "postal_code": "61385",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.16",
+      "name": "Kabupaten Mojokerto"
+    },
+    "district": {
+      "id": "35.16.05",
+      "name": "Ngoro"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.02.07.2001",
+    "name": "Kombut",
+    "postal_code": "99662",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.02",
+      "name": "Kabupaten Boven Digoel"
+    },
+    "district": {
+      "id": "93.02.07",
+      "name": "Kombut"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

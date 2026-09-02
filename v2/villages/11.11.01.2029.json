@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.11.01.2029",
+    "name": "Gampong Putoh",
+    "postal_code": "24264",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.11",
+      "name": "Kabupaten Bireuen"
+    },
+    "district": {
+      "id": "11.11.01",
+      "name": "Samalanga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

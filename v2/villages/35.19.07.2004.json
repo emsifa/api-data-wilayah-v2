@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.19.07.2004",
+    "name": "Karangrejo",
+    "postal_code": "63181",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.19",
+      "name": "Kabupaten Madiun"
+    },
+    "district": {
+      "id": "35.19.07",
+      "name": "Wungu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

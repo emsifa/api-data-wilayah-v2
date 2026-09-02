@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.06.15.2003",
+    "name": "Warga Nusa II",
+    "postal_code": "98134",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.06",
+      "name": "Kabupaten Teluk Bintuni"
+    },
+    "district": {
+      "id": "92.06.15",
+      "name": "Kaitaro"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

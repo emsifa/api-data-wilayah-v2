@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "id": "16.08.07.2002",
+      "name": "Mendayun",
+      "postal_code": "32362",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.07",
+        "name": "Madang Suku I"
+      }
+    },
+    {
+      "id": "16.08.07.2003",
+      "name": "Gunung Terang",
+      "postal_code": "32362",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.07",
+        "name": "Madang Suku I"
+      }
+    },
+    {
+      "id": "16.08.07.2004",
+      "name": "Karta Mulya",
+      "postal_code": "32362",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.07",
+        "name": "Madang Suku I"
+      }
+    },
+    {
+      "id": "16.08.07.2007",
+      "name": "SP. Kerta Mulya",
+      "postal_code": "32362",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.07",
+        "name": "Madang Suku I"
+      }
+    },
+    {
+      "id": "16.08.07.2014",
+      "name": "Harjo Mulyo",
+      "postal_code": "32362",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.07",
+        "name": "Madang Suku I"
+      }
+    },
+    {
+      "id": "16.08.07.2015",
+      "name": "Jaya Bakti",
+      "postal_code": "32362",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.07",
+        "name": "Madang Suku I"
+      }
+    },
+    {
+      "id": "16.08.07.2016",
+      "name": "Rasuan",
+      "postal_code": "32362",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.07",
+        "name": "Madang Suku I"
+      }
+    },
+    {
+      "id": "16.08.07.2017",
+      "name": "Mengulak",
+      "postal_code": "32362",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.07",
+        "name": "Madang Suku I"
+      }
+    },
+    {
+      "id": "16.08.07.2019",
+      "name": "Jati Sari",
+      "postal_code": "32362",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.07",
+        "name": "Madang Suku I"
+      }
+    },
+    {
+      "id": "16.08.07.2021",
+      "name": "Tri Dadi",
+      "postal_code": "32362",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.07",
+        "name": "Madang Suku I"
+      }
+    },
+    {
+      "id": "16.08.07.2022",
+      "name": "Agung Jati",
+      "postal_code": "32362",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.07",
+        "name": "Madang Suku I"
+      }
+    },
+    {
+      "id": "16.08.07.2023",
+      "name": "Rasuan Darat",
+      "postal_code": "32362",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.07",
+        "name": "Madang Suku I"
+      }
+    },
+    {
+      "id": "16.08.07.2024",
+      "name": "Harjo Mulyo Jaya",
+      "postal_code": "32362",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.07",
+        "name": "Madang Suku I"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

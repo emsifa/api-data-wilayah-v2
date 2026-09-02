@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.03.01.2027",
+    "name": "Salu Alo",
+    "postal_code": "91370",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.03",
+      "name": "Kabupaten Mamasa"
+    },
+    "district": {
+      "id": "76.03.01",
+      "name": "Mambi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

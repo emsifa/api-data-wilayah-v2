@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.78.02.1001",
+      "name": "Panglayungan",
+      "postal_code": "46134",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.78",
+        "name": "Kota Tasikmalaya"
+      },
+      "district": {
+        "id": "32.78.02",
+        "name": "Cipedes"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

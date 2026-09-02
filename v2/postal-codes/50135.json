@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "33.74.01.1002",
+      "name": "Brumbungan",
+      "postal_code": "50135",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.74",
+        "name": "Kota Semarang"
+      },
+      "district": {
+        "id": "33.74.01",
+        "name": "Semarang Tengah"
+      }
+    },
+    {
+      "id": "33.74.01.1005",
+      "name": "Gabahan",
+      "postal_code": "50135",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.74",
+        "name": "Kota Semarang"
+      },
+      "district": {
+        "id": "33.74.01",
+        "name": "Semarang Tengah"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

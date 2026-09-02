@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.07.01.2012",
+    "name": "Mauloo",
+    "postal_code": "86153",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.07",
+      "name": "Kabupaten Sikka"
+    },
+    "district": {
+      "id": "53.07.01",
+      "name": "Paga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

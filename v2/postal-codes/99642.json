@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "93.01.18.2001",
+      "name": "Tabonji",
+      "postal_code": "99642",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.18",
+        "name": "Tabonji"
+      }
+    },
+    {
+      "id": "93.01.18.2002",
+      "name": "Wanggambi",
+      "postal_code": "99642",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.18",
+        "name": "Tabonji"
+      }
+    },
+    {
+      "id": "93.01.18.2003",
+      "name": "Suam",
+      "postal_code": "99642",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.18",
+        "name": "Tabonji"
+      }
+    },
+    {
+      "id": "93.01.18.2004",
+      "name": "Yamuka",
+      "postal_code": "99642",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.18",
+        "name": "Tabonji"
+      }
+    },
+    {
+      "id": "93.01.18.2005",
+      "name": "Iromoro",
+      "postal_code": "99642",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.18",
+        "name": "Tabonji"
+      }
+    },
+    {
+      "id": "93.01.18.2006",
+      "name": "Konjombando",
+      "postal_code": "99642",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.18",
+        "name": "Tabonji"
+      }
+    },
+    {
+      "id": "93.01.18.2007",
+      "name": "Yeraha",
+      "postal_code": "99642",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.18",
+        "name": "Tabonji"
+      }
+    },
+    {
+      "id": "93.01.21.2004",
+      "name": "Bamol I",
+      "postal_code": "99642",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.21",
+        "name": "Padua"
+      }
+    },
+    {
+      "id": "93.01.21.2005",
+      "name": "Bamol II",
+      "postal_code": "99642",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.21",
+        "name": "Padua"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

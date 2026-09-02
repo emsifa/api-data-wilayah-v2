@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.01.02.2007",
+    "name": "Labuangkallo",
+    "postal_code": "76260",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.01",
+      "name": "Kabupaten Paser"
+    },
+    "district": {
+      "id": "64.01.02",
+      "name": "Tanjung Harapan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

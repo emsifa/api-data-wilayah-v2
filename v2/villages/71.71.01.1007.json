@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.71.01.1007",
+    "name": "Meras",
+    "postal_code": "95231",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.71",
+      "name": "Kota Manado"
+    },
+    "district": {
+      "id": "71.71.01",
+      "name": "Bunaken"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

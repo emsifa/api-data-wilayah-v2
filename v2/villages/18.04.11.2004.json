@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.04.11.2004",
+    "name": "Tapak Siring",
+    "postal_code": "34868",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.04",
+      "name": "Kabupaten Lampung Barat"
+    },
+    "district": {
+      "id": "18.04.11",
+      "name": "Sukau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

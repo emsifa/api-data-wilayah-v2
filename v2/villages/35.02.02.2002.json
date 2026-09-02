@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.02.02.2002",
+    "name": "Sendang",
+    "postal_code": "63464",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.02",
+      "name": "Kabupaten Ponorogo"
+    },
+    "district": {
+      "id": "35.02.02",
+      "name": "Ngrayun"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

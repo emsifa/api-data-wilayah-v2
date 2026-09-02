@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.08.11.2002",
+    "name": "Lombrik",
+    "postal_code": "99916",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.08",
+      "name": "Kabupaten Nduga"
+    },
+    "district": {
+      "id": "95.08.11",
+      "name": "Paro"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

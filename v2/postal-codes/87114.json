@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "53.11.16.1003",
+      "name": "Kambaniru",
+      "postal_code": "87114",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.11",
+        "name": "Kabupaten Sumba Timur"
+      },
+      "district": {
+        "id": "53.11.16",
+        "name": "Kambera"
+      }
+    },
+    {
+      "id": "53.11.16.2008",
+      "name": "Kiritana",
+      "postal_code": "87114",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.11",
+        "name": "Kabupaten Sumba Timur"
+      },
+      "district": {
+        "id": "53.11.16",
+        "name": "Kambera"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

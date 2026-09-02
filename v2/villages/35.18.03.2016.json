@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.18.03.2016",
+    "name": "Grojogan",
+    "postal_code": "64473",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.18",
+      "name": "Kabupaten Nganjuk"
+    },
+    "district": {
+      "id": "35.18.03",
+      "name": "Berbek"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

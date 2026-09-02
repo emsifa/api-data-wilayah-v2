@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "74.04.28.2001",
+      "name": "Kaumbu",
+      "postal_code": "93754",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.04",
+        "name": "Kabupaten Buton"
+      },
+      "district": {
+        "id": "74.04.28",
+        "name": "Wolowa"
+      }
+    },
+    {
+      "id": "74.04.28.2002",
+      "name": "Wolowa",
+      "postal_code": "93754",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.04",
+        "name": "Kabupaten Buton"
+      },
+      "district": {
+        "id": "74.04.28",
+        "name": "Wolowa"
+      }
+    },
+    {
+      "id": "74.04.28.2003",
+      "name": "Matawia",
+      "postal_code": "93754",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.04",
+        "name": "Kabupaten Buton"
+      },
+      "district": {
+        "id": "74.04.28",
+        "name": "Wolowa"
+      }
+    },
+    {
+      "id": "74.04.28.2004",
+      "name": "Wolowa Baru",
+      "postal_code": "93754",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.04",
+        "name": "Kabupaten Buton"
+      },
+      "district": {
+        "id": "74.04.28",
+        "name": "Wolowa"
+      }
+    },
+    {
+      "id": "74.04.28.2005",
+      "name": "Suka Maju",
+      "postal_code": "93754",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.04",
+        "name": "Kabupaten Buton"
+      },
+      "district": {
+        "id": "74.04.28",
+        "name": "Wolowa"
+      }
+    },
+    {
+      "id": "74.04.28.2006",
+      "name": "Bungi",
+      "postal_code": "93754",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.04",
+        "name": "Kabupaten Buton"
+      },
+      "district": {
+        "id": "74.04.28",
+        "name": "Wolowa"
+      }
+    },
+    {
+      "id": "74.04.28.2007",
+      "name": "Galanti",
+      "postal_code": "93754",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.04",
+        "name": "Kabupaten Buton"
+      },
+      "district": {
+        "id": "74.04.28",
+        "name": "Wolowa"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

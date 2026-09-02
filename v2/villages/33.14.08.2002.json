@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.14.08.2002",
+    "name": "Bener",
+    "postal_code": "57252",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.14",
+      "name": "Kabupaten Sragen"
+    },
+    "district": {
+      "id": "33.14.08",
+      "name": "Ngrampal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

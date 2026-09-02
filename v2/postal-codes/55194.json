@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "34.02.12.2008",
+      "name": "Wirokerten",
+      "postal_code": "55194",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.02",
+        "name": "Kabupaten Bantul"
+      },
+      "district": {
+        "id": "34.02.12",
+        "name": "Banguntapan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

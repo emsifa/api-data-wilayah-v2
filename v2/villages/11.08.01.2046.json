@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.08.01.2046",
+    "name": "Matang Linya",
+    "postal_code": "24392",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.08",
+      "name": "Kabupaten Aceh Utara"
+    },
+    "district": {
+      "id": "11.08.01",
+      "name": "Baktiya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.15.05.2014",
+    "name": "Keboguyang",
+    "postal_code": "61276",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.15",
+      "name": "Kabupaten Sidoarjo"
+    },
+    "district": {
+      "id": "35.15.05",
+      "name": "Jabon"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

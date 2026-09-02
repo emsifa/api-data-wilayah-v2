@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "95.03.09.2001",
+      "name": "Gopa",
+      "postal_code": "99049",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.03",
+        "name": "Kabupaten Yahukimo"
+      },
+      "district": {
+        "id": "95.03.09",
+        "name": "Suru Suru"
+      }
+    },
+    {
+      "id": "95.03.09.2002",
+      "name": "Jinusugu",
+      "postal_code": "99049",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.03",
+        "name": "Kabupaten Yahukimo"
+      },
+      "district": {
+        "id": "95.03.09",
+        "name": "Suru Suru"
+      }
+    },
+    {
+      "id": "95.03.09.2004",
+      "name": "Senipan",
+      "postal_code": "99049",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.03",
+        "name": "Kabupaten Yahukimo"
+      },
+      "district": {
+        "id": "95.03.09",
+        "name": "Suru Suru"
+      }
+    },
+    {
+      "id": "95.03.09.2005",
+      "name": "Yosua",
+      "postal_code": "99049",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.03",
+        "name": "Kabupaten Yahukimo"
+      },
+      "district": {
+        "id": "95.03.09",
+        "name": "Suru Suru"
+      }
+    },
+    {
+      "id": "95.03.09.2007",
+      "name": "Solok",
+      "postal_code": "99049",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.03",
+        "name": "Kabupaten Yahukimo"
+      },
+      "district": {
+        "id": "95.03.09",
+        "name": "Suru Suru"
+      }
+    },
+    {
+      "id": "95.03.19.2022",
+      "name": "Wakunyama",
+      "postal_code": "99049",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.03",
+        "name": "Kabupaten Yahukimo"
+      },
+      "district": {
+        "id": "95.03.19",
+        "name": "Ukha"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

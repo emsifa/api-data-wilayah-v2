@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.06.01.2002",
+    "name": "Mauwa",
+    "postal_code": "98882",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.06",
+      "name": "Kabupaten Dogiyai"
+    },
+    "district": {
+      "id": "94.06.01",
+      "name": "Kamu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

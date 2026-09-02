@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.11.05.2008",
+    "name": "Plesan",
+    "postal_code": "57571",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.11",
+      "name": "Kabupaten Sukoharjo"
+    },
+    "district": {
+      "id": "33.11.05",
+      "name": "Nguter"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

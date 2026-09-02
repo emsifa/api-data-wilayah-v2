@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "21.05.06.1005",
+      "name": "Letung",
+      "postal_code": "29792",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.05",
+        "name": "Kabupaten Kepulauan Anambas"
+      },
+      "district": {
+        "id": "21.05.06",
+        "name": "Jemaja"
+      }
+    },
+    {
+      "id": "21.05.06.2001",
+      "name": "Mampok",
+      "postal_code": "29792",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.05",
+        "name": "Kabupaten Kepulauan Anambas"
+      },
+      "district": {
+        "id": "21.05.06",
+        "name": "Jemaja"
+      }
+    },
+    {
+      "id": "21.05.06.2002",
+      "name": "Rewak",
+      "postal_code": "29792",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.05",
+        "name": "Kabupaten Kepulauan Anambas"
+      },
+      "district": {
+        "id": "21.05.06",
+        "name": "Jemaja"
+      }
+    },
+    {
+      "id": "21.05.06.2006",
+      "name": "Air Biru",
+      "postal_code": "29792",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.05",
+        "name": "Kabupaten Kepulauan Anambas"
+      },
+      "district": {
+        "id": "21.05.06",
+        "name": "Jemaja"
+      }
+    },
+    {
+      "id": "21.05.06.2008",
+      "name": "Batu Berapit",
+      "postal_code": "29792",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.05",
+        "name": "Kabupaten Kepulauan Anambas"
+      },
+      "district": {
+        "id": "21.05.06",
+        "name": "Jemaja"
+      }
+    },
+    {
+      "id": "21.05.06.2009",
+      "name": "Landak",
+      "postal_code": "29792",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.05",
+        "name": "Kabupaten Kepulauan Anambas"
+      },
+      "district": {
+        "id": "21.05.06",
+        "name": "Jemaja"
+      }
+    },
+    {
+      "id": "21.05.09.2001",
+      "name": "Impol",
+      "postal_code": "29792",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.05",
+        "name": "Kabupaten Kepulauan Anambas"
+      },
+      "district": {
+        "id": "21.05.09",
+        "name": "Jemaja Barat"
+      }
+    },
+    {
+      "id": "21.05.09.2002",
+      "name": "Keramut",
+      "postal_code": "29792",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.05",
+        "name": "Kabupaten Kepulauan Anambas"
+      },
+      "district": {
+        "id": "21.05.09",
+        "name": "Jemaja Barat"
+      }
+    },
+    {
+      "id": "21.05.09.2003",
+      "name": "Sunggak",
+      "postal_code": "29792",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.05",
+        "name": "Kabupaten Kepulauan Anambas"
+      },
+      "district": {
+        "id": "21.05.09",
+        "name": "Jemaja Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

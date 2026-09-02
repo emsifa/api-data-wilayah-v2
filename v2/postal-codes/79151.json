@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "61.72.04.1001",
+      "name": "Sungai Garam Hilir",
+      "postal_code": "79151",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.72",
+        "name": "Kota Singkawang"
+      },
+      "district": {
+        "id": "61.72.04",
+        "name": "Singkawang Utara"
+      }
+    },
+    {
+      "id": "61.72.04.1002",
+      "name": "Naram",
+      "postal_code": "79151",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.72",
+        "name": "Kota Singkawang"
+      },
+      "district": {
+        "id": "61.72.04",
+        "name": "Singkawang Utara"
+      }
+    },
+    {
+      "id": "61.72.04.1003",
+      "name": "Sungai Bulan",
+      "postal_code": "79151",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.72",
+        "name": "Kota Singkawang"
+      },
+      "district": {
+        "id": "61.72.04",
+        "name": "Singkawang Utara"
+      }
+    },
+    {
+      "id": "61.72.04.1004",
+      "name": "Sungai Rasau",
+      "postal_code": "79151",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.72",
+        "name": "Kota Singkawang"
+      },
+      "district": {
+        "id": "61.72.04",
+        "name": "Singkawang Utara"
+      }
+    },
+    {
+      "id": "61.72.04.1005",
+      "name": "Setapuk Kecil",
+      "postal_code": "79151",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.72",
+        "name": "Kota Singkawang"
+      },
+      "district": {
+        "id": "61.72.04",
+        "name": "Singkawang Utara"
+      }
+    },
+    {
+      "id": "61.72.04.1006",
+      "name": "Setapuk Besar",
+      "postal_code": "79151",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.72",
+        "name": "Kota Singkawang"
+      },
+      "district": {
+        "id": "61.72.04",
+        "name": "Singkawang Utara"
+      }
+    },
+    {
+      "id": "61.72.04.1007",
+      "name": "Semelagi Kecil",
+      "postal_code": "79151",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.72",
+        "name": "Kota Singkawang"
+      },
+      "district": {
+        "id": "61.72.04",
+        "name": "Singkawang Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

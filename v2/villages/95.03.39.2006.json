@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.03.39.2006",
+    "name": "Kap-kap",
+    "postal_code": "99738",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.03",
+      "name": "Kabupaten Yahukimo"
+    },
+    "district": {
+      "id": "95.03.39",
+      "name": "Langda"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

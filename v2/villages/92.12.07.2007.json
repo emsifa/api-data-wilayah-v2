@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.12.07.2007",
+    "name": "Unti",
+    "postal_code": "98352",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.12",
+      "name": "Kabupaten Pegunungan Arfak"
+    },
+    "district": {
+      "id": "92.12.07",
+      "name": "Catubouw"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

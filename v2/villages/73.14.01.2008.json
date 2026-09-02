@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.14.01.2008",
+    "name": "Bapangi",
+    "postal_code": "91672",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.14",
+      "name": "Kabupaten Sidenreng Rappang"
+    },
+    "district": {
+      "id": "73.14.01",
+      "name": "Panca Lautang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

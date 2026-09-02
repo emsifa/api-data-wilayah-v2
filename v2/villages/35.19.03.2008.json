@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.19.03.2008",
+    "name": "Jatisari",
+    "postal_code": "63171",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.19",
+      "name": "Kabupaten Madiun"
+    },
+    "district": {
+      "id": "35.19.03",
+      "name": "Geger"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

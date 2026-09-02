@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.08.07.2001",
+    "name": "Kerinci Kanan",
+    "postal_code": "28654",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.08",
+      "name": "Kabupaten Siak"
+    },
+    "district": {
+      "id": "14.08.07",
+      "name": "Kerinci Kanan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

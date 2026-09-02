@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.12.16.2002",
+    "name": "Kalisari",
+    "postal_code": "68359",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.12",
+      "name": "Kabupaten Situbondo"
+    },
+    "district": {
+      "id": "35.12.16",
+      "name": "Banyuglugur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

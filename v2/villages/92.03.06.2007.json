@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.03.06.2007",
+    "name": "Mas",
+    "postal_code": "98032",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.03",
+      "name": "Kabupaten Fak Fak"
+    },
+    "district": {
+      "id": "92.03.06",
+      "name": "Karas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

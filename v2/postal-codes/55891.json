@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "34.03.09.2001",
+      "name": "Bejiharjo",
+      "postal_code": "55891",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.09",
+        "name": "Karangmojo"
+      }
+    },
+    {
+      "id": "34.03.09.2002",
+      "name": "Wiladeg",
+      "postal_code": "55891",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.09",
+        "name": "Karangmojo"
+      }
+    },
+    {
+      "id": "34.03.09.2003",
+      "name": "Bendungan",
+      "postal_code": "55891",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.09",
+        "name": "Karangmojo"
+      }
+    },
+    {
+      "id": "34.03.09.2004",
+      "name": "Kelor",
+      "postal_code": "55891",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.09",
+        "name": "Karangmojo"
+      }
+    },
+    {
+      "id": "34.03.09.2005",
+      "name": "Ngipak",
+      "postal_code": "55891",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.09",
+        "name": "Karangmojo"
+      }
+    },
+    {
+      "id": "34.03.09.2006",
+      "name": "Karangmojo",
+      "postal_code": "55891",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.09",
+        "name": "Karangmojo"
+      }
+    },
+    {
+      "id": "34.03.09.2007",
+      "name": "Gedangrejo",
+      "postal_code": "55891",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.09",
+        "name": "Karangmojo"
+      }
+    },
+    {
+      "id": "34.03.09.2008",
+      "name": "Ngawis",
+      "postal_code": "55891",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.09",
+        "name": "Karangmojo"
+      }
+    },
+    {
+      "id": "34.03.09.2009",
+      "name": "Jatiayu",
+      "postal_code": "55891",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.09",
+        "name": "Karangmojo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

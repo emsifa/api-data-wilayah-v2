@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.18.06.2010",
+    "name": "Arumanis",
+    "postal_code": "59184",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.18",
+      "name": "Kabupaten Pati"
+    },
+    "district": {
+      "id": "33.18.06",
+      "name": "Jaken"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

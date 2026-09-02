@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.04.08.2005",
+    "name": "Sukowidodo",
+    "postal_code": "66253",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.04",
+      "name": "Kabupaten Tulungagung"
+    },
+    "district": {
+      "id": "35.04.08",
+      "name": "Karangrejo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

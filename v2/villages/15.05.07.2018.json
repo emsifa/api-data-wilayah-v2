@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.05.07.2018",
+    "name": "Bukit Makmur",
+    "postal_code": "36365",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.05",
+      "name": "Kabupaten Muaro Jambi"
+    },
+    "district": {
+      "id": "15.05.07",
+      "name": "Sungai Bahar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

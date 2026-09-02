@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "96.03.09.2001",
+      "name": "Lopintol",
+      "postal_code": "98486",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.09",
+        "name": "Teluk Mayalibit"
+      }
+    },
+    {
+      "id": "96.03.09.2002",
+      "name": "Warsamdin",
+      "postal_code": "98486",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.09",
+        "name": "Teluk Mayalibit"
+      }
+    },
+    {
+      "id": "96.03.09.2003",
+      "name": "Mumes",
+      "postal_code": "98486",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.09",
+        "name": "Teluk Mayalibit"
+      }
+    },
+    {
+      "id": "96.03.09.2004",
+      "name": "Kalitoko",
+      "postal_code": "98486",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.09",
+        "name": "Teluk Mayalibit"
+      }
+    },
+    {
+      "id": "96.03.18.2001",
+      "name": "Go",
+      "postal_code": "98486",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.18",
+        "name": "Tiplol Mayalibit"
+      }
+    },
+    {
+      "id": "96.03.18.2002",
+      "name": "Kabilol",
+      "postal_code": "98486",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.18",
+        "name": "Tiplol Mayalibit"
+      }
+    },
+    {
+      "id": "96.03.18.2003",
+      "name": "Arawai",
+      "postal_code": "98486",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.18",
+        "name": "Tiplol Mayalibit"
+      }
+    },
+    {
+      "id": "96.03.18.2004",
+      "name": "Beo",
+      "postal_code": "98486",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.18",
+        "name": "Tiplol Mayalibit"
+      }
+    },
+    {
+      "id": "96.03.18.2005",
+      "name": "Waifoi",
+      "postal_code": "98486",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.18",
+        "name": "Tiplol Mayalibit"
+      }
+    },
+    {
+      "id": "96.03.18.2006",
+      "name": "Warimak",
+      "postal_code": "98486",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.18",
+        "name": "Tiplol Mayalibit"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

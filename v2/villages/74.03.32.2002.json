@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.03.32.2002",
+    "name": "Wale-Ale",
+    "postal_code": "93665",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.03",
+      "name": "Kabupaten Muna"
+    },
+    "district": {
+      "id": "74.03.32",
+      "name": "Tongkuno Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

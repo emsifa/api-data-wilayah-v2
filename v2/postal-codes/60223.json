@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.78.01.1003",
+      "name": "Kedurus",
+      "postal_code": "60223",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.01",
+        "name": "Karang Pilang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

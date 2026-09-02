@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "33.24.15.1005",
+      "name": "Ketapang",
+      "postal_code": "51319",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.15",
+        "name": "Kendal"
+      }
+    },
+    {
+      "id": "33.24.15.1013",
+      "name": "Pekauman",
+      "postal_code": "51319",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.15",
+        "name": "Kendal"
+      }
+    },
+    {
+      "id": "33.24.15.1016",
+      "name": "Banyutowo",
+      "postal_code": "51319",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.15",
+        "name": "Kendal"
+      }
+    },
+    {
+      "id": "33.24.15.1017",
+      "name": "Karangsari",
+      "postal_code": "51319",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.15",
+        "name": "Kendal"
+      }
+    },
+    {
+      "id": "33.24.16.2004",
+      "name": "Karangsari",
+      "postal_code": "51319",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.16",
+        "name": "Rowosari"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

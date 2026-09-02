@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.04.40.2004",
+    "name": "Cipelah",
+    "postal_code": "40974",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.04",
+      "name": "Kabupaten Bandung"
+    },
+    "district": {
+      "id": "32.04.40",
+      "name": "Rancabali"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

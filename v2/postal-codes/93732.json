@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "74.72.04.1001",
+      "name": "Liabuku",
+      "postal_code": "93732",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.72",
+        "name": "Kota Bau Bau"
+      },
+      "district": {
+        "id": "74.72.04",
+        "name": "Bungi"
+      }
+    },
+    {
+      "id": "74.72.04.1002",
+      "name": "Ngkaring Karing",
+      "postal_code": "93732",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.72",
+        "name": "Kota Bau Bau"
+      },
+      "district": {
+        "id": "74.72.04",
+        "name": "Bungi"
+      }
+    },
+    {
+      "id": "74.72.04.1003",
+      "name": "Kampeonaho",
+      "postal_code": "93732",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.72",
+        "name": "Kota Bau Bau"
+      },
+      "district": {
+        "id": "74.72.04",
+        "name": "Bungi"
+      }
+    },
+    {
+      "id": "74.72.04.1008",
+      "name": "Waliabuku",
+      "postal_code": "93732",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.72",
+        "name": "Kota Bau Bau"
+      },
+      "district": {
+        "id": "74.72.04",
+        "name": "Bungi"
+      }
+    },
+    {
+      "id": "74.72.04.1010",
+      "name": "Tampuna",
+      "postal_code": "93732",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.72",
+        "name": "Kota Bau Bau"
+      },
+      "district": {
+        "id": "74.72.04",
+        "name": "Bungi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "91.06.18.2003",
+    "name": "Sauribru",
+    "postal_code": "98563",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.06",
+      "name": "Kabupaten Biak Numfor"
+    },
+    "district": {
+      "id": "91.06.18",
+      "name": "Poiru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

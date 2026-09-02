@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.01.10.2008",
+    "name": "Simpangan",
+    "postal_code": "94772",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.01",
+      "name": "Kabupaten Banggai"
+    },
+    "district": {
+      "id": "72.01.10",
+      "name": "Masama"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.03.16.2010",
+    "name": "Mulyo Rejo I",
+    "postal_code": "34555",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.03",
+      "name": "Kabupaten Lampung Utara"
+    },
+    "district": {
+      "id": "18.03.16",
+      "name": "Bunga Mayang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

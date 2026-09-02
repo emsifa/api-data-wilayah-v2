@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": "53.05.07.2001",
+      "name": "Lembur Barat",
+      "postal_code": "85870",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.05",
+        "name": "Kabupaten Alor"
+      },
+      "district": {
+        "id": "53.05.07",
+        "name": "Alor Tengah Utara"
+      }
+    },
+    {
+      "id": "53.05.07.2002",
+      "name": "Lembur Tengah",
+      "postal_code": "85870",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.05",
+        "name": "Kabupaten Alor"
+      },
+      "district": {
+        "id": "53.05.07",
+        "name": "Alor Tengah Utara"
+      }
+    },
+    {
+      "id": "53.05.07.2004",
+      "name": "Likwatang",
+      "postal_code": "85870",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.05",
+        "name": "Kabupaten Alor"
+      },
+      "district": {
+        "id": "53.05.07",
+        "name": "Alor Tengah Utara"
+      }
+    },
+    {
+      "id": "53.05.07.2007",
+      "name": "Fungafeng",
+      "postal_code": "85870",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.05",
+        "name": "Kabupaten Alor"
+      },
+      "district": {
+        "id": "53.05.07",
+        "name": "Alor Tengah Utara"
+      }
+    },
+    {
+      "id": "53.05.07.2008",
+      "name": "Fuisama",
+      "postal_code": "85870",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.05",
+        "name": "Kabupaten Alor"
+      },
+      "district": {
+        "id": "53.05.07",
+        "name": "Alor Tengah Utara"
+      }
+    },
+    {
+      "id": "53.05.07.2009",
+      "name": "Nur Benlelang",
+      "postal_code": "85870",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.05",
+        "name": "Kabupaten Alor"
+      },
+      "district": {
+        "id": "53.05.07",
+        "name": "Alor Tengah Utara"
+      }
+    },
+    {
+      "id": "53.05.07.2010",
+      "name": "Kafakbeka",
+      "postal_code": "85870",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.05",
+        "name": "Kabupaten Alor"
+      },
+      "district": {
+        "id": "53.05.07",
+        "name": "Alor Tengah Utara"
+      }
+    },
+    {
+      "id": "53.05.07.2011",
+      "name": "Manetwati",
+      "postal_code": "85870",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.05",
+        "name": "Kabupaten Alor"
+      },
+      "district": {
+        "id": "53.05.07",
+        "name": "Alor Tengah Utara"
+      }
+    },
+    {
+      "id": "53.05.07.2012",
+      "name": "Lakwati",
+      "postal_code": "85870",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.05",
+        "name": "Kabupaten Alor"
+      },
+      "district": {
+        "id": "53.05.07",
+        "name": "Alor Tengah Utara"
+      }
+    },
+    {
+      "id": "53.05.07.2014",
+      "name": "Dapitau",
+      "postal_code": "85870",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.05",
+        "name": "Kabupaten Alor"
+      },
+      "district": {
+        "id": "53.05.07",
+        "name": "Alor Tengah Utara"
+      }
+    },
+    {
+      "id": "53.05.07.2017",
+      "name": "Alim Mebung",
+      "postal_code": "85870",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.05",
+        "name": "Kabupaten Alor"
+      },
+      "district": {
+        "id": "53.05.07",
+        "name": "Alor Tengah Utara"
+      }
+    },
+    {
+      "id": "53.05.07.2018",
+      "name": "Petleng",
+      "postal_code": "85870",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.05",
+        "name": "Kabupaten Alor"
+      },
+      "district": {
+        "id": "53.05.07",
+        "name": "Alor Tengah Utara"
+      }
+    },
+    {
+      "id": "53.05.07.2019",
+      "name": "Welai Selatan",
+      "postal_code": "85870",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.05",
+        "name": "Kabupaten Alor"
+      },
+      "district": {
+        "id": "53.05.07",
+        "name": "Alor Tengah Utara"
+      }
+    },
+    {
+      "id": "53.05.07.2020",
+      "name": "Tominuku",
+      "postal_code": "85870",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.05",
+        "name": "Kabupaten Alor"
+      },
+      "district": {
+        "id": "53.05.07",
+        "name": "Alor Tengah Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

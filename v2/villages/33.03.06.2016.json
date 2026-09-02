@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.03.06.2016",
+    "name": "Kedungwuluh",
+    "postal_code": "53371",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.03",
+      "name": "Kabupaten Purbalingga"
+    },
+    "district": {
+      "id": "33.03.06",
+      "name": "Kalimanah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

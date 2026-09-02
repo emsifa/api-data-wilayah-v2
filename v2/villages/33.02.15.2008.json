@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.02.15.2008",
+    "name": "Tlaga",
+    "postal_code": "53165",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.02",
+      "name": "Kabupaten Banyumas"
+    },
+    "district": {
+      "id": "33.02.15",
+      "name": "Gumelar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

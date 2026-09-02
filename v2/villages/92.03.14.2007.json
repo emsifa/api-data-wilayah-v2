@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.03.14.2007",
+    "name": "Goras Selatan",
+    "postal_code": "98021",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.03",
+      "name": "Kabupaten Fak Fak"
+    },
+    "district": {
+      "id": "92.03.14",
+      "name": "Mbahamdandara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

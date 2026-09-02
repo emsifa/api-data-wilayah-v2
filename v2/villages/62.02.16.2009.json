@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.02.16.2009",
+    "name": "Damar Makmur",
+    "postal_code": "74358",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.02",
+      "name": "Kabupaten Kotawaringin Timur"
+    },
+    "district": {
+      "id": "62.02.16",
+      "name": "Tualan Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

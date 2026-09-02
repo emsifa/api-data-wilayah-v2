@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "32.02.42.2001",
+      "name": "Curugkembar",
+      "postal_code": "43182",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.42",
+        "name": "Curugkembar"
+      }
+    },
+    {
+      "id": "32.02.42.2002",
+      "name": "Cimenteng",
+      "postal_code": "43182",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.42",
+        "name": "Curugkembar"
+      }
+    },
+    {
+      "id": "32.02.42.2003",
+      "name": "Tanjungsari",
+      "postal_code": "43182",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.42",
+        "name": "Curugkembar"
+      }
+    },
+    {
+      "id": "32.02.42.2004",
+      "name": "Sindangraja",
+      "postal_code": "43182",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.42",
+        "name": "Curugkembar"
+      }
+    },
+    {
+      "id": "32.02.42.2005",
+      "name": "Mekartanjung",
+      "postal_code": "43182",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.42",
+        "name": "Curugkembar"
+      }
+    },
+    {
+      "id": "32.02.42.2006",
+      "name": "Nagrakjaya",
+      "postal_code": "43182",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.42",
+        "name": "Curugkembar"
+      }
+    },
+    {
+      "id": "32.02.42.2007",
+      "name": "Bojongtugu",
+      "postal_code": "43182",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.42",
+        "name": "Curugkembar"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.04.14.2006",
+    "name": "Geti Lama",
+    "postal_code": "97791",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.04",
+      "name": "Kabupaten Halmahera Selatan"
+    },
+    "district": {
+      "id": "82.04.14",
+      "name": "Bacan Barat Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

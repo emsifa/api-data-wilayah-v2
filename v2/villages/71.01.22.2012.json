@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.01.22.2012",
+    "name": "Insil Baru",
+    "postal_code": "95750",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.01",
+      "name": "Kabupaten Bolaang Mongondow"
+    },
+    "district": {
+      "id": "71.01.22",
+      "name": "Passi Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

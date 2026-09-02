@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "16.01.14.1005",
+      "name": "Sukaraya",
+      "postal_code": "32112",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.14",
+        "name": "Baturaja Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

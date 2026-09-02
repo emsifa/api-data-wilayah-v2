@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.22.15.2008",
+    "name": "Candirejo",
+    "postal_code": "50214",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.22",
+      "name": "Kabupaten Semarang"
+    },
+    "district": {
+      "id": "33.22.15",
+      "name": "Pringapus"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

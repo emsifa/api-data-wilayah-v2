@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "72.12",
+    "name": "Kabupaten Morowali Utara",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.12",
+      "name": "Kabupaten Morowali Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

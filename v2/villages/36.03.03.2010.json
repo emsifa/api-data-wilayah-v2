@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.03.03.2010",
+    "name": "Margasari",
+    "postal_code": "15721",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.03",
+      "name": "Kabupaten Tangerang"
+    },
+    "district": {
+      "id": "36.03.03",
+      "name": "Tigaraksa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

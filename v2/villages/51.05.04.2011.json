@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.05.04.2011",
+    "name": "Dawan Kaler",
+    "postal_code": "80761",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.05",
+      "name": "Kabupaten Klungkung"
+    },
+    "district": {
+      "id": "51.05.04",
+      "name": "Dawan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

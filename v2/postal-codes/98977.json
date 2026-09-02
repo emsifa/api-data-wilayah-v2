@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "94.02.07.2002",
+      "name": "Ambok",
+      "postal_code": "98977",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.02",
+        "name": "Kabupaten Puncak Jaya"
+      },
+      "district": {
+        "id": "94.02.07",
+        "name": "Torere"
+      }
+    },
+    {
+      "id": "94.02.07.2010",
+      "name": "Asua",
+      "postal_code": "98977",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.02",
+        "name": "Kabupaten Puncak Jaya"
+      },
+      "district": {
+        "id": "94.02.07",
+        "name": "Torere"
+      }
+    },
+    {
+      "id": "94.05.06.2001",
+      "name": "Yauria",
+      "postal_code": "98977",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.05",
+        "name": "Kabupaten Puncak"
+      },
+      "district": {
+        "id": "94.05.06",
+        "name": "Sinak"
+      }
+    },
+    {
+      "id": "94.05.06.2002",
+      "name": "Gigobak",
+      "postal_code": "98977",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.05",
+        "name": "Kabupaten Puncak"
+      },
+      "district": {
+        "id": "94.05.06",
+        "name": "Sinak"
+      }
+    },
+    {
+      "id": "94.05.06.2009",
+      "name": "Pasir Putih",
+      "postal_code": "98977",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.05",
+        "name": "Kabupaten Puncak"
+      },
+      "district": {
+        "id": "94.05.06",
+        "name": "Sinak"
+      }
+    },
+    {
+      "id": "94.05.06.2010",
+      "name": "Gingga Baru",
+      "postal_code": "98977",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.05",
+        "name": "Kabupaten Puncak"
+      },
+      "district": {
+        "id": "94.05.06",
+        "name": "Sinak"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

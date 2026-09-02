@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.05.11.2003",
+    "name": "Napal Melintang",
+    "postal_code": "31625",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.05",
+      "name": "Kabupaten Musi Rawas"
+    },
+    "district": {
+      "id": "16.05.11",
+      "name": "Selangit"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

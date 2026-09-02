@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "32.05.37.2001",
+      "name": "Sukamaju",
+      "postal_code": "44167",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.37",
+        "name": "Talegong"
+      }
+    },
+    {
+      "id": "32.05.37.2002",
+      "name": "Sukamulya",
+      "postal_code": "44167",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.37",
+        "name": "Talegong"
+      }
+    },
+    {
+      "id": "32.05.37.2003",
+      "name": "Mekarmukti",
+      "postal_code": "44167",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.37",
+        "name": "Talegong"
+      }
+    },
+    {
+      "id": "32.05.37.2004",
+      "name": "Mekarmulya",
+      "postal_code": "44167",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.37",
+        "name": "Talegong"
+      }
+    },
+    {
+      "id": "32.05.37.2005",
+      "name": "Sukalaksana",
+      "postal_code": "44167",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.37",
+        "name": "Talegong"
+      }
+    },
+    {
+      "id": "32.05.37.2006",
+      "name": "Selaawi",
+      "postal_code": "44167",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.37",
+        "name": "Talegong"
+      }
+    },
+    {
+      "id": "32.05.37.2007",
+      "name": "Mekarwangi",
+      "postal_code": "44167",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.37",
+        "name": "Talegong"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

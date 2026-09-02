@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.76.02.1001",
+    "name": "Kejambon",
+    "postal_code": "52124",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.76",
+      "name": "Kota Tegal"
+    },
+    "district": {
+      "id": "33.76.02",
+      "name": "Tegal Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

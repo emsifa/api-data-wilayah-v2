@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.04.17.2002",
+    "name": "Maneikun",
+    "postal_code": "85771",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.04",
+      "name": "Kabupaten Belu"
+    },
+    "district": {
+      "id": "53.04.17",
+      "name": "Lasiolat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

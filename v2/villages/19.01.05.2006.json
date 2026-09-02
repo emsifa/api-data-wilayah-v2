@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "19.01.05.2006",
+    "name": "Karya Makmur",
+    "postal_code": "33255",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.01",
+      "name": "Kabupaten Bangka"
+    },
+    "district": {
+      "id": "19.01.05",
+      "name": "Pemali"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "36.01.01.2001",
+      "name": "Sumberjaya",
+      "postal_code": "42283",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.01",
+        "name": "Sumur"
+      }
+    },
+    {
+      "id": "36.01.01.2002",
+      "name": "Kertajaya",
+      "postal_code": "42283",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.01",
+        "name": "Sumur"
+      }
+    },
+    {
+      "id": "36.01.01.2003",
+      "name": "Kertamukti",
+      "postal_code": "42283",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.01",
+        "name": "Sumur"
+      }
+    },
+    {
+      "id": "36.01.01.2004",
+      "name": "Tunggaljaya",
+      "postal_code": "42283",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.01",
+        "name": "Sumur"
+      }
+    },
+    {
+      "id": "36.01.01.2005",
+      "name": "Cigorondong",
+      "postal_code": "42283",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.01",
+        "name": "Sumur"
+      }
+    },
+    {
+      "id": "36.01.01.2006",
+      "name": "Tamanjaya",
+      "postal_code": "42283",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.01",
+        "name": "Sumur"
+      }
+    },
+    {
+      "id": "36.01.01.2007",
+      "name": "Ujungjaya",
+      "postal_code": "42283",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.01",
+        "name": "Kabupaten Pandeglang"
+      },
+      "district": {
+        "id": "36.01.01",
+        "name": "Sumur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

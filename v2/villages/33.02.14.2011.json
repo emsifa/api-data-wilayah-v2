@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.02.14.2011",
+    "name": "Ajibarang Kulon",
+    "postal_code": "53163",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.02",
+      "name": "Kabupaten Banyumas"
+    },
+    "district": {
+      "id": "33.02.14",
+      "name": "Ajibarang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

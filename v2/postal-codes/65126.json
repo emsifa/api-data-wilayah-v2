@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "35.73.01.1001",
+      "name": "Balearjosari",
+      "postal_code": "65126",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.73",
+        "name": "Kota Malang"
+      },
+      "district": {
+        "id": "35.73.01",
+        "name": "Blimbing"
+      }
+    },
+    {
+      "id": "35.73.01.1002",
+      "name": "Arjosari",
+      "postal_code": "65126",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.73",
+        "name": "Kota Malang"
+      },
+      "district": {
+        "id": "35.73.01",
+        "name": "Blimbing"
+      }
+    },
+    {
+      "id": "35.73.01.1003",
+      "name": "Polowijen",
+      "postal_code": "65126",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.73",
+        "name": "Kota Malang"
+      },
+      "district": {
+        "id": "35.73.01",
+        "name": "Blimbing"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

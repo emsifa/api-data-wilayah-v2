@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.19.06.2015",
+    "name": "Pong Ruan",
+    "postal_code": "86572",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.19",
+      "name": "Kabupaten Manggarai Timur"
+    },
+    "district": {
+      "id": "53.19.06",
+      "name": "Kota Komba"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

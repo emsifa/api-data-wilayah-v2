@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "91.19.05.2001",
+    "name": "Waryei",
+    "postal_code": "98581",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.19",
+      "name": "Kabupaten Supiori"
+    },
+    "district": {
+      "id": "91.19.05",
+      "name": "Supiori Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

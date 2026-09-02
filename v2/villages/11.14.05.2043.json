@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.14.05.2043",
+    "name": "Rumpet",
+    "postal_code": "23658",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.14",
+      "name": "Kabupaten Aceh Jaya"
+    },
+    "district": {
+      "id": "11.14.05",
+      "name": "Jaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

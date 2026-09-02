@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "13.75.01.1004",
+    "name": "Aur Tajungkang Tangah Sawah",
+    "postal_code": "26111",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.75",
+      "name": "Kota Bukittinggi"
+    },
+    "district": {
+      "id": "13.75.01",
+      "name": "Guguak Panjang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

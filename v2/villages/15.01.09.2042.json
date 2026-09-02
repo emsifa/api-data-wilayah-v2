@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.01.09.2042",
+    "name": "Pasar Sungai Tanduk",
+    "postal_code": "37164",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.01",
+      "name": "Kabupaten Kerinci"
+    },
+    "district": {
+      "id": "15.01.09",
+      "name": "Kayu Aro"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

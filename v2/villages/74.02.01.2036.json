@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.02.01.2036",
+    "name": "Watarema",
+    "postal_code": "93464",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.02",
+      "name": "Kabupaten Konawe"
+    },
+    "district": {
+      "id": "74.02.01",
+      "name": "Lambuya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

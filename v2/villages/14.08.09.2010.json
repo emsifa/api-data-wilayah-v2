@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.08.09.2010",
+    "name": "Sri Gemilang",
+    "postal_code": "28672",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.08",
+      "name": "Kabupaten Siak"
+    },
+    "district": {
+      "id": "14.08.09",
+      "name": "Koto Gasib"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

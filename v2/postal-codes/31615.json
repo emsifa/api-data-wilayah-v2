@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "16.73.02.1001",
+      "name": "Kayu Ara",
+      "postal_code": "31615",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.73",
+        "name": "Kota Lubuk Linggau"
+      },
+      "district": {
+        "id": "16.73.02",
+        "name": "Lubuk Linggau Barat I"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

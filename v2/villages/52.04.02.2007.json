@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.04.02.2007",
+    "name": "Pada Suka",
+    "postal_code": "84373",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.04",
+      "name": "Kabupaten Sumbawa"
+    },
+    "district": {
+      "id": "52.04.02",
+      "name": "Lunyuk"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

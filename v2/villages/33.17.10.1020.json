@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.17.10.1020",
+    "name": "Gegunung Kulon",
+    "postal_code": "59213",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.17",
+      "name": "Kabupaten Rembang"
+    },
+    "district": {
+      "id": "33.17.10",
+      "name": "Rembang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

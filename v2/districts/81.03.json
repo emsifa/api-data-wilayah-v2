@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "81.03",
+    "name": "Kabupaten Kepulauan Tanimbar",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.03",
+      "name": "Kabupaten Kepulauan Tanimbar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.12.01.2015",
+    "name": "Kawa-Kawali",
+    "postal_code": "93391",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.12",
+      "name": "Kabupaten Konawe Kepulauan"
+    },
+    "district": {
+      "id": "74.12.01",
+      "name": "Wawonii Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

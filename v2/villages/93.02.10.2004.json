@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.02.10.2004",
+    "name": "Sohokanggo",
+    "postal_code": "99673",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.02",
+      "name": "Kabupaten Boven Digoel"
+    },
+    "district": {
+      "id": "93.02.10",
+      "name": "Fofi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

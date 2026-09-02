@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.01.29.2004",
+    "name": "Sri Mulya",
+    "postal_code": "32159",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.01",
+      "name": "Kabupaten Ogan Komering Ulu"
+    },
+    "district": {
+      "id": "16.01.29",
+      "name": "Sinar Peninjauan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.07.13.1003",
+    "name": "Sungai Rangau",
+    "postal_code": "28984",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.07",
+      "name": "Kabupaten Rokan Hilir"
+    },
+    "district": {
+      "id": "14.07.13",
+      "name": "Rantau Kopar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.01.13.2014",
+    "name": "Inobonto",
+    "postal_code": "95752",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.01",
+      "name": "Kabupaten Bolaang Mongondow"
+    },
+    "district": {
+      "id": "71.01.13",
+      "name": "Bolaang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

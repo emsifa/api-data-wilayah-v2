@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.13.15.2014",
+    "name": "Sari Kenanga Batahan",
+    "postal_code": "22988",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.13",
+      "name": "Kabupaten Mandailing Natal"
+    },
+    "district": {
+      "id": "12.13.15",
+      "name": "Batahan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.06.04.2028",
+    "name": "Batur Utara",
+    "postal_code": "80652",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.06",
+      "name": "Kabupaten Bangli"
+    },
+    "district": {
+      "id": "51.06.04",
+      "name": "Kintamani"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

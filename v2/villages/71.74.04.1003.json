@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.74.04.1003",
+    "name": "Mogolaing",
+    "postal_code": "95716",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.74",
+      "name": "Kota Kotamobagu"
+    },
+    "district": {
+      "id": "71.74.04",
+      "name": "Kotamobagu Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

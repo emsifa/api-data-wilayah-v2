@@ -1,0 +1,263 @@
+{
+  "data": [
+    {
+      "id": "62.10.02.1001",
+      "name": "Tampang Tumbang Anjir",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    },
+    {
+      "id": "62.10.02.1012",
+      "name": "Kurun",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    },
+    {
+      "id": "62.10.02.2002",
+      "name": "Petak Bahandang",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    },
+    {
+      "id": "62.10.02.2003",
+      "name": "Tanjung Riu",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    },
+    {
+      "id": "62.10.02.2004",
+      "name": "Teluk Nyatu",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    },
+    {
+      "id": "62.10.02.2005",
+      "name": "Tumbang Lampahung",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    },
+    {
+      "id": "62.10.02.2006",
+      "name": "Tewang Pajangan",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    },
+    {
+      "id": "62.10.02.2007",
+      "name": "Tumbang Tariak",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    },
+    {
+      "id": "62.10.02.2008",
+      "name": "Tumbang Miwan",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    },
+    {
+      "id": "62.10.02.2009",
+      "name": "Hurung Bunut",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    },
+    {
+      "id": "62.10.02.2010",
+      "name": "Tumbang Hakau",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    },
+    {
+      "id": "62.10.02.2011",
+      "name": "Pilang Munduk",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    },
+    {
+      "id": "62.10.02.2013",
+      "name": "Tumbang Manyangan",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    },
+    {
+      "id": "62.10.02.2014",
+      "name": "Penda Pilang",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    },
+    {
+      "id": "62.10.02.2015",
+      "name": "Tumbang Tambirah",
+      "postal_code": "74511",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.10",
+        "name": "Kabupaten Gunung Mas"
+      },
+      "district": {
+        "id": "62.10.02",
+        "name": "Kurun"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

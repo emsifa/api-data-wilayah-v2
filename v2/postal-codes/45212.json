@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "32.12.15.1005",
+      "name": "Lemahmekar",
+      "postal_code": "45212",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.15",
+        "name": "Indramayu"
+      }
+    },
+    {
+      "id": "32.12.15.1006",
+      "name": "Lemahabang",
+      "postal_code": "45212",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.15",
+        "name": "Indramayu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

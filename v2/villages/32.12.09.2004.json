@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.12.09.2004",
+    "name": "Dukuhjati",
+    "postal_code": "45284",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.12",
+      "name": "Kabupaten Indramayu"
+    },
+    "district": {
+      "id": "32.12.09",
+      "name": "Krangkeng"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

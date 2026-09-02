@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "19.71.04.1008",
+      "name": "Parit Lalang",
+      "postal_code": "33137",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.71",
+        "name": "Kota Pangkal Pinang"
+      },
+      "district": {
+        "id": "19.71.04",
+        "name": "Rangkui"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

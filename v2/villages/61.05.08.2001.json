@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.05.08.2001",
+    "name": "Nanga Mau",
+    "postal_code": "78693",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.05",
+      "name": "Kabupaten Sintang"
+    },
+    "district": {
+      "id": "61.05.08",
+      "name": "Kayan Hilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

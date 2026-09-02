@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.05.11.2006",
+    "name": "Kambang Habang Baru",
+    "postal_code": "71185",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.05",
+      "name": "Kabupaten Tapin"
+    },
+    "district": {
+      "id": "63.05.11",
+      "name": "Salam Babaris"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

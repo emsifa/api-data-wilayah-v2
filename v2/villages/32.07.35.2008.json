@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.07.35.2008",
+    "name": "Kutawaringin",
+    "postal_code": "46380",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.07",
+      "name": "Kabupaten Ciamis"
+    },
+    "district": {
+      "id": "32.07.35",
+      "name": "Purwadadi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

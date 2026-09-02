@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.02.18.2011",
+    "name": "Kuala Sungai Pasir",
+    "postal_code": "30658",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.02",
+      "name": "Kabupaten Ogan Komering Ilir"
+    },
+    "district": {
+      "id": "16.02.18",
+      "name": "Cengal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

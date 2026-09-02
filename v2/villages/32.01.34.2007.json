@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.01.34.2007",
+    "name": "Cimulang",
+    "postal_code": "16311",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.01",
+      "name": "Kabupaten Bogor"
+    },
+    "district": {
+      "id": "32.01.34",
+      "name": "Rancabungur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

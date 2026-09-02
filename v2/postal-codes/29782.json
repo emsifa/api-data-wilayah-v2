@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "21.03.05.1008",
+      "name": "Sedanau",
+      "postal_code": "29782",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.03",
+        "name": "Kabupaten Natuna"
+      },
+      "district": {
+        "id": "21.03.05",
+        "name": "Bunguran Barat"
+      }
+    },
+    {
+      "id": "21.03.05.2007",
+      "name": "Mekar Jaya",
+      "postal_code": "29782",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.03",
+        "name": "Kabupaten Natuna"
+      },
+      "district": {
+        "id": "21.03.05",
+        "name": "Bunguran Barat"
+      }
+    },
+    {
+      "id": "21.03.05.2012",
+      "name": "Binjai",
+      "postal_code": "29782",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.03",
+        "name": "Kabupaten Natuna"
+      },
+      "district": {
+        "id": "21.03.05",
+        "name": "Bunguran Barat"
+      }
+    },
+    {
+      "id": "21.03.05.2013",
+      "name": "Piantengah",
+      "postal_code": "29782",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.03",
+        "name": "Kabupaten Natuna"
+      },
+      "district": {
+        "id": "21.03.05",
+        "name": "Bunguran Barat"
+      }
+    },
+    {
+      "id": "21.03.05.2015",
+      "name": "Selaut",
+      "postal_code": "29782",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.03",
+        "name": "Kabupaten Natuna"
+      },
+      "district": {
+        "id": "21.03.05",
+        "name": "Bunguran Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

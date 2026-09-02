@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.01.15.2006",
+    "name": "Bengkolan Duo",
+    "postal_code": "37163",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.01",
+      "name": "Kabupaten Kerinci"
+    },
+    "district": {
+      "id": "15.01.15",
+      "name": "Gunung Tujuh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

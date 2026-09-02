@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "35.17.21.2001",
+      "name": "Ketapangkuning",
+      "postal_code": "61450",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.21",
+        "name": "Ngusikan"
+      }
+    },
+    {
+      "id": "35.17.21.2002",
+      "name": "Keboan",
+      "postal_code": "61450",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.21",
+        "name": "Ngusikan"
+      }
+    },
+    {
+      "id": "35.17.21.2003",
+      "name": "Kedungbogo",
+      "postal_code": "61450",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.21",
+        "name": "Ngusikan"
+      }
+    },
+    {
+      "id": "35.17.21.2004",
+      "name": "Ngusikan",
+      "postal_code": "61450",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.21",
+        "name": "Ngusikan"
+      }
+    },
+    {
+      "id": "35.17.21.2005",
+      "name": "Sumbernongko",
+      "postal_code": "61450",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.21",
+        "name": "Ngusikan"
+      }
+    },
+    {
+      "id": "35.17.21.2006",
+      "name": "Cupak",
+      "postal_code": "61450",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.21",
+        "name": "Ngusikan"
+      }
+    },
+    {
+      "id": "35.17.21.2007",
+      "name": "Manunggal",
+      "postal_code": "61450",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.21",
+        "name": "Ngusikan"
+      }
+    },
+    {
+      "id": "35.17.21.2008",
+      "name": "Ngampel",
+      "postal_code": "61450",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.21",
+        "name": "Ngusikan"
+      }
+    },
+    {
+      "id": "35.17.21.2009",
+      "name": "Mojodanu",
+      "postal_code": "61450",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.21",
+        "name": "Ngusikan"
+      }
+    },
+    {
+      "id": "35.17.21.2010",
+      "name": "Kromong",
+      "postal_code": "61450",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.21",
+        "name": "Ngusikan"
+      }
+    },
+    {
+      "id": "35.17.21.2011",
+      "name": "Asemgede",
+      "postal_code": "61450",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.21",
+        "name": "Ngusikan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

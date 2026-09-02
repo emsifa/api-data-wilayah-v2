@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.06.07.2002",
+    "name": "Wamesa II/Yakati",
+    "postal_code": "98146",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.06",
+      "name": "Kabupaten Teluk Bintuni"
+    },
+    "district": {
+      "id": "92.06.07",
+      "name": "Wamesa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

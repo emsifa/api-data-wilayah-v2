@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.06.07.2017",
+    "name": "Rinondoran",
+    "postal_code": "95375",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.06",
+      "name": "Kabupaten Minahasa Utara"
+    },
+    "district": {
+      "id": "71.06.07",
+      "name": "Likupang Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

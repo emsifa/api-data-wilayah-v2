@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.13.12.2008",
+    "name": "Koto Baringin",
+    "postal_code": "22998",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.13",
+      "name": "Kabupaten Mandailing Natal"
+    },
+    "district": {
+      "id": "12.13.12",
+      "name": "Muara Sipongi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

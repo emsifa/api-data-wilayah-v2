@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.11.03.2002",
+    "name": "Alur Bandung",
+    "postal_code": "78856",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.11",
+      "name": "Kabupaten Kayong Utara"
+    },
+    "district": {
+      "id": "61.11.03",
+      "name": "Teluk Batang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

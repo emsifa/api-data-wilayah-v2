@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.01.06.2011",
+    "name": "Roho",
+    "postal_code": "97531",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.01",
+      "name": "Kabupaten Maluku Tengah"
+    },
+    "district": {
+      "id": "81.01.06",
+      "name": "Seram Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

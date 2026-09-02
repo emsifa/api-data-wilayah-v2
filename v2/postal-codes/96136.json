@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "75.71.01.1008",
+      "name": "Buladu",
+      "postal_code": "96136",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.71",
+        "name": "Kota Gorontalo"
+      },
+      "district": {
+        "id": "75.71.01",
+        "name": "Kota Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

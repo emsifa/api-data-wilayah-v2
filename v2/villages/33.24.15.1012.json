@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.24.15.1012",
+    "name": "Langenharjo",
+    "postal_code": "51314",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.24",
+      "name": "Kabupaten Kendal"
+    },
+    "district": {
+      "id": "33.24.15",
+      "name": "Kendal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

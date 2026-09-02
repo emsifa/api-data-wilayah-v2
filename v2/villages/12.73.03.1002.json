@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.73.03.1002",
+    "name": "Aek Manis",
+    "postal_code": "22536",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.73",
+      "name": "Kota Sibolga"
+    },
+    "district": {
+      "id": "12.73.03",
+      "name": "Sibolga Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

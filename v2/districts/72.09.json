@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "72.09",
+    "name": "Kabupaten Tojo Una Una",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.09",
+      "name": "Kabupaten Tojo Una Una"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

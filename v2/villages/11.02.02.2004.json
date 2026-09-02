@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.02.02.2004",
+    "name": "Lawe Tua Gabungan",
+    "postal_code": "24676",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.02",
+      "name": "Kabupaten Aceh Tenggara"
+    },
+    "district": {
+      "id": "11.02.02",
+      "name": "Lawe Sigala-Gala"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

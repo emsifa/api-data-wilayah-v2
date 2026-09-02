@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.07.05.2006",
+    "name": "Sewer",
+    "postal_code": "97663",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.07",
+      "name": "Kabupaten Kepulauan Aru"
+    },
+    "district": {
+      "id": "81.07.05",
+      "name": "Aru Utara Timur Batuley"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.72.05.1001",
+    "name": "Karang Dalo",
+    "postal_code": "31520",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.72",
+      "name": "Kota Pagar Alam"
+    },
+    "district": {
+      "id": "16.72.05",
+      "name": "Dempo Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.07.05.2016",
+    "name": "Long Iram Kota",
+    "postal_code": "75766",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.07",
+      "name": "Kabupaten Kutai Barat"
+    },
+    "district": {
+      "id": "64.07.05",
+      "name": "Long Iram"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.06.11.2006",
+    "name": "Belikai",
+    "postal_code": "78772",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.06",
+      "name": "Kabupaten Kapuas Hulu"
+    },
+    "district": {
+      "id": "61.06.11",
+      "name": "Seberuang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

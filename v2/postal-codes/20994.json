@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "12.18.06.2001",
+      "name": "Bandar Tengah",
+      "postal_code": "20994",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.18",
+        "name": "Kabupaten Serdang Bedagai"
+      },
+      "district": {
+        "id": "12.18.06",
+        "name": "Bandar Khalipah"
+      }
+    },
+    {
+      "id": "12.18.06.2002",
+      "name": "Juhar",
+      "postal_code": "20994",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.18",
+        "name": "Kabupaten Serdang Bedagai"
+      },
+      "district": {
+        "id": "12.18.06",
+        "name": "Bandar Khalipah"
+      }
+    },
+    {
+      "id": "12.18.06.2003",
+      "name": "Gelam Sei Serimah",
+      "postal_code": "20994",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.18",
+        "name": "Kabupaten Serdang Bedagai"
+      },
+      "district": {
+        "id": "12.18.06",
+        "name": "Bandar Khalipah"
+      }
+    },
+    {
+      "id": "12.18.06.2004",
+      "name": "Pekan Bandar Khalipah",
+      "postal_code": "20994",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.18",
+        "name": "Kabupaten Serdang Bedagai"
+      },
+      "district": {
+        "id": "12.18.06",
+        "name": "Bandar Khalipah"
+      }
+    },
+    {
+      "id": "12.18.06.2005",
+      "name": "Kayu Besar",
+      "postal_code": "20994",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.18",
+        "name": "Kabupaten Serdang Bedagai"
+      },
+      "district": {
+        "id": "12.18.06",
+        "name": "Bandar Khalipah"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

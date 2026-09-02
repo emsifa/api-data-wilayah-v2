@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.24.18.2005",
+    "name": "Kaligerman",
+    "postal_code": "62254",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.24",
+      "name": "Kabupaten Lamongan"
+    },
+    "district": {
+      "id": "35.24.18",
+      "name": "Karanggeneng"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

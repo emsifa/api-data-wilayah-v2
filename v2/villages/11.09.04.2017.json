@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.09.04.2017",
+    "name": "Sinabang",
+    "postal_code": "23891",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.09",
+      "name": "Kabupaten Simeulue"
+    },
+    "district": {
+      "id": "11.09.04",
+      "name": "Simeulue Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

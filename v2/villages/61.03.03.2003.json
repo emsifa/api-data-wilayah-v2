@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.03.03.2003",
+    "name": "Semongan",
+    "postal_code": "78554",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.03",
+      "name": "Kabupaten Sanggau"
+    },
+    "district": {
+      "id": "61.03.03",
+      "name": "Noyan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "53.04",
+    "name": "Kabupaten Belu",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.04",
+      "name": "Kabupaten Belu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

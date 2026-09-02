@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "13.05.15.2001",
+      "name": "Kayu Tanam",
+      "postal_code": "25585",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.05",
+        "name": "Kabupaten Padang Pariaman"
+      },
+      "district": {
+        "id": "13.05.15",
+        "name": "2 x 11 Kayu Tanam"
+      }
+    },
+    {
+      "id": "13.05.15.2002",
+      "name": "Guguak",
+      "postal_code": "25585",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.05",
+        "name": "Kabupaten Padang Pariaman"
+      },
+      "district": {
+        "id": "13.05.15",
+        "name": "2 x 11 Kayu Tanam"
+      }
+    },
+    {
+      "id": "13.05.15.2003",
+      "name": "Anduriang",
+      "postal_code": "25585",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.05",
+        "name": "Kabupaten Padang Pariaman"
+      },
+      "district": {
+        "id": "13.05.15",
+        "name": "2 x 11 Kayu Tanam"
+      }
+    },
+    {
+      "id": "13.05.15.2004",
+      "name": "Kapalo Hilalang",
+      "postal_code": "25585",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.05",
+        "name": "Kabupaten Padang Pariaman"
+      },
+      "district": {
+        "id": "13.05.15",
+        "name": "2 x 11 Kayu Tanam"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

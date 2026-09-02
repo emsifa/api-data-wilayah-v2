@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.01.09.2002",
+    "name": "Batu Lepuk",
+    "postal_code": "29193",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.01",
+      "name": "Kabupaten Bintan"
+    },
+    "district": {
+      "id": "21.01.09",
+      "name": "Tambelan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

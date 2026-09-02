@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "17.06.14.2001",
+      "name": "Dusun Baru V Koto",
+      "postal_code": "38765",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.06",
+        "name": "Kabupaten Mukomuko"
+      },
+      "district": {
+        "id": "17.06.14",
+        "name": "Air Dikit"
+      }
+    },
+    {
+      "id": "17.06.14.2002",
+      "name": "Air Dikit",
+      "postal_code": "38765",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.06",
+        "name": "Kabupaten Mukomuko"
+      },
+      "district": {
+        "id": "17.06.14",
+        "name": "Air Dikit"
+      }
+    },
+    {
+      "id": "17.06.14.2003",
+      "name": "Pondok Lunang",
+      "postal_code": "38765",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.06",
+        "name": "Kabupaten Mukomuko"
+      },
+      "district": {
+        "id": "17.06.14",
+        "name": "Air Dikit"
+      }
+    },
+    {
+      "id": "17.06.14.2004",
+      "name": "Sari Bulan",
+      "postal_code": "38765",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.06",
+        "name": "Kabupaten Mukomuko"
+      },
+      "district": {
+        "id": "17.06.14",
+        "name": "Air Dikit"
+      }
+    },
+    {
+      "id": "17.06.14.2005",
+      "name": "Sari Makmur",
+      "postal_code": "38765",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.06",
+        "name": "Kabupaten Mukomuko"
+      },
+      "district": {
+        "id": "17.06.14",
+        "name": "Air Dikit"
+      }
+    },
+    {
+      "id": "17.06.14.2006",
+      "name": "Sumber Sari",
+      "postal_code": "38765",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.06",
+        "name": "Kabupaten Mukomuko"
+      },
+      "district": {
+        "id": "17.06.14",
+        "name": "Air Dikit"
+      }
+    },
+    {
+      "id": "17.06.14.2007",
+      "name": "Air Kasai",
+      "postal_code": "38765",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.06",
+        "name": "Kabupaten Mukomuko"
+      },
+      "district": {
+        "id": "17.06.14",
+        "name": "Air Dikit"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

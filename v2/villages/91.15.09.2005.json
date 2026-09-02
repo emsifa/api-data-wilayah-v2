@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "91.15.09.2005",
+    "name": "Harapan Jaya",
+    "postal_code": "98661",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.15",
+      "name": "Kabupaten Waropen"
+    },
+    "district": {
+      "id": "91.15.09",
+      "name": "Inggerus"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

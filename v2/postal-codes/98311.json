@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "92.02.13.1001",
+      "name": "Pasir Putih",
+      "postal_code": "98311",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.02",
+        "name": "Kabupaten Manokwari"
+      },
+      "district": {
+        "id": "92.02.13",
+        "name": "Manokwari Timur"
+      }
+    },
+    {
+      "id": "92.02.13.2002",
+      "name": "Mansinam",
+      "postal_code": "98311",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.02",
+        "name": "Kabupaten Manokwari"
+      },
+      "district": {
+        "id": "92.02.13",
+        "name": "Manokwari Timur"
+      }
+    },
+    {
+      "id": "92.02.13.2003",
+      "name": "Ayambori",
+      "postal_code": "98311",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.02",
+        "name": "Kabupaten Manokwari"
+      },
+      "district": {
+        "id": "92.02.13",
+        "name": "Manokwari Timur"
+      }
+    },
+    {
+      "id": "92.02.13.2004",
+      "name": "Bakaro",
+      "postal_code": "98311",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.02",
+        "name": "Kabupaten Manokwari"
+      },
+      "district": {
+        "id": "92.02.13",
+        "name": "Manokwari Timur"
+      }
+    },
+    {
+      "id": "92.02.13.2005",
+      "name": "Arowi",
+      "postal_code": "98311",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.02",
+        "name": "Kabupaten Manokwari"
+      },
+      "district": {
+        "id": "92.02.13",
+        "name": "Manokwari Timur"
+      }
+    },
+    {
+      "id": "92.02.13.2006",
+      "name": "Aipiri",
+      "postal_code": "98311",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.02",
+        "name": "Kabupaten Manokwari"
+      },
+      "district": {
+        "id": "92.02.13",
+        "name": "Manokwari Timur"
+      }
+    },
+    {
+      "id": "92.02.13.2007",
+      "name": "Susweni",
+      "postal_code": "98311",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.02",
+        "name": "Kabupaten Manokwari"
+      },
+      "district": {
+        "id": "92.02.13",
+        "name": "Manokwari Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

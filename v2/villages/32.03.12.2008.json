@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.03.12.2008",
+    "name": "Ciramagirang",
+    "postal_code": "43291",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.03",
+      "name": "Kabupaten Cianjur"
+    },
+    "district": {
+      "id": "32.03.12",
+      "name": "Cikalongkulon"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

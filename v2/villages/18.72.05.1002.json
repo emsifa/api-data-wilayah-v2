@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.72.05.1002",
+    "name": "Margorejo",
+    "postal_code": "34121",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.72",
+      "name": "Kota Metro"
+    },
+    "district": {
+      "id": "18.72.05",
+      "name": "Metro Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

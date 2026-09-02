@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.07.16.2011",
+    "name": "Sungai Tapah",
+    "postal_code": "28983",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.07",
+      "name": "Kabupaten Rokan Hilir"
+    },
+    "district": {
+      "id": "14.07.16",
+      "name": "Tanjung Medan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

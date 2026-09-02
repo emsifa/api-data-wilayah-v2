@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.72.05.1002",
+    "name": "Mundam",
+    "postal_code": "28825",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.72",
+      "name": "Kota Dumai"
+    },
+    "district": {
+      "id": "14.72.05",
+      "name": "Medang Kampai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

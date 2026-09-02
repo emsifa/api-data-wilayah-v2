@@ -1,0 +1,263 @@
+{
+  "data": [
+    {
+      "id": "11.01.07.2001",
+      "name": "Sikulat",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    },
+    {
+      "id": "11.01.07.2002",
+      "name": "Sawang I",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    },
+    {
+      "id": "11.01.07.2003",
+      "name": "Meuligo",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    },
+    {
+      "id": "11.01.07.2004",
+      "name": "Lhok Pawoh",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    },
+    {
+      "id": "11.01.07.2005",
+      "name": "Sawang II",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    },
+    {
+      "id": "11.01.07.2006",
+      "name": "Ujung Karang",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    },
+    {
+      "id": "11.01.07.2007",
+      "name": "Trieng Meuduro Baroh",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    },
+    {
+      "id": "11.01.07.2008",
+      "name": "Trieng Meuduro Tunong",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    },
+    {
+      "id": "11.01.07.2009",
+      "name": "Panton Luas",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    },
+    {
+      "id": "11.01.07.2010",
+      "name": "Simpang Tiga",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    },
+    {
+      "id": "11.01.07.2011",
+      "name": "Kuta Baro",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    },
+    {
+      "id": "11.01.07.2012",
+      "name": "Blang Geulinggang",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    },
+    {
+      "id": "11.01.07.2013",
+      "name": "Mutiara",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    },
+    {
+      "id": "11.01.07.2014",
+      "name": "Ujung Padang",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    },
+    {
+      "id": "11.01.07.2015",
+      "name": "Sawang Ba'u",
+      "postal_code": "23753",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.07",
+        "name": "Sawang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

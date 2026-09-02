@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.18.15.2007",
+    "name": "Sei Bamban Estate",
+    "postal_code": "20995",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.18",
+      "name": "Kabupaten Serdang Bedagai"
+    },
+    "district": {
+      "id": "12.18.15",
+      "name": "Sei Bamban"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

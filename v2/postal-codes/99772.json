@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "93.04.15.2001",
+      "name": "Kawem",
+      "postal_code": "99772",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.15",
+        "name": "Kopay"
+      }
+    },
+    {
+      "id": "93.04.15.2002",
+      "name": "Hahare",
+      "postal_code": "99772",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.15",
+        "name": "Kopay"
+      }
+    },
+    {
+      "id": "93.04.15.2003",
+      "name": "Aikut",
+      "postal_code": "99772",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.15",
+        "name": "Kopay"
+      }
+    },
+    {
+      "id": "93.04.15.2004",
+      "name": "Sanem",
+      "postal_code": "99772",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.15",
+        "name": "Kopay"
+      }
+    },
+    {
+      "id": "93.04.15.2005",
+      "name": "Kaipom",
+      "postal_code": "99772",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.15",
+        "name": "Kopay"
+      }
+    },
+    {
+      "id": "93.04.15.2006",
+      "name": "Airo Sapem",
+      "postal_code": "99772",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.15",
+        "name": "Kopay"
+      }
+    },
+    {
+      "id": "93.04.15.2007",
+      "name": "Simipit",
+      "postal_code": "99772",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.15",
+        "name": "Kopay"
+      }
+    },
+    {
+      "id": "93.04.15.2008",
+      "name": "Heiyaram",
+      "postal_code": "99772",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.15",
+        "name": "Kopay"
+      }
+    },
+    {
+      "id": "93.04.15.2009",
+      "name": "Wagasu",
+      "postal_code": "99772",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.15",
+        "name": "Kopay"
+      }
+    },
+    {
+      "id": "93.04.15.2010",
+      "name": "Sasime",
+      "postal_code": "99772",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.15",
+        "name": "Kopay"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

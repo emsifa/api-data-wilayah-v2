@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.10.08.2007",
+    "name": "Selat Akar",
+    "postal_code": "28751",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.10",
+      "name": "Kabupaten Kepulauan Meranti"
+    },
+    "district": {
+      "id": "14.10.08",
+      "name": "Tasik Putri Puyu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

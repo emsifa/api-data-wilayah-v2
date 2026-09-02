@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.28.06.2004",
+    "name": "Akkor",
+    "postal_code": "69362",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.28",
+      "name": "Kabupaten Pamekasan"
+    },
+    "district": {
+      "id": "35.28.06",
+      "name": "Palengaan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

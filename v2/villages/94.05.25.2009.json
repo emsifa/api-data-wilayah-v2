@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.05.25.2009",
+    "name": "Ai Arama",
+    "postal_code": "98962",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.05",
+      "name": "Kabupaten Puncak"
+    },
+    "district": {
+      "id": "94.05.25",
+      "name": "Erelmakawia"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

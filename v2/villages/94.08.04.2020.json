@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.08.04.2020",
+    "name": "Onago II",
+    "postal_code": "98761",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.08",
+      "name": "Kabupaten Deiyai"
+    },
+    "district": {
+      "id": "94.08.04",
+      "name": "Tigi Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

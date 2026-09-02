@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.01.01.2001",
+    "name": "Jangkaran",
+    "postal_code": "55654",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.01",
+      "name": "Kabupaten Kulon Progo"
+    },
+    "district": {
+      "id": "34.01.01",
+      "name": "Temon"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

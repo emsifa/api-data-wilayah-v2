@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.13.04.2004",
+    "name": "Akkotengeng",
+    "postal_code": "90982",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.13",
+      "name": "Kabupaten Wajo"
+    },
+    "district": {
+      "id": "73.13.04",
+      "name": "Sajoanging"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

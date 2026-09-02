@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.08.08.2027",
+    "name": "Laga Baro",
+    "postal_code": "24374",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.08",
+      "name": "Kabupaten Aceh Utara"
+    },
+    "district": {
+      "id": "11.08.08",
+      "name": "Samudera"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

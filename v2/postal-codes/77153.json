@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "65.04.02.2001",
+      "name": "Sesayap",
+      "postal_code": "77153",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.04",
+        "name": "Kabupaten Tana Tidung"
+      },
+      "district": {
+        "id": "65.04.02",
+        "name": "Sesayap Hilir"
+      }
+    },
+    {
+      "id": "65.04.02.2002",
+      "name": "Sengkong",
+      "postal_code": "77153",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.04",
+        "name": "Kabupaten Tana Tidung"
+      },
+      "district": {
+        "id": "65.04.02",
+        "name": "Sesayap Hilir"
+      }
+    },
+    {
+      "id": "65.04.02.2003",
+      "name": "Bebatu",
+      "postal_code": "77153",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.04",
+        "name": "Kabupaten Tana Tidung"
+      },
+      "district": {
+        "id": "65.04.02",
+        "name": "Sesayap Hilir"
+      }
+    },
+    {
+      "id": "65.04.02.2004",
+      "name": "Bandan Bikis",
+      "postal_code": "77153",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.04",
+        "name": "Kabupaten Tana Tidung"
+      },
+      "district": {
+        "id": "65.04.02",
+        "name": "Sesayap Hilir"
+      }
+    },
+    {
+      "id": "65.04.02.2005",
+      "name": "Sepala Dalung",
+      "postal_code": "77153",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.04",
+        "name": "Kabupaten Tana Tidung"
+      },
+      "district": {
+        "id": "65.04.02",
+        "name": "Sesayap Hilir"
+      }
+    },
+    {
+      "id": "65.04.02.2006",
+      "name": "Seludau",
+      "postal_code": "77153",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.04",
+        "name": "Kabupaten Tana Tidung"
+      },
+      "district": {
+        "id": "65.04.02",
+        "name": "Sesayap Hilir"
+      }
+    },
+    {
+      "id": "65.04.02.2007",
+      "name": "Menjelutung",
+      "postal_code": "77153",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.04",
+        "name": "Kabupaten Tana Tidung"
+      },
+      "district": {
+        "id": "65.04.02",
+        "name": "Sesayap Hilir"
+      }
+    },
+    {
+      "id": "65.04.02.2008",
+      "name": "Sesayap Selor",
+      "postal_code": "77153",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.04",
+        "name": "Kabupaten Tana Tidung"
+      },
+      "district": {
+        "id": "65.04.02",
+        "name": "Sesayap Hilir"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

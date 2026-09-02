@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.06.06.2001",
+    "name": "Duwet",
+    "postal_code": "64174",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.06",
+      "name": "Kabupaten Kediri"
+    },
+    "district": {
+      "id": "35.06.06",
+      "name": "Wates"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

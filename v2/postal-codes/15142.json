@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "36.71.11.1007",
+      "name": "Cipete",
+      "postal_code": "15142",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.11",
+        "name": "Pinang"
+      }
+    },
+    {
+      "id": "36.71.11.1008",
+      "name": "Pakojan",
+      "postal_code": "15142",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.11",
+        "name": "Pinang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

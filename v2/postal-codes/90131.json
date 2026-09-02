@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "73.71.02.1005",
+      "name": "Maricaya Selatan",
+      "postal_code": "90131",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.71",
+        "name": "Kota Makassar"
+      },
+      "district": {
+        "id": "73.71.02",
+        "name": "Mamajang"
+      }
+    },
+    {
+      "id": "73.71.02.1007",
+      "name": "Pa'batang",
+      "postal_code": "90131",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.71",
+        "name": "Kota Makassar"
+      },
+      "district": {
+        "id": "73.71.02",
+        "name": "Mamajang"
+      }
+    },
+    {
+      "id": "73.71.02.1012",
+      "name": "Baji Mappakasunggu",
+      "postal_code": "90131",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.71",
+        "name": "Kota Makassar"
+      },
+      "district": {
+        "id": "73.71.02",
+        "name": "Mamajang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

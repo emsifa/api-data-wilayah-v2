@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.05.18.2005",
+    "name": "Muara Kati Lama",
+    "postal_code": "31660",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.05",
+      "name": "Kabupaten Musi Rawas"
+    },
+    "district": {
+      "id": "16.05.18",
+      "name": "Tiang Pumpung Kepungut"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

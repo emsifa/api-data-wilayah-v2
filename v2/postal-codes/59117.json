@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "33.18.10.1015",
+      "name": "Kalidoro",
+      "postal_code": "59117",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.18",
+        "name": "Kabupaten Pati"
+      },
+      "district": {
+        "id": "33.18.10",
+        "name": "Pati"
+      }
+    },
+    {
+      "id": "33.18.10.2003",
+      "name": "Mustokoharjo",
+      "postal_code": "59117",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.18",
+        "name": "Kabupaten Pati"
+      },
+      "district": {
+        "id": "33.18.10",
+        "name": "Pati"
+      }
+    },
+    {
+      "id": "33.18.10.2014",
+      "name": "Sidoharjo",
+      "postal_code": "59117",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.18",
+        "name": "Kabupaten Pati"
+      },
+      "district": {
+        "id": "33.18.10",
+        "name": "Pati"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

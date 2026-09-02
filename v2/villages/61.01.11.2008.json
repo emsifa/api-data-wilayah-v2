@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.01.11.2008",
+    "name": "Tri Gadu",
+    "postal_code": "79453",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.01",
+      "name": "Kabupaten Sambas"
+    },
+    "district": {
+      "id": "61.01.11",
+      "name": "Galing"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

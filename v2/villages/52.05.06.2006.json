@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.05.06.2006",
+    "name": "Tambora",
+    "postal_code": "84260",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.05",
+      "name": "Kabupaten Dompu"
+    },
+    "district": {
+      "id": "52.05.06",
+      "name": "Pekat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

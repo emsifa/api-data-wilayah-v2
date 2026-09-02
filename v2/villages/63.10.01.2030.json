@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.10.01.2030",
+    "name": "Maju Bersama",
+    "postal_code": "72216",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.10",
+      "name": "Kabupaten Tanah Bumbu"
+    },
+    "district": {
+      "id": "63.10.01",
+      "name": "Batu Licin"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

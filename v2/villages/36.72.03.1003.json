@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.72.03.1003",
+    "name": "Mekarsari",
+    "postal_code": "42438",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.72",
+      "name": "Kota Cilegon"
+    },
+    "district": {
+      "id": "36.72.03",
+      "name": "Pulomerak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

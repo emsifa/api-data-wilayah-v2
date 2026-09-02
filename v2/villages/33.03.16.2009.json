@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.03.16.2009",
+    "name": "Tetel",
+    "postal_code": "53393",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.03",
+      "name": "Kabupaten Purbalingga"
+    },
+    "district": {
+      "id": "33.03.16",
+      "name": "Pengadegan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

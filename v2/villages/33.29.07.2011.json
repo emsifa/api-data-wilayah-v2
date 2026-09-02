@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.29.07.2011",
+    "name": "Kedungtukang",
+    "postal_code": "52261",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.29",
+      "name": "Kabupaten Brebes"
+    },
+    "district": {
+      "id": "33.29.07",
+      "name": "Jatibarang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

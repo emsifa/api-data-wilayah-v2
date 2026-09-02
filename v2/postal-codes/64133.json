@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "35.71.03.1003",
+      "name": "Tosaren",
+      "postal_code": "64133",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.71",
+        "name": "Kota Kediri"
+      },
+      "district": {
+        "id": "35.71.03",
+        "name": "Pesantren"
+      }
+    },
+    {
+      "id": "35.71.03.1014",
+      "name": "Banaran",
+      "postal_code": "64133",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.71",
+        "name": "Kota Kediri"
+      },
+      "district": {
+        "id": "35.71.03",
+        "name": "Pesantren"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

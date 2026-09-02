@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.71.10.1001",
+    "name": "Barombong",
+    "postal_code": "90225",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.71",
+      "name": "Kota Makassar"
+    },
+    "district": {
+      "id": "73.71.10",
+      "name": "Tamalate"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

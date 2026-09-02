@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.22.22.2006",
+    "name": "Geneng",
+    "postal_code": "62168",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.22",
+      "name": "Kabupaten Bojonegoro"
+    },
+    "district": {
+      "id": "35.22.22",
+      "name": "Margomulyo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

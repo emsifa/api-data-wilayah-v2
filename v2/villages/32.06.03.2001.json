@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.06.03.2001",
+    "name": "Cikalong",
+    "postal_code": "46195",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.06",
+      "name": "Kabupaten Tasikmalaya"
+    },
+    "district": {
+      "id": "32.06.03",
+      "name": "Cikalong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

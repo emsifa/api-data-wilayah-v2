@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "19.01.02.1001",
+      "name": "Kuto Panji",
+      "postal_code": "33253",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.02",
+        "name": "Belinyu"
+      }
+    },
+    {
+      "id": "19.01.02.1002",
+      "name": "Air Jukung",
+      "postal_code": "33253",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.02",
+        "name": "Belinyu"
+      }
+    },
+    {
+      "id": "19.01.02.1003",
+      "name": "Bukit Ketok",
+      "postal_code": "33253",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.02",
+        "name": "Belinyu"
+      }
+    },
+    {
+      "id": "19.01.02.1009",
+      "name": "Remodong Indah",
+      "postal_code": "33253",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.02",
+        "name": "Belinyu"
+      }
+    },
+    {
+      "id": "19.01.02.1010",
+      "name": "Air Asam",
+      "postal_code": "33253",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.02",
+        "name": "Belinyu"
+      }
+    },
+    {
+      "id": "19.01.02.1011",
+      "name": "Mantung",
+      "postal_code": "33253",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.02",
+        "name": "Belinyu"
+      }
+    },
+    {
+      "id": "19.01.02.1012",
+      "name": "Belinyu",
+      "postal_code": "33253",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.02",
+        "name": "Belinyu"
+      }
+    },
+    {
+      "id": "19.01.02.2004",
+      "name": "Gunung Muda",
+      "postal_code": "33253",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.02",
+        "name": "Belinyu"
+      }
+    },
+    {
+      "id": "19.01.02.2005",
+      "name": "Gunung Pelawan",
+      "postal_code": "33253",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.02",
+        "name": "Belinyu"
+      }
+    },
+    {
+      "id": "19.01.02.2006",
+      "name": "Riding Panjang",
+      "postal_code": "33253",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.02",
+        "name": "Belinyu"
+      }
+    },
+    {
+      "id": "19.01.02.2007",
+      "name": "Lumut",
+      "postal_code": "33253",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.02",
+        "name": "Belinyu"
+      }
+    },
+    {
+      "id": "19.01.02.2008",
+      "name": "Bintet",
+      "postal_code": "33253",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.02",
+        "name": "Belinyu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

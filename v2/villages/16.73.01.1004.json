@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.73.01.1004",
+    "name": "Nikan Jaya",
+    "postal_code": "31628",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.73",
+      "name": "Kota Lubuk Linggau"
+    },
+    "district": {
+      "id": "16.73.01",
+      "name": "Lubuk Linggau Timur I"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

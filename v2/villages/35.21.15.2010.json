@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.21.15.2010",
+    "name": "Kenongorejo",
+    "postal_code": "63285",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.21",
+      "name": "Kabupaten Ngawi"
+    },
+    "district": {
+      "id": "35.21.15",
+      "name": "Bringin"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

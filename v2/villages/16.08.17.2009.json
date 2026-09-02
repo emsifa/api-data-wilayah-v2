@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.08.17.2009",
+    "name": "Karya Makmur",
+    "postal_code": "32380",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.08",
+      "name": "Kabupaten Ogan Komering Ulu Timur"
+    },
+    "district": {
+      "id": "16.08.17",
+      "name": "Belitang Jaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

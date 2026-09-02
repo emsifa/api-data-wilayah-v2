@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.12.09.2003",
+    "name": "Cot Bak-U",
+    "postal_code": "23762",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.12",
+      "name": "Kabupaten Aceh Barat Daya"
+    },
+    "district": {
+      "id": "11.12.09",
+      "name": "Lembah Sabil"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

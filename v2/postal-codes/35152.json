@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "18.71.03.1011",
+      "name": "Segalamider",
+      "postal_code": "35152",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.03",
+        "name": "Tanjungkarang Barat"
+      }
+    },
+    {
+      "id": "18.71.16.1003",
+      "name": "Gunungterang",
+      "postal_code": "35152",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.16",
+        "name": "Langkapura"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

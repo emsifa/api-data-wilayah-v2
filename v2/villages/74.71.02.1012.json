@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.71.02.1012",
+    "name": "Mangga Dua",
+    "postal_code": "93128",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.71",
+      "name": "Kota Kendari"
+    },
+    "district": {
+      "id": "74.71.02",
+      "name": "Kendari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

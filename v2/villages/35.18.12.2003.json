@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.18.12.2003",
+    "name": "Blitaran",
+    "postal_code": "64481",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.18",
+      "name": "Kabupaten Nganjuk"
+    },
+    "district": {
+      "id": "35.18.12",
+      "name": "Sukomoro"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

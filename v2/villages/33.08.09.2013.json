@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.08.09.2013",
+    "name": "Blondo",
+    "postal_code": "56512",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.08",
+      "name": "Kabupaten Magelang"
+    },
+    "district": {
+      "id": "33.08.09",
+      "name": "Mungkid"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

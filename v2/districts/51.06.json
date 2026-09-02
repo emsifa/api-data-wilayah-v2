@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "51.06",
+    "name": "Kabupaten Bangli",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.06",
+      "name": "Kabupaten Bangli"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

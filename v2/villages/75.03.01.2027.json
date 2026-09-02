@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.03.01.2027",
+    "name": "Talulobutu Selatan",
+    "postal_code": "96545",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.03",
+      "name": "Kabupaten Bone Bolango"
+    },
+    "district": {
+      "id": "75.03.01",
+      "name": "Tapa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

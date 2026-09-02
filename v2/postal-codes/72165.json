@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "63.02.10.2001",
+      "name": "Sungai Hanyar",
+      "postal_code": "72165",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.10",
+        "name": "Kelumpang Utara"
+      }
+    },
+    {
+      "id": "63.02.10.2002",
+      "name": "Sungai Seluang",
+      "postal_code": "72165",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.10",
+        "name": "Kelumpang Utara"
+      }
+    },
+    {
+      "id": "63.02.10.2003",
+      "name": "Pudi",
+      "postal_code": "72165",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.10",
+        "name": "Kelumpang Utara"
+      }
+    },
+    {
+      "id": "63.02.10.2004",
+      "name": "Mangga",
+      "postal_code": "72165",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.10",
+        "name": "Kelumpang Utara"
+      }
+    },
+    {
+      "id": "63.02.10.2005",
+      "name": "Wilas",
+      "postal_code": "72165",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.10",
+        "name": "Kelumpang Utara"
+      }
+    },
+    {
+      "id": "63.02.10.2006",
+      "name": "Pudi Seberang",
+      "postal_code": "72165",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.10",
+        "name": "Kelumpang Utara"
+      }
+    },
+    {
+      "id": "63.02.10.2007",
+      "name": "Sulangkit",
+      "postal_code": "72165",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.02",
+        "name": "Kabupaten Kotabaru"
+      },
+      "district": {
+        "id": "63.02.10",
+        "name": "Kelumpang Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

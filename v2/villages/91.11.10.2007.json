@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "91.11.10.2007",
+    "name": "Akarinda",
+    "postal_code": "99463",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.11",
+      "name": "Kabupaten Keerom"
+    },
+    "district": {
+      "id": "91.11.10",
+      "name": "Yaffi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

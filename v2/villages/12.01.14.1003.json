@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.01.14.1003",
+    "name": "Huta Nabolon",
+    "postal_code": "22617",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.01",
+      "name": "Kabupaten Tapanuli Tengah"
+    },
+    "district": {
+      "id": "12.01.14",
+      "name": "Tukka"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

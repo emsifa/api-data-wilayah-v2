@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.01.03.2008",
+    "name": "Cibingbin",
+    "postal_code": "42285",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.01",
+      "name": "Kabupaten Pandeglang"
+    },
+    "district": {
+      "id": "36.01.03",
+      "name": "Cibaliung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

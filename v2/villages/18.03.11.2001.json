@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.03.11.2001",
+    "name": "Gunung Besar",
+    "postal_code": "34584",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.03",
+      "name": "Kabupaten Lampung Utara"
+    },
+    "district": {
+      "id": "18.03.11",
+      "name": "Abung Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

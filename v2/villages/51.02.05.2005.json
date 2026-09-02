@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.02.05.2005",
+    "name": "Dauh Peken",
+    "postal_code": "82111",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.02",
+      "name": "Kabupaten Tabanan"
+    },
+    "district": {
+      "id": "51.02.05",
+      "name": "Tabanan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

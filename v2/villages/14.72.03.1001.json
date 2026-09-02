@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.72.03.1001",
+    "name": "Bukit Nenas",
+    "postal_code": "28882",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.72",
+      "name": "Kota Dumai"
+    },
+    "district": {
+      "id": "14.72.03",
+      "name": "Bukit Kapur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

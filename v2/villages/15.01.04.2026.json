@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.01.04.2026",
+    "name": "Ambai Bawah",
+    "postal_code": "37171",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.01",
+      "name": "Kabupaten Kerinci"
+    },
+    "district": {
+      "id": "15.01.04",
+      "name": "Sitinjau Laut"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

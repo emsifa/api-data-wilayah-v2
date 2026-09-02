@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.08.13.2007",
+    "name": "Seberang",
+    "postal_code": "92764",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.08",
+      "name": "Kabupaten Bone"
+    },
+    "district": {
+      "id": "73.08.13",
+      "name": "Lamuru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.03.09.2002",
+    "name": "Wiladeg",
+    "postal_code": "55891",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.03",
+      "name": "Kabupaten Gunungkidul"
+    },
+    "district": {
+      "id": "34.03.09",
+      "name": "Karangmojo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

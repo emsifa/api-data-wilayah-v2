@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.02.09.2011",
+    "name": "Wonosari",
+    "postal_code": "29353",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.02",
+      "name": "Kabupaten Indragiri Hulu"
+    },
+    "district": {
+      "id": "14.02.09",
+      "name": "Lirik"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

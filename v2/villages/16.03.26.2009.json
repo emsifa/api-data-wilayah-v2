@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.03.26.2009",
+    "name": "Dangku",
+    "postal_code": "31172",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.03",
+      "name": "Kabupaten Muara Enim"
+    },
+    "district": {
+      "id": "16.03.26",
+      "name": "Empat Petulai Dangku"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

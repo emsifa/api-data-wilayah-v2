@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "33.25.11.1015",
+      "name": "Kauman",
+      "postal_code": "51215",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.25",
+        "name": "Kabupaten Batang"
+      },
+      "district": {
+        "id": "33.25.11",
+        "name": "Batang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

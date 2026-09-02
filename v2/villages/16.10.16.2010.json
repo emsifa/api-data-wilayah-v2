@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.10.16.2010",
+    "name": "Seri Kembang II",
+    "postal_code": "30664",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.10",
+      "name": "Kabupaten Ogan Ilir"
+    },
+    "district": {
+      "id": "16.10.16",
+      "name": "Payaraman"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "73.08.23.1005",
+      "name": "Palette",
+      "postal_code": "92719",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.23",
+        "name": "Tanete Riattang Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

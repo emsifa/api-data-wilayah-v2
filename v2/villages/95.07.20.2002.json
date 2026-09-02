@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.07.20.2002",
+    "name": "Wirini",
+    "postal_code": "99576",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.07",
+      "name": "Kabupaten Lanny Jaya"
+    },
+    "district": {
+      "id": "95.07.20",
+      "name": "Gollo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

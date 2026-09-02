@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.17.10.2004",
+    "name": "Babang",
+    "postal_code": "91998",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.17",
+      "name": "Kabupaten Luwu"
+    },
+    "district": {
+      "id": "73.17.10",
+      "name": "Larompong Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

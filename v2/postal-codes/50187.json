@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "33.22.13.2004",
+      "name": "Gondoriyo",
+      "postal_code": "50187",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.22",
+        "name": "Kabupaten Semarang"
+      },
+      "district": {
+        "id": "33.22.13",
+        "name": "Bergas"
+      }
+    },
+    {
+      "id": "33.74.15.1001",
+      "name": "Gondoriyo",
+      "postal_code": "50187",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.74",
+        "name": "Kota Semarang"
+      },
+      "district": {
+        "id": "33.74.15",
+        "name": "Ngaliyan"
+      }
+    },
+    {
+      "id": "33.74.15.1002",
+      "name": "Podorejo",
+      "postal_code": "50187",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.74",
+        "name": "Kota Semarang"
+      },
+      "district": {
+        "id": "33.74.15",
+        "name": "Ngaliyan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

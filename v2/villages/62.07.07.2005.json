@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.07.07.2005",
+    "name": "Bangkal",
+    "postal_code": "74260",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.07",
+      "name": "Kabupaten Seruyan"
+    },
+    "district": {
+      "id": "62.07.07",
+      "name": "Seruyan Raya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

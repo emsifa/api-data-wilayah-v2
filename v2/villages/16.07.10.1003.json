@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.07.10.1003",
+    "name": "Sukomoro",
+    "postal_code": "30961",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.07",
+      "name": "Kabupaten Banyuasin"
+    },
+    "district": {
+      "id": "16.07.10",
+      "name": "Talang Kelapa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

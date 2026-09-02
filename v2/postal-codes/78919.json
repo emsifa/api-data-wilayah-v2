@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "61.02.01.2001",
+      "name": "Sengkubang",
+      "postal_code": "78919",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.02",
+        "name": "Kabupaten Mempawah"
+      },
+      "district": {
+        "id": "61.02.01",
+        "name": "Mempawah Hilir"
+      }
+    },
+    {
+      "id": "61.02.01.2002",
+      "name": "Penibung",
+      "postal_code": "78919",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.02",
+        "name": "Kabupaten Mempawah"
+      },
+      "district": {
+        "id": "61.02.01",
+        "name": "Mempawah Hilir"
+      }
+    },
+    {
+      "id": "61.02.01.2003",
+      "name": "Pasir",
+      "postal_code": "78919",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.02",
+        "name": "Kabupaten Mempawah"
+      },
+      "district": {
+        "id": "61.02.01",
+        "name": "Mempawah Hilir"
+      }
+    },
+    {
+      "id": "61.02.01.2015",
+      "name": "Malikian",
+      "postal_code": "78919",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.02",
+        "name": "Kabupaten Mempawah"
+      },
+      "district": {
+        "id": "61.02.01",
+        "name": "Mempawah Hilir"
+      }
+    },
+    {
+      "id": "61.02.18.2007",
+      "name": "Sungai Bakau Kecil",
+      "postal_code": "78919",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.02",
+        "name": "Kabupaten Mempawah"
+      },
+      "district": {
+        "id": "61.02.18",
+        "name": "Mempawah Timur"
+      }
+    },
+    {
+      "id": "61.02.18.2008",
+      "name": "Parit Banjar",
+      "postal_code": "78919",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.02",
+        "name": "Kabupaten Mempawah"
+      },
+      "district": {
+        "id": "61.02.18",
+        "name": "Mempawah Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

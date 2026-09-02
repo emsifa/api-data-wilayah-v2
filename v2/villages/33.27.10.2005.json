@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.27.10.2005",
+    "name": "Serang",
+    "postal_code": "52362",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.27",
+      "name": "Kabupaten Pemalang"
+    },
+    "district": {
+      "id": "33.27.10",
+      "name": "Petarukan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

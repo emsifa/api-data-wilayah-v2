@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.25.06.2010",
+    "name": "Rejosari Barat",
+    "postal_code": "51272",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.25",
+      "name": "Kabupaten Batang"
+    },
+    "district": {
+      "id": "33.25.06",
+      "name": "Tersono"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

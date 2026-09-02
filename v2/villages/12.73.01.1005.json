@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.73.01.1005",
+    "name": "Simare-Mare",
+    "postal_code": "22513",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.73",
+      "name": "Kota Sibolga"
+    },
+    "district": {
+      "id": "12.73.01",
+      "name": "Sibolga Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

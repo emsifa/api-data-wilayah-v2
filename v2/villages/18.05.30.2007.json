@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.05.30.2007",
+    "name": "Cempaka Dalem",
+    "postal_code": "34619",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.05",
+      "name": "Kabupaten Tulang Bawang"
+    },
+    "district": {
+      "id": "18.05.30",
+      "name": "Menggala Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

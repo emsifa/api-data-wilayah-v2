@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "63.72.02.1004",
+      "name": "Guntung Payung",
+      "postal_code": "70721",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.72",
+        "name": "Kota Banjarbaru"
+      },
+      "district": {
+        "id": "63.72.02",
+        "name": "Landasan Ulin"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

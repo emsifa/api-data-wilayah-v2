@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.13.06.2001",
+    "name": "Kangkunawe",
+    "postal_code": "93643",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.13",
+      "name": "Kabupaten Muna Barat"
+    },
+    "district": {
+      "id": "74.13.06",
+      "name": "Maginti"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

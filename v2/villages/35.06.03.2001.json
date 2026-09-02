@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.06.03.2001",
+    "name": "Setonorejo",
+    "postal_code": "64172",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.06",
+      "name": "Kabupaten Kediri"
+    },
+    "district": {
+      "id": "35.06.03",
+      "name": "Kras"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

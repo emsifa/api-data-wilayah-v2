@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.02.09.2013",
+    "name": "Paccaramengang",
+    "postal_code": "92562",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.02",
+      "name": "Kabupaten Bulukumba"
+    },
+    "district": {
+      "id": "73.02.09",
+      "name": "Ujungloe"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

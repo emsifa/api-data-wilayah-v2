@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.03.09.2006",
+    "name": "Bobotsari",
+    "postal_code": "53353",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.03",
+      "name": "Kabupaten Purbalingga"
+    },
+    "district": {
+      "id": "33.03.09",
+      "name": "Bobotsari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

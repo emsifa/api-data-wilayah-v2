@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.78.01.1003",
+    "name": "Cilembang",
+    "postal_code": "46123",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.78",
+      "name": "Kota Tasikmalaya"
+    },
+    "district": {
+      "id": "32.78.01",
+      "name": "Cihideung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

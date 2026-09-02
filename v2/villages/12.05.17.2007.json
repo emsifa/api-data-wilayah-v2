@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.05.17.2007",
+    "name": "Lama Baru",
+    "postal_code": "20776",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.05",
+      "name": "Kabupaten Langkat"
+    },
+    "district": {
+      "id": "12.05.17",
+      "name": "Sei Lepan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

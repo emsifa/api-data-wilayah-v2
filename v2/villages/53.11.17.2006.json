@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.11.17.2006",
+    "name": "Maidang",
+    "postal_code": "87171",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.11",
+      "name": "Kabupaten Sumba Timur"
+    },
+    "district": {
+      "id": "53.11.17",
+      "name": "Kambata Mapambuhang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

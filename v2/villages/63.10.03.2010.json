@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.10.03.2010",
+    "name": "Dwi Marga Utama",
+    "postal_code": "72274",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.10",
+      "name": "Kabupaten Tanah Bumbu"
+    },
+    "district": {
+      "id": "63.10.03",
+      "name": "Sungai Loban"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "16.73.01.1001",
+      "name": "Air Kuti",
+      "postal_code": "31628",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.73",
+        "name": "Kota Lubuk Linggau"
+      },
+      "district": {
+        "id": "16.73.01",
+        "name": "Lubuk Linggau Timur I"
+      }
+    },
+    {
+      "id": "16.73.01.1002",
+      "name": "Majapahit",
+      "postal_code": "31628",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.73",
+        "name": "Kota Lubuk Linggau"
+      },
+      "district": {
+        "id": "16.73.01",
+        "name": "Lubuk Linggau Timur I"
+      }
+    },
+    {
+      "id": "16.73.01.1003",
+      "name": "Taba Jemekeh",
+      "postal_code": "31628",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.73",
+        "name": "Kota Lubuk Linggau"
+      },
+      "district": {
+        "id": "16.73.01",
+        "name": "Lubuk Linggau Timur I"
+      }
+    },
+    {
+      "id": "16.73.01.1004",
+      "name": "Nikan Jaya",
+      "postal_code": "31628",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.73",
+        "name": "Kota Lubuk Linggau"
+      },
+      "district": {
+        "id": "16.73.01",
+        "name": "Lubuk Linggau Timur I"
+      }
+    },
+    {
+      "id": "16.73.01.1005",
+      "name": "Taba Lestari",
+      "postal_code": "31628",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.73",
+        "name": "Kota Lubuk Linggau"
+      },
+      "district": {
+        "id": "16.73.01",
+        "name": "Lubuk Linggau Timur I"
+      }
+    },
+    {
+      "id": "16.73.01.1007",
+      "name": "Batu Urip Taba",
+      "postal_code": "31628",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.73",
+        "name": "Kota Lubuk Linggau"
+      },
+      "district": {
+        "id": "16.73.01",
+        "name": "Lubuk Linggau Timur I"
+      }
+    },
+    {
+      "id": "16.73.01.1015",
+      "name": "Taba Koji",
+      "postal_code": "31628",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.73",
+        "name": "Kota Lubuk Linggau"
+      },
+      "district": {
+        "id": "16.73.01",
+        "name": "Lubuk Linggau Timur I"
+      }
+    },
+    {
+      "id": "16.73.01.1016",
+      "name": "Watervang",
+      "postal_code": "31628",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.73",
+        "name": "Kota Lubuk Linggau"
+      },
+      "district": {
+        "id": "16.73.01",
+        "name": "Lubuk Linggau Timur I"
+      }
+    },
+    {
+      "id": "16.73.08.1006",
+      "name": "Megang",
+      "postal_code": "31628",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.73",
+        "name": "Kota Lubuk Linggau"
+      },
+      "district": {
+        "id": "16.73.08",
+        "name": "Lubuk Linggau Utara II"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

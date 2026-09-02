@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.03.09.2011",
+    "name": "Adora",
+    "postal_code": "98024",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.03",
+      "name": "Kabupaten Fak Fak"
+    },
+    "district": {
+      "id": "92.03.09",
+      "name": "Teluk Patipi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

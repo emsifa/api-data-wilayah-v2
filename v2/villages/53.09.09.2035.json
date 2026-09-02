@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.09.09.2035",
+    "name": "Lengkosambi Barat Daya",
+    "postal_code": "86419",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.09",
+      "name": "Kabupaten Ngada"
+    },
+    "district": {
+      "id": "53.09.09",
+      "name": "Riung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

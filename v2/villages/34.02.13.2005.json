@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.02.13.2005",
+    "name": "Wonolelo",
+    "postal_code": "55791",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.02",
+      "name": "Kabupaten Bantul"
+    },
+    "district": {
+      "id": "34.02.13",
+      "name": "Pleret"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

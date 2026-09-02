@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.08.07.2004",
+    "name": "Pandulangan",
+    "postal_code": "71416",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.08",
+      "name": "Kabupaten Hulu Sungai Utara"
+    },
+    "district": {
+      "id": "63.08.07",
+      "name": "Banjang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

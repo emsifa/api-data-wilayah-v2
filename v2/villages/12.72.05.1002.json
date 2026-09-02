@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.72.05.1002",
+    "name": "Sukaraja",
+    "postal_code": "21128",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.72",
+      "name": "Kota Pematangsiantar"
+    },
+    "district": {
+      "id": "12.72.05",
+      "name": "Siantar Marihat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

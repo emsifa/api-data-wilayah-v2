@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "12.05.22.2001",
+      "name": "Namotogan",
+      "postal_code": "20773",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.22",
+        "name": "Kutambaru"
+      }
+    },
+    {
+      "id": "12.05.22.2002",
+      "name": "Kuta Gajah",
+      "postal_code": "20773",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.22",
+        "name": "Kutambaru"
+      }
+    },
+    {
+      "id": "12.05.22.2003",
+      "name": "Perkebunan Marike",
+      "postal_code": "20773",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.22",
+        "name": "Kutambaru"
+      }
+    },
+    {
+      "id": "12.05.22.2004",
+      "name": "Kaperas",
+      "postal_code": "20773",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.22",
+        "name": "Kutambaru"
+      }
+    },
+    {
+      "id": "12.05.22.2005",
+      "name": "Namoteras",
+      "postal_code": "20773",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.22",
+        "name": "Kutambaru"
+      }
+    },
+    {
+      "id": "12.05.22.2006",
+      "name": "Rampah",
+      "postal_code": "20773",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.22",
+        "name": "Kutambaru"
+      }
+    },
+    {
+      "id": "12.05.22.2007",
+      "name": "Sulkam",
+      "postal_code": "20773",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.22",
+        "name": "Kutambaru"
+      }
+    },
+    {
+      "id": "12.05.22.2008",
+      "name": "Kutambaru",
+      "postal_code": "20773",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.22",
+        "name": "Kutambaru"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "33.03.04.2011",
+      "name": "Penaruban",
+      "postal_code": "53331",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.03",
+        "name": "Kabupaten Purbalingga"
+      },
+      "district": {
+        "id": "33.03.04",
+        "name": "Kaligondang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

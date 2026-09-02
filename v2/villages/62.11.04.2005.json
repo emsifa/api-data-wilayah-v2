@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.11.04.2005",
+    "name": "Hanua",
+    "postal_code": "74863",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.11",
+      "name": "Kabupaten Pulang Pisau"
+    },
+    "district": {
+      "id": "62.11.04",
+      "name": "Banama Tingang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.06.16.2001",
+    "name": "Nanga Dangkan",
+    "postal_code": "78774",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.06",
+      "name": "Kabupaten Kapuas Hulu"
+    },
+    "district": {
+      "id": "61.06.16",
+      "name": "Silat Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

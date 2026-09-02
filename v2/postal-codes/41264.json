@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "32.13.11.2002",
+      "name": "Rancasari",
+      "postal_code": "41264",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.11",
+        "name": "Pamanukan"
+      }
+    },
+    {
+      "id": "32.13.11.2003",
+      "name": "Rancahilir",
+      "postal_code": "41264",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.11",
+        "name": "Pamanukan"
+      }
+    },
+    {
+      "id": "32.13.11.2004",
+      "name": "Pamanukan",
+      "postal_code": "41264",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.11",
+        "name": "Pamanukan"
+      }
+    },
+    {
+      "id": "32.13.11.2006",
+      "name": "Pamanukan Hilir",
+      "postal_code": "41264",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.11",
+        "name": "Pamanukan"
+      }
+    },
+    {
+      "id": "32.13.11.2007",
+      "name": "Pamanukan Sebrang",
+      "postal_code": "41264",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.11",
+        "name": "Pamanukan"
+      }
+    },
+    {
+      "id": "32.13.11.2009",
+      "name": "Mulyasari",
+      "postal_code": "41264",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.11",
+        "name": "Pamanukan"
+      }
+    },
+    {
+      "id": "32.13.11.2010",
+      "name": "Lengkongjaya",
+      "postal_code": "41264",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.11",
+        "name": "Pamanukan"
+      }
+    },
+    {
+      "id": "32.13.11.2011",
+      "name": "Bongas",
+      "postal_code": "41264",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.11",
+        "name": "Pamanukan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

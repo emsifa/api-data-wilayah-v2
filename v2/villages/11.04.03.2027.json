@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.04.03.2027",
+    "name": "Colo Blang Gele",
+    "postal_code": "24552",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.04",
+      "name": "Kabupaten Aceh Tengah"
+    },
+    "district": {
+      "id": "11.04.03",
+      "name": "Bebesen"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

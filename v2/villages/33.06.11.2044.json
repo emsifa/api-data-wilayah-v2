@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.06.11.2044",
+    "name": "Somogede",
+    "postal_code": "54263",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.06",
+      "name": "Kabupaten Purworejo"
+    },
+    "district": {
+      "id": "33.06.11",
+      "name": "Pituruh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

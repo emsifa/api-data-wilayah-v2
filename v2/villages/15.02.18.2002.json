@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.02.18.2002",
+    "name": "Koto Teguh",
+    "postal_code": "37374",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.02",
+      "name": "Kabupaten Merangin"
+    },
+    "district": {
+      "id": "15.02.18",
+      "name": "Jangkat Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

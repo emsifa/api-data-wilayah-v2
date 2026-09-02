@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.27.13.2004",
+    "name": "Panyirangan",
+    "postal_code": "69271",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.27",
+      "name": "Kabupaten Sampang"
+    },
+    "district": {
+      "id": "35.27.13",
+      "name": "Pangarengan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

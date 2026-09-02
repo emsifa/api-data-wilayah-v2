@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "13.73.04.2007",
+    "name": "Datar Mansiang",
+    "postal_code": "27441",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.73",
+      "name": "Kota Sawahlunto"
+    },
+    "district": {
+      "id": "13.73.04",
+      "name": "Talawi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

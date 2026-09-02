@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "96.04.01.2006",
+    "name": "Syunam",
+    "postal_code": "98475",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.04",
+      "name": "Kabupaten Tambrauw"
+    },
+    "district": {
+      "id": "96.04.01",
+      "name": "Fef"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.01.07.2006",
+    "name": "Lelejae",
+    "postal_code": "91578",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.01",
+      "name": "Kabupaten Pasangkayu"
+    },
+    "district": {
+      "id": "76.01.07",
+      "name": "Bulu Taba"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

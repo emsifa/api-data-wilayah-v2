@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "16.07.03.1012",
+      "name": "Pangkalan Balai",
+      "postal_code": "30911",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.07",
+        "name": "Kabupaten Banyuasin"
+      },
+      "district": {
+        "id": "16.07.03",
+        "name": "Banyuasin III"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "63.03.05.1004",
+      "name": "Murung Keraton",
+      "postal_code": "70616",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.03",
+        "name": "Kabupaten Banjar"
+      },
+      "district": {
+        "id": "63.03.05",
+        "name": "Martapura"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

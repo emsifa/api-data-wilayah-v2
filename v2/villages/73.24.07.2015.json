@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.24.07.2015",
+    "name": "Burau Pantai",
+    "postal_code": "92975",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.24",
+      "name": "Kabupaten Luwu Timur"
+    },
+    "district": {
+      "id": "73.24.07",
+      "name": "Burau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "13.73.01.1001",
+      "name": "Aur Mulio",
+      "postal_code": "27418",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.73",
+        "name": "Kota Sawahlunto"
+      },
+      "district": {
+        "id": "13.73.01",
+        "name": "Lembah Segar"
+      }
+    },
+    {
+      "id": "13.73.01.2008",
+      "name": "Lunto Barat",
+      "postal_code": "27418",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.73",
+        "name": "Kota Sawahlunto"
+      },
+      "district": {
+        "id": "13.73.01",
+        "name": "Lembah Segar"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

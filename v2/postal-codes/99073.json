@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "95.05.05.2001",
+      "name": "Kalarin",
+      "postal_code": "99073",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.05",
+        "name": "Kabupaten Mamberamo Tengah"
+      },
+      "district": {
+        "id": "95.05.05",
+        "name": "Ilugwa"
+      }
+    },
+    {
+      "id": "95.05.05.2002",
+      "name": "Melenggama",
+      "postal_code": "99073",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.05",
+        "name": "Kabupaten Mamberamo Tengah"
+      },
+      "district": {
+        "id": "95.05.05",
+        "name": "Ilugwa"
+      }
+    },
+    {
+      "id": "95.05.05.2003",
+      "name": "Ilugwa",
+      "postal_code": "99073",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.05",
+        "name": "Kabupaten Mamberamo Tengah"
+      },
+      "district": {
+        "id": "95.05.05",
+        "name": "Ilugwa"
+      }
+    },
+    {
+      "id": "95.05.05.2004",
+      "name": "Wirima",
+      "postal_code": "99073",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.05",
+        "name": "Kabupaten Mamberamo Tengah"
+      },
+      "district": {
+        "id": "95.05.05",
+        "name": "Ilugwa"
+      }
+    },
+    {
+      "id": "95.05.05.2005",
+      "name": "Danama",
+      "postal_code": "99073",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.05",
+        "name": "Kabupaten Mamberamo Tengah"
+      },
+      "district": {
+        "id": "95.05.05",
+        "name": "Ilugwa"
+      }
+    },
+    {
+      "id": "95.05.05.2006",
+      "name": "Illusilimo",
+      "postal_code": "99073",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.05",
+        "name": "Kabupaten Mamberamo Tengah"
+      },
+      "district": {
+        "id": "95.05.05",
+        "name": "Ilugwa"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

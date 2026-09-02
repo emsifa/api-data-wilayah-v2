@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.11.06.2006",
+    "name": "Kanamit",
+    "postal_code": "74873",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.11",
+      "name": "Kabupaten Pulang Pisau"
+    },
+    "district": {
+      "id": "62.11.06",
+      "name": "Maliku"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

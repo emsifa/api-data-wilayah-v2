@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.79.04.2003",
+      "name": "Waringinsari",
+      "postal_code": "46342",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.79",
+        "name": "Kota Banjar"
+      },
+      "district": {
+        "id": "32.79.04",
+        "name": "Langensari"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

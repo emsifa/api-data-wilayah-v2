@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "33.04.11.2001",
+      "name": "Pingit",
+      "postal_code": "53463",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.04",
+        "name": "Kabupaten Banjarnegara"
+      },
+      "district": {
+        "id": "33.04.11",
+        "name": "Rakit"
+      }
+    },
+    {
+      "id": "33.04.11.2002",
+      "name": "Situwangi",
+      "postal_code": "53463",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.04",
+        "name": "Kabupaten Banjarnegara"
+      },
+      "district": {
+        "id": "33.04.11",
+        "name": "Rakit"
+      }
+    },
+    {
+      "id": "33.04.11.2003",
+      "name": "Gelang",
+      "postal_code": "53463",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.04",
+        "name": "Kabupaten Banjarnegara"
+      },
+      "district": {
+        "id": "33.04.11",
+        "name": "Rakit"
+      }
+    },
+    {
+      "id": "33.04.11.2004",
+      "name": "Rakit",
+      "postal_code": "53463",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.04",
+        "name": "Kabupaten Banjarnegara"
+      },
+      "district": {
+        "id": "33.04.11",
+        "name": "Rakit"
+      }
+    },
+    {
+      "id": "33.04.11.2005",
+      "name": "Adipasir",
+      "postal_code": "53463",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.04",
+        "name": "Kabupaten Banjarnegara"
+      },
+      "district": {
+        "id": "33.04.11",
+        "name": "Rakit"
+      }
+    },
+    {
+      "id": "33.04.11.2006",
+      "name": "Bandingan",
+      "postal_code": "53463",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.04",
+        "name": "Kabupaten Banjarnegara"
+      },
+      "district": {
+        "id": "33.04.11",
+        "name": "Rakit"
+      }
+    },
+    {
+      "id": "33.04.11.2007",
+      "name": "Kincang",
+      "postal_code": "53463",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.04",
+        "name": "Kabupaten Banjarnegara"
+      },
+      "district": {
+        "id": "33.04.11",
+        "name": "Rakit"
+      }
+    },
+    {
+      "id": "33.04.11.2008",
+      "name": "Badamita",
+      "postal_code": "53463",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.04",
+        "name": "Kabupaten Banjarnegara"
+      },
+      "district": {
+        "id": "33.04.11",
+        "name": "Rakit"
+      }
+    },
+    {
+      "id": "33.04.11.2009",
+      "name": "Tanjunganom",
+      "postal_code": "53463",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.04",
+        "name": "Kabupaten Banjarnegara"
+      },
+      "district": {
+        "id": "33.04.11",
+        "name": "Rakit"
+      }
+    },
+    {
+      "id": "33.04.11.2010",
+      "name": "Luwung",
+      "postal_code": "53463",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.04",
+        "name": "Kabupaten Banjarnegara"
+      },
+      "district": {
+        "id": "33.04.11",
+        "name": "Rakit"
+      }
+    },
+    {
+      "id": "33.04.11.2011",
+      "name": "Lengkong",
+      "postal_code": "53463",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.04",
+        "name": "Kabupaten Banjarnegara"
+      },
+      "district": {
+        "id": "33.04.11",
+        "name": "Rakit"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

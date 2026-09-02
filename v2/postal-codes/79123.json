@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "61.72.02.1001",
+      "name": "Pasiran",
+      "postal_code": "79123",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.72",
+        "name": "Kota Singkawang"
+      },
+      "district": {
+        "id": "61.72.02",
+        "name": "Singkawang Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

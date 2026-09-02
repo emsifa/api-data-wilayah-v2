@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "14.03.01.2020",
+      "name": "Wonosari",
+      "postal_code": "28741",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.03",
+        "name": "Kabupaten Bengkalis"
+      },
+      "district": {
+        "id": "14.03.01",
+        "name": "Bengkalis"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

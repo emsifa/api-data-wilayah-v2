@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "71.71.03.1001",
+      "name": "Singkil Satu",
+      "postal_code": "95234",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.71",
+        "name": "Kota Manado"
+      },
+      "district": {
+        "id": "71.71.03",
+        "name": "Singkil"
+      }
+    },
+    {
+      "id": "71.71.03.1002",
+      "name": "Singkil Dua",
+      "postal_code": "95234",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.71",
+        "name": "Kota Manado"
+      },
+      "district": {
+        "id": "71.71.03",
+        "name": "Singkil"
+      }
+    },
+    {
+      "id": "71.71.03.1007",
+      "name": "Kombos Barat",
+      "postal_code": "95234",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.71",
+        "name": "Kota Manado"
+      },
+      "district": {
+        "id": "71.71.03",
+        "name": "Singkil"
+      }
+    },
+    {
+      "id": "71.71.03.1008",
+      "name": "Kombos Timur",
+      "postal_code": "95234",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.71",
+        "name": "Kota Manado"
+      },
+      "district": {
+        "id": "71.71.03",
+        "name": "Singkil"
+      }
+    },
+    {
+      "id": "71.71.03.1009",
+      "name": "Ternate Tanjung",
+      "postal_code": "95234",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.71",
+        "name": "Kota Manado"
+      },
+      "district": {
+        "id": "71.71.03",
+        "name": "Singkil"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

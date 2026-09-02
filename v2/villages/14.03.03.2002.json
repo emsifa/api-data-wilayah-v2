@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.03.03.2002",
+    "name": "Dompas",
+    "postal_code": "28761",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.03",
+      "name": "Kabupaten Bengkalis"
+    },
+    "district": {
+      "id": "14.03.03",
+      "name": "Bukit Batu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

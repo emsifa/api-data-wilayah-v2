@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.01.08.2005",
+    "name": "Tembeling",
+    "postal_code": "29132",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.01",
+      "name": "Kabupaten Bintan"
+    },
+    "district": {
+      "id": "21.01.08",
+      "name": "Teluk Bintan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

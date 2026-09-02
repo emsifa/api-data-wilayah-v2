@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.11.01.2009",
+    "name": "Gunungsembilan",
+    "postal_code": "78852",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.11",
+      "name": "Kabupaten Kayong Utara"
+    },
+    "district": {
+      "id": "61.11.01",
+      "name": "Sukadana"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

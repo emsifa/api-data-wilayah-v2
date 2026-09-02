@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.14.03.2002",
+    "name": "Janjangwulung",
+    "postal_code": "67176",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.14",
+      "name": "Kabupaten Pasuruan"
+    },
+    "district": {
+      "id": "35.14.03",
+      "name": "Puspo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

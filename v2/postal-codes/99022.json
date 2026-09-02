@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "95.04.36.2001",
+      "name": "Anawi",
+      "postal_code": "99022",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.36",
+        "name": "Anawi"
+      }
+    },
+    {
+      "id": "95.04.36.2002",
+      "name": "Yalipura",
+      "postal_code": "99022",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.36",
+        "name": "Anawi"
+      }
+    },
+    {
+      "id": "95.04.36.2003",
+      "name": "Kotori",
+      "postal_code": "99022",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.36",
+        "name": "Anawi"
+      }
+    },
+    {
+      "id": "95.04.36.2004",
+      "name": "Bieleme",
+      "postal_code": "99022",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.36",
+        "name": "Anawi"
+      }
+    },
+    {
+      "id": "95.04.36.2005",
+      "name": "Yalokobak",
+      "postal_code": "99022",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.36",
+        "name": "Anawi"
+      }
+    },
+    {
+      "id": "95.04.36.2006",
+      "name": "Linggira",
+      "postal_code": "99022",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.36",
+        "name": "Anawi"
+      }
+    },
+    {
+      "id": "95.04.36.2007",
+      "name": "Aridunda",
+      "postal_code": "99022",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.36",
+        "name": "Anawi"
+      }
+    },
+    {
+      "id": "95.04.36.2008",
+      "name": "Loguk",
+      "postal_code": "99022",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.36",
+        "name": "Anawi"
+      }
+    },
+    {
+      "id": "95.04.36.2009",
+      "name": "Imurik",
+      "postal_code": "99022",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.36",
+        "name": "Anawi"
+      }
+    },
+    {
+      "id": "95.04.36.2010",
+      "name": "Gineri",
+      "postal_code": "99022",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.36",
+        "name": "Anawi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

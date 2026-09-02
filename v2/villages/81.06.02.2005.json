@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.06.02.2005",
+    "name": "Morekau",
+    "postal_code": "97562",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.06",
+      "name": "Kabupaten Seram Bagian Barat"
+    },
+    "district": {
+      "id": "81.06.02",
+      "name": "Seram Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

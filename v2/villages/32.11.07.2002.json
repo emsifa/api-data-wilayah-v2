@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.11.07.2002",
+    "name": "Conggeang Wetan",
+    "postal_code": "45391",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.11",
+      "name": "Kabupaten Sumedang"
+    },
+    "district": {
+      "id": "32.11.07",
+      "name": "Conggeang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

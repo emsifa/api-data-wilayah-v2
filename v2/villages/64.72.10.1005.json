@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.72.10.1005",
+    "name": "Rapak Dalam",
+    "postal_code": "75131",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.72",
+      "name": "Kota Samarinda"
+    },
+    "district": {
+      "id": "64.72.10",
+      "name": "Loa Janan Ilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.02.05.2006",
+    "name": "Temon",
+    "postal_code": "63475",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.02",
+      "name": "Kabupaten Ponorogo"
+    },
+    "district": {
+      "id": "35.02.05",
+      "name": "Sawoo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

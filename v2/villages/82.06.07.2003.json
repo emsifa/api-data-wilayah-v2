@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.06.07.2003",
+    "name": "Akedaga",
+    "postal_code": "97868",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.06",
+      "name": "Kabupaten Halmahera Timur"
+    },
+    "district": {
+      "id": "82.06.07",
+      "name": "Wasile Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.02.09.2014",
+    "name": "Bina Karya Buana",
+    "postal_code": "34154",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.02",
+      "name": "Kabupaten Lampung Tengah"
+    },
+    "district": {
+      "id": "18.02.09",
+      "name": "Rumbia"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

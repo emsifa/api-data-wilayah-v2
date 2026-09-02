@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.71.05.1002",
+    "name": "Kertak Baru Ulu",
+    "postal_code": "70111",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.71",
+      "name": "Kota Banjarmasin"
+    },
+    "district": {
+      "id": "63.71.05",
+      "name": "Banjarmasin Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

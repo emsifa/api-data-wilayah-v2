@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "32.02.17.2001",
+      "name": "Pondokkaso Tonggoh",
+      "postal_code": "43358",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.17",
+        "name": "Cidahu"
+      }
+    },
+    {
+      "id": "32.02.17.2002",
+      "name": "Babakanpari",
+      "postal_code": "43358",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.17",
+        "name": "Cidahu"
+      }
+    },
+    {
+      "id": "32.02.17.2003",
+      "name": "Pondokkaso Tengah",
+      "postal_code": "43358",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.17",
+        "name": "Cidahu"
+      }
+    },
+    {
+      "id": "32.02.17.2004",
+      "name": "Cidahu",
+      "postal_code": "43358",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.17",
+        "name": "Cidahu"
+      }
+    },
+    {
+      "id": "32.02.17.2005",
+      "name": "Tangkil",
+      "postal_code": "43358",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.17",
+        "name": "Cidahu"
+      }
+    },
+    {
+      "id": "32.02.17.2006",
+      "name": "Jayabakti",
+      "postal_code": "43358",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.17",
+        "name": "Cidahu"
+      }
+    },
+    {
+      "id": "32.02.17.2007",
+      "name": "Girijaya",
+      "postal_code": "43358",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.17",
+        "name": "Cidahu"
+      }
+    },
+    {
+      "id": "32.02.17.2008",
+      "name": "Pasirdoton",
+      "postal_code": "43358",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.17",
+        "name": "Cidahu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

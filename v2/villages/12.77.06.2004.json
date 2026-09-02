@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.77.06.2004",
+    "name": "Pintu Langit Jae",
+    "postal_code": "22729",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.77",
+      "name": "Kota Padangsidimpuan"
+    },
+    "district": {
+      "id": "12.77.06",
+      "name": "Padangsidimpuan Angkola Julu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

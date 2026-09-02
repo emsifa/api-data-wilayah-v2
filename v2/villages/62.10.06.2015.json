@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.10.06.2015",
+    "name": "Fajar Harapan",
+    "postal_code": "74562",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.10",
+      "name": "Kabupaten Gunung Mas"
+    },
+    "district": {
+      "id": "62.10.06",
+      "name": "Manuhing"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

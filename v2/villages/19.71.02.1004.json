@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "19.71.02.1004",
+    "name": "Rawa Bangun",
+    "postal_code": "33121",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.71",
+      "name": "Kota Pangkal Pinang"
+    },
+    "district": {
+      "id": "19.71.02",
+      "name": "Taman Sari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

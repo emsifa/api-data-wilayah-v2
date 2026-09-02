@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.08.01.2011",
+    "name": "Tumang",
+    "postal_code": "28673",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.08",
+      "name": "Kabupaten Siak"
+    },
+    "district": {
+      "id": "14.08.01",
+      "name": "Siak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

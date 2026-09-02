@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.15.06.2009",
+    "name": "Jetaksari",
+    "postal_code": "58181",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.15",
+      "name": "Kabupaten Grobogan"
+    },
+    "district": {
+      "id": "33.15.06",
+      "name": "Pulokulon"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

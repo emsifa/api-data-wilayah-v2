@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "63.71.01.1011",
+      "name": "Pemurus Baru",
+      "postal_code": "70249",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.71",
+        "name": "Kota Banjarmasin"
+      },
+      "district": {
+        "id": "63.71.01",
+        "name": "Banjarmasin Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

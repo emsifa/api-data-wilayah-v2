@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "31.71.02.1003",
+    "name": "Kartini",
+    "postal_code": "10750",
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    },
+    "regency": {
+      "id": "31.71",
+      "name": "Kota Administrasi Jakarta Pusat"
+    },
+    "district": {
+      "id": "31.71.02",
+      "name": "Sawah Besar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

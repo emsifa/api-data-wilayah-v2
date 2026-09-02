@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "62.13.01.2019",
+      "name": "Matarah",
+      "postal_code": "73618",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.13",
+        "name": "Kabupaten Barito Timur"
+      },
+      "district": {
+        "id": "62.13.01",
+        "name": "Dusun Timur"
+      }
+    },
+    {
+      "id": "62.13.01.2020",
+      "name": "Maragut",
+      "postal_code": "73618",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.13",
+        "name": "Kabupaten Barito Timur"
+      },
+      "district": {
+        "id": "62.13.01",
+        "name": "Dusun Timur"
+      }
+    },
+    {
+      "id": "62.13.01.2021",
+      "name": "Mangkarap",
+      "postal_code": "73618",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.13",
+        "name": "Kabupaten Barito Timur"
+      },
+      "district": {
+        "id": "62.13.01",
+        "name": "Dusun Timur"
+      }
+    },
+    {
+      "id": "62.13.01.2022",
+      "name": "Gumpa",
+      "postal_code": "73618",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.13",
+        "name": "Kabupaten Barito Timur"
+      },
+      "district": {
+        "id": "62.13.01",
+        "name": "Dusun Timur"
+      }
+    },
+    {
+      "id": "62.13.01.2023",
+      "name": "Sumur",
+      "postal_code": "73618",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.13",
+        "name": "Kabupaten Barito Timur"
+      },
+      "district": {
+        "id": "62.13.01",
+        "name": "Dusun Timur"
+      }
+    },
+    {
+      "id": "62.13.01.2024",
+      "name": "Harara",
+      "postal_code": "73618",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.13",
+        "name": "Kabupaten Barito Timur"
+      },
+      "district": {
+        "id": "62.13.01",
+        "name": "Dusun Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

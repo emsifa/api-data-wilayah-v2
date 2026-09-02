@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.01.14.2009",
+    "name": "Batu Layar Barat",
+    "postal_code": "83355",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.01",
+      "name": "Kabupaten Lombok Barat"
+    },
+    "district": {
+      "id": "52.01.14",
+      "name": "Batu Layar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

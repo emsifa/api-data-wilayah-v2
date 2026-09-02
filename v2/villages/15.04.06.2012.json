@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.04.06.2012",
+    "name": "Sungai Ruan Ulu",
+    "postal_code": "36652",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.04",
+      "name": "Kabupaten Batanghari"
+    },
+    "district": {
+      "id": "15.04.06",
+      "name": "Maro Sebo Ulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

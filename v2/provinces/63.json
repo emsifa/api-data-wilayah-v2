@@ -1,0 +1,17 @@
+{
+  "data": {
+    "id": "63",
+    "name": "Kalimantan Selatan",
+    "capital": "Banjarmasin",
+    "lat": -3.484313042784926,
+    "lng": 114.83380115548034,
+    "elv": 52,
+    "tz": 8,
+    "population": 4305281,
+    "total_area": 37125.426
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 1
+  }
+}

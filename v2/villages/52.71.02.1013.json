@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.71.02.1013",
+    "name": "Pagutan Timur",
+    "postal_code": "83127",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.71",
+      "name": "Kota Mataram"
+    },
+    "district": {
+      "id": "52.71.02",
+      "name": "Mataram"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

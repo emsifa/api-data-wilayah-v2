@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.07.06.2005",
+    "name": "Gomsey",
+    "postal_code": "97664",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.07",
+      "name": "Kabupaten Kepulauan Aru"
+    },
+    "district": {
+      "id": "81.07.06",
+      "name": "Sir-Sir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

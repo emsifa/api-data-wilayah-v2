@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "32.05.13.2001",
+      "name": "Kersamanah",
+      "postal_code": "44189",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.13",
+        "name": "Kersamanah"
+      }
+    },
+    {
+      "id": "32.05.13.2002",
+      "name": "Nanjungjaya",
+      "postal_code": "44189",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.13",
+        "name": "Kersamanah"
+      }
+    },
+    {
+      "id": "32.05.13.2003",
+      "name": "Sukamerang",
+      "postal_code": "44189",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.13",
+        "name": "Kersamanah"
+      }
+    },
+    {
+      "id": "32.05.13.2004",
+      "name": "Girijaya",
+      "postal_code": "44189",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.13",
+        "name": "Kersamanah"
+      }
+    },
+    {
+      "id": "32.05.13.2005",
+      "name": "Sukamaju",
+      "postal_code": "44189",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.13",
+        "name": "Kersamanah"
+      }
+    },
+    {
+      "id": "32.05.13.2006",
+      "name": "Mekarraya",
+      "postal_code": "44189",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.13",
+        "name": "Kersamanah"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

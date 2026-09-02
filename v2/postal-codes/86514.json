@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "53.10.12.1002",
+      "name": "Wali",
+      "postal_code": "86514",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.10",
+        "name": "Kabupaten Manggarai"
+      },
+      "district": {
+        "id": "53.10.12",
+        "name": "Langke Rembong"
+      }
+    },
+    {
+      "id": "53.10.12.1020",
+      "name": "Compang Tuke",
+      "postal_code": "86514",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.10",
+        "name": "Kabupaten Manggarai"
+      },
+      "district": {
+        "id": "53.10.12",
+        "name": "Langke Rembong"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

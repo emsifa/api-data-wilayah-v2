@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.71.07.1005",
+    "name": "Panawu",
+    "postal_code": "94141",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.71",
+      "name": "Kota Palu"
+    },
+    "district": {
+      "id": "72.71.07",
+      "name": "Tawaeli"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.03.09.2006",
+    "name": "Parondobulawan",
+    "postal_code": "91367",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.03",
+      "name": "Kabupaten Mamasa"
+    },
+    "district": {
+      "id": "76.03.09",
+      "name": "Tanduk Kalua"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

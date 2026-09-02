@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "62.05.07.1002",
+      "name": "Jambu",
+      "postal_code": "73813",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.05",
+        "name": "Kabupaten Barito Utara"
+      },
+      "district": {
+        "id": "62.05.07",
+        "name": "Teweh Baru"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

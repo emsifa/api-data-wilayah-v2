@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.12.02.2009",
+    "name": "Kota Baru",
+    "postal_code": "31317",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.12",
+      "name": "Kabupaten Penukal Abab Lematang Ilir"
+    },
+    "district": {
+      "id": "16.12.02",
+      "name": "Penukal Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

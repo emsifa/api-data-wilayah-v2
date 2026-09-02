@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.01.15.2012",
+    "name": "Wakal",
+    "postal_code": "97580",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.01",
+      "name": "Kabupaten Maluku Tengah"
+    },
+    "district": {
+      "id": "81.01.15",
+      "name": "Leihitu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

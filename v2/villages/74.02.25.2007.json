@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.02.25.2007",
+    "name": "Ahuloa",
+    "postal_code": "93472",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.02",
+      "name": "Kabupaten Konawe"
+    },
+    "district": {
+      "id": "74.02.25",
+      "name": "Meluhu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

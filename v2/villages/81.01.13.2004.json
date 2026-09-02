@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.01.13.2004",
+    "name": "Haruku",
+    "postal_code": "97583",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.01",
+      "name": "Kabupaten Maluku Tengah"
+    },
+    "district": {
+      "id": "81.01.13",
+      "name": "Pulau Haruku"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.03.04.2009",
+    "name": "Sape",
+    "postal_code": "78591",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.03",
+      "name": "Kabupaten Sanggau"
+    },
+    "district": {
+      "id": "61.03.04",
+      "name": "Jangkang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

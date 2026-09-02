@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.72.06.2010",
+    "name": "Beringin Jaya",
+    "postal_code": "97826",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.72",
+      "name": "Kota Tidore Kepulauan"
+    },
+    "district": {
+      "id": "82.72.06",
+      "name": "Oba Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

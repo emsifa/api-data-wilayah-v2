@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.03.16.2002",
+    "name": "Harapan Jaya",
+    "postal_code": "29778",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.03",
+      "name": "Kabupaten Natuna"
+    },
+    "district": {
+      "id": "21.03.16",
+      "name": "Bunguran Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

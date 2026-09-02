@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.09.13.2003",
+    "name": "Moncongloe Lappara",
+    "postal_code": "90564",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.09",
+      "name": "Kabupaten Maros"
+    },
+    "district": {
+      "id": "73.09.13",
+      "name": "Moncongloe"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

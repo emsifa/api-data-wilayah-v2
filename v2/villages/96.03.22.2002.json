@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "96.03.22.2002",
+    "name": "Urai",
+    "postal_code": "98487",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.03",
+      "name": "Kabupaten Raja Ampat"
+    },
+    "district": {
+      "id": "96.03.22",
+      "name": "Supnin"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

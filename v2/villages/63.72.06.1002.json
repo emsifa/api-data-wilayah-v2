@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.72.06.1002",
+    "name": "Landasan Ulin Tengah",
+    "postal_code": "70723",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.72",
+      "name": "Kota Banjarbaru"
+    },
+    "district": {
+      "id": "63.72.06",
+      "name": "Liang Anggang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

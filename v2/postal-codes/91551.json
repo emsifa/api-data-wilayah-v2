@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "76.02.02.1001",
+      "name": "Galung",
+      "postal_code": "91551",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.02",
+        "name": "Tapalang"
+      }
+    },
+    {
+      "id": "76.02.02.1002",
+      "name": "Kasambang",
+      "postal_code": "91551",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.02",
+        "name": "Tapalang"
+      }
+    },
+    {
+      "id": "76.02.02.1014",
+      "name": "Dayanginna",
+      "postal_code": "91551",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.02",
+        "name": "Tapalang"
+      }
+    },
+    {
+      "id": "76.02.02.2003",
+      "name": "Orobatu",
+      "postal_code": "91551",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.02",
+        "name": "Tapalang"
+      }
+    },
+    {
+      "id": "76.02.02.2006",
+      "name": "Takandeang",
+      "postal_code": "91551",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.02",
+        "name": "Tapalang"
+      }
+    },
+    {
+      "id": "76.02.02.2009",
+      "name": "Bela",
+      "postal_code": "91551",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.02",
+        "name": "Tapalang"
+      }
+    },
+    {
+      "id": "76.02.02.2010",
+      "name": "Taan",
+      "postal_code": "91551",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.02",
+        "name": "Tapalang"
+      }
+    },
+    {
+      "id": "76.02.02.2011",
+      "name": "Tampalang",
+      "postal_code": "91551",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.02",
+        "name": "Tapalang"
+      }
+    },
+    {
+      "id": "76.02.02.2012",
+      "name": "Rantedoda",
+      "postal_code": "91551",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.02",
+        "name": "Tapalang"
+      }
+    },
+    {
+      "id": "76.02.02.2013",
+      "name": "Kopeang",
+      "postal_code": "91551",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.02",
+        "name": "Tapalang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

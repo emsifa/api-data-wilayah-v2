@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.04.06.2007",
+    "name": "Hujung",
+    "postal_code": "34873",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.04",
+      "name": "Kabupaten Lampung Barat"
+    },
+    "district": {
+      "id": "18.04.06",
+      "name": "Belalau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

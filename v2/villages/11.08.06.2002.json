@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.08.06.2002",
+    "name": "Meunasah Drang",
+    "postal_code": "24355",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.08",
+      "name": "Kabupaten Aceh Utara"
+    },
+    "district": {
+      "id": "11.08.06",
+      "name": "Muara Batu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

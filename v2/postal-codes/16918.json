@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.01.01.1010",
+      "name": "Ciriung",
+      "postal_code": "16918",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.01",
+        "name": "Kabupaten Bogor"
+      },
+      "district": {
+        "id": "32.01.01",
+        "name": "Cibinong"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

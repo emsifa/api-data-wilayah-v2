@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.06.10.2005",
+    "name": "Kranggan",
+    "postal_code": "64181",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.06",
+      "name": "Kabupaten Kediri"
+    },
+    "district": {
+      "id": "35.06.10",
+      "name": "Gurah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

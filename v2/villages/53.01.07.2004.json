@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.01.07.2004",
+    "name": "Oeteta",
+    "postal_code": "85368",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.01",
+      "name": "Kabupaten Kupang"
+    },
+    "district": {
+      "id": "53.01.07",
+      "name": "Sulamu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

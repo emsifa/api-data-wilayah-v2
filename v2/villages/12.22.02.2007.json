@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.22.02.2007",
+    "name": "Teluk Panji",
+    "postal_code": "21463",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.22",
+      "name": "Kabupaten Labuhanbatu Selatan"
+    },
+    "district": {
+      "id": "12.22.02",
+      "name": "Kampung Rakyat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

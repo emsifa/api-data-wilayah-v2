@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.03.03.2013",
+    "name": "Pangempon",
+    "postal_code": "53392",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.03",
+      "name": "Kabupaten Purbalingga"
+    },
+    "district": {
+      "id": "33.03.03",
+      "name": "Kejobong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

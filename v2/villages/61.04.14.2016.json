@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.04.14.2016",
+    "name": "Air Dua",
+    "postal_code": "78876",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.04",
+      "name": "Kabupaten Ketapang"
+    },
+    "district": {
+      "id": "61.04.14",
+      "name": "Jelai Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

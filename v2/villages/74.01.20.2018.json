@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.01.20.2018",
+    "name": "Liku",
+    "postal_code": "93521",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.01",
+      "name": "Kabupaten Kolaka"
+    },
+    "district": {
+      "id": "74.01.20",
+      "name": "Samaturu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

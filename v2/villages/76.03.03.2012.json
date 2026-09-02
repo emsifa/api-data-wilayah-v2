@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.03.03.2012",
+    "name": "Bubun Batu",
+    "postal_code": "91362",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.03",
+      "name": "Kabupaten Mamasa"
+    },
+    "district": {
+      "id": "76.03.03",
+      "name": "Mamasa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

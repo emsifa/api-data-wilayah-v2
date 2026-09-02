@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.07.17.2010",
+    "name": "Bu Nuapu’u",
+    "postal_code": "86154",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.07",
+      "name": "Kabupaten Sikka"
+    },
+    "district": {
+      "id": "53.07.17",
+      "name": "Tana Wawo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

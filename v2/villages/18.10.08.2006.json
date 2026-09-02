@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.10.08.2006",
+    "name": "Panggungrejo",
+    "postal_code": "35673",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.10",
+      "name": "Kabupaten Pringsewu"
+    },
+    "district": {
+      "id": "18.10.08",
+      "name": "Sukoharjo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

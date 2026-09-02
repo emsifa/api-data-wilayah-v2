@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "52.04.19.2001",
+      "name": "Labangka",
+      "postal_code": "84383",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.04",
+        "name": "Kabupaten Sumbawa"
+      },
+      "district": {
+        "id": "52.04.19",
+        "name": "Labangka"
+      }
+    },
+    {
+      "id": "52.04.19.2002",
+      "name": "Sekokat",
+      "postal_code": "84383",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.04",
+        "name": "Kabupaten Sumbawa"
+      },
+      "district": {
+        "id": "52.04.19",
+        "name": "Labangka"
+      }
+    },
+    {
+      "id": "52.04.19.2003",
+      "name": "Suka Mulya",
+      "postal_code": "84383",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.04",
+        "name": "Kabupaten Sumbawa"
+      },
+      "district": {
+        "id": "52.04.19",
+        "name": "Labangka"
+      }
+    },
+    {
+      "id": "52.04.19.2004",
+      "name": "Suka Damai",
+      "postal_code": "84383",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.04",
+        "name": "Kabupaten Sumbawa"
+      },
+      "district": {
+        "id": "52.04.19",
+        "name": "Labangka"
+      }
+    },
+    {
+      "id": "52.04.19.2005",
+      "name": "Jaya Makmur",
+      "postal_code": "84383",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.04",
+        "name": "Kabupaten Sumbawa"
+      },
+      "district": {
+        "id": "52.04.19",
+        "name": "Labangka"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

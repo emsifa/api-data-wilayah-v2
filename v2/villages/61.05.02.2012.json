@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.05.02.2012",
+    "name": "Pangkal Baru",
+    "postal_code": "78661",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.05",
+      "name": "Kabupaten Sintang"
+    },
+    "district": {
+      "id": "61.05.02",
+      "name": "Tempunak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

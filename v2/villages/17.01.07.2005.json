@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.01.07.2005",
+    "name": "Suka Rami",
+    "postal_code": "38554",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.01",
+      "name": "Kabupaten Bengkulu Selatan"
+    },
+    "district": {
+      "id": "17.01.07",
+      "name": "Kedurang Ilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

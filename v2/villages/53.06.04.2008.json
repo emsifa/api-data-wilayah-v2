@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.06.04.2008",
+    "name": "Mudakeputu",
+    "postal_code": "86211",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.06",
+      "name": "Kabupaten Flores Timur"
+    },
+    "district": {
+      "id": "53.06.04",
+      "name": "Ile Mandiri"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

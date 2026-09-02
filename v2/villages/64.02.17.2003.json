@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.02.17.2003",
+    "name": "Santan Tengah",
+    "postal_code": "75385",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.02",
+      "name": "Kabupaten Kutai Kartanegara"
+    },
+    "district": {
+      "id": "64.02.17",
+      "name": "Marang Kayu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

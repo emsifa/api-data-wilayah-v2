@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.01.32.2008",
+    "name": "Sanghiangdengdek",
+    "postal_code": "42254",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.01",
+      "name": "Kabupaten Pandeglang"
+    },
+    "district": {
+      "id": "36.01.32",
+      "name": "Pulosari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.04.13.2004",
+    "name": "Ake Jailolo",
+    "postal_code": "97781",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.04",
+      "name": "Kabupaten Halmahera Selatan"
+    },
+    "district": {
+      "id": "82.04.13",
+      "name": "Kayoa Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.10.01.2007",
+    "name": "Waluyojati",
+    "postal_code": "35371",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.10",
+      "name": "Kabupaten Pringsewu"
+    },
+    "district": {
+      "id": "18.10.01",
+      "name": "Pringsewu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

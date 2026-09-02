@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.07.09.2006",
+    "name": "Suka Mulya",
+    "postal_code": "74281",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.07",
+      "name": "Kabupaten Seruyan"
+    },
+    "district": {
+      "id": "62.07.09",
+      "name": "Batu Ampar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

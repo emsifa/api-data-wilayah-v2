@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "91.06.17.2007",
+    "name": "Masyarah",
+    "postal_code": "98565",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.06",
+      "name": "Kabupaten Biak Numfor"
+    },
+    "district": {
+      "id": "91.06.17",
+      "name": "Orkeri"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

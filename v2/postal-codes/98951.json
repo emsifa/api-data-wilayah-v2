@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "94.05.03.2001",
+      "name": "Yulukoma",
+      "postal_code": "98951",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.05",
+        "name": "Kabupaten Puncak"
+      },
+      "district": {
+        "id": "94.05.03",
+        "name": "Beoga"
+      }
+    },
+    {
+      "id": "94.05.03.2002",
+      "name": "Milawak",
+      "postal_code": "98951",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.05",
+        "name": "Kabupaten Puncak"
+      },
+      "district": {
+        "id": "94.05.03",
+        "name": "Beoga"
+      }
+    },
+    {
+      "id": "94.05.03.2007",
+      "name": "Ondugi",
+      "postal_code": "98951",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.05",
+        "name": "Kabupaten Puncak"
+      },
+      "district": {
+        "id": "94.05.03",
+        "name": "Beoga"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

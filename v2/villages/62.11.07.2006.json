@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.11.07.2006",
+    "name": "Pilang",
+    "postal_code": "74816",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.11",
+      "name": "Kabupaten Pulang Pisau"
+    },
+    "district": {
+      "id": "62.11.07",
+      "name": "Jabiren Raya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

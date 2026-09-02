@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.01.05.2002",
+    "name": "Kuta Buloh I",
+    "postal_code": "23754",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.01",
+      "name": "Kabupaten Aceh Selatan"
+    },
+    "district": {
+      "id": "11.01.05",
+      "name": "Meukek"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

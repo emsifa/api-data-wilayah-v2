@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.24.09.2008",
+    "name": "Cendana Hitam Timur",
+    "postal_code": "92970",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.24",
+      "name": "Kabupaten Luwu Timur"
+    },
+    "district": {
+      "id": "73.24.09",
+      "name": "Tomoni Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

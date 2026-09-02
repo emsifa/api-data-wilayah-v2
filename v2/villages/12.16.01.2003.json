@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.16.01.2003",
+    "name": "Sionom Hudon VII",
+    "postal_code": "22456",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.16",
+      "name": "Kabupaten Humbang Hasundutan"
+    },
+    "district": {
+      "id": "12.16.01",
+      "name": "Parlilitan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.03.03.2010",
+    "name": "Weri",
+    "postal_code": "98027",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.03",
+      "name": "Kabupaten Fak Fak"
+    },
+    "district": {
+      "id": "92.03.03",
+      "name": "Fak-Fak Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.15.08.2004",
+    "name": "Pelem",
+    "postal_code": "58183",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.15",
+      "name": "Kabupaten Grobogan"
+    },
+    "district": {
+      "id": "33.15.08",
+      "name": "Gabus"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

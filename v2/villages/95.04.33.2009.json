@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.04.33.2009",
+    "name": "Gunalo",
+    "postal_code": "99047",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.04",
+      "name": "Kabupaten Tolikara"
+    },
+    "district": {
+      "id": "95.04.33",
+      "name": "Wakuwo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

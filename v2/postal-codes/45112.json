@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.74.02.1004",
+      "name": "Panjunan",
+      "postal_code": "45112",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.74",
+        "name": "Kota Cirebon"
+      },
+      "district": {
+        "id": "32.74.02",
+        "name": "Lemahwungkuk"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

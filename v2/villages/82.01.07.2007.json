@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.01.07.2007",
+    "name": "Tuguis",
+    "postal_code": "97757",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.01",
+      "name": "Kabupaten Halmahera Barat"
+    },
+    "district": {
+      "id": "82.01.07",
+      "name": "Ibu Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

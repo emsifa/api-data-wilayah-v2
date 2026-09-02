@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.11.02.2002",
+    "name": "Sungai Cambai",
+    "postal_code": "34695",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.11",
+      "name": "Kabupaten Mesuji"
+    },
+    "district": {
+      "id": "18.11.02",
+      "name": "Mesuji Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

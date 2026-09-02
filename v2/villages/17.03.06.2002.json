@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.03.06.2002",
+    "name": "Tebat Pacur",
+    "postal_code": "38379",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.03",
+      "name": "Kabupaten Bengkulu Utara"
+    },
+    "district": {
+      "id": "17.03.06",
+      "name": "Kerkap"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.08.01.2012",
+    "name": "Umpu Bhakti",
+    "postal_code": "34764",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.08",
+      "name": "Kabupaten Way Kanan"
+    },
+    "district": {
+      "id": "18.08.01",
+      "name": "Blambangan Umpu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.05.13.2001",
+    "name": "Tri Rejo Mulyo",
+    "postal_code": "34593",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.05",
+      "name": "Kabupaten Tulang Bawang"
+    },
+    "district": {
+      "id": "18.05.13",
+      "name": "Penawar Tama"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

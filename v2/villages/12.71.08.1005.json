@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.71.08.1005",
+    "name": "Belawan Sicanang",
+    "postal_code": "20412",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.71",
+      "name": "Kota Medan"
+    },
+    "district": {
+      "id": "12.71.08",
+      "name": "Medan Belawan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

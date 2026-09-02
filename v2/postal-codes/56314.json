@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "33.07.09.1004",
+      "name": "Jaraksari",
+      "postal_code": "56314",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.07",
+        "name": "Kabupaten Wonosobo"
+      },
+      "district": {
+        "id": "33.07.09",
+        "name": "Wonosobo"
+      }
+    },
+    {
+      "id": "33.07.09.1010",
+      "name": "Pagerkukuh",
+      "postal_code": "56314",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.07",
+        "name": "Kabupaten Wonosobo"
+      },
+      "district": {
+        "id": "33.07.09",
+        "name": "Wonosobo"
+      }
+    },
+    {
+      "id": "33.07.13.2001",
+      "name": "Campursari",
+      "postal_code": "56314",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.07",
+        "name": "Kabupaten Wonosobo"
+      },
+      "district": {
+        "id": "33.07.13",
+        "name": "Kejajar"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

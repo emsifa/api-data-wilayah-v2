@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.08.13.2007",
+    "name": "Temanggung",
+    "postal_code": "56153",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.08",
+      "name": "Kabupaten Magelang"
+    },
+    "district": {
+      "id": "33.08.13",
+      "name": "Kaliangkrik"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

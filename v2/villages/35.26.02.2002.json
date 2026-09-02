@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.26.02.2002",
+    "name": "Keleyan",
+    "postal_code": "69161",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.26",
+      "name": "Kabupaten Bangkalan"
+    },
+    "district": {
+      "id": "35.26.02",
+      "name": "Socah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

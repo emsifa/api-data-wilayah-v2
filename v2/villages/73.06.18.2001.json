@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.06.18.2001",
+    "name": "Borimatangkasa",
+    "postal_code": "92151",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.06",
+      "name": "Kabupaten Gowa"
+    },
+    "district": {
+      "id": "73.06.18",
+      "name": "Bajeng Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

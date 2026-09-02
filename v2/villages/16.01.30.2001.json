@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.01.30.2001",
+    "name": "Batu Marta I",
+    "postal_code": "32152",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.01",
+      "name": "Kabupaten Ogan Komering Ulu"
+    },
+    "district": {
+      "id": "16.01.30",
+      "name": "Lubuk Raja"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

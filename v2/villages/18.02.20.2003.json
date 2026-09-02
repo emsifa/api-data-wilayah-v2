@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.02.20.2003",
+    "name": "Sido Harjo",
+    "postal_code": "34177",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.02",
+      "name": "Kabupaten Lampung Tengah"
+    },
+    "district": {
+      "id": "18.02.20",
+      "name": "Selagai Lingga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "32.73.24.1002",
+      "name": "Cisaranten Bina Harapan",
+      "postal_code": "40294",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.24",
+        "name": "Arcamanik"
+      }
+    },
+    {
+      "id": "32.73.27.1001",
+      "name": "Cimincrang",
+      "postal_code": "40294",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.27",
+        "name": "Gedebage"
+      }
+    },
+    {
+      "id": "32.73.27.1002",
+      "name": "Cisaranten Kidul",
+      "postal_code": "40294",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.27",
+        "name": "Gedebage"
+      }
+    },
+    {
+      "id": "32.73.27.1003",
+      "name": "Rancabolang",
+      "postal_code": "40294",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.27",
+        "name": "Gedebage"
+      }
+    },
+    {
+      "id": "32.73.27.1004",
+      "name": "Rancanumpang",
+      "postal_code": "40294",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.27",
+        "name": "Gedebage"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

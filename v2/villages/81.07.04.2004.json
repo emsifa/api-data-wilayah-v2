@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.07.04.2004",
+    "name": "Tasinwaha",
+    "postal_code": "97660",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.07",
+      "name": "Kabupaten Kepulauan Aru"
+    },
+    "district": {
+      "id": "81.07.04",
+      "name": "Aru Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

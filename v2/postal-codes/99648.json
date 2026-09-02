@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "93.01.08.2001",
+      "name": "Sota",
+      "postal_code": "99648",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.08",
+        "name": "Sota"
+      }
+    },
+    {
+      "id": "93.01.08.2002",
+      "name": "Yanggandur",
+      "postal_code": "99648",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.08",
+        "name": "Sota"
+      }
+    },
+    {
+      "id": "93.01.08.2003",
+      "name": "Rawa Biru",
+      "postal_code": "99648",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.08",
+        "name": "Sota"
+      }
+    },
+    {
+      "id": "93.01.08.2004",
+      "name": "Toray",
+      "postal_code": "99648",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.08",
+        "name": "Sota"
+      }
+    },
+    {
+      "id": "93.01.08.2005",
+      "name": "Erambu",
+      "postal_code": "99648",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.08",
+        "name": "Sota"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

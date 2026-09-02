@@ -1,0 +1,263 @@
+{
+  "data": [
+    {
+      "id": "96.03.11.2001",
+      "name": "Yenbekwan",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.11",
+        "name": "Meos Mansar"
+      }
+    },
+    {
+      "id": "96.03.11.2002",
+      "name": "Kapisawar",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.11",
+        "name": "Meos Mansar"
+      }
+    },
+    {
+      "id": "96.03.11.2003",
+      "name": "Sawinggrai",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.11",
+        "name": "Meos Mansar"
+      }
+    },
+    {
+      "id": "96.03.11.2004",
+      "name": "Yenwaupnor",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.11",
+        "name": "Meos Mansar"
+      }
+    },
+    {
+      "id": "96.03.11.2005",
+      "name": "Arborek",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.11",
+        "name": "Meos Mansar"
+      }
+    },
+    {
+      "id": "96.03.11.2006",
+      "name": "Yenbuba",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.11",
+        "name": "Meos Mansar"
+      }
+    },
+    {
+      "id": "96.03.11.2007",
+      "name": "Kabuy",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.11",
+        "name": "Meos Mansar"
+      }
+    },
+    {
+      "id": "96.03.11.2008",
+      "name": "Kurkapa",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.11",
+        "name": "Meos Mansar"
+      }
+    },
+    {
+      "id": "96.03.11.2009",
+      "name": "Sauandarek",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.11",
+        "name": "Meos Mansar"
+      }
+    },
+    {
+      "id": "96.03.14.2001",
+      "name": "Manyaifun",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.14",
+        "name": "Waigeo Barat Kepulauan"
+      }
+    },
+    {
+      "id": "96.03.14.2002",
+      "name": "Miosmanggara",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.14",
+        "name": "Waigeo Barat Kepulauan"
+      }
+    },
+    {
+      "id": "96.03.14.2003",
+      "name": "Pam",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.14",
+        "name": "Waigeo Barat Kepulauan"
+      }
+    },
+    {
+      "id": "96.03.14.2004",
+      "name": "Saukabu",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.14",
+        "name": "Waigeo Barat Kepulauan"
+      }
+    },
+    {
+      "id": "96.03.14.2005",
+      "name": "Gag",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.14",
+        "name": "Waigeo Barat Kepulauan"
+      }
+    },
+    {
+      "id": "96.03.14.2006",
+      "name": "Saupapir",
+      "postal_code": "98485",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.03",
+        "name": "Kabupaten Raja Ampat"
+      },
+      "district": {
+        "id": "96.03.14",
+        "name": "Waigeo Barat Kepulauan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

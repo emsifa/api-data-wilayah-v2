@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "16.71.01.1001",
+      "name": "Tiga-puluh-lima Ilir",
+      "postal_code": "30146",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.71",
+        "name": "Kota Palembang"
+      },
+      "district": {
+        "id": "16.71.01",
+        "name": "Ilir Barat Dua"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

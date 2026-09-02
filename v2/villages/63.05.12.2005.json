@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.05.12.2005",
+    "name": "Batu Hapu",
+    "postal_code": "71184",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.05",
+      "name": "Kabupaten Tapin"
+    },
+    "district": {
+      "id": "63.05.12",
+      "name": "Hatungun"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

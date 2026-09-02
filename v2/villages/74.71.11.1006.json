@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.71.11.1006",
+    "name": "Tondonggeu",
+    "postal_code": "93238",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.71",
+      "name": "Kota Kendari"
+    },
+    "district": {
+      "id": "74.71.11",
+      "name": "Nambo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

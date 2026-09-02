@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.07.03.2010",
+    "name": "Cinta Rakyat",
+    "postal_code": "20357",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.07",
+      "name": "Kabupaten Deli Serdang"
+    },
+    "district": {
+      "id": "12.07.03",
+      "name": "Sibolangit"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

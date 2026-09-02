@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.11.08.2011",
+    "name": "Karang Anyar",
+    "postal_code": "31594",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.11",
+      "name": "Kabupaten Empat Lawang"
+    },
+    "district": {
+      "id": "16.11.08",
+      "name": "Sikap Dalam"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

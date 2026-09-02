@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.27.03.1009",
+      "name": "Dalpenang",
+      "postal_code": "69212",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.27",
+        "name": "Kabupaten Sampang"
+      },
+      "district": {
+        "id": "35.27.03",
+        "name": "Sampang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.02.16.1001",
+    "name": "Kertosari",
+    "postal_code": "63491",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.02",
+      "name": "Kabupaten Ponorogo"
+    },
+    "district": {
+      "id": "35.02.16",
+      "name": "Babadan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

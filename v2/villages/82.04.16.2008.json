@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.04.16.2008",
+    "name": "Kasiruta Dalam",
+    "postal_code": "97790",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.04",
+      "name": "Kabupaten Halmahera Selatan"
+    },
+    "district": {
+      "id": "82.04.16",
+      "name": "Kasiruta Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": "76.02.11.2001",
+      "name": "Tommo",
+      "postal_code": "91564",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.11",
+        "name": "Tommo"
+      }
+    },
+    {
+      "id": "76.02.11.2002",
+      "name": "Campaloga",
+      "postal_code": "91564",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.11",
+        "name": "Tommo"
+      }
+    },
+    {
+      "id": "76.02.11.2003",
+      "name": "Buana Sakti",
+      "postal_code": "91564",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.11",
+        "name": "Tommo"
+      }
+    },
+    {
+      "id": "76.02.11.2004",
+      "name": "Tamemongga",
+      "postal_code": "91564",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.11",
+        "name": "Tommo"
+      }
+    },
+    {
+      "id": "76.02.11.2005",
+      "name": "Tamejarra",
+      "postal_code": "91564",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.11",
+        "name": "Tommo"
+      }
+    },
+    {
+      "id": "76.02.11.2006",
+      "name": "Rantemario",
+      "postal_code": "91564",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.11",
+        "name": "Tommo"
+      }
+    },
+    {
+      "id": "76.02.11.2007",
+      "name": "Malino",
+      "postal_code": "91564",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.11",
+        "name": "Tommo"
+      }
+    },
+    {
+      "id": "76.02.11.2008",
+      "name": "Kakullasang",
+      "postal_code": "91564",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.11",
+        "name": "Tommo"
+      }
+    },
+    {
+      "id": "76.02.11.2009",
+      "name": "Leling",
+      "postal_code": "91564",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.11",
+        "name": "Tommo"
+      }
+    },
+    {
+      "id": "76.02.11.2010",
+      "name": "Kalepu",
+      "postal_code": "91564",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.11",
+        "name": "Tommo"
+      }
+    },
+    {
+      "id": "76.02.11.2011",
+      "name": "Sandana",
+      "postal_code": "91564",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.11",
+        "name": "Tommo"
+      }
+    },
+    {
+      "id": "76.02.11.2012",
+      "name": "Leling Barat",
+      "postal_code": "91564",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.11",
+        "name": "Tommo"
+      }
+    },
+    {
+      "id": "76.02.11.2013",
+      "name": "Leling Utara",
+      "postal_code": "91564",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.11",
+        "name": "Tommo"
+      }
+    },
+    {
+      "id": "76.02.11.2014",
+      "name": "Saludengen",
+      "postal_code": "91564",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.02",
+        "name": "Kabupaten Mamuju"
+      },
+      "district": {
+        "id": "76.02.11",
+        "name": "Tommo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.01.09.2002",
+    "name": "Garaupa",
+    "postal_code": "92863",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.01",
+      "name": "Kabupaten Kepulauan Selayar"
+    },
+    "district": {
+      "id": "73.01.09",
+      "name": "Pasilambena"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

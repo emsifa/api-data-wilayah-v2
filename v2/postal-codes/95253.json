@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "71.71.08.1008",
+      "name": "Kairagi Satu",
+      "postal_code": "95253",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.71",
+        "name": "Kota Manado"
+      },
+      "district": {
+        "id": "71.71.08",
+        "name": "Mapanget"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

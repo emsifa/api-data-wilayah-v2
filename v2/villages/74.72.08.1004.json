@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.72.08.1004",
+    "name": "Kaobula",
+    "postal_code": "93721",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.72",
+      "name": "Kota Bau Bau"
+    },
+    "district": {
+      "id": "74.72.08",
+      "name": "Batupoaro"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

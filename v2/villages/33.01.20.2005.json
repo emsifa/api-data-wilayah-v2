@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.01.20.2005",
+    "name": "Citembong",
+    "postal_code": "53281",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.01",
+      "name": "Kabupaten Cilacap"
+    },
+    "district": {
+      "id": "33.01.20",
+      "name": "Bantarsari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

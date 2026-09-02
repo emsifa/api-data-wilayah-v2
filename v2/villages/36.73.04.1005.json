@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.73.04.1005",
+    "name": "Cilaku",
+    "postal_code": "42171",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.73",
+      "name": "Kota Serang"
+    },
+    "district": {
+      "id": "36.73.04",
+      "name": "Curug"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

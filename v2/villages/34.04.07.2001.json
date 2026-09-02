@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.04.07.2001",
+    "name": "Caturtunggal",
+    "postal_code": "55281",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.04",
+      "name": "Kabupaten Sleman"
+    },
+    "district": {
+      "id": "34.04.07",
+      "name": "Depok"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.16.14.2024",
+    "name": "Ledok",
+    "postal_code": "58256",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.16",
+      "name": "Kabupaten Blora"
+    },
+    "district": {
+      "id": "33.16.14",
+      "name": "Todanan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

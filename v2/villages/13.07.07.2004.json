@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "13.07.07.2004",
+    "name": "Koto Lamo",
+    "postal_code": "26273",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.07",
+      "name": "Kabupaten Lima Puluh Kota"
+    },
+    "district": {
+      "id": "13.07.07",
+      "name": "Kapur IX"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

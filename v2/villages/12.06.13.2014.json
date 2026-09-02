@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.06.13.2014",
+    "name": "Liang Merdeka",
+    "postal_code": "22155",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.06",
+      "name": "Kabupaten Karo"
+    },
+    "district": {
+      "id": "12.06.13",
+      "name": "Kutabuluh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.04.22.2017",
+    "name": "Boneatiro Barat",
+    "postal_code": "93755",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.04",
+      "name": "Kabupaten Buton"
+    },
+    "district": {
+      "id": "74.04.22",
+      "name": "Kapontori"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

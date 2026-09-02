@@ -1,0 +1,314 @@
+{
+  "data": [
+    {
+      "id": "73.24.03.2001",
+      "name": "Loeha",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2002",
+      "name": "Mahalona",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2003",
+      "name": "Timampu",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2004",
+      "name": "Wawondula",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2005",
+      "name": "Langkea Raya",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2006",
+      "name": "Tokalimbo",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2007",
+      "name": "Baruga",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2008",
+      "name": "Pekaloa",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2009",
+      "name": "Lioka",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2010",
+      "name": "Asuli",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2011",
+      "name": "Bantilang",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2012",
+      "name": "Masiku",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2013",
+      "name": "Rante Angin",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2014",
+      "name": "Matompi",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2015",
+      "name": "Tole",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2016",
+      "name": "Libukan Mandiri",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2017",
+      "name": "Kalosi",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    },
+    {
+      "id": "73.24.03.2018",
+      "name": "Buangin",
+      "postal_code": "92982",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.24",
+        "name": "Kabupaten Luwu Timur"
+      },
+      "district": {
+        "id": "73.24.03",
+        "name": "Towuti"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.02.42.2010",
+    "name": "Andalambe",
+    "postal_code": "93460",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.02",
+      "name": "Kabupaten Konawe"
+    },
+    "district": {
+      "id": "74.02.42",
+      "name": "Tongauna Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.01.08.2001",
+    "name": "Hargomulyo",
+    "postal_code": "55653",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.01",
+      "name": "Kabupaten Kulon Progo"
+    },
+    "district": {
+      "id": "34.01.08",
+      "name": "Kokap"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

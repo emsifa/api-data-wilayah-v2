@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.07.14.1004",
+    "name": "Wuring",
+    "postal_code": "86115",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.07",
+      "name": "Kabupaten Sikka"
+    },
+    "district": {
+      "id": "53.07.14",
+      "name": "Alok Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

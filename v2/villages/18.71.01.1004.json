@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.71.01.1004",
+    "name": "Surabaya",
+    "postal_code": "35148",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.71",
+      "name": "Kota Bandar Lampung"
+    },
+    "district": {
+      "id": "18.71.01",
+      "name": "Kedaton"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

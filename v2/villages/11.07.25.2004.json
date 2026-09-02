@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.07.25.2004",
+    "name": "Baroh",
+    "postal_code": "24150",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.07",
+      "name": "Kabupaten Pidie"
+    },
+    "district": {
+      "id": "11.07.25",
+      "name": "Grong-grong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

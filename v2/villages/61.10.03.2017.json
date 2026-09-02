@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.10.03.2017",
+    "name": "Domet Permai",
+    "postal_code": "79681",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.10",
+      "name": "Kabupaten Melawi"
+    },
+    "district": {
+      "id": "61.10.03",
+      "name": "Ella Hilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.15.09.2012",
+    "name": "Lendong",
+    "postal_code": "86761",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.15",
+      "name": "Kabupaten Manggarai Barat"
+    },
+    "district": {
+      "id": "53.15.09",
+      "name": "Lembor Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

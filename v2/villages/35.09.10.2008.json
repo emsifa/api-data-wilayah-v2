@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.09.10.2008",
+    "name": "Gumelar",
+    "postal_code": "68161",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.09",
+      "name": "Kabupaten Jember"
+    },
+    "district": {
+      "id": "35.09.10",
+      "name": "Balung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

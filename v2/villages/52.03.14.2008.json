@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.03.14.2008",
+    "name": "Beriri Jarak",
+    "postal_code": "83650",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.03",
+      "name": "Kabupaten Lombok Timur"
+    },
+    "district": {
+      "id": "52.03.14",
+      "name": "Wanasaba"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

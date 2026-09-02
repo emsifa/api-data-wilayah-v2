@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "32.18.04.2001",
+      "name": "Cigugur",
+      "postal_code": "46392",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.18",
+        "name": "Kabupaten Pangandaran"
+      },
+      "district": {
+        "id": "32.18.04",
+        "name": "Cigugur"
+      }
+    },
+    {
+      "id": "32.18.04.2002",
+      "name": "Cimindi",
+      "postal_code": "46392",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.18",
+        "name": "Kabupaten Pangandaran"
+      },
+      "district": {
+        "id": "32.18.04",
+        "name": "Cigugur"
+      }
+    },
+    {
+      "id": "32.18.04.2003",
+      "name": "Pagerbumi",
+      "postal_code": "46392",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.18",
+        "name": "Kabupaten Pangandaran"
+      },
+      "district": {
+        "id": "32.18.04",
+        "name": "Cigugur"
+      }
+    },
+    {
+      "id": "32.18.04.2004",
+      "name": "Kertajaya",
+      "postal_code": "46392",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.18",
+        "name": "Kabupaten Pangandaran"
+      },
+      "district": {
+        "id": "32.18.04",
+        "name": "Cigugur"
+      }
+    },
+    {
+      "id": "32.18.04.2005",
+      "name": "Bunisari",
+      "postal_code": "46392",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.18",
+        "name": "Kabupaten Pangandaran"
+      },
+      "district": {
+        "id": "32.18.04",
+        "name": "Cigugur"
+      }
+    },
+    {
+      "id": "32.18.04.2006",
+      "name": "Campaka",
+      "postal_code": "46392",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.18",
+        "name": "Kabupaten Pangandaran"
+      },
+      "district": {
+        "id": "32.18.04",
+        "name": "Cigugur"
+      }
+    },
+    {
+      "id": "32.18.04.2007",
+      "name": "Harumandala",
+      "postal_code": "46392",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.18",
+        "name": "Kabupaten Pangandaran"
+      },
+      "district": {
+        "id": "32.18.04",
+        "name": "Cigugur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

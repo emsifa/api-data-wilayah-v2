@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "36.71.13.1001",
+      "name": "Larangan Utara",
+      "postal_code": "15154",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.13",
+        "name": "Larangan"
+      }
+    },
+    {
+      "id": "36.71.13.1002",
+      "name": "Larangan Selatan",
+      "postal_code": "15154",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.13",
+        "name": "Larangan"
+      }
+    },
+    {
+      "id": "36.71.13.1005",
+      "name": "Larangan Indah",
+      "postal_code": "15154",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.13",
+        "name": "Larangan"
+      }
+    },
+    {
+      "id": "36.71.13.1006",
+      "name": "Gaga",
+      "postal_code": "15154",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.13",
+        "name": "Larangan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.15.16.2025",
+    "name": "Klampok",
+    "postal_code": "58162",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.15",
+      "name": "Kabupaten Grobogan"
+    },
+    "district": {
+      "id": "33.15.16",
+      "name": "Godong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

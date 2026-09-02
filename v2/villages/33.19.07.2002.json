@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.19.07.2002",
+    "name": "Ngembalrejo",
+    "postal_code": "59322",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.19",
+      "name": "Kabupaten Kudus"
+    },
+    "district": {
+      "id": "33.19.07",
+      "name": "Bae"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

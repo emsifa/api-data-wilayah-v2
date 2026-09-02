@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.16.02.2015",
+    "name": "Ulupulu I",
+    "postal_code": "86465",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.16",
+      "name": "Kabupaten Nagekeo"
+    },
+    "district": {
+      "id": "53.16.02",
+      "name": "Nangaroro"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

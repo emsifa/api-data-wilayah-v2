@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "61.72.01.1001",
+      "name": "Roban",
+      "postal_code": "79112",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.72",
+        "name": "Kota Singkawang"
+      },
+      "district": {
+        "id": "61.72.01",
+        "name": "Singkawang Tengah"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

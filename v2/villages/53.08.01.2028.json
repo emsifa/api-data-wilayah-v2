@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.08.01.2028",
+    "name": "Embuzozo",
+    "postal_code": "86351",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.08",
+      "name": "Kabupaten Ende"
+    },
+    "district": {
+      "id": "53.08.01",
+      "name": "Nangapanda"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

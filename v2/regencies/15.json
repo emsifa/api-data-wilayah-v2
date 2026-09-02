@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "15",
+    "name": "Jambi",
+    "capital": "Jambi",
+    "lat": -1.6039983307773444,
+    "lng": 103.58357974539331,
+    "elv": 28,
+    "tz": 7,
+    "population": 3834439,
+    "total_area": 49023.037,
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.17.03.2007",
+    "name": "Tugumukti",
+    "postal_code": "40551",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.17",
+      "name": "Kabupaten Bandung Barat"
+    },
+    "district": {
+      "id": "32.17.03",
+      "name": "Cisarua"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

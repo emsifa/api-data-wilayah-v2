@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.04.02.2016",
+    "name": "Tamban Sari Baru",
+    "postal_code": "70566",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.04",
+      "name": "Kabupaten Barito Kuala"
+    },
+    "district": {
+      "id": "63.04.02",
+      "name": "Tamban"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

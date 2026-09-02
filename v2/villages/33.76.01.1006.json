@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.76.01.1006",
+    "name": "Tegalsari",
+    "postal_code": "52111",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.76",
+      "name": "Kota Tegal"
+    },
+    "district": {
+      "id": "33.76.01",
+      "name": "Tegal Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

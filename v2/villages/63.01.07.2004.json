@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.01.07.2004",
+    "name": "Sungai Cuka",
+    "postal_code": "70883",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.01",
+      "name": "Kabupaten Tanah Laut"
+    },
+    "district": {
+      "id": "63.01.07",
+      "name": "Kintap"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

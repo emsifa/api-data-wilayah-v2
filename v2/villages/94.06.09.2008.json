@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.06.09.2008",
+    "name": "Gabaikunu",
+    "postal_code": "98873",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.06",
+      "name": "Kabupaten Dogiyai"
+    },
+    "district": {
+      "id": "94.06.09",
+      "name": "Mapia Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

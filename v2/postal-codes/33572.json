@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "19.06.04.2001",
+      "name": "Mentawak",
+      "postal_code": "33572",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.06",
+        "name": "Kabupaten Belitung Timur"
+      },
+      "district": {
+        "id": "19.06.04",
+        "name": "Kelapa Kampit"
+      }
+    },
+    {
+      "id": "19.06.04.2002",
+      "name": "Senyubuk",
+      "postal_code": "33572",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.06",
+        "name": "Kabupaten Belitung Timur"
+      },
+      "district": {
+        "id": "19.06.04",
+        "name": "Kelapa Kampit"
+      }
+    },
+    {
+      "id": "19.06.04.2003",
+      "name": "Cendil",
+      "postal_code": "33572",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.06",
+        "name": "Kabupaten Belitung Timur"
+      },
+      "district": {
+        "id": "19.06.04",
+        "name": "Kelapa Kampit"
+      }
+    },
+    {
+      "id": "19.06.04.2005",
+      "name": "Buding",
+      "postal_code": "33572",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.06",
+        "name": "Kabupaten Belitung Timur"
+      },
+      "district": {
+        "id": "19.06.04",
+        "name": "Kelapa Kampit"
+      }
+    },
+    {
+      "id": "19.06.04.2006",
+      "name": "Mayang",
+      "postal_code": "33572",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.06",
+        "name": "Kabupaten Belitung Timur"
+      },
+      "district": {
+        "id": "19.06.04",
+        "name": "Kelapa Kampit"
+      }
+    },
+    {
+      "id": "19.06.04.2007",
+      "name": "Pembaharuan",
+      "postal_code": "33572",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.06",
+        "name": "Kabupaten Belitung Timur"
+      },
+      "district": {
+        "id": "19.06.04",
+        "name": "Kelapa Kampit"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

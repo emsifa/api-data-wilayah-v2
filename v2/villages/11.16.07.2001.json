@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.16.07.2001",
+    "name": "Alur Tani Satu",
+    "postal_code": "24479",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.16",
+      "name": "Kabupaten Aceh Tamiang"
+    },
+    "district": {
+      "id": "11.16.07",
+      "name": "Tamiang Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

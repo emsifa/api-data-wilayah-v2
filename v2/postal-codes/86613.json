@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "53.13.05.1017",
+      "name": "Lewoleba Barat",
+      "postal_code": "86613",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.13",
+        "name": "Kabupaten Lembata"
+      },
+      "district": {
+        "id": "53.13.05",
+        "name": "Nubatukan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

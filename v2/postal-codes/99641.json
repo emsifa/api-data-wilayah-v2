@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": "93.01.04.2001",
+      "name": "Kimaam",
+      "postal_code": "99641",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.04",
+        "name": "Kimaam"
+      }
+    },
+    {
+      "id": "93.01.04.2002",
+      "name": "Komolom",
+      "postal_code": "99641",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.04",
+        "name": "Kimaam"
+      }
+    },
+    {
+      "id": "93.01.04.2003",
+      "name": "Kumbis",
+      "postal_code": "99641",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.04",
+        "name": "Kimaam"
+      }
+    },
+    {
+      "id": "93.01.04.2004",
+      "name": "Kalilam",
+      "postal_code": "99641",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.04",
+        "name": "Kimaam"
+      }
+    },
+    {
+      "id": "93.01.04.2005",
+      "name": "Teri",
+      "postal_code": "99641",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.04",
+        "name": "Kimaam"
+      }
+    },
+    {
+      "id": "93.01.04.2006",
+      "name": "Mambum",
+      "postal_code": "99641",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.04",
+        "name": "Kimaam"
+      }
+    },
+    {
+      "id": "93.01.04.2007",
+      "name": "Kiworo",
+      "postal_code": "99641",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.04",
+        "name": "Kimaam"
+      }
+    },
+    {
+      "id": "93.01.04.2008",
+      "name": "Woner",
+      "postal_code": "99641",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.04",
+        "name": "Kimaam"
+      }
+    },
+    {
+      "id": "93.01.04.2009",
+      "name": "Deka",
+      "postal_code": "99641",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.04",
+        "name": "Kimaam"
+      }
+    },
+    {
+      "id": "93.01.04.2010",
+      "name": "Turiram",
+      "postal_code": "99641",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.04",
+        "name": "Kimaam"
+      }
+    },
+    {
+      "id": "93.01.04.2011",
+      "name": "Purawanderu",
+      "postal_code": "99641",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.04",
+        "name": "Kimaam"
+      }
+    },
+    {
+      "id": "93.01.04.2012",
+      "name": "Umanderu",
+      "postal_code": "99641",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.04",
+        "name": "Kimaam"
+      }
+    },
+    {
+      "id": "93.01.04.2013",
+      "name": "Webu",
+      "postal_code": "99641",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.04",
+        "name": "Kimaam"
+      }
+    },
+    {
+      "id": "93.01.21.2001",
+      "name": "Sabudon",
+      "postal_code": "99641",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.01",
+        "name": "Kabupaten Merauke"
+      },
+      "district": {
+        "id": "93.01.21",
+        "name": "Padua"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.12.05.2008",
+    "name": "Pandan",
+    "postal_code": "31314",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.12",
+      "name": "Kabupaten Penukal Abab Lematang Ilir"
+    },
+    "district": {
+      "id": "16.12.05",
+      "name": "Tanah Abang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

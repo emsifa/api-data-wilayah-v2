@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.01.11.2004",
+    "name": "Kohala",
+    "postal_code": "92851",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.01",
+      "name": "Kabupaten Kepulauan Selayar"
+    },
+    "district": {
+      "id": "73.01.11",
+      "name": "Buki"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "11.72.02.2008",
+      "name": "Ie Meulee",
+      "postal_code": "23521",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.72",
+        "name": "Kota Sabang"
+      },
+      "district": {
+        "id": "11.72.02",
+        "name": "Sukajaya"
+      }
+    },
+    {
+      "id": "11.72.02.2009",
+      "name": "Ujoeng Kareung",
+      "postal_code": "23521",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.72",
+        "name": "Kota Sabang"
+      },
+      "district": {
+        "id": "11.72.02",
+        "name": "Sukajaya"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

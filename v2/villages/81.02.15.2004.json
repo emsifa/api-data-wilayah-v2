@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.02.15.2004",
+    "name": "Ngilngof",
+    "postal_code": "97623",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.02",
+      "name": "Kabupaten Maluku Tenggara"
+    },
+    "district": {
+      "id": "81.02.15",
+      "name": "Manyeuw"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

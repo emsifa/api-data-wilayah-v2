@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.05.08.2024",
+    "name": "Banjar Dewa",
+    "postal_code": "34682",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.05",
+      "name": "Kabupaten Tulang Bawang"
+    },
+    "district": {
+      "id": "18.05.08",
+      "name": "Banjar Agung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "72.10.11.2001",
+      "name": "Sibonu",
+      "postal_code": "94360",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.11",
+        "name": "Dolo Barat"
+      }
+    },
+    {
+      "id": "72.10.11.2002",
+      "name": "Kaluku Tinggu",
+      "postal_code": "94360",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.11",
+        "name": "Dolo Barat"
+      }
+    },
+    {
+      "id": "72.10.11.2003",
+      "name": "Pewunu",
+      "postal_code": "94360",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.11",
+        "name": "Dolo Barat"
+      }
+    },
+    {
+      "id": "72.10.11.2004",
+      "name": "Kaleke",
+      "postal_code": "94360",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.11",
+        "name": "Dolo Barat"
+      }
+    },
+    {
+      "id": "72.10.11.2005",
+      "name": "Rarampadende",
+      "postal_code": "94360",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.11",
+        "name": "Dolo Barat"
+      }
+    },
+    {
+      "id": "72.10.11.2006",
+      "name": "Balumpewa",
+      "postal_code": "94360",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.11",
+        "name": "Dolo Barat"
+      }
+    },
+    {
+      "id": "72.10.11.2007",
+      "name": "Balamoa",
+      "postal_code": "94360",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.11",
+        "name": "Dolo Barat"
+      }
+    },
+    {
+      "id": "72.10.11.2008",
+      "name": "Pesaku",
+      "postal_code": "94360",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.11",
+        "name": "Dolo Barat"
+      }
+    },
+    {
+      "id": "72.10.11.2009",
+      "name": "Mantikole",
+      "postal_code": "94360",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.11",
+        "name": "Dolo Barat"
+      }
+    },
+    {
+      "id": "72.10.11.2010",
+      "name": "Bobo",
+      "postal_code": "94360",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.11",
+        "name": "Dolo Barat"
+      }
+    },
+    {
+      "id": "72.10.11.2011",
+      "name": "Balaroa Pewenu",
+      "postal_code": "94360",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.11",
+        "name": "Dolo Barat"
+      }
+    },
+    {
+      "id": "72.10.11.2012",
+      "name": "Luku",
+      "postal_code": "94360",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.10",
+        "name": "Kabupaten Sigi"
+      },
+      "district": {
+        "id": "72.10.11",
+        "name": "Dolo Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

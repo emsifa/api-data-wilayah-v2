@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.74.05.2004",
+    "name": "Paya Bujok Seuleumak",
+    "postal_code": "24415",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.74",
+      "name": "Kota Langsa"
+    },
+    "district": {
+      "id": "11.74.05",
+      "name": "Langsa Baro"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

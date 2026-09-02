@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.05.10.2009",
+    "name": "Tanjung Sari",
+    "postal_code": "36366",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.05",
+      "name": "Kabupaten Muaro Jambi"
+    },
+    "district": {
+      "id": "15.05.10",
+      "name": "Bahar Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.04.08.2008",
+    "name": "Margasari",
+    "postal_code": "42455",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.04",
+      "name": "Kabupaten Serang"
+    },
+    "district": {
+      "id": "36.04.08",
+      "name": "Pulo Ampel"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

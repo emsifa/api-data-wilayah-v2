@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "96.04.08.2008",
+    "name": "Warmanen",
+    "postal_code": "98447",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.04",
+      "name": "Kabupaten Tambrauw"
+    },
+    "district": {
+      "id": "96.04.08",
+      "name": "Moraid"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

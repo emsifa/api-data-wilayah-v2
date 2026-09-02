@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.04.13.2006",
+    "name": "Tanjung Kurung",
+    "postal_code": "38957",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.04",
+      "name": "Kabupaten Kaur"
+    },
+    "district": {
+      "id": "17.04.13",
+      "name": "Lungkang Kule"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

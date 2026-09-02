@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": "36.04.32.2001",
+      "name": "Mancak",
+      "postal_code": "42165",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.04",
+        "name": "Kabupaten Serang"
+      },
+      "district": {
+        "id": "36.04.32",
+        "name": "Mancak"
+      }
+    },
+    {
+      "id": "36.04.32.2002",
+      "name": "Ciwarna",
+      "postal_code": "42165",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.04",
+        "name": "Kabupaten Serang"
+      },
+      "district": {
+        "id": "36.04.32",
+        "name": "Mancak"
+      }
+    },
+    {
+      "id": "36.04.32.2003",
+      "name": "Angsana",
+      "postal_code": "42165",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.04",
+        "name": "Kabupaten Serang"
+      },
+      "district": {
+        "id": "36.04.32",
+        "name": "Mancak"
+      }
+    },
+    {
+      "id": "36.04.32.2004",
+      "name": "Talaga",
+      "postal_code": "42165",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.04",
+        "name": "Kabupaten Serang"
+      },
+      "district": {
+        "id": "36.04.32",
+        "name": "Mancak"
+      }
+    },
+    {
+      "id": "36.04.32.2005",
+      "name": "Cikedung",
+      "postal_code": "42165",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.04",
+        "name": "Kabupaten Serang"
+      },
+      "district": {
+        "id": "36.04.32",
+        "name": "Mancak"
+      }
+    },
+    {
+      "id": "36.04.32.2006",
+      "name": "Sigedong",
+      "postal_code": "42165",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.04",
+        "name": "Kabupaten Serang"
+      },
+      "district": {
+        "id": "36.04.32",
+        "name": "Mancak"
+      }
+    },
+    {
+      "id": "36.04.32.2007",
+      "name": "Sangiang",
+      "postal_code": "42165",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.04",
+        "name": "Kabupaten Serang"
+      },
+      "district": {
+        "id": "36.04.32",
+        "name": "Mancak"
+      }
+    },
+    {
+      "id": "36.04.32.2008",
+      "name": "Pasirwaru",
+      "postal_code": "42165",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.04",
+        "name": "Kabupaten Serang"
+      },
+      "district": {
+        "id": "36.04.32",
+        "name": "Mancak"
+      }
+    },
+    {
+      "id": "36.04.32.2009",
+      "name": "Waringin",
+      "postal_code": "42165",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.04",
+        "name": "Kabupaten Serang"
+      },
+      "district": {
+        "id": "36.04.32",
+        "name": "Mancak"
+      }
+    },
+    {
+      "id": "36.04.32.2010",
+      "name": "Winong",
+      "postal_code": "42165",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.04",
+        "name": "Kabupaten Serang"
+      },
+      "district": {
+        "id": "36.04.32",
+        "name": "Mancak"
+      }
+    },
+    {
+      "id": "36.04.32.2011",
+      "name": "Batukuda",
+      "postal_code": "42165",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.04",
+        "name": "Kabupaten Serang"
+      },
+      "district": {
+        "id": "36.04.32",
+        "name": "Mancak"
+      }
+    },
+    {
+      "id": "36.04.32.2012",
+      "name": "Labuan",
+      "postal_code": "42165",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.04",
+        "name": "Kabupaten Serang"
+      },
+      "district": {
+        "id": "36.04.32",
+        "name": "Mancak"
+      }
+    },
+    {
+      "id": "36.04.32.2013",
+      "name": "Bale Kambang",
+      "postal_code": "42165",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.04",
+        "name": "Kabupaten Serang"
+      },
+      "district": {
+        "id": "36.04.32",
+        "name": "Mancak"
+      }
+    },
+    {
+      "id": "36.04.32.2014",
+      "name": "Bale Kencana",
+      "postal_code": "42165",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.04",
+        "name": "Kabupaten Serang"
+      },
+      "district": {
+        "id": "36.04.32",
+        "name": "Mancak"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

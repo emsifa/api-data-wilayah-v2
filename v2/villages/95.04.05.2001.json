@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.04.05.2001",
+    "name": "Goyage",
+    "postal_code": "99025",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.04",
+      "name": "Kabupaten Tolikara"
+    },
+    "district": {
+      "id": "95.04.05",
+      "name": "Goyage"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

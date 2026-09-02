@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.04.44.2004",
+    "name": "Bandasari",
+    "postal_code": "40238",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.04",
+      "name": "Kabupaten Bandung"
+    },
+    "district": {
+      "id": "32.04.44",
+      "name": "Cangkuang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

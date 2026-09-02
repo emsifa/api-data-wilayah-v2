@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.76.02.1010",
+    "name": "Tanjung Marulak",
+    "postal_code": "20616",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.76",
+      "name": "Kota Tebing Tinggi"
+    },
+    "district": {
+      "id": "12.76.02",
+      "name": "Rambutan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "12.15.03.2001",
+      "name": "Salak I",
+      "postal_code": "22272",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.15",
+        "name": "Kabupaten Pakpak Bharat"
+      },
+      "district": {
+        "id": "12.15.03",
+        "name": "Salak"
+      }
+    },
+    {
+      "id": "12.15.03.2002",
+      "name": "Salak II",
+      "postal_code": "22272",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.15",
+        "name": "Kabupaten Pakpak Bharat"
+      },
+      "district": {
+        "id": "12.15.03",
+        "name": "Salak"
+      }
+    },
+    {
+      "id": "12.15.03.2003",
+      "name": "Boangmanalu",
+      "postal_code": "22272",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.15",
+        "name": "Kabupaten Pakpak Bharat"
+      },
+      "district": {
+        "id": "12.15.03",
+        "name": "Salak"
+      }
+    },
+    {
+      "id": "12.15.03.2009",
+      "name": "Sibongkaras",
+      "postal_code": "22272",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.15",
+        "name": "Kabupaten Pakpak Bharat"
+      },
+      "district": {
+        "id": "12.15.03",
+        "name": "Salak"
+      }
+    },
+    {
+      "id": "12.15.03.2013",
+      "name": "Kuta Tinggi",
+      "postal_code": "22272",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.15",
+        "name": "Kabupaten Pakpak Bharat"
+      },
+      "district": {
+        "id": "12.15.03",
+        "name": "Salak"
+      }
+    },
+    {
+      "id": "12.15.03.2014",
+      "name": "Penanggalan Binanga Boang",
+      "postal_code": "22272",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.15",
+        "name": "Kabupaten Pakpak Bharat"
+      },
+      "district": {
+        "id": "12.15.03",
+        "name": "Salak"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

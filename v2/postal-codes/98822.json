@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "94.01.01.2012",
+      "name": "Sanoba",
+      "postal_code": "98822",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.01",
+        "name": "Kabupaten Nabire"
+      },
+      "district": {
+        "id": "94.01.01",
+        "name": "Nabire"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

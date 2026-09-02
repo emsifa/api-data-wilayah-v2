@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.72.02.1021",
+    "name": "Tanjung Agung",
+    "postal_code": "31522",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.72",
+      "name": "Kota Pagar Alam"
+    },
+    "district": {
+      "id": "16.72.02",
+      "name": "Pagar Alam Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

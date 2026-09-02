@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.19.08.2010",
+    "name": "Kandangan",
+    "postal_code": "21257",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.19",
+      "name": "Kabupaten Batu Bara"
+    },
+    "district": {
+      "id": "12.19.08",
+      "name": "Laut Tador"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

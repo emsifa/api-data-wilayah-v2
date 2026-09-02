@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.72.07.2006",
+    "name": "Tagalaya",
+    "postal_code": "97825",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.72",
+      "name": "Kota Tidore Kepulauan"
+    },
+    "district": {
+      "id": "82.72.07",
+      "name": "Oba Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

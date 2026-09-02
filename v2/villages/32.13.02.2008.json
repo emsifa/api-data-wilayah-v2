@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.13.02.2008",
+    "name": "Cisalak",
+    "postal_code": "41283",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.13",
+      "name": "Kabupaten Subang"
+    },
+    "district": {
+      "id": "32.13.02",
+      "name": "Cisalak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

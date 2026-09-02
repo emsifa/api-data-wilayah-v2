@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.19.10.2009",
+    "name": "Warurejo",
+    "postal_code": "63152",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.19",
+      "name": "Kabupaten Madiun"
+    },
+    "district": {
+      "id": "35.19.10",
+      "name": "Balerejo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

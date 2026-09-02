@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.06.08.2002",
+    "name": "Deiyapa",
+    "postal_code": "98884",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.06",
+      "name": "Kabupaten Dogiyai"
+    },
+    "district": {
+      "id": "94.06.08",
+      "name": "Kamu Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

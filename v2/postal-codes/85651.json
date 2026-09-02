@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "53.03.01.2006",
+      "name": "Bitefa",
+      "postal_code": "85651",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.01",
+        "name": "Miomaffo Timur"
+      }
+    },
+    {
+      "id": "53.03.01.2020",
+      "name": "Oesena",
+      "postal_code": "85651",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.01",
+        "name": "Miomaffo Timur"
+      }
+    },
+    {
+      "id": "53.03.16.2001",
+      "name": "Inbate",
+      "postal_code": "85651",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.16",
+        "name": "Bikomi Nilulat"
+      }
+    },
+    {
+      "id": "53.03.16.2002",
+      "name": "Sunkaen",
+      "postal_code": "85651",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.16",
+        "name": "Bikomi Nilulat"
+      }
+    },
+    {
+      "id": "53.03.16.2003",
+      "name": "Nainaban",
+      "postal_code": "85651",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.16",
+        "name": "Bikomi Nilulat"
+      }
+    },
+    {
+      "id": "53.03.16.2004",
+      "name": "Haumeni Ana",
+      "postal_code": "85651",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.16",
+        "name": "Bikomi Nilulat"
+      }
+    },
+    {
+      "id": "53.03.16.2005",
+      "name": "Nilulat",
+      "postal_code": "85651",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.16",
+        "name": "Bikomi Nilulat"
+      }
+    },
+    {
+      "id": "53.03.16.2006",
+      "name": "Tubu",
+      "postal_code": "85651",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.03",
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "district": {
+        "id": "53.03.16",
+        "name": "Bikomi Nilulat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

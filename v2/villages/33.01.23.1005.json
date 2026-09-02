@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.01.23.1005",
+    "name": "Kebonmanis",
+    "postal_code": "53235",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.01",
+      "name": "Kabupaten Cilacap"
+    },
+    "district": {
+      "id": "33.01.23",
+      "name": "Cilacap Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

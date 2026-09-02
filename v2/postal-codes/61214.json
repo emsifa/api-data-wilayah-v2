@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.15.08.1004",
+      "name": "Sidokare",
+      "postal_code": "61214",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.15",
+        "name": "Kabupaten Sidoarjo"
+      },
+      "district": {
+        "id": "35.15.08",
+        "name": "Sidoarjo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

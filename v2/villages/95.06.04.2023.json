@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.06.04.2023",
+    "name": "Dukunasi",
+    "postal_code": "99081",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.06",
+      "name": "Kabupaten Yalimo"
+    },
+    "district": {
+      "id": "95.06.04",
+      "name": "Benawa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

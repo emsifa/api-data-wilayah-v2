@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "64.71.04.1002",
+      "name": "Gunung Sari Ilir",
+      "postal_code": "76121",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.71",
+        "name": "Kota Balikpapan"
+      },
+      "district": {
+        "id": "64.71.04",
+        "name": "Balikpapan Tengah"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

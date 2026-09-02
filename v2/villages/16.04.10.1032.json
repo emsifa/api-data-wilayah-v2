@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.04.10.1032",
+    "name": "Gunung Gajah",
+    "postal_code": "31418",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.04",
+      "name": "Kabupaten Lahat"
+    },
+    "district": {
+      "id": "16.04.10",
+      "name": "Lahat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

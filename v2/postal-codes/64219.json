@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.06.26.2007",
+      "name": "Blaru",
+      "postal_code": "64219",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.06",
+        "name": "Kabupaten Kediri"
+      },
+      "district": {
+        "id": "35.06.26",
+        "name": "Badas"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

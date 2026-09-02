@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.08.12.2027",
+    "name": "Sukorejo",
+    "postal_code": "56163",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.08",
+      "name": "Kabupaten Magelang"
+    },
+    "district": {
+      "id": "33.08.12",
+      "name": "Kajoran"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

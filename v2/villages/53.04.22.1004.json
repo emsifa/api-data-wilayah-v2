@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.04.22.1004",
+    "name": "Fatukbot",
+    "postal_code": "85717",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.04",
+      "name": "Kabupaten Belu"
+    },
+    "district": {
+      "id": "53.04.22",
+      "name": "Atambua Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

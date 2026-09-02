@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.12.15.2003",
+    "name": "Tamansari",
+    "postal_code": "68355",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.12",
+      "name": "Kabupaten Situbondo"
+    },
+    "district": {
+      "id": "35.12.15",
+      "name": "Sumbermalang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

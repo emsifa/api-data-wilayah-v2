@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.01.03.1004",
+    "name": "Lubuk Tukko",
+    "postal_code": "22615",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.01",
+      "name": "Kabupaten Tapanuli Tengah"
+    },
+    "district": {
+      "id": "12.01.03",
+      "name": "Pandan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

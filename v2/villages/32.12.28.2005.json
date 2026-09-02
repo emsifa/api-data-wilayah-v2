@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.12.28.2005",
+    "name": "Kedokanbunder Wetan",
+    "postal_code": "45280",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.12",
+      "name": "Kabupaten Indramayu"
+    },
+    "district": {
+      "id": "32.12.28",
+      "name": "Kedokan Bunder"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

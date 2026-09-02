@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "31.75.02.1007",
+    "name": "Jati",
+    "postal_code": "13220",
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    },
+    "regency": {
+      "id": "31.75",
+      "name": "Kota Administrasi Jakarta Timur"
+    },
+    "district": {
+      "id": "31.75.02",
+      "name": "Pulogadung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

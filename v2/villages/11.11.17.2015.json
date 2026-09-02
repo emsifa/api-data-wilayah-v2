@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.11.17.2015",
+    "name": "Tingkeum Manyang",
+    "postal_code": "24358",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.11",
+      "name": "Kabupaten Bireuen"
+    },
+    "district": {
+      "id": "11.11.17",
+      "name": "Kuta Blang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

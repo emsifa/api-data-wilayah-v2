@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.02.03.2008",
+    "name": "Umcen",
+    "postal_code": "98317",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.02",
+      "name": "Kabupaten Manokwari"
+    },
+    "district": {
+      "id": "92.02.03",
+      "name": "Warmare"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

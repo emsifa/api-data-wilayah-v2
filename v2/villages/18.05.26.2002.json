@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.05.26.2002",
+    "name": "Paduan Rajawali",
+    "postal_code": "34680",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.05",
+      "name": "Kabupaten Tulang Bawang"
+    },
+    "district": {
+      "id": "18.05.26",
+      "name": "Meraksa Aji"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

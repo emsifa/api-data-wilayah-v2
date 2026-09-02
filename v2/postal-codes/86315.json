@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "53.08.04.1006",
+      "name": "Paupanda",
+      "postal_code": "86315",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.08",
+        "name": "Kabupaten Ende"
+      },
+      "district": {
+        "id": "53.08.04",
+        "name": "Ende Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

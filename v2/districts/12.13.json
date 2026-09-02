@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "12.13",
+    "name": "Kabupaten Mandailing Natal",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.13",
+      "name": "Kabupaten Mandailing Natal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

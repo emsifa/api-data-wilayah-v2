@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.01.02.2023",
+    "name": "Padang Siring",
+    "postal_code": "38552",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.01",
+      "name": "Kabupaten Bengkulu Selatan"
+    },
+    "district": {
+      "id": "17.01.02",
+      "name": "Seginim"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

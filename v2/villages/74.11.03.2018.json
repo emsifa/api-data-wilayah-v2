@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.11.03.2018",
+    "name": "Tongandiu",
+    "postal_code": "93577",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.11",
+      "name": "Kabupaten Kolaka Timur"
+    },
+    "district": {
+      "id": "74.11.03",
+      "name": "Ladongi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

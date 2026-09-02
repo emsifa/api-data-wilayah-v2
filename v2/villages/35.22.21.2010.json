@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.22.21.2010",
+    "name": "Ngujung",
+    "postal_code": "62184",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.22",
+      "name": "Kabupaten Bojonegoro"
+    },
+    "district": {
+      "id": "35.22.21",
+      "name": "Temayang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

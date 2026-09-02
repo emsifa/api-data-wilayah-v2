@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.27.01.2006",
+    "name": "Banyumudal",
+    "postal_code": "52354",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.27",
+      "name": "Kabupaten Pemalang"
+    },
+    "district": {
+      "id": "33.27.01",
+      "name": "Moga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

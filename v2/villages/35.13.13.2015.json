@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.13.13.2015",
+    "name": "Alaskandang",
+    "postal_code": "67283",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.13",
+      "name": "Kabupaten Probolinggo"
+    },
+    "district": {
+      "id": "35.13.13",
+      "name": "Besuk"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

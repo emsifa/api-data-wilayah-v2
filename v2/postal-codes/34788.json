@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "18.12.06.2001",
+      "name": "Agung Jaya",
+      "postal_code": "34788",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.12",
+        "name": "Kabupaten Tulang Bawang Barat"
+      },
+      "district": {
+        "id": "18.12.06",
+        "name": "Way Kenanga"
+      }
+    },
+    {
+      "id": "18.12.06.2002",
+      "name": "Mercu Buana",
+      "postal_code": "34788",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.12",
+        "name": "Kabupaten Tulang Bawang Barat"
+      },
+      "district": {
+        "id": "18.12.06",
+        "name": "Way Kenanga"
+      }
+    },
+    {
+      "id": "18.12.06.2003",
+      "name": "Balam Jaya",
+      "postal_code": "34788",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.12",
+        "name": "Kabupaten Tulang Bawang Barat"
+      },
+      "district": {
+        "id": "18.12.06",
+        "name": "Way Kenanga"
+      }
+    },
+    {
+      "id": "18.12.06.2004",
+      "name": "Pagar Buana",
+      "postal_code": "34788",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.12",
+        "name": "Kabupaten Tulang Bawang Barat"
+      },
+      "district": {
+        "id": "18.12.06",
+        "name": "Way Kenanga"
+      }
+    },
+    {
+      "id": "18.12.06.2005",
+      "name": "Indraloka I",
+      "postal_code": "34788",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.12",
+        "name": "Kabupaten Tulang Bawang Barat"
+      },
+      "district": {
+        "id": "18.12.06",
+        "name": "Way Kenanga"
+      }
+    },
+    {
+      "id": "18.12.06.2006",
+      "name": "Indraloka II",
+      "postal_code": "34788",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.12",
+        "name": "Kabupaten Tulang Bawang Barat"
+      },
+      "district": {
+        "id": "18.12.06",
+        "name": "Way Kenanga"
+      }
+    },
+    {
+      "id": "18.12.06.2007",
+      "name": "Balam Asri",
+      "postal_code": "34788",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.12",
+        "name": "Kabupaten Tulang Bawang Barat"
+      },
+      "district": {
+        "id": "18.12.06",
+        "name": "Way Kenanga"
+      }
+    },
+    {
+      "id": "18.12.06.2008",
+      "name": "Indraloka Jaya",
+      "postal_code": "34788",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.12",
+        "name": "Kabupaten Tulang Bawang Barat"
+      },
+      "district": {
+        "id": "18.12.06",
+        "name": "Way Kenanga"
+      }
+    },
+    {
+      "id": "18.12.06.2009",
+      "name": "Indraloka Mukti",
+      "postal_code": "34788",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.12",
+        "name": "Kabupaten Tulang Bawang Barat"
+      },
+      "district": {
+        "id": "18.12.06",
+        "name": "Way Kenanga"
+      }
+    },
+    {
+      "id": "18.12.06.2010",
+      "name": "Sido Agung",
+      "postal_code": "34788",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.12",
+        "name": "Kabupaten Tulang Bawang Barat"
+      },
+      "district": {
+        "id": "18.12.06",
+        "name": "Way Kenanga"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.10.06.2005",
+    "name": "Cipicung",
+    "postal_code": "45461",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.10",
+      "name": "Kabupaten Majalengka"
+    },
+    "district": {
+      "id": "32.10.06",
+      "name": "Maja"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

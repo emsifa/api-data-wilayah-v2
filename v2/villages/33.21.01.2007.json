@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.21.01.2007",
+    "name": "Batursari",
+    "postal_code": "59567",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.21",
+      "name": "Kabupaten Demak"
+    },
+    "district": {
+      "id": "33.21.01",
+      "name": "Mranggen"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

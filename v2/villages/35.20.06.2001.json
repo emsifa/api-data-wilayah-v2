@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.20.06.2001",
+    "name": "Tambakrejo",
+    "postal_code": "63319",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.20",
+      "name": "Kabupaten Magetan"
+    },
+    "district": {
+      "id": "35.20.06",
+      "name": "Magetan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

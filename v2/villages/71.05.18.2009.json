@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.05.18.2009",
+    "name": "Maliku Satu",
+    "postal_code": "95954",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.05",
+      "name": "Kabupaten Minahasa Selatan"
+    },
+    "district": {
+      "id": "71.05.18",
+      "name": "Amurang Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

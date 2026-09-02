@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "76.04.04.1002",
+      "name": "Wattang",
+      "postal_code": "91315",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.04",
+        "name": "Polewali"
+      }
+    },
+    {
+      "id": "76.04.04.1003",
+      "name": "Sulewatang",
+      "postal_code": "91315",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.04",
+        "name": "Polewali"
+      }
+    },
+    {
+      "id": "76.04.04.1007",
+      "name": "Madatte",
+      "postal_code": "91315",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.04",
+        "name": "Polewali"
+      }
+    },
+    {
+      "id": "76.04.13.1001",
+      "name": "Anreapi",
+      "postal_code": "91315",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.13",
+        "name": "Anreapi"
+      }
+    },
+    {
+      "id": "76.04.13.2002",
+      "name": "Duampanua",
+      "postal_code": "91315",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.13",
+        "name": "Anreapi"
+      }
+    },
+    {
+      "id": "76.04.13.2003",
+      "name": "Kelapa Dua",
+      "postal_code": "91315",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.13",
+        "name": "Anreapi"
+      }
+    },
+    {
+      "id": "76.04.13.2004",
+      "name": "Pappandangan",
+      "postal_code": "91315",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.13",
+        "name": "Anreapi"
+      }
+    },
+    {
+      "id": "76.04.13.2005",
+      "name": "Kunyi",
+      "postal_code": "91315",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.04",
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "district": {
+        "id": "76.04.13",
+        "name": "Anreapi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

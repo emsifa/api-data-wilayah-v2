@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.77.01.1003",
+      "name": "Utama",
+      "postal_code": "40533",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.77",
+        "name": "Kota Cimahi"
+      },
+      "district": {
+        "id": "32.77.01",
+        "name": "Cimahi Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

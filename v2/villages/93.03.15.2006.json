@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.03.15.2006",
+    "name": "Mu",
+    "postal_code": "99878",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.03",
+      "name": "Kabupaten Mappi"
+    },
+    "district": {
+      "id": "93.03.15",
+      "name": "Ti Zain"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

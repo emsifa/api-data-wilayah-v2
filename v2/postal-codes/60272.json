@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.78.07.1004",
+      "name": "Ketabang",
+      "postal_code": "60272",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.07",
+        "name": "Genteng"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

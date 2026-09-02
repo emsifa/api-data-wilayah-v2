@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.11.04.2007",
+    "name": "Pole Maju Jaya",
+    "postal_code": "93579",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.11",
+      "name": "Kabupaten Kolaka Timur"
+    },
+    "district": {
+      "id": "74.11.04",
+      "name": "Poli Polia"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

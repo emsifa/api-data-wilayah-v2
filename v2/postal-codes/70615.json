@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "63.03.05.2015",
+      "name": "Tunggul Irang",
+      "postal_code": "70615",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.03",
+        "name": "Kabupaten Banjar"
+      },
+      "district": {
+        "id": "63.03.05",
+        "name": "Martapura"
+      }
+    },
+    {
+      "id": "63.03.05.2042",
+      "name": "Tunggul Irang Ilir",
+      "postal_code": "70615",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.03",
+        "name": "Kabupaten Banjar"
+      },
+      "district": {
+        "id": "63.03.05",
+        "name": "Martapura"
+      }
+    },
+    {
+      "id": "63.03.05.2043",
+      "name": "Tunggul Irang Ulu",
+      "postal_code": "70615",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.03",
+        "name": "Kabupaten Banjar"
+      },
+      "district": {
+        "id": "63.03.05",
+        "name": "Martapura"
+      }
+    },
+    {
+      "id": "63.03.05.2054",
+      "name": "Jawa Laut",
+      "postal_code": "70615",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.03",
+        "name": "Kabupaten Banjar"
+      },
+      "district": {
+        "id": "63.03.05",
+        "name": "Martapura"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

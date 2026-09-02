@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.05.10.2004",
+    "name": "Waisum",
+    "postal_code": "97793",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.05",
+      "name": "Kabupaten Kepulauan Sula"
+    },
+    "district": {
+      "id": "82.05.10",
+      "name": "Mangoli Utara Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

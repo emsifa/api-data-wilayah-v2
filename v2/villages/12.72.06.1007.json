@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.72.06.1007",
+    "name": "Naga Pita",
+    "postal_code": "21137",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.72",
+      "name": "Kota Pematangsiantar"
+    },
+    "district": {
+      "id": "12.72.06",
+      "name": "Siantar Martoba"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

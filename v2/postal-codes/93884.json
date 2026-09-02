@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "74.05.14.1001",
+      "name": "Amondo",
+      "postal_code": "93884",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.05",
+        "name": "Kabupaten Konawe Selatan"
+      },
+      "district": {
+        "id": "74.05.14",
+        "name": "Palangga Selatan"
+      }
+    },
+    {
+      "id": "74.05.14.2002",
+      "name": "Lakara",
+      "postal_code": "93884",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.05",
+        "name": "Kabupaten Konawe Selatan"
+      },
+      "district": {
+        "id": "74.05.14",
+        "name": "Palangga Selatan"
+      }
+    },
+    {
+      "id": "74.05.14.2003",
+      "name": "Parasi",
+      "postal_code": "93884",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.05",
+        "name": "Kabupaten Konawe Selatan"
+      },
+      "district": {
+        "id": "74.05.14",
+        "name": "Palangga Selatan"
+      }
+    },
+    {
+      "id": "74.05.14.2004",
+      "name": "Ulu Lakara",
+      "postal_code": "93884",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.05",
+        "name": "Kabupaten Konawe Selatan"
+      },
+      "district": {
+        "id": "74.05.14",
+        "name": "Palangga Selatan"
+      }
+    },
+    {
+      "id": "74.05.14.2005",
+      "name": "Watumbohoti",
+      "postal_code": "93884",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.05",
+        "name": "Kabupaten Konawe Selatan"
+      },
+      "district": {
+        "id": "74.05.14",
+        "name": "Palangga Selatan"
+      }
+    },
+    {
+      "id": "74.05.14.2006",
+      "name": "Wawowonua",
+      "postal_code": "93884",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.05",
+        "name": "Kabupaten Konawe Selatan"
+      },
+      "district": {
+        "id": "74.05.14",
+        "name": "Palangga Selatan"
+      }
+    },
+    {
+      "id": "74.05.14.2007",
+      "name": "Waturapa",
+      "postal_code": "93884",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.05",
+        "name": "Kabupaten Konawe Selatan"
+      },
+      "district": {
+        "id": "74.05.14",
+        "name": "Palangga Selatan"
+      }
+    },
+    {
+      "id": "74.05.14.2008",
+      "name": "Koeono",
+      "postal_code": "93884",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.05",
+        "name": "Kabupaten Konawe Selatan"
+      },
+      "district": {
+        "id": "74.05.14",
+        "name": "Palangga Selatan"
+      }
+    },
+    {
+      "id": "74.05.14.2009",
+      "name": "Lalowua",
+      "postal_code": "93884",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.05",
+        "name": "Kabupaten Konawe Selatan"
+      },
+      "district": {
+        "id": "74.05.14",
+        "name": "Palangga Selatan"
+      }
+    },
+    {
+      "id": "74.05.14.2010",
+      "name": "Mondoe",
+      "postal_code": "93884",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.05",
+        "name": "Kabupaten Konawe Selatan"
+      },
+      "district": {
+        "id": "74.05.14",
+        "name": "Palangga Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

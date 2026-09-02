@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "32.14.10.2001",
+      "name": "Pasawahananyar",
+      "postal_code": "41172",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.10",
+        "name": "Pasawahan"
+      }
+    },
+    {
+      "id": "32.14.10.2002",
+      "name": "Pasawahan",
+      "postal_code": "41172",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.10",
+        "name": "Pasawahan"
+      }
+    },
+    {
+      "id": "32.14.10.2003",
+      "name": "Sawahkulon",
+      "postal_code": "41172",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.10",
+        "name": "Pasawahan"
+      }
+    },
+    {
+      "id": "32.14.10.2004",
+      "name": "Ciherang",
+      "postal_code": "41172",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.10",
+        "name": "Pasawahan"
+      }
+    },
+    {
+      "id": "32.14.10.2005",
+      "name": "Cidahu",
+      "postal_code": "41172",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.10",
+        "name": "Pasawahan"
+      }
+    },
+    {
+      "id": "32.14.10.2006",
+      "name": "Pasawahankidul",
+      "postal_code": "41172",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.10",
+        "name": "Pasawahan"
+      }
+    },
+    {
+      "id": "32.14.10.2007",
+      "name": "Kertajaya",
+      "postal_code": "41172",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.10",
+        "name": "Pasawahan"
+      }
+    },
+    {
+      "id": "32.14.10.2008",
+      "name": "Lebakanyar",
+      "postal_code": "41172",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.10",
+        "name": "Pasawahan"
+      }
+    },
+    {
+      "id": "32.14.10.2009",
+      "name": "Selaawi",
+      "postal_code": "41172",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.10",
+        "name": "Pasawahan"
+      }
+    },
+    {
+      "id": "32.14.10.2011",
+      "name": "Warungkadu",
+      "postal_code": "41172",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.10",
+        "name": "Pasawahan"
+      }
+    },
+    {
+      "id": "32.14.10.2012",
+      "name": "Cihuni",
+      "postal_code": "41172",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "district": {
+        "id": "32.14.10",
+        "name": "Pasawahan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

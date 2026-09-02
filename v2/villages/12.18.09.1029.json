@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.18.09.1029",
+    "name": "Pekan Dolok Masihul",
+    "postal_code": "20991",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.18",
+      "name": "Kabupaten Serdang Bedagai"
+    },
+    "district": {
+      "id": "12.18.09",
+      "name": "Dolok Masihul"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.02.08.2010",
+    "name": "Penebel",
+    "postal_code": "82152",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.02",
+      "name": "Kabupaten Tabanan"
+    },
+    "district": {
+      "id": "51.02.08",
+      "name": "Penebel"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

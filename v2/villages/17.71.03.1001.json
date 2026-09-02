@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.71.03.1001",
+    "name": "Berkas",
+    "postal_code": "38114",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.71",
+      "name": "Kota Bengkulu"
+    },
+    "district": {
+      "id": "17.71.03",
+      "name": "Teluk Segara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

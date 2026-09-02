@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.04.04.1008",
+    "name": "Manding",
+    "postal_code": "91311",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.04",
+      "name": "Kabupaten Polewali Mandar"
+    },
+    "district": {
+      "id": "76.04.04",
+      "name": "Polewali"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

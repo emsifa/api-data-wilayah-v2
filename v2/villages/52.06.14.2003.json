@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.06.14.2003",
+    "name": "Kawinda Toi",
+    "postal_code": "84190",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.06",
+      "name": "Kabupaten Bima"
+    },
+    "district": {
+      "id": "52.06.14",
+      "name": "Tambora"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.02.21.2013",
+    "name": "Ciberem",
+    "postal_code": "53183",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.02",
+      "name": "Kabupaten Banyumas"
+    },
+    "district": {
+      "id": "33.02.21",
+      "name": "Sumbang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

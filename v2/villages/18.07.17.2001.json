@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.07.17.2001",
+    "name": "Wana",
+    "postal_code": "34377",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.07",
+      "name": "Kabupaten Lampung Timur"
+    },
+    "district": {
+      "id": "18.07.17",
+      "name": "Melinting"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

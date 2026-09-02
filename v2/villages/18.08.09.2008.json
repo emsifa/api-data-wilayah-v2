@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.08.09.2008",
+    "name": "Beringin Jaya",
+    "postal_code": "34771",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.08",
+      "name": "Kabupaten Way Kanan"
+    },
+    "district": {
+      "id": "18.08.09",
+      "name": "Rebang Tangkas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

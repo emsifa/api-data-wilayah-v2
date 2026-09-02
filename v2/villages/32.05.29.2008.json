@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.05.29.2008",
+    "name": "Mekar Mukti",
+    "postal_code": "44176",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.05",
+      "name": "Kabupaten Garut"
+    },
+    "district": {
+      "id": "32.05.29",
+      "name": "Cibalong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

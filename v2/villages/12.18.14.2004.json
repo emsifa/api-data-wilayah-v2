@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.18.14.2004",
+    "name": "Karang Anyar",
+    "postal_code": "20986",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.18",
+      "name": "Kabupaten Serdang Bedagai"
+    },
+    "district": {
+      "id": "12.18.14",
+      "name": "Pegajahan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

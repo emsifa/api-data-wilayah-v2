@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.13.11.2004",
+    "name": "Kombikuno",
+    "postal_code": "93658",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.13",
+      "name": "Kabupaten Muna Barat"
+    },
+    "district": {
+      "id": "74.13.11",
+      "name": "Napano Kusambi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

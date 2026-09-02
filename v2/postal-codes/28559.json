@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "14.06.13.2001",
+      "name": "Teluk Sono",
+      "postal_code": "28559",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.13",
+        "name": "Bonai Darussalam"
+      }
+    },
+    {
+      "id": "14.06.13.2002",
+      "name": "Sontang",
+      "postal_code": "28559",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.13",
+        "name": "Bonai Darussalam"
+      }
+    },
+    {
+      "id": "14.06.13.2003",
+      "name": "Bonai",
+      "postal_code": "28559",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.13",
+        "name": "Bonai Darussalam"
+      }
+    },
+    {
+      "id": "14.06.13.2004",
+      "name": "Rawa Makmur",
+      "postal_code": "28559",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.13",
+        "name": "Bonai Darussalam"
+      }
+    },
+    {
+      "id": "14.06.13.2005",
+      "name": "Pauh",
+      "postal_code": "28559",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.13",
+        "name": "Bonai Darussalam"
+      }
+    },
+    {
+      "id": "14.06.13.2006",
+      "name": "Kasang Padang",
+      "postal_code": "28559",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.13",
+        "name": "Bonai Darussalam"
+      }
+    },
+    {
+      "id": "14.06.13.2007",
+      "name": "Kasang Mungkal",
+      "postal_code": "28559",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.13",
+        "name": "Bonai Darussalam"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

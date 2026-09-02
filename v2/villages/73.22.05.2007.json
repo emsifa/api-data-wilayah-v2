@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.22.05.2007",
+    "name": "Limbong",
+    "postal_code": "92954",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.22",
+      "name": "Kabupaten Luwu Utara"
+    },
+    "district": {
+      "id": "73.22.05",
+      "name": "Rongkong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

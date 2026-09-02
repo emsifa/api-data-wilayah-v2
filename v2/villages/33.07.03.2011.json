@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.07.03.2011",
+    "name": "Ngadisalam",
+    "postal_code": "56375",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.07",
+      "name": "Kabupaten Wonosobo"
+    },
+    "district": {
+      "id": "33.07.03",
+      "name": "Sapuran"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

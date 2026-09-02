@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "17.71.06.1002",
+      "name": "Tanah Patah",
+      "postal_code": "38224",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.71",
+        "name": "Kota Bengkulu"
+      },
+      "district": {
+        "id": "17.71.06",
+        "name": "Ratu Agung"
+      }
+    },
+    {
+      "id": "17.71.06.1003",
+      "name": "Nusa Indah",
+      "postal_code": "38224",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.71",
+        "name": "Kota Bengkulu"
+      },
+      "district": {
+        "id": "17.71.06",
+        "name": "Ratu Agung"
+      }
+    },
+    {
+      "id": "17.71.09.1002",
+      "name": "Jembatan Kecil",
+      "postal_code": "38224",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.71",
+        "name": "Kota Bengkulu"
+      },
+      "district": {
+        "id": "17.71.09",
+        "name": "Singaran Pati"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

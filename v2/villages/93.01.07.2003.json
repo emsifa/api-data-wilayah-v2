@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.01.07.2003",
+    "name": "Nalkin",
+    "postal_code": "99645",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.01",
+      "name": "Kabupaten Merauke"
+    },
+    "district": {
+      "id": "93.01.07",
+      "name": "Jagebob"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

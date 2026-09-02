@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.71.03.1002",
+    "name": "Pakunden",
+    "postal_code": "64132",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.71",
+      "name": "Kota Kediri"
+    },
+    "district": {
+      "id": "35.71.03",
+      "name": "Pesantren"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

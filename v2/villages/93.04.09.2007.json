@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.04.09.2007",
+    "name": "Butukatnau",
+    "postal_code": "99791",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.04",
+      "name": "Kabupaten Asmat"
+    },
+    "district": {
+      "id": "93.04.09",
+      "name": "Kolf Braza"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

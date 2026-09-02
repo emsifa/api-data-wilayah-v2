@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.02.07.2008",
+    "name": "Olibu",
+    "postal_code": "96261",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.02",
+      "name": "Kabupaten Boalemo"
+    },
+    "district": {
+      "id": "75.02.07",
+      "name": "Paguyaman Pantai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

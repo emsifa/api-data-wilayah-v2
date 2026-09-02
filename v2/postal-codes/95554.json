@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "71.72.01.1004",
+      "name": "Papusungan",
+      "postal_code": "95554",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.72",
+        "name": "Kota Bitung"
+      },
+      "district": {
+        "id": "71.72.01",
+        "name": "Lembeh Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

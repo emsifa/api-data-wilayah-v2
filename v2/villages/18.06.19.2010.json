@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.06.19.2010",
+    "name": "Teba",
+    "postal_code": "35383",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.06",
+      "name": "Kabupaten Tanggamus"
+    },
+    "district": {
+      "id": "18.06.19",
+      "name": "Kota Agung Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

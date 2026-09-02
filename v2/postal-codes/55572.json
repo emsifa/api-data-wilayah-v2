@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "34.04.09.2001",
+      "name": "Sumberharjo",
+      "postal_code": "55572",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.09",
+        "name": "Prambanan"
+      }
+    },
+    {
+      "id": "34.04.09.2002",
+      "name": "Wukirharjo",
+      "postal_code": "55572",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.09",
+        "name": "Prambanan"
+      }
+    },
+    {
+      "id": "34.04.09.2003",
+      "name": "Gayamharjo",
+      "postal_code": "55572",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.09",
+        "name": "Prambanan"
+      }
+    },
+    {
+      "id": "34.04.09.2004",
+      "name": "Sambirejo",
+      "postal_code": "55572",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.09",
+        "name": "Prambanan"
+      }
+    },
+    {
+      "id": "34.04.09.2005",
+      "name": "Madurejo",
+      "postal_code": "55572",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.09",
+        "name": "Prambanan"
+      }
+    },
+    {
+      "id": "34.04.09.2006",
+      "name": "Bokoharjo",
+      "postal_code": "55572",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.04",
+        "name": "Kabupaten Sleman"
+      },
+      "district": {
+        "id": "34.04.09",
+        "name": "Prambanan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

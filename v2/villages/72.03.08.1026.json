@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.03.08.1026",
+    "name": "Boya",
+    "postal_code": "94351",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.03",
+      "name": "Kabupaten Donggala"
+    },
+    "district": {
+      "id": "72.03.08",
+      "name": "Banawa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

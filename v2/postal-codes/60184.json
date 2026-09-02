@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "35.78.14.1011",
+      "name": "Manukan Wetan",
+      "postal_code": "60184",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.14",
+        "name": "Tandes"
+      }
+    },
+    {
+      "id": "35.78.28.1005",
+      "name": "Tambak Sarioso",
+      "postal_code": "60184",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.28",
+        "name": "Asem Rowo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

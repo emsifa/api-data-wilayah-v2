@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.01.13.2009",
+    "name": "Karangsari",
+    "postal_code": "53256",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.01",
+      "name": "Kabupaten Cilacap"
+    },
+    "district": {
+      "id": "33.01.13",
+      "name": "Cimanggu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "35.18.13.1004",
+      "name": "Kramat",
+      "postal_code": "64419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.18",
+        "name": "Kabupaten Nganjuk"
+      },
+      "district": {
+        "id": "35.18.13",
+        "name": "Nganjuk"
+      }
+    },
+    {
+      "id": "35.18.13.1005",
+      "name": "Ganung Kidul",
+      "postal_code": "64419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.18",
+        "name": "Kabupaten Nganjuk"
+      },
+      "district": {
+        "id": "35.18.13",
+        "name": "Nganjuk"
+      }
+    },
+    {
+      "id": "35.18.13.1006",
+      "name": "Werungotok",
+      "postal_code": "64419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.18",
+        "name": "Kabupaten Nganjuk"
+      },
+      "district": {
+        "id": "35.18.13",
+        "name": "Nganjuk"
+      }
+    },
+    {
+      "id": "35.18.13.1007",
+      "name": "Mangundikaran",
+      "postal_code": "64419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.18",
+        "name": "Kabupaten Nganjuk"
+      },
+      "district": {
+        "id": "35.18.13",
+        "name": "Nganjuk"
+      }
+    },
+    {
+      "id": "35.18.13.1012",
+      "name": "Ringinanom",
+      "postal_code": "64419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.18",
+        "name": "Kabupaten Nganjuk"
+      },
+      "district": {
+        "id": "35.18.13",
+        "name": "Nganjuk"
+      }
+    },
+    {
+      "id": "35.18.13.2014",
+      "name": "Kedungdowo",
+      "postal_code": "64419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.18",
+        "name": "Kabupaten Nganjuk"
+      },
+      "district": {
+        "id": "35.18.13",
+        "name": "Nganjuk"
+      }
+    },
+    {
+      "id": "35.18.13.2015",
+      "name": "Balongpacul",
+      "postal_code": "64419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.18",
+        "name": "Kabupaten Nganjuk"
+      },
+      "district": {
+        "id": "35.18.13",
+        "name": "Nganjuk"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

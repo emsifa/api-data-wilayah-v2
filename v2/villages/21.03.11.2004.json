@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.03.11.2004",
+    "name": "Tanjung Batang",
+    "postal_code": "29788",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.03",
+      "name": "Kabupaten Natuna"
+    },
+    "district": {
+      "id": "21.03.11",
+      "name": "Pulau Tiga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

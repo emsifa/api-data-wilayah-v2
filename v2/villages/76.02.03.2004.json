@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.02.03.2004",
+    "name": "Sondoang",
+    "postal_code": "91561",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.02",
+      "name": "Kabupaten Mamuju"
+    },
+    "district": {
+      "id": "76.02.03",
+      "name": "Kalukku"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

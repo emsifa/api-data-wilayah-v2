@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.23.11.2015",
+    "name": "Sokosari",
+    "postal_code": "62372",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.23",
+      "name": "Kabupaten Tuban"
+    },
+    "district": {
+      "id": "35.23.11",
+      "name": "Soko"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.08.03.2010",
+    "name": "Pupliora",
+    "postal_code": "97652",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.08",
+      "name": "Kabupaten Maluku Barat Daya"
+    },
+    "district": {
+      "id": "81.08.03",
+      "name": "Kepulauan Luang Sermata"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

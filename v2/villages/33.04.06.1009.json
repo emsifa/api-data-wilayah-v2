@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.04.06.1009",
+    "name": "Sokanandi",
+    "postal_code": "53413",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.04",
+      "name": "Kabupaten Banjarnegara"
+    },
+    "district": {
+      "id": "33.04.06",
+      "name": "Banjarnegara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

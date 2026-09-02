@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.12.21.2007",
+    "name": "Pareangirang",
+    "postal_code": "45254",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.12",
+      "name": "Kabupaten Indramayu"
+    },
+    "district": {
+      "id": "32.12.21",
+      "name": "Kandanghaur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

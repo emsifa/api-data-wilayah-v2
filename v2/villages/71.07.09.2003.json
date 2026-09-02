@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.07.09.2003",
+    "name": "Molompar Atas",
+    "postal_code": "95990",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.07",
+      "name": "Kabupaten Minahasa Tenggara"
+    },
+    "district": {
+      "id": "71.07.09",
+      "name": "Tombatu Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

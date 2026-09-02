@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "12.12.01.1034",
+      "name": "Balige I",
+      "postal_code": "22316",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.12",
+        "name": "Kabupaten Toba"
+      },
+      "district": {
+        "id": "12.12.01",
+        "name": "Balige"
+      }
+    },
+    {
+      "id": "12.12.01.2023",
+      "name": "Balige II",
+      "postal_code": "22316",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.12",
+        "name": "Kabupaten Toba"
+      },
+      "district": {
+        "id": "12.12.01",
+        "name": "Balige"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

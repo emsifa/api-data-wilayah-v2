@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "31.75.08.1002",
+    "name": "Pinangranti",
+    "postal_code": "13560",
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    },
+    "regency": {
+      "id": "31.75",
+      "name": "Kota Administrasi Jakarta Timur"
+    },
+    "district": {
+      "id": "31.75.08",
+      "name": "Makasar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

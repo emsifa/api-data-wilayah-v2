@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "12.74.01.1004",
+      "name": "Karya",
+      "postal_code": "21314",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.74",
+        "name": "Kota Tanjungbalai"
+      },
+      "district": {
+        "id": "12.74.01",
+        "name": "Tanjungbalai Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

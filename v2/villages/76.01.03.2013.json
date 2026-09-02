@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.01.03.2013",
+    "name": "Towoni",
+    "postal_code": "91572",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.01",
+      "name": "Kabupaten Pasangkayu"
+    },
+    "district": {
+      "id": "76.01.03",
+      "name": "Baras"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.03.07.2001",
+    "name": "Ngadimulyo",
+    "postal_code": "66373",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.03",
+      "name": "Kabupaten Trenggalek"
+    },
+    "district": {
+      "id": "35.03.07",
+      "name": "Kampak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

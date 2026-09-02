@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "18.05.02.2002",
+      "name": "Ujung Gunung Ilir",
+      "postal_code": "34614",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.05",
+        "name": "Kabupaten Tulang Bawang"
+      },
+      "district": {
+        "id": "18.05.02",
+        "name": "Menggala"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

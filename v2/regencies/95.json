@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "95",
+    "name": "Papua Pegunungan",
+    "capital": "Jayawijaya",
+    "lat": -4.099306801793126,
+    "lng": 138.94314903715775,
+    "elv": 1663,
+    "tz": 9,
+    "population": 1470518,
+    "total_area": 52508.656,
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 2
+  }
+}

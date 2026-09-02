@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "71.02.18.1003",
+      "name": "Tataaran II",
+      "postal_code": "95618",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.02",
+        "name": "Kabupaten Minahasa"
+      },
+      "district": {
+        "id": "71.02.18",
+        "name": "Tondano Selatan"
+      }
+    },
+    {
+      "id": "71.02.18.1004",
+      "name": "Tataaran I",
+      "postal_code": "95618",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.02",
+        "name": "Kabupaten Minahasa"
+      },
+      "district": {
+        "id": "71.02.18",
+        "name": "Tondano Selatan"
+      }
+    },
+    {
+      "id": "71.02.18.1005",
+      "name": "Koya",
+      "postal_code": "95618",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.02",
+        "name": "Kabupaten Minahasa"
+      },
+      "district": {
+        "id": "71.02.18",
+        "name": "Tondano Selatan"
+      }
+    },
+    {
+      "id": "71.02.18.1008",
+      "name": "Maesa Unima",
+      "postal_code": "95618",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.02",
+        "name": "Kabupaten Minahasa"
+      },
+      "district": {
+        "id": "71.02.18",
+        "name": "Tondano Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

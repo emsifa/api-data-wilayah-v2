@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.10.21.2010",
+    "name": "Lengkong Wetan",
+    "postal_code": "45474",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.10",
+      "name": "Kabupaten Majalengka"
+    },
+    "district": {
+      "id": "32.10.21",
+      "name": "Sindangwangi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

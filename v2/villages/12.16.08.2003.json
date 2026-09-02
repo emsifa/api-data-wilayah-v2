@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.16.08.2003",
+    "name": "Parbotihan",
+    "postal_code": "22454",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.16",
+      "name": "Kabupaten Humbang Hasundutan"
+    },
+    "district": {
+      "id": "12.16.08",
+      "name": "Onan Ganjang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

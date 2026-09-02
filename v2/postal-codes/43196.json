@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "32.02.39.2001",
+      "name": "Nyalindung",
+      "postal_code": "43196",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.39",
+        "name": "Nyalindung"
+      }
+    },
+    {
+      "id": "32.02.39.2002",
+      "name": "Neglasari",
+      "postal_code": "43196",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.39",
+        "name": "Nyalindung"
+      }
+    },
+    {
+      "id": "32.02.39.2003",
+      "name": "Sukamaju",
+      "postal_code": "43196",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.39",
+        "name": "Nyalindung"
+      }
+    },
+    {
+      "id": "32.02.39.2004",
+      "name": "Bojongkalong",
+      "postal_code": "43196",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.39",
+        "name": "Nyalindung"
+      }
+    },
+    {
+      "id": "32.02.39.2005",
+      "name": "Cijangkar",
+      "postal_code": "43196",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.39",
+        "name": "Nyalindung"
+      }
+    },
+    {
+      "id": "32.02.39.2006",
+      "name": "Mekarsari",
+      "postal_code": "43196",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.39",
+        "name": "Nyalindung"
+      }
+    },
+    {
+      "id": "32.02.39.2007",
+      "name": "Wangunreja",
+      "postal_code": "43196",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.39",
+        "name": "Nyalindung"
+      }
+    },
+    {
+      "id": "32.02.39.2008",
+      "name": "Cisitu",
+      "postal_code": "43196",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.39",
+        "name": "Nyalindung"
+      }
+    },
+    {
+      "id": "32.02.39.2009",
+      "name": "Bojongsari",
+      "postal_code": "43196",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.39",
+        "name": "Nyalindung"
+      }
+    },
+    {
+      "id": "32.02.39.2010",
+      "name": "Kertaangsana",
+      "postal_code": "43196",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.39",
+        "name": "Nyalindung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

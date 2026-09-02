@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "96.02.08.2005",
+    "name": "Sumano",
+    "postal_code": "98462",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.02",
+      "name": "Kabupaten Sorong Selatan"
+    },
+    "district": {
+      "id": "96.02.08",
+      "name": "Kais"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "33.28.10.2002",
+      "name": "Dukuhwringin",
+      "postal_code": "52419",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.28",
+        "name": "Kabupaten Tegal"
+      },
+      "district": {
+        "id": "33.28.10",
+        "name": "Slawi"
+      }
+    },
+    {
+      "id": "33.28.10.2004",
+      "name": "Slawi Kulon",
+      "postal_code": "52419",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.28",
+        "name": "Kabupaten Tegal"
+      },
+      "district": {
+        "id": "33.28.10",
+        "name": "Slawi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

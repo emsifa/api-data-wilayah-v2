@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.03.14.2004",
+    "name": "Seuneubok Teupin Panah",
+    "postal_code": "24443",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.03",
+      "name": "Kabupaten Aceh Timur"
+    },
+    "district": {
+      "id": "11.03.14",
+      "name": "Idi Tunong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

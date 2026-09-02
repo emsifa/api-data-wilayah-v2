@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "19.02.03.2001",
+    "name": "Selat Nasik",
+    "postal_code": "33481",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.02",
+      "name": "Kabupaten Belitung"
+    },
+    "district": {
+      "id": "19.02.03",
+      "name": "Selat Nasik"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

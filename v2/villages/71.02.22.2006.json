@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.02.22.2006",
+    "name": "Kanonang Lima",
+    "postal_code": "95692",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.02",
+      "name": "Kabupaten Minahasa"
+    },
+    "district": {
+      "id": "71.02.22",
+      "name": "Kawangkoan Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

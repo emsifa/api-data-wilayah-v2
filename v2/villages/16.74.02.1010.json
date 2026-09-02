@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.74.02.1010",
+    "name": "Karang Jaya",
+    "postal_code": "31115",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.74",
+      "name": "Kota Prabumulih"
+    },
+    "district": {
+      "id": "16.74.02",
+      "name": "Prabumulih Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

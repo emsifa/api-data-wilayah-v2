@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.06.04.2001",
+    "name": "Budong-Budong",
+    "postal_code": "91464",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.06",
+      "name": "Kabupaten Mamuju Tengah"
+    },
+    "district": {
+      "id": "76.06.04",
+      "name": "Topoyo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

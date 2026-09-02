@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.05.29.2008",
+    "name": "Jaya Makmur",
+    "postal_code": "34685",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.05",
+      "name": "Kabupaten Tulang Bawang"
+    },
+    "district": {
+      "id": "18.05.29",
+      "name": "Banjar Baru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.03.18.2003",
+    "name": "Ipouwa",
+    "postal_code": "98737",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.03",
+      "name": "Kabupaten Paniai"
+    },
+    "district": {
+      "id": "94.03.18",
+      "name": "Youtadi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

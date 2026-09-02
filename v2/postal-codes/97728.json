@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "82.71.03.1014",
+      "name": "Tafure",
+      "postal_code": "97728",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.71",
+        "name": "Kota Ternate"
+      },
+      "district": {
+        "id": "82.71.03",
+        "name": "Kota Ternate Utara"
+      }
+    },
+    {
+      "id": "82.71.03.1015",
+      "name": "Tabam",
+      "postal_code": "97728",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.71",
+        "name": "Kota Ternate"
+      },
+      "district": {
+        "id": "82.71.03",
+        "name": "Kota Ternate Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

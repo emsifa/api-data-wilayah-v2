@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "35.78.22.1002",
+      "name": "Menanggal",
+      "postal_code": "60234",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.22",
+        "name": "Gayungan"
+      }
+    },
+    {
+      "id": "35.78.22.1003",
+      "name": "Dukuh Menanggal",
+      "postal_code": "60234",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.22",
+        "name": "Gayungan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

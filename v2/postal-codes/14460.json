@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "31.72.01.1003",
+      "name": "Kapuk Muara",
+      "postal_code": "14460",
+      "province": {
+        "id": "31",
+        "name": "Daerah Khusus Ibukota Jakarta"
+      },
+      "regency": {
+        "id": "31.72",
+        "name": "Kota Administrasi Jakarta Utara"
+      },
+      "district": {
+        "id": "31.72.01",
+        "name": "Penjaringan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

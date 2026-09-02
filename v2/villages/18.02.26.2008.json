@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.02.26.2008",
+    "name": "Sidodadi",
+    "postal_code": "34159",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.02",
+      "name": "Kabupaten Lampung Tengah"
+    },
+    "district": {
+      "id": "18.02.26",
+      "name": "Bandar Surabaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

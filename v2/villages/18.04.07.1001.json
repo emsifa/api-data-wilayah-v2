@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.04.07.1001",
+    "name": "Pajar Bulan",
+    "postal_code": "34884",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.04",
+      "name": "Kabupaten Lampung Barat"
+    },
+    "district": {
+      "id": "18.04.07",
+      "name": "Way Tenong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

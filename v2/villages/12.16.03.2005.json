@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.16.03.2005",
+    "name": "Simangulampe",
+    "postal_code": "22457",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.16",
+      "name": "Kabupaten Humbang Hasundutan"
+    },
+    "district": {
+      "id": "12.16.03",
+      "name": "Baktiraja"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

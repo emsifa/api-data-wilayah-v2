@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "73.13.06.1002",
+      "name": "Pattirosompe",
+      "postal_code": "90913",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.13",
+        "name": "Kabupaten Wajo"
+      },
+      "district": {
+        "id": "73.13.06",
+        "name": "Tempe"
+      }
+    },
+    {
+      "id": "73.13.06.1010",
+      "name": "Lapongkoda",
+      "postal_code": "90913",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.13",
+        "name": "Kabupaten Wajo"
+      },
+      "district": {
+        "id": "73.13.06",
+        "name": "Tempe"
+      }
+    },
+    {
+      "id": "73.13.07.2005",
+      "name": "Leppangeng",
+      "postal_code": "90913",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.13",
+        "name": "Kabupaten Wajo"
+      },
+      "district": {
+        "id": "73.13.07",
+        "name": "Belawa"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

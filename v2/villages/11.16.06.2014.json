@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.16.06.2014",
+    "name": "Sidodadi",
+    "postal_code": "24477",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.16",
+      "name": "Kabupaten Aceh Tamiang"
+    },
+    "district": {
+      "id": "11.16.06",
+      "name": "Kejuruan Muda"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

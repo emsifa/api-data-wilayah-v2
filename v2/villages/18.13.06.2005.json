@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.13.06.2005",
+    "name": "Sukadana",
+    "postal_code": "34896",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.13",
+      "name": "Kabupaten Pesisir Barat"
+    },
+    "district": {
+      "id": "18.13.06",
+      "name": "Pulau Pisang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

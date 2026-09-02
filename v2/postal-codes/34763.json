@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "18.08.05.2001",
+      "name": "Tulang Bawang",
+      "postal_code": "34763",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.08",
+        "name": "Kabupaten Way Kanan"
+      },
+      "district": {
+        "id": "18.08.05",
+        "name": "Bahuga"
+      }
+    },
+    {
+      "id": "18.08.05.2002",
+      "name": "Mesir Udik",
+      "postal_code": "34763",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.08",
+        "name": "Kabupaten Way Kanan"
+      },
+      "district": {
+        "id": "18.08.05",
+        "name": "Bahuga"
+      }
+    },
+    {
+      "id": "18.08.05.2005",
+      "name": "Mesir Ilir",
+      "postal_code": "34763",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.08",
+        "name": "Kabupaten Way Kanan"
+      },
+      "district": {
+        "id": "18.08.05",
+        "name": "Bahuga"
+      }
+    },
+    {
+      "id": "18.08.05.2006",
+      "name": "Sapto Renggo",
+      "postal_code": "34763",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.08",
+        "name": "Kabupaten Way Kanan"
+      },
+      "district": {
+        "id": "18.08.05",
+        "name": "Bahuga"
+      }
+    },
+    {
+      "id": "18.08.05.2007",
+      "name": "Giri Harjo",
+      "postal_code": "34763",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.08",
+        "name": "Kabupaten Way Kanan"
+      },
+      "district": {
+        "id": "18.08.05",
+        "name": "Bahuga"
+      }
+    },
+    {
+      "id": "18.08.05.2009",
+      "name": "Bumi Agung Wates",
+      "postal_code": "34763",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.08",
+        "name": "Kabupaten Way Kanan"
+      },
+      "district": {
+        "id": "18.08.05",
+        "name": "Bahuga"
+      }
+    },
+    {
+      "id": "18.08.05.2017",
+      "name": "Serdang Kuring",
+      "postal_code": "34763",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.08",
+        "name": "Kabupaten Way Kanan"
+      },
+      "district": {
+        "id": "18.08.05",
+        "name": "Bahuga"
+      }
+    },
+    {
+      "id": "18.08.05.2024",
+      "name": "Bumi Agung",
+      "postal_code": "34763",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.08",
+        "name": "Kabupaten Way Kanan"
+      },
+      "district": {
+        "id": "18.08.05",
+        "name": "Bahuga"
+      }
+    },
+    {
+      "id": "18.08.05.2025",
+      "name": "Mekar Jaya",
+      "postal_code": "34763",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.08",
+        "name": "Kabupaten Way Kanan"
+      },
+      "district": {
+        "id": "18.08.05",
+        "name": "Bahuga"
+      }
+    },
+    {
+      "id": "18.08.05.2026",
+      "name": "Kota Dewa",
+      "postal_code": "34763",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.08",
+        "name": "Kabupaten Way Kanan"
+      },
+      "district": {
+        "id": "18.08.05",
+        "name": "Bahuga"
+      }
+    },
+    {
+      "id": "18.08.05.2027",
+      "name": "Dewa Agung",
+      "postal_code": "34763",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.08",
+        "name": "Kabupaten Way Kanan"
+      },
+      "district": {
+        "id": "18.08.05",
+        "name": "Bahuga"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

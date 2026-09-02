@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "63.71.04.1001",
+      "name": "Alalak Tengah",
+      "postal_code": "70126",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.71",
+        "name": "Kota Banjarmasin"
+      },
+      "district": {
+        "id": "63.71.04",
+        "name": "Banjarmasin Utara"
+      }
+    },
+    {
+      "id": "63.71.04.1003",
+      "name": "Alalak Selatan",
+      "postal_code": "70126",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.71",
+        "name": "Kota Banjarmasin"
+      },
+      "district": {
+        "id": "63.71.04",
+        "name": "Banjarmasin Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

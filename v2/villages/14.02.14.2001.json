@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.02.14.2001",
+    "name": "Pesajian",
+    "postal_code": "29354",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.02",
+      "name": "Kabupaten Indragiri Hulu"
+    },
+    "district": {
+      "id": "14.02.14",
+      "name": "Batang Peranap"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

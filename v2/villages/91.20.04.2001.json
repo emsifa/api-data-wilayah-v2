@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "91.20.04.2001",
+    "name": "Kustra",
+    "postal_code": "98693",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.20",
+      "name": "Kabupaten Mamberamo Raya"
+    },
+    "district": {
+      "id": "91.20.04",
+      "name": "Mamberamo Tengah Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

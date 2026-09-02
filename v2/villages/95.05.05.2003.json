@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.05.05.2003",
+    "name": "Ilugwa",
+    "postal_code": "99073",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.05",
+      "name": "Kabupaten Mamberamo Tengah"
+    },
+    "district": {
+      "id": "95.05.05",
+      "name": "Ilugwa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

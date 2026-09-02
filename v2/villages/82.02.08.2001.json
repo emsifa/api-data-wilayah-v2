@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.02.08.2001",
+    "name": "Banemo",
+    "postal_code": "97856",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.02",
+      "name": "Kabupaten Halmahera Tengah"
+    },
+    "district": {
+      "id": "82.02.08",
+      "name": "Patani Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

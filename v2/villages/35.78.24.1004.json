@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.78.24.1004",
+    "name": "Panjang Jiwo",
+    "postal_code": "60299",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.78",
+      "name": "Kota Surabaya"
+    },
+    "district": {
+      "id": "35.78.24",
+      "name": "Tenggilis Mejoyo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

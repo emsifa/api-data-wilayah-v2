@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.11.26.2005",
+    "name": "Cipicung",
+    "postal_code": "45377",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.11",
+      "name": "Kabupaten Sumedang"
+    },
+    "district": {
+      "id": "32.11.26",
+      "name": "Jatigede"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

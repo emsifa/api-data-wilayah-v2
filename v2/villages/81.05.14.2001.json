@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.05.14.2001",
+    "name": "Kian Laut",
+    "postal_code": "97598",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.05",
+      "name": "Kabupaten Seram Bagian Timur"
+    },
+    "district": {
+      "id": "81.05.14",
+      "name": "Siritaun Wida Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

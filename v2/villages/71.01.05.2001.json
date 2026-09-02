@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.01.05.2001",
+    "name": "Ayong",
+    "postal_code": "95742",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.01",
+      "name": "Kabupaten Bolaang Mongondow"
+    },
+    "district": {
+      "id": "71.01.05",
+      "name": "Sang Tombolang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

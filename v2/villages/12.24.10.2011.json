@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.24.10.2011",
+    "name": "Fadoro Sitolu Hili",
+    "postal_code": "22853",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.24",
+      "name": "Kabupaten Nias Utara"
+    },
+    "district": {
+      "id": "12.24.10",
+      "name": "Lahewa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

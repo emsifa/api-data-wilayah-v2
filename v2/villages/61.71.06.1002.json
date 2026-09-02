@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.71.06.1002",
+    "name": "Bansir Darat",
+    "postal_code": "78124",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.71",
+      "name": "Kota Pontianak"
+    },
+    "district": {
+      "id": "61.71.06",
+      "name": "Pontianak Tenggara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

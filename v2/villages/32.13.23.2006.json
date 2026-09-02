@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.13.23.2006",
+    "name": "Cipancar",
+    "postal_code": "41288",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.13",
+      "name": "Kabupaten Subang"
+    },
+    "district": {
+      "id": "32.13.23",
+      "name": "Serangpanjang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

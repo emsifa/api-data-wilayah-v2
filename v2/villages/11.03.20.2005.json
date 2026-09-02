@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.03.20.2005",
+    "name": "Melidi",
+    "postal_code": "24464",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.03",
+      "name": "Kabupaten Aceh Timur"
+    },
+    "district": {
+      "id": "11.03.20",
+      "name": "Simpang Jernih"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

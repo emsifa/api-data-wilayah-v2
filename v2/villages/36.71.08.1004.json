@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.71.08.1004",
+    "name": "Sangiang Jaya",
+    "postal_code": "15132",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.71",
+      "name": "Kota Tangerang"
+    },
+    "district": {
+      "id": "36.71.08",
+      "name": "Periuk"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.72.09.1001",
+    "name": "Karang Mumus",
+    "postal_code": "75113",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.72",
+      "name": "Kota Samarinda"
+    },
+    "district": {
+      "id": "64.72.09",
+      "name": "Samarinda Kota"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

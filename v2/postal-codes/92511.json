@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "73.02.02.1002",
+      "name": "Bentengnge",
+      "postal_code": "92511",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.02",
+        "name": "Kabupaten Bulukumba"
+      },
+      "district": {
+        "id": "73.02.02",
+        "name": "Ujung Bulu"
+      }
+    },
+    {
+      "id": "73.02.02.1003",
+      "name": "Terang Terang",
+      "postal_code": "92511",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.02",
+        "name": "Kabupaten Bulukumba"
+      },
+      "district": {
+        "id": "73.02.02",
+        "name": "Ujung Bulu"
+      }
+    },
+    {
+      "id": "73.02.02.1006",
+      "name": "Kasimpureng",
+      "postal_code": "92511",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.02",
+        "name": "Kabupaten Bulukumba"
+      },
+      "district": {
+        "id": "73.02.02",
+        "name": "Ujung Bulu"
+      }
+    },
+    {
+      "id": "73.02.02.1008",
+      "name": "Loka",
+      "postal_code": "92511",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.02",
+        "name": "Kabupaten Bulukumba"
+      },
+      "district": {
+        "id": "73.02.02",
+        "name": "Ujung Bulu"
+      }
+    },
+    {
+      "id": "73.02.02.1009",
+      "name": "Ela Ela",
+      "postal_code": "92511",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.02",
+        "name": "Kabupaten Bulukumba"
+      },
+      "district": {
+        "id": "73.02.02",
+        "name": "Ujung Bulu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

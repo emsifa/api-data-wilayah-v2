@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.02.04.2003",
+    "name": "Ayuhulalo",
+    "postal_code": "96263",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.02",
+      "name": "Kabupaten Boalemo"
+    },
+    "district": {
+      "id": "75.02.04",
+      "name": "Tilamuta"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

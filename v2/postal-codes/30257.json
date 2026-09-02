@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "16.71.02.1002",
+      "name": "Satu Ulu",
+      "postal_code": "30257",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.71",
+        "name": "Kota Palembang"
+      },
+      "district": {
+        "id": "16.71.02",
+        "name": "Seberang Ulu Satu"
+      }
+    },
+    {
+      "id": "16.71.02.1003",
+      "name": "Dua Ulu",
+      "postal_code": "30257",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.71",
+        "name": "Kota Palembang"
+      },
+      "district": {
+        "id": "16.71.02",
+        "name": "Seberang Ulu Satu"
+      }
+    },
+    {
+      "id": "16.71.17.1003",
+      "name": "Lima-belas Ulu",
+      "postal_code": "30257",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.71",
+        "name": "Kota Palembang"
+      },
+      "district": {
+        "id": "16.71.17",
+        "name": "Jakabaring"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

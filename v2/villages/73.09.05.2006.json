@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.09.05.2006",
+    "name": "Salenrang",
+    "postal_code": "90554",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.09",
+      "name": "Kabupaten Maros"
+    },
+    "district": {
+      "id": "73.09.05",
+      "name": "Bontoa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

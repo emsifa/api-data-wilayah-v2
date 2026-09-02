@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "52.71.01.1008",
+      "name": "Taman Sari",
+      "postal_code": "83118",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.71",
+        "name": "Kota Mataram"
+      },
+      "district": {
+        "id": "52.71.01",
+        "name": "Ampenan"
+      }
+    },
+    {
+      "id": "52.71.01.1009",
+      "name": "Banjar",
+      "postal_code": "83118",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.71",
+        "name": "Kota Mataram"
+      },
+      "district": {
+        "id": "52.71.01",
+        "name": "Ampenan"
+      }
+    },
+    {
+      "id": "52.71.01.1010",
+      "name": "Kebun Sari",
+      "postal_code": "83118",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.71",
+        "name": "Kota Mataram"
+      },
+      "district": {
+        "id": "52.71.01",
+        "name": "Ampenan"
+      }
+    },
+    {
+      "id": "52.71.01.1011",
+      "name": "Pejarakan Karya",
+      "postal_code": "83118",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.71",
+        "name": "Kota Mataram"
+      },
+      "district": {
+        "id": "52.71.01",
+        "name": "Ampenan"
+      }
+    },
+    {
+      "id": "52.71.01.1012",
+      "name": "Dayan Peken",
+      "postal_code": "83118",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.71",
+        "name": "Kota Mataram"
+      },
+      "district": {
+        "id": "52.71.01",
+        "name": "Ampenan"
+      }
+    },
+    {
+      "id": "52.71.01.1013",
+      "name": "Bintaro",
+      "postal_code": "83118",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.71",
+        "name": "Kota Mataram"
+      },
+      "district": {
+        "id": "52.71.01",
+        "name": "Ampenan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

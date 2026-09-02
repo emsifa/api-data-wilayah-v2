@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.02.17.2004",
+    "name": "Amawang",
+    "postal_code": "78361",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.02",
+      "name": "Kabupaten Mempawah"
+    },
+    "district": {
+      "id": "61.02.17",
+      "name": "Sadaniang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

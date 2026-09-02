@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.04.38.2008",
+    "name": "Wuronggi",
+    "postal_code": "99035",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.04",
+      "name": "Kabupaten Tolikara"
+    },
+    "district": {
+      "id": "95.04.38",
+      "name": "Wugi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

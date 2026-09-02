@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.18.20.2001",
+    "name": "Wedusan",
+    "postal_code": "59158",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.18",
+      "name": "Kabupaten Pati"
+    },
+    "district": {
+      "id": "33.18.20",
+      "name": "Dukuhseti"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

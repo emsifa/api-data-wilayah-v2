@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.23.06.2003",
+    "name": "Batu Tunggal",
+    "postal_code": "21454",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.23",
+      "name": "Kabupaten Labuhanbatu Utara"
+    },
+    "district": {
+      "id": "12.23.06",
+      "name": "Na IX-X"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

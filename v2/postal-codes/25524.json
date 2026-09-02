@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "13.77.02.2008",
+      "name": "Cubadak Air Selatan",
+      "postal_code": "25524",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.77",
+        "name": "Kota Pariaman"
+      },
+      "district": {
+        "id": "13.77.02",
+        "name": "Pariaman Utara"
+      }
+    },
+    {
+      "id": "13.77.02.2012",
+      "name": "Cubadak Air Utara",
+      "postal_code": "25524",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.77",
+        "name": "Kota Pariaman"
+      },
+      "district": {
+        "id": "13.77.02",
+        "name": "Pariaman Utara"
+      }
+    },
+    {
+      "id": "13.77.02.2021",
+      "name": "Cubadak Air",
+      "postal_code": "25524",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.77",
+        "name": "Kota Pariaman"
+      },
+      "district": {
+        "id": "13.77.02",
+        "name": "Pariaman Utara"
+      }
+    },
+    {
+      "id": "13.77.04.2002",
+      "name": "Pakasai",
+      "postal_code": "25524",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.77",
+        "name": "Kota Pariaman"
+      },
+      "district": {
+        "id": "13.77.04",
+        "name": "Pariaman Timur"
+      }
+    },
+    {
+      "id": "13.77.04.2003",
+      "name": "Kampung Baru Padusunan",
+      "postal_code": "25524",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.77",
+        "name": "Kota Pariaman"
+      },
+      "district": {
+        "id": "13.77.04",
+        "name": "Pariaman Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

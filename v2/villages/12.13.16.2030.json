@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.13.16.2030",
+    "name": "Kun-Kun",
+    "postal_code": "22987",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.13",
+      "name": "Kabupaten Mandailing Natal"
+    },
+    "district": {
+      "id": "12.13.16",
+      "name": "Natal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

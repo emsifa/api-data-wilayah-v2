@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.01.11.2006",
+    "name": "Sumber Mulya",
+    "postal_code": "99646",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.01",
+      "name": "Kabupaten Merauke"
+    },
+    "district": {
+      "id": "93.01.11",
+      "name": "Kurik"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

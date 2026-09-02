@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.03.01.2006",
+    "name": "Batu Empang",
+    "postal_code": "37485",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.03",
+      "name": "Kabupaten Sarolangun"
+    },
+    "district": {
+      "id": "15.03.01",
+      "name": "Batang Asai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

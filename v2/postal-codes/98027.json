@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "92.03.03.2001",
+      "name": "Tunas Gain",
+      "postal_code": "98027",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.03",
+        "name": "Kabupaten Fak Fak"
+      },
+      "district": {
+        "id": "92.03.03",
+        "name": "Fak-Fak Timur"
+      }
+    },
+    {
+      "id": "92.03.03.2003",
+      "name": "Urat",
+      "postal_code": "98027",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.03",
+        "name": "Kabupaten Fak Fak"
+      },
+      "district": {
+        "id": "92.03.03",
+        "name": "Fak-Fak Timur"
+      }
+    },
+    {
+      "id": "92.03.03.2004",
+      "name": "Sanggram",
+      "postal_code": "98027",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.03",
+        "name": "Kabupaten Fak Fak"
+      },
+      "district": {
+        "id": "92.03.03",
+        "name": "Fak-Fak Timur"
+      }
+    },
+    {
+      "id": "92.03.03.2010",
+      "name": "Weri",
+      "postal_code": "98027",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.03",
+        "name": "Kabupaten Fak Fak"
+      },
+      "district": {
+        "id": "92.03.03",
+        "name": "Fak-Fak Timur"
+      }
+    },
+    {
+      "id": "92.03.03.2012",
+      "name": "Kiria Bisa",
+      "postal_code": "98027",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.03",
+        "name": "Kabupaten Fak Fak"
+      },
+      "district": {
+        "id": "92.03.03",
+        "name": "Fak-Fak Timur"
+      }
+    },
+    {
+      "id": "92.03.03.2013",
+      "name": "Saharei",
+      "postal_code": "98027",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.03",
+        "name": "Kabupaten Fak Fak"
+      },
+      "district": {
+        "id": "92.03.03",
+        "name": "Fak-Fak Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

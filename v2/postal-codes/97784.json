@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "82.04.10.2001",
+      "name": "Malapat",
+      "postal_code": "97784",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.04",
+        "name": "Kabupaten Halmahera Selatan"
+      },
+      "district": {
+        "id": "82.04.10",
+        "name": "Makian Barat"
+      }
+    },
+    {
+      "id": "82.04.10.2002",
+      "name": "Bobawae",
+      "postal_code": "97784",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.04",
+        "name": "Kabupaten Halmahera Selatan"
+      },
+      "district": {
+        "id": "82.04.10",
+        "name": "Makian Barat"
+      }
+    },
+    {
+      "id": "82.04.10.2003",
+      "name": "Ombawa",
+      "postal_code": "97784",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.04",
+        "name": "Kabupaten Halmahera Selatan"
+      },
+      "district": {
+        "id": "82.04.10",
+        "name": "Makian Barat"
+      }
+    },
+    {
+      "id": "82.04.10.2004",
+      "name": "Tegono",
+      "postal_code": "97784",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.04",
+        "name": "Kabupaten Halmahera Selatan"
+      },
+      "district": {
+        "id": "82.04.10",
+        "name": "Makian Barat"
+      }
+    },
+    {
+      "id": "82.04.10.2005",
+      "name": "Mateketen",
+      "postal_code": "97784",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.04",
+        "name": "Kabupaten Halmahera Selatan"
+      },
+      "district": {
+        "id": "82.04.10",
+        "name": "Makian Barat"
+      }
+    },
+    {
+      "id": "82.04.10.2006",
+      "name": "Talapaon",
+      "postal_code": "97784",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.04",
+        "name": "Kabupaten Halmahera Selatan"
+      },
+      "district": {
+        "id": "82.04.10",
+        "name": "Makian Barat"
+      }
+    },
+    {
+      "id": "82.04.10.2007",
+      "name": "Sebelei",
+      "postal_code": "97784",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.04",
+        "name": "Kabupaten Halmahera Selatan"
+      },
+      "district": {
+        "id": "82.04.10",
+        "name": "Makian Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

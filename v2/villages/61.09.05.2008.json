@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.09.05.2008",
+    "name": "Merbang",
+    "postal_code": "79586",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.09",
+      "name": "Kabupaten Sekadau"
+    },
+    "district": {
+      "id": "61.09.05",
+      "name": "Belitang Hilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

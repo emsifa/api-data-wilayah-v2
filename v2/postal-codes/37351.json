@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "15.02.19.2001",
+      "name": "Meranti",
+      "postal_code": "37351",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.19",
+        "name": "Renah Pamenang"
+      }
+    },
+    {
+      "id": "15.02.19.2002",
+      "name": "Bukit Bungkul",
+      "postal_code": "37351",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.19",
+        "name": "Renah Pamenang"
+      }
+    },
+    {
+      "id": "15.02.19.2003",
+      "name": "Rasau",
+      "postal_code": "37351",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.19",
+        "name": "Renah Pamenang"
+      }
+    },
+    {
+      "id": "15.02.19.2004",
+      "name": "Lantak Seribu",
+      "postal_code": "37351",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.19",
+        "name": "Renah Pamenang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

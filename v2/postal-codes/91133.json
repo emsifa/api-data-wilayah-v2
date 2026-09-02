@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "73.72.03.1001",
+      "name": "Lakessi",
+      "postal_code": "91133",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.72",
+        "name": "Kota Parepare"
+      },
+      "district": {
+        "id": "73.72.03",
+        "name": "Soreang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.10.12.2006",
+    "name": "Siompin",
+    "postal_code": "24787",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.10",
+      "name": "Kabupaten Aceh Singkil"
+    },
+    "district": {
+      "id": "11.10.12",
+      "name": "Suro Makmur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

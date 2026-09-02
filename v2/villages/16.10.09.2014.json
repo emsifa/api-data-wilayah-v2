@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.10.09.2014",
+    "name": "Sungai Ondok",
+    "postal_code": "30653",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.10",
+      "name": "Kabupaten Ogan Ilir"
+    },
+    "district": {
+      "id": "16.10.09",
+      "name": "Pemulutan Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

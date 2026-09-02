@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "35.17.09.1002",
+      "name": "Jombatan",
+      "postal_code": "61419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.09",
+        "name": "Jombang"
+      }
+    },
+    {
+      "id": "35.17.09.1004",
+      "name": "Kaliwungu",
+      "postal_code": "61419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.09",
+        "name": "Jombang"
+      }
+    },
+    {
+      "id": "35.17.09.2010",
+      "name": "Tunggorono",
+      "postal_code": "61419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.09",
+        "name": "Jombang"
+      }
+    },
+    {
+      "id": "35.17.09.2013",
+      "name": "Candimulyo",
+      "postal_code": "61419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.09",
+        "name": "Jombang"
+      }
+    },
+    {
+      "id": "35.17.09.2014",
+      "name": "Tambakrejo",
+      "postal_code": "61419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.09",
+        "name": "Jombang"
+      }
+    },
+    {
+      "id": "35.17.09.2015",
+      "name": "Banjardowo",
+      "postal_code": "61419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.09",
+        "name": "Jombang"
+      }
+    },
+    {
+      "id": "35.17.09.2016",
+      "name": "Sambongdukuh",
+      "postal_code": "61419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.09",
+        "name": "Jombang"
+      }
+    },
+    {
+      "id": "35.17.09.2017",
+      "name": "Dapurkejambon",
+      "postal_code": "61419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.09",
+        "name": "Jombang"
+      }
+    },
+    {
+      "id": "35.17.09.2020",
+      "name": "Sumberjo",
+      "postal_code": "61419",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.09",
+        "name": "Jombang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.71.03.2002",
+    "name": "Pemecutan Kelod",
+    "postal_code": "80119",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.71",
+      "name": "Kota Denpasar"
+    },
+    "district": {
+      "id": "51.71.03",
+      "name": "Denpasar Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

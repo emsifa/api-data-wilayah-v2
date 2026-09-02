@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.11.09.2006",
+    "name": "Suriamukti",
+    "postal_code": "45393",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.11",
+      "name": "Kabupaten Sumedang"
+    },
+    "district": {
+      "id": "32.11.09",
+      "name": "Surian"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

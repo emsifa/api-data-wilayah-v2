@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "92",
+    "name": "Papua Barat",
+    "capital": "Manokwari",
+    "lat": -0.9183508078420117,
+    "lng": 134.03048752217148,
+    "elv": 144,
+    "tz": 9,
+    "population": 576255,
+    "total_area": 60308.59,
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 2
+  }
+}

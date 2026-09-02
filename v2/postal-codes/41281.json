@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "32.13.12.2007",
+      "name": "Curugrendeng",
+      "postal_code": "41281",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.12",
+        "name": "Jalancagak"
+      }
+    },
+    {
+      "id": "32.13.12.2008",
+      "name": "Tambakan",
+      "postal_code": "41281",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.12",
+        "name": "Jalancagak"
+      }
+    },
+    {
+      "id": "32.13.12.2009",
+      "name": "Bunihayu",
+      "postal_code": "41281",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.12",
+        "name": "Jalancagak"
+      }
+    },
+    {
+      "id": "32.13.12.2011",
+      "name": "Kumpay",
+      "postal_code": "41281",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.12",
+        "name": "Jalancagak"
+      }
+    },
+    {
+      "id": "32.13.12.2012",
+      "name": "Sarireja",
+      "postal_code": "41281",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.12",
+        "name": "Jalancagak"
+      }
+    },
+    {
+      "id": "32.13.12.2014",
+      "name": "Tambakmekar",
+      "postal_code": "41281",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.12",
+        "name": "Jalancagak"
+      }
+    },
+    {
+      "id": "32.13.12.2017",
+      "name": "Jalancagak",
+      "postal_code": "41281",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.12",
+        "name": "Jalancagak"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

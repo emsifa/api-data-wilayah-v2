@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "92.08.05.2001",
+      "name": "Rauna",
+      "postal_code": "98114",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.08",
+        "name": "Kabupaten Kaimana"
+      },
+      "district": {
+        "id": "92.08.05",
+        "name": "Kambrau"
+      }
+    },
+    {
+      "id": "92.08.05.2002",
+      "name": "Werafuta",
+      "postal_code": "98114",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.08",
+        "name": "Kabupaten Kaimana"
+      },
+      "district": {
+        "id": "92.08.05",
+        "name": "Kambrau"
+      }
+    },
+    {
+      "id": "92.08.05.2003",
+      "name": "Ubia Sermuku",
+      "postal_code": "98114",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.08",
+        "name": "Kabupaten Kaimana"
+      },
+      "district": {
+        "id": "92.08.05",
+        "name": "Kambrau"
+      }
+    },
+    {
+      "id": "92.08.05.2004",
+      "name": "Bahumia",
+      "postal_code": "98114",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.08",
+        "name": "Kabupaten Kaimana"
+      },
+      "district": {
+        "id": "92.08.05",
+        "name": "Kambrau"
+      }
+    },
+    {
+      "id": "92.08.05.2005",
+      "name": "Waho",
+      "postal_code": "98114",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.08",
+        "name": "Kabupaten Kaimana"
+      },
+      "district": {
+        "id": "92.08.05",
+        "name": "Kambrau"
+      }
+    },
+    {
+      "id": "92.08.05.2006",
+      "name": "Wamesa",
+      "postal_code": "98114",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.08",
+        "name": "Kabupaten Kaimana"
+      },
+      "district": {
+        "id": "92.08.05",
+        "name": "Kambrau"
+      }
+    },
+    {
+      "id": "92.08.05.2007",
+      "name": "Kooy",
+      "postal_code": "98114",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.08",
+        "name": "Kabupaten Kaimana"
+      },
+      "district": {
+        "id": "92.08.05",
+        "name": "Kambrau"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

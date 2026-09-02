@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.03.13.2001",
+    "name": "Teraju",
+    "postal_code": "78572",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.03",
+      "name": "Kabupaten Sanggau"
+    },
+    "district": {
+      "id": "61.03.13",
+      "name": "Toba"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

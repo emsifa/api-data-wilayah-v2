@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.72.01.1006",
+    "name": "Kalitimbang",
+    "postal_code": "42424",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.72",
+      "name": "Kota Cilegon"
+    },
+    "district": {
+      "id": "36.72.01",
+      "name": "Cibeber"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.02.07.2002",
+    "name": "Bagendang Hilir",
+    "postal_code": "74361",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.02",
+      "name": "Kabupaten Kotawaringin Timur"
+    },
+    "district": {
+      "id": "62.02.07",
+      "name": "Mentaya Hilir Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

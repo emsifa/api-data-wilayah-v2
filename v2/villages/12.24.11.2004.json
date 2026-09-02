@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.24.11.2004",
+    "name": "Tefa'o",
+    "postal_code": "22858",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.24",
+      "name": "Kabupaten Nias Utara"
+    },
+    "district": {
+      "id": "12.24.11",
+      "name": "Lahewa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

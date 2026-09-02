@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "61.06.17.2003",
+      "name": "Sungai Uluk",
+      "postal_code": "78752",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.17",
+        "name": "Putussibau Selatan"
+      }
+    },
+    {
+      "id": "61.06.17.2004",
+      "name": "Jaras",
+      "postal_code": "78752",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.17",
+        "name": "Putussibau Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

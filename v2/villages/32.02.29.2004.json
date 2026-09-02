@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.02.29.2004",
+    "name": "Cisaat",
+    "postal_code": "43152",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.02",
+      "name": "Kabupaten Sukabumi"
+    },
+    "district": {
+      "id": "32.02.29",
+      "name": "Cisaat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

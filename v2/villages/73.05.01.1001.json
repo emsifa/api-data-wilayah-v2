@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.05.01.1001",
+    "name": "Takalar",
+    "postal_code": "92232",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.05",
+      "name": "Kabupaten Takalar"
+    },
+    "district": {
+      "id": "73.05.01",
+      "name": "Mappakasunggu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

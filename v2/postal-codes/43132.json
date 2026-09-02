@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "32.02.29.2005",
+      "name": "Nagrak",
+      "postal_code": "43132",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.29",
+        "name": "Cisaat"
+      }
+    },
+    {
+      "id": "32.72.04.1005",
+      "name": "Benteng",
+      "postal_code": "43132",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.72",
+        "name": "Kota Sukabumi"
+      },
+      "district": {
+        "id": "32.72.04",
+        "name": "Warudoyong"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

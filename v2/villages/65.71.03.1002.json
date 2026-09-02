@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "65.71.03.1002",
+    "name": "Gunung Lingkas",
+    "postal_code": "77115",
+    "province": {
+      "id": "65",
+      "name": "Kalimantan Utara"
+    },
+    "regency": {
+      "id": "65.71",
+      "name": "Kota Tarakan"
+    },
+    "district": {
+      "id": "65.71.03",
+      "name": "Tarakan Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

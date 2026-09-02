@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.12.19.2009",
+    "name": "Sigumpar Barat",
+    "postal_code": "22380",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.12",
+      "name": "Kabupaten Toba"
+    },
+    "district": {
+      "id": "12.12.19",
+      "name": "Sigumpar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

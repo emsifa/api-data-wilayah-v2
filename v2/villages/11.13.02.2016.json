@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.13.02.2016",
+    "name": "Kerukunan Kuta Panjang",
+    "postal_code": "24650",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.13",
+      "name": "Kabupaten Gayo Lues"
+    },
+    "district": {
+      "id": "11.13.02",
+      "name": "Kutapanjang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

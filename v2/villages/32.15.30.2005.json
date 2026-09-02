@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.15.30.2005",
+    "name": "Kosambibatu",
+    "postal_code": "41350",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.15",
+      "name": "Kabupaten Karawang"
+    },
+    "district": {
+      "id": "32.15.30",
+      "name": "Cilebar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

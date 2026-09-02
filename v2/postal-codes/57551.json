@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "33.11.04.1001",
+      "name": "Kenep",
+      "postal_code": "57551",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.11",
+        "name": "Kabupaten Sukoharjo"
+      },
+      "district": {
+        "id": "33.11.04",
+        "name": "Sukoharjo"
+      }
+    },
+    {
+      "id": "33.11.04.1002",
+      "name": "Banmati",
+      "postal_code": "57551",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.11",
+        "name": "Kabupaten Sukoharjo"
+      },
+      "district": {
+        "id": "33.11.04",
+        "name": "Sukoharjo"
+      }
+    },
+    {
+      "id": "33.11.04.1004",
+      "name": "Begajah",
+      "postal_code": "57551",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.11",
+        "name": "Kabupaten Sukoharjo"
+      },
+      "district": {
+        "id": "33.11.04",
+        "name": "Sukoharjo"
+      }
+    },
+    {
+      "id": "33.11.04.1009",
+      "name": "Kriwen",
+      "postal_code": "57551",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.11",
+        "name": "Kabupaten Sukoharjo"
+      },
+      "district": {
+        "id": "33.11.04",
+        "name": "Sukoharjo"
+      }
+    },
+    {
+      "id": "33.11.04.1010",
+      "name": "Bulakan",
+      "postal_code": "57551",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.11",
+        "name": "Kabupaten Sukoharjo"
+      },
+      "district": {
+        "id": "33.11.04",
+        "name": "Sukoharjo"
+      }
+    },
+    {
+      "id": "33.11.04.1013",
+      "name": "Bulakrejo",
+      "postal_code": "57551",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.11",
+        "name": "Kabupaten Sukoharjo"
+      },
+      "district": {
+        "id": "33.11.04",
+        "name": "Sukoharjo"
+      }
+    },
+    {
+      "id": "33.11.04.1014",
+      "name": "Sonorejo",
+      "postal_code": "57551",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.11",
+        "name": "Kabupaten Sukoharjo"
+      },
+      "district": {
+        "id": "33.11.04",
+        "name": "Sukoharjo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

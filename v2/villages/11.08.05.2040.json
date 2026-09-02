@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.08.05.2040",
+    "name": "Rayeuk Pirak",
+    "postal_code": "24386",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.08",
+      "name": "Kabupaten Aceh Utara"
+    },
+    "district": {
+      "id": "11.08.05",
+      "name": "Matangkuli"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

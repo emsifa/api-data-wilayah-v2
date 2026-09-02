@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.05.03.2016",
+    "name": "Gusalaut",
+    "postal_code": "97525",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.05",
+      "name": "Kabupaten Seram Bagian Timur"
+    },
+    "district": {
+      "id": "81.05.03",
+      "name": "Werinama"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

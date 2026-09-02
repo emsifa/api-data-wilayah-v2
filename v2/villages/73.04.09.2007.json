@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.04.09.2007",
+    "name": "Kampala",
+    "postal_code": "92361",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.04",
+      "name": "Kabupaten Jeneponto"
+    },
+    "district": {
+      "id": "73.04.09",
+      "name": "Arungkeke"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

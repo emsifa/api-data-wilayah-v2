@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.73.03.1009",
+    "name": "Madyopuro",
+    "postal_code": "65139",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.73",
+      "name": "Kota Malang"
+    },
+    "district": {
+      "id": "35.73.03",
+      "name": "Kedungkandang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

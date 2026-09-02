@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.03.05.2002",
+    "name": "Pelawan",
+    "postal_code": "37482",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.03",
+      "name": "Kabupaten Sarolangun"
+    },
+    "district": {
+      "id": "15.03.05",
+      "name": "Pelawan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

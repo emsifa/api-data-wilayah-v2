@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "12.09.20.1007",
+      "name": "Lestari",
+      "postal_code": "21221",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.09",
+        "name": "Kabupaten Asahan"
+      },
+      "district": {
+        "id": "12.09.20",
+        "name": "Kota Kisaran Timur"
+      }
+    },
+    {
+      "id": "12.09.20.1012",
+      "name": "Gambir Baru",
+      "postal_code": "21221",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.09",
+        "name": "Kabupaten Asahan"
+      },
+      "district": {
+        "id": "12.09.20",
+        "name": "Kota Kisaran Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

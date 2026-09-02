@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "16.08.16.2001",
+      "name": "Jayapura",
+      "postal_code": "32381",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.16",
+        "name": "Jayapura"
+      }
+    },
+    {
+      "id": "16.08.16.2002",
+      "name": "Bunga Mayang",
+      "postal_code": "32381",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.16",
+        "name": "Jayapura"
+      }
+    },
+    {
+      "id": "16.08.16.2003",
+      "name": "Way Salak",
+      "postal_code": "32381",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.16",
+        "name": "Jayapura"
+      }
+    },
+    {
+      "id": "16.08.16.2004",
+      "name": "Mendah",
+      "postal_code": "32381",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.16",
+        "name": "Jayapura"
+      }
+    },
+    {
+      "id": "16.08.16.2005",
+      "name": "Tumijaya",
+      "postal_code": "32381",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.16",
+        "name": "Jayapura"
+      }
+    },
+    {
+      "id": "16.08.16.2006",
+      "name": "Condong",
+      "postal_code": "32381",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.16",
+        "name": "Jayapura"
+      }
+    },
+    {
+      "id": "16.08.16.2007",
+      "name": "Peracak Jaya",
+      "postal_code": "32381",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.16",
+        "name": "Jayapura"
+      }
+    },
+    {
+      "id": "16.08.16.2008",
+      "name": "Kambang",
+      "postal_code": "32381",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.16",
+        "name": "Jayapura"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

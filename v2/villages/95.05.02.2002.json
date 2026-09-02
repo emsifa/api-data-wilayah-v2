@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.05.02.2002",
+    "name": "Dibunggen",
+    "postal_code": "99072",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.05",
+      "name": "Kabupaten Mamberamo Tengah"
+    },
+    "district": {
+      "id": "95.05.02",
+      "name": "Kelila"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

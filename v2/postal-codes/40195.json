@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "32.04.06.2007",
+      "name": "Sindanglaya",
+      "postal_code": "40195",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.06",
+        "name": "Cimenyan"
+      }
+    },
+    {
+      "id": "32.73.30.1001",
+      "name": "Jatihandap",
+      "postal_code": "40195",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.30",
+        "name": "Mandalajati"
+      }
+    },
+    {
+      "id": "32.73.30.1002",
+      "name": "Karang Pamulang",
+      "postal_code": "40195",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.30",
+        "name": "Mandalajati"
+      }
+    },
+    {
+      "id": "32.73.30.1003",
+      "name": "Pasir Impun",
+      "postal_code": "40195",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.30",
+        "name": "Mandalajati"
+      }
+    },
+    {
+      "id": "32.73.30.1004",
+      "name": "Sindang Jaya",
+      "postal_code": "40195",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.30",
+        "name": "Mandalajati"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

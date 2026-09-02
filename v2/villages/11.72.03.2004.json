@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.72.03.2004",
+    "name": "Paya",
+    "postal_code": "23529",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.72",
+      "name": "Kota Sabang"
+    },
+    "district": {
+      "id": "11.72.03",
+      "name": "Sukamakmue"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "53.20.02.2001",
+      "name": "Bebae",
+      "postal_code": "85392",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.20",
+        "name": "Kabupaten Sabu Raijua"
+      },
+      "district": {
+        "id": "53.20.02",
+        "name": "Sabu Tengah"
+      }
+    },
+    {
+      "id": "53.20.02.2002",
+      "name": "Tada",
+      "postal_code": "85392",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.20",
+        "name": "Kabupaten Sabu Raijua"
+      },
+      "district": {
+        "id": "53.20.02",
+        "name": "Sabu Tengah"
+      }
+    },
+    {
+      "id": "53.20.02.2003",
+      "name": "Matei",
+      "postal_code": "85392",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.20",
+        "name": "Kabupaten Sabu Raijua"
+      },
+      "district": {
+        "id": "53.20.02",
+        "name": "Sabu Tengah"
+      }
+    },
+    {
+      "id": "53.20.02.2004",
+      "name": "Loboaju",
+      "postal_code": "85392",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.20",
+        "name": "Kabupaten Sabu Raijua"
+      },
+      "district": {
+        "id": "53.20.02",
+        "name": "Sabu Tengah"
+      }
+    },
+    {
+      "id": "53.20.02.2005",
+      "name": "Eimadake",
+      "postal_code": "85392",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.20",
+        "name": "Kabupaten Sabu Raijua"
+      },
+      "district": {
+        "id": "53.20.02",
+        "name": "Sabu Tengah"
+      }
+    },
+    {
+      "id": "53.20.02.2006",
+      "name": "Jiwuwu",
+      "postal_code": "85392",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.20",
+        "name": "Kabupaten Sabu Raijua"
+      },
+      "district": {
+        "id": "53.20.02",
+        "name": "Sabu Tengah"
+      }
+    },
+    {
+      "id": "53.20.02.2007",
+      "name": "Eilode",
+      "postal_code": "85392",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.20",
+        "name": "Kabupaten Sabu Raijua"
+      },
+      "district": {
+        "id": "53.20.02",
+        "name": "Sabu Tengah"
+      }
+    },
+    {
+      "id": "53.20.02.2008",
+      "name": "Eimau",
+      "postal_code": "85392",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.20",
+        "name": "Kabupaten Sabu Raijua"
+      },
+      "district": {
+        "id": "53.20.02",
+        "name": "Sabu Tengah"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

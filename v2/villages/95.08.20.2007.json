@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.08.20.2007",
+    "name": "Gulama",
+    "postal_code": "99904",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.08",
+      "name": "Kabupaten Nduga"
+    },
+    "district": {
+      "id": "95.08.20",
+      "name": "Inikgal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

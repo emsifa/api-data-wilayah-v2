@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "65.04.04.2005",
+    "name": "Maning",
+    "postal_code": "77152",
+    "province": {
+      "id": "65",
+      "name": "Kalimantan Utara"
+    },
+    "regency": {
+      "id": "65.04",
+      "name": "Kabupaten Tana Tidung"
+    },
+    "district": {
+      "id": "65.04.04",
+      "name": "Betayau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

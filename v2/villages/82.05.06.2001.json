@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.05.06.2001",
+    "name": "Dofa",
+    "postal_code": "97793",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.05",
+      "name": "Kabupaten Kepulauan Sula"
+    },
+    "district": {
+      "id": "82.05.06",
+      "name": "Mangoli Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

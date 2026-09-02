@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "61.03.01.1003",
+      "name": "Sungai Sengkuang",
+      "postal_code": "78514",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.03",
+        "name": "Kabupaten Sanggau"
+      },
+      "district": {
+        "id": "61.03.01",
+        "name": "Kapuas"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

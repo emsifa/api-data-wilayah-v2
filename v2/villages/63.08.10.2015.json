@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.08.10.2015",
+    "name": "Rantau Bujur Hilir",
+    "postal_code": "71456",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.08",
+      "name": "Kabupaten Hulu Sungai Utara"
+    },
+    "district": {
+      "id": "63.08.10",
+      "name": "Sungai Tabukan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.72.03.1004",
+    "name": "Penyengat",
+    "postal_code": "29114",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.72",
+      "name": "Kota Tanjung Pinang"
+    },
+    "district": {
+      "id": "21.72.03",
+      "name": "Tanjung Pinang Kota"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

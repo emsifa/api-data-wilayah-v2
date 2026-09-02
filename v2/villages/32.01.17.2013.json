@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.01.17.2013",
+    "name": "Ciasihan",
+    "postal_code": "16812",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.01",
+      "name": "Kabupaten Bogor"
+    },
+    "district": {
+      "id": "32.01.17",
+      "name": "Pamijahan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

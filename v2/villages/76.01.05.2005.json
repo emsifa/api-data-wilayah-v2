@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.01.05.2005",
+    "name": "Sarasa",
+    "postal_code": "91581",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.01",
+      "name": "Kabupaten Pasangkayu"
+    },
+    "district": {
+      "id": "76.01.05",
+      "name": "Dapurang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

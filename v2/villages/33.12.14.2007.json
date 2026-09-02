@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.12.14.2007",
+    "name": "Ngabeyan",
+    "postal_code": "57682",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.12",
+      "name": "Kabupaten Wonogiri"
+    },
+    "district": {
+      "id": "33.12.14",
+      "name": "Sidoharjo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

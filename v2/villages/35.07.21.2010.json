@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.07.21.2010",
+    "name": "Jedong",
+    "postal_code": "65158",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.07",
+      "name": "Kabupaten Malang"
+    },
+    "district": {
+      "id": "35.07.21",
+      "name": "Wagir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

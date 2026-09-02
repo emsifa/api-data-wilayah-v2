@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.08.05.2007",
+    "name": "Sembikuan",
+    "postal_code": "74174",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.08",
+      "name": "Kabupaten Sukamara"
+    },
+    "district": {
+      "id": "62.08.05",
+      "name": "Permata Kecubung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

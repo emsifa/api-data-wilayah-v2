@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.01.02.2008",
+    "name": "Planjan",
+    "postal_code": "53274",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.01",
+      "name": "Kabupaten Cilacap"
+    },
+    "district": {
+      "id": "33.01.02",
+      "name": "Kesugihan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

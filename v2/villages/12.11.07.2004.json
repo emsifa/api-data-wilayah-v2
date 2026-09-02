@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.11.07.2004",
+    "name": "Sungai Raya",
+    "postal_code": "22254",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.11",
+      "name": "Kabupaten Dairi"
+    },
+    "district": {
+      "id": "12.11.07",
+      "name": "Siempat Nempu Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

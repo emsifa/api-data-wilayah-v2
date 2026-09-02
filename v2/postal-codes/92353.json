@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "73.04.06.1002",
+      "name": "Bulu Jaya",
+      "postal_code": "92353",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.04",
+        "name": "Kabupaten Jeneponto"
+      },
+      "district": {
+        "id": "73.04.06",
+        "name": "Bangkala Barat"
+      }
+    },
+    {
+      "id": "73.04.06.2001",
+      "name": "Banrimanurung",
+      "postal_code": "92353",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.04",
+        "name": "Kabupaten Jeneponto"
+      },
+      "district": {
+        "id": "73.04.06",
+        "name": "Bangkala Barat"
+      }
+    },
+    {
+      "id": "73.04.06.2003",
+      "name": "Barana",
+      "postal_code": "92353",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.04",
+        "name": "Kabupaten Jeneponto"
+      },
+      "district": {
+        "id": "73.04.06",
+        "name": "Bangkala Barat"
+      }
+    },
+    {
+      "id": "73.04.06.2004",
+      "name": "Beroanging",
+      "postal_code": "92353",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.04",
+        "name": "Kabupaten Jeneponto"
+      },
+      "district": {
+        "id": "73.04.06",
+        "name": "Bangkala Barat"
+      }
+    },
+    {
+      "id": "73.04.06.2005",
+      "name": "Tuju",
+      "postal_code": "92353",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.04",
+        "name": "Kabupaten Jeneponto"
+      },
+      "district": {
+        "id": "73.04.06",
+        "name": "Bangkala Barat"
+      }
+    },
+    {
+      "id": "73.04.06.2006",
+      "name": "Garassikang",
+      "postal_code": "92353",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.04",
+        "name": "Kabupaten Jeneponto"
+      },
+      "district": {
+        "id": "73.04.06",
+        "name": "Bangkala Barat"
+      }
+    },
+    {
+      "id": "73.04.06.2007",
+      "name": "Pattiro",
+      "postal_code": "92353",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.04",
+        "name": "Kabupaten Jeneponto"
+      },
+      "district": {
+        "id": "73.04.06",
+        "name": "Bangkala Barat"
+      }
+    },
+    {
+      "id": "73.04.06.2008",
+      "name": "Pappalluang",
+      "postal_code": "92353",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.04",
+        "name": "Kabupaten Jeneponto"
+      },
+      "district": {
+        "id": "73.04.06",
+        "name": "Bangkala Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

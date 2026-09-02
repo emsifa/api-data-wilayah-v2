@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.71.03.1007",
+    "name": "Sentosa",
+    "postal_code": "30261",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.71",
+      "name": "Kota Palembang"
+    },
+    "district": {
+      "id": "16.71.03",
+      "name": "Seberang Ulu Dua"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

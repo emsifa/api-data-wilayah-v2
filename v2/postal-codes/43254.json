@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "32.03.13.2001",
+      "name": "Cikanyere",
+      "postal_code": "43254",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.03",
+        "name": "Kabupaten Cianjur"
+      },
+      "district": {
+        "id": "32.03.13",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.03.13.2002",
+      "name": "Cikancana",
+      "postal_code": "43254",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.03",
+        "name": "Kabupaten Cianjur"
+      },
+      "district": {
+        "id": "32.03.13",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.03.13.2003",
+      "name": "Ciwalen",
+      "postal_code": "43254",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.03",
+        "name": "Kabupaten Cianjur"
+      },
+      "district": {
+        "id": "32.03.13",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.03.13.2004",
+      "name": "Kawungluwuk",
+      "postal_code": "43254",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.03",
+        "name": "Kabupaten Cianjur"
+      },
+      "district": {
+        "id": "32.03.13",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.03.13.2005",
+      "name": "Cibadak",
+      "postal_code": "43254",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.03",
+        "name": "Kabupaten Cianjur"
+      },
+      "district": {
+        "id": "32.03.13",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.03.13.2006",
+      "name": "Sukamahi",
+      "postal_code": "43254",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.03",
+        "name": "Kabupaten Cianjur"
+      },
+      "district": {
+        "id": "32.03.13",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.03.13.2007",
+      "name": "Sukaresmi",
+      "postal_code": "43254",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.03",
+        "name": "Kabupaten Cianjur"
+      },
+      "district": {
+        "id": "32.03.13",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.03.13.2008",
+      "name": "Cibanteng",
+      "postal_code": "43254",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.03",
+        "name": "Kabupaten Cianjur"
+      },
+      "district": {
+        "id": "32.03.13",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.03.13.2009",
+      "name": "Kubang",
+      "postal_code": "43254",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.03",
+        "name": "Kabupaten Cianjur"
+      },
+      "district": {
+        "id": "32.03.13",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.03.13.2010",
+      "name": "Pakuon",
+      "postal_code": "43254",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.03",
+        "name": "Kabupaten Cianjur"
+      },
+      "district": {
+        "id": "32.03.13",
+        "name": "Sukaresmi"
+      }
+    },
+    {
+      "id": "32.03.13.2011",
+      "name": "Rawabelut",
+      "postal_code": "43254",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.03",
+        "name": "Kabupaten Cianjur"
+      },
+      "district": {
+        "id": "32.03.13",
+        "name": "Sukaresmi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

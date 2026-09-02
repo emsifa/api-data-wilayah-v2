@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "19.06.01.2002",
+      "name": "Kurnia Jaya",
+      "postal_code": "33512",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.06",
+        "name": "Kabupaten Belitung Timur"
+      },
+      "district": {
+        "id": "19.06.01",
+        "name": "Manggar"
+      }
+    },
+    {
+      "id": "19.06.01.2007",
+      "name": "Baru",
+      "postal_code": "33512",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.06",
+        "name": "Kabupaten Belitung Timur"
+      },
+      "district": {
+        "id": "19.06.01",
+        "name": "Manggar"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

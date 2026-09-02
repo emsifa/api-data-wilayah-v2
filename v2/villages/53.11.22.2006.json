@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.11.22.2006",
+    "name": "Haray",
+    "postal_code": "87170",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.11",
+      "name": "Kabupaten Sumba Timur"
+    },
+    "district": {
+      "id": "53.11.22",
+      "name": "Mahu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

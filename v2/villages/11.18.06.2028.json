@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.18.06.2028",
+    "name": "Baroh Cot",
+    "postal_code": "24184",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.18",
+      "name": "Kabupaten Pidie Jaya"
+    },
+    "district": {
+      "id": "11.18.06",
+      "name": "Bandar Baru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

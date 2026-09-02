@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.18.03.2011",
+    "name": "Bogak Besar",
+    "postal_code": "20997",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.18",
+      "name": "Kabupaten Serdang Bedagai"
+    },
+    "district": {
+      "id": "12.18.03",
+      "name": "Teluk Mengkudu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

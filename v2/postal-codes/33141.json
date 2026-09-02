@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "19.71.07.1002",
+      "name": "Batu Intan",
+      "postal_code": "33141",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.71",
+        "name": "Kota Pangkal Pinang"
+      },
+      "district": {
+        "id": "19.71.07",
+        "name": "Girimaya"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

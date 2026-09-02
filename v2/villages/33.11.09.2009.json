@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.11.09.2009",
+    "name": "Kadokan",
+    "postal_code": "57552",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.11",
+      "name": "Kabupaten Sukoharjo"
+    },
+    "district": {
+      "id": "33.11.09",
+      "name": "Grogol"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

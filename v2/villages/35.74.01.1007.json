@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.74.01.1007",
+    "name": "Pohsangit Kidul",
+    "postal_code": "67226",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.74",
+      "name": "Kota Probolinggo"
+    },
+    "district": {
+      "id": "35.74.01",
+      "name": "Kademangan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

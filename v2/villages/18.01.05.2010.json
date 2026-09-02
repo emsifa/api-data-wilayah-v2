@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.01.05.2010",
+    "name": "Trimulyo",
+    "postal_code": "35361",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.01",
+      "name": "Kabupaten Lampung Selatan"
+    },
+    "district": {
+      "id": "18.01.05",
+      "name": "Tanjung Bintang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

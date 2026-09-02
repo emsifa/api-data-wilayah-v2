@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.04.02.2019",
+    "name": "Halimodok",
+    "postal_code": "85771",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.04",
+      "name": "Kabupaten Belu"
+    },
+    "district": {
+      "id": "53.04.02",
+      "name": "Tasifeto Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

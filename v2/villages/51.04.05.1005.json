@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.04.05.1005",
+    "name": "Ubud",
+    "postal_code": "80571",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.04",
+      "name": "Kabupaten Gianyar"
+    },
+    "district": {
+      "id": "51.04.05",
+      "name": "Ubud"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

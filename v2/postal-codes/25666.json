@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "13.01.02.2001",
+      "name": "Pelangai",
+      "postal_code": "25666",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.01",
+        "name": "Kabupaten Pesisir Selatan"
+      },
+      "district": {
+        "id": "13.01.02",
+        "name": "Ranah Pesisir"
+      }
+    },
+    {
+      "id": "13.01.02.2002",
+      "name": "Sungai Tunu",
+      "postal_code": "25666",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.01",
+        "name": "Kabupaten Pesisir Selatan"
+      },
+      "district": {
+        "id": "13.01.02",
+        "name": "Ranah Pesisir"
+      }
+    },
+    {
+      "id": "13.01.02.2003",
+      "name": "Sungai Tunu Utara",
+      "postal_code": "25666",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.01",
+        "name": "Kabupaten Pesisir Selatan"
+      },
+      "district": {
+        "id": "13.01.02",
+        "name": "Ranah Pesisir"
+      }
+    },
+    {
+      "id": "13.01.02.2004",
+      "name": "Sungai Tunu Barat",
+      "postal_code": "25666",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.01",
+        "name": "Kabupaten Pesisir Selatan"
+      },
+      "district": {
+        "id": "13.01.02",
+        "name": "Ranah Pesisir"
+      }
+    },
+    {
+      "id": "13.01.02.2005",
+      "name": "Nyiur Melambai Pelangai",
+      "postal_code": "25666",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.01",
+        "name": "Kabupaten Pesisir Selatan"
+      },
+      "district": {
+        "id": "13.01.02",
+        "name": "Ranah Pesisir"
+      }
+    },
+    {
+      "id": "13.01.02.2006",
+      "name": "Sungai Liku Pelangai",
+      "postal_code": "25666",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.01",
+        "name": "Kabupaten Pesisir Selatan"
+      },
+      "district": {
+        "id": "13.01.02",
+        "name": "Ranah Pesisir"
+      }
+    },
+    {
+      "id": "13.01.02.2007",
+      "name": "Koto VIII Pelangai",
+      "postal_code": "25666",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.01",
+        "name": "Kabupaten Pesisir Selatan"
+      },
+      "district": {
+        "id": "13.01.02",
+        "name": "Ranah Pesisir"
+      }
+    },
+    {
+      "id": "13.01.02.2008",
+      "name": "Pelangai Gadang",
+      "postal_code": "25666",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.01",
+        "name": "Kabupaten Pesisir Selatan"
+      },
+      "district": {
+        "id": "13.01.02",
+        "name": "Ranah Pesisir"
+      }
+    },
+    {
+      "id": "13.01.02.2009",
+      "name": "Pelangai Kaciak",
+      "postal_code": "25666",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.01",
+        "name": "Kabupaten Pesisir Selatan"
+      },
+      "district": {
+        "id": "13.01.02",
+        "name": "Ranah Pesisir"
+      }
+    },
+    {
+      "id": "13.01.02.2010",
+      "name": "Pasia Pelangai",
+      "postal_code": "25666",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.01",
+        "name": "Kabupaten Pesisir Selatan"
+      },
+      "district": {
+        "id": "13.01.02",
+        "name": "Ranah Pesisir"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

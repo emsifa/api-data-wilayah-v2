@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.04.27.2014",
+    "name": "Padang Perigi",
+    "postal_code": "31455",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.04",
+      "name": "Kabupaten Lahat"
+    },
+    "district": {
+      "id": "16.04.27",
+      "name": "Tanjungtebat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

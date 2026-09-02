@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.11.12.2004",
+    "name": "Lamosila",
+    "postal_code": "93576",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.11",
+      "name": "Kabupaten Kolaka Timur"
+    },
+    "district": {
+      "id": "74.11.12",
+      "name": "Dangia"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

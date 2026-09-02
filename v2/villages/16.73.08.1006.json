@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.73.08.1006",
+    "name": "Megang",
+    "postal_code": "31628",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.73",
+      "name": "Kota Lubuk Linggau"
+    },
+    "district": {
+      "id": "16.73.08",
+      "name": "Lubuk Linggau Utara II"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

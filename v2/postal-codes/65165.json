@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "35.07.31.2001",
+      "name": "Slorok",
+      "postal_code": "65165",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.07",
+        "name": "Kabupaten Malang"
+      },
+      "district": {
+        "id": "35.07.31",
+        "name": "Kromengan"
+      }
+    },
+    {
+      "id": "35.07.31.2002",
+      "name": "Jatikerto",
+      "postal_code": "65165",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.07",
+        "name": "Kabupaten Malang"
+      },
+      "district": {
+        "id": "35.07.31",
+        "name": "Kromengan"
+      }
+    },
+    {
+      "id": "35.07.31.2003",
+      "name": "Ngadirejo",
+      "postal_code": "65165",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.07",
+        "name": "Kabupaten Malang"
+      },
+      "district": {
+        "id": "35.07.31",
+        "name": "Kromengan"
+      }
+    },
+    {
+      "id": "35.07.31.2004",
+      "name": "Kromengan",
+      "postal_code": "65165",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.07",
+        "name": "Kabupaten Malang"
+      },
+      "district": {
+        "id": "35.07.31",
+        "name": "Kromengan"
+      }
+    },
+    {
+      "id": "35.07.31.2005",
+      "name": "Peniwen",
+      "postal_code": "65165",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.07",
+        "name": "Kabupaten Malang"
+      },
+      "district": {
+        "id": "35.07.31",
+        "name": "Kromengan"
+      }
+    },
+    {
+      "id": "35.07.31.2006",
+      "name": "Jambuwer",
+      "postal_code": "65165",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.07",
+        "name": "Kabupaten Malang"
+      },
+      "district": {
+        "id": "35.07.31",
+        "name": "Kromengan"
+      }
+    },
+    {
+      "id": "35.07.31.2007",
+      "name": "Karangrejo",
+      "postal_code": "65165",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.07",
+        "name": "Kabupaten Malang"
+      },
+      "district": {
+        "id": "35.07.31",
+        "name": "Kromengan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

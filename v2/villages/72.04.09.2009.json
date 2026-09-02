@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.04.09.2009",
+    "name": "Pinjan",
+    "postal_code": "94560",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.04",
+      "name": "Kabupaten Toli-Toli"
+    },
+    "district": {
+      "id": "72.04.09",
+      "name": "Tolitoli Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

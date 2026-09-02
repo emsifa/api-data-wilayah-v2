@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.04.11.2004",
+    "name": "Fofao",
+    "postal_code": "97781",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.04",
+      "name": "Kabupaten Halmahera Selatan"
+    },
+    "district": {
+      "id": "82.04.11",
+      "name": "Kayoa Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

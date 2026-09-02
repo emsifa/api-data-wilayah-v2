@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.08.11.2014",
+    "name": "Negara Mulya",
+    "postal_code": "34769",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.08",
+      "name": "Kabupaten Way Kanan"
+    },
+    "district": {
+      "id": "18.08.11",
+      "name": "Negara Batin"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

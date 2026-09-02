@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.71.06.1005",
+    "name": "Muarafajar Timur",
+    "postal_code": "28267",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.71",
+      "name": "Kota Pekanbaru"
+    },
+    "district": {
+      "id": "14.71.06",
+      "name": "Rumbai Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

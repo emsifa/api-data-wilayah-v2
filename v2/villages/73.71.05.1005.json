@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.71.05.1005",
+    "name": "Ende",
+    "postal_code": "90174",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.71",
+      "name": "Kota Makassar"
+    },
+    "district": {
+      "id": "73.71.05",
+      "name": "Wajo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.14.16.2004",
+    "name": "Galudra",
+    "postal_code": "41115",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.14",
+      "name": "Kabupaten Purwakarta"
+    },
+    "district": {
+      "id": "32.14.16",
+      "name": "Pondoksalam"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.07.12.2010",
+    "name": "Maron",
+    "postal_code": "56353",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.07",
+      "name": "Kabupaten Wonosobo"
+    },
+    "district": {
+      "id": "33.07.12",
+      "name": "Garung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

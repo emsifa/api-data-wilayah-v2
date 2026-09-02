@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.71.02.1005",
+    "name": "Tanjung Rejo",
+    "postal_code": "20122",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.71",
+      "name": "Kota Medan"
+    },
+    "district": {
+      "id": "12.71.02",
+      "name": "Medan Sunggal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.05.09.2004",
+    "name": "Dunu",
+    "postal_code": "96526",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.05",
+      "name": "Kabupaten Gorontalo Utara"
+    },
+    "district": {
+      "id": "75.05.09",
+      "name": "Monano"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

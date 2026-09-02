@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "73.72.04.1002",
+      "name": "Cappa Galung",
+      "postal_code": "91122",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.72",
+        "name": "Kota Parepare"
+      },
+      "district": {
+        "id": "73.72.04",
+        "name": "Bacukiki Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

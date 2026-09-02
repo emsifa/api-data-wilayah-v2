@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "13.07.03.2003",
+    "name": "Simalanggang",
+    "postal_code": "26251",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.07",
+      "name": "Kabupaten Lima Puluh Kota"
+    },
+    "district": {
+      "id": "13.07.03",
+      "name": "Payakumbuh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

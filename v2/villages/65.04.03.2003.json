@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "65.04.03.2003",
+    "name": "Sambungan",
+    "postal_code": "77451",
+    "province": {
+      "id": "65",
+      "name": "Kalimantan Utara"
+    },
+    "regency": {
+      "id": "65.04",
+      "name": "Kabupaten Tana Tidung"
+    },
+    "district": {
+      "id": "65.04.03",
+      "name": "Tana Lia"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

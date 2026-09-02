@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.06.03.2010",
+    "name": "Pala Pintas",
+    "postal_code": "78754",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.06",
+      "name": "Kabupaten Kapuas Hulu"
+    },
+    "district": {
+      "id": "61.06.03",
+      "name": "Embaloh Hilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

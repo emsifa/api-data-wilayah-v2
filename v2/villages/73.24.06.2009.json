@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.24.06.2009",
+    "name": "Bahari",
+    "postal_code": "92971",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.24",
+      "name": "Kabupaten Luwu Timur"
+    },
+    "district": {
+      "id": "73.24.06",
+      "name": "Wotu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

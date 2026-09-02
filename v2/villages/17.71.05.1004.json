@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.71.05.1004",
+    "name": "Sumber Jaya",
+    "postal_code": "38215",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.71",
+      "name": "Kota Bengkulu"
+    },
+    "district": {
+      "id": "17.71.05",
+      "name": "Kampung Melayu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

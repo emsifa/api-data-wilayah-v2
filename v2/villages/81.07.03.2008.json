@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.07.03.2008",
+    "name": "Manjau",
+    "postal_code": "97661",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.07",
+      "name": "Kabupaten Kepulauan Aru"
+    },
+    "district": {
+      "id": "81.07.03",
+      "name": "Aru Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "72.71.07.1003",
+      "name": "Baiya",
+      "postal_code": "94142",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.71",
+        "name": "Kota Palu"
+      },
+      "district": {
+        "id": "72.71.07",
+        "name": "Tawaeli"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

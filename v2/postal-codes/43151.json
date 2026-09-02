@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "32.02.32.2001",
+      "name": "Parungseah",
+      "postal_code": "43151",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.32",
+        "name": "Sukabumi"
+      }
+    },
+    {
+      "id": "32.02.32.2002",
+      "name": "Sudajayagirang",
+      "postal_code": "43151",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.32",
+        "name": "Sukabumi"
+      }
+    },
+    {
+      "id": "32.02.32.2003",
+      "name": "Karawang",
+      "postal_code": "43151",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.32",
+        "name": "Sukabumi"
+      }
+    },
+    {
+      "id": "32.02.32.2004",
+      "name": "Warnasari",
+      "postal_code": "43151",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.32",
+        "name": "Sukabumi"
+      }
+    },
+    {
+      "id": "32.02.32.2005",
+      "name": "Sukajaya",
+      "postal_code": "43151",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.32",
+        "name": "Sukabumi"
+      }
+    },
+    {
+      "id": "32.02.32.2006",
+      "name": "Perbawati",
+      "postal_code": "43151",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.02",
+        "name": "Kabupaten Sukabumi"
+      },
+      "district": {
+        "id": "32.02.32",
+        "name": "Sukabumi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

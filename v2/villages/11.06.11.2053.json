@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.06.11.2053",
+    "name": "Ujong Blang",
+    "postal_code": "23372",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.06",
+      "name": "Kabupaten Aceh Besar"
+    },
+    "district": {
+      "id": "11.06.11",
+      "name": "Kuta Baro"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

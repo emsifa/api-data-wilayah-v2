@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "96.01.30.2005",
+    "name": "Klakak",
+    "postal_code": "98444",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.01",
+      "name": "Kabupaten Sorong"
+    },
+    "district": {
+      "id": "96.01.30",
+      "name": "Sayosa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

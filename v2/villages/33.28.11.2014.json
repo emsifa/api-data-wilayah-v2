@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.28.11.2014",
+    "name": "Pesarean",
+    "postal_code": "52194",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.28",
+      "name": "Kabupaten Tegal"
+    },
+    "district": {
+      "id": "33.28.11",
+      "name": "Adiwerna"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "34.71.07.1002",
+      "name": "Wirobrajan",
+      "postal_code": "55252",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.71",
+        "name": "Kota Yogyakarta"
+      },
+      "district": {
+        "id": "34.71.07",
+        "name": "Wirobrajan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

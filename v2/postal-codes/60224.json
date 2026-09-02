@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.78.21.1003",
+      "name": "Gunung Sari",
+      "postal_code": "60224",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.21",
+        "name": "Dukuh Pakis"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

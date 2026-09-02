@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.05.07.2010",
+    "name": "Lipai Bulan",
+    "postal_code": "28352",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.05",
+      "name": "Kabupaten Pelalawan"
+    },
+    "district": {
+      "id": "14.05.07",
+      "name": "Kerumutan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

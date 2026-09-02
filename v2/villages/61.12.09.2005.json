@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.12.09.2005",
+    "name": "Sungai Rengas",
+    "postal_code": "78381",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.12",
+      "name": "Kabupaten Kubu Raya"
+    },
+    "district": {
+      "id": "61.12.09",
+      "name": "Sungai Kakap"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

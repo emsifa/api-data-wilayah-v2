@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "36.71.07.1003",
+      "name": "Karawaci Baru",
+      "postal_code": "15116",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.07",
+        "name": "Karawaci"
+      }
+    },
+    {
+      "id": "36.71.07.1004",
+      "name": "Nusa Jaya",
+      "postal_code": "15116",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.07",
+        "name": "Karawaci"
+      }
+    },
+    {
+      "id": "36.71.07.1006",
+      "name": "Cimone Jaya",
+      "postal_code": "15116",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.71",
+        "name": "Kota Tangerang"
+      },
+      "district": {
+        "id": "36.71.07",
+        "name": "Karawaci"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

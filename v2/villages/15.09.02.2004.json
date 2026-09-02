@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.09.02.2004",
+    "name": "Teluk Rendah Ulu",
+    "postal_code": "37572",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.09",
+      "name": "Kabupaten Tebo"
+    },
+    "district": {
+      "id": "15.09.02",
+      "name": "Tebo Ilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

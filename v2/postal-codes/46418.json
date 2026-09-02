@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "32.06.23.2001",
+      "name": "Cinunjang",
+      "postal_code": "46418",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.23",
+        "name": "Gunung Tanjung"
+      }
+    },
+    {
+      "id": "32.06.23.2002",
+      "name": "Gunungtanjung",
+      "postal_code": "46418",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.23",
+        "name": "Gunung Tanjung"
+      }
+    },
+    {
+      "id": "32.06.23.2003",
+      "name": "Bojongsari",
+      "postal_code": "46418",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.23",
+        "name": "Gunung Tanjung"
+      }
+    },
+    {
+      "id": "32.06.23.2004",
+      "name": "Jatijaya",
+      "postal_code": "46418",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.23",
+        "name": "Gunung Tanjung"
+      }
+    },
+    {
+      "id": "32.06.23.2005",
+      "name": "Tanjungsari",
+      "postal_code": "46418",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.23",
+        "name": "Gunung Tanjung"
+      }
+    },
+    {
+      "id": "32.06.23.2006",
+      "name": "Giriwangi",
+      "postal_code": "46418",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.23",
+        "name": "Gunung Tanjung"
+      }
+    },
+    {
+      "id": "32.06.23.2007",
+      "name": "Malatisuka",
+      "postal_code": "46418",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.23",
+        "name": "Gunung Tanjung"
+      }
+    },
+    {
+      "id": "32.06.24.2005",
+      "name": "Cikunir",
+      "postal_code": "46418",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.24",
+        "name": "Singaparna"
+      }
+    },
+    {
+      "id": "32.06.24.2006",
+      "name": "Cikadongdong",
+      "postal_code": "46418",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.06",
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "district": {
+        "id": "32.06.24",
+        "name": "Singaparna"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

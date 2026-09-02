@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.08.07.2004",
+    "name": "Bebetin",
+    "postal_code": "81171",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.08",
+      "name": "Kabupaten Buleleng"
+    },
+    "district": {
+      "id": "51.08.07",
+      "name": "Sawan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

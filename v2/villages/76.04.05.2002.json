@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.04.05.2002",
+    "name": "Ambopadang",
+    "postal_code": "91355",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.04",
+      "name": "Kabupaten Polewali Mandar"
+    },
+    "district": {
+      "id": "76.04.05",
+      "name": "Tutar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

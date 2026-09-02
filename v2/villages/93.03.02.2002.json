@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.03.02.2002",
+    "name": "Agham",
+    "postal_code": "99872",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.03",
+      "name": "Kabupaten Mappi"
+    },
+    "district": {
+      "id": "93.03.02",
+      "name": "Mambioman Bapai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

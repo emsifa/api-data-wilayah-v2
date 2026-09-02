@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.01.18.2006",
+    "name": "Lauwonu",
+    "postal_code": "96182",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.01",
+      "name": "Kabupaten Gorontalo"
+    },
+    "district": {
+      "id": "75.01.18",
+      "name": "Tilango"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

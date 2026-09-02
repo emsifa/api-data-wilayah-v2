@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.01.14.1004",
+    "name": "Latambaga",
+    "postal_code": "93514",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.01",
+      "name": "Kabupaten Kolaka"
+    },
+    "district": {
+      "id": "74.01.14",
+      "name": "Latambaga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

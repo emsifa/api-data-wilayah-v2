@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "32.12.18.2001",
+      "name": "Kiajaran Wetan",
+      "postal_code": "45252",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.18",
+        "name": "Lohbener"
+      }
+    },
+    {
+      "id": "32.12.18.2002",
+      "name": "Kiajaran Kulon",
+      "postal_code": "45252",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.18",
+        "name": "Lohbener"
+      }
+    },
+    {
+      "id": "32.12.18.2003",
+      "name": "Lanjan",
+      "postal_code": "45252",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.18",
+        "name": "Lohbener"
+      }
+    },
+    {
+      "id": "32.12.18.2004",
+      "name": "Langut",
+      "postal_code": "45252",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.18",
+        "name": "Lohbener"
+      }
+    },
+    {
+      "id": "32.12.18.2005",
+      "name": "Larangan",
+      "postal_code": "45252",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.18",
+        "name": "Lohbener"
+      }
+    },
+    {
+      "id": "32.12.18.2006",
+      "name": "Waru",
+      "postal_code": "45252",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.18",
+        "name": "Lohbener"
+      }
+    },
+    {
+      "id": "32.12.18.2007",
+      "name": "Legok",
+      "postal_code": "45252",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.18",
+        "name": "Lohbener"
+      }
+    },
+    {
+      "id": "32.12.18.2008",
+      "name": "Bojongslawi",
+      "postal_code": "45252",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.18",
+        "name": "Lohbener"
+      }
+    },
+    {
+      "id": "32.12.18.2009",
+      "name": "Lohbener",
+      "postal_code": "45252",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.18",
+        "name": "Lohbener"
+      }
+    },
+    {
+      "id": "32.12.18.2010",
+      "name": "Pamayahan",
+      "postal_code": "45252",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.18",
+        "name": "Lohbener"
+      }
+    },
+    {
+      "id": "32.12.18.2011",
+      "name": "Sindangkerta",
+      "postal_code": "45252",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.18",
+        "name": "Lohbener"
+      }
+    },
+    {
+      "id": "32.12.18.2012",
+      "name": "Rambatan Kulon",
+      "postal_code": "45252",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.18",
+        "name": "Lohbener"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

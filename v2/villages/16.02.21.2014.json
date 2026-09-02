@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.02.21.2014",
+    "name": "Kemang Indah",
+    "postal_code": "30683",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.02",
+      "name": "Kabupaten Ogan Komering Ilir"
+    },
+    "district": {
+      "id": "16.02.21",
+      "name": "Mesuji Raya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "13.01.13.2007",
+    "name": "Tluk Kualo Inderapura",
+    "postal_code": "25673",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.01",
+      "name": "Kabupaten Pesisir Selatan"
+    },
+    "district": {
+      "id": "13.01.13",
+      "name": "Airpura"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

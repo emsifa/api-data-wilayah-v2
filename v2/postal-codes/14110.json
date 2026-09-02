@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "31.72.04.1004",
+      "name": "Kalibaru",
+      "postal_code": "14110",
+      "province": {
+        "id": "31",
+        "name": "Daerah Khusus Ibukota Jakarta"
+      },
+      "regency": {
+        "id": "31.72",
+        "name": "Kota Administrasi Jakarta Utara"
+      },
+      "district": {
+        "id": "31.72.04",
+        "name": "Cilincing"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

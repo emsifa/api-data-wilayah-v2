@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.12.09.2002",
+    "name": "Sido Makmur",
+    "postal_code": "34785",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.12",
+      "name": "Kabupaten Tulang Bawang Barat"
+    },
+    "district": {
+      "id": "18.12.09",
+      "name": "Batu Putih"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.05.12.2019",
+    "name": "Lek-Lek",
+    "postal_code": "23684",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.05",
+      "name": "Kabupaten Aceh Barat"
+    },
+    "district": {
+      "id": "11.05.12",
+      "name": "Panton Reu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

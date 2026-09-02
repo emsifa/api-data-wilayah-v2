@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "31.73.01.1006",
+    "name": "Cengkareng Timur",
+    "postal_code": "11730",
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    },
+    "regency": {
+      "id": "31.73",
+      "name": "Kota Administrasi Jakarta Barat"
+    },
+    "district": {
+      "id": "31.73.01",
+      "name": "Cengkareng"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

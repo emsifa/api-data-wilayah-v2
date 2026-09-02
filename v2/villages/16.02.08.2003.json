@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.02.08.2003",
+    "name": "Awal Terusan",
+    "postal_code": "30651",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.02",
+      "name": "Kabupaten Ogan Komering Ilir"
+    },
+    "district": {
+      "id": "16.02.08",
+      "name": "Sirah Pulau Padang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

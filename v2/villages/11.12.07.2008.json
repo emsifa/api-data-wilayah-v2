@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.12.07.2008",
+    "name": "Mon Mameh",
+    "postal_code": "23763",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.12",
+      "name": "Kabupaten Aceh Barat Daya"
+    },
+    "district": {
+      "id": "11.12.07",
+      "name": "Setia"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

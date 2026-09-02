@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.05.01.2009",
+    "name": "Paring Lahung",
+    "postal_code": "73861",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.05",
+      "name": "Kabupaten Barito Utara"
+    },
+    "district": {
+      "id": "62.05.01",
+      "name": "Montallat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

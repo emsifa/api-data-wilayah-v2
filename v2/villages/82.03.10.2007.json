@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.03.10.2007",
+    "name": "Gorua Utara",
+    "postal_code": "97767",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.03",
+      "name": "Kabupaten Halmahera Utara"
+    },
+    "district": {
+      "id": "82.03.10",
+      "name": "Tobelo Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

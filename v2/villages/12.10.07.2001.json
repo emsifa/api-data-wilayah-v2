@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.10.07.2001",
+    "name": "Sibargot",
+    "postal_code": "21411",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.10",
+      "name": "Kabupaten Labuhanbatu"
+    },
+    "district": {
+      "id": "12.10.07",
+      "name": "Bilah Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "16.74.01.1012",
+      "name": "Payuputat",
+      "postal_code": "31141",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.74",
+        "name": "Kota Prabumulih"
+      },
+      "district": {
+        "id": "16.74.01",
+        "name": "Prabumulih Barat"
+      }
+    },
+    {
+      "id": "16.74.03.1001",
+      "name": "Cambai",
+      "postal_code": "31141",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.74",
+        "name": "Kota Prabumulih"
+      },
+      "district": {
+        "id": "16.74.03",
+        "name": "Cambai"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

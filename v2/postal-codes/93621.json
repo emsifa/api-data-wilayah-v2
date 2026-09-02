@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "74.03.14.2001",
+      "name": "Bangun Sari",
+      "postal_code": "93621",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.03",
+        "name": "Kabupaten Muna"
+      },
+      "district": {
+        "id": "74.03.14",
+        "name": "Lasalepa"
+      }
+    },
+    {
+      "id": "74.03.14.2002",
+      "name": "Labone",
+      "postal_code": "93621",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.03",
+        "name": "Kabupaten Muna"
+      },
+      "district": {
+        "id": "74.03.14",
+        "name": "Lasalepa"
+      }
+    },
+    {
+      "id": "74.03.14.2003",
+      "name": "Bonea",
+      "postal_code": "93621",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.03",
+        "name": "Kabupaten Muna"
+      },
+      "district": {
+        "id": "74.03.14",
+        "name": "Lasalepa"
+      }
+    },
+    {
+      "id": "74.03.14.2004",
+      "name": "Kombungo",
+      "postal_code": "93621",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.03",
+        "name": "Kabupaten Muna"
+      },
+      "district": {
+        "id": "74.03.14",
+        "name": "Lasalepa"
+      }
+    },
+    {
+      "id": "74.03.14.2005",
+      "name": "Labunti",
+      "postal_code": "93621",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.03",
+        "name": "Kabupaten Muna"
+      },
+      "district": {
+        "id": "74.03.14",
+        "name": "Lasalepa"
+      }
+    },
+    {
+      "id": "74.03.14.2006",
+      "name": "Parida",
+      "postal_code": "93621",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.03",
+        "name": "Kabupaten Muna"
+      },
+      "district": {
+        "id": "74.03.14",
+        "name": "Lasalepa"
+      }
+    },
+    {
+      "id": "74.03.14.2007",
+      "name": "Lasalepa",
+      "postal_code": "93621",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.03",
+        "name": "Kabupaten Muna"
+      },
+      "district": {
+        "id": "74.03.14",
+        "name": "Lasalepa"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

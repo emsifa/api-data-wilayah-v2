@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "74",
+    "name": "Sulawesi Tenggara",
+    "capital": "Kendari",
+    "lat": -4.024739702684666,
+    "lng": 122.54045915103508,
+    "elv": 35,
+    "tz": 8,
+    "population": 2824589,
+    "total_area": 36139.303,
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.04.05.2001",
+    "name": "Margoluwih",
+    "postal_code": "55561",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.04",
+      "name": "Kabupaten Sleman"
+    },
+    "district": {
+      "id": "34.04.05",
+      "name": "Seyegan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

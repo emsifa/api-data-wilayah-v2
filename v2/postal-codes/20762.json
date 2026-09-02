@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": "12.05.06.1001",
+      "name": "Pekan Selesai",
+      "postal_code": "20762",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.06",
+        "name": "Selesai"
+      }
+    },
+    {
+      "id": "12.05.06.2002",
+      "name": "Sei Limbat",
+      "postal_code": "20762",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.06",
+        "name": "Selesai"
+      }
+    },
+    {
+      "id": "12.05.06.2003",
+      "name": "Padang Brahrang",
+      "postal_code": "20762",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.06",
+        "name": "Selesai"
+      }
+    },
+    {
+      "id": "12.05.06.2004",
+      "name": "Tanjung Merahe",
+      "postal_code": "20762",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.06",
+        "name": "Selesai"
+      }
+    },
+    {
+      "id": "12.05.06.2005",
+      "name": "Nambiki",
+      "postal_code": "20762",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.06",
+        "name": "Selesai"
+      }
+    },
+    {
+      "id": "12.05.06.2006",
+      "name": "Lau Mulgap",
+      "postal_code": "20762",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.06",
+        "name": "Selesai"
+      }
+    },
+    {
+      "id": "12.05.06.2007",
+      "name": "Kuta Parit",
+      "postal_code": "20762",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.06",
+        "name": "Selesai"
+      }
+    },
+    {
+      "id": "12.05.06.2008",
+      "name": "Bekulap",
+      "postal_code": "20762",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.06",
+        "name": "Selesai"
+      }
+    },
+    {
+      "id": "12.05.06.2009",
+      "name": "Perhiasan",
+      "postal_code": "20762",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.06",
+        "name": "Selesai"
+      }
+    },
+    {
+      "id": "12.05.06.2010",
+      "name": "Selayang",
+      "postal_code": "20762",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.06",
+        "name": "Selesai"
+      }
+    },
+    {
+      "id": "12.05.06.2011",
+      "name": "Mancang",
+      "postal_code": "20762",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.06",
+        "name": "Selesai"
+      }
+    },
+    {
+      "id": "12.05.06.2012",
+      "name": "Kwala Air Hitam",
+      "postal_code": "20762",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.06",
+        "name": "Selesai"
+      }
+    },
+    {
+      "id": "12.05.06.2013",
+      "name": "Padang Cermin",
+      "postal_code": "20762",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.06",
+        "name": "Selesai"
+      }
+    },
+    {
+      "id": "12.05.06.2014",
+      "name": "Selayang Baru",
+      "postal_code": "20762",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.05",
+        "name": "Kabupaten Langkat"
+      },
+      "district": {
+        "id": "12.05.06",
+        "name": "Selesai"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

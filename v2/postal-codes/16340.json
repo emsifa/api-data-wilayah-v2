@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "32.01.11.2001",
+      "name": "Cidokom",
+      "postal_code": "16340",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.01",
+        "name": "Kabupaten Bogor"
+      },
+      "district": {
+        "id": "32.01.11",
+        "name": "Gunungsindur"
+      }
+    },
+    {
+      "id": "32.01.11.2002",
+      "name": "Padurenan",
+      "postal_code": "16340",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.01",
+        "name": "Kabupaten Bogor"
+      },
+      "district": {
+        "id": "32.01.11",
+        "name": "Gunungsindur"
+      }
+    },
+    {
+      "id": "32.01.11.2003",
+      "name": "Pengasinan",
+      "postal_code": "16340",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.01",
+        "name": "Kabupaten Bogor"
+      },
+      "district": {
+        "id": "32.01.11",
+        "name": "Gunungsindur"
+      }
+    },
+    {
+      "id": "32.01.11.2004",
+      "name": "Curug",
+      "postal_code": "16340",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.01",
+        "name": "Kabupaten Bogor"
+      },
+      "district": {
+        "id": "32.01.11",
+        "name": "Gunungsindur"
+      }
+    },
+    {
+      "id": "32.01.11.2005",
+      "name": "Gunungsindur",
+      "postal_code": "16340",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.01",
+        "name": "Kabupaten Bogor"
+      },
+      "district": {
+        "id": "32.01.11",
+        "name": "Gunungsindur"
+      }
+    },
+    {
+      "id": "32.01.11.2006",
+      "name": "Jampang",
+      "postal_code": "16340",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.01",
+        "name": "Kabupaten Bogor"
+      },
+      "district": {
+        "id": "32.01.11",
+        "name": "Gunungsindur"
+      }
+    },
+    {
+      "id": "32.01.11.2007",
+      "name": "Cibadung",
+      "postal_code": "16340",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.01",
+        "name": "Kabupaten Bogor"
+      },
+      "district": {
+        "id": "32.01.11",
+        "name": "Gunungsindur"
+      }
+    },
+    {
+      "id": "32.01.11.2008",
+      "name": "Cibinong",
+      "postal_code": "16340",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.01",
+        "name": "Kabupaten Bogor"
+      },
+      "district": {
+        "id": "32.01.11",
+        "name": "Gunungsindur"
+      }
+    },
+    {
+      "id": "32.01.11.2009",
+      "name": "Rawakalong",
+      "postal_code": "16340",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.01",
+        "name": "Kabupaten Bogor"
+      },
+      "district": {
+        "id": "32.01.11",
+        "name": "Gunungsindur"
+      }
+    },
+    {
+      "id": "32.01.11.2010",
+      "name": "Pabuaran",
+      "postal_code": "16340",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.01",
+        "name": "Kabupaten Bogor"
+      },
+      "district": {
+        "id": "32.01.11",
+        "name": "Gunungsindur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

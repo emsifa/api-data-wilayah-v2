@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.03.18.2003",
+    "name": "Girijati",
+    "postal_code": "55873",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.03",
+      "name": "Kabupaten Gunungkidul"
+    },
+    "district": {
+      "id": "34.03.18",
+      "name": "Purwosari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

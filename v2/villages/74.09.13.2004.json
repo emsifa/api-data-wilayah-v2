@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.09.13.2004",
+    "name": "Laumoso",
+    "postal_code": "93353",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.09",
+      "name": "Kabupaten Konawe Utara"
+    },
+    "district": {
+      "id": "74.09.13",
+      "name": "Landawe"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

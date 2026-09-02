@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.01.01.2008",
+    "name": "Unamendaa",
+    "postal_code": "93560",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.01",
+      "name": "Kabupaten Kolaka"
+    },
+    "district": {
+      "id": "74.01.01",
+      "name": "Wundulako"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

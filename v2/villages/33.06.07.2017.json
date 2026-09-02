@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.06.07.2017",
+    "name": "Tanjunganom",
+    "postal_code": "54171",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.06",
+      "name": "Kabupaten Purworejo"
+    },
+    "district": {
+      "id": "33.06.07",
+      "name": "Banyuurip"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

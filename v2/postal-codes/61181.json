@@ -1,0 +1,297 @@
+{
+  "data": [
+    {
+      "id": "35.25.17.2001",
+      "name": "Dekatagung",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2002",
+      "name": "Kumalasa",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2003",
+      "name": "Suwari",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2004",
+      "name": "Pudakitbarat",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2005",
+      "name": "Pudakittimur",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2006",
+      "name": "Lebak",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2007",
+      "name": "Bululanjang",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2008",
+      "name": "Patarselamat",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2009",
+      "name": "Kotakusuma",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2010",
+      "name": "Sungaiteluk",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2011",
+      "name": "Gunungteguh",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2012",
+      "name": "Sawahmulya",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2013",
+      "name": "Sungairujing",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2014",
+      "name": "Balikterus",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2015",
+      "name": "Kebontelukdalam",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2016",
+      "name": "Sidogedungbatu",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    },
+    {
+      "id": "35.25.17.2017",
+      "name": "Daun",
+      "postal_code": "61181",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.17",
+        "name": "Sangkapura"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

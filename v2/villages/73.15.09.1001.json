@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.15.09.1001",
+    "name": "Pammase",
+    "postal_code": "91256",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.15",
+      "name": "Kabupaten Pinrang"
+    },
+    "district": {
+      "id": "73.15.09",
+      "name": "Tiroang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

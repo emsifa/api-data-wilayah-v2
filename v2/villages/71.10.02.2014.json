@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.10.02.2014",
+    "name": "Kotabunan Barat",
+    "postal_code": "95782",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.10",
+      "name": "Kabupaten Bolaang Mongondow Timur"
+    },
+    "district": {
+      "id": "71.10.02",
+      "name": "Kotabunan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.13.05.2009",
+    "name": "Bina Karya",
+    "postal_code": "31658",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.13",
+      "name": "Kabupaten Musi Rawas Utara"
+    },
+    "district": {
+      "id": "16.13.05",
+      "name": "Karang Dapo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

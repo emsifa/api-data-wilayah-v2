@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "95.08.21.2001",
+      "name": "Iniye",
+      "postal_code": "99905",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.21",
+        "name": "Iniye"
+      }
+    },
+    {
+      "id": "95.08.21.2002",
+      "name": "Baklema",
+      "postal_code": "99905",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.21",
+        "name": "Iniye"
+      }
+    },
+    {
+      "id": "95.08.21.2003",
+      "name": "Kibendumu",
+      "postal_code": "99905",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.21",
+        "name": "Iniye"
+      }
+    },
+    {
+      "id": "95.08.21.2004",
+      "name": "Simiye",
+      "postal_code": "99905",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.21",
+        "name": "Iniye"
+      }
+    },
+    {
+      "id": "95.08.21.2005",
+      "name": "Embuklem",
+      "postal_code": "99905",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.21",
+        "name": "Iniye"
+      }
+    },
+    {
+      "id": "95.08.21.2006",
+      "name": "Kosobak",
+      "postal_code": "99905",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.08",
+        "name": "Kabupaten Nduga"
+      },
+      "district": {
+        "id": "95.08.21",
+        "name": "Iniye"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

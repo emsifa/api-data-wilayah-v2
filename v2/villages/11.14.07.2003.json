@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.14.07.2003",
+    "name": "Meunasah Rayeuk",
+    "postal_code": "23657",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.14",
+      "name": "Kabupaten Aceh Jaya"
+    },
+    "district": {
+      "id": "11.14.07",
+      "name": "Indra Jaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

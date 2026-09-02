@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.05.06.2007",
+    "name": "Nanati Jaya",
+    "postal_code": "96513",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.05",
+      "name": "Kabupaten Gorontalo Utara"
+    },
+    "district": {
+      "id": "75.05.06",
+      "name": "Gentuma Raya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

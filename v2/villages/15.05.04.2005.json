@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.05.04.2005",
+    "name": "Baru",
+    "postal_code": "36382",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.05",
+      "name": "Kabupaten Muaro Jambi"
+    },
+    "district": {
+      "id": "15.05.04",
+      "name": "Maro Sebo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

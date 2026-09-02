@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.04.20.2004",
+    "name": "Arul Latong",
+    "postal_code": "24561",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.04",
+      "name": "Kabupaten Aceh Tengah"
+    },
+    "district": {
+      "id": "11.04.20",
+      "name": "Bies"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

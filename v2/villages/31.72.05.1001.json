@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "31.72.05.1001",
+    "name": "Pademangan Timur",
+    "postal_code": "14410",
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    },
+    "regency": {
+      "id": "31.72",
+      "name": "Kota Administrasi Jakarta Utara"
+    },
+    "district": {
+      "id": "31.72.05",
+      "name": "Pademangan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

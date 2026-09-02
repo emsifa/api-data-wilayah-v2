@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.73.01.1008",
+    "name": "Bunulrejo",
+    "postal_code": "65123",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.73",
+      "name": "Kota Malang"
+    },
+    "district": {
+      "id": "35.73.01",
+      "name": "Blimbing"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

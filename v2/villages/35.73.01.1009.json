@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.73.01.1009",
+    "name": "Kesatrian",
+    "postal_code": "65121",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.73",
+      "name": "Kota Malang"
+    },
+    "district": {
+      "id": "35.73.01",
+      "name": "Blimbing"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

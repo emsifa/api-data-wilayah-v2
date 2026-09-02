@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.24.17.2009",
+    "name": "Laban",
+    "postal_code": "51353",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.24",
+      "name": "Kabupaten Kendal"
+    },
+    "district": {
+      "id": "33.24.17",
+      "name": "Kangkung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

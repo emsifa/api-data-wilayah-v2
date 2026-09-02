@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.04.04.2018",
+    "name": "Essang Selatan",
+    "postal_code": "95883",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.04",
+      "name": "Kabupaten Kepulauan Talaud"
+    },
+    "district": {
+      "id": "71.04.04",
+      "name": "Essang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

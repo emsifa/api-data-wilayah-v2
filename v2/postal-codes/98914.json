@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "94.02.12.2001",
+      "name": "Kulirik",
+      "postal_code": "98914",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.02",
+        "name": "Kabupaten Puncak Jaya"
+      },
+      "district": {
+        "id": "94.02.12",
+        "name": "Muara"
+      }
+    },
+    {
+      "id": "94.02.12.2002",
+      "name": "Doligobak",
+      "postal_code": "98914",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.02",
+        "name": "Kabupaten Puncak Jaya"
+      },
+      "district": {
+        "id": "94.02.12",
+        "name": "Muara"
+      }
+    },
+    {
+      "id": "94.02.12.2003",
+      "name": "Yalinggua",
+      "postal_code": "98914",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.02",
+        "name": "Kabupaten Puncak Jaya"
+      },
+      "district": {
+        "id": "94.02.12",
+        "name": "Muara"
+      }
+    },
+    {
+      "id": "94.02.12.2004",
+      "name": "Talilome",
+      "postal_code": "98914",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.02",
+        "name": "Kabupaten Puncak Jaya"
+      },
+      "district": {
+        "id": "94.02.12",
+        "name": "Muara"
+      }
+    },
+    {
+      "id": "94.02.12.2005",
+      "name": "Muara",
+      "postal_code": "98914",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.02",
+        "name": "Kabupaten Puncak Jaya"
+      },
+      "district": {
+        "id": "94.02.12",
+        "name": "Muara"
+      }
+    },
+    {
+      "id": "94.02.12.2006",
+      "name": "Karubate",
+      "postal_code": "98914",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.02",
+        "name": "Kabupaten Puncak Jaya"
+      },
+      "district": {
+        "id": "94.02.12",
+        "name": "Muara"
+      }
+    },
+    {
+      "id": "94.02.12.2007",
+      "name": "Dologobak",
+      "postal_code": "98914",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.02",
+        "name": "Kabupaten Puncak Jaya"
+      },
+      "district": {
+        "id": "94.02.12",
+        "name": "Muara"
+      }
+    },
+    {
+      "id": "94.02.12.2008",
+      "name": "Yambidugum",
+      "postal_code": "98914",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.02",
+        "name": "Kabupaten Puncak Jaya"
+      },
+      "district": {
+        "id": "94.02.12",
+        "name": "Muara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

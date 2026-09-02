@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.02.43.2004",
+    "name": "Tegallega",
+    "postal_code": "43184",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.02",
+      "name": "Kabupaten Sukabumi"
+    },
+    "district": {
+      "id": "32.02.43",
+      "name": "Cidolog"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

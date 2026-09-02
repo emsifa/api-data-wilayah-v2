@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.11.02.2007",
+    "name": "Sinombayuga",
+    "postal_code": "95774",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.11",
+      "name": "Kabupaten Bolaang Mongondow Selatan"
+    },
+    "district": {
+      "id": "71.11.02",
+      "name": "Posigadan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

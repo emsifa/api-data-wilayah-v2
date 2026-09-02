@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.02.13.2004",
+    "name": "Arinkop",
+    "postal_code": "99412",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.02",
+      "name": "Kabupaten Pegunungan Bintang"
+    },
+    "district": {
+      "id": "95.02.13",
+      "name": "Kalomdol"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

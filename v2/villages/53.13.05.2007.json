@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.13.05.2007",
+    "name": "Nubamado",
+    "postal_code": "86682",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.13",
+      "name": "Kabupaten Lembata"
+    },
+    "district": {
+      "id": "53.13.05",
+      "name": "Nubatukan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

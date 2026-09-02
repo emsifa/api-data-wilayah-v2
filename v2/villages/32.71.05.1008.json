@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.71.05.1008",
+    "name": "Cimahpar",
+    "postal_code": "16155",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.71",
+      "name": "Kota Bogor"
+    },
+    "district": {
+      "id": "32.71.05",
+      "name": "Bogor Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

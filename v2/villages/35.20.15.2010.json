@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.20.15.2010",
+    "name": "Bayemwetan",
+    "postal_code": "63394",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.20",
+      "name": "Kabupaten Magetan"
+    },
+    "district": {
+      "id": "35.20.15",
+      "name": "Kartoharjo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

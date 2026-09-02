@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.71.07.1005",
+    "name": "Mado",
+    "postal_code": "97745",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.71",
+      "name": "Kota Ternate"
+    },
+    "district": {
+      "id": "82.71.07",
+      "name": "Pulau Hiri"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.02.16.2006",
+    "name": "Tonsea Lama",
+    "postal_code": "95610",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.02",
+      "name": "Kabupaten Minahasa"
+    },
+    "district": {
+      "id": "71.02.16",
+      "name": "Tondano Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

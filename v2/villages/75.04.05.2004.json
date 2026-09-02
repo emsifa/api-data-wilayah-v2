@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.04.05.2004",
+    "name": "Bunuyo",
+    "postal_code": "96362",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.04",
+      "name": "Kabupaten Pohuwato"
+    },
+    "district": {
+      "id": "75.04.05",
+      "name": "Paguat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

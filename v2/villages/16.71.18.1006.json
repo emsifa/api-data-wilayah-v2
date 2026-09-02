@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.71.18.1006",
+    "name": "Duku",
+    "postal_code": "30111",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.71",
+      "name": "Kota Palembang"
+    },
+    "district": {
+      "id": "16.71.18",
+      "name": "Ilir Timur Tiga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

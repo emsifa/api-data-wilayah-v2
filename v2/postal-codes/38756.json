@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "17.06.01.2005",
+      "name": "Suka Pindah",
+      "postal_code": "38756",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.06",
+        "name": "Kabupaten Mukomuko"
+      },
+      "district": {
+        "id": "17.06.01",
+        "name": "Lubuk Pinang"
+      }
+    },
+    {
+      "id": "17.06.01.2006",
+      "name": "Lubuk Pinang",
+      "postal_code": "38756",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.06",
+        "name": "Kabupaten Mukomuko"
+      },
+      "district": {
+        "id": "17.06.01",
+        "name": "Lubuk Pinang"
+      }
+    },
+    {
+      "id": "17.06.01.2007",
+      "name": "Arah Tiga",
+      "postal_code": "38756",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.06",
+        "name": "Kabupaten Mukomuko"
+      },
+      "district": {
+        "id": "17.06.01",
+        "name": "Lubuk Pinang"
+      }
+    },
+    {
+      "id": "17.06.01.2008",
+      "name": "Lubuk Gedang",
+      "postal_code": "38756",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.06",
+        "name": "Kabupaten Mukomuko"
+      },
+      "district": {
+        "id": "17.06.01",
+        "name": "Lubuk Pinang"
+      }
+    },
+    {
+      "id": "17.06.01.2009",
+      "name": "Tanjung Alai",
+      "postal_code": "38756",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.06",
+        "name": "Kabupaten Mukomuko"
+      },
+      "district": {
+        "id": "17.06.01",
+        "name": "Lubuk Pinang"
+      }
+    },
+    {
+      "id": "17.06.01.2013",
+      "name": "Sumber Makmur",
+      "postal_code": "38756",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.06",
+        "name": "Kabupaten Mukomuko"
+      },
+      "district": {
+        "id": "17.06.01",
+        "name": "Lubuk Pinang"
+      }
+    },
+    {
+      "id": "17.06.01.2018",
+      "name": "Ranah Karya",
+      "postal_code": "38756",
+      "province": {
+        "id": "17",
+        "name": "Bengkulu"
+      },
+      "regency": {
+        "id": "17.06",
+        "name": "Kabupaten Mukomuko"
+      },
+      "district": {
+        "id": "17.06.01",
+        "name": "Lubuk Pinang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

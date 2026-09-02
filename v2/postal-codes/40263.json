@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.73.13.1002",
+      "name": "Lingkar Selatan",
+      "postal_code": "40263",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.13",
+        "name": "Lengkong"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

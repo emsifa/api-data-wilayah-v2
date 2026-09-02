@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.03.08.2006",
+    "name": "Pangkalan Sari",
+    "postal_code": "73564",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.03",
+      "name": "Kabupaten Kapuas"
+    },
+    "district": {
+      "id": "62.03.08",
+      "name": "Basarang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

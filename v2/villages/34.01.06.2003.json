@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.01.06.2003",
+    "name": "Tuksono",
+    "postal_code": "55664",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.01",
+      "name": "Kabupaten Kulon Progo"
+    },
+    "district": {
+      "id": "34.01.06",
+      "name": "Sentolo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

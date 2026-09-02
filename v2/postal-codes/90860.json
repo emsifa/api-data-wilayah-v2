@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "73.12.07.2001",
+      "name": "Belo",
+      "postal_code": "90860",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.12",
+        "name": "Kabupaten Soppeng"
+      },
+      "district": {
+        "id": "73.12.07",
+        "name": "Ganra"
+      }
+    },
+    {
+      "id": "73.12.07.2002",
+      "name": "Ganra",
+      "postal_code": "90860",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.12",
+        "name": "Kabupaten Soppeng"
+      },
+      "district": {
+        "id": "73.12.07",
+        "name": "Ganra"
+      }
+    },
+    {
+      "id": "73.12.07.2003",
+      "name": "Lompulle",
+      "postal_code": "90860",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.12",
+        "name": "Kabupaten Soppeng"
+      },
+      "district": {
+        "id": "73.12.07",
+        "name": "Ganra"
+      }
+    },
+    {
+      "id": "73.12.07.2004",
+      "name": "Enrekeng",
+      "postal_code": "90860",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.12",
+        "name": "Kabupaten Soppeng"
+      },
+      "district": {
+        "id": "73.12.07",
+        "name": "Ganra"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

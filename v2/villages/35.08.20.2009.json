@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.08.20.2009",
+    "name": "Penawungan",
+    "postal_code": "67357",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.08",
+      "name": "Kabupaten Lumajang"
+    },
+    "district": {
+      "id": "35.08.20",
+      "name": "Ranuyoso"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

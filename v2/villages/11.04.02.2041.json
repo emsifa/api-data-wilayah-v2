@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.04.02.2041",
+    "name": "Arul Kumer Selatan",
+    "postal_code": "24569",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.04",
+      "name": "Kabupaten Aceh Tengah"
+    },
+    "district": {
+      "id": "11.04.02",
+      "name": "Silih Nara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

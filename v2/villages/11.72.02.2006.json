@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.72.02.2006",
+    "name": "Cot Abeuk",
+    "postal_code": "23523",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.72",
+      "name": "Kota Sabang"
+    },
+    "district": {
+      "id": "11.72.02",
+      "name": "Sukajaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

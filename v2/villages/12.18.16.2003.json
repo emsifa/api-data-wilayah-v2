@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.18.16.2003",
+    "name": "Tanah Besih",
+    "postal_code": "20998",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.18",
+      "name": "Kabupaten Serdang Bedagai"
+    },
+    "district": {
+      "id": "12.18.16",
+      "name": "Tebing Syahbandar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

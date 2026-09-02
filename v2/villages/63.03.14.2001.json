@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.03.14.2001",
+    "name": "Teluk Selong",
+    "postal_code": "70618",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.03",
+      "name": "Kabupaten Banjar"
+    },
+    "district": {
+      "id": "63.03.14",
+      "name": "Martapura Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

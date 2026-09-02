@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "31.71.03.1006",
+    "name": "Cempaka Baru",
+    "postal_code": "10640",
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    },
+    "regency": {
+      "id": "31.71",
+      "name": "Kota Administrasi Jakarta Pusat"
+    },
+    "district": {
+      "id": "31.71.03",
+      "name": "Kemayoran"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

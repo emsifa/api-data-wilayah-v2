@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.03.33.2003",
+    "name": "Cijeruk",
+    "postal_code": "15551",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.03",
+      "name": "Kabupaten Tangerang"
+    },
+    "district": {
+      "id": "36.03.33",
+      "name": "Mekar Baru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

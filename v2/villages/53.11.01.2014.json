@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.11.01.2014",
+    "name": "Pambotandjara",
+    "postal_code": "87116",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.11",
+      "name": "Kabupaten Sumba Timur"
+    },
+    "district": {
+      "id": "53.11.01",
+      "name": "Kota Waingapu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

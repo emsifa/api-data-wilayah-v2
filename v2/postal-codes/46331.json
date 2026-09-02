@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.79.03.1001",
+      "name": "Purwaharja",
+      "postal_code": "46331",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.79",
+        "name": "Kota Banjar"
+      },
+      "district": {
+        "id": "32.79.03",
+        "name": "Purwaharja"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

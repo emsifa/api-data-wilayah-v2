@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "32.76.01.1008",
+      "name": "Pancoran Mas",
+      "postal_code": "16436",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.76",
+        "name": "Kota Depok"
+      },
+      "district": {
+        "id": "32.76.01",
+        "name": "Pancoran Mas"
+      }
+    },
+    {
+      "id": "32.76.07.1004",
+      "name": "Bojong Pondok Terong",
+      "postal_code": "16436",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.76",
+        "name": "Kota Depok"
+      },
+      "district": {
+        "id": "32.76.07",
+        "name": "Cipayung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

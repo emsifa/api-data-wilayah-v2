@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.03.25.2001",
+    "name": "Walma",
+    "postal_code": "99765",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.03",
+      "name": "Kabupaten Yahukimo"
+    },
+    "district": {
+      "id": "95.03.25",
+      "name": "Walma"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

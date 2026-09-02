@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.15.11.1006",
+    "name": "Benteng Sawitto",
+    "postal_code": "91215",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.15",
+      "name": "Kabupaten Pinrang"
+    },
+    "district": {
+      "id": "73.15.11",
+      "name": "Paleteang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.05.08.2012",
+    "name": "Mekar Jaya",
+    "postal_code": "20851",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.05",
+      "name": "Kabupaten Langkat"
+    },
+    "district": {
+      "id": "12.05.08",
+      "name": "Wampu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

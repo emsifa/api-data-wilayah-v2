@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.07.31.2001",
+    "name": "Lingkok",
+    "postal_code": "24168",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.07",
+      "name": "Kabupaten Pidie"
+    },
+    "district": {
+      "id": "11.07.31",
+      "name": "Titeue"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

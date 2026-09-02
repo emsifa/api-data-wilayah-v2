@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.12.06.2003",
+    "name": "Balam Jaya",
+    "postal_code": "34788",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.12",
+      "name": "Kabupaten Tulang Bawang Barat"
+    },
+    "district": {
+      "id": "18.12.06",
+      "name": "Way Kenanga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

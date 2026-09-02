@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.72.01.1005",
+    "name": "Bantuas",
+    "postal_code": "75253",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.72",
+      "name": "Kota Samarinda"
+    },
+    "district": {
+      "id": "64.72.01",
+      "name": "Palaran"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

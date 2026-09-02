@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.03.31.2001",
+    "name": "Haurwangi",
+    "postal_code": "43280",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.03",
+      "name": "Kabupaten Cianjur"
+    },
+    "district": {
+      "id": "32.03.31",
+      "name": "Haurwangi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

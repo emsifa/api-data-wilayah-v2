@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.07.03.2009",
+    "name": "Padangbai",
+    "postal_code": "80871",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.07",
+      "name": "Kabupaten Karangasem"
+    },
+    "district": {
+      "id": "51.07.03",
+      "name": "Manggis"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

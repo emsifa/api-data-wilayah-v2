@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.02.01.2002",
+    "name": "Trimurti",
+    "postal_code": "55762",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.02",
+      "name": "Kabupaten Bantul"
+    },
+    "district": {
+      "id": "34.02.01",
+      "name": "Srandakan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

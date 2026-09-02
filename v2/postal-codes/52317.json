@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "33.27.08.2012",
+      "name": "Tambakrejo",
+      "postal_code": "52317",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.27",
+        "name": "Kabupaten Pemalang"
+      },
+      "district": {
+        "id": "33.27.08",
+        "name": "Pemalang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

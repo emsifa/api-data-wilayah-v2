@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "12.71.21.1002",
+      "name": "Tanjungsari",
+      "postal_code": "20132",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.71",
+        "name": "Kota Medan"
+      },
+      "district": {
+        "id": "12.71.21",
+        "name": "Medan Selayang"
+      }
+    },
+    {
+      "id": "12.71.21.1006",
+      "name": "Sempakata",
+      "postal_code": "20132",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.71",
+        "name": "Kota Medan"
+      },
+      "district": {
+        "id": "12.71.21",
+        "name": "Medan Selayang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

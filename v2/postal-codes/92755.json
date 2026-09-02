@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": "73.08.18.1001",
+      "name": "Pompanua",
+      "postal_code": "92755",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.18",
+        "name": "Ajangale"
+      }
+    },
+    {
+      "id": "73.08.18.1002",
+      "name": "Pompanua Riattang",
+      "postal_code": "92755",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.18",
+        "name": "Ajangale"
+      }
+    },
+    {
+      "id": "73.08.18.2003",
+      "name": "Welado",
+      "postal_code": "92755",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.18",
+        "name": "Ajangale"
+      }
+    },
+    {
+      "id": "73.08.18.2004",
+      "name": "Pinceng Pute",
+      "postal_code": "92755",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.18",
+        "name": "Ajangale"
+      }
+    },
+    {
+      "id": "73.08.18.2005",
+      "name": "Opo",
+      "postal_code": "92755",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.18",
+        "name": "Ajangale"
+      }
+    },
+    {
+      "id": "73.08.18.2006",
+      "name": "Labissa",
+      "postal_code": "92755",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.18",
+        "name": "Ajangale"
+      }
+    },
+    {
+      "id": "73.08.18.2007",
+      "name": "Timurung",
+      "postal_code": "92755",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.18",
+        "name": "Ajangale"
+      }
+    },
+    {
+      "id": "73.08.18.2008",
+      "name": "Leppangeng",
+      "postal_code": "92755",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.18",
+        "name": "Ajangale"
+      }
+    },
+    {
+      "id": "73.08.18.2009",
+      "name": "Allamungeng Patue",
+      "postal_code": "92755",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.18",
+        "name": "Ajangale"
+      }
+    },
+    {
+      "id": "73.08.18.2010",
+      "name": "Amessangeng",
+      "postal_code": "92755",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.18",
+        "name": "Ajangale"
+      }
+    },
+    {
+      "id": "73.08.18.2011",
+      "name": "Lebbae",
+      "postal_code": "92755",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.18",
+        "name": "Ajangale"
+      }
+    },
+    {
+      "id": "73.08.18.2012",
+      "name": "Manciri",
+      "postal_code": "92755",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.18",
+        "name": "Ajangale"
+      }
+    },
+    {
+      "id": "73.08.18.2013",
+      "name": "Telle",
+      "postal_code": "92755",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.18",
+        "name": "Ajangale"
+      }
+    },
+    {
+      "id": "73.08.18.2014",
+      "name": "Pacciro",
+      "postal_code": "92755",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.08",
+        "name": "Kabupaten Bone"
+      },
+      "district": {
+        "id": "73.08.18",
+        "name": "Ajangale"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

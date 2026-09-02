@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.05.15.2002",
+    "name": "Bellis",
+    "postal_code": "97524",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.05",
+      "name": "Kabupaten Seram Bagian Timur"
+    },
+    "district": {
+      "id": "81.05.15",
+      "name": "Teluk Waru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.10.03.2016",
+    "name": "Koboruno",
+    "postal_code": "93673",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.10",
+      "name": "Kabupaten Buton Utara"
+    },
+    "district": {
+      "id": "74.10.03",
+      "name": "Bonegunu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

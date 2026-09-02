@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.17.06.2005",
+    "name": "Janti",
+    "postal_code": "61482",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.17",
+      "name": "Kabupaten Jombang"
+    },
+    "district": {
+      "id": "35.17.06",
+      "name": "Mojoagung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

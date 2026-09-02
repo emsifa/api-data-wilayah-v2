@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.02.26.2004",
+    "name": "Purwasedar",
+    "postal_code": "43176",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.02",
+      "name": "Kabupaten Sukabumi"
+    },
+    "district": {
+      "id": "32.02.26",
+      "name": "Ciracap"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

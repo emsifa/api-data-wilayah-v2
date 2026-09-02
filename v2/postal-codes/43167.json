@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.72.06.1005",
+      "name": "Sindangsari",
+      "postal_code": "43167",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.72",
+        "name": "Kota Sukabumi"
+      },
+      "district": {
+        "id": "32.72.06",
+        "name": "Lembursitu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

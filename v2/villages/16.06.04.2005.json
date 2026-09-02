@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.06.04.2005",
+    "name": "Talang Buluh",
+    "postal_code": "30755",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.06",
+      "name": "Kabupaten Musi Banyuasin"
+    },
+    "district": {
+      "id": "16.06.04",
+      "name": "Batang Hari Leko"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

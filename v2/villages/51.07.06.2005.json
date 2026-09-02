@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.07.06.2005",
+    "name": "Jungutan",
+    "postal_code": "80861",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.07",
+      "name": "Kabupaten Karangasem"
+    },
+    "district": {
+      "id": "51.07.06",
+      "name": "Bebandem"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

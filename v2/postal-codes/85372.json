@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "53.01.22.2001",
+      "name": "Soliu",
+      "postal_code": "85372",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.22",
+        "name": "Amfoang Barat Laut"
+      }
+    },
+    {
+      "id": "53.01.22.2002",
+      "name": "Saukibe",
+      "postal_code": "85372",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.22",
+        "name": "Amfoang Barat Laut"
+      }
+    },
+    {
+      "id": "53.01.22.2003",
+      "name": "Oelfatu",
+      "postal_code": "85372",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.22",
+        "name": "Amfoang Barat Laut"
+      }
+    },
+    {
+      "id": "53.01.22.2004",
+      "name": "Timau",
+      "postal_code": "85372",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.22",
+        "name": "Amfoang Barat Laut"
+      }
+    },
+    {
+      "id": "53.01.22.2005",
+      "name": "Honuk",
+      "postal_code": "85372",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.22",
+        "name": "Amfoang Barat Laut"
+      }
+    },
+    {
+      "id": "53.01.22.2006",
+      "name": "Faumes",
+      "postal_code": "85372",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.22",
+        "name": "Amfoang Barat Laut"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

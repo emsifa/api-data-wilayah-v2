@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.08.07.2008",
+    "name": "Galebo",
+    "postal_code": "97794",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.08",
+      "name": "Kabupaten Pulau Taliabu"
+    },
+    "district": {
+      "id": "82.08.07",
+      "name": "Taliabu Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

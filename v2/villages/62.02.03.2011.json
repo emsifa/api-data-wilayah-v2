@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.02.03.2011",
+    "name": "Tumbang Sapiri",
+    "postal_code": "74357",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.02",
+      "name": "Kabupaten Kotawaringin Timur"
+    },
+    "district": {
+      "id": "62.02.03",
+      "name": "Mentaya Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

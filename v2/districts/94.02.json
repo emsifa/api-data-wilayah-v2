@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "94.02",
+    "name": "Kabupaten Puncak Jaya",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.02",
+      "name": "Kabupaten Puncak Jaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

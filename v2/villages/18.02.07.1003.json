@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.02.07.1003",
+    "name": "Bandar Jaya Barat",
+    "postal_code": "34163",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.02",
+      "name": "Kabupaten Lampung Tengah"
+    },
+    "district": {
+      "id": "18.02.07",
+      "name": "Terbanggi Besar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

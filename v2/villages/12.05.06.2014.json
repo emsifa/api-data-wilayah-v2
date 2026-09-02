@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.05.06.2014",
+    "name": "Selayang Baru",
+    "postal_code": "20762",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.05",
+      "name": "Kabupaten Langkat"
+    },
+    "district": {
+      "id": "12.05.06",
+      "name": "Selesai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

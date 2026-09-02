@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "12.06.01.1009",
+      "name": "Padang Mas",
+      "postal_code": "22115",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.06",
+        "name": "Kabupaten Karo"
+      },
+      "district": {
+        "id": "12.06.01",
+        "name": "Kabanjahe"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

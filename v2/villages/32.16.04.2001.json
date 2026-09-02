@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.16.04.2001",
+    "name": "Sukawijaya",
+    "postal_code": "17621",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.16",
+      "name": "Kabupaten Bekasi"
+    },
+    "district": {
+      "id": "32.16.04",
+      "name": "Tambelang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

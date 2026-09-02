@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.07.12.2006",
+    "name": "Tangguh",
+    "postal_code": "79287",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.07",
+      "name": "Kabupaten Bengkayang"
+    },
+    "district": {
+      "id": "61.07.12",
+      "name": "Siding"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

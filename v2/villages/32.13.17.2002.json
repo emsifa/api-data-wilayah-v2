@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.13.17.2002",
+    "name": "Cibogo",
+    "postal_code": "41285",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.13",
+      "name": "Kabupaten Subang"
+    },
+    "district": {
+      "id": "32.13.17",
+      "name": "Cibogo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

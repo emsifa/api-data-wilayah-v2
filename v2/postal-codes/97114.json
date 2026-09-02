@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "81.71.01.1010",
+      "name": "Mangga Dua",
+      "postal_code": "97114",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.71",
+        "name": "Kota Ambon"
+      },
+      "district": {
+        "id": "81.71.01",
+        "name": "Nusaniwe"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

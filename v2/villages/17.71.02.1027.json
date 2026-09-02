@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.71.02.1027",
+    "name": "Cempaka Permai",
+    "postal_code": "38221",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.71",
+      "name": "Kota Bengkulu"
+    },
+    "district": {
+      "id": "17.71.02",
+      "name": "Gading Cempaka"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

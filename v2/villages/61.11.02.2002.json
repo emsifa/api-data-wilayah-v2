@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.11.02.2002",
+    "name": "Nipah Kuning",
+    "postal_code": "78853",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.11",
+      "name": "Kabupaten Kayong Utara"
+    },
+    "district": {
+      "id": "61.11.02",
+      "name": "Simpang Hilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

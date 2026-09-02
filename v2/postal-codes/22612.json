@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "12.01.03.1002",
+      "name": "Hajoran",
+      "postal_code": "22612",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.01",
+        "name": "Kabupaten Tapanuli Tengah"
+      },
+      "district": {
+        "id": "12.01.03",
+        "name": "Pandan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

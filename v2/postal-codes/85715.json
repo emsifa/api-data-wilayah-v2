@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "53.04.21.1001",
+      "name": "Bardao",
+      "postal_code": "85715",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.04",
+        "name": "Kabupaten Belu"
+      },
+      "district": {
+        "id": "53.04.21",
+        "name": "Atambua Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

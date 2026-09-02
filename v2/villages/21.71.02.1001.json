@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.71.02.1001",
+    "name": "Tanjung Sengkuang",
+    "postal_code": "29453",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.71",
+      "name": "Kota Batam"
+    },
+    "district": {
+      "id": "21.71.02",
+      "name": "Batu Ampar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

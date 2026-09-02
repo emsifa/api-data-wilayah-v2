@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "35.77",
+    "name": "Kota Madiun",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.77",
+      "name": "Kota Madiun"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

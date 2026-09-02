@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.03.07.2011",
+    "name": "Sokamu",
+    "postal_code": "99702",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.03",
+      "name": "Kabupaten Yahukimo"
+    },
+    "district": {
+      "id": "95.03.07",
+      "name": "Dekai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

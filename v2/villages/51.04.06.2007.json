@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.04.06.2007",
+    "name": "Taro",
+    "postal_code": "80561",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.04",
+      "name": "Kabupaten Gianyar"
+    },
+    "district": {
+      "id": "51.04.06",
+      "name": "Tegallalang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

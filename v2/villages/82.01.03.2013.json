@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.01.03.2013",
+    "name": "Togola Sangir",
+    "postal_code": "97754",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.01",
+      "name": "Kabupaten Halmahera Barat"
+    },
+    "district": {
+      "id": "82.01.03",
+      "name": "Ibu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

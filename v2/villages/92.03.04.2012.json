@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.03.04.2012",
+    "name": "Patimburak",
+    "postal_code": "98016",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.03",
+      "name": "Kabupaten Fak Fak"
+    },
+    "district": {
+      "id": "92.03.04",
+      "name": "Kokas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

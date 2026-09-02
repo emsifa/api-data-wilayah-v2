@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.12.04.2008",
+    "name": "Lumban Pinasa",
+    "postal_code": "22383",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.12",
+      "name": "Kabupaten Toba"
+    },
+    "district": {
+      "id": "12.12.04",
+      "name": "Habinsaran"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

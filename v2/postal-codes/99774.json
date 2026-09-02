@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "93.04.16.2001",
+      "name": "Primapun",
+      "postal_code": "99774",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.16",
+        "name": "Safan"
+      }
+    },
+    {
+      "id": "93.04.16.2002",
+      "name": "Aworket",
+      "postal_code": "99774",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.16",
+        "name": "Safan"
+      }
+    },
+    {
+      "id": "93.04.16.2003",
+      "name": "Saman",
+      "postal_code": "99774",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.16",
+        "name": "Safan"
+      }
+    },
+    {
+      "id": "93.04.16.2004",
+      "name": "Bayun",
+      "postal_code": "99774",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.16",
+        "name": "Safan"
+      }
+    },
+    {
+      "id": "93.04.16.2005",
+      "name": "Semendoro",
+      "postal_code": "99774",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.16",
+        "name": "Safan"
+      }
+    },
+    {
+      "id": "93.04.16.2006",
+      "name": "Tareo",
+      "postal_code": "99774",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.16",
+        "name": "Safan"
+      }
+    },
+    {
+      "id": "93.04.16.2007",
+      "name": "Kayirim",
+      "postal_code": "99774",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.16",
+        "name": "Safan"
+      }
+    },
+    {
+      "id": "93.04.16.2008",
+      "name": "Santambor",
+      "postal_code": "99774",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.16",
+        "name": "Safan"
+      }
+    },
+    {
+      "id": "93.04.16.2009",
+      "name": "Yaptambor",
+      "postal_code": "99774",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.16",
+        "name": "Safan"
+      }
+    },
+    {
+      "id": "93.04.16.2010",
+      "name": "Simsagar",
+      "postal_code": "99774",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.16",
+        "name": "Safan"
+      }
+    },
+    {
+      "id": "93.04.16.2011",
+      "name": "Itersok",
+      "postal_code": "99774",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.16",
+        "name": "Safan"
+      }
+    },
+    {
+      "id": "93.04.16.2012",
+      "name": "Emene",
+      "postal_code": "99774",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.04",
+        "name": "Kabupaten Asmat"
+      },
+      "district": {
+        "id": "93.04.16",
+        "name": "Safan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

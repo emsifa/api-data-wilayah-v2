@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.22.04.2020",
+    "name": "Salama",
+    "postal_code": "92955",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.22",
+      "name": "Kabupaten Luwu Utara"
+    },
+    "district": {
+      "id": "73.22.04",
+      "name": "Sabbang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

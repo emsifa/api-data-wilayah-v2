@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.02.25.2005",
+    "name": "Lebaksitu",
+    "postal_code": "42351",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.02",
+      "name": "Kabupaten Lebak"
+    },
+    "district": {
+      "id": "36.02.25",
+      "name": "Lebakgedong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

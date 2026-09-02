@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.15.12.2005",
+    "name": "Kolang",
+    "postal_code": "86751",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.15",
+      "name": "Kabupaten Manggarai Barat"
+    },
+    "district": {
+      "id": "53.15.12",
+      "name": "Kuwus Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

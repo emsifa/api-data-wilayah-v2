@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "18.03.02.1008",
+      "name": "Sribasuki",
+      "postal_code": "34515",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.03",
+        "name": "Kabupaten Lampung Utara"
+      },
+      "district": {
+        "id": "18.03.02",
+        "name": "Kotabumi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

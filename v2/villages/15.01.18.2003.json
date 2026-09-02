@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.01.18.2003",
+    "name": "Mukai Mudik",
+    "postal_code": "37169",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.01",
+      "name": "Kabupaten Kerinci"
+    },
+    "district": {
+      "id": "15.01.18",
+      "name": "Siulak Mukai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

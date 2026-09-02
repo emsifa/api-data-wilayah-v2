@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.05.20.2009",
+    "name": "Air Beliti",
+    "postal_code": "31664",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.05",
+      "name": "Kabupaten Musi Rawas"
+    },
+    "district": {
+      "id": "16.05.20",
+      "name": "Tuah Negeri"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

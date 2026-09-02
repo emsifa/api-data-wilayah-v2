@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.01.18.2004",
+    "name": "Retraen",
+    "postal_code": "85377",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.01",
+      "name": "Kabupaten Kupang"
+    },
+    "district": {
+      "id": "53.01.18",
+      "name": "Amarasi Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

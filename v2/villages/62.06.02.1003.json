@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.06.02.1003",
+    "name": "Kasongan Baru",
+    "postal_code": "74413",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.06",
+      "name": "Kabupaten Katingan"
+    },
+    "district": {
+      "id": "62.06.02",
+      "name": "Katingan Hilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

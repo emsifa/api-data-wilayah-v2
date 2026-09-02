@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "21.03.20.2001",
+      "name": "Batubi Jaya",
+      "postal_code": "29787",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.03",
+        "name": "Kabupaten Natuna"
+      },
+      "district": {
+        "id": "21.03.20",
+        "name": "Bunguran Batubi"
+      }
+    },
+    {
+      "id": "21.03.20.2002",
+      "name": "Gunung Putri",
+      "postal_code": "29787",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.03",
+        "name": "Kabupaten Natuna"
+      },
+      "district": {
+        "id": "21.03.20",
+        "name": "Bunguran Batubi"
+      }
+    },
+    {
+      "id": "21.03.20.2003",
+      "name": "Sedarat Baru",
+      "postal_code": "29787",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.03",
+        "name": "Kabupaten Natuna"
+      },
+      "district": {
+        "id": "21.03.20",
+        "name": "Bunguran Batubi"
+      }
+    },
+    {
+      "id": "21.03.20.2004",
+      "name": "Sedanau Timur",
+      "postal_code": "29787",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.03",
+        "name": "Kabupaten Natuna"
+      },
+      "district": {
+        "id": "21.03.20",
+        "name": "Bunguran Batubi"
+      }
+    },
+    {
+      "id": "21.03.20.2005",
+      "name": "Semedang",
+      "postal_code": "29787",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.03",
+        "name": "Kabupaten Natuna"
+      },
+      "district": {
+        "id": "21.03.20",
+        "name": "Bunguran Batubi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

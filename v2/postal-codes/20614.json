@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "12.76.02.1004",
+      "name": "Rantau Laban",
+      "postal_code": "20614",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.76",
+        "name": "Kota Tebing Tinggi"
+      },
+      "district": {
+        "id": "12.76.02",
+        "name": "Rambutan"
+      }
+    },
+    {
+      "id": "12.76.02.1009",
+      "name": "Lalang",
+      "postal_code": "20614",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.76",
+        "name": "Kota Tebing Tinggi"
+      },
+      "district": {
+        "id": "12.76.02",
+        "name": "Rambutan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

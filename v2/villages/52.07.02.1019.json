@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.07.02.1019",
+    "name": "Arab Kenangan",
+    "postal_code": "84452",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.07",
+      "name": "Kabupaten Sumbawa Barat"
+    },
+    "district": {
+      "id": "52.07.02",
+      "name": "Taliwang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

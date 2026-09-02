@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.71.05.1004",
+    "name": "Karang Baru",
+    "postal_code": "83123",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.71",
+      "name": "Kota Mataram"
+    },
+    "district": {
+      "id": "52.71.05",
+      "name": "Selaparang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

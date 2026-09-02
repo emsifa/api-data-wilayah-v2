@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.03.05.2002",
+    "name": "Biangkeke",
+    "postal_code": "92460",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.03",
+      "name": "Kabupaten Bantaeng"
+    },
+    "district": {
+      "id": "73.03.05",
+      "name": "Pajukukang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

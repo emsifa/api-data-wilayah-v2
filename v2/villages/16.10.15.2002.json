@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.10.15.2002",
+    "name": "Lubuk Keliat",
+    "postal_code": "30868",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.10",
+      "name": "Kabupaten Ogan Ilir"
+    },
+    "district": {
+      "id": "16.10.15",
+      "name": "Lubuk Keliat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

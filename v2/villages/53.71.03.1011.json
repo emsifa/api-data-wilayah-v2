@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.71.03.1011",
+    "name": "Lasiana",
+    "postal_code": "85228",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.71",
+      "name": "Kota Kupang"
+    },
+    "district": {
+      "id": "53.71.03",
+      "name": "Kelapa Lima"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

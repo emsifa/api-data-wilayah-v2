@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "65.03.01.2001",
+      "name": "Tanjungkarang",
+      "postal_code": "77483",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.03",
+        "name": "Kabupaten Nunukan"
+      },
+      "district": {
+        "id": "65.03.01",
+        "name": "Sebatik"
+      }
+    },
+    {
+      "id": "65.03.01.2002",
+      "name": "Balansiku",
+      "postal_code": "77483",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.03",
+        "name": "Kabupaten Nunukan"
+      },
+      "district": {
+        "id": "65.03.01",
+        "name": "Sebatik"
+      }
+    },
+    {
+      "id": "65.03.01.2003",
+      "name": "Sungai Manurung",
+      "postal_code": "77483",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.03",
+        "name": "Kabupaten Nunukan"
+      },
+      "district": {
+        "id": "65.03.01",
+        "name": "Sebatik"
+      }
+    },
+    {
+      "id": "65.03.01.2004",
+      "name": "Padaidi",
+      "postal_code": "77483",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.03",
+        "name": "Kabupaten Nunukan"
+      },
+      "district": {
+        "id": "65.03.01",
+        "name": "Sebatik"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

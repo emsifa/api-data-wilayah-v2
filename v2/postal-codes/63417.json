@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.02.17.1006",
+      "name": "Purbosuman",
+      "postal_code": "63417",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.02",
+        "name": "Kabupaten Ponorogo"
+      },
+      "district": {
+        "id": "35.02.17",
+        "name": "Ponorogo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

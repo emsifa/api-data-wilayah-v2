@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.02.23.2002",
+    "name": "Serapek",
+    "postal_code": "30673",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.02",
+      "name": "Kabupaten Ogan Komering Ilir"
+    },
+    "district": {
+      "id": "16.02.23",
+      "name": "Teluk Gelam"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

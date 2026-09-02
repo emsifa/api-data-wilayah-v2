@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "19.03.02.2002",
+    "name": "Tanjung Sangkar",
+    "postal_code": "33792",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.03",
+      "name": "Kabupaten Bangka Selatan"
+    },
+    "district": {
+      "id": "19.03.02",
+      "name": "Lepar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.74.03.1004",
+    "name": "Pasar Baru",
+    "postal_code": "21341",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.74",
+      "name": "Kota Tanjungbalai"
+    },
+    "district": {
+      "id": "12.74.03",
+      "name": "Sei Tualang Raso"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

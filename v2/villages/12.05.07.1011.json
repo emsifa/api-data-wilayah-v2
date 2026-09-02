@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.05.07.1011",
+    "name": "Dendang",
+    "postal_code": "20811",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.05",
+      "name": "Kabupaten Langkat"
+    },
+    "district": {
+      "id": "12.05.07",
+      "name": "Stabat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

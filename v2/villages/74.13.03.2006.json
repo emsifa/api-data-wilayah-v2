@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.13.03.2006",
+    "name": "Watumela",
+    "postal_code": "93651",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.13",
+      "name": "Kabupaten Muna Barat"
+    },
+    "district": {
+      "id": "74.13.03",
+      "name": "Lawa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

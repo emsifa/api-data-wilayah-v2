@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "13.12.09.2001",
+      "name": "Sungai Aua",
+      "postal_code": "26574",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.12",
+        "name": "Kabupaten Pasaman Barat"
+      },
+      "district": {
+        "id": "13.12.09",
+        "name": "Sungai Aur"
+      }
+    },
+    {
+      "id": "13.12.09.2002",
+      "name": "Salingka Muaro",
+      "postal_code": "26574",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.12",
+        "name": "Kabupaten Pasaman Barat"
+      },
+      "district": {
+        "id": "13.12.09",
+        "name": "Sungai Aur"
+      }
+    },
+    {
+      "id": "13.12.09.2003",
+      "name": "Ranah Malintang",
+      "postal_code": "26574",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.12",
+        "name": "Kabupaten Pasaman Barat"
+      },
+      "district": {
+        "id": "13.12.09",
+        "name": "Sungai Aur"
+      }
+    },
+    {
+      "id": "13.12.09.2004",
+      "name": "Ranah Air Haji",
+      "postal_code": "26574",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.12",
+        "name": "Kabupaten Pasaman Barat"
+      },
+      "district": {
+        "id": "13.12.09",
+        "name": "Sungai Aur"
+      }
+    },
+    {
+      "id": "13.12.09.2005",
+      "name": "Kasikputih Sungaitanang",
+      "postal_code": "26574",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.12",
+        "name": "Kabupaten Pasaman Barat"
+      },
+      "district": {
+        "id": "13.12.09",
+        "name": "Sungai Aur"
+      }
+    },
+    {
+      "id": "13.12.09.2006",
+      "name": "Aua Serumpun",
+      "postal_code": "26574",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.12",
+        "name": "Kabupaten Pasaman Barat"
+      },
+      "district": {
+        "id": "13.12.09",
+        "name": "Sungai Aur"
+      }
+    },
+    {
+      "id": "13.12.09.2007",
+      "name": "Sikilang Sungai Aur Selatan",
+      "postal_code": "26574",
+      "province": {
+        "id": "13",
+        "name": "Sumatera Barat"
+      },
+      "regency": {
+        "id": "13.12",
+        "name": "Kabupaten Pasaman Barat"
+      },
+      "district": {
+        "id": "13.12.09",
+        "name": "Sungai Aur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

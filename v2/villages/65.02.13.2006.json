@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "65.02.13.2006",
+    "name": "Punan Gong Solok",
+    "postal_code": "77552",
+    "province": {
+      "id": "65",
+      "name": "Kalimantan Utara"
+    },
+    "regency": {
+      "id": "65.02",
+      "name": "Kabupaten Malinau"
+    },
+    "district": {
+      "id": "65.02.13",
+      "name": "Malinau Selatan Hilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "91.05.06.2007",
+    "name": "Sarawandori",
+    "postal_code": "98632",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.05",
+      "name": "Kabupaten Kepulauan Yapen"
+    },
+    "district": {
+      "id": "91.05.06",
+      "name": "Kosiwo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

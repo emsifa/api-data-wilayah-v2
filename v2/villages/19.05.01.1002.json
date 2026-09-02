@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "19.05.01.1002",
+    "name": "Sungai Daeng",
+    "postal_code": "33313",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.05",
+      "name": "Kabupaten Bangka Barat"
+    },
+    "district": {
+      "id": "19.05.01",
+      "name": "Mentok"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.02.04.2019",
+    "name": "Bajarau",
+    "postal_code": "74355",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.02",
+      "name": "Kabupaten Kotawaringin Timur"
+    },
+    "district": {
+      "id": "62.02.04",
+      "name": "Parenggean"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

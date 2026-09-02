@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.05.12.2028",
+    "name": "Karangsari",
+    "postal_code": "54317",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.05",
+      "name": "Kabupaten Kebumen"
+    },
+    "district": {
+      "id": "33.05.12",
+      "name": "Kebumen"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

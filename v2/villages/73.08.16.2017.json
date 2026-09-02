@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.08.16.2017",
+    "name": "Cakke Bone",
+    "postal_code": "92776",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.08",
+      "name": "Kabupaten Bone"
+    },
+    "district": {
+      "id": "73.08.16",
+      "name": "Awangpone"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

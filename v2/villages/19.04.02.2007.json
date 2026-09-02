@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "19.04.02.2007",
+    "name": "Tanjung Gunung",
+    "postal_code": "33684",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.04",
+      "name": "Kabupaten Bangka Tengah"
+    },
+    "district": {
+      "id": "19.04.02",
+      "name": "Pangkalan Baru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

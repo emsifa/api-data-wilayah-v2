@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.15.02.2004",
+    "name": "Kuta Dame",
+    "postal_code": "22271",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.15",
+      "name": "Kabupaten Pakpak Bharat"
+    },
+    "district": {
+      "id": "12.15.02",
+      "name": "Kerajaan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.03.18.2003",
+    "name": "Lepak",
+    "postal_code": "83674",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.03",
+      "name": "Kabupaten Lombok Timur"
+    },
+    "district": {
+      "id": "52.03.18",
+      "name": "Sakra Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

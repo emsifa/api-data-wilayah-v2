@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "13.77.03.2007",
+    "name": "Balai Kurai Taji",
+    "postal_code": "25531",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.77",
+      "name": "Kota Pariaman"
+    },
+    "district": {
+      "id": "13.77.03",
+      "name": "Pariaman Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

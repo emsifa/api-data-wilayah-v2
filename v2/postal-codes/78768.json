@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "61.06.13.2001",
+      "name": "Keling Panggau",
+      "postal_code": "78768",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.13",
+        "name": "Empanang"
+      }
+    },
+    {
+      "id": "61.06.13.2002",
+      "name": "Nanga Kantuk",
+      "postal_code": "78768",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.13",
+        "name": "Empanang"
+      }
+    },
+    {
+      "id": "61.06.13.2003",
+      "name": "Tintin Peninjau",
+      "postal_code": "78768",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.13",
+        "name": "Empanang"
+      }
+    },
+    {
+      "id": "61.06.13.2004",
+      "name": "Bajau Andai",
+      "postal_code": "78768",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.13",
+        "name": "Empanang"
+      }
+    },
+    {
+      "id": "61.06.13.2005",
+      "name": "Kumang Jaya",
+      "postal_code": "78768",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.13",
+        "name": "Empanang"
+      }
+    },
+    {
+      "id": "61.06.13.2006",
+      "name": "Laja Sandang",
+      "postal_code": "78768",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.13",
+        "name": "Empanang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

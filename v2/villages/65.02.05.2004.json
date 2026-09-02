@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "65.02.05.2004",
+    "name": "Long Betaoh",
+    "postal_code": "77572",
+    "province": {
+      "id": "65",
+      "name": "Kalimantan Utara"
+    },
+    "regency": {
+      "id": "65.02",
+      "name": "Kabupaten Malinau"
+    },
+    "district": {
+      "id": "65.02.05",
+      "name": "Kayan Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

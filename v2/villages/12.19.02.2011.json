@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.19.02.2011",
+    "name": "Kuala Indah",
+    "postal_code": "21257",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.19",
+      "name": "Kabupaten Batu Bara"
+    },
+    "district": {
+      "id": "12.19.02",
+      "name": "Sei Suka"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

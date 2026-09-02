@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "32.07.29.2001",
+      "name": "Cimaragas",
+      "postal_code": "46381",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.07",
+        "name": "Kabupaten Ciamis"
+      },
+      "district": {
+        "id": "32.07.29",
+        "name": "Cimaragas"
+      }
+    },
+    {
+      "id": "32.07.29.2002",
+      "name": "Beber",
+      "postal_code": "46381",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.07",
+        "name": "Kabupaten Ciamis"
+      },
+      "district": {
+        "id": "32.07.29",
+        "name": "Cimaragas"
+      }
+    },
+    {
+      "id": "32.07.29.2003",
+      "name": "Raksabaya",
+      "postal_code": "46381",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.07",
+        "name": "Kabupaten Ciamis"
+      },
+      "district": {
+        "id": "32.07.29",
+        "name": "Cimaragas"
+      }
+    },
+    {
+      "id": "32.07.29.2004",
+      "name": "Bojongmalang",
+      "postal_code": "46381",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.07",
+        "name": "Kabupaten Ciamis"
+      },
+      "district": {
+        "id": "32.07.29",
+        "name": "Cimaragas"
+      }
+    },
+    {
+      "id": "32.07.29.2005",
+      "name": "Jayaraksa",
+      "postal_code": "46381",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.07",
+        "name": "Kabupaten Ciamis"
+      },
+      "district": {
+        "id": "32.07.29",
+        "name": "Cimaragas"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

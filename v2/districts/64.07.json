@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "64.07",
+    "name": "Kabupaten Kutai Barat",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.07",
+      "name": "Kabupaten Kutai Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

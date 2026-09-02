@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.02.05.2009",
+    "name": "Poleganyara",
+    "postal_code": "94666",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.02",
+      "name": "Kabupaten Poso"
+    },
+    "district": {
+      "id": "72.02.05",
+      "name": "Pamona Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

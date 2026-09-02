@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.05.05.2027",
+    "name": "Ruma Durun",
+    "postal_code": "97595",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.05",
+      "name": "Kabupaten Seram Bagian Timur"
+    },
+    "district": {
+      "id": "81.05.05",
+      "name": "Wakate"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

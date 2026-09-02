@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "33.16.09.1013",
+      "name": "Kauman",
+      "postal_code": "58213",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.16",
+        "name": "Kabupaten Blora"
+      },
+      "district": {
+        "id": "33.16.09",
+        "name": "Blora"
+      }
+    },
+    {
+      "id": "33.16.09.1014",
+      "name": "Sonorejo",
+      "postal_code": "58213",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.16",
+        "name": "Kabupaten Blora"
+      },
+      "district": {
+        "id": "33.16.09",
+        "name": "Blora"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

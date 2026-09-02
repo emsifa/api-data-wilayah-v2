@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.14.08.2005",
+    "name": "Martopuro",
+    "postal_code": "67162",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.14",
+      "name": "Kabupaten Pasuruan"
+    },
+    "district": {
+      "id": "35.14.08",
+      "name": "Purwosari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

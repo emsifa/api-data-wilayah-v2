@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "15.03.10.2001",
+      "name": "Kampung Tujuh",
+      "postal_code": "37381",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.03",
+        "name": "Kabupaten Sarolangun"
+      },
+      "district": {
+        "id": "15.03.10",
+        "name": "Cermin Nan Gedang"
+      }
+    },
+    {
+      "id": "15.03.10.2002",
+      "name": "Lubuk Resam",
+      "postal_code": "37381",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.03",
+        "name": "Kabupaten Sarolangun"
+      },
+      "district": {
+        "id": "15.03.10",
+        "name": "Cermin Nan Gedang"
+      }
+    },
+    {
+      "id": "15.03.10.2003",
+      "name": "Teluk Rendah",
+      "postal_code": "37381",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.03",
+        "name": "Kabupaten Sarolangun"
+      },
+      "district": {
+        "id": "15.03.10",
+        "name": "Cermin Nan Gedang"
+      }
+    },
+    {
+      "id": "15.03.10.2004",
+      "name": "Teluk Tigo",
+      "postal_code": "37381",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.03",
+        "name": "Kabupaten Sarolangun"
+      },
+      "district": {
+        "id": "15.03.10",
+        "name": "Cermin Nan Gedang"
+      }
+    },
+    {
+      "id": "15.03.10.2005",
+      "name": "Lubuk Resam Hilir",
+      "postal_code": "37381",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.03",
+        "name": "Kabupaten Sarolangun"
+      },
+      "district": {
+        "id": "15.03.10",
+        "name": "Cermin Nan Gedang"
+      }
+    },
+    {
+      "id": "15.03.10.2006",
+      "name": "Pemuncak",
+      "postal_code": "37381",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.03",
+        "name": "Kabupaten Sarolangun"
+      },
+      "district": {
+        "id": "15.03.10",
+        "name": "Cermin Nan Gedang"
+      }
+    },
+    {
+      "id": "15.03.10.2007",
+      "name": "Tambang Tinggi",
+      "postal_code": "37381",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.03",
+        "name": "Kabupaten Sarolangun"
+      },
+      "district": {
+        "id": "15.03.10",
+        "name": "Cermin Nan Gedang"
+      }
+    },
+    {
+      "id": "15.03.10.2008",
+      "name": "Tendah",
+      "postal_code": "37381",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.03",
+        "name": "Kabupaten Sarolangun"
+      },
+      "district": {
+        "id": "15.03.10",
+        "name": "Cermin Nan Gedang"
+      }
+    },
+    {
+      "id": "15.03.10.2009",
+      "name": "Sungai Keramat",
+      "postal_code": "37381",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.03",
+        "name": "Kabupaten Sarolangun"
+      },
+      "district": {
+        "id": "15.03.10",
+        "name": "Cermin Nan Gedang"
+      }
+    },
+    {
+      "id": "15.03.10.2010",
+      "name": "Sekamis",
+      "postal_code": "37381",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.03",
+        "name": "Kabupaten Sarolangun"
+      },
+      "district": {
+        "id": "15.03.10",
+        "name": "Cermin Nan Gedang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.16.08.2001",
+    "name": "Benua Raja",
+    "postal_code": "24474",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.16",
+      "name": "Kabupaten Aceh Tamiang"
+    },
+    "district": {
+      "id": "11.16.08",
+      "name": "Rantau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

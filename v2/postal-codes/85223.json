@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "53.01.27.2001",
+      "name": "Poto",
+      "postal_code": "85223",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.27",
+        "name": "Fatuleu Barat"
+      }
+    },
+    {
+      "id": "53.01.27.2002",
+      "name": "Nuataus",
+      "postal_code": "85223",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.27",
+        "name": "Fatuleu Barat"
+      }
+    },
+    {
+      "id": "53.01.27.2003",
+      "name": "Kalali",
+      "postal_code": "85223",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.27",
+        "name": "Fatuleu Barat"
+      }
+    },
+    {
+      "id": "53.01.27.2004",
+      "name": "Tuakau",
+      "postal_code": "85223",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.27",
+        "name": "Fatuleu Barat"
+      }
+    },
+    {
+      "id": "53.01.27.2005",
+      "name": "Naitae",
+      "postal_code": "85223",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.27",
+        "name": "Fatuleu Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

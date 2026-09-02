@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.16.04.2014",
+    "name": "Kalen",
+    "postal_code": "58381",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.16",
+      "name": "Kabupaten Blora"
+    },
+    "district": {
+      "id": "33.16.04",
+      "name": "Kedungtuban"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

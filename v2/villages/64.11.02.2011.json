@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.11.02.2011",
+    "name": "Long Hubung Ulu",
+    "postal_code": "75770",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.11",
+      "name": "Kabupaten Mahakam Ulu"
+    },
+    "district": {
+      "id": "64.11.02",
+      "name": "Long Hubung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

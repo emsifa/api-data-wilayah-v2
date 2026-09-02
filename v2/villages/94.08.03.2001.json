@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.08.03.2001",
+    "name": "Kopai I",
+    "postal_code": "98751",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.08",
+      "name": "Kabupaten Deiyai"
+    },
+    "district": {
+      "id": "94.08.03",
+      "name": "Bowobado"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

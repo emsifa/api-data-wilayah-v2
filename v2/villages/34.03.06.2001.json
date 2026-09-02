@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.03.06.2001",
+    "name": "Girikarto",
+    "postal_code": "55872",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.03",
+      "name": "Kabupaten Gunungkidul"
+    },
+    "district": {
+      "id": "34.03.06",
+      "name": "Panggang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

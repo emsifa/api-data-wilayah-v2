@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "19.01.01.1004",
+      "name": "Sinar Baru",
+      "postal_code": "33212",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.01",
+        "name": "Sungailiat"
+      }
+    },
+    {
+      "id": "19.01.01.1008",
+      "name": "Sinar Jaya Jelutung",
+      "postal_code": "33212",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.01",
+        "name": "Sungailiat"
+      }
+    },
+    {
+      "id": "19.01.01.1009",
+      "name": "Matras",
+      "postal_code": "33212",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.01",
+        "name": "Kabupaten Bangka"
+      },
+      "district": {
+        "id": "19.01.01",
+        "name": "Sungailiat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

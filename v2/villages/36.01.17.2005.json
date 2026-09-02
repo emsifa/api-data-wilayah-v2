@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.01.17.2005",
+    "name": "Mandalawangi",
+    "postal_code": "42261",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.01",
+      "name": "Kabupaten Pandeglang"
+    },
+    "district": {
+      "id": "36.01.17",
+      "name": "Mandalawangi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

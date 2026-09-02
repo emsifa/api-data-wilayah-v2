@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "35.75.02.1011",
+      "name": "Sekargadung",
+      "postal_code": "67127",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.75",
+        "name": "Kota Pasuruan"
+      },
+      "district": {
+        "id": "35.75.02",
+        "name": "Purworejo"
+      }
+    },
+    {
+      "id": "35.75.03.1006",
+      "name": "Krampyangan",
+      "postal_code": "67127",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.75",
+        "name": "Kota Pasuruan"
+      },
+      "district": {
+        "id": "35.75.03",
+        "name": "Bugul Kidul"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

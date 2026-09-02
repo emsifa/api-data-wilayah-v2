@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "52.05.05.2004",
+      "name": "Saneo",
+      "postal_code": "84251",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.05",
+        "name": "Woja"
+      }
+    },
+    {
+      "id": "52.05.05.2005",
+      "name": "Wawonduru",
+      "postal_code": "84251",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.05",
+        "name": "Woja"
+      }
+    },
+    {
+      "id": "52.05.05.2006",
+      "name": "Matua",
+      "postal_code": "84251",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.05",
+        "name": "Woja"
+      }
+    },
+    {
+      "id": "52.05.05.2007",
+      "name": "Nowa",
+      "postal_code": "84251",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.05",
+        "name": "Woja"
+      }
+    },
+    {
+      "id": "52.05.05.2008",
+      "name": "Bara",
+      "postal_code": "84251",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.05",
+        "name": "Woja"
+      }
+    },
+    {
+      "id": "52.05.05.2009",
+      "name": "Mada Prama",
+      "postal_code": "84251",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.05",
+        "name": "Woja"
+      }
+    },
+    {
+      "id": "52.05.05.2010",
+      "name": "Riwo",
+      "postal_code": "84251",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.05",
+        "name": "Woja"
+      }
+    },
+    {
+      "id": "52.05.05.2011",
+      "name": "Mumbu",
+      "postal_code": "84251",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.05",
+        "name": "Woja"
+      }
+    },
+    {
+      "id": "52.05.05.2012",
+      "name": "Sera Kapi",
+      "postal_code": "84251",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.05",
+        "name": "Woja"
+      }
+    },
+    {
+      "id": "52.05.05.2013",
+      "name": "Raba Baka",
+      "postal_code": "84251",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.05",
+        "name": "Woja"
+      }
+    },
+    {
+      "id": "52.05.05.2014",
+      "name": "Baka Jaya",
+      "postal_code": "84251",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.05",
+        "name": "Woja"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

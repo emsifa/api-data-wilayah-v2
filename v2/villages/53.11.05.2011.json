@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.11.05.2011",
+    "name": "Bangga Watu",
+    "postal_code": "87160",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.11",
+      "name": "Kabupaten Sumba Timur"
+    },
+    "district": {
+      "id": "53.11.05",
+      "name": "Tabundung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

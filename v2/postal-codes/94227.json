@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "72.71.05.1003",
+      "name": "Kabonena",
+      "postal_code": "94227",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.71",
+        "name": "Kota Palu"
+      },
+      "district": {
+        "id": "72.71.05",
+        "name": "Ulujadi"
+      }
+    },
+    {
+      "id": "72.71.05.1004",
+      "name": "Silae",
+      "postal_code": "94227",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.71",
+        "name": "Kota Palu"
+      },
+      "district": {
+        "id": "72.71.05",
+        "name": "Ulujadi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

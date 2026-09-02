@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.21.02.2011",
+    "name": "Krandegan",
+    "postal_code": "63263",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.21",
+      "name": "Kabupaten Ngawi"
+    },
+    "district": {
+      "id": "35.21.02",
+      "name": "Ngrambe"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

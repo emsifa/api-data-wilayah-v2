@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.02.06.2003",
+    "name": "Semoyang",
+    "postal_code": "83581",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.02",
+      "name": "Kabupaten Lombok Tengah"
+    },
+    "district": {
+      "id": "52.02.06",
+      "name": "Praya Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

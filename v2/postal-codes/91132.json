@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "73.72.03.1003",
+      "name": "Watang Soreang",
+      "postal_code": "91132",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.72",
+        "name": "Kota Parepare"
+      },
+      "district": {
+        "id": "73.72.03",
+        "name": "Soreang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

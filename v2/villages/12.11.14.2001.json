@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.11.14.2001",
+    "name": "Silalahi II",
+    "postal_code": "22280",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.11",
+      "name": "Kabupaten Dairi"
+    },
+    "district": {
+      "id": "12.11.14",
+      "name": "Silahisabungan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

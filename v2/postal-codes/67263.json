@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "35.13.02.2001",
+      "name": "Ledokombo",
+      "postal_code": "67263",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.13",
+        "name": "Kabupaten Probolinggo"
+      },
+      "district": {
+        "id": "35.13.02",
+        "name": "Sumber"
+      }
+    },
+    {
+      "id": "35.13.02.2002",
+      "name": "Pandansari",
+      "postal_code": "67263",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.13",
+        "name": "Kabupaten Probolinggo"
+      },
+      "district": {
+        "id": "35.13.02",
+        "name": "Sumber"
+      }
+    },
+    {
+      "id": "35.13.02.2003",
+      "name": "Sumber",
+      "postal_code": "67263",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.13",
+        "name": "Kabupaten Probolinggo"
+      },
+      "district": {
+        "id": "35.13.02",
+        "name": "Sumber"
+      }
+    },
+    {
+      "id": "35.13.02.2004",
+      "name": "Wonokerso",
+      "postal_code": "67263",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.13",
+        "name": "Kabupaten Probolinggo"
+      },
+      "district": {
+        "id": "35.13.02",
+        "name": "Sumber"
+      }
+    },
+    {
+      "id": "35.13.02.2005",
+      "name": "Gemito",
+      "postal_code": "67263",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.13",
+        "name": "Kabupaten Probolinggo"
+      },
+      "district": {
+        "id": "35.13.02",
+        "name": "Sumber"
+      }
+    },
+    {
+      "id": "35.13.02.2006",
+      "name": "Tukul",
+      "postal_code": "67263",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.13",
+        "name": "Kabupaten Probolinggo"
+      },
+      "district": {
+        "id": "35.13.02",
+        "name": "Sumber"
+      }
+    },
+    {
+      "id": "35.13.02.2007",
+      "name": "Sumberanom",
+      "postal_code": "67263",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.13",
+        "name": "Kabupaten Probolinggo"
+      },
+      "district": {
+        "id": "35.13.02",
+        "name": "Sumber"
+      }
+    },
+    {
+      "id": "35.13.02.2008",
+      "name": "Cepoko",
+      "postal_code": "67263",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.13",
+        "name": "Kabupaten Probolinggo"
+      },
+      "district": {
+        "id": "35.13.02",
+        "name": "Sumber"
+      }
+    },
+    {
+      "id": "35.13.02.2009",
+      "name": "Remba'an",
+      "postal_code": "67263",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.13",
+        "name": "Kabupaten Probolinggo"
+      },
+      "district": {
+        "id": "35.13.02",
+        "name": "Sumber"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

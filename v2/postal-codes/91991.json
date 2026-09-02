@@ -1,0 +1,263 @@
+{
+  "data": [
+    {
+      "id": "73.17.08.1001",
+      "name": "Sakti",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    },
+    {
+      "id": "73.17.08.2002",
+      "name": "Barowa",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    },
+    {
+      "id": "73.17.08.2003",
+      "name": "Puty",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    },
+    {
+      "id": "73.17.08.2004",
+      "name": "Raja",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    },
+    {
+      "id": "73.17.08.2005",
+      "name": "Posi",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    },
+    {
+      "id": "73.17.08.2006",
+      "name": "Karang-Karangan",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    },
+    {
+      "id": "73.17.08.2007",
+      "name": "Lare-Lare",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    },
+    {
+      "id": "73.17.08.2008",
+      "name": "Lengkong",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    },
+    {
+      "id": "73.17.08.2009",
+      "name": "Tiromanda",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    },
+    {
+      "id": "73.17.08.2010",
+      "name": "Tana Rigella",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    },
+    {
+      "id": "73.17.08.2011",
+      "name": "Bukit Harapan",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    },
+    {
+      "id": "73.17.08.2012",
+      "name": "Padang Kalua",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    },
+    {
+      "id": "73.17.08.2013",
+      "name": "Pammesakang",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    },
+    {
+      "id": "73.17.08.2014",
+      "name": "Pabbaresseng",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    },
+    {
+      "id": "73.17.08.2015",
+      "name": "Toddopuli",
+      "postal_code": "91991",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.17",
+        "name": "Kabupaten Luwu"
+      },
+      "district": {
+        "id": "73.17.08",
+        "name": "Bua"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

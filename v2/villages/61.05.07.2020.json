@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.05.07.2020",
+    "name": "Sungai Tapang",
+    "postal_code": "78691",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.05",
+      "name": "Kabupaten Sintang"
+    },
+    "district": {
+      "id": "61.05.07",
+      "name": "Dedai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

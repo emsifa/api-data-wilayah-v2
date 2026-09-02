@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "73.26.10.1002",
+      "name": "Tagari",
+      "postal_code": "91855",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.26",
+        "name": "Kabupaten Toraja Utara"
+      },
+      "district": {
+        "id": "73.26.10",
+        "name": "Balusu"
+      }
+    },
+    {
+      "id": "73.26.10.1005",
+      "name": "Balusu",
+      "postal_code": "91855",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.26",
+        "name": "Kabupaten Toraja Utara"
+      },
+      "district": {
+        "id": "73.26.10",
+        "name": "Balusu"
+      }
+    },
+    {
+      "id": "73.26.10.2001",
+      "name": "Palangi'",
+      "postal_code": "91855",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.26",
+        "name": "Kabupaten Toraja Utara"
+      },
+      "district": {
+        "id": "73.26.10",
+        "name": "Balusu"
+      }
+    },
+    {
+      "id": "73.26.10.2003",
+      "name": "Lilikira Ao'gading",
+      "postal_code": "91855",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.26",
+        "name": "Kabupaten Toraja Utara"
+      },
+      "district": {
+        "id": "73.26.10",
+        "name": "Balusu"
+      }
+    },
+    {
+      "id": "73.26.10.2004",
+      "name": "Karua",
+      "postal_code": "91855",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.26",
+        "name": "Kabupaten Toraja Utara"
+      },
+      "district": {
+        "id": "73.26.10",
+        "name": "Balusu"
+      }
+    },
+    {
+      "id": "73.26.10.2006",
+      "name": "Awa' Kawasik",
+      "postal_code": "91855",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.26",
+        "name": "Kabupaten Toraja Utara"
+      },
+      "district": {
+        "id": "73.26.10",
+        "name": "Balusu"
+      }
+    },
+    {
+      "id": "73.26.10.2007",
+      "name": "Balusu Bangunlipu",
+      "postal_code": "91855",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.26",
+        "name": "Kabupaten Toraja Utara"
+      },
+      "district": {
+        "id": "73.26.10",
+        "name": "Balusu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": "96.04.08.2001",
+      "name": "Mega",
+      "postal_code": "98447",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.04",
+        "name": "Kabupaten Tambrauw"
+      },
+      "district": {
+        "id": "96.04.08",
+        "name": "Moraid"
+      }
+    },
+    {
+      "id": "96.04.08.2002",
+      "name": "Selewok",
+      "postal_code": "98447",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.04",
+        "name": "Kabupaten Tambrauw"
+      },
+      "district": {
+        "id": "96.04.08",
+        "name": "Moraid"
+      }
+    },
+    {
+      "id": "96.04.08.2003",
+      "name": "Malaworsai",
+      "postal_code": "98447",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.04",
+        "name": "Kabupaten Tambrauw"
+      },
+      "district": {
+        "id": "96.04.08",
+        "name": "Moraid"
+      }
+    },
+    {
+      "id": "96.04.08.2004",
+      "name": "Kwade",
+      "postal_code": "98447",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.04",
+        "name": "Kabupaten Tambrauw"
+      },
+      "district": {
+        "id": "96.04.08",
+        "name": "Moraid"
+      }
+    },
+    {
+      "id": "96.04.08.2005",
+      "name": "Bonem",
+      "postal_code": "98447",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.04",
+        "name": "Kabupaten Tambrauw"
+      },
+      "district": {
+        "id": "96.04.08",
+        "name": "Moraid"
+      }
+    },
+    {
+      "id": "96.04.08.2006",
+      "name": "Warafor",
+      "postal_code": "98447",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.04",
+        "name": "Kabupaten Tambrauw"
+      },
+      "district": {
+        "id": "96.04.08",
+        "name": "Moraid"
+      }
+    },
+    {
+      "id": "96.04.08.2007",
+      "name": "Warmasi",
+      "postal_code": "98447",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.04",
+        "name": "Kabupaten Tambrauw"
+      },
+      "district": {
+        "id": "96.04.08",
+        "name": "Moraid"
+      }
+    },
+    {
+      "id": "96.04.08.2008",
+      "name": "Warmanen",
+      "postal_code": "98447",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.04",
+        "name": "Kabupaten Tambrauw"
+      },
+      "district": {
+        "id": "96.04.08",
+        "name": "Moraid"
+      }
+    },
+    {
+      "id": "96.04.08.2009",
+      "name": "Namuas",
+      "postal_code": "98447",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.04",
+        "name": "Kabupaten Tambrauw"
+      },
+      "district": {
+        "id": "96.04.08",
+        "name": "Moraid"
+      }
+    },
+    {
+      "id": "96.04.29.2001",
+      "name": "Della",
+      "postal_code": "98447",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.04",
+        "name": "Kabupaten Tambrauw"
+      },
+      "district": {
+        "id": "96.04.29",
+        "name": "Selemkai"
+      }
+    },
+    {
+      "id": "96.04.29.2002",
+      "name": "Malayauw",
+      "postal_code": "98447",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.04",
+        "name": "Kabupaten Tambrauw"
+      },
+      "district": {
+        "id": "96.04.29",
+        "name": "Selemkai"
+      }
+    },
+    {
+      "id": "96.04.29.2003",
+      "name": "Klasbon",
+      "postal_code": "98447",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.04",
+        "name": "Kabupaten Tambrauw"
+      },
+      "district": {
+        "id": "96.04.29",
+        "name": "Selemkai"
+      }
+    },
+    {
+      "id": "96.04.29.2004",
+      "name": "Klasei",
+      "postal_code": "98447",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.04",
+        "name": "Kabupaten Tambrauw"
+      },
+      "district": {
+        "id": "96.04.29",
+        "name": "Selemkai"
+      }
+    },
+    {
+      "id": "96.04.29.2005",
+      "name": "Klabili",
+      "postal_code": "98447",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.04",
+        "name": "Kabupaten Tambrauw"
+      },
+      "district": {
+        "id": "96.04.29",
+        "name": "Selemkai"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

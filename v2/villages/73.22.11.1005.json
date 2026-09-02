@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.22.11.1005",
+    "name": "Salassa",
+    "postal_code": "92965",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.22",
+      "name": "Kabupaten Luwu Utara"
+    },
+    "district": {
+      "id": "73.22.11",
+      "name": "Baebunta"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

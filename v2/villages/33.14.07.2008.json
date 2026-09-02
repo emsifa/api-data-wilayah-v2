@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.14.07.2008",
+    "name": "Banaran",
+    "postal_code": "57253",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.14",
+      "name": "Kabupaten Sragen"
+    },
+    "district": {
+      "id": "33.14.07",
+      "name": "Sambungmacan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.08.17.2004",
+    "name": "Wanduama",
+    "postal_code": "99941",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.08",
+      "name": "Kabupaten Nduga"
+    },
+    "district": {
+      "id": "95.08.17",
+      "name": "Mam"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

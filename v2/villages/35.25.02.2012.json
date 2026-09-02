@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.25.02.2012",
+    "name": "Tenggor",
+    "postal_code": "61173",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.25",
+      "name": "Kabupaten Gresik"
+    },
+    "district": {
+      "id": "35.25.02",
+      "name": "Balongpanggang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

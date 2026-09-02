@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.16.21.2002",
+    "name": "Sirnajaya",
+    "postal_code": "17330",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.16",
+      "name": "Kabupaten Bekasi"
+    },
+    "district": {
+      "id": "32.16.21",
+      "name": "Serang Baru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

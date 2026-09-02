@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.03.10.2008",
+    "name": "Bebalang",
+    "postal_code": "95854",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.03",
+      "name": "Kabupaten Kepulauan Sangihe"
+    },
+    "district": {
+      "id": "71.03.10",
+      "name": "Manganitu Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

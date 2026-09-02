@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.05.05.2011",
+    "name": "Cempaka Putih",
+    "postal_code": "96524",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.05",
+      "name": "Kabupaten Gorontalo Utara"
+    },
+    "district": {
+      "id": "75.05.05",
+      "name": "Tolinggula"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

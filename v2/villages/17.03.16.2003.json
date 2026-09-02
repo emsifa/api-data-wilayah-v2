@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.03.16.2003",
+    "name": "Pasar Kerkap",
+    "postal_code": "38373",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.03",
+      "name": "Kabupaten Bengkulu Utara"
+    },
+    "district": {
+      "id": "17.03.16",
+      "name": "Air Napal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

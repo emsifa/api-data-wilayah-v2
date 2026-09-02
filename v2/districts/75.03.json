@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "75.03",
+    "name": "Kabupaten Bone Bolango",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.03",
+      "name": "Kabupaten Bone Bolango"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

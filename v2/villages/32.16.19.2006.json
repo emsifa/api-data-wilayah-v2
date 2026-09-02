@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.16.19.2006",
+    "name": "Serang",
+    "postal_code": "17532",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.16",
+      "name": "Kabupaten Bekasi"
+    },
+    "district": {
+      "id": "32.16.19",
+      "name": "Cikarang Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

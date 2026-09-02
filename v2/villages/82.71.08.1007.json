@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.71.08.1007",
+    "name": "Kulaba",
+    "postal_code": "97747",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.71",
+      "name": "Kota Ternate"
+    },
+    "district": {
+      "id": "82.71.08",
+      "name": "Ternate Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

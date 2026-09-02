@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.04.10.2012",
+    "name": "Kute Gelime",
+    "postal_code": "24566",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.04",
+      "name": "Kabupaten Aceh Tengah"
+    },
+    "district": {
+      "id": "11.04.10",
+      "name": "Ketol"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

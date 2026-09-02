@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.08.13.2011",
+    "name": "Marihat Marsada",
+    "postal_code": "21173",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.08",
+      "name": "Kabupaten Simalungun"
+    },
+    "district": {
+      "id": "12.08.13",
+      "name": "Dolok Panribuan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

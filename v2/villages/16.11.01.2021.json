@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.11.01.2021",
+    "name": "Seleman Ulu",
+    "postal_code": "31592",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.11",
+      "name": "Kabupaten Empat Lawang"
+    },
+    "district": {
+      "id": "16.11.01",
+      "name": "Muara Pinang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

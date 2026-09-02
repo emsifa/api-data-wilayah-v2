@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.06.08.2008",
+    "name": "Kuta Bangun",
+    "postal_code": "22162",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.06",
+      "name": "Kabupaten Karo"
+    },
+    "district": {
+      "id": "12.06.08",
+      "name": "Tigabinanga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

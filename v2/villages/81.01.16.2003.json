@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.01.16.2003",
+    "name": "Abubu",
+    "postal_code": "97518",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.01",
+      "name": "Kabupaten Maluku Tengah"
+    },
+    "district": {
+      "id": "81.01.16",
+      "name": "Nusa Laut"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

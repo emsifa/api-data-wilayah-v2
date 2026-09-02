@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "73.26.01.1006",
+      "name": "Singki'",
+      "postal_code": "91835",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.26",
+        "name": "Kabupaten Toraja Utara"
+      },
+      "district": {
+        "id": "73.26.01",
+        "name": "Rantepao"
+      }
+    },
+    {
+      "id": "73.26.01.1007",
+      "name": "Karassik",
+      "postal_code": "91835",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.26",
+        "name": "Kabupaten Toraja Utara"
+      },
+      "district": {
+        "id": "73.26.01",
+        "name": "Rantepao"
+      }
+    },
+    {
+      "id": "73.26.01.1008",
+      "name": "Penanian",
+      "postal_code": "91835",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.26",
+        "name": "Kabupaten Toraja Utara"
+      },
+      "district": {
+        "id": "73.26.01",
+        "name": "Rantepao"
+      }
+    },
+    {
+      "id": "73.26.01.1009",
+      "name": "Rante Pasele",
+      "postal_code": "91835",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.26",
+        "name": "Kabupaten Toraja Utara"
+      },
+      "district": {
+        "id": "73.26.01",
+        "name": "Rantepao"
+      }
+    },
+    {
+      "id": "73.26.01.2010",
+      "name": "Limbong",
+      "postal_code": "91835",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.26",
+        "name": "Kabupaten Toraja Utara"
+      },
+      "district": {
+        "id": "73.26.01",
+        "name": "Rantepao"
+      }
+    },
+    {
+      "id": "73.26.01.2011",
+      "name": "Saloso",
+      "postal_code": "91835",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.26",
+        "name": "Kabupaten Toraja Utara"
+      },
+      "district": {
+        "id": "73.26.01",
+        "name": "Rantepao"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

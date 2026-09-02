@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.04.04.2014",
+    "name": "Terentang Baru",
+    "postal_code": "36656",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.04",
+      "name": "Kabupaten Batanghari"
+    },
+    "district": {
+      "id": "15.04.04",
+      "name": "Batin XXIV"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

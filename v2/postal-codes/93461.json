@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "74.02.32.1001",
+      "name": "Bungguosu",
+      "postal_code": "93461",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.02",
+        "name": "Kabupaten Konawe"
+      },
+      "district": {
+        "id": "74.02.32",
+        "name": "Konawe"
+      }
+    },
+    {
+      "id": "74.02.32.1002",
+      "name": "Tudaone",
+      "postal_code": "93461",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.02",
+        "name": "Kabupaten Konawe"
+      },
+      "district": {
+        "id": "74.02.32",
+        "name": "Konawe"
+      }
+    },
+    {
+      "id": "74.02.32.1003",
+      "name": "Konawe",
+      "postal_code": "93461",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.02",
+        "name": "Kabupaten Konawe"
+      },
+      "district": {
+        "id": "74.02.32",
+        "name": "Konawe"
+      }
+    },
+    {
+      "id": "74.02.32.1004",
+      "name": "Tawanga",
+      "postal_code": "93461",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.02",
+        "name": "Kabupaten Konawe"
+      },
+      "district": {
+        "id": "74.02.32",
+        "name": "Konawe"
+      }
+    },
+    {
+      "id": "74.02.32.2005",
+      "name": "Sanggona",
+      "postal_code": "93461",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.02",
+        "name": "Kabupaten Konawe"
+      },
+      "district": {
+        "id": "74.02.32",
+        "name": "Konawe"
+      }
+    },
+    {
+      "id": "74.02.32.2006",
+      "name": "Uelawu",
+      "postal_code": "93461",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.02",
+        "name": "Kabupaten Konawe"
+      },
+      "district": {
+        "id": "74.02.32",
+        "name": "Konawe"
+      }
+    },
+    {
+      "id": "74.02.32.2007",
+      "name": "Mokowu",
+      "postal_code": "93461",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.02",
+        "name": "Kabupaten Konawe"
+      },
+      "district": {
+        "id": "74.02.32",
+        "name": "Konawe"
+      }
+    },
+    {
+      "id": "74.02.32.2008",
+      "name": "Uete",
+      "postal_code": "93461",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.02",
+        "name": "Kabupaten Konawe"
+      },
+      "district": {
+        "id": "74.02.32",
+        "name": "Konawe"
+      }
+    },
+    {
+      "id": "74.02.32.2009",
+      "name": "Hudoa",
+      "postal_code": "93461",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.02",
+        "name": "Kabupaten Konawe"
+      },
+      "district": {
+        "id": "74.02.32",
+        "name": "Konawe"
+      }
+    },
+    {
+      "id": "74.02.32.2010",
+      "name": "Wonua Mbae",
+      "postal_code": "93461",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.02",
+        "name": "Kabupaten Konawe"
+      },
+      "district": {
+        "id": "74.02.32",
+        "name": "Konawe"
+      }
+    },
+    {
+      "id": "74.02.32.2011",
+      "name": "Asoniwowo",
+      "postal_code": "93461",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.02",
+        "name": "Kabupaten Konawe"
+      },
+      "district": {
+        "id": "74.02.32",
+        "name": "Konawe"
+      }
+    },
+    {
+      "id": "74.02.32.2012",
+      "name": "Puuwonua",
+      "postal_code": "93461",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.02",
+        "name": "Kabupaten Konawe"
+      },
+      "district": {
+        "id": "74.02.32",
+        "name": "Konawe"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

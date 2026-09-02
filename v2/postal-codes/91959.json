@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "73.73.03.1002",
+      "name": "Songka",
+      "postal_code": "91959",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.73",
+        "name": "Kota Palopo"
+      },
+      "district": {
+        "id": "73.73.03",
+        "name": "Wara Selatan"
+      }
+    },
+    {
+      "id": "73.73.03.1006",
+      "name": "Sampoddo",
+      "postal_code": "91959",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.73",
+        "name": "Kota Palopo"
+      },
+      "district": {
+        "id": "73.73.03",
+        "name": "Wara Selatan"
+      }
+    },
+    {
+      "id": "73.73.03.1007",
+      "name": "Binturu",
+      "postal_code": "91959",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.73",
+        "name": "Kota Palopo"
+      },
+      "district": {
+        "id": "73.73.03",
+        "name": "Wara Selatan"
+      }
+    },
+    {
+      "id": "73.73.07.1002",
+      "name": "Purangi",
+      "postal_code": "91959",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.73",
+        "name": "Kota Palopo"
+      },
+      "district": {
+        "id": "73.73.07",
+        "name": "Sendana"
+      }
+    },
+    {
+      "id": "73.73.07.1003",
+      "name": "Peta",
+      "postal_code": "91959",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.73",
+        "name": "Kota Palopo"
+      },
+      "district": {
+        "id": "73.73.07",
+        "name": "Sendana"
+      }
+    },
+    {
+      "id": "73.73.07.1004",
+      "name": "Sendana",
+      "postal_code": "91959",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.73",
+        "name": "Kota Palopo"
+      },
+      "district": {
+        "id": "73.73.07",
+        "name": "Sendana"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

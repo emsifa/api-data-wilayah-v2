@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.03.10.2001",
+    "name": "Tanjung Pala",
+    "postal_code": "29789",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.03",
+      "name": "Kabupaten Natuna"
+    },
+    "district": {
+      "id": "21.03.10",
+      "name": "Pulau Laut"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

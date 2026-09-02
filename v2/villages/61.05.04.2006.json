@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.05.04.2006",
+    "name": "Nanga Merkak",
+    "postal_code": "78652",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.05",
+      "name": "Kabupaten Sintang"
+    },
+    "district": {
+      "id": "61.05.04",
+      "name": "Ketungau Hilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

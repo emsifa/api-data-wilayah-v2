@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.01.03.2008",
+    "name": "Mantren",
+    "postal_code": "63553",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.01",
+      "name": "Kabupaten Pacitan"
+    },
+    "district": {
+      "id": "35.01.03",
+      "name": "Punung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

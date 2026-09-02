@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.13.14.2002",
+    "name": "Aek Manyuruk",
+    "postal_code": "22982",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.13",
+      "name": "Kabupaten Mandailing Natal"
+    },
+    "district": {
+      "id": "12.13.14",
+      "name": "Lingga Bayu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

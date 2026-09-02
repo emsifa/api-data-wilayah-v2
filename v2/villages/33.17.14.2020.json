@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.17.14.2020",
+    "name": "Binangun",
+    "postal_code": "59271",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.17",
+      "name": "Kabupaten Rembang"
+    },
+    "district": {
+      "id": "33.17.14",
+      "name": "Lasem"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

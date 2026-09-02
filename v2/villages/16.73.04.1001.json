@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.73.04.1001",
+    "name": "Durian Rampak",
+    "postal_code": "31619",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.73",
+      "name": "Kota Lubuk Linggau"
+    },
+    "district": {
+      "id": "16.73.04",
+      "name": "Lubuk Linggau Utara I"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

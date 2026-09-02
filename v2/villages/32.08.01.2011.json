@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.08.01.2011",
+    "name": "Cisukadana",
+    "postal_code": "45561",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.08",
+      "name": "Kabupaten Kuningan"
+    },
+    "district": {
+      "id": "32.08.01",
+      "name": "Kadugede"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

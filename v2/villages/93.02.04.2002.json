@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.02.04.2002",
+    "name": "Jair",
+    "postal_code": "99665",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.02",
+      "name": "Kabupaten Boven Digoel"
+    },
+    "district": {
+      "id": "93.02.04",
+      "name": "Kouh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

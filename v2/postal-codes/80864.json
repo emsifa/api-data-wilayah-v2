@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "51.07.02.2001",
+      "name": "Tangkup",
+      "postal_code": "80864",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.02",
+        "name": "Sidemen"
+      }
+    },
+    {
+      "id": "51.07.02.2002",
+      "name": "Talibeng",
+      "postal_code": "80864",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.02",
+        "name": "Sidemen"
+      }
+    },
+    {
+      "id": "51.07.02.2003",
+      "name": "Sidemen",
+      "postal_code": "80864",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.02",
+        "name": "Sidemen"
+      }
+    },
+    {
+      "id": "51.07.02.2004",
+      "name": "Sangkan Gunung",
+      "postal_code": "80864",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.02",
+        "name": "Sidemen"
+      }
+    },
+    {
+      "id": "51.07.02.2005",
+      "name": "Telagatawang",
+      "postal_code": "80864",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.02",
+        "name": "Sidemen"
+      }
+    },
+    {
+      "id": "51.07.02.2006",
+      "name": "Sinduwati",
+      "postal_code": "80864",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.02",
+        "name": "Sidemen"
+      }
+    },
+    {
+      "id": "51.07.02.2007",
+      "name": "Tri Eka Buana",
+      "postal_code": "80864",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.02",
+        "name": "Sidemen"
+      }
+    },
+    {
+      "id": "51.07.02.2008",
+      "name": "Kertha Buana",
+      "postal_code": "80864",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.02",
+        "name": "Sidemen"
+      }
+    },
+    {
+      "id": "51.07.02.2009",
+      "name": "Lokasari",
+      "postal_code": "80864",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.02",
+        "name": "Sidemen"
+      }
+    },
+    {
+      "id": "51.07.02.2010",
+      "name": "Wisma Kerta",
+      "postal_code": "80864",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.02",
+        "name": "Sidemen"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

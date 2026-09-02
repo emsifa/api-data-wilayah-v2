@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "64",
+    "name": "Kalimantan Timur",
+    "capital": "Samarinda",
+    "lat": -0.500805988208827,
+    "lng": 117.13935225749547,
+    "elv": 5,
+    "tz": 8,
+    "population": 4123303,
+    "total_area": 126951.758,
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.02.02.1031",
+    "name": "Tabalu",
+    "postal_code": "94652",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.02",
+      "name": "Kabupaten Poso"
+    },
+    "district": {
+      "id": "72.02.02",
+      "name": "Poso Pesisir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.72.01.1011",
+    "name": "Dorbolaang",
+    "postal_code": "95551",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.72",
+      "name": "Kota Bitung"
+    },
+    "district": {
+      "id": "71.72.01",
+      "name": "Lembeh Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

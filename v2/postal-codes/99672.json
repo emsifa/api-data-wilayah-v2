@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "93.02.06.2001",
+      "name": "Bomakia I",
+      "postal_code": "99672",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.02",
+        "name": "Kabupaten Boven Digoel"
+      },
+      "district": {
+        "id": "93.02.06",
+        "name": "Bomakia"
+      }
+    },
+    {
+      "id": "93.02.06.2002",
+      "name": "Bomakia II",
+      "postal_code": "99672",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.02",
+        "name": "Kabupaten Boven Digoel"
+      },
+      "district": {
+        "id": "93.02.06",
+        "name": "Bomakia"
+      }
+    },
+    {
+      "id": "93.02.06.2003",
+      "name": "Somi",
+      "postal_code": "99672",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.02",
+        "name": "Kabupaten Boven Digoel"
+      },
+      "district": {
+        "id": "93.02.06",
+        "name": "Bomakia"
+      }
+    },
+    {
+      "id": "93.02.06.2004",
+      "name": "Aifa",
+      "postal_code": "99672",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.02",
+        "name": "Kabupaten Boven Digoel"
+      },
+      "district": {
+        "id": "93.02.06",
+        "name": "Bomakia"
+      }
+    },
+    {
+      "id": "93.02.06.2005",
+      "name": "Uni",
+      "postal_code": "99672",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.02",
+        "name": "Kabupaten Boven Digoel"
+      },
+      "district": {
+        "id": "93.02.06",
+        "name": "Bomakia"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.17.09.2017",
+    "name": "Dresi Kulon",
+    "postal_code": "59252",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.17",
+      "name": "Kabupaten Rembang"
+    },
+    "district": {
+      "id": "33.17.09",
+      "name": "Kaliori"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

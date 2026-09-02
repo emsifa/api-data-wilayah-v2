@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "73.11.05.1001",
+      "name": "Palanro",
+      "postal_code": "90753",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.11",
+        "name": "Kabupaten Barru"
+      },
+      "district": {
+        "id": "73.11.05",
+        "name": "Mallusetasi"
+      }
+    },
+    {
+      "id": "73.11.05.1003",
+      "name": "Bojo Baru",
+      "postal_code": "90753",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.11",
+        "name": "Kabupaten Barru"
+      },
+      "district": {
+        "id": "73.11.05",
+        "name": "Mallusetasi"
+      }
+    },
+    {
+      "id": "73.11.05.2004",
+      "name": "Cilellang",
+      "postal_code": "90753",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.11",
+        "name": "Kabupaten Barru"
+      },
+      "district": {
+        "id": "73.11.05",
+        "name": "Mallusetasi"
+      }
+    },
+    {
+      "id": "73.11.05.2005",
+      "name": "Manuba",
+      "postal_code": "90753",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.11",
+        "name": "Kabupaten Barru"
+      },
+      "district": {
+        "id": "73.11.05",
+        "name": "Mallusetasi"
+      }
+    },
+    {
+      "id": "73.11.05.2006",
+      "name": "Nepo",
+      "postal_code": "90753",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.11",
+        "name": "Kabupaten Barru"
+      },
+      "district": {
+        "id": "73.11.05",
+        "name": "Mallusetasi"
+      }
+    },
+    {
+      "id": "73.11.05.2007",
+      "name": "Kupa",
+      "postal_code": "90753",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.11",
+        "name": "Kabupaten Barru"
+      },
+      "district": {
+        "id": "73.11.05",
+        "name": "Mallusetasi"
+      }
+    },
+    {
+      "id": "73.11.05.2008",
+      "name": "Bojo",
+      "postal_code": "90753",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.11",
+        "name": "Kabupaten Barru"
+      },
+      "district": {
+        "id": "73.11.05",
+        "name": "Mallusetasi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

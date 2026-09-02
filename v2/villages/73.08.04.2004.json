@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.08.04.2004",
+    "name": "Ulubalang",
+    "postal_code": "92775",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.08",
+      "name": "Kabupaten Bone"
+    },
+    "district": {
+      "id": "73.08.04",
+      "name": "Salomekko"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

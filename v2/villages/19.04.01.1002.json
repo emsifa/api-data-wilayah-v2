@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "19.04.01.1002",
+    "name": "Arung Dalam",
+    "postal_code": "33681",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.04",
+      "name": "Kabupaten Bangka Tengah"
+    },
+    "district": {
+      "id": "19.04.01",
+      "name": "Koba"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

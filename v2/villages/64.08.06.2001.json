@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.08.06.2001",
+    "name": "Long Bentuq",
+    "postal_code": "75556",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.08",
+      "name": "Kabupaten Kutai Timur"
+    },
+    "district": {
+      "id": "64.08.06",
+      "name": "Busang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

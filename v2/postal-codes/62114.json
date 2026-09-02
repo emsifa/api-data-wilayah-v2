@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "35.22.15.1001",
+      "name": "Jetak",
+      "postal_code": "62114",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.22",
+        "name": "Kabupaten Bojonegoro"
+      },
+      "district": {
+        "id": "35.22.15",
+        "name": "Bojonegoro"
+      }
+    },
+    {
+      "id": "35.22.15.2002",
+      "name": "Pacul",
+      "postal_code": "62114",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.22",
+        "name": "Kabupaten Bojonegoro"
+      },
+      "district": {
+        "id": "35.22.15",
+        "name": "Bojonegoro"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

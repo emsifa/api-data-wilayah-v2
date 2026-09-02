@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.04.10.2003",
+    "name": "Yipawer",
+    "postal_code": "99780",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.04",
+      "name": "Kabupaten Asmat"
+    },
+    "district": {
+      "id": "93.04.10",
+      "name": "Unir Sirau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

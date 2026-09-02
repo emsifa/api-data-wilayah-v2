@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.71.01.1001",
+    "name": "Pagar Dewa",
+    "postal_code": "38211",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.71",
+      "name": "Kota Bengkulu"
+    },
+    "district": {
+      "id": "17.71.01",
+      "name": "Selebar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

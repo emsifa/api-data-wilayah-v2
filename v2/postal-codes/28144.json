@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "14.71.04.1003",
+      "name": "Pesisir",
+      "postal_code": "28144",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.71",
+        "name": "Kota Pekanbaru"
+      },
+      "district": {
+        "id": "14.71.04",
+        "name": "Limapuluh"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

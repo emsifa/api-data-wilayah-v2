@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.09.02.2010",
+    "name": "Waemasing",
+    "postal_code": "97545",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.09",
+      "name": "Kabupaten Buru Selatan"
+    },
+    "district": {
+      "id": "81.09.02",
+      "name": "Waesama"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

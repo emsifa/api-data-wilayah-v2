@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.08.07.2004",
+    "name": "Long Segar",
+    "postal_code": "75554",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.08",
+      "name": "Kabupaten Kutai Timur"
+    },
+    "district": {
+      "id": "64.08.07",
+      "name": "Telen"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": [
+    {
+      "id": "32.05.06.2001",
+      "name": "Banyuresmi",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    },
+    {
+      "id": "32.05.06.2002",
+      "name": "Cimareme",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    },
+    {
+      "id": "32.05.06.2003",
+      "name": "Sukaratu",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    },
+    {
+      "id": "32.05.06.2004",
+      "name": "Sukasenang",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    },
+    {
+      "id": "32.05.06.2005",
+      "name": "Sukaraja",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    },
+    {
+      "id": "32.05.06.2006",
+      "name": "Cipicung",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    },
+    {
+      "id": "32.05.06.2007",
+      "name": "Dangdeur",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    },
+    {
+      "id": "32.05.06.2008",
+      "name": "Sukakarya",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    },
+    {
+      "id": "32.05.06.2009",
+      "name": "Pamekarsari",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    },
+    {
+      "id": "32.05.06.2010",
+      "name": "Binakarya",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    },
+    {
+      "id": "32.05.06.2011",
+      "name": "Bagendit",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    },
+    {
+      "id": "32.05.06.2012",
+      "name": "Karyamukti",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    },
+    {
+      "id": "32.05.06.2013",
+      "name": "Karyasari",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    },
+    {
+      "id": "32.05.06.2014",
+      "name": "Sukamukti",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    },
+    {
+      "id": "32.05.06.2015",
+      "name": "Sukalaksana",
+      "postal_code": "44191",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.05",
+        "name": "Kabupaten Garut"
+      },
+      "district": {
+        "id": "32.05.06",
+        "name": "Banyuresmi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.07.15.2011",
+    "name": "Jangalaharja",
+    "postal_code": "46387",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.07",
+      "name": "Kabupaten Ciamis"
+    },
+    "district": {
+      "id": "32.07.15",
+      "name": "Rancah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "31.73.07.1005",
+    "name": "Kemanggisan",
+    "postal_code": "11480",
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    },
+    "regency": {
+      "id": "31.73",
+      "name": "Kota Administrasi Jakarta Barat"
+    },
+    "district": {
+      "id": "31.73.07",
+      "name": "Pal Merah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

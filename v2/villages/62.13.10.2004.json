@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.13.10.2004",
+    "name": "Lagan",
+    "postal_code": "73650",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.13",
+      "name": "Kabupaten Barito Timur"
+    },
+    "district": {
+      "id": "62.13.10",
+      "name": "Karusen Janang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

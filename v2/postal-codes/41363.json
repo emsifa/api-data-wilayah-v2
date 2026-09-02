@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "32.15.04.2001",
+      "name": "Kutapohaci",
+      "postal_code": "41363",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.04",
+        "name": "Ciampel"
+      }
+    },
+    {
+      "id": "32.15.04.2003",
+      "name": "Parungmulya",
+      "postal_code": "41363",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.04",
+        "name": "Ciampel"
+      }
+    },
+    {
+      "id": "32.15.04.2004",
+      "name": "Kutamekar",
+      "postal_code": "41363",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.04",
+        "name": "Ciampel"
+      }
+    },
+    {
+      "id": "32.15.04.2005",
+      "name": "Kutanegara",
+      "postal_code": "41363",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.04",
+        "name": "Ciampel"
+      }
+    },
+    {
+      "id": "32.15.04.2006",
+      "name": "Mulyasari",
+      "postal_code": "41363",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.04",
+        "name": "Ciampel"
+      }
+    },
+    {
+      "id": "32.15.04.2007",
+      "name": "Mulyasejati",
+      "postal_code": "41363",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.04",
+        "name": "Ciampel"
+      }
+    },
+    {
+      "id": "32.15.04.2008",
+      "name": "Tegallega",
+      "postal_code": "41363",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "district": {
+        "id": "32.15.04",
+        "name": "Ciampel"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

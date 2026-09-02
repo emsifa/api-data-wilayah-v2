@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.18.10.2024",
+    "name": "Rubun Dunia",
+    "postal_code": "20982",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.18",
+      "name": "Kabupaten Serdang Bedagai"
+    },
+    "district": {
+      "id": "12.18.10",
+      "name": "Kotarih"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

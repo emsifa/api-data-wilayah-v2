@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.01.11.2015",
+    "name": "Wonodadi Kulon",
+    "postal_code": "63572",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.01",
+      "name": "Kabupaten Pacitan"
+    },
+    "district": {
+      "id": "35.01.11",
+      "name": "Ngadirojo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

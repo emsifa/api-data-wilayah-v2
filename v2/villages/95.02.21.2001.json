@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.02.21.2001",
+    "name": "Okma",
+    "postal_code": "99426",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.02",
+      "name": "Kabupaten Pegunungan Bintang"
+    },
+    "district": {
+      "id": "95.02.21",
+      "name": "Oksamol"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "95.02.19.2001",
+      "name": "Tarup",
+      "postal_code": "99434",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.19",
+        "name": "Tarup"
+      }
+    },
+    {
+      "id": "95.02.19.2002",
+      "name": "Marang Tiking",
+      "postal_code": "99434",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.19",
+        "name": "Tarup"
+      }
+    },
+    {
+      "id": "95.02.19.2003",
+      "name": "Imsin",
+      "postal_code": "99434",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.19",
+        "name": "Tarup"
+      }
+    },
+    {
+      "id": "95.02.19.2004",
+      "name": "Bitipding",
+      "postal_code": "99434",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.19",
+        "name": "Tarup"
+      }
+    },
+    {
+      "id": "95.02.19.2005",
+      "name": "Onkor",
+      "postal_code": "99434",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.19",
+        "name": "Tarup"
+      }
+    },
+    {
+      "id": "95.02.19.2006",
+      "name": "Beten Dua",
+      "postal_code": "99434",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.19",
+        "name": "Tarup"
+      }
+    },
+    {
+      "id": "95.02.19.2007",
+      "name": "Omor",
+      "postal_code": "99434",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.02",
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "district": {
+        "id": "95.02.19",
+        "name": "Tarup"
+      }
+    },
+    {
+      "id": "95.04.22.2010",
+      "name": "Tioner",
+      "postal_code": "99434",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.22",
+        "name": "Timori"
+      }
+    },
+    {
+      "id": "95.04.22.2012",
+      "name": "Bawi",
+      "postal_code": "99434",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.22",
+        "name": "Timori"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

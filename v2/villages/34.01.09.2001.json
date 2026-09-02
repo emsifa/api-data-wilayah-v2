@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.01.09.2001",
+    "name": "Jatimulyo",
+    "postal_code": "55674",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.01",
+      "name": "Kabupaten Kulon Progo"
+    },
+    "district": {
+      "id": "34.01.09",
+      "name": "Girimulyo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

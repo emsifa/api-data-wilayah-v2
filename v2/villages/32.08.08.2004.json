@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.08.08.2004",
+    "name": "Sukaimut",
+    "postal_code": "45571",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.08",
+      "name": "Kabupaten Kuningan"
+    },
+    "district": {
+      "id": "32.08.08",
+      "name": "Garawangi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.02.01.2002",
+    "name": "Wanagiri",
+    "postal_code": "82164",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.02",
+      "name": "Kabupaten Tabanan"
+    },
+    "district": {
+      "id": "51.02.01",
+      "name": "Selemadeg"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

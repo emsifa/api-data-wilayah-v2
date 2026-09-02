@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.04.23.2009",
+    "name": "Nakwi",
+    "postal_code": "99052",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.04",
+      "name": "Kabupaten Tolikara"
+    },
+    "district": {
+      "id": "95.04.23",
+      "name": "Dundu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

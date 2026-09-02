@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.71.03.1004",
+    "name": "Cakranegara Selatan",
+    "postal_code": "83239",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.71",
+      "name": "Kota Mataram"
+    },
+    "district": {
+      "id": "52.71.03",
+      "name": "Cakranegara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

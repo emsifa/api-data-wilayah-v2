@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.11.05.2009",
+    "name": "Suka Rami",
+    "postal_code": "31593",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.11",
+      "name": "Kabupaten Empat Lawang"
+    },
+    "district": {
+      "id": "16.11.05",
+      "name": "Lintang Kanan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

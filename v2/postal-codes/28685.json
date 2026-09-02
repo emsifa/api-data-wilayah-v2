@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "14.08.03.1001",
+      "name": "Minas Jaya",
+      "postal_code": "28685",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.08",
+        "name": "Kabupaten Siak"
+      },
+      "district": {
+        "id": "14.08.03",
+        "name": "Minas"
+      }
+    },
+    {
+      "id": "14.08.03.2002",
+      "name": "Minas Timur",
+      "postal_code": "28685",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.08",
+        "name": "Kabupaten Siak"
+      },
+      "district": {
+        "id": "14.08.03",
+        "name": "Minas"
+      }
+    },
+    {
+      "id": "14.08.03.2003",
+      "name": "Minas Barat",
+      "postal_code": "28685",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.08",
+        "name": "Kabupaten Siak"
+      },
+      "district": {
+        "id": "14.08.03",
+        "name": "Minas"
+      }
+    },
+    {
+      "id": "14.08.03.2004",
+      "name": "Mandi Angin",
+      "postal_code": "28685",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.08",
+        "name": "Kabupaten Siak"
+      },
+      "district": {
+        "id": "14.08.03",
+        "name": "Minas"
+      }
+    },
+    {
+      "id": "14.08.03.2005",
+      "name": "Rantau Bertuah",
+      "postal_code": "28685",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.08",
+        "name": "Kabupaten Siak"
+      },
+      "district": {
+        "id": "14.08.03",
+        "name": "Minas"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

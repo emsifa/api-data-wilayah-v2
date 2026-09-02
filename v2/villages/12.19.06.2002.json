@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.19.06.2002",
+    "name": "Guntung",
+    "postal_code": "21253",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.19",
+      "name": "Kabupaten Batu Bara"
+    },
+    "district": {
+      "id": "12.19.06",
+      "name": "Tanjung Tiram"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

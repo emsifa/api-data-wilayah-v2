@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.03.26.2005",
+    "name": "Sukamulya",
+    "postal_code": "43286",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.03",
+      "name": "Kabupaten Cianjur"
+    },
+    "district": {
+      "id": "32.03.26",
+      "name": "Cikadu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

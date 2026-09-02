@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "73.10.02.1001",
+      "name": "Kalu-Kalukuang",
+      "postal_code": "90672",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.02",
+        "name": "Liukang Kalmas"
+      }
+    },
+    {
+      "id": "73.10.02.2002",
+      "name": "Pammas",
+      "postal_code": "90672",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.02",
+        "name": "Liukang Kalmas"
+      }
+    },
+    {
+      "id": "73.10.02.2003",
+      "name": "Sabaru",
+      "postal_code": "90672",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.02",
+        "name": "Liukang Kalmas"
+      }
+    },
+    {
+      "id": "73.10.02.2004",
+      "name": "Kanyurang",
+      "postal_code": "90672",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.02",
+        "name": "Liukang Kalmas"
+      }
+    },
+    {
+      "id": "73.10.02.2005",
+      "name": "Doang-Doangan Lompo",
+      "postal_code": "90672",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.02",
+        "name": "Liukang Kalmas"
+      }
+    },
+    {
+      "id": "73.10.02.2006",
+      "name": "Marasende",
+      "postal_code": "90672",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.02",
+        "name": "Liukang Kalmas"
+      }
+    },
+    {
+      "id": "73.10.02.2007",
+      "name": "Dewakang",
+      "postal_code": "90672",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.02",
+        "name": "Liukang Kalmas"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

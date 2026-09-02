@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.11.05.2003",
+    "name": "Pajagan",
+    "postal_code": "45363",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.11",
+      "name": "Kabupaten Sumedang"
+    },
+    "district": {
+      "id": "32.11.05",
+      "name": "Cisitu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

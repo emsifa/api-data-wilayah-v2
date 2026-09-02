@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.08.06.2003",
+    "name": "Dobopem",
+    "postal_code": "99546",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.08",
+      "name": "Kabupaten Nduga"
+    },
+    "district": {
+      "id": "95.08.06",
+      "name": "Mugi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

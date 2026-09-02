@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.11.05.2009",
+    "name": "Kusambi Hulu",
+    "postal_code": "71661",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.11",
+      "name": "Kabupaten Balangan"
+    },
+    "district": {
+      "id": "63.11.05",
+      "name": "Lampihong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

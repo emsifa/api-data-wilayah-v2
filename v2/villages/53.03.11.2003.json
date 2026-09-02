@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.03.11.2003",
+    "name": "Bijaepasu",
+    "postal_code": "85660",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.03",
+      "name": "Kabupaten Timor Tengah Utara"
+    },
+    "district": {
+      "id": "53.03.11",
+      "name": "Miomaffo Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

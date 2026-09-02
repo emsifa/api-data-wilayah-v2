@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.05.09.2003",
+    "name": "Sunggak",
+    "postal_code": "29792",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.05",
+      "name": "Kabupaten Kepulauan Anambas"
+    },
+    "district": {
+      "id": "21.05.09",
+      "name": "Jemaja Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

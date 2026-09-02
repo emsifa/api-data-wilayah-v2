@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.02.03.2006",
+    "name": "Lumbung Kauh",
+    "postal_code": "82162",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.02",
+      "name": "Kabupaten Tabanan"
+    },
+    "district": {
+      "id": "51.02.03",
+      "name": "Selemadeg Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

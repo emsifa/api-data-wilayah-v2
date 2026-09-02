@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.03.04.2006",
+    "name": "Pangsan",
+    "postal_code": "80353",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.03",
+      "name": "Kabupaten Badung"
+    },
+    "district": {
+      "id": "51.03.04",
+      "name": "Petang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

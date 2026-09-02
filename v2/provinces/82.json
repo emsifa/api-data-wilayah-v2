@@ -1,0 +1,17 @@
+{
+  "data": {
+    "id": "82",
+    "name": "Maluku Utara",
+    "capital": "Sofifi",
+    "lat": 0.7558581433769408,
+    "lng": 127.60980236944843,
+    "elv": 103,
+    "tz": 9,
+    "population": 1394231,
+    "total_area": 31465.977
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 1
+  }
+}

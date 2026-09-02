@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.02.08.2003",
+    "name": "Tarailu",
+    "postal_code": "91563",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.02",
+      "name": "Kabupaten Mamuju"
+    },
+    "district": {
+      "id": "76.02.08",
+      "name": "Sampaga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.14.03.2042",
+    "name": "Mogae",
+    "postal_code": "22874",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.14",
+      "name": "Kabupaten Nias Selatan"
+    },
+    "district": {
+      "id": "12.14.03",
+      "name": "Lahusa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

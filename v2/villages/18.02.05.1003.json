@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.02.05.1003",
+    "name": "Adi Puro",
+    "postal_code": "34172",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.02",
+      "name": "Kabupaten Lampung Tengah"
+    },
+    "district": {
+      "id": "18.02.05",
+      "name": "Trimurjo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

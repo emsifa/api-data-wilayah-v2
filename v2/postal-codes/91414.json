@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "76.05.08.1002",
+      "name": "Baruga",
+      "postal_code": "91414",
+      "province": {
+        "id": "76",
+        "name": "Sulawesi Barat"
+      },
+      "regency": {
+        "id": "76.05",
+        "name": "Kabupaten Majene"
+      },
+      "district": {
+        "id": "76.05.08",
+        "name": "Banggae Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

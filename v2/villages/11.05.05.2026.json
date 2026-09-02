@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.05.05.2026",
+    "name": "Suak Pandan",
+    "postal_code": "23650",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.05",
+      "name": "Kabupaten Aceh Barat"
+    },
+    "district": {
+      "id": "11.05.05",
+      "name": "Samatiga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

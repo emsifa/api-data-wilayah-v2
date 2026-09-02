@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.16.01.2003",
+    "name": "Tuncung",
+    "postal_code": "91760",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.16",
+      "name": "Kabupaten Enrekang"
+    },
+    "district": {
+      "id": "73.16.01",
+      "name": "Maiwa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

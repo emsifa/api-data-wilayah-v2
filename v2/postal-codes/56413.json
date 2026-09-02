@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "33.08.02.2017",
+      "name": "Tegalarum",
+      "postal_code": "56413",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.02",
+        "name": "Borobudur"
+      }
+    },
+    {
+      "id": "33.08.08.2011",
+      "name": "Tamanagung",
+      "postal_code": "56413",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.08",
+        "name": "Muntilan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

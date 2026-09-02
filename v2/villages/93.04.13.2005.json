@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.04.13.2005",
+    "name": "Akamar",
+    "postal_code": "99785",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.04",
+      "name": "Kabupaten Asmat"
+    },
+    "district": {
+      "id": "93.04.13",
+      "name": "Jetsy"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

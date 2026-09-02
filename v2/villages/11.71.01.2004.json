@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.71.01.2004",
+    "name": "Seutui",
+    "postal_code": "23243",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.71",
+      "name": "Kota Banda Aceh"
+    },
+    "district": {
+      "id": "11.71.01",
+      "name": "Baiturrahman"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

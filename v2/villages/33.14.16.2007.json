@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.14.16.2007",
+    "name": "Jambangan",
+    "postal_code": "57271",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.14",
+      "name": "Kabupaten Sragen"
+    },
+    "district": {
+      "id": "33.14.16",
+      "name": "Mondokan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

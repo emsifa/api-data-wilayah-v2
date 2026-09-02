@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.08.29.2013",
+    "name": "Raya Bosi",
+    "postal_code": "21160",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.08",
+      "name": "Kabupaten Simalungun"
+    },
+    "district": {
+      "id": "12.08.29",
+      "name": "Raya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

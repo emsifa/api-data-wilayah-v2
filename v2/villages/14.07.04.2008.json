@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.07.04.2008",
+    "name": "Karya Mukti",
+    "postal_code": "28953",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.07",
+      "name": "Kabupaten Rokan Hilir"
+    },
+    "district": {
+      "id": "14.07.04",
+      "name": "Rimba Melintang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

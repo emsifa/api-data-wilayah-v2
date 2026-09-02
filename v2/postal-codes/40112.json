@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.73.19.1003",
+      "name": "Kebon Pisang",
+      "postal_code": "40112",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.19",
+        "name": "Sumur Bandung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "63.09.09.2001",
+      "name": "Pugaan",
+      "postal_code": "71554",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.09",
+        "name": "Kabupaten Tabalong"
+      },
+      "district": {
+        "id": "63.09.09",
+        "name": "Pugaan"
+      }
+    },
+    {
+      "id": "63.09.09.2002",
+      "name": "Pampanan",
+      "postal_code": "71554",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.09",
+        "name": "Kabupaten Tabalong"
+      },
+      "district": {
+        "id": "63.09.09",
+        "name": "Pugaan"
+      }
+    },
+    {
+      "id": "63.09.09.2003",
+      "name": "Sungai Rukam II",
+      "postal_code": "71554",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.09",
+        "name": "Kabupaten Tabalong"
+      },
+      "district": {
+        "id": "63.09.09",
+        "name": "Pugaan"
+      }
+    },
+    {
+      "id": "63.09.09.2004",
+      "name": "Sungai Rukam I",
+      "postal_code": "71554",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.09",
+        "name": "Kabupaten Tabalong"
+      },
+      "district": {
+        "id": "63.09.09",
+        "name": "Pugaan"
+      }
+    },
+    {
+      "id": "63.09.09.2005",
+      "name": "Jirak",
+      "postal_code": "71554",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.09",
+        "name": "Kabupaten Tabalong"
+      },
+      "district": {
+        "id": "63.09.09",
+        "name": "Pugaan"
+      }
+    },
+    {
+      "id": "63.09.09.2006",
+      "name": "Halangan",
+      "postal_code": "71554",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.09",
+        "name": "Kabupaten Tabalong"
+      },
+      "district": {
+        "id": "63.09.09",
+        "name": "Pugaan"
+      }
+    },
+    {
+      "id": "63.09.09.2007",
+      "name": "Tamunti",
+      "postal_code": "71554",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.09",
+        "name": "Kabupaten Tabalong"
+      },
+      "district": {
+        "id": "63.09.09",
+        "name": "Pugaan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

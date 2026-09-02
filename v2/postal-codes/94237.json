@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "72.71.06.1003",
+      "name": "Tawanjuka",
+      "postal_code": "94237",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.71",
+        "name": "Kota Palu"
+      },
+      "district": {
+        "id": "72.71.06",
+        "name": "Tatanga"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

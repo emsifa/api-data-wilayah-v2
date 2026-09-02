@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.07.06.2001",
+    "name": "Yombekiri I",
+    "postal_code": "98333",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.07",
+      "name": "Kabupaten Teluk Wondama"
+    },
+    "district": {
+      "id": "92.07.06",
+      "name": "Rumberpon"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

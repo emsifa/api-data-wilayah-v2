@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.06.02.2033",
+    "name": "Sinar Betung",
+    "postal_code": "35377",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.06",
+      "name": "Kabupaten Tanggamus"
+    },
+    "district": {
+      "id": "18.06.02",
+      "name": "Talang Padang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

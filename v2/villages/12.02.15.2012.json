@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.02.15.2012",
+    "name": "Batubinumbun",
+    "postal_code": "22476",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.02",
+      "name": "Kabupaten Tapanuli Utara"
+    },
+    "district": {
+      "id": "12.02.15",
+      "name": "Muara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.08.31.2003",
+    "name": "Siboras",
+    "postal_code": "21167",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.08",
+      "name": "Kabupaten Simalungun"
+    },
+    "district": {
+      "id": "12.08.31",
+      "name": "Pamatang Silima Huta"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

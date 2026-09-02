@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.07.33.2001",
+    "name": "Serdang",
+    "postal_code": "20552",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.07",
+      "name": "Kabupaten Deli Serdang"
+    },
+    "district": {
+      "id": "12.07.33",
+      "name": "Beringin"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

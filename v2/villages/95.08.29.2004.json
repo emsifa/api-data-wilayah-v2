@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.08.29.2004",
+    "name": "Luaren",
+    "postal_code": "99917",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.08",
+      "name": "Kabupaten Nduga"
+    },
+    "district": {
+      "id": "95.08.29",
+      "name": "Wutpaga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.01.07.2006",
+    "name": "Bandar",
+    "postal_code": "32151",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.01",
+      "name": "Kabupaten Ogan Komering Ulu"
+    },
+    "district": {
+      "id": "16.01.07",
+      "name": "Sosoh Buay Rayap"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

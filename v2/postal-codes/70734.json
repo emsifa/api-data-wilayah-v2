@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "63.72.03.1003",
+      "name": "Sungai Tiung",
+      "postal_code": "70734",
+      "province": {
+        "id": "63",
+        "name": "Kalimantan Selatan"
+      },
+      "regency": {
+        "id": "63.72",
+        "name": "Kota Banjarbaru"
+      },
+      "district": {
+        "id": "63.72.03",
+        "name": "Cempaka"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

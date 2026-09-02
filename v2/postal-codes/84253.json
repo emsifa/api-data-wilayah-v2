@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "52.05.07.2001",
+      "name": "Soriutu",
+      "postal_code": "84253",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.07",
+        "name": "Manggalewa"
+      }
+    },
+    {
+      "id": "52.05.07.2002",
+      "name": "Banggo",
+      "postal_code": "84253",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.07",
+        "name": "Manggalewa"
+      }
+    },
+    {
+      "id": "52.05.07.2003",
+      "name": "Kwangko",
+      "postal_code": "84253",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.07",
+        "name": "Manggalewa"
+      }
+    },
+    {
+      "id": "52.05.07.2004",
+      "name": "Lanci Jaya",
+      "postal_code": "84253",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.07",
+        "name": "Manggalewa"
+      }
+    },
+    {
+      "id": "52.05.07.2005",
+      "name": "Suka Damai",
+      "postal_code": "84253",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.07",
+        "name": "Manggalewa"
+      }
+    },
+    {
+      "id": "52.05.07.2006",
+      "name": "Nusa Jaya",
+      "postal_code": "84253",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.07",
+        "name": "Manggalewa"
+      }
+    },
+    {
+      "id": "52.05.07.2007",
+      "name": "Doromelo",
+      "postal_code": "84253",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.07",
+        "name": "Manggalewa"
+      }
+    },
+    {
+      "id": "52.05.07.2008",
+      "name": "Nangatumpu",
+      "postal_code": "84253",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.07",
+        "name": "Manggalewa"
+      }
+    },
+    {
+      "id": "52.05.07.2009",
+      "name": "Kampasi Meci",
+      "postal_code": "84253",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.07",
+        "name": "Manggalewa"
+      }
+    },
+    {
+      "id": "52.05.07.2010",
+      "name": "Teka Sire",
+      "postal_code": "84253",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.07",
+        "name": "Manggalewa"
+      }
+    },
+    {
+      "id": "52.05.07.2011",
+      "name": "Anamina",
+      "postal_code": "84253",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.07",
+        "name": "Manggalewa"
+      }
+    },
+    {
+      "id": "52.05.07.2012",
+      "name": "Tanju",
+      "postal_code": "84253",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.05",
+        "name": "Kabupaten Dompu"
+      },
+      "district": {
+        "id": "52.05.07",
+        "name": "Manggalewa"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

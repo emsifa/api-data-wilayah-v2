@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.13.05.2015",
+    "name": "Liu",
+    "postal_code": "90991",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.13",
+      "name": "Kabupaten Wajo"
+    },
+    "district": {
+      "id": "73.13.05",
+      "name": "Majauleng"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

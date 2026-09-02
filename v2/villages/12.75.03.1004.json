@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.75.03.1004",
+    "name": "Paya Roba",
+    "postal_code": "20718",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.75",
+      "name": "Kota Binjai"
+    },
+    "district": {
+      "id": "12.75.03",
+      "name": "Binjai Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

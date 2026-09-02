@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "35.25.16.1008",
+      "name": "Trate",
+      "postal_code": "61114",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.16",
+        "name": "Gresik"
+      }
+    },
+    {
+      "id": "35.25.16.1011",
+      "name": "Bedilan",
+      "postal_code": "61114",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.16",
+        "name": "Gresik"
+      }
+    },
+    {
+      "id": "35.25.16.1017",
+      "name": "Pekauman",
+      "postal_code": "61114",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.25",
+        "name": "Kabupaten Gresik"
+      },
+      "district": {
+        "id": "35.25.16",
+        "name": "Gresik"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

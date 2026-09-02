@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.04.03.2001",
+    "name": "Salat Baru",
+    "postal_code": "73761",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.04",
+      "name": "Kabupaten Barito Selatan"
+    },
+    "district": {
+      "id": "62.04.03",
+      "name": "Karau Kuala"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

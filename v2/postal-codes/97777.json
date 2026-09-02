@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "82.07.05.2015",
+      "name": "Doku Mira",
+      "postal_code": "97777",
+      "province": {
+        "id": "82",
+        "name": "Maluku Utara"
+      },
+      "regency": {
+        "id": "82.07",
+        "name": "Kabupaten Pulau Morotai"
+      },
+      "district": {
+        "id": "82.07.05",
+        "name": "Morotai Timur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

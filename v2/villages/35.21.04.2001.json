@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.21.04.2001",
+    "name": "Karanggupito",
+    "postal_code": "63261",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.21",
+      "name": "Kabupaten Ngawi"
+    },
+    "district": {
+      "id": "35.21.04",
+      "name": "Kendal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

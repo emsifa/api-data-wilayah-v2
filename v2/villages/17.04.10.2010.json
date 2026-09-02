@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.04.10.2010",
+    "name": "Kepahyang",
+    "postal_code": "38960",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.04",
+      "name": "Kabupaten Kaur"
+    },
+    "district": {
+      "id": "17.04.10",
+      "name": "Luas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

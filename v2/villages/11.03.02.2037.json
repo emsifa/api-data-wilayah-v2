@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.03.02.2037",
+    "name": "Simpang Lhee",
+    "postal_code": "24459",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.03",
+      "name": "Kabupaten Aceh Timur"
+    },
+    "district": {
+      "id": "11.03.02",
+      "name": "Julok"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

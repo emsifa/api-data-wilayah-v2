@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.08.01.2004",
+    "name": "Tanah Tumbuh",
+    "postal_code": "37255",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.08",
+      "name": "Kabupaten Bungo"
+    },
+    "district": {
+      "id": "15.08.01",
+      "name": "Tanah Tumbuh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

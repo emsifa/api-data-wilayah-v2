@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.09.31.2011",
+    "name": "Getasan",
+    "postal_code": "45155",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.09",
+      "name": "Kabupaten Cirebon"
+    },
+    "district": {
+      "id": "32.09.31",
+      "name": "Depok"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

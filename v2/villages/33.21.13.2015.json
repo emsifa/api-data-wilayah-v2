@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.21.13.2015",
+    "name": "Babalan",
+    "postal_code": "59554",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.21",
+      "name": "Kabupaten Demak"
+    },
+    "district": {
+      "id": "33.21.13",
+      "name": "Wedung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.04.24.2001",
+    "name": "Tomor",
+    "postal_code": "99780",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.04",
+      "name": "Kabupaten Asmat"
+    },
+    "district": {
+      "id": "93.04.24",
+      "name": "Tomor Birip"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

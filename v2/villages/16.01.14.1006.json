@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.01.14.1006",
+    "name": "Sukajadi",
+    "postal_code": "32117",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.01",
+      "name": "Kabupaten Ogan Komering Ulu"
+    },
+    "district": {
+      "id": "16.01.14",
+      "name": "Baturaja Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

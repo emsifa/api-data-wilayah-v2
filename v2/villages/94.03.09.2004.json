@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.03.09.2004",
+    "name": "Dimiya",
+    "postal_code": "98726",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.03",
+      "name": "Kabupaten Paniai"
+    },
+    "district": {
+      "id": "94.03.09",
+      "name": "Yatamo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

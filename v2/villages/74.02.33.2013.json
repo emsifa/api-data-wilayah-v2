@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.02.33.2013",
+    "name": "Kapoiala Baru",
+    "postal_code": "93454",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.02",
+      "name": "Kabupaten Konawe"
+    },
+    "district": {
+      "id": "74.02.33",
+      "name": "Kapoiala"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

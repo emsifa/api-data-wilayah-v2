@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.10.19.1001",
+    "name": "Sei Berombang",
+    "postal_code": "21473",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.10",
+      "name": "Kabupaten Labuhanbatu"
+    },
+    "district": {
+      "id": "12.10.19",
+      "name": "Panai Hilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

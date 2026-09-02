@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "11.74.02.2007",
+      "name": "PB. Beuramo",
+      "postal_code": "24414",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.74",
+        "name": "Kota Langsa"
+      },
+      "district": {
+        "id": "11.74.02",
+        "name": "Langsa Barat"
+      }
+    },
+    {
+      "id": "11.74.03.2005",
+      "name": "Paya Bujok Blang Pase",
+      "postal_code": "24414",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.74",
+        "name": "Kota Langsa"
+      },
+      "district": {
+        "id": "11.74.03",
+        "name": "Langsa Kota"
+      }
+    },
+    {
+      "id": "11.74.03.2013",
+      "name": "Tualang Teungoh",
+      "postal_code": "24414",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.74",
+        "name": "Kota Langsa"
+      },
+      "district": {
+        "id": "11.74.03",
+        "name": "Langsa Kota"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

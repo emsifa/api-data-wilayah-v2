@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.03.30.2002",
+    "name": "Lembo",
+    "postal_code": "93660",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.03",
+      "name": "Kabupaten Muna"
+    },
+    "district": {
+      "id": "74.03.30",
+      "name": "Kontu Kowuna"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.02.15.2005",
+    "name": "Senduk",
+    "postal_code": "95651",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.02",
+      "name": "Kabupaten Minahasa"
+    },
+    "district": {
+      "id": "71.02.15",
+      "name": "Tombariri"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

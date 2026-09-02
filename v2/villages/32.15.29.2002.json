@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.15.29.2002",
+    "name": "Tegalsari",
+    "postal_code": "41377",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.15",
+      "name": "Kabupaten Karawang"
+    },
+    "district": {
+      "id": "32.15.29",
+      "name": "Purwasari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

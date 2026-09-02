@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.08.14.2001",
+    "name": "Cirea",
+    "postal_code": "45558",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.08",
+      "name": "Kabupaten Kuningan"
+    },
+    "district": {
+      "id": "32.08.14",
+      "name": "Mandirancan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

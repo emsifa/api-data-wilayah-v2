@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.03.05.2001",
+    "name": "Sei Kayu",
+    "postal_code": "73552",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.03",
+      "name": "Kabupaten Kapuas"
+    },
+    "district": {
+      "id": "62.03.05",
+      "name": "Kapuas Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

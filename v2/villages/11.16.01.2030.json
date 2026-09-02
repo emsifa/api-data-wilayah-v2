@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.16.01.2030",
+    "name": "Alue Ie Puteh",
+    "postal_code": "24471",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.16",
+      "name": "Kabupaten Aceh Tamiang"
+    },
+    "district": {
+      "id": "11.16.01",
+      "name": "Manyak Payed"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

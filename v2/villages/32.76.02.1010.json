@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.76.02.1010",
+    "name": "Mekarsari",
+    "postal_code": "16452",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.76",
+      "name": "Kota Depok"
+    },
+    "district": {
+      "id": "32.76.02",
+      "name": "Cimanggis"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

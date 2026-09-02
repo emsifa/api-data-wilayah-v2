@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "93.03.14.2001",
+      "name": "Wonggi",
+      "postal_code": "99877",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.03",
+        "name": "Kabupaten Mappi"
+      },
+      "district": {
+        "id": "93.03.14",
+        "name": "Passue Bawah"
+      }
+    },
+    {
+      "id": "93.03.14.2002",
+      "name": "Busiri",
+      "postal_code": "99877",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.03",
+        "name": "Kabupaten Mappi"
+      },
+      "district": {
+        "id": "93.03.14",
+        "name": "Passue Bawah"
+      }
+    },
+    {
+      "id": "93.03.14.2003",
+      "name": "Keta",
+      "postal_code": "99877",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.03",
+        "name": "Kabupaten Mappi"
+      },
+      "district": {
+        "id": "93.03.14",
+        "name": "Passue Bawah"
+      }
+    },
+    {
+      "id": "93.03.14.2004",
+      "name": "Veta",
+      "postal_code": "99877",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.03",
+        "name": "Kabupaten Mappi"
+      },
+      "district": {
+        "id": "93.03.14",
+        "name": "Passue Bawah"
+      }
+    },
+    {
+      "id": "93.03.14.2005",
+      "name": "Honya",
+      "postal_code": "99877",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.03",
+        "name": "Kabupaten Mappi"
+      },
+      "district": {
+        "id": "93.03.14",
+        "name": "Passue Bawah"
+      }
+    },
+    {
+      "id": "93.03.14.2006",
+      "name": "Haku",
+      "postal_code": "99877",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.03",
+        "name": "Kabupaten Mappi"
+      },
+      "district": {
+        "id": "93.03.14",
+        "name": "Passue Bawah"
+      }
+    },
+    {
+      "id": "93.03.14.2007",
+      "name": "Bifo",
+      "postal_code": "99877",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.03",
+        "name": "Kabupaten Mappi"
+      },
+      "district": {
+        "id": "93.03.14",
+        "name": "Passue Bawah"
+      }
+    },
+    {
+      "id": "93.03.14.2008",
+      "name": "Samurukie",
+      "postal_code": "99877",
+      "province": {
+        "id": "93",
+        "name": "Papua Selatan"
+      },
+      "regency": {
+        "id": "93.03",
+        "name": "Kabupaten Mappi"
+      },
+      "district": {
+        "id": "93.03.14",
+        "name": "Passue Bawah"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

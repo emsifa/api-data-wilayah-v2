@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "16.01.20.2001",
+      "name": "Kelumpang",
+      "postal_code": "32157",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.20",
+        "name": "Ulu Ogan"
+      }
+    },
+    {
+      "id": "16.01.20.2002",
+      "name": "Gunung Tiga",
+      "postal_code": "32157",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.20",
+        "name": "Ulu Ogan"
+      }
+    },
+    {
+      "id": "16.01.20.2003",
+      "name": "Mendingin",
+      "postal_code": "32157",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.20",
+        "name": "Ulu Ogan"
+      }
+    },
+    {
+      "id": "16.01.20.2004",
+      "name": "Ulak Lebar",
+      "postal_code": "32157",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.20",
+        "name": "Ulu Ogan"
+      }
+    },
+    {
+      "id": "16.01.20.2005",
+      "name": "Pedataran",
+      "postal_code": "32157",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.20",
+        "name": "Ulu Ogan"
+      }
+    },
+    {
+      "id": "16.01.20.2006",
+      "name": "Sukajadi",
+      "postal_code": "32157",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.20",
+        "name": "Ulu Ogan"
+      }
+    },
+    {
+      "id": "16.01.20.2007",
+      "name": "Belandang",
+      "postal_code": "32157",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.01",
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "district": {
+        "id": "16.01.20",
+        "name": "Ulu Ogan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

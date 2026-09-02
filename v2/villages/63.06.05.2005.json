@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.06.05.2005",
+    "name": "Gambah Luar",
+    "postal_code": "71216",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.06",
+      "name": "Kabupaten Hulu Sungai Selatan"
+    },
+    "district": {
+      "id": "63.06.05",
+      "name": "Kandangan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

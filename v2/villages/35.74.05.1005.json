@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.74.05.1005",
+    "name": "Kedopok",
+    "postal_code": "67231",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.74",
+      "name": "Kota Probolinggo"
+    },
+    "district": {
+      "id": "35.74.05",
+      "name": "Kedopok"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.24.01.2016",
+    "name": "Koroncia",
+    "postal_code": "92974",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.24",
+      "name": "Kabupaten Luwu Timur"
+    },
+    "district": {
+      "id": "73.24.01",
+      "name": "Mangkutana"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.71.01.1011",
+    "name": "Sudirejo II",
+    "postal_code": "20218",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.71",
+      "name": "Kota Medan"
+    },
+    "district": {
+      "id": "12.71.01",
+      "name": "Medan Kota"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

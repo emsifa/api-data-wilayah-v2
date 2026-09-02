@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.17.05.2008",
+    "name": "Elu",
+    "postal_code": "87280",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.17",
+      "name": "Kabupaten Sumba Tengah"
+    },
+    "district": {
+      "id": "53.17.05",
+      "name": "Katiku Tana Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.01.13.2013",
+    "name": "Jaya Makmur",
+    "postal_code": "94754",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.01",
+      "name": "Kabupaten Banggai"
+    },
+    "district": {
+      "id": "72.01.13",
+      "name": "Nuhon"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

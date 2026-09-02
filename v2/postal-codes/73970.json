@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "62.12.08.2001",
+      "name": "Batu Mirau",
+      "postal_code": "73970",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.12",
+        "name": "Kabupaten Murung Raya"
+      },
+      "district": {
+        "id": "62.12.08",
+        "name": "Sungai Babuat"
+      }
+    },
+    {
+      "id": "62.12.08.2002",
+      "name": "Tambelum",
+      "postal_code": "73970",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.12",
+        "name": "Kabupaten Murung Raya"
+      },
+      "district": {
+        "id": "62.12.08",
+        "name": "Sungai Babuat"
+      }
+    },
+    {
+      "id": "62.12.08.2003",
+      "name": "Tumbang Bantian",
+      "postal_code": "73970",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.12",
+        "name": "Kabupaten Murung Raya"
+      },
+      "district": {
+        "id": "62.12.08",
+        "name": "Sungai Babuat"
+      }
+    },
+    {
+      "id": "62.12.08.2004",
+      "name": "Tumbang Saan",
+      "postal_code": "73970",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.12",
+        "name": "Kabupaten Murung Raya"
+      },
+      "district": {
+        "id": "62.12.08",
+        "name": "Sungai Babuat"
+      }
+    },
+    {
+      "id": "62.12.08.2005",
+      "name": "Tumbang Kolon",
+      "postal_code": "73970",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.12",
+        "name": "Kabupaten Murung Raya"
+      },
+      "district": {
+        "id": "62.12.08",
+        "name": "Sungai Babuat"
+      }
+    },
+    {
+      "id": "62.12.08.2006",
+      "name": "Tumbang Apat",
+      "postal_code": "73970",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.12",
+        "name": "Kabupaten Murung Raya"
+      },
+      "district": {
+        "id": "62.12.08",
+        "name": "Sungai Babuat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

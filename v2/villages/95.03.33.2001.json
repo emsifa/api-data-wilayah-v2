@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.03.33.2001",
+    "name": "Dirwemna",
+    "postal_code": "99752",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.03",
+      "name": "Kabupaten Yahukimo"
+    },
+    "district": {
+      "id": "95.03.33",
+      "name": "Dirwemna"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

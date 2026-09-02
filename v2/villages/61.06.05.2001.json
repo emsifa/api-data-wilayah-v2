@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.06.05.2001",
+    "name": "Bunut Hilir",
+    "postal_code": "78761",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.06",
+      "name": "Kabupaten Kapuas Hulu"
+    },
+    "district": {
+      "id": "61.06.05",
+      "name": "Bunut Hilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

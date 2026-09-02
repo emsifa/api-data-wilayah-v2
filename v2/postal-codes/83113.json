@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "52.71.01.1006",
+      "name": "Pejeruk",
+      "postal_code": "83113",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.71",
+        "name": "Kota Mataram"
+      },
+      "district": {
+        "id": "52.71.01",
+        "name": "Ampenan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

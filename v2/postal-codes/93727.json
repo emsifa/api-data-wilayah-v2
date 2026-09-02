@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "74.72.06.1009",
+      "name": "Melai",
+      "postal_code": "93727",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.72",
+        "name": "Kota Bau Bau"
+      },
+      "district": {
+        "id": "74.72.06",
+        "name": "Murhum"
+      }
+    },
+    {
+      "id": "74.72.06.1010",
+      "name": "Baadia",
+      "postal_code": "93727",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.72",
+        "name": "Kota Bau Bau"
+      },
+      "district": {
+        "id": "74.72.06",
+        "name": "Murhum"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

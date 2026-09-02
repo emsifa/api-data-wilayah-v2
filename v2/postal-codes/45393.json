@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "32.11.09.2001",
+      "name": "Wanasari",
+      "postal_code": "45393",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.09",
+        "name": "Surian"
+      }
+    },
+    {
+      "id": "32.11.09.2002",
+      "name": "Wanajaya",
+      "postal_code": "45393",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.09",
+        "name": "Surian"
+      }
+    },
+    {
+      "id": "32.11.09.2003",
+      "name": "Pamekarsari",
+      "postal_code": "45393",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.09",
+        "name": "Surian"
+      }
+    },
+    {
+      "id": "32.11.09.2004",
+      "name": "Tanjung",
+      "postal_code": "45393",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.09",
+        "name": "Surian"
+      }
+    },
+    {
+      "id": "32.11.09.2005",
+      "name": "Surian",
+      "postal_code": "45393",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.09",
+        "name": "Surian"
+      }
+    },
+    {
+      "id": "32.11.09.2006",
+      "name": "Suriamukti",
+      "postal_code": "45393",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.09",
+        "name": "Surian"
+      }
+    },
+    {
+      "id": "32.11.09.2007",
+      "name": "Suriamedal",
+      "postal_code": "45393",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.09",
+        "name": "Surian"
+      }
+    },
+    {
+      "id": "32.11.09.2008",
+      "name": "Ranggasari",
+      "postal_code": "45393",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.09",
+        "name": "Surian"
+      }
+    },
+    {
+      "id": "32.11.09.2009",
+      "name": "Nanjungwangi",
+      "postal_code": "45393",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.09",
+        "name": "Surian"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

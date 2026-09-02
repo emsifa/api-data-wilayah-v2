@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.74.05.1004",
+    "name": "Cireundeu",
+    "postal_code": "15419",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.74",
+      "name": "Kota Tangerang Selatan"
+    },
+    "district": {
+      "id": "36.74.05",
+      "name": "Ciputat Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

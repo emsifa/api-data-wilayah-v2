@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.12.10.2004",
+    "name": "Partor Janji Matogu",
+    "postal_code": "22385",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.12",
+      "name": "Kabupaten Toba"
+    },
+    "district": {
+      "id": "12.12.10",
+      "name": "Uluan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.01.08.2008",
+    "name": "Gunung Liwat",
+    "postal_code": "32154",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.01",
+      "name": "Kabupaten Ogan Komering Ulu"
+    },
+    "district": {
+      "id": "16.01.08",
+      "name": "Pengandonan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

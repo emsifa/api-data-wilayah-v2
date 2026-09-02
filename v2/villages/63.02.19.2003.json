@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.02.19.2003",
+    "name": "Marga Jaya",
+    "postal_code": "72169",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.02",
+      "name": "Kabupaten Kotabaru"
+    },
+    "district": {
+      "id": "63.02.19",
+      "name": "Pamukan Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.73.02.1004",
+      "name": "Dago",
+      "postal_code": "40135",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "district": {
+        "id": "32.73.02",
+        "name": "Coblong"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

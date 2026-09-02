@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.03.16.2002",
+    "name": "Tawar",
+    "postal_code": "98023",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.03",
+      "name": "Kabupaten Fak Fak"
+    },
+    "district": {
+      "id": "92.03.16",
+      "name": "Furwagi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

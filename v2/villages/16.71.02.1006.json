@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.71.02.1006",
+    "name": "Tujuh Ulu",
+    "postal_code": "30253",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.71",
+      "name": "Kota Palembang"
+    },
+    "district": {
+      "id": "16.71.02",
+      "name": "Seberang Ulu Satu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

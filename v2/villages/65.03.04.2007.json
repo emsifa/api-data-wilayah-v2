@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "65.03.04.2007",
+    "name": "Siawang",
+    "postal_code": "77457",
+    "province": {
+      "id": "65",
+      "name": "Kalimantan Utara"
+    },
+    "regency": {
+      "id": "65.03",
+      "name": "Kabupaten Nunukan"
+    },
+    "district": {
+      "id": "65.03.04",
+      "name": "Lumbis"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "16.08.01.1007",
+      "name": "Dusun Martapura",
+      "postal_code": "32313",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.08",
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "district": {
+        "id": "16.08.01",
+        "name": "Martapura"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "35.10.11.2001",
+      "name": "Kalibarukulon",
+      "postal_code": "68467",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.10",
+        "name": "Kabupaten Banyuwangi"
+      },
+      "district": {
+        "id": "35.10.11",
+        "name": "Kalibaru"
+      }
+    },
+    {
+      "id": "35.10.11.2002",
+      "name": "Kalibarumanis",
+      "postal_code": "68467",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.10",
+        "name": "Kabupaten Banyuwangi"
+      },
+      "district": {
+        "id": "35.10.11",
+        "name": "Kalibaru"
+      }
+    },
+    {
+      "id": "35.10.11.2003",
+      "name": "Kalibaruwetan",
+      "postal_code": "68467",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.10",
+        "name": "Kabupaten Banyuwangi"
+      },
+      "district": {
+        "id": "35.10.11",
+        "name": "Kalibaru"
+      }
+    },
+    {
+      "id": "35.10.11.2004",
+      "name": "Kajarharjo",
+      "postal_code": "68467",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.10",
+        "name": "Kabupaten Banyuwangi"
+      },
+      "district": {
+        "id": "35.10.11",
+        "name": "Kalibaru"
+      }
+    },
+    {
+      "id": "35.10.11.2005",
+      "name": "Banyuanyar",
+      "postal_code": "68467",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.10",
+        "name": "Kabupaten Banyuwangi"
+      },
+      "district": {
+        "id": "35.10.11",
+        "name": "Kalibaru"
+      }
+    },
+    {
+      "id": "35.10.11.2006",
+      "name": "Kebonrejo",
+      "postal_code": "68467",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.10",
+        "name": "Kabupaten Banyuwangi"
+      },
+      "district": {
+        "id": "35.10.11",
+        "name": "Kalibaru"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

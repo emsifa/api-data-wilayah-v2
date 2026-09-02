@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.01.17.2002",
+    "name": "Kaptel",
+    "postal_code": "99636",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.01",
+      "name": "Kabupaten Merauke"
+    },
+    "district": {
+      "id": "93.01.17",
+      "name": "Kaptel"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

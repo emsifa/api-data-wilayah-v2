@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "32.12.16.2001",
+      "name": "Panyindangan Kulon",
+      "postal_code": "45225",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.16",
+        "name": "Sindang"
+      }
+    },
+    {
+      "id": "32.12.16.2003",
+      "name": "Panyindangan Wetan",
+      "postal_code": "45225",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.12",
+        "name": "Kabupaten Indramayu"
+      },
+      "district": {
+        "id": "32.12.16",
+        "name": "Sindang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

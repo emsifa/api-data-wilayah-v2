@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "15.02.20.2001",
+      "name": "Tambang Emas",
+      "postal_code": "37319",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.20",
+        "name": "Pamenang Selatan"
+      }
+    },
+    {
+      "id": "15.02.20.2002",
+      "name": "Tanjung Benuang",
+      "postal_code": "37319",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.20",
+        "name": "Pamenang Selatan"
+      }
+    },
+    {
+      "id": "15.02.20.2003",
+      "name": "Pulau Bayur",
+      "postal_code": "37319",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.20",
+        "name": "Pamenang Selatan"
+      }
+    },
+    {
+      "id": "15.02.20.2004",
+      "name": "Selango",
+      "postal_code": "37319",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.20",
+        "name": "Pamenang Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

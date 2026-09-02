@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.03.13.2001",
+    "name": "Wambona",
+    "postal_code": "93681",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.03",
+      "name": "Kabupaten Muna"
+    },
+    "district": {
+      "id": "74.03.13",
+      "name": "Wakorumba Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

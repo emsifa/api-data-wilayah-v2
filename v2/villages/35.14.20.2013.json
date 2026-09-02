@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.14.20.2013",
+    "name": "Ranuklindungan",
+    "postal_code": "67184",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.14",
+      "name": "Kabupaten Pasuruan"
+    },
+    "district": {
+      "id": "35.14.20",
+      "name": "Grati"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

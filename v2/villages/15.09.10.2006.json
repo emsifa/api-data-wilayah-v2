@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.09.10.2006",
+    "name": "Pagar Puding Lamo",
+    "postal_code": "37554",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.09",
+      "name": "Kabupaten Tebo"
+    },
+    "district": {
+      "id": "15.09.10",
+      "name": "Serai Serumpun"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.06.04.2012",
+    "name": "Rembangkepuh",
+    "postal_code": "64171",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.06",
+      "name": "Kabupaten Kediri"
+    },
+    "district": {
+      "id": "35.06.04",
+      "name": "Ngadiluwih"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

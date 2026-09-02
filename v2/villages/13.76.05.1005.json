@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "13.76.05.1005",
+    "name": "Balai Panjang",
+    "postal_code": "26226",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.76",
+      "name": "Kota Payakumbuh"
+    },
+    "district": {
+      "id": "13.76.05",
+      "name": "Payakumbuh Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

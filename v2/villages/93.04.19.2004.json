@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.04.19.2004",
+    "name": "Warkai",
+    "postal_code": "99786",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.04",
+      "name": "Kabupaten Asmat"
+    },
+    "district": {
+      "id": "93.04.19",
+      "name": "Betcbamu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

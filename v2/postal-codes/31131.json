@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "16.74.04.1001",
+      "name": "Tanjung Rambang",
+      "postal_code": "31131",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.74",
+        "name": "Kota Prabumulih"
+      },
+      "district": {
+        "id": "16.74.04",
+        "name": "Rambang Kapak Tengah"
+      }
+    },
+    {
+      "id": "16.74.04.2006",
+      "name": "Jungai",
+      "postal_code": "31131",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.74",
+        "name": "Kota Prabumulih"
+      },
+      "district": {
+        "id": "16.74.04",
+        "name": "Rambang Kapak Tengah"
+      }
+    },
+    {
+      "id": "16.74.04.2007",
+      "name": "Talang Batu",
+      "postal_code": "31131",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.74",
+        "name": "Kota Prabumulih"
+      },
+      "district": {
+        "id": "16.74.04",
+        "name": "Rambang Kapak Tengah"
+      }
+    },
+    {
+      "id": "16.74.04.2008",
+      "name": "Karangan",
+      "postal_code": "31131",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.74",
+        "name": "Kota Prabumulih"
+      },
+      "district": {
+        "id": "16.74.04",
+        "name": "Rambang Kapak Tengah"
+      }
+    },
+    {
+      "id": "16.74.04.2010",
+      "name": "Sinar Rambang",
+      "postal_code": "31131",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.74",
+        "name": "Kota Prabumulih"
+      },
+      "district": {
+        "id": "16.74.04",
+        "name": "Rambang Kapak Tengah"
+      }
+    },
+    {
+      "id": "16.74.04.2011",
+      "name": "Kemang Tanduk",
+      "postal_code": "31131",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.74",
+        "name": "Kota Prabumulih"
+      },
+      "district": {
+        "id": "16.74.04",
+        "name": "Rambang Kapak Tengah"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.05.22.2006",
+    "name": "Sadangwetan",
+    "postal_code": "54354",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.05",
+      "name": "Kabupaten Kebumen"
+    },
+    "district": {
+      "id": "33.05.22",
+      "name": "Sadang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.10.15.2004",
+    "name": "Kemiren",
+    "postal_code": "68432",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.10",
+      "name": "Kabupaten Banyuwangi"
+    },
+    "district": {
+      "id": "35.10.15",
+      "name": "Glagah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

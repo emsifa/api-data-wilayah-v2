@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "52.03.07.1004",
+      "name": "Denggen",
+      "postal_code": "83618",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.03",
+        "name": "Kabupaten Lombok Timur"
+      },
+      "district": {
+        "id": "52.03.07",
+        "name": "Selong"
+      }
+    },
+    {
+      "id": "52.03.07.1009",
+      "name": "Kembang Sari",
+      "postal_code": "83618",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.03",
+        "name": "Kabupaten Lombok Timur"
+      },
+      "district": {
+        "id": "52.03.07",
+        "name": "Selong"
+      }
+    },
+    {
+      "id": "52.03.07.2012",
+      "name": "Danggen Timur",
+      "postal_code": "83618",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.03",
+        "name": "Kabupaten Lombok Timur"
+      },
+      "district": {
+        "id": "52.03.07",
+        "name": "Selong"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

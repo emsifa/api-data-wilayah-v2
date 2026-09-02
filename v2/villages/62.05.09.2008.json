@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.05.09.2008",
+    "name": "Teluk Malewai",
+    "postal_code": "73853",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.05",
+      "name": "Kabupaten Barito Utara"
+    },
+    "district": {
+      "id": "62.05.09",
+      "name": "Lahei Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

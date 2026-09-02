@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "64.02.15.1001",
+      "name": "Jawa",
+      "postal_code": "75251",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.02",
+        "name": "Kabupaten Kutai Kartanegara"
+      },
+      "district": {
+        "id": "64.02.15",
+        "name": "Sanga Sanga"
+      }
+    },
+    {
+      "id": "64.02.15.1004",
+      "name": "Sari Jaya",
+      "postal_code": "75251",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.02",
+        "name": "Kabupaten Kutai Kartanegara"
+      },
+      "district": {
+        "id": "64.02.15",
+        "name": "Sanga Sanga"
+      }
+    },
+    {
+      "id": "64.02.15.1005",
+      "name": "Sanga-Sanga Muara",
+      "postal_code": "75251",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.02",
+        "name": "Kabupaten Kutai Kartanegara"
+      },
+      "district": {
+        "id": "64.02.15",
+        "name": "Sanga Sanga"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

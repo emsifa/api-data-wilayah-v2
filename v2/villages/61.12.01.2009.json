@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.12.01.2009",
+    "name": "Gunung Tamang",
+    "postal_code": "78391",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.12",
+      "name": "Kabupaten Kubu Raya"
+    },
+    "district": {
+      "id": "61.12.01",
+      "name": "Sungai Raya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

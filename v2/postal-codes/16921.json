@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.01.13.1007",
+      "name": "Pabuaran",
+      "postal_code": "16921",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.01",
+        "name": "Kabupaten Bogor"
+      },
+      "district": {
+        "id": "32.01.13",
+        "name": "Bojonggede"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

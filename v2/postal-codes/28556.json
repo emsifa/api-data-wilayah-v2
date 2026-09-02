@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "14.06.06.1001",
+      "name": "Kota Lama",
+      "postal_code": "28556",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.06",
+        "name": "Kunto Darussalam"
+      }
+    },
+    {
+      "id": "14.06.06.2003",
+      "name": "Kota Intan",
+      "postal_code": "28556",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.06",
+        "name": "Kunto Darussalam"
+      }
+    },
+    {
+      "id": "14.06.06.2004",
+      "name": "Muara Dilam",
+      "postal_code": "28556",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.06",
+        "name": "Kunto Darussalam"
+      }
+    },
+    {
+      "id": "14.06.06.2008",
+      "name": "Kota Raya",
+      "postal_code": "28556",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.06",
+        "name": "Kunto Darussalam"
+      }
+    },
+    {
+      "id": "14.06.06.2009",
+      "name": "Kota Baru",
+      "postal_code": "28556",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.06",
+        "name": "Kunto Darussalam"
+      }
+    },
+    {
+      "id": "14.06.06.2010",
+      "name": "Sungai Kuti",
+      "postal_code": "28556",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.06",
+        "name": "Kunto Darussalam"
+      }
+    },
+    {
+      "id": "14.06.06.2011",
+      "name": "Pasir Indah",
+      "postal_code": "28556",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.06",
+        "name": "Kunto Darussalam"
+      }
+    },
+    {
+      "id": "14.06.06.2012",
+      "name": "Pasir Luhur",
+      "postal_code": "28556",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.06",
+        "name": "Kunto Darussalam"
+      }
+    },
+    {
+      "id": "14.06.06.2017",
+      "name": "Bukit Intan Makmur",
+      "postal_code": "28556",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.06",
+        "name": "Kunto Darussalam"
+      }
+    },
+    {
+      "id": "14.06.06.2018",
+      "name": "Bagan Tujuh",
+      "postal_code": "28556",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.06",
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "district": {
+        "id": "14.06.06",
+        "name": "Kunto Darussalam"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

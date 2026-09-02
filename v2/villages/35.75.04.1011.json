@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.75.04.1011",
+    "name": "Kandangsapi",
+    "postal_code": "67125",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.75",
+      "name": "Kota Pasuruan"
+    },
+    "district": {
+      "id": "35.75.04",
+      "name": "Panggungrejo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

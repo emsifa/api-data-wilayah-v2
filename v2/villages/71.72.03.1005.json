@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.72.03.1005",
+    "name": "Tewaan",
+    "postal_code": "95532",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.72",
+      "name": "Kota Bitung"
+    },
+    "district": {
+      "id": "71.72.03",
+      "name": "Ranowulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

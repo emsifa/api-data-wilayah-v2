@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.01.02.2010",
+    "name": "Yehembang Kauh",
+    "postal_code": "82261",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.01",
+      "name": "Kabupaten Jembrana"
+    },
+    "district": {
+      "id": "51.01.02",
+      "name": "Mendoyo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

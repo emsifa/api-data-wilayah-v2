@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "33.74.13.1004",
+      "name": "Tambakharjo",
+      "postal_code": "50149",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.74",
+        "name": "Kota Semarang"
+      },
+      "district": {
+        "id": "33.74.13",
+        "name": "Semarang Barat"
+      }
+    },
+    {
+      "id": "33.74.13.1006",
+      "name": "Kalibanteng Kidul",
+      "postal_code": "50149",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.74",
+        "name": "Kota Semarang"
+      },
+      "district": {
+        "id": "33.74.13",
+        "name": "Semarang Barat"
+      }
+    },
+    {
+      "id": "33.74.13.1007",
+      "name": "Gisikdrono",
+      "postal_code": "50149",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.74",
+        "name": "Kota Semarang"
+      },
+      "district": {
+        "id": "33.74.13",
+        "name": "Semarang Barat"
+      }
+    },
+    {
+      "id": "33.74.13.1010",
+      "name": "Salamanmloyo",
+      "postal_code": "50149",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.74",
+        "name": "Kota Semarang"
+      },
+      "district": {
+        "id": "33.74.13",
+        "name": "Semarang Barat"
+      }
+    },
+    {
+      "id": "33.74.13.1012",
+      "name": "Karangayu",
+      "postal_code": "50149",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.74",
+        "name": "Kota Semarang"
+      },
+      "district": {
+        "id": "33.74.13",
+        "name": "Semarang Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

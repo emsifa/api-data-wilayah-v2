@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.02.15.2013",
+    "name": "Gajah Makmur",
+    "postal_code": "30684",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.02",
+      "name": "Kabupaten Ogan Komering Ilir"
+    },
+    "district": {
+      "id": "16.02.15",
+      "name": "Sungai Menang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

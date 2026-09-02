@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.08.14.2011",
+    "name": "Bandar Sauhur",
+    "postal_code": "21166",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.08",
+      "name": "Kabupaten Simalungun"
+    },
+    "district": {
+      "id": "12.08.14",
+      "name": "Purba"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

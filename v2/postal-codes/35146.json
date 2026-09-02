@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "18.71.01.1005",
+      "name": "Sukamenanti",
+      "postal_code": "35146",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.01",
+        "name": "Kedaton"
+      }
+    },
+    {
+      "id": "18.71.01.1009",
+      "name": "Sukamenanti Baru",
+      "postal_code": "35146",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.01",
+        "name": "Kedaton"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

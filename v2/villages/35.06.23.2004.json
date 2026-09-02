@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.06.23.2004",
+    "name": "Dawung",
+    "postal_code": "64176",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.06",
+      "name": "Kabupaten Kediri"
+    },
+    "district": {
+      "id": "35.06.23",
+      "name": "Ringinrejo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

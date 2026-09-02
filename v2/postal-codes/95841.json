@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "71.03.25.2001",
+      "name": "Marore",
+      "postal_code": "95841",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.03",
+        "name": "Kabupaten Kepulauan Sangihe"
+      },
+      "district": {
+        "id": "71.03.25",
+        "name": "Kepulauan Marore"
+      }
+    },
+    {
+      "id": "71.03.25.2002",
+      "name": "Kawio",
+      "postal_code": "95841",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.03",
+        "name": "Kabupaten Kepulauan Sangihe"
+      },
+      "district": {
+        "id": "71.03.25",
+        "name": "Kepulauan Marore"
+      }
+    },
+    {
+      "id": "71.03.25.2003",
+      "name": "Matutuang",
+      "postal_code": "95841",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.03",
+        "name": "Kabupaten Kepulauan Sangihe"
+      },
+      "district": {
+        "id": "71.03.25",
+        "name": "Kepulauan Marore"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

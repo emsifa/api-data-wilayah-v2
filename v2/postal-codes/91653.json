@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "73.14.04.2009",
+      "name": "Tonrong Rijang",
+      "postal_code": "91653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.14",
+        "name": "Kabupaten Sidenreng Rappang"
+      },
+      "district": {
+        "id": "73.14.04",
+        "name": "Baranti"
+      }
+    },
+    {
+      "id": "73.14.06.2001",
+      "name": "Rijang Panua",
+      "postal_code": "91653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.14",
+        "name": "Kabupaten Sidenreng Rappang"
+      },
+      "district": {
+        "id": "73.14.06",
+        "name": "Kulo"
+      }
+    },
+    {
+      "id": "73.14.06.2002",
+      "name": "Kulo",
+      "postal_code": "91653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.14",
+        "name": "Kabupaten Sidenreng Rappang"
+      },
+      "district": {
+        "id": "73.14.06",
+        "name": "Kulo"
+      }
+    },
+    {
+      "id": "73.14.06.2003",
+      "name": "Maddenra",
+      "postal_code": "91653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.14",
+        "name": "Kabupaten Sidenreng Rappang"
+      },
+      "district": {
+        "id": "73.14.06",
+        "name": "Kulo"
+      }
+    },
+    {
+      "id": "73.14.06.2004",
+      "name": "Mario",
+      "postal_code": "91653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.14",
+        "name": "Kabupaten Sidenreng Rappang"
+      },
+      "district": {
+        "id": "73.14.06",
+        "name": "Kulo"
+      }
+    },
+    {
+      "id": "73.14.06.2005",
+      "name": "Bina Baru",
+      "postal_code": "91653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.14",
+        "name": "Kabupaten Sidenreng Rappang"
+      },
+      "district": {
+        "id": "73.14.06",
+        "name": "Kulo"
+      }
+    },
+    {
+      "id": "73.14.06.2006",
+      "name": "Abbokongang",
+      "postal_code": "91653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.14",
+        "name": "Kabupaten Sidenreng Rappang"
+      },
+      "district": {
+        "id": "73.14.06",
+        "name": "Kulo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.21.04.2010",
+    "name": "Sayung",
+    "postal_code": "59563",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.21",
+      "name": "Kabupaten Demak"
+    },
+    "district": {
+      "id": "33.21.04",
+      "name": "Sayung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

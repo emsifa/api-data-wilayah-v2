@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.20.05.2001",
+    "name": "Pancur Pangko",
+    "postal_code": "22753",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.20",
+      "name": "Kabupaten Padang Lawas Utara"
+    },
+    "district": {
+      "id": "12.20.05",
+      "name": "Padang Bolak Julu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

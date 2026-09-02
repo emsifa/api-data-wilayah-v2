@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.02.08.2007",
+    "name": "Belimbing",
+    "postal_code": "29356",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.02",
+      "name": "Kabupaten Indragiri Hulu"
+    },
+    "district": {
+      "id": "14.02.08",
+      "name": "Batang Gansal"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

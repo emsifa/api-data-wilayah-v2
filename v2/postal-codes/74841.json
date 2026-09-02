@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "62.11.05.1005",
+      "name": "Pulang Pisau",
+      "postal_code": "74841",
+      "province": {
+        "id": "62",
+        "name": "Kalimantan Tengah"
+      },
+      "regency": {
+        "id": "62.11",
+        "name": "Kabupaten Pulang Pisau"
+      },
+      "district": {
+        "id": "62.11.05",
+        "name": "Kahayan Hilir"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

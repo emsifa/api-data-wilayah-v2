@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.18.17.2015",
+    "name": "Gondangkulon",
+    "postal_code": "64451",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.18",
+      "name": "Kabupaten Nganjuk"
+    },
+    "district": {
+      "id": "35.18.17",
+      "name": "Gondang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

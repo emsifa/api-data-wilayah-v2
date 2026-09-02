@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "71.09.10.2001",
+      "name": "Humbia",
+      "postal_code": "95866",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.09",
+        "name": "Kabupaten Kep. Siau Tagulandang Biaro"
+      },
+      "district": {
+        "id": "71.09.10",
+        "name": "Tagulandang Selatan"
+      }
+    },
+    {
+      "id": "71.09.10.2002",
+      "name": "Kisihang",
+      "postal_code": "95866",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.09",
+        "name": "Kabupaten Kep. Siau Tagulandang Biaro"
+      },
+      "district": {
+        "id": "71.09.10",
+        "name": "Tagulandang Selatan"
+      }
+    },
+    {
+      "id": "71.09.10.2003",
+      "name": "Bira Kiama",
+      "postal_code": "95866",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.09",
+        "name": "Kabupaten Kep. Siau Tagulandang Biaro"
+      },
+      "district": {
+        "id": "71.09.10",
+        "name": "Tagulandang Selatan"
+      }
+    },
+    {
+      "id": "71.09.10.2004",
+      "name": "Buha",
+      "postal_code": "95866",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.09",
+        "name": "Kabupaten Kep. Siau Tagulandang Biaro"
+      },
+      "district": {
+        "id": "71.09.10",
+        "name": "Tagulandang Selatan"
+      }
+    },
+    {
+      "id": "71.09.10.2005",
+      "name": "Batumawira",
+      "postal_code": "95866",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.09",
+        "name": "Kabupaten Kep. Siau Tagulandang Biaro"
+      },
+      "district": {
+        "id": "71.09.10",
+        "name": "Tagulandang Selatan"
+      }
+    },
+    {
+      "id": "71.09.10.2006",
+      "name": "Birarikei",
+      "postal_code": "95866",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.09",
+        "name": "Kabupaten Kep. Siau Tagulandang Biaro"
+      },
+      "district": {
+        "id": "71.09.10",
+        "name": "Tagulandang Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

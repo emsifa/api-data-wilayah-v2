@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.71.01.1002",
+    "name": "Benuamelayu Laut",
+    "postal_code": "78123",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.71",
+      "name": "Kota Pontianak"
+    },
+    "district": {
+      "id": "61.71.01",
+      "name": "Pontianak Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

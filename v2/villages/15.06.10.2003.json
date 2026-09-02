@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.06.10.2003",
+    "name": "Kuala Baru",
+    "postal_code": "36514",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.06",
+      "name": "Kabupaten Tanjung Jabung Barat"
+    },
+    "district": {
+      "id": "15.06.10",
+      "name": "Seberang Kota"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.01.11.2001",
+    "name": "Kayutanyo",
+    "postal_code": "94723",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.01",
+      "name": "Kabupaten Banggai"
+    },
+    "district": {
+      "id": "72.01.11",
+      "name": "Luwuk Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

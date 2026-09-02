@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.23.17.2013",
+    "name": "Tuksari",
+    "postal_code": "56264",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.23",
+      "name": "Kabupaten Temanggung"
+    },
+    "district": {
+      "id": "33.23.17",
+      "name": "Kledung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.10.02.2001",
+    "name": "Bubu",
+    "postal_code": "93674",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.10",
+      "name": "Kabupaten Buton Utara"
+    },
+    "district": {
+      "id": "74.10.02",
+      "name": "Kambowa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

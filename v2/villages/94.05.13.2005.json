@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.05.13.2005",
+    "name": "Makuma",
+    "postal_code": "98972",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.05",
+      "name": "Kabupaten Puncak"
+    },
+    "district": {
+      "id": "94.05.13",
+      "name": "Kembru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

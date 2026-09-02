@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.05.06.2004",
+    "name": "Banjurpasar",
+    "postal_code": "54391",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.05",
+      "name": "Kabupaten Kebumen"
+    },
+    "district": {
+      "id": "33.05.06",
+      "name": "Buluspesantren"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

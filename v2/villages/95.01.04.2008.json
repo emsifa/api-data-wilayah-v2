@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.01.04.2008",
+    "name": "Kikhumo",
+    "postal_code": "99552",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.01",
+      "name": "Kabupaten Jayawijaya"
+    },
+    "district": {
+      "id": "95.01.04",
+      "name": "Hubikosi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

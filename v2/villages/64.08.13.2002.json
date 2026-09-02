@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.08.13.2002",
+    "name": "Suka Rahmat",
+    "postal_code": "75682",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.08",
+      "name": "Kabupaten Kutai Timur"
+    },
+    "district": {
+      "id": "64.08.13",
+      "name": "Teluk Pandan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

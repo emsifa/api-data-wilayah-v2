@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "51.71.01.2008",
+      "name": "Pemogan",
+      "postal_code": "80221",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.71",
+        "name": "Kota Denpasar"
+      },
+      "district": {
+        "id": "51.71.01",
+        "name": "Denpasar Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

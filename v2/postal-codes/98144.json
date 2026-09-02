@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "92.06.09.2001",
+      "name": "Tembuni",
+      "postal_code": "98144",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.06",
+        "name": "Kabupaten Teluk Bintuni"
+      },
+      "district": {
+        "id": "92.06.09",
+        "name": "Tembuni"
+      }
+    },
+    {
+      "id": "92.06.09.2002",
+      "name": "Mogoi Baru",
+      "postal_code": "98144",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.06",
+        "name": "Kabupaten Teluk Bintuni"
+      },
+      "district": {
+        "id": "92.06.09",
+        "name": "Tembuni"
+      }
+    },
+    {
+      "id": "92.06.09.2003",
+      "name": "Araisum",
+      "postal_code": "98144",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.06",
+        "name": "Kabupaten Teluk Bintuni"
+      },
+      "district": {
+        "id": "92.06.09",
+        "name": "Tembuni"
+      }
+    },
+    {
+      "id": "92.06.09.2004",
+      "name": "Bangun Mulya",
+      "postal_code": "98144",
+      "province": {
+        "id": "92",
+        "name": "Papua Barat"
+      },
+      "regency": {
+        "id": "92.06",
+        "name": "Kabupaten Teluk Bintuni"
+      },
+      "district": {
+        "id": "92.06.09",
+        "name": "Tembuni"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

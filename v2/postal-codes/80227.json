@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "51.71.01.2009",
+      "name": "Sanur Kaja",
+      "postal_code": "80227",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.71",
+        "name": "Kota Denpasar"
+      },
+      "district": {
+        "id": "51.71.01",
+        "name": "Denpasar Selatan"
+      }
+    },
+    {
+      "id": "51.71.01.2010",
+      "name": "Sanur Kauh",
+      "postal_code": "80227",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.71",
+        "name": "Kota Denpasar"
+      },
+      "district": {
+        "id": "51.71.01",
+        "name": "Denpasar Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "33.21.11.1018",
+      "name": "Bintoro",
+      "postal_code": "59511",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.21",
+        "name": "Kabupaten Demak"
+      },
+      "district": {
+        "id": "33.21.11",
+        "name": "Demak"
+      }
+    },
+    {
+      "id": "33.21.12.2005",
+      "name": "Kembangan",
+      "postal_code": "59511",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.21",
+        "name": "Kabupaten Demak"
+      },
+      "district": {
+        "id": "33.21.12",
+        "name": "Bonang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

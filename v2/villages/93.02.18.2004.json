@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.02.18.2004",
+    "name": "Yomkondo",
+    "postal_code": "99664",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.02",
+      "name": "Kabupaten Boven Digoel"
+    },
+    "district": {
+      "id": "93.02.18",
+      "name": "Sesnuk"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

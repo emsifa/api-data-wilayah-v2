@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.02.31.2008",
+    "name": "Aimasi",
+    "postal_code": "98356",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.02",
+      "name": "Kabupaten Manokwari"
+    },
+    "district": {
+      "id": "92.02.31",
+      "name": "Aimasi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

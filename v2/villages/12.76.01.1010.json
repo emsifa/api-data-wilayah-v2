@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.76.01.1010",
+    "name": "Tualang",
+    "postal_code": "20624",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.76",
+      "name": "Kota Tebing Tinggi"
+    },
+    "district": {
+      "id": "12.76.01",
+      "name": "Padang Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

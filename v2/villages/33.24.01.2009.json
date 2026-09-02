@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.24.01.2009",
+    "name": "Jati",
+    "postal_code": "51362",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.24",
+      "name": "Kabupaten Kendal"
+    },
+    "district": {
+      "id": "33.24.01",
+      "name": "Plantungan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

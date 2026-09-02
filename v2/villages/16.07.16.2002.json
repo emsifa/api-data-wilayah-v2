@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.07.16.2002",
+    "name": "Durian Daun",
+    "postal_code": "30957",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.07",
+      "name": "Kabupaten Banyuasin"
+    },
+    "district": {
+      "id": "16.07.16",
+      "name": "Suak Tapeh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

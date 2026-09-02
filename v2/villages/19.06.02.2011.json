@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "19.06.02.2011",
+    "name": "Limbongan",
+    "postal_code": "33562",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.06",
+      "name": "Kabupaten Belitung Timur"
+    },
+    "district": {
+      "id": "19.06.02",
+      "name": "Gantung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.16.05.2018",
+    "name": "Sitio II",
+    "postal_code": "22475",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.16",
+      "name": "Kabupaten Humbang Hasundutan"
+    },
+    "district": {
+      "id": "12.16.05",
+      "name": "Lintong Nihuta"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

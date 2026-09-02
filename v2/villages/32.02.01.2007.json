@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.02.01.2007",
+    "name": "Cikadu",
+    "postal_code": "43364",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.02",
+      "name": "Kabupaten Sukabumi"
+    },
+    "district": {
+      "id": "32.02.01",
+      "name": "Palabuhanratu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

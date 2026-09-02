@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.03.18.2004",
+    "name": "Talaga",
+    "postal_code": "15710",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.03",
+      "name": "Kabupaten Tangerang"
+    },
+    "district": {
+      "id": "36.03.18",
+      "name": "Cikupa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

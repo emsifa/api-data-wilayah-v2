@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.29.15.2007",
+    "name": "Karang Nangka",
+    "postal_code": "69456",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.29",
+      "name": "Kabupaten Sumenep"
+    },
+    "district": {
+      "id": "35.29.15",
+      "name": "Rubaru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

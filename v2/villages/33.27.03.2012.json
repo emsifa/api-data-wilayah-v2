@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.27.03.2012",
+    "name": "Kalisaleh",
+    "postal_code": "52356",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.27",
+      "name": "Kabupaten Pemalang"
+    },
+    "district": {
+      "id": "33.27.03",
+      "name": "Belik"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "16.73.05.1001",
+      "name": "Jawa Kanan",
+      "postal_code": "31621",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.73",
+        "name": "Kota Lubuk Linggau"
+      },
+      "district": {
+        "id": "16.73.05",
+        "name": "Lubuk Linggau Timur II"
+      }
+    },
+    {
+      "id": "16.73.05.1002",
+      "name": "Jawa Kanan SS",
+      "postal_code": "31621",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.73",
+        "name": "Kota Lubuk Linggau"
+      },
+      "district": {
+        "id": "16.73.05",
+        "name": "Lubuk Linggau Timur II"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

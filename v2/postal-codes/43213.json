@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "32.03.01.1009",
+      "name": "Sayang",
+      "postal_code": "43213",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.03",
+        "name": "Kabupaten Cianjur"
+      },
+      "district": {
+        "id": "32.03.01",
+        "name": "Cianjur"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

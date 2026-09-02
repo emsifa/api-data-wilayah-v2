@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "91.19.04.2004",
+    "name": "Wongkeina",
+    "postal_code": "98571",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.19",
+      "name": "Kabupaten Supiori"
+    },
+    "district": {
+      "id": "91.19.04",
+      "name": "Kepulauan Aruri"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

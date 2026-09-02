@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.08.24.2005",
+    "name": "Waemputtange",
+    "postal_code": "92756",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.08",
+      "name": "Kabupaten Bone"
+    },
+    "district": {
+      "id": "73.08.24",
+      "name": "Amali"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

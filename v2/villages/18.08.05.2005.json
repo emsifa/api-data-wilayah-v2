@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.08.05.2005",
+    "name": "Mesir Ilir",
+    "postal_code": "34763",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.08",
+      "name": "Kabupaten Way Kanan"
+    },
+    "district": {
+      "id": "18.08.05",
+      "name": "Bahuga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

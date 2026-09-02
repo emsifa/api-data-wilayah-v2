@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.02.19.2005",
+    "name": "Gondowido",
+    "postal_code": "63493",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.02",
+      "name": "Kabupaten Ponorogo"
+    },
+    "district": {
+      "id": "35.02.19",
+      "name": "Ngebel"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

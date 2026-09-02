@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.04.01.2016",
+    "name": "Tunas Harapan",
+    "postal_code": "96466",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.04",
+      "name": "Kabupaten Pohuwato"
+    },
+    "district": {
+      "id": "75.04.01",
+      "name": "Popayato"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

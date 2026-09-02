@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.11.09.2007",
+    "name": "Tamburi",
+    "postal_code": "87181",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.11",
+      "name": "Kabupaten Sumba Timur"
+    },
+    "district": {
+      "id": "53.11.09",
+      "name": "Rindi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

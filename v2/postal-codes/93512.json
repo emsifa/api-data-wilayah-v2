@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "74.01.14.1001",
+      "name": "Mangolo",
+      "postal_code": "93512",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.01",
+        "name": "Kabupaten Kolaka"
+      },
+      "district": {
+        "id": "74.01.14",
+        "name": "Latambaga"
+      }
+    },
+    {
+      "id": "74.01.14.1002",
+      "name": "Kolakaasi",
+      "postal_code": "93512",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.01",
+        "name": "Kabupaten Kolaka"
+      },
+      "district": {
+        "id": "74.01.14",
+        "name": "Latambaga"
+      }
+    },
+    {
+      "id": "74.01.14.1006",
+      "name": "Induha",
+      "postal_code": "93512",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.01",
+        "name": "Kabupaten Kolaka"
+      },
+      "district": {
+        "id": "74.01.14",
+        "name": "Latambaga"
+      }
+    },
+    {
+      "id": "74.01.14.1007",
+      "name": "Ulunggolaka",
+      "postal_code": "93512",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.01",
+        "name": "Kabupaten Kolaka"
+      },
+      "district": {
+        "id": "74.01.14",
+        "name": "Latambaga"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.02.04.2002",
+    "name": "Perapat Hilir",
+    "postal_code": "24664",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.02",
+      "name": "Kabupaten Aceh Tenggara"
+    },
+    "district": {
+      "id": "11.02.04",
+      "name": "Babussalam"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

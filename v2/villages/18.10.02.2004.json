@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.10.02.2004",
+    "name": "Bulokarto",
+    "postal_code": "35372",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.10",
+      "name": "Kabupaten Pringsewu"
+    },
+    "district": {
+      "id": "18.10.02",
+      "name": "Gading Rejo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

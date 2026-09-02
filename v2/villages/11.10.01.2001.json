@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.10.01.2001",
+    "name": "Pulau Balai",
+    "postal_code": "24791",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.10",
+      "name": "Kabupaten Aceh Singkil"
+    },
+    "district": {
+      "id": "11.10.01",
+      "name": "Pulau Banyak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

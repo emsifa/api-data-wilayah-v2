@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.75.06.1003",
+    "name": "Pejuang",
+    "postal_code": "17131",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.75",
+      "name": "Kota Bekasi"
+    },
+    "district": {
+      "id": "32.75.06",
+      "name": "Medansatria"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

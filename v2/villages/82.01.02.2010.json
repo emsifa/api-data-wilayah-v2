@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.01.02.2010",
+    "name": "Bakun",
+    "postal_code": "97755",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.01",
+      "name": "Kabupaten Halmahera Barat"
+    },
+    "district": {
+      "id": "82.01.02",
+      "name": "Loloda"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

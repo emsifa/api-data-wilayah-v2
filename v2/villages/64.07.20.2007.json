@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.07.20.2007",
+    "name": "Sekolaq Darat",
+    "postal_code": "75764",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.07",
+      "name": "Kabupaten Kutai Barat"
+    },
+    "district": {
+      "id": "64.07.20",
+      "name": "Sekolaq Darat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

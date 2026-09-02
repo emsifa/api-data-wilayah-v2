@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.07.05.2002",
+    "name": "Janggala",
+    "postal_code": "46352",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.07",
+      "name": "Kabupaten Ciamis"
+    },
+    "district": {
+      "id": "32.07.05",
+      "name": "Cidolog"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

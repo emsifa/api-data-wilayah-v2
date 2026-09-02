@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.14.05.2006",
+    "name": "Bulo Wattang",
+    "postal_code": "91651",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.14",
+      "name": "Kabupaten Sidenreng Rappang"
+    },
+    "district": {
+      "id": "73.14.05",
+      "name": "Panca Rijang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

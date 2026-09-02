@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.06.08.2003",
+    "name": "Manggis",
+    "postal_code": "64292",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.06",
+      "name": "Kabupaten Kediri"
+    },
+    "district": {
+      "id": "35.06.08",
+      "name": "Puncu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

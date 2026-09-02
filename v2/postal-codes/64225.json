@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.06.17.2006",
+      "name": "Bendo",
+      "postal_code": "64225",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.06",
+        "name": "Kabupaten Kediri"
+      },
+      "district": {
+        "id": "35.06.17",
+        "name": "Pare"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

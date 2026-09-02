@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.02.17.2002",
+    "name": "Jatisaba",
+    "postal_code": "53162",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.02",
+      "name": "Kabupaten Banyumas"
+    },
+    "district": {
+      "id": "33.02.17",
+      "name": "Cilongok"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

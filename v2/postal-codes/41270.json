@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "32.13.27.2001",
+      "name": "Manyeti",
+      "postal_code": "41270",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.27",
+        "name": "Dawuan"
+      }
+    },
+    {
+      "id": "32.13.27.2002",
+      "name": "Rawalele",
+      "postal_code": "41270",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.27",
+        "name": "Dawuan"
+      }
+    },
+    {
+      "id": "32.13.27.2003",
+      "name": "Sukasari",
+      "postal_code": "41270",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.27",
+        "name": "Dawuan"
+      }
+    },
+    {
+      "id": "32.13.27.2004",
+      "name": "Situsari",
+      "postal_code": "41270",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.27",
+        "name": "Dawuan"
+      }
+    },
+    {
+      "id": "32.13.27.2005",
+      "name": "Dawuan Kaler",
+      "postal_code": "41270",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.27",
+        "name": "Dawuan"
+      }
+    },
+    {
+      "id": "32.13.27.2006",
+      "name": "Dawuan Kidul",
+      "postal_code": "41270",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.27",
+        "name": "Dawuan"
+      }
+    },
+    {
+      "id": "32.13.27.2007",
+      "name": "Cisampih",
+      "postal_code": "41270",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.27",
+        "name": "Dawuan"
+      }
+    },
+    {
+      "id": "32.13.27.2008",
+      "name": "Margasari",
+      "postal_code": "41270",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.27",
+        "name": "Dawuan"
+      }
+    },
+    {
+      "id": "32.13.27.2009",
+      "name": "Batusari",
+      "postal_code": "41270",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.27",
+        "name": "Dawuan"
+      }
+    },
+    {
+      "id": "32.13.27.2010",
+      "name": "Jambelaer",
+      "postal_code": "41270",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.13",
+        "name": "Kabupaten Subang"
+      },
+      "district": {
+        "id": "32.13.27",
+        "name": "Dawuan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.71.05.1003",
+    "name": "Glugur Kota",
+    "postal_code": "20115",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.71",
+      "name": "Kota Medan"
+    },
+    "district": {
+      "id": "12.71.05",
+      "name": "Medan Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

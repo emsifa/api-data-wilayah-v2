@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.12.09.2016",
+    "name": "Hutanamora",
+    "postal_code": "22388",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.12",
+      "name": "Kabupaten Toba"
+    },
+    "district": {
+      "id": "12.12.09",
+      "name": "Lumban Julu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

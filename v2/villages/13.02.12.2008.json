@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "13.02.12.2008",
+    "name": "Sibarambang",
+    "postal_code": "27355",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.02",
+      "name": "Kabupaten Solok"
+    },
+    "district": {
+      "id": "13.02.12",
+      "name": "X Koto Diatas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

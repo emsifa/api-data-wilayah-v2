@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "81.08.12.2001",
+      "name": "Ketty",
+      "postal_code": "97443",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.08",
+        "name": "Kabupaten Maluku Barat Daya"
+      },
+      "district": {
+        "id": "81.08.12",
+        "name": "Pulau Lakor"
+      }
+    },
+    {
+      "id": "81.08.12.2002",
+      "name": "Letoda",
+      "postal_code": "97443",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.08",
+        "name": "Kabupaten Maluku Barat Daya"
+      },
+      "district": {
+        "id": "81.08.12",
+        "name": "Pulau Lakor"
+      }
+    },
+    {
+      "id": "81.08.12.2003",
+      "name": "Sera",
+      "postal_code": "97443",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.08",
+        "name": "Kabupaten Maluku Barat Daya"
+      },
+      "district": {
+        "id": "81.08.12",
+        "name": "Pulau Lakor"
+      }
+    },
+    {
+      "id": "81.08.12.2004",
+      "name": "Yamluli",
+      "postal_code": "97443",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.08",
+        "name": "Kabupaten Maluku Barat Daya"
+      },
+      "district": {
+        "id": "81.08.12",
+        "name": "Pulau Lakor"
+      }
+    },
+    {
+      "id": "81.08.12.2005",
+      "name": "Lolotuara",
+      "postal_code": "97443",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.08",
+        "name": "Kabupaten Maluku Barat Daya"
+      },
+      "district": {
+        "id": "81.08.12",
+        "name": "Pulau Lakor"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

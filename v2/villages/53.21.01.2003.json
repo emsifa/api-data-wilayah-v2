@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.21.01.2003",
+    "name": "Kateri",
+    "postal_code": "85762",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.21",
+      "name": "Kabupaten Malaka"
+    },
+    "district": {
+      "id": "53.21.01",
+      "name": "Malaka Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

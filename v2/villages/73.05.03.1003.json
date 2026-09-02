@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.05.03.1003",
+    "name": "Bontokadatto",
+    "postal_code": "92252",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.05",
+      "name": "Kabupaten Takalar"
+    },
+    "district": {
+      "id": "73.05.03",
+      "name": "Polongbangkeng Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

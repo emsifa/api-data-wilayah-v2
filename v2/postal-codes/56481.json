@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": "33.08.07.2001",
+      "name": "Gondowangi",
+      "postal_code": "56481",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.07",
+        "name": "Sawangan"
+      }
+    },
+    {
+      "id": "33.08.07.2002",
+      "name": "Sawangan",
+      "postal_code": "56481",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.07",
+        "name": "Sawangan"
+      }
+    },
+    {
+      "id": "33.08.07.2003",
+      "name": "Krogowanan",
+      "postal_code": "56481",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.07",
+        "name": "Sawangan"
+      }
+    },
+    {
+      "id": "33.08.07.2004",
+      "name": "Kapuhan",
+      "postal_code": "56481",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.07",
+        "name": "Sawangan"
+      }
+    },
+    {
+      "id": "33.08.07.2005",
+      "name": "Ketep",
+      "postal_code": "56481",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.07",
+        "name": "Sawangan"
+      }
+    },
+    {
+      "id": "33.08.07.2007",
+      "name": "Banyuroto",
+      "postal_code": "56481",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.07",
+        "name": "Sawangan"
+      }
+    },
+    {
+      "id": "33.08.07.2008",
+      "name": "Wulunggunung",
+      "postal_code": "56481",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.07",
+        "name": "Sawangan"
+      }
+    },
+    {
+      "id": "33.08.07.2009",
+      "name": "Gantang",
+      "postal_code": "56481",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.07",
+        "name": "Sawangan"
+      }
+    },
+    {
+      "id": "33.08.07.2010",
+      "name": "Jati",
+      "postal_code": "56481",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.07",
+        "name": "Sawangan"
+      }
+    },
+    {
+      "id": "33.08.07.2011",
+      "name": "Butuh",
+      "postal_code": "56481",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.07",
+        "name": "Sawangan"
+      }
+    },
+    {
+      "id": "33.08.07.2012",
+      "name": "Mangunsari",
+      "postal_code": "56481",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.07",
+        "name": "Sawangan"
+      }
+    },
+    {
+      "id": "33.08.07.2013",
+      "name": "Tirtosari",
+      "postal_code": "56481",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.07",
+        "name": "Sawangan"
+      }
+    },
+    {
+      "id": "33.08.07.2014",
+      "name": "Podosoko",
+      "postal_code": "56481",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.07",
+        "name": "Sawangan"
+      }
+    },
+    {
+      "id": "33.08.07.2015",
+      "name": "Soronalan",
+      "postal_code": "56481",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.08",
+        "name": "Kabupaten Magelang"
+      },
+      "district": {
+        "id": "33.08.07",
+        "name": "Sawangan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

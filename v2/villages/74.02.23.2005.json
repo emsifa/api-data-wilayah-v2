@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.02.23.2005",
+    "name": "Puuwiwirano",
+    "postal_code": "93453",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.02",
+      "name": "Kabupaten Konawe"
+    },
+    "district": {
+      "id": "74.02.23",
+      "name": "Routa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

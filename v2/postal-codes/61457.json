@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "id": "35.17.20.2001",
+      "name": "Turipinggir",
+      "postal_code": "61457",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.20",
+        "name": "Megaluh"
+      }
+    },
+    {
+      "id": "35.17.20.2002",
+      "name": "Gongseng",
+      "postal_code": "61457",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.20",
+        "name": "Megaluh"
+      }
+    },
+    {
+      "id": "35.17.20.2003",
+      "name": "Megaluh",
+      "postal_code": "61457",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.20",
+        "name": "Megaluh"
+      }
+    },
+    {
+      "id": "35.17.20.2004",
+      "name": "Sudimoro",
+      "postal_code": "61457",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.20",
+        "name": "Megaluh"
+      }
+    },
+    {
+      "id": "35.17.20.2005",
+      "name": "Balongsari",
+      "postal_code": "61457",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.20",
+        "name": "Megaluh"
+      }
+    },
+    {
+      "id": "35.17.20.2006",
+      "name": "Sumbersari",
+      "postal_code": "61457",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.20",
+        "name": "Megaluh"
+      }
+    },
+    {
+      "id": "35.17.20.2007",
+      "name": "Ngogri",
+      "postal_code": "61457",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.20",
+        "name": "Megaluh"
+      }
+    },
+    {
+      "id": "35.17.20.2008",
+      "name": "Sidomulyo",
+      "postal_code": "61457",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.20",
+        "name": "Megaluh"
+      }
+    },
+    {
+      "id": "35.17.20.2009",
+      "name": "Balonggemek",
+      "postal_code": "61457",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.20",
+        "name": "Megaluh"
+      }
+    },
+    {
+      "id": "35.17.20.2010",
+      "name": "Dukuharum",
+      "postal_code": "61457",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.20",
+        "name": "Megaluh"
+      }
+    },
+    {
+      "id": "35.17.20.2011",
+      "name": "Sumberagung",
+      "postal_code": "61457",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.20",
+        "name": "Megaluh"
+      }
+    },
+    {
+      "id": "35.17.20.2012",
+      "name": "Pacarpeluk",
+      "postal_code": "61457",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.20",
+        "name": "Megaluh"
+      }
+    },
+    {
+      "id": "35.17.20.2013",
+      "name": "Kedungrejo",
+      "postal_code": "61457",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.17",
+        "name": "Kabupaten Jombang"
+      },
+      "district": {
+        "id": "35.17.20",
+        "name": "Megaluh"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

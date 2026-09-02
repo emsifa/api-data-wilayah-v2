@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.04.02.2017",
+      "name": "Gedangsewu",
+      "postal_code": "66231",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.04",
+        "name": "Kabupaten Tulungagung"
+      },
+      "district": {
+        "id": "35.04.02",
+        "name": "Boyolangu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

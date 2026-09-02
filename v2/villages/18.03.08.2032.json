@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.03.08.2032",
+    "name": "Negara Batin II",
+    "postal_code": "34563",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.03",
+      "name": "Kabupaten Lampung Utara"
+    },
+    "district": {
+      "id": "18.03.08",
+      "name": "Sungkai Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

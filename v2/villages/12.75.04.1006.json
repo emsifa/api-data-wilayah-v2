@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.75.04.1006",
+    "name": "Sumber Mulyorejo",
+    "postal_code": "20735",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.75",
+      "name": "Kota Binjai"
+    },
+    "district": {
+      "id": "12.75.04",
+      "name": "Binjai Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

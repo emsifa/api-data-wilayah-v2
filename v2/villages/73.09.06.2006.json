@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.09.06.2006",
+    "name": "Samaenre",
+    "postal_code": "90563",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.09",
+      "name": "Kabupaten Maros"
+    },
+    "district": {
+      "id": "73.09.06",
+      "name": "Malllawa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

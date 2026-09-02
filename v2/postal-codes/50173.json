@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "33.74.02.1009",
+      "name": "Dadapsari",
+      "postal_code": "50173",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.74",
+        "name": "Kota Semarang"
+      },
+      "district": {
+        "id": "33.74.02",
+        "name": "Semarang Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

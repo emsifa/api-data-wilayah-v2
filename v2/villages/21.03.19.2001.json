@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.03.19.2001",
+    "name": "Arung Ayam",
+    "postal_code": "29780",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.03",
+      "name": "Kabupaten Natuna"
+    },
+    "district": {
+      "id": "21.03.19",
+      "name": "Serasan Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "36.01.31.2006",
+    "name": "Pasirlancar",
+    "postal_code": "42276",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.01",
+      "name": "Kabupaten Pandeglang"
+    },
+    "district": {
+      "id": "36.01.31",
+      "name": "Sindangresmi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

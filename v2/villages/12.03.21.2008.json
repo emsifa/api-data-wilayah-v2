@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.03.21.2008",
+    "name": "Tolang Julu",
+    "postal_code": "22774",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.03",
+      "name": "Kabupaten Tapanuli Selatan"
+    },
+    "district": {
+      "id": "12.03.21",
+      "name": "Sayur Matinggi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

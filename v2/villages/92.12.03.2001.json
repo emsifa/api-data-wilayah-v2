@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.12.03.2001",
+    "name": "Inyebuow",
+    "postal_code": "98354",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.12",
+      "name": "Kabupaten Pegunungan Arfak"
+    },
+    "district": {
+      "id": "92.12.03",
+      "name": "Membey"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

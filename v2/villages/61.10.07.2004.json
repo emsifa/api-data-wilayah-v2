@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.10.07.2004",
+    "name": "Keluing Taja",
+    "postal_code": "79675",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.10",
+      "name": "Kabupaten Melawi"
+    },
+    "district": {
+      "id": "61.10.07",
+      "name": "Sokan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "71.02.01.1013",
+      "name": "Rerewokan",
+      "postal_code": "95615",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.02",
+        "name": "Kabupaten Minahasa"
+      },
+      "district": {
+        "id": "71.02.01",
+        "name": "Tondano Barat"
+      }
+    },
+    {
+      "id": "71.02.01.1014",
+      "name": "Watulambot",
+      "postal_code": "95615",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.02",
+        "name": "Kabupaten Minahasa"
+      },
+      "district": {
+        "id": "71.02.01",
+        "name": "Tondano Barat"
+      }
+    },
+    {
+      "id": "71.02.01.1015",
+      "name": "Wewelan",
+      "postal_code": "95615",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.02",
+        "name": "Kabupaten Minahasa"
+      },
+      "district": {
+        "id": "71.02.01",
+        "name": "Tondano Barat"
+      }
+    },
+    {
+      "id": "71.02.16.1001",
+      "name": "Sumalangka",
+      "postal_code": "95615",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.02",
+        "name": "Kabupaten Minahasa"
+      },
+      "district": {
+        "id": "71.02.16",
+        "name": "Tondano Utara"
+      }
+    },
+    {
+      "id": "71.02.16.1002",
+      "name": "Sasaran",
+      "postal_code": "95615",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.02",
+        "name": "Kabupaten Minahasa"
+      },
+      "district": {
+        "id": "71.02.16",
+        "name": "Tondano Utara"
+      }
+    },
+    {
+      "id": "71.02.16.2007",
+      "name": "Kembuan",
+      "postal_code": "95615",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.02",
+        "name": "Kabupaten Minahasa"
+      },
+      "district": {
+        "id": "71.02.16",
+        "name": "Tondano Utara"
+      }
+    },
+    {
+      "id": "71.02.16.2008",
+      "name": "Kembuan Satu",
+      "postal_code": "95615",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.02",
+        "name": "Kabupaten Minahasa"
+      },
+      "district": {
+        "id": "71.02.16",
+        "name": "Tondano Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.07.08.2003",
+    "name": "Bukit Damai",
+    "postal_code": "84459",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.07",
+      "name": "Kabupaten Sumbawa Barat"
+    },
+    "district": {
+      "id": "52.07.08",
+      "name": "Maluk"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

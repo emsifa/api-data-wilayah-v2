@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.24.09.2008",
+    "name": "Sifaoro'asi",
+    "postal_code": "22857",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.24",
+      "name": "Kabupaten Nias Utara"
+    },
+    "district": {
+      "id": "12.24.09",
+      "name": "Afulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

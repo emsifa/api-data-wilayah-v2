@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.15.12.2006",
+    "name": "Watang Kassa",
+    "postal_code": "91253",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.15",
+      "name": "Kabupaten Pinrang"
+    },
+    "district": {
+      "id": "73.15.12",
+      "name": "Batulappa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

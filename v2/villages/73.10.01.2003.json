@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.10.01.2003",
+    "name": "Balo Baloang",
+    "postal_code": "90673",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.10",
+      "name": "Kabupaten Pangkajene dan Kepulauan"
+    },
+    "district": {
+      "id": "73.10.01",
+      "name": "Liukang Tangaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

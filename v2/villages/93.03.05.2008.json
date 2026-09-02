@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.03.05.2008",
+    "name": "Kaibu",
+    "postal_code": "99881",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.03",
+      "name": "Kabupaten Mappi"
+    },
+    "district": {
+      "id": "93.03.05",
+      "name": "Haju"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

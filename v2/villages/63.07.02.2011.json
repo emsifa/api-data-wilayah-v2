@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.07.02.2011",
+    "name": "Baru Waki",
+    "postal_code": "71371",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.07",
+      "name": "Kabupaten Hulu Sungai Tengah"
+    },
+    "district": {
+      "id": "63.07.02",
+      "name": "Batu Benawa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

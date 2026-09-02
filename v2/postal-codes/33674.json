@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "19.04.04.2001",
+      "name": "Simpang Katis",
+      "postal_code": "33674",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.04",
+        "name": "Kabupaten Bangka Tengah"
+      },
+      "district": {
+        "id": "19.04.04",
+        "name": "Simpang Katis"
+      }
+    },
+    {
+      "id": "19.04.04.2002",
+      "name": "Celuak",
+      "postal_code": "33674",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.04",
+        "name": "Kabupaten Bangka Tengah"
+      },
+      "district": {
+        "id": "19.04.04",
+        "name": "Simpang Katis"
+      }
+    },
+    {
+      "id": "19.04.04.2003",
+      "name": "Sungkap",
+      "postal_code": "33674",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.04",
+        "name": "Kabupaten Bangka Tengah"
+      },
+      "district": {
+        "id": "19.04.04",
+        "name": "Simpang Katis"
+      }
+    },
+    {
+      "id": "19.04.04.2004",
+      "name": "Beruas",
+      "postal_code": "33674",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.04",
+        "name": "Kabupaten Bangka Tengah"
+      },
+      "district": {
+        "id": "19.04.04",
+        "name": "Simpang Katis"
+      }
+    },
+    {
+      "id": "19.04.04.2005",
+      "name": "Puput",
+      "postal_code": "33674",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.04",
+        "name": "Kabupaten Bangka Tengah"
+      },
+      "district": {
+        "id": "19.04.04",
+        "name": "Simpang Katis"
+      }
+    },
+    {
+      "id": "19.04.04.2006",
+      "name": "Teru",
+      "postal_code": "33674",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.04",
+        "name": "Kabupaten Bangka Tengah"
+      },
+      "district": {
+        "id": "19.04.04",
+        "name": "Simpang Katis"
+      }
+    },
+    {
+      "id": "19.04.04.2007",
+      "name": "Terak",
+      "postal_code": "33674",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.04",
+        "name": "Kabupaten Bangka Tengah"
+      },
+      "district": {
+        "id": "19.04.04",
+        "name": "Simpang Katis"
+      }
+    },
+    {
+      "id": "19.04.04.2008",
+      "name": "Pasir Garam",
+      "postal_code": "33674",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.04",
+        "name": "Kabupaten Bangka Tengah"
+      },
+      "district": {
+        "id": "19.04.04",
+        "name": "Simpang Katis"
+      }
+    },
+    {
+      "id": "19.04.04.2009",
+      "name": "Katis",
+      "postal_code": "33674",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.04",
+        "name": "Kabupaten Bangka Tengah"
+      },
+      "district": {
+        "id": "19.04.04",
+        "name": "Simpang Katis"
+      }
+    },
+    {
+      "id": "19.04.04.2010",
+      "name": "Pinang Sebatang",
+      "postal_code": "33674",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.04",
+        "name": "Kabupaten Bangka Tengah"
+      },
+      "district": {
+        "id": "19.04.04",
+        "name": "Simpang Katis"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

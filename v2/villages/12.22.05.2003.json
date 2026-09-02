@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.22.05.2003",
+    "name": "Aek Goti",
+    "postal_code": "21461",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.22",
+      "name": "Kabupaten Labuhanbatu Selatan"
+    },
+    "district": {
+      "id": "12.22.05",
+      "name": "Silangkitang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

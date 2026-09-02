@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.03.05.2016",
+    "name": "Rampah",
+    "postal_code": "24460",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.03",
+      "name": "Kabupaten Aceh Timur"
+    },
+    "district": {
+      "id": "11.03.05",
+      "name": "Serbajadi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.02.11.2016",
+    "name": "Sendangan I",
+    "postal_code": "95691",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.02",
+      "name": "Kabupaten Minahasa"
+    },
+    "district": {
+      "id": "71.02.11",
+      "name": "Sonder"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

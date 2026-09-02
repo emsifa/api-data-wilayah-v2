@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.03.09.2004",
+    "name": "Bilonlantunga",
+    "postal_code": "96571",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.03",
+      "name": "Kabupaten Bone Bolango"
+    },
+    "district": {
+      "id": "75.03.09",
+      "name": "Bone"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

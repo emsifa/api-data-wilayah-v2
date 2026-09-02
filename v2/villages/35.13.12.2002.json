@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.13.12.2002",
+    "name": "Jabungcandi",
+    "postal_code": "67291",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.13",
+      "name": "Kabupaten Probolinggo"
+    },
+    "district": {
+      "id": "35.13.12",
+      "name": "Paiton"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

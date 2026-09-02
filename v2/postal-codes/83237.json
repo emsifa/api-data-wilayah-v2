@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "52.71.06.1004",
+      "name": "Selagalas",
+      "postal_code": "83237",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.71",
+        "name": "Kota Mataram"
+      },
+      "district": {
+        "id": "52.71.06",
+        "name": "Sandubaya"
+      }
+    },
+    {
+      "id": "52.71.06.1005",
+      "name": "Abian Tubuh Baru",
+      "postal_code": "83237",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.71",
+        "name": "Kota Mataram"
+      },
+      "district": {
+        "id": "52.71.06",
+        "name": "Sandubaya"
+      }
+    },
+    {
+      "id": "52.71.06.1006",
+      "name": "Turida",
+      "postal_code": "83237",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.71",
+        "name": "Kota Mataram"
+      },
+      "district": {
+        "id": "52.71.06",
+        "name": "Sandubaya"
+      }
+    },
+    {
+      "id": "52.71.06.1007",
+      "name": "Mandalika",
+      "postal_code": "83237",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.71",
+        "name": "Kota Mataram"
+      },
+      "district": {
+        "id": "52.71.06",
+        "name": "Sandubaya"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.10.15.2004",
+    "name": "Randegan Wetan",
+    "postal_code": "45458",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.10",
+      "name": "Kabupaten Majalengka"
+    },
+    "district": {
+      "id": "32.10.15",
+      "name": "Jatitujuh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

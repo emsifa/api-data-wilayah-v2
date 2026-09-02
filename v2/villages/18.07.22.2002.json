@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.07.22.2002",
+    "name": "Braja Gemilang",
+    "postal_code": "34196",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.07",
+      "name": "Kabupaten Lampung Timur"
+    },
+    "district": {
+      "id": "18.07.22",
+      "name": "Braja Selebah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

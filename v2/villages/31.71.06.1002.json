@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "31.71.06.1002",
+    "name": "Pegangsaan",
+    "postal_code": "10320",
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    },
+    "regency": {
+      "id": "31.71",
+      "name": "Kota Administrasi Jakarta Pusat"
+    },
+    "district": {
+      "id": "31.71.06",
+      "name": "Menteng"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

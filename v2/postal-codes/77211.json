@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "65.01.01.1003",
+      "name": "Tanjung Palas Hilir",
+      "postal_code": "77211",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.01",
+        "name": "Kabupaten Bulungan"
+      },
+      "district": {
+        "id": "65.01.01",
+        "name": "Tanjung Palas"
+      }
+    },
+    {
+      "id": "65.01.01.2005",
+      "name": "Gunung Putih",
+      "postal_code": "77211",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.01",
+        "name": "Kabupaten Bulungan"
+      },
+      "district": {
+        "id": "65.01.01",
+        "name": "Tanjung Palas"
+      }
+    },
+    {
+      "id": "65.01.01.2006",
+      "name": "Pejalin",
+      "postal_code": "77211",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.01",
+        "name": "Kabupaten Bulungan"
+      },
+      "district": {
+        "id": "65.01.01",
+        "name": "Tanjung Palas"
+      }
+    },
+    {
+      "id": "65.01.01.2007",
+      "name": "Antutan",
+      "postal_code": "77211",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.01",
+        "name": "Kabupaten Bulungan"
+      },
+      "district": {
+        "id": "65.01.01",
+        "name": "Tanjung Palas"
+      }
+    },
+    {
+      "id": "65.01.05.1001",
+      "name": "Tanjung Selor Hulu",
+      "postal_code": "77211",
+      "province": {
+        "id": "65",
+        "name": "Kalimantan Utara"
+      },
+      "regency": {
+        "id": "65.01",
+        "name": "Kabupaten Bulungan"
+      },
+      "district": {
+        "id": "65.01.05",
+        "name": "Tanjung Selor"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

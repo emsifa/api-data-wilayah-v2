@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "53.08.14.2002",
+      "name": "Nduaria",
+      "postal_code": "86318",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.08",
+        "name": "Kabupaten Ende"
+      },
+      "district": {
+        "id": "53.08.14",
+        "name": "Kelimutu"
+      }
+    },
+    {
+      "id": "53.08.14.2003",
+      "name": "Nuamuri",
+      "postal_code": "86318",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.08",
+        "name": "Kabupaten Ende"
+      },
+      "district": {
+        "id": "53.08.14",
+        "name": "Kelimutu"
+      }
+    },
+    {
+      "id": "53.08.14.2004",
+      "name": "Nuamuri Barat",
+      "postal_code": "86318",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.08",
+        "name": "Kabupaten Ende"
+      },
+      "district": {
+        "id": "53.08.14",
+        "name": "Kelimutu"
+      }
+    },
+    {
+      "id": "53.08.14.2005",
+      "name": "Koanara",
+      "postal_code": "86318",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.08",
+        "name": "Kabupaten Ende"
+      },
+      "district": {
+        "id": "53.08.14",
+        "name": "Kelimutu"
+      }
+    },
+    {
+      "id": "53.08.14.2006",
+      "name": "Woloara",
+      "postal_code": "86318",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.08",
+        "name": "Kabupaten Ende"
+      },
+      "district": {
+        "id": "53.08.14",
+        "name": "Kelimutu"
+      }
+    },
+    {
+      "id": "53.08.14.2007",
+      "name": "Pemo",
+      "postal_code": "86318",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.08",
+        "name": "Kabupaten Ende"
+      },
+      "district": {
+        "id": "53.08.14",
+        "name": "Kelimutu"
+      }
+    },
+    {
+      "id": "53.08.14.2009",
+      "name": "Detuena",
+      "postal_code": "86318",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.08",
+        "name": "Kabupaten Ende"
+      },
+      "district": {
+        "id": "53.08.14",
+        "name": "Kelimutu"
+      }
+    },
+    {
+      "id": "53.08.14.2010",
+      "name": "Wolokelo",
+      "postal_code": "86318",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.08",
+        "name": "Kabupaten Ende"
+      },
+      "district": {
+        "id": "53.08.14",
+        "name": "Kelimutu"
+      }
+    },
+    {
+      "id": "53.08.14.2011",
+      "name": "Waturaka",
+      "postal_code": "86318",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.08",
+        "name": "Kabupaten Ende"
+      },
+      "district": {
+        "id": "53.08.14",
+        "name": "Kelimutu"
+      }
+    },
+    {
+      "id": "53.08.19.1002",
+      "name": "Onekore",
+      "postal_code": "86318",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.08",
+        "name": "Kabupaten Ende"
+      },
+      "district": {
+        "id": "53.08.19",
+        "name": "Ende Tengah"
+      }
+    },
+    {
+      "id": "53.08.19.1004",
+      "name": "Paupire",
+      "postal_code": "86318",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.08",
+        "name": "Kabupaten Ende"
+      },
+      "district": {
+        "id": "53.08.19",
+        "name": "Ende Tengah"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

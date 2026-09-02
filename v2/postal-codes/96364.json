@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "75.04.10.2001",
+      "name": "Bulili",
+      "postal_code": "96364",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.10",
+        "name": "Duhiadaa"
+      }
+    },
+    {
+      "id": "75.04.10.2002",
+      "name": "Buntulia Barat",
+      "postal_code": "96364",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.10",
+        "name": "Duhiadaa"
+      }
+    },
+    {
+      "id": "75.04.10.2003",
+      "name": "Buntulia Selatan",
+      "postal_code": "96364",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.10",
+        "name": "Duhiadaa"
+      }
+    },
+    {
+      "id": "75.04.10.2004",
+      "name": "Duhiadaa",
+      "postal_code": "96364",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.10",
+        "name": "Duhiadaa"
+      }
+    },
+    {
+      "id": "75.04.10.2005",
+      "name": "Mekar Jaya",
+      "postal_code": "96364",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.10",
+        "name": "Duhiadaa"
+      }
+    },
+    {
+      "id": "75.04.10.2006",
+      "name": "Buntulia Jaya",
+      "postal_code": "96364",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.10",
+        "name": "Duhiadaa"
+      }
+    },
+    {
+      "id": "75.04.10.2007",
+      "name": "Padengo",
+      "postal_code": "96364",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.10",
+        "name": "Duhiadaa"
+      }
+    },
+    {
+      "id": "75.04.10.2008",
+      "name": "Mootilango",
+      "postal_code": "96364",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.10",
+        "name": "Duhiadaa"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

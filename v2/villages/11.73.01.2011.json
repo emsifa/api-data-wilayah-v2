@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.73.01.2011",
+    "name": "Mns. Panggoi",
+    "postal_code": "24351",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.73",
+      "name": "Kota Lhokseumawe"
+    },
+    "district": {
+      "id": "11.73.01",
+      "name": "Muara Dua"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

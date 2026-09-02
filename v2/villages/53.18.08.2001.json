@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.18.08.2001",
+    "name": "Hoha Wungo",
+    "postal_code": "87260",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.18",
+      "name": "Kabupaten Sumba Barat Daya"
+    },
+    "district": {
+      "id": "53.18.08",
+      "name": "Kodi Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

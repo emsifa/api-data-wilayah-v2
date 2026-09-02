@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.10.11.2016",
+    "name": "Ngawonggo",
+    "postal_code": "57465",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.10",
+      "name": "Kabupaten Klaten"
+    },
+    "district": {
+      "id": "33.10.11",
+      "name": "Ceper"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

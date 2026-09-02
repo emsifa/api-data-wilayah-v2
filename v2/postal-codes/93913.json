@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "74.08.13.2003",
+      "name": "Katoi",
+      "postal_code": "93913",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.08",
+        "name": "Kabupaten Kolaka Utara"
+      },
+      "district": {
+        "id": "74.08.13",
+        "name": "Katoi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

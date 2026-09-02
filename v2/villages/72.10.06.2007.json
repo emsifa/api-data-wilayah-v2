@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "72.10.06.2007",
+    "name": "Salutome",
+    "postal_code": "94373",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.10",
+      "name": "Kabupaten Sigi"
+    },
+    "district": {
+      "id": "72.10.06",
+      "name": "Kulawi Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

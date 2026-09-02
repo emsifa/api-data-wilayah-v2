@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.03.23.2003",
+    "name": "Pini",
+    "postal_code": "99763",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.03",
+      "name": "Kabupaten Yahukimo"
+    },
+    "district": {
+      "id": "95.03.23",
+      "name": "Ubahak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

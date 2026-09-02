@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.71.01.1010",
+    "name": "Pemurus Dalam",
+    "postal_code": "70248",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.71",
+      "name": "Kota Banjarmasin"
+    },
+    "district": {
+      "id": "63.71.01",
+      "name": "Banjarmasin Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.14.03.2005",
+    "name": "Lalibo",
+    "postal_code": "93764",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.14",
+      "name": "Kabupaten Buton Tengah"
+    },
+    "district": {
+      "id": "74.14.03",
+      "name": "Mawasangka Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

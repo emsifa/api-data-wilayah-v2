@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.04.18.2003",
+    "name": "Labuhan Sumbawa",
+    "postal_code": "84316",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.04",
+      "name": "Kabupaten Sumbawa"
+    },
+    "district": {
+      "id": "52.04.18",
+      "name": "Labuhan Badas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "51.02.10.2008",
+    "name": "Bantiran",
+    "postal_code": "82163",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.02",
+      "name": "Kabupaten Tabanan"
+    },
+    "district": {
+      "id": "51.02.10",
+      "name": "Pupuan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

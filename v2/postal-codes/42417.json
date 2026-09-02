@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "36.72.02.1003",
+      "name": "Bendungan",
+      "postal_code": "42417",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.72",
+        "name": "Kota Cilegon"
+      },
+      "district": {
+        "id": "36.72.02",
+        "name": "Cilegon"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

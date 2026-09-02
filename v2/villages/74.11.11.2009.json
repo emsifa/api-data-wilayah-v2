@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.11.11.2009",
+    "name": "Likuwalanapo",
+    "postal_code": "93575",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.11",
+      "name": "Kabupaten Kolaka Timur"
+    },
+    "district": {
+      "id": "74.11.11",
+      "name": "Ueesi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

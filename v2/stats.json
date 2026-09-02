@@ -1,0 +1,16 @@
+{
+  "data": {
+    "total_area": 1889518.2540000002,
+    "total_districts": 7285,
+    "total_paths": 551,
+    "total_population": 284973643,
+    "total_postal_codes": 10632,
+    "total_provinces": 38,
+    "total_regencies": 514,
+    "total_villages": 83762
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 0
+  }
+}

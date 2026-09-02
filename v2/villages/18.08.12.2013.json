@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.08.12.2013",
+    "name": "Negeri Kasih",
+    "postal_code": "34774",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.08",
+      "name": "Kabupaten Way Kanan"
+    },
+    "district": {
+      "id": "18.08.12",
+      "name": "Negeri Besar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.03.01.2020",
+    "name": "Masin",
+    "postal_code": "99871",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.03",
+      "name": "Kabupaten Mappi"
+    },
+    "district": {
+      "id": "93.03.01",
+      "name": "Obaa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.11.02.2052",
+    "name": "Meunasah Tunong Lueng",
+    "postal_code": "24263",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.11",
+      "name": "Kabupaten Bireuen"
+    },
+    "district": {
+      "id": "11.11.02",
+      "name": "Jeunieb"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

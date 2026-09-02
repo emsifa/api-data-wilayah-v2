@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.04.33.2007",
+    "name": "Majakerta",
+    "postal_code": "40382",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.04",
+      "name": "Kabupaten Bandung"
+    },
+    "district": {
+      "id": "32.04.33",
+      "name": "Majalaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

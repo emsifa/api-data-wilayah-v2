@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "53.10.13.2002",
+      "name": "Hilihintir",
+      "postal_code": "86560",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.10",
+        "name": "Kabupaten Manggarai"
+      },
+      "district": {
+        "id": "53.10.13",
+        "name": "Satar Mese Barat"
+      }
+    },
+    {
+      "id": "53.10.13.2005",
+      "name": "Bea Kondo",
+      "postal_code": "86560",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.10",
+        "name": "Kabupaten Manggarai"
+      },
+      "district": {
+        "id": "53.10.13",
+        "name": "Satar Mese Barat"
+      }
+    },
+    {
+      "id": "53.10.13.2012",
+      "name": "Golo Ropong",
+      "postal_code": "86560",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.10",
+        "name": "Kabupaten Manggarai"
+      },
+      "district": {
+        "id": "53.10.13",
+        "name": "Satar Mese Barat"
+      }
+    },
+    {
+      "id": "53.10.13.2013",
+      "name": "Terong",
+      "postal_code": "86560",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.10",
+        "name": "Kabupaten Manggarai"
+      },
+      "district": {
+        "id": "53.10.13",
+        "name": "Satar Mese Barat"
+      }
+    },
+    {
+      "id": "53.10.13.2014",
+      "name": "Ceka Luju",
+      "postal_code": "86560",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.10",
+        "name": "Kabupaten Manggarai"
+      },
+      "district": {
+        "id": "53.10.13",
+        "name": "Satar Mese Barat"
+      }
+    },
+    {
+      "id": "53.10.13.2015",
+      "name": "Satar Luju",
+      "postal_code": "86560",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.10",
+        "name": "Kabupaten Manggarai"
+      },
+      "district": {
+        "id": "53.10.13",
+        "name": "Satar Mese Barat"
+      }
+    },
+    {
+      "id": "53.10.13.2016",
+      "name": "Satar Lenda",
+      "postal_code": "86560",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.10",
+        "name": "Kabupaten Manggarai"
+      },
+      "district": {
+        "id": "53.10.13",
+        "name": "Satar Mese Barat"
+      }
+    },
+    {
+      "id": "53.10.13.2017",
+      "name": "Satar Ruwuk",
+      "postal_code": "86560",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.10",
+        "name": "Kabupaten Manggarai"
+      },
+      "district": {
+        "id": "53.10.13",
+        "name": "Satar Mese Barat"
+      }
+    },
+    {
+      "id": "53.10.13.2018",
+      "name": "Nuca Molas",
+      "postal_code": "86560",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.10",
+        "name": "Kabupaten Manggarai"
+      },
+      "district": {
+        "id": "53.10.13",
+        "name": "Satar Mese Barat"
+      }
+    },
+    {
+      "id": "53.10.13.2019",
+      "name": "Borik",
+      "postal_code": "86560",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.10",
+        "name": "Kabupaten Manggarai"
+      },
+      "district": {
+        "id": "53.10.13",
+        "name": "Satar Mese Barat"
+      }
+    },
+    {
+      "id": "53.10.13.2021",
+      "name": "Cambir Leca",
+      "postal_code": "86560",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.10",
+        "name": "Kabupaten Manggarai"
+      },
+      "district": {
+        "id": "53.10.13",
+        "name": "Satar Mese Barat"
+      }
+    },
+    {
+      "id": "53.10.13.2022",
+      "name": "Wongka",
+      "postal_code": "86560",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.10",
+        "name": "Kabupaten Manggarai"
+      },
+      "district": {
+        "id": "53.10.13",
+        "name": "Satar Mese Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

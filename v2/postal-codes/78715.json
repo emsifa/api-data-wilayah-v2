@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "61.06.17.1001",
+      "name": "Kedamin Hulu",
+      "postal_code": "78715",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.17",
+        "name": "Putussibau Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

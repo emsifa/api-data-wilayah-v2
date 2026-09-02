@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.08.26.2006",
+    "name": "Lili Riawang",
+    "postal_code": "92763",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.08",
+      "name": "Kabupaten Bone"
+    },
+    "district": {
+      "id": "73.08.26",
+      "name": "Bengo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

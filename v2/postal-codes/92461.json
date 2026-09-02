@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "73.03.07.1001",
+      "name": "Gantarang Keke",
+      "postal_code": "92461",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.03",
+        "name": "Kabupaten Bantaeng"
+      },
+      "district": {
+        "id": "73.03.07",
+        "name": "Gantarang Keke"
+      }
+    },
+    {
+      "id": "73.03.07.1002",
+      "name": "Tanah Loe",
+      "postal_code": "92461",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.03",
+        "name": "Kabupaten Bantaeng"
+      },
+      "district": {
+        "id": "73.03.07",
+        "name": "Gantarang Keke"
+      }
+    },
+    {
+      "id": "73.03.07.2003",
+      "name": "Layoa",
+      "postal_code": "92461",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.03",
+        "name": "Kabupaten Bantaeng"
+      },
+      "district": {
+        "id": "73.03.07",
+        "name": "Gantarang Keke"
+      }
+    },
+    {
+      "id": "73.03.07.2004",
+      "name": "Bajiminasa",
+      "postal_code": "92461",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.03",
+        "name": "Kabupaten Bantaeng"
+      },
+      "district": {
+        "id": "73.03.07",
+        "name": "Gantarang Keke"
+      }
+    },
+    {
+      "id": "73.03.07.2005",
+      "name": "Tombolo",
+      "postal_code": "92461",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.03",
+        "name": "Kabupaten Bantaeng"
+      },
+      "district": {
+        "id": "73.03.07",
+        "name": "Gantarang Keke"
+      }
+    },
+    {
+      "id": "73.03.07.2006",
+      "name": "Kaloling",
+      "postal_code": "92461",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.03",
+        "name": "Kabupaten Bantaeng"
+      },
+      "district": {
+        "id": "73.03.07",
+        "name": "Gantarang Keke"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

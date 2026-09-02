@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.07.07.2002",
+    "name": "Kalimantong",
+    "postal_code": "84455",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.07",
+      "name": "Kabupaten Sumbawa Barat"
+    },
+    "district": {
+      "id": "52.07.07",
+      "name": "Brang Ene"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.08.02.2004",
+    "name": "Rempek",
+    "postal_code": "83353",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.08",
+      "name": "Kabupaten Lombok Utara"
+    },
+    "district": {
+      "id": "52.08.02",
+      "name": "Gangga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

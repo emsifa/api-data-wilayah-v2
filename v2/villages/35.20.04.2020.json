@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.20.04.2020",
+    "name": "Madigondo",
+    "postal_code": "63381",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.20",
+      "name": "Kabupaten Magetan"
+    },
+    "district": {
+      "id": "35.20.04",
+      "name": "Takeran"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

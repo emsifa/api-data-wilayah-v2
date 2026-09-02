@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.14.11.1007",
+    "name": "Jogosari",
+    "postal_code": "67156",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.14",
+      "name": "Kabupaten Pasuruan"
+    },
+    "district": {
+      "id": "35.14.11",
+      "name": "Pandaan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

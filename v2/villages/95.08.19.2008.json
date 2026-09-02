@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.08.19.2008",
+    "name": "Likubuk",
+    "postal_code": "99915",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.08",
+      "name": "Kabupaten Nduga"
+    },
+    "district": {
+      "id": "95.08.19",
+      "name": "Nirkuri"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

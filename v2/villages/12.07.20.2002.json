@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.07.20.2002",
+    "name": "Tanjung Bampu",
+    "postal_code": "20582",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.07",
+      "name": "Kabupaten Deli Serdang"
+    },
+    "district": {
+      "id": "12.07.20",
+      "name": "Sinembah Tanjung Muda Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

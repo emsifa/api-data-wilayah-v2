@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "81.71.04.1008",
+      "name": "Tihu",
+      "postal_code": "97237",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.71",
+        "name": "Kota Ambon"
+      },
+      "district": {
+        "id": "81.71.04",
+        "name": "Teluk Ambon"
+      }
+    },
+    {
+      "id": "81.71.05.2006",
+      "name": "Hutumury",
+      "postal_code": "97237",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.71",
+        "name": "Kota Ambon"
+      },
+      "district": {
+        "id": "81.71.05",
+        "name": "Leitimur Selatan"
+      }
+    },
+    {
+      "id": "81.71.05.2007",
+      "name": "Rutong",
+      "postal_code": "97237",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.71",
+        "name": "Kota Ambon"
+      },
+      "district": {
+        "id": "81.71.05",
+        "name": "Leitimur Selatan"
+      }
+    },
+    {
+      "id": "81.71.05.2008",
+      "name": "Leahari",
+      "postal_code": "97237",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.71",
+        "name": "Kota Ambon"
+      },
+      "district": {
+        "id": "81.71.05",
+        "name": "Leitimur Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

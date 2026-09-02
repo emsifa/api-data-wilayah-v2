@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.01.05.2011",
+    "name": "Polassi",
+    "postal_code": "92855",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.01",
+      "name": "Kabupaten Kepulauan Selayar"
+    },
+    "district": {
+      "id": "73.01.05",
+      "name": "Bontosikuyu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.12.07.2007",
+    "name": "Widasari",
+    "postal_code": "45271",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.12",
+      "name": "Kabupaten Indramayu"
+    },
+    "district": {
+      "id": "32.12.07",
+      "name": "Widasari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

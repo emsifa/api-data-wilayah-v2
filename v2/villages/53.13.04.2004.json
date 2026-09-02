@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.13.04.2004",
+    "name": "Lodotodokowa",
+    "postal_code": "86681",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.13",
+      "name": "Kabupaten Lembata"
+    },
+    "district": {
+      "id": "53.13.04",
+      "name": "Lebatukan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

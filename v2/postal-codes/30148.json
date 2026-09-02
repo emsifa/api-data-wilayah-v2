@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "16.71.12.1002",
+      "name": "Karanganyar",
+      "postal_code": "30148",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.71",
+        "name": "Kota Palembang"
+      },
+      "district": {
+        "id": "16.71.12",
+        "name": "Gandus"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "33.22.15.2006",
+      "name": "Wonorejo",
+      "postal_code": "50212",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.22",
+        "name": "Kabupaten Semarang"
+      },
+      "district": {
+        "id": "33.22.15",
+        "name": "Pringapus"
+      }
+    },
+    {
+      "id": "33.74.14.1014",
+      "name": "Pesantren",
+      "postal_code": "50212",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.74",
+        "name": "Kota Semarang"
+      },
+      "district": {
+        "id": "33.74.14",
+        "name": "Mijen"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

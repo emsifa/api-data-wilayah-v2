@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.18.04.2023",
+    "name": "Pero",
+    "postal_code": "87253",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.18",
+      "name": "Kabupaten Sumba Barat Daya"
+    },
+    "district": {
+      "id": "53.18.04",
+      "name": "Wewewa Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "72.03.25.2001",
+      "name": "Sikara Tobata",
+      "postal_code": "94343",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.03",
+        "name": "Kabupaten Donggala"
+      },
+      "district": {
+        "id": "72.03.25",
+        "name": "Sindue Tobata"
+      }
+    },
+    {
+      "id": "72.03.25.2002",
+      "name": "Alindau",
+      "postal_code": "94343",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.03",
+        "name": "Kabupaten Donggala"
+      },
+      "district": {
+        "id": "72.03.25",
+        "name": "Sindue Tobata"
+      }
+    },
+    {
+      "id": "72.03.25.2003",
+      "name": "Oti",
+      "postal_code": "94343",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.03",
+        "name": "Kabupaten Donggala"
+      },
+      "district": {
+        "id": "72.03.25",
+        "name": "Sindue Tobata"
+      }
+    },
+    {
+      "id": "72.03.25.2004",
+      "name": "Tamarenja",
+      "postal_code": "94343",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.03",
+        "name": "Kabupaten Donggala"
+      },
+      "district": {
+        "id": "72.03.25",
+        "name": "Sindue Tobata"
+      }
+    },
+    {
+      "id": "72.03.25.2005",
+      "name": "Sipeso",
+      "postal_code": "94343",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.03",
+        "name": "Kabupaten Donggala"
+      },
+      "district": {
+        "id": "72.03.25",
+        "name": "Sindue Tobata"
+      }
+    },
+    {
+      "id": "72.03.25.2006",
+      "name": "Sindosa",
+      "postal_code": "94343",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.03",
+        "name": "Kabupaten Donggala"
+      },
+      "district": {
+        "id": "72.03.25",
+        "name": "Sindue Tobata"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

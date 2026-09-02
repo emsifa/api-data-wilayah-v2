@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.05.20.2020",
+    "name": "Penjernang Hulu",
+    "postal_code": "78655",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.05",
+      "name": "Kabupaten Sintang"
+    },
+    "district": {
+      "id": "61.05.20",
+      "name": "Sungai Tebelian"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

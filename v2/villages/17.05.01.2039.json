@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.05.01.2039",
+    "name": "Sari Mulyo",
+    "postal_code": "38877",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.05",
+      "name": "Kabupaten Seluma"
+    },
+    "district": {
+      "id": "17.05.01",
+      "name": "Sukaraja"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

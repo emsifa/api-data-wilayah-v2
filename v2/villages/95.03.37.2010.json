@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.03.37.2010",
+    "name": "Hemuka",
+    "postal_code": "99741",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.03",
+      "name": "Kabupaten Yahukimo"
+    },
+    "district": {
+      "id": "95.03.37",
+      "name": "Sela"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

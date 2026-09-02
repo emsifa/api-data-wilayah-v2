@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.07.08.2017",
+    "name": "Timutawa",
+    "postal_code": "86183",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.07",
+      "name": "Kabupaten Sikka"
+    },
+    "district": {
+      "id": "53.07.08",
+      "name": "Talibura"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

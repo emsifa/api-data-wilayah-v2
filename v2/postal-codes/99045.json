@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "95.04.17.2001",
+      "name": "Nabunage",
+      "postal_code": "99045",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.17",
+        "name": "Nabunage"
+      }
+    },
+    {
+      "id": "95.04.17.2002",
+      "name": "Kupara",
+      "postal_code": "99045",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.17",
+        "name": "Nabunage"
+      }
+    },
+    {
+      "id": "95.04.17.2003",
+      "name": "Kutime",
+      "postal_code": "99045",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.17",
+        "name": "Nabunage"
+      }
+    },
+    {
+      "id": "95.04.17.2004",
+      "name": "Kumbo",
+      "postal_code": "99045",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.17",
+        "name": "Nabunage"
+      }
+    },
+    {
+      "id": "95.04.17.2005",
+      "name": "Timbindelo",
+      "postal_code": "99045",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.17",
+        "name": "Nabunage"
+      }
+    },
+    {
+      "id": "95.04.17.2011",
+      "name": "Logilome",
+      "postal_code": "99045",
+      "province": {
+        "id": "95",
+        "name": "Papua Pegunungan"
+      },
+      "regency": {
+        "id": "95.04",
+        "name": "Kabupaten Tolikara"
+      },
+      "district": {
+        "id": "95.04.17",
+        "name": "Nabunage"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

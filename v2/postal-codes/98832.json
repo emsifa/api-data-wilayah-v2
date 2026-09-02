@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "94.01.09.2003",
+      "name": "Kimi",
+      "postal_code": "98832",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.01",
+        "name": "Kabupaten Nabire"
+      },
+      "district": {
+        "id": "94.01.09",
+        "name": "Teluk Kimi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

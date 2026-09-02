@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.03.09.2001",
+    "name": "Subi",
+    "postal_code": "29779",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.03",
+      "name": "Kabupaten Natuna"
+    },
+    "district": {
+      "id": "21.03.09",
+      "name": "Subi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

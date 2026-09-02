@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "51.05.03.1009",
+      "name": "Semarapura Kauh",
+      "postal_code": "80713",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.05",
+        "name": "Kabupaten Klungkung"
+      },
+      "district": {
+        "id": "51.05.03",
+        "name": "Klungkung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

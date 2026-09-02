@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "18.07.15.2001",
+      "name": "Sribhawono",
+      "postal_code": "34389",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.07",
+        "name": "Kabupaten Lampung Timur"
+      },
+      "district": {
+        "id": "18.07.15",
+        "name": "Bandar Sribhawono"
+      }
+    },
+    {
+      "id": "18.07.15.2002",
+      "name": "Sadar Sriwijaya",
+      "postal_code": "34389",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.07",
+        "name": "Kabupaten Lampung Timur"
+      },
+      "district": {
+        "id": "18.07.15",
+        "name": "Bandar Sribhawono"
+      }
+    },
+    {
+      "id": "18.07.15.2003",
+      "name": "Srimenanti",
+      "postal_code": "34389",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.07",
+        "name": "Kabupaten Lampung Timur"
+      },
+      "district": {
+        "id": "18.07.15",
+        "name": "Bandar Sribhawono"
+      }
+    },
+    {
+      "id": "18.07.15.2004",
+      "name": "Sripendowo",
+      "postal_code": "34389",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.07",
+        "name": "Kabupaten Lampung Timur"
+      },
+      "district": {
+        "id": "18.07.15",
+        "name": "Bandar Sribhawono"
+      }
+    },
+    {
+      "id": "18.07.15.2005",
+      "name": "Waringin Jaya",
+      "postal_code": "34389",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.07",
+        "name": "Kabupaten Lampung Timur"
+      },
+      "district": {
+        "id": "18.07.15",
+        "name": "Bandar Sribhawono"
+      }
+    },
+    {
+      "id": "18.07.15.2006",
+      "name": "Bandar Agung",
+      "postal_code": "34389",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.07",
+        "name": "Kabupaten Lampung Timur"
+      },
+      "district": {
+        "id": "18.07.15",
+        "name": "Bandar Sribhawono"
+      }
+    },
+    {
+      "id": "18.07.15.2007",
+      "name": "Mekar Jaya",
+      "postal_code": "34389",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.07",
+        "name": "Kabupaten Lampung Timur"
+      },
+      "district": {
+        "id": "18.07.15",
+        "name": "Bandar Sribhawono"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

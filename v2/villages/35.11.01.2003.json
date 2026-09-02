@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.11.01.2003",
+    "name": "Tanahwulan",
+    "postal_code": "68262",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.11",
+      "name": "Kabupaten Bondowoso"
+    },
+    "district": {
+      "id": "35.11.01",
+      "name": "Maesan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

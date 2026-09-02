@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.10.02.2017",
+    "name": "Mekar Baru",
+    "postal_code": "28756",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.10",
+      "name": "Kabupaten Kepulauan Meranti"
+    },
+    "district": {
+      "id": "14.10.02",
+      "name": "Rangsang Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

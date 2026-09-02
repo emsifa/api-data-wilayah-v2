@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.22.14.2021",
+    "name": "Klampok",
+    "postal_code": "62181",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.22",
+      "name": "Kabupaten Bojonegoro"
+    },
+    "district": {
+      "id": "35.22.14",
+      "name": "Kapas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

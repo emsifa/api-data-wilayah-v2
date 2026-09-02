@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.03.06.2002",
+    "name": "Bojongpicung",
+    "postal_code": "43283",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.03",
+      "name": "Kabupaten Cianjur"
+    },
+    "district": {
+      "id": "32.03.06",
+      "name": "Bonjogpicung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

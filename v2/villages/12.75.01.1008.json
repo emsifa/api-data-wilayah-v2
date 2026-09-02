@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.75.01.1008",
+    "name": "Jati Makmur",
+    "postal_code": "20748",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.75",
+      "name": "Kota Binjai"
+    },
+    "district": {
+      "id": "12.75.01",
+      "name": "Binjai Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

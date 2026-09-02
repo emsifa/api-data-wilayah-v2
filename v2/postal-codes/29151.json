@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "21.01.14.2001",
+      "name": "Kelong",
+      "postal_code": "29151",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.01",
+        "name": "Kabupaten Bintan"
+      },
+      "district": {
+        "id": "21.01.14",
+        "name": "Bintan Pesisir"
+      }
+    },
+    {
+      "id": "21.01.14.2002",
+      "name": "Mapur",
+      "postal_code": "29151",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.01",
+        "name": "Kabupaten Bintan"
+      },
+      "district": {
+        "id": "21.01.14",
+        "name": "Bintan Pesisir"
+      }
+    },
+    {
+      "id": "21.01.14.2003",
+      "name": "Numbing",
+      "postal_code": "29151",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.01",
+        "name": "Kabupaten Bintan"
+      },
+      "district": {
+        "id": "21.01.14",
+        "name": "Bintan Pesisir"
+      }
+    },
+    {
+      "id": "21.01.14.2004",
+      "name": "Air Gelubi",
+      "postal_code": "29151",
+      "province": {
+        "id": "21",
+        "name": "Kepulauan Riau"
+      },
+      "regency": {
+        "id": "21.01",
+        "name": "Kabupaten Bintan"
+      },
+      "district": {
+        "id": "21.01.14",
+        "name": "Bintan Pesisir"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

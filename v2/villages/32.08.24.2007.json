@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.08.24.2007",
+    "name": "Kananga",
+    "postal_code": "45582",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.08",
+      "name": "Kabupaten Kuningan"
+    },
+    "district": {
+      "id": "32.08.24",
+      "name": "Cimahi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

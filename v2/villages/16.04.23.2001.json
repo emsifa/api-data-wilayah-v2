@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.04.23.2001",
+    "name": "Sirah Pulau",
+    "postal_code": "31473",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.04",
+      "name": "Kabupaten Lahat"
+    },
+    "district": {
+      "id": "16.04.23",
+      "name": "Merapi Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

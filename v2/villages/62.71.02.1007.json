@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.71.02.1007",
+    "name": "Habaring Hurung",
+    "postal_code": "73221",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.71",
+      "name": "Kota Palangkaraya"
+    },
+    "district": {
+      "id": "62.71.02",
+      "name": "Bukit Batu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

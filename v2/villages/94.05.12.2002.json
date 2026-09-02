@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.05.12.2002",
+    "name": "Hikinat",
+    "postal_code": "98954",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.05",
+      "name": "Kabupaten Puncak"
+    },
+    "district": {
+      "id": "94.05.12",
+      "name": "Ogamanim"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

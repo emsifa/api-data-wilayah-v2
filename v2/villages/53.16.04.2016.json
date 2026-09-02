@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.16.04.2016",
+    "name": "Kotagana",
+    "postal_code": "86463",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.16",
+      "name": "Kabupaten Nagekeo"
+    },
+    "district": {
+      "id": "53.16.04",
+      "name": "Mauponggo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

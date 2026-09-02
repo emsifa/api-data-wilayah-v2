@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.08.07.2007",
+    "name": "Kota Baru",
+    "postal_code": "34773",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.08",
+      "name": "Kabupaten Way Kanan"
+    },
+    "district": {
+      "id": "18.08.07",
+      "name": "Negeri Agung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

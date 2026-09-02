@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.03.21.2005",
+    "name": "Suruh Tembawang",
+    "postal_code": "78557",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.03",
+      "name": "Kabupaten Sanggau"
+    },
+    "district": {
+      "id": "61.03.21",
+      "name": "Entikong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

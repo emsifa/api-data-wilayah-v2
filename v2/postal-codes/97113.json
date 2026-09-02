@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "81.71.01.1011",
+      "name": "Urimessing",
+      "postal_code": "97113",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.71",
+        "name": "Kota Ambon"
+      },
+      "district": {
+        "id": "81.71.01",
+        "name": "Nusaniwe"
+      }
+    },
+    {
+      "id": "81.71.01.2005",
+      "name": "Urimessing",
+      "postal_code": "97113",
+      "province": {
+        "id": "81",
+        "name": "Maluku"
+      },
+      "regency": {
+        "id": "81.71",
+        "name": "Kota Ambon"
+      },
+      "district": {
+        "id": "81.71.01",
+        "name": "Nusaniwe"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

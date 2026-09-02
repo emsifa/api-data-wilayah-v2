@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.05.32.2004",
+    "name": "Cijayana",
+    "postal_code": "44155",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.05",
+      "name": "Kabupaten Garut"
+    },
+    "district": {
+      "id": "32.05.32",
+      "name": "Mekarmukti"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

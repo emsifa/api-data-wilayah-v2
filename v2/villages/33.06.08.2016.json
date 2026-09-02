@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.06.08.2016",
+    "name": "Botodaleman",
+    "postal_code": "54224",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.06",
+      "name": "Kabupaten Purworejo"
+    },
+    "district": {
+      "id": "33.06.08",
+      "name": "Bayan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

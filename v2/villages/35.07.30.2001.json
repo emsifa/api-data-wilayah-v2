@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.07.30.2001",
+    "name": "Pujiharjo",
+    "postal_code": "65182",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.07",
+      "name": "Kabupaten Malang"
+    },
+    "district": {
+      "id": "35.07.30",
+      "name": "Tirtoyudo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

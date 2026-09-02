@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "33.07.09.1002",
+      "name": "Tawangsari",
+      "postal_code": "56313",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.07",
+        "name": "Kabupaten Wonosobo"
+      },
+      "district": {
+        "id": "33.07.09",
+        "name": "Wonosobo"
+      }
+    },
+    {
+      "id": "33.07.09.2001",
+      "name": "Wonolelo",
+      "postal_code": "56313",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.07",
+        "name": "Kabupaten Wonosobo"
+      },
+      "district": {
+        "id": "33.07.09",
+        "name": "Wonosobo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

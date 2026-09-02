@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.06.16.2010",
+    "name": "Gung Pinto",
+    "postal_code": "22151",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.06",
+      "name": "Kabupaten Karo"
+    },
+    "district": {
+      "id": "12.06.16",
+      "name": "Naman Teran"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

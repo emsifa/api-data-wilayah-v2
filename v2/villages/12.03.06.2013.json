@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.03.06.2013",
+    "name": "Perkebunan Marpinggan",
+    "postal_code": "22732",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.03",
+      "name": "Kabupaten Tapanuli Selatan"
+    },
+    "district": {
+      "id": "12.03.06",
+      "name": "Angkola Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.10.01.2004",
+    "name": "Tanjung Karitak",
+    "postal_code": "74570",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.10",
+      "name": "Kabupaten Gunung Mas"
+    },
+    "district": {
+      "id": "62.10.01",
+      "name": "Sepang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

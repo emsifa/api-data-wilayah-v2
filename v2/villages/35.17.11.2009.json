@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.17.11.2009",
+    "name": "Sebani",
+    "postal_code": "61483",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.17",
+      "name": "Kabupaten Jombang"
+    },
+    "district": {
+      "id": "35.17.11",
+      "name": "Sumobito"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.03.01.1006",
+    "name": "Bonto Langkasa",
+    "postal_code": "92451",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.03",
+      "name": "Kabupaten Bantaeng"
+    },
+    "district": {
+      "id": "73.03.01",
+      "name": "Bissappu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "75.04.13.2001",
+      "name": "Dudewulo",
+      "postal_code": "96467",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.13",
+        "name": "Popayato Barat"
+      }
+    },
+    {
+      "id": "75.04.13.2002",
+      "name": "Tunas Jaya",
+      "postal_code": "96467",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.13",
+        "name": "Popayato Barat"
+      }
+    },
+    {
+      "id": "75.04.13.2003",
+      "name": "Padengo",
+      "postal_code": "96467",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.13",
+        "name": "Popayato Barat"
+      }
+    },
+    {
+      "id": "75.04.13.2004",
+      "name": "Molosipat",
+      "postal_code": "96467",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.13",
+        "name": "Popayato Barat"
+      }
+    },
+    {
+      "id": "75.04.13.2005",
+      "name": "Butungale",
+      "postal_code": "96467",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.13",
+        "name": "Popayato Barat"
+      }
+    },
+    {
+      "id": "75.04.13.2006",
+      "name": "Persatuan",
+      "postal_code": "96467",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.13",
+        "name": "Popayato Barat"
+      }
+    },
+    {
+      "id": "75.04.13.2007",
+      "name": "Molosipat Utara",
+      "postal_code": "96467",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.13",
+        "name": "Popayato Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

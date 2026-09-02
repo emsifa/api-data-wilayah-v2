@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "18.01.08.2001",
+      "name": "Tarahan",
+      "postal_code": "35452",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.01",
+        "name": "Kabupaten Lampung Selatan"
+      },
+      "district": {
+        "id": "18.01.08",
+        "name": "Katibung"
+      }
+    },
+    {
+      "id": "18.01.08.2002",
+      "name": "Babatan",
+      "postal_code": "35452",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.01",
+        "name": "Kabupaten Lampung Selatan"
+      },
+      "district": {
+        "id": "18.01.08",
+        "name": "Katibung"
+      }
+    },
+    {
+      "id": "18.01.08.2003",
+      "name": "Pardasuka",
+      "postal_code": "35452",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.01",
+        "name": "Kabupaten Lampung Selatan"
+      },
+      "district": {
+        "id": "18.01.08",
+        "name": "Katibung"
+      }
+    },
+    {
+      "id": "18.01.08.2004",
+      "name": "Sukajaya",
+      "postal_code": "35452",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.01",
+        "name": "Kabupaten Lampung Selatan"
+      },
+      "district": {
+        "id": "18.01.08",
+        "name": "Katibung"
+      }
+    },
+    {
+      "id": "18.01.08.2005",
+      "name": "Tanjung Ratu",
+      "postal_code": "35452",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.01",
+        "name": "Kabupaten Lampung Selatan"
+      },
+      "district": {
+        "id": "18.01.08",
+        "name": "Katibung"
+      }
+    },
+    {
+      "id": "18.01.08.2006",
+      "name": "Tanjung Agung",
+      "postal_code": "35452",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.01",
+        "name": "Kabupaten Lampung Selatan"
+      },
+      "district": {
+        "id": "18.01.08",
+        "name": "Katibung"
+      }
+    },
+    {
+      "id": "18.01.08.2007",
+      "name": "Tanjungan",
+      "postal_code": "35452",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.01",
+        "name": "Kabupaten Lampung Selatan"
+      },
+      "district": {
+        "id": "18.01.08",
+        "name": "Katibung"
+      }
+    },
+    {
+      "id": "18.01.08.2008",
+      "name": "Trans Tanjungan",
+      "postal_code": "35452",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.01",
+        "name": "Kabupaten Lampung Selatan"
+      },
+      "district": {
+        "id": "18.01.08",
+        "name": "Katibung"
+      }
+    },
+    {
+      "id": "18.01.08.2009",
+      "name": "Neglasari",
+      "postal_code": "35452",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.01",
+        "name": "Kabupaten Lampung Selatan"
+      },
+      "district": {
+        "id": "18.01.08",
+        "name": "Katibung"
+      }
+    },
+    {
+      "id": "18.01.08.2018",
+      "name": "Karya Tunggal",
+      "postal_code": "35452",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.01",
+        "name": "Kabupaten Lampung Selatan"
+      },
+      "district": {
+        "id": "18.01.08",
+        "name": "Katibung"
+      }
+    },
+    {
+      "id": "18.01.08.2019",
+      "name": "Rangai Tri Tunggal",
+      "postal_code": "35452",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.01",
+        "name": "Kabupaten Lampung Selatan"
+      },
+      "district": {
+        "id": "18.01.08",
+        "name": "Katibung"
+      }
+    },
+    {
+      "id": "18.01.08.2020",
+      "name": "Sidomekar",
+      "postal_code": "35452",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.01",
+        "name": "Kabupaten Lampung Selatan"
+      },
+      "district": {
+        "id": "18.01.08",
+        "name": "Katibung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

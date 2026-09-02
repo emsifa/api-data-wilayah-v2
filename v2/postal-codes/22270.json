@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "12.15.06.2001",
+      "name": "Sibagindar",
+      "postal_code": "22270",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.15",
+        "name": "Kabupaten Pakpak Bharat"
+      },
+      "district": {
+        "id": "12.15.06",
+        "name": "Pagindar"
+      }
+    },
+    {
+      "id": "12.15.06.2002",
+      "name": "Napatalun Perlambuken",
+      "postal_code": "22270",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.15",
+        "name": "Kabupaten Pakpak Bharat"
+      },
+      "district": {
+        "id": "12.15.06",
+        "name": "Pagindar"
+      }
+    },
+    {
+      "id": "12.15.06.2003",
+      "name": "Lae Mbentar",
+      "postal_code": "22270",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.15",
+        "name": "Kabupaten Pakpak Bharat"
+      },
+      "district": {
+        "id": "12.15.06",
+        "name": "Pagindar"
+      }
+    },
+    {
+      "id": "12.15.06.2004",
+      "name": "Pagindar",
+      "postal_code": "22270",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.15",
+        "name": "Kabupaten Pakpak Bharat"
+      },
+      "district": {
+        "id": "12.15.06",
+        "name": "Pagindar"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

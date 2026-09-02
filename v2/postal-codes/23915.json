@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "11.06.15.2008",
+      "name": "Jalin",
+      "postal_code": "23915",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.06",
+        "name": "Kabupaten Aceh Besar"
+      },
+      "district": {
+        "id": "11.06.15",
+        "name": "Kota Jantho"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

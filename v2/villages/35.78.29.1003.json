@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.78.29.1003",
+    "name": "Kenjeran",
+    "postal_code": "60123",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.78",
+      "name": "Kota Surabaya"
+    },
+    "district": {
+      "id": "35.78.29",
+      "name": "Bulak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

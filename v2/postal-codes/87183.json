@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "53.11.11.2001",
+      "name": "Wulla",
+      "postal_code": "87183",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.11",
+        "name": "Kabupaten Sumba Timur"
+      },
+      "district": {
+        "id": "53.11.11",
+        "name": "Wulla Waijelu"
+      }
+    },
+    {
+      "id": "53.11.11.2002",
+      "name": "Hadakamali",
+      "postal_code": "87183",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.11",
+        "name": "Kabupaten Sumba Timur"
+      },
+      "district": {
+        "id": "53.11.11",
+        "name": "Wulla Waijelu"
+      }
+    },
+    {
+      "id": "53.11.11.2003",
+      "name": "Lumbu Manggit",
+      "postal_code": "87183",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.11",
+        "name": "Kabupaten Sumba Timur"
+      },
+      "district": {
+        "id": "53.11.11",
+        "name": "Wulla Waijelu"
+      }
+    },
+    {
+      "id": "53.11.11.2004",
+      "name": "Latena",
+      "postal_code": "87183",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.11",
+        "name": "Kabupaten Sumba Timur"
+      },
+      "district": {
+        "id": "53.11.11",
+        "name": "Wulla Waijelu"
+      }
+    },
+    {
+      "id": "53.11.11.2005",
+      "name": "Lainjanji",
+      "postal_code": "87183",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.11",
+        "name": "Kabupaten Sumba Timur"
+      },
+      "district": {
+        "id": "53.11.11",
+        "name": "Wulla Waijelu"
+      }
+    },
+    {
+      "id": "53.11.11.2006",
+      "name": "Laipandak",
+      "postal_code": "87183",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.11",
+        "name": "Kabupaten Sumba Timur"
+      },
+      "district": {
+        "id": "53.11.11",
+        "name": "Wulla Waijelu"
+      }
+    },
+    {
+      "id": "53.11.11.2008",
+      "name": "Paranda",
+      "postal_code": "87183",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.11",
+        "name": "Kabupaten Sumba Timur"
+      },
+      "district": {
+        "id": "53.11.11",
+        "name": "Wulla Waijelu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "33.29.09.2013",
+      "name": "Padasugih",
+      "postal_code": "52214",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.29",
+        "name": "Kabupaten Brebes"
+      },
+      "district": {
+        "id": "33.29.09",
+        "name": "Brebes"
+      }
+    },
+    {
+      "id": "33.29.09.2023",
+      "name": "Wangandalem",
+      "postal_code": "52214",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.29",
+        "name": "Kabupaten Brebes"
+      },
+      "district": {
+        "id": "33.29.09",
+        "name": "Brebes"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

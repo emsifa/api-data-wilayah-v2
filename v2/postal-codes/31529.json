@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "16.72.02.1005",
+      "name": "Gunung Dempo",
+      "postal_code": "31529",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.72",
+        "name": "Kota Pagar Alam"
+      },
+      "district": {
+        "id": "16.72.02",
+        "name": "Pagar Alam Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

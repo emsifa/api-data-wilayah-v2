@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.71.02.1009",
+    "name": "Kramat Selatan",
+    "postal_code": "56115",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.71",
+      "name": "Kota Magelang"
+    },
+    "district": {
+      "id": "33.71.02",
+      "name": "Magelang Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

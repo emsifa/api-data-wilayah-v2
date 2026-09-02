@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.11.01.2002",
+    "name": "Hamarung",
+    "postal_code": "71665",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.11",
+      "name": "Kabupaten Balangan"
+    },
+    "district": {
+      "id": "63.11.01",
+      "name": "Juai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

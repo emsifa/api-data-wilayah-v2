@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.18.06.2020",
+    "name": "Rada Malando",
+    "postal_code": "87264",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.18",
+      "name": "Kabupaten Sumba Barat Daya"
+    },
+    "district": {
+      "id": "53.18.06",
+      "name": "Kodi Bangedo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.02.15.2016",
+    "name": "Kalimalang",
+    "postal_code": "63453",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.02",
+      "name": "Kabupaten Ponorogo"
+    },
+    "district": {
+      "id": "35.02.15",
+      "name": "Sukorejo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

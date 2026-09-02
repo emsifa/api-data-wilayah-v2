@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.09.02.2006",
+    "name": "Bumbiha",
+    "postal_code": "95862",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.09",
+      "name": "Kabupaten Kep. Siau Tagulandang Biaro"
+    },
+    "district": {
+      "id": "71.09.02",
+      "name": "Siau Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

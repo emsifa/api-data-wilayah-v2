@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "19.03.07.2001",
+      "name": "Batu Betumpang",
+      "postal_code": "33779",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.03",
+        "name": "Kabupaten Bangka Selatan"
+      },
+      "district": {
+        "id": "19.03.07",
+        "name": "Pulau Besar"
+      }
+    },
+    {
+      "id": "19.03.07.2002",
+      "name": "Sukajaya",
+      "postal_code": "33779",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.03",
+        "name": "Kabupaten Bangka Selatan"
+      },
+      "district": {
+        "id": "19.03.07",
+        "name": "Pulau Besar"
+      }
+    },
+    {
+      "id": "19.03.07.2003",
+      "name": "Panca Tunggal",
+      "postal_code": "33779",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.03",
+        "name": "Kabupaten Bangka Selatan"
+      },
+      "district": {
+        "id": "19.03.07",
+        "name": "Pulau Besar"
+      }
+    },
+    {
+      "id": "19.03.07.2004",
+      "name": "Sumber Jaya Permai",
+      "postal_code": "33779",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.03",
+        "name": "Kabupaten Bangka Selatan"
+      },
+      "district": {
+        "id": "19.03.07",
+        "name": "Pulau Besar"
+      }
+    },
+    {
+      "id": "19.03.07.2005",
+      "name": "Fajar Indah",
+      "postal_code": "33779",
+      "province": {
+        "id": "19",
+        "name": "Kepulauan Bangka Belitung"
+      },
+      "regency": {
+        "id": "19.03",
+        "name": "Kabupaten Bangka Selatan"
+      },
+      "district": {
+        "id": "19.03.07",
+        "name": "Pulau Besar"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

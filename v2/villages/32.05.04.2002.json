@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.05.04.2002",
+    "name": "Cimanganten",
+    "postal_code": "44151",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.05",
+      "name": "Kabupaten Garut"
+    },
+    "district": {
+      "id": "32.05.04",
+      "name": "Tarogong Kaler"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "75.04.07.2001",
+      "name": "Pancakarsa I",
+      "postal_code": "96464",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.07",
+        "name": "Taluditi"
+      }
+    },
+    {
+      "id": "75.04.07.2002",
+      "name": "Pancakarsa II",
+      "postal_code": "96464",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.07",
+        "name": "Taluditi"
+      }
+    },
+    {
+      "id": "75.04.07.2003",
+      "name": "Makarti Jaya",
+      "postal_code": "96464",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.07",
+        "name": "Taluditi"
+      }
+    },
+    {
+      "id": "75.04.07.2004",
+      "name": "Kalimas",
+      "postal_code": "96464",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.07",
+        "name": "Taluditi"
+      }
+    },
+    {
+      "id": "75.04.07.2005",
+      "name": "Malango",
+      "postal_code": "96464",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.07",
+        "name": "Taluditi"
+      }
+    },
+    {
+      "id": "75.04.07.2006",
+      "name": "Puncak Jaya",
+      "postal_code": "96464",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.07",
+        "name": "Taluditi"
+      }
+    },
+    {
+      "id": "75.04.07.2007",
+      "name": "Tirto Asri",
+      "postal_code": "96464",
+      "province": {
+        "id": "75",
+        "name": "Gorontalo"
+      },
+      "regency": {
+        "id": "75.04",
+        "name": "Kabupaten Pohuwato"
+      },
+      "district": {
+        "id": "75.04.07",
+        "name": "Taluditi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.05.03.2010",
+    "name": "Andhika",
+    "postal_code": "71161",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.05",
+      "name": "Kabupaten Tapin"
+    },
+    "district": {
+      "id": "63.05.03",
+      "name": "Tapin Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

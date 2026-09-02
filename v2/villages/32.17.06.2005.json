@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.17.06.2005",
+    "name": "Cimanggu",
+    "postal_code": "40552",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.17",
+      "name": "Kabupaten Bandung Barat"
+    },
+    "district": {
+      "id": "32.17.06",
+      "name": "Ngamprah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

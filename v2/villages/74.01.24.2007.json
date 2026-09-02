@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "74.01.24.2007",
+    "name": "Rahabite",
+    "postal_code": "93565",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.01",
+      "name": "Kabupaten Kolaka"
+    },
+    "district": {
+      "id": "74.01.24",
+      "name": "Toari"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

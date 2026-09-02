@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.08.12.1001",
+    "name": "Sungai Pinang",
+    "postal_code": "37212",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.08",
+      "name": "Kabupaten Bungo"
+    },
+    "district": {
+      "id": "15.08.12",
+      "name": "Bungo Dani"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

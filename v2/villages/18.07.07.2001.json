@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.07.07.2001",
+    "name": "Braja Sakti",
+    "postal_code": "34396",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.07",
+      "name": "Kabupaten Lampung Timur"
+    },
+    "district": {
+      "id": "18.07.07",
+      "name": "Way Jepara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

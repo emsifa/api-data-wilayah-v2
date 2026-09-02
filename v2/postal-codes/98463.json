@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "96.02.10.2001",
+      "name": "Mugim",
+      "postal_code": "98463",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.02",
+        "name": "Kabupaten Sorong Selatan"
+      },
+      "district": {
+        "id": "96.02.10",
+        "name": "Matemani"
+      }
+    },
+    {
+      "id": "96.02.10.2002",
+      "name": "Nusa",
+      "postal_code": "98463",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.02",
+        "name": "Kabupaten Sorong Selatan"
+      },
+      "district": {
+        "id": "96.02.10",
+        "name": "Matemani"
+      }
+    },
+    {
+      "id": "96.02.10.2003",
+      "name": "Saga",
+      "postal_code": "98463",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.02",
+        "name": "Kabupaten Sorong Selatan"
+      },
+      "district": {
+        "id": "96.02.10",
+        "name": "Matemani"
+      }
+    },
+    {
+      "id": "96.02.10.2004",
+      "name": "Puragi",
+      "postal_code": "98463",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.02",
+        "name": "Kabupaten Sorong Selatan"
+      },
+      "district": {
+        "id": "96.02.10",
+        "name": "Matemani"
+      }
+    },
+    {
+      "id": "96.02.10.2005",
+      "name": "Tawanggire",
+      "postal_code": "98463",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.02",
+        "name": "Kabupaten Sorong Selatan"
+      },
+      "district": {
+        "id": "96.02.10",
+        "name": "Matemani"
+      }
+    },
+    {
+      "id": "96.02.10.2006",
+      "name": "Bedare",
+      "postal_code": "98463",
+      "province": {
+        "id": "96",
+        "name": "Papua Barat Daya"
+      },
+      "regency": {
+        "id": "96.02",
+        "name": "Kabupaten Sorong Selatan"
+      },
+      "district": {
+        "id": "96.02.10",
+        "name": "Matemani"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

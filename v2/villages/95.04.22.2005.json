@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.04.22.2005",
+    "name": "Pirage",
+    "postal_code": "99060",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.04",
+      "name": "Kabupaten Tolikara"
+    },
+    "district": {
+      "id": "95.04.22",
+      "name": "Timori"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

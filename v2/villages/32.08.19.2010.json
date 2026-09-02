@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.08.19.2010",
+    "name": "Padamatang",
+    "postal_code": "45559",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.08",
+      "name": "Kabupaten Kuningan"
+    },
+    "district": {
+      "id": "32.08.19",
+      "name": "Pasawahan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

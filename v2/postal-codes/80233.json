@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "51.71.04.2001",
+      "name": "Dangin Puri Kangin",
+      "postal_code": "80233",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.71",
+        "name": "Kota Denpasar"
+      },
+      "district": {
+        "id": "51.71.04",
+        "name": "Denpasar Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "32.04.11.2001",
+      "name": "Sangkanhurip",
+      "postal_code": "40921",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.11",
+        "name": "Katapang"
+      }
+    },
+    {
+      "id": "32.04.11.2002",
+      "name": "Katapang",
+      "postal_code": "40921",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.11",
+        "name": "Katapang"
+      }
+    },
+    {
+      "id": "32.04.11.2004",
+      "name": "Gandasari",
+      "postal_code": "40921",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.11",
+        "name": "Katapang"
+      }
+    },
+    {
+      "id": "32.04.11.2006",
+      "name": "Sukamukti",
+      "postal_code": "40921",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.11",
+        "name": "Katapang"
+      }
+    },
+    {
+      "id": "32.04.11.2007",
+      "name": "Cilampeni",
+      "postal_code": "40921",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.11",
+        "name": "Katapang"
+      }
+    },
+    {
+      "id": "32.04.11.2008",
+      "name": "Pangauban",
+      "postal_code": "40921",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.11",
+        "name": "Katapang"
+      }
+    },
+    {
+      "id": "32.04.11.2009",
+      "name": "Banyusari",
+      "postal_code": "40921",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.11",
+        "name": "Katapang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

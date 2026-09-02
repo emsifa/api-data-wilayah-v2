@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "14.02.01.2005",
+    "name": "Kampung Pulau",
+    "postal_code": "29314",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.02",
+      "name": "Kabupaten Indragiri Hulu"
+    },
+    "district": {
+      "id": "14.02.01",
+      "name": "Rengat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

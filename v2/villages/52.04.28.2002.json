@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "52.04.28.2002",
+    "name": "Kelawis",
+    "postal_code": "84374",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.04",
+      "name": "Kabupaten Sumbawa"
+    },
+    "district": {
+      "id": "52.04.28",
+      "name": "Orong Telu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

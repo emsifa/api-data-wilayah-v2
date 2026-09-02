@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.04.02.2010",
+    "name": "Tanjung Marwo",
+    "postal_code": "36653",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.04",
+      "name": "Kabupaten Batanghari"
+    },
+    "district": {
+      "id": "15.04.02",
+      "name": "Muara Tembesi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "17.08.01.2009",
+    "name": "Lembur Lama",
+    "postal_code": "39374",
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    },
+    "regency": {
+      "id": "17.08",
+      "name": "Kabupaten Kepahiang"
+    },
+    "district": {
+      "id": "17.08.01",
+      "name": "Bermani Ilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

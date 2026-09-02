@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.07.24.2003",
+    "name": "Peniangan",
+    "postal_code": "34383",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.07",
+      "name": "Kabupaten Lampung Timur"
+    },
+    "district": {
+      "id": "18.07.24",
+      "name": "Marga Sekampung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

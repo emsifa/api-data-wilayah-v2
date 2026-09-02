@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "32.11.17.1002",
+      "name": "Kota Kulon",
+      "postal_code": "45311",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.17",
+        "name": "Sumedang Selatan"
+      }
+    },
+    {
+      "id": "32.11.17.1003",
+      "name": "Regol Wetan",
+      "postal_code": "45311",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.17",
+        "name": "Sumedang Selatan"
+      }
+    },
+    {
+      "id": "32.11.17.2005",
+      "name": "Sukagalih",
+      "postal_code": "45311",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.17",
+        "name": "Sumedang Selatan"
+      }
+    },
+    {
+      "id": "32.11.17.2006",
+      "name": "Baginda",
+      "postal_code": "45311",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.17",
+        "name": "Sumedang Selatan"
+      }
+    },
+    {
+      "id": "32.11.17.2007",
+      "name": "Cipancar",
+      "postal_code": "45311",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.17",
+        "name": "Sumedang Selatan"
+      }
+    },
+    {
+      "id": "32.11.17.2008",
+      "name": "Citengah",
+      "postal_code": "45311",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.17",
+        "name": "Sumedang Selatan"
+      }
+    },
+    {
+      "id": "32.11.17.2009",
+      "name": "Gunasari",
+      "postal_code": "45311",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.17",
+        "name": "Sumedang Selatan"
+      }
+    },
+    {
+      "id": "32.11.17.2011",
+      "name": "Margamekar",
+      "postal_code": "45311",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.17",
+        "name": "Sumedang Selatan"
+      }
+    },
+    {
+      "id": "32.11.17.2012",
+      "name": "Ciherang",
+      "postal_code": "45311",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.17",
+        "name": "Sumedang Selatan"
+      }
+    },
+    {
+      "id": "32.11.17.2013",
+      "name": "Margalaksana",
+      "postal_code": "45311",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.17",
+        "name": "Sumedang Selatan"
+      }
+    },
+    {
+      "id": "32.11.17.2014",
+      "name": "Mekar Rahayu",
+      "postal_code": "45311",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.11",
+        "name": "Kabupaten Sumedang"
+      },
+      "district": {
+        "id": "32.11.17",
+        "name": "Sumedang Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

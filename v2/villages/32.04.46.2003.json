@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.04.46.2003",
+    "name": "Pameuntasan",
+    "postal_code": "40911",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.04",
+      "name": "Kabupaten Bandung"
+    },
+    "district": {
+      "id": "32.04.46",
+      "name": "Kutawaringin"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

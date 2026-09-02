@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.07.20.2003",
+    "name": "Sri Agung",
+    "postal_code": "30971",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.07",
+      "name": "Kabupaten Banyuasin"
+    },
+    "district": {
+      "id": "16.07.20",
+      "name": "Karang Agung Ilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

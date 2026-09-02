@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "36.02.14.2017",
+      "name": "Rangkasbitung Timur",
+      "postal_code": "42313",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.14",
+        "name": "Rangkasbitung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

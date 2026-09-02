@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.72.02.1003",
+    "name": "Ujung Bulu",
+    "postal_code": "91113",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.72",
+      "name": "Kota Parepare"
+    },
+    "district": {
+      "id": "73.72.02",
+      "name": "Ujung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

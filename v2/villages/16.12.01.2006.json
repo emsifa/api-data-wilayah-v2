@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.12.01.2006",
+    "name": "Karta Dewa",
+    "postal_code": "31214",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.12",
+      "name": "Kabupaten Penukal Abab Lematang Ilir"
+    },
+    "district": {
+      "id": "16.12.01",
+      "name": "Talang Ubi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

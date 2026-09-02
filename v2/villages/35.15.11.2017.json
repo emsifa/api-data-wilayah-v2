@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.15.11.2017",
+    "name": "Kraton",
+    "postal_code": "61262",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.15",
+      "name": "Kabupaten Sidoarjo"
+    },
+    "district": {
+      "id": "35.15.11",
+      "name": "Krian"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

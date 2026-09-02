@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "34.71.06.1001",
+      "name": "Ngampilan",
+      "postal_code": "55261",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.71",
+        "name": "Kota Yogyakarta"
+      },
+      "district": {
+        "id": "34.71.06",
+        "name": "Ngampilan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

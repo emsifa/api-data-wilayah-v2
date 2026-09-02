@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "36.03.12.1005",
+      "name": "Sindangsari",
+      "postal_code": "15560",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.12",
+        "name": "Pasar Kemis"
+      }
+    },
+    {
+      "id": "36.03.12.1010",
+      "name": "Kutabumi",
+      "postal_code": "15560",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.12",
+        "name": "Pasar Kemis"
+      }
+    },
+    {
+      "id": "36.03.12.1012",
+      "name": "Kuta Jaya",
+      "postal_code": "15560",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.12",
+        "name": "Pasar Kemis"
+      }
+    },
+    {
+      "id": "36.03.12.1014",
+      "name": "Kuta Baru",
+      "postal_code": "15560",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.12",
+        "name": "Pasar Kemis"
+      }
+    },
+    {
+      "id": "36.03.12.2001",
+      "name": "Pasar Kemis",
+      "postal_code": "15560",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.12",
+        "name": "Pasar Kemis"
+      }
+    },
+    {
+      "id": "36.03.12.2008",
+      "name": "Sukamantri",
+      "postal_code": "15560",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.12",
+        "name": "Pasar Kemis"
+      }
+    },
+    {
+      "id": "36.03.12.2011",
+      "name": "Pangadegan",
+      "postal_code": "15560",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.12",
+        "name": "Pasar Kemis"
+      }
+    },
+    {
+      "id": "36.03.12.2013",
+      "name": "Gelam Jaya",
+      "postal_code": "15560",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.12",
+        "name": "Pasar Kemis"
+      }
+    },
+    {
+      "id": "36.03.12.2015",
+      "name": "Suka Asih",
+      "postal_code": "15560",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.03",
+        "name": "Kabupaten Tangerang"
+      },
+      "district": {
+        "id": "36.03.12",
+        "name": "Pasar Kemis"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

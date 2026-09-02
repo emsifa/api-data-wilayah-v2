@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "31.72.06.1002",
+    "name": "Pegangsaan Dua",
+    "postal_code": "14250",
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    },
+    "regency": {
+      "id": "31.72",
+      "name": "Kota Administrasi Jakarta Utara"
+    },
+    "district": {
+      "id": "31.72.06",
+      "name": "Kelapa Gading"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

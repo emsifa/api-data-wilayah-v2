@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.01.09.2003",
+    "name": "Sibintang",
+    "postal_code": "22568",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.01",
+      "name": "Kabupaten Tapanuli Tengah"
+    },
+    "district": {
+      "id": "12.01.09",
+      "name": "Sosorgadong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

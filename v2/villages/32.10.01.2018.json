@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.10.01.2018",
+    "name": "Dayeuhwangi",
+    "postal_code": "45465",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.10",
+      "name": "Kabupaten Majalengka"
+    },
+    "district": {
+      "id": "32.10.01",
+      "name": "Lemahsugih"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

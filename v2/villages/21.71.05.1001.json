@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.71.05.1001",
+    "name": "Bulang Lintang",
+    "postal_code": "29471",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.71",
+      "name": "Kota Batam"
+    },
+    "district": {
+      "id": "21.71.05",
+      "name": "Bulang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

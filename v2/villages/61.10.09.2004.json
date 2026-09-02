@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.10.09.2004",
+    "name": "Landau Garong",
+    "postal_code": "79677",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.10",
+      "name": "Kabupaten Melawi"
+    },
+    "district": {
+      "id": "61.10.09",
+      "name": "Pinoh Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

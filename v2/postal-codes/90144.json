@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "73.71.03.1005",
+      "name": "Maccini",
+      "postal_code": "90144",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.71",
+        "name": "Kota Makassar"
+      },
+      "district": {
+        "id": "73.71.03",
+        "name": "Makassar"
+      }
+    },
+    {
+      "id": "73.71.03.1011",
+      "name": "Maccini Parang",
+      "postal_code": "90144",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.71",
+        "name": "Kota Makassar"
+      },
+      "district": {
+        "id": "73.71.03",
+        "name": "Makassar"
+      }
+    },
+    {
+      "id": "73.71.03.1012",
+      "name": "Maccini Gusung",
+      "postal_code": "90144",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.71",
+        "name": "Kota Makassar"
+      },
+      "district": {
+        "id": "73.71.03",
+        "name": "Makassar"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

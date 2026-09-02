@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.20.17.2008",
+    "name": "Kenongomulyo",
+    "postal_code": "63383",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.20",
+      "name": "Kabupaten Magetan"
+    },
+    "district": {
+      "id": "35.20.17",
+      "name": "Nguntoronadi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

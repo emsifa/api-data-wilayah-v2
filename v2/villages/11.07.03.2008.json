@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.07.03.2008",
+    "name": "Calong Cut",
+    "postal_code": "24152",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.07",
+      "name": "Kabupaten Pidie"
+    },
+    "district": {
+      "id": "11.07.03",
+      "name": "Batee"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

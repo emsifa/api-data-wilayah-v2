@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "71.71.04.1005",
+      "name": "Wenang Utara",
+      "postal_code": "95111",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.71",
+        "name": "Kota Manado"
+      },
+      "district": {
+        "id": "71.71.04",
+        "name": "Wenang"
+      }
+    },
+    {
+      "id": "71.71.04.1006",
+      "name": "Wenang Selatan",
+      "postal_code": "95111",
+      "province": {
+        "id": "71",
+        "name": "Sulawesi Utara"
+      },
+      "regency": {
+        "id": "71.71",
+        "name": "Kota Manado"
+      },
+      "district": {
+        "id": "71.71.04",
+        "name": "Wenang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

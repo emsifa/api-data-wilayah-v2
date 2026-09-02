@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.08.01.2016",
+    "name": "Jarati",
+    "postal_code": "98113",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.08",
+      "name": "Kabupaten Kaimana"
+    },
+    "district": {
+      "id": "92.08.01",
+      "name": "Kaimana"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.08.11.2004",
+    "name": "Pota Kecil",
+    "postal_code": "97452",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.08",
+      "name": "Kabupaten Maluku Barat Daya"
+    },
+    "district": {
+      "id": "81.08.11",
+      "name": "Pulau Wetang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "61.06.22.2001",
+      "name": "Mensusai",
+      "postal_code": "78775",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.22",
+        "name": "Suhaid"
+      }
+    },
+    {
+      "id": "61.06.22.2003",
+      "name": "Kerengas",
+      "postal_code": "78775",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.22",
+        "name": "Suhaid"
+      }
+    },
+    {
+      "id": "61.06.22.2004",
+      "name": "Mantan",
+      "postal_code": "78775",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.22",
+        "name": "Suhaid"
+      }
+    },
+    {
+      "id": "61.06.22.2005",
+      "name": "Nanga Suhaid",
+      "postal_code": "78775",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.22",
+        "name": "Suhaid"
+      }
+    },
+    {
+      "id": "61.06.22.2006",
+      "name": "Tanjung",
+      "postal_code": "78775",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.22",
+        "name": "Suhaid"
+      }
+    },
+    {
+      "id": "61.06.22.2007",
+      "name": "Madang Permai",
+      "postal_code": "78775",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.22",
+        "name": "Suhaid"
+      }
+    },
+    {
+      "id": "61.06.22.2008",
+      "name": "Laut Tawang",
+      "postal_code": "78775",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.22",
+        "name": "Suhaid"
+      }
+    },
+    {
+      "id": "61.06.22.2009",
+      "name": "Jongkong Hulu",
+      "postal_code": "78775",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.22",
+        "name": "Suhaid"
+      }
+    },
+    {
+      "id": "61.06.22.2010",
+      "name": "Menapar",
+      "postal_code": "78775",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.22",
+        "name": "Suhaid"
+      }
+    },
+    {
+      "id": "61.06.22.2011",
+      "name": "Lubuk Pengail",
+      "postal_code": "78775",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.22",
+        "name": "Suhaid"
+      }
+    },
+    {
+      "id": "61.06.22.2012",
+      "name": "Tanjung Harapan",
+      "postal_code": "78775",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.22",
+        "name": "Suhaid"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.03.15.2006",
+    "name": "Pagar Agung",
+    "postal_code": "31175",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.03",
+      "name": "Kabupaten Muara Enim"
+    },
+    "district": {
+      "id": "16.03.15",
+      "name": "Rambang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

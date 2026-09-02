@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.05.03.2019",
+    "name": "Wanasari",
+    "postal_code": "44180",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.05",
+      "name": "Kabupaten Garut"
+    },
+    "district": {
+      "id": "32.05.03",
+      "name": "Wanaraja"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

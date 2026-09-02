@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "15.71.10.1002",
+      "name": "Murni",
+      "postal_code": "36121",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.71",
+        "name": "Kota Jambi"
+      },
+      "district": {
+        "id": "15.71.10",
+        "name": "Danau Sipin"
+      }
+    },
+    {
+      "id": "15.71.10.1003",
+      "name": "Legok",
+      "postal_code": "36121",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.71",
+        "name": "Kota Jambi"
+      },
+      "district": {
+        "id": "15.71.10",
+        "name": "Danau Sipin"
+      }
+    },
+    {
+      "id": "15.71.10.1005",
+      "name": "Solok Sipin",
+      "postal_code": "36121",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.71",
+        "name": "Kota Jambi"
+      },
+      "district": {
+        "id": "15.71.10",
+        "name": "Danau Sipin"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

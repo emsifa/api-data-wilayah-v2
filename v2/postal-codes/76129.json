@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "64.71.03.1006",
+      "name": "Graha Indah",
+      "postal_code": "76129",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.71",
+        "name": "Kota Balikpapan"
+      },
+      "district": {
+        "id": "64.71.03",
+        "name": "Balikpapan Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

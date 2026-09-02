@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.02.03.2003",
+    "name": "Sanafi",
+    "postal_code": "97859",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.02",
+      "name": "Kabupaten Halmahera Tengah"
+    },
+    "district": {
+      "id": "82.02.03",
+      "name": "Pulau Gebe"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

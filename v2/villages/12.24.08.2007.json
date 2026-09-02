@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.24.08.2007",
+    "name": "Botona'ai",
+    "postal_code": "22860",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.24",
+      "name": "Kabupaten Nias Utara"
+    },
+    "district": {
+      "id": "12.24.08",
+      "name": "Tugala Oyo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

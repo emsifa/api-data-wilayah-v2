@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "31.74.10.1004",
+      "name": "Petukangan Selatan",
+      "postal_code": "12270",
+      "province": {
+        "id": "31",
+        "name": "Daerah Khusus Ibukota Jakarta"
+      },
+      "regency": {
+        "id": "31.74",
+        "name": "Kota Administrasi Jakarta Selatan"
+      },
+      "district": {
+        "id": "31.74.10",
+        "name": "Pesanggrahan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.22.03.2007",
+    "name": "Sidoharjo",
+    "postal_code": "50777",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.22",
+      "name": "Kabupaten Semarang"
+    },
+    "district": {
+      "id": "33.22.03",
+      "name": "Susukan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

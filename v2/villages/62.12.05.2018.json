@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.12.05.2018",
+    "name": "Tumbang Molut",
+    "postal_code": "73982",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.12",
+      "name": "Kabupaten Murung Raya"
+    },
+    "district": {
+      "id": "62.12.05",
+      "name": "Sumber Barito"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

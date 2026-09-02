@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.12.02.2004",
+    "name": "Gunong Cut",
+    "postal_code": "23768",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.12",
+      "name": "Kabupaten Aceh Barat Daya"
+    },
+    "district": {
+      "id": "11.12.02",
+      "name": "Tangan-Tangan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

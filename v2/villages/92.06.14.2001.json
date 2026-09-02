@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "92.06.14.2001",
+    "name": "Tofoi",
+    "postal_code": "98136",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.06",
+      "name": "Kabupaten Teluk Bintuni"
+    },
+    "district": {
+      "id": "92.06.14",
+      "name": "Sumuri"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

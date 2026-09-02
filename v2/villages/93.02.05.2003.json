@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.02.05.2003",
+    "name": "Butiptiri",
+    "postal_code": "99661",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.02",
+      "name": "Kabupaten Boven Digoel"
+    },
+    "district": {
+      "id": "93.02.05",
+      "name": "Jair"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

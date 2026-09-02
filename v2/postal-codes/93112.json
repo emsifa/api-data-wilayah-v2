@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "74.71.01.1009",
+      "name": "Alolama",
+      "postal_code": "93112",
+      "province": {
+        "id": "74",
+        "name": "Sulawesi Tenggara"
+      },
+      "regency": {
+        "id": "74.71",
+        "name": "Kota Kendari"
+      },
+      "district": {
+        "id": "74.71.01",
+        "name": "Mandonga"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

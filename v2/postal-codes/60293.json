@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "35.78.03.1001",
+      "name": "Kalirungkut",
+      "postal_code": "60293",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.03",
+        "name": "Rungkut"
+      }
+    },
+    {
+      "id": "35.78.03.1002",
+      "name": "Rungkut Kidul",
+      "postal_code": "60293",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.03",
+        "name": "Rungkut"
+      }
+    },
+    {
+      "id": "35.78.25.1002",
+      "name": "Rungkut Tengah",
+      "postal_code": "60293",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.25",
+        "name": "Gunung Anyar"
+      }
+    },
+    {
+      "id": "35.78.25.1003",
+      "name": "Rungkut Menanggal",
+      "postal_code": "60293",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.78",
+        "name": "Kota Surabaya"
+      },
+      "district": {
+        "id": "35.78.25",
+        "name": "Gunung Anyar"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

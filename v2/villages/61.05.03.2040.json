@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.05.03.2040",
+    "name": "Sungai Jaung",
+    "postal_code": "78662",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.05",
+      "name": "Kabupaten Sintang"
+    },
+    "district": {
+      "id": "61.05.03",
+      "name": "Sepauk"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

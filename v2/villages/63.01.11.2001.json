@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.01.11.2001",
+    "name": "Handil Babirik",
+    "postal_code": "70853",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.01",
+      "name": "Kabupaten Tanah Laut"
+    },
+    "district": {
+      "id": "63.01.11",
+      "name": "Bumi Makmur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

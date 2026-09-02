@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.01.08.2005",
+    "name": "Bingkulu",
+    "postal_code": "70854",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.01",
+      "name": "Kabupaten Tanah Laut"
+    },
+    "district": {
+      "id": "63.01.08",
+      "name": "Tambang Ulang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

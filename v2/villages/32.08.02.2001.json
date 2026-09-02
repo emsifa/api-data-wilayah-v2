@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.08.02.2001",
+    "name": "Pinara",
+    "postal_code": "45565",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.08",
+      "name": "Kabupaten Kuningan"
+    },
+    "district": {
+      "id": "32.08.02",
+      "name": "Ciniru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

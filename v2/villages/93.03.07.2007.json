@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.03.07.2007",
+    "name": "Tayau",
+    "postal_code": "99876",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.03",
+      "name": "Kabupaten Mappi"
+    },
+    "district": {
+      "id": "93.03.07",
+      "name": "Kaibar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

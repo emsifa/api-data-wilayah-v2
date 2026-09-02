@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.06.06.2002",
+    "name": "Sugi Raya",
+    "postal_code": "30752",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.06",
+      "name": "Kabupaten Musi Banyuasin"
+    },
+    "district": {
+      "id": "16.06.06",
+      "name": "Babat Toman"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

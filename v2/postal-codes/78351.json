@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "61.02.15.2001",
+      "name": "Peniti Besar",
+      "postal_code": "78351",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.02",
+        "name": "Kabupaten Mempawah"
+      },
+      "district": {
+        "id": "61.02.15",
+        "name": "Segedong"
+      }
+    },
+    {
+      "id": "61.02.15.2002",
+      "name": "Sungai Purun Besar",
+      "postal_code": "78351",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.02",
+        "name": "Kabupaten Mempawah"
+      },
+      "district": {
+        "id": "61.02.15",
+        "name": "Segedong"
+      }
+    },
+    {
+      "id": "61.02.15.2003",
+      "name": "Parit Bugis",
+      "postal_code": "78351",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.02",
+        "name": "Kabupaten Mempawah"
+      },
+      "district": {
+        "id": "61.02.15",
+        "name": "Segedong"
+      }
+    },
+    {
+      "id": "61.02.15.2004",
+      "name": "Peniti Dalam I",
+      "postal_code": "78351",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.02",
+        "name": "Kabupaten Mempawah"
+      },
+      "district": {
+        "id": "61.02.15",
+        "name": "Segedong"
+      }
+    },
+    {
+      "id": "61.02.15.2005",
+      "name": "Peniti Dalam II",
+      "postal_code": "78351",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.02",
+        "name": "Kabupaten Mempawah"
+      },
+      "district": {
+        "id": "61.02.15",
+        "name": "Segedong"
+      }
+    },
+    {
+      "id": "61.02.15.2006",
+      "name": "Sungai Burung",
+      "postal_code": "78351",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.02",
+        "name": "Kabupaten Mempawah"
+      },
+      "district": {
+        "id": "61.02.15",
+        "name": "Segedong"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.10.03.2003",
+    "name": "Glagahagung",
+    "postal_code": "68483",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.10",
+      "name": "Kabupaten Banyuwangi"
+    },
+    "district": {
+      "id": "35.10.03",
+      "name": "Purwoharjo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

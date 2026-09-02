@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.26.12.2003",
+    "name": "Piongan",
+    "postal_code": "91822",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.26",
+      "name": "Kabupaten Toraja Utara"
+    },
+    "district": {
+      "id": "73.26.12",
+      "name": "Dende' Piongan Napo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

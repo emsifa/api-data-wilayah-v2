@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.03.35.2004",
+    "name": "Serahak",
+    "postal_code": "99739",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.03",
+      "name": "Kabupaten Yahukimo"
+    },
+    "district": {
+      "id": "95.03.35",
+      "name": "Lolat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

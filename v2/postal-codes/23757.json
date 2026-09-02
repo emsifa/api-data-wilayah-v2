@@ -1,0 +1,263 @@
+{
+  "data": [
+    {
+      "id": "11.01.12.2001",
+      "name": "Tutong",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    },
+    {
+      "id": "11.01.12.2002",
+      "name": "Teungoh Iboh",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    },
+    {
+      "id": "11.01.12.2003",
+      "name": "Peulokan",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    },
+    {
+      "id": "11.01.12.2004",
+      "name": "Kuta Iboh",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    },
+    {
+      "id": "11.01.12.2005",
+      "name": "Ujung Padang",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    },
+    {
+      "id": "11.01.12.2006",
+      "name": "Blang Baru",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    },
+    {
+      "id": "11.01.12.2007",
+      "name": "Blang Poroh",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    },
+    {
+      "id": "11.01.12.2008",
+      "name": "Pulo Ie",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    },
+    {
+      "id": "11.01.12.2009",
+      "name": "Suak Lokan",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    },
+    {
+      "id": "11.01.12.2010",
+      "name": "Iku Lhueng",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    },
+    {
+      "id": "11.01.12.2011",
+      "name": "Kuta Trieng",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    },
+    {
+      "id": "11.01.12.2012",
+      "name": "Pante Geulima",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    },
+    {
+      "id": "11.01.12.2013",
+      "name": "Panton Pawoh",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    },
+    {
+      "id": "11.01.12.2014",
+      "name": "Batee Meucanang",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    },
+    {
+      "id": "11.01.12.2015",
+      "name": "Panton Rubek",
+      "postal_code": "23757",
+      "province": {
+        "id": "11",
+        "name": "Aceh"
+      },
+      "regency": {
+        "id": "11.01",
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "district": {
+        "id": "11.01.12",
+        "name": "Labuhanhaji Barat"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

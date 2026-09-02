@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.01.07.2004",
+    "name": "Lagari Jaya",
+    "postal_code": "98863",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.01",
+      "name": "Kabupaten Nabire"
+    },
+    "district": {
+      "id": "94.01.07",
+      "name": "Makimi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

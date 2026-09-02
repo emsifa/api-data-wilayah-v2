@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "32.04.08.2002",
+      "name": "Bojongsoang",
+      "postal_code": "40288",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.08",
+        "name": "Bojongsoang"
+      }
+    },
+    {
+      "id": "32.04.08.2005",
+      "name": "Bojongsari",
+      "postal_code": "40288",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.04",
+        "name": "Kabupaten Bandung"
+      },
+      "district": {
+        "id": "32.04.08",
+        "name": "Bojongsoang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

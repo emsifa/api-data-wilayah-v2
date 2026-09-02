@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.03.51.2008",
+    "name": "Hunisi",
+    "postal_code": "99714",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.03",
+      "name": "Kabupaten Yahukimo"
+    },
+    "district": {
+      "id": "95.03.51",
+      "name": "Sumo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

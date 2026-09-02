@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.06.09.2060",
+    "name": "Kepayang",
+    "postal_code": "30756",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.06",
+      "name": "Kabupaten Musi Banyuasin"
+    },
+    "district": {
+      "id": "16.06.09",
+      "name": "Bayung Lencir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

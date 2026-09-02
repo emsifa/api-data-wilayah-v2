@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "35.71.01.1002",
+      "name": "Bandar Kidul",
+      "postal_code": "64118",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.71",
+        "name": "Kota Kediri"
+      },
+      "district": {
+        "id": "35.71.01",
+        "name": "Mojoroto"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

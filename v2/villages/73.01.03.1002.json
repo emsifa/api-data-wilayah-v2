@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.01.03.1002",
+    "name": "Batangmata Sapo",
+    "postal_code": "92854",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.01",
+      "name": "Kabupaten Kepulauan Selayar"
+    },
+    "district": {
+      "id": "73.01.03",
+      "name": "Bontomatene"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

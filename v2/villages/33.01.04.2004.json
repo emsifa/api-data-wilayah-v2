@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.01.04.2004",
+    "name": "Widarapayung Kulon",
+    "postal_code": "53280",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.01",
+      "name": "Kabupaten Cilacap"
+    },
+    "district": {
+      "id": "33.01.04",
+      "name": "Binangun"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

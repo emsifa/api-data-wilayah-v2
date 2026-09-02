@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.13.07.2006",
+    "name": "Singah Mulo",
+    "postal_code": "24658",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.13",
+      "name": "Kabupaten Gayo Lues"
+    },
+    "district": {
+      "id": "11.13.07",
+      "name": "Puteri Betung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

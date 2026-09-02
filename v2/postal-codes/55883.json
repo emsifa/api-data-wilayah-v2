@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "34.03.16.2001",
+      "name": "Balong",
+      "postal_code": "55883",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.16",
+        "name": "Girisubo"
+      }
+    },
+    {
+      "id": "34.03.16.2002",
+      "name": "Jepitu",
+      "postal_code": "55883",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.16",
+        "name": "Girisubo"
+      }
+    },
+    {
+      "id": "34.03.16.2003",
+      "name": "Karangawen",
+      "postal_code": "55883",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.16",
+        "name": "Girisubo"
+      }
+    },
+    {
+      "id": "34.03.16.2004",
+      "name": "Nglindur",
+      "postal_code": "55883",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.16",
+        "name": "Girisubo"
+      }
+    },
+    {
+      "id": "34.03.16.2005",
+      "name": "Jerukwudel",
+      "postal_code": "55883",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.16",
+        "name": "Girisubo"
+      }
+    },
+    {
+      "id": "34.03.16.2006",
+      "name": "Tileng",
+      "postal_code": "55883",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.16",
+        "name": "Girisubo"
+      }
+    },
+    {
+      "id": "34.03.16.2007",
+      "name": "Pucung",
+      "postal_code": "55883",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.16",
+        "name": "Girisubo"
+      }
+    },
+    {
+      "id": "34.03.16.2008",
+      "name": "Songbanyu",
+      "postal_code": "55883",
+      "province": {
+        "id": "34",
+        "name": "Daerah Istimewa Yogyakarta"
+      },
+      "regency": {
+        "id": "34.03",
+        "name": "Kabupaten Gunungkidul"
+      },
+      "district": {
+        "id": "34.03.16",
+        "name": "Girisubo"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "14.07.01.1010",
+      "name": "Telukmerbau",
+      "postal_code": "28991",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.07",
+        "name": "Kabupaten Rokan Hilir"
+      },
+      "district": {
+        "id": "14.07.01",
+        "name": "Kubu"
+      }
+    },
+    {
+      "id": "14.07.01.2002",
+      "name": "Tanjungleban",
+      "postal_code": "28991",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.07",
+        "name": "Kabupaten Rokan Hilir"
+      },
+      "district": {
+        "id": "14.07.01",
+        "name": "Kubu"
+      }
+    },
+    {
+      "id": "14.07.01.2003",
+      "name": "Sungaikubu",
+      "postal_code": "28991",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.07",
+        "name": "Kabupaten Rokan Hilir"
+      },
+      "district": {
+        "id": "14.07.01",
+        "name": "Kubu"
+      }
+    },
+    {
+      "id": "14.07.01.2004",
+      "name": "Rantau Panjang Kanan",
+      "postal_code": "28991",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.07",
+        "name": "Kabupaten Rokan Hilir"
+      },
+      "district": {
+        "id": "14.07.01",
+        "name": "Kubu"
+      }
+    },
+    {
+      "id": "14.07.01.2012",
+      "name": "Telukpiyai",
+      "postal_code": "28991",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.07",
+        "name": "Kabupaten Rokan Hilir"
+      },
+      "district": {
+        "id": "14.07.01",
+        "name": "Kubu"
+      }
+    },
+    {
+      "id": "14.07.01.2013",
+      "name": "Sungaisegajah",
+      "postal_code": "28991",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.07",
+        "name": "Kabupaten Rokan Hilir"
+      },
+      "district": {
+        "id": "14.07.01",
+        "name": "Kubu"
+      }
+    },
+    {
+      "id": "14.07.01.2015",
+      "name": "Sei Segajah Makmur",
+      "postal_code": "28991",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.07",
+        "name": "Kabupaten Rokan Hilir"
+      },
+      "district": {
+        "id": "14.07.01",
+        "name": "Kubu"
+      }
+    },
+    {
+      "id": "14.07.01.2020",
+      "name": "Telukpiyai Pesisir",
+      "postal_code": "28991",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.07",
+        "name": "Kabupaten Rokan Hilir"
+      },
+      "district": {
+        "id": "14.07.01",
+        "name": "Kubu"
+      }
+    },
+    {
+      "id": "14.07.01.2021",
+      "name": "Sungaikubu Hulu",
+      "postal_code": "28991",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.07",
+        "name": "Kabupaten Rokan Hilir"
+      },
+      "district": {
+        "id": "14.07.01",
+        "name": "Kubu"
+      }
+    },
+    {
+      "id": "14.07.01.2022",
+      "name": "Sungai Segajah Jaya",
+      "postal_code": "28991",
+      "province": {
+        "id": "14",
+        "name": "Riau"
+      },
+      "regency": {
+        "id": "14.07",
+        "name": "Kabupaten Rokan Hilir"
+      },
+      "district": {
+        "id": "14.07.01",
+        "name": "Kubu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

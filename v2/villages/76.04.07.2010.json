@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.04.07.2010",
+    "name": "Bussu",
+    "postal_code": "91341",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.04",
+      "name": "Kabupaten Polewali Mandar"
+    },
+    "district": {
+      "id": "76.04.07",
+      "name": "Tapango"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.10.03.2010",
+    "name": "Mattiro Ujung",
+    "postal_code": "90671",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.10",
+      "name": "Kabupaten Pangkajene dan Kepulauan"
+    },
+    "district": {
+      "id": "73.10.03",
+      "name": "Liukang Tupabbiring"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

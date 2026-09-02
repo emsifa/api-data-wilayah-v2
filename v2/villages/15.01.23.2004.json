@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.01.23.2004",
+    "name": "Punai Merindu",
+    "postal_code": "37173",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.01",
+      "name": "Kabupaten Kerinci"
+    },
+    "district": {
+      "id": "15.01.23",
+      "name": "Danau Kerinci Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

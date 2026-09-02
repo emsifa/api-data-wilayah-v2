@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.07.11.2016",
+    "name": "Meuyub Lala",
+    "postal_code": "24163",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.07",
+      "name": "Kabupaten Pidie"
+    },
+    "district": {
+      "id": "11.07.11",
+      "name": "Mila"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 4
+  }
+}

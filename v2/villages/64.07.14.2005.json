@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.07.14.2005",
+    "name": "Anan Jaya",
+    "postal_code": "75778",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.07",
+      "name": "Kabupaten Kutai Barat"
+    },
+    "district": {
+      "id": "64.07.14",
+      "name": "Bentian Besar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

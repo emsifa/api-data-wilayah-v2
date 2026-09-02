@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "96.01.09.2005",
+    "name": "Arar",
+    "postal_code": "98434",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.01",
+      "name": "Kabupaten Sorong"
+    },
+    "district": {
+      "id": "96.01.09",
+      "name": "Mayamuk"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

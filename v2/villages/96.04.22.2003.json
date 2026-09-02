@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "96.04.22.2003",
+    "name": "Bisaud",
+    "postal_code": "98374",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.04",
+      "name": "Kabupaten Tambrauw"
+    },
+    "district": {
+      "id": "96.04.22",
+      "name": "Mawabuan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

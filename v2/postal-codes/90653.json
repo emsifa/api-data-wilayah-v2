@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "id": "73.10.07.1001",
+      "name": "Labakkang",
+      "postal_code": "90653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.07",
+        "name": "Labakkang"
+      }
+    },
+    {
+      "id": "73.10.07.1002",
+      "name": "Mangallekana",
+      "postal_code": "90653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.07",
+        "name": "Labakkang"
+      }
+    },
+    {
+      "id": "73.10.07.1003",
+      "name": "Pundata Baji",
+      "postal_code": "90653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.07",
+        "name": "Labakkang"
+      }
+    },
+    {
+      "id": "73.10.07.1004",
+      "name": "Borimasunggu",
+      "postal_code": "90653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.07",
+        "name": "Labakkang"
+      }
+    },
+    {
+      "id": "73.10.07.2005",
+      "name": "Patallassang",
+      "postal_code": "90653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.07",
+        "name": "Labakkang"
+      }
+    },
+    {
+      "id": "73.10.07.2006",
+      "name": "Manakku",
+      "postal_code": "90653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.07",
+        "name": "Labakkang"
+      }
+    },
+    {
+      "id": "73.10.07.2007",
+      "name": "Gentung",
+      "postal_code": "90653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.07",
+        "name": "Labakkang"
+      }
+    },
+    {
+      "id": "73.10.07.2008",
+      "name": "Batara",
+      "postal_code": "90653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.07",
+        "name": "Labakkang"
+      }
+    },
+    {
+      "id": "73.10.07.2009",
+      "name": "Taraweang",
+      "postal_code": "90653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.07",
+        "name": "Labakkang"
+      }
+    },
+    {
+      "id": "73.10.07.2010",
+      "name": "Kanaungan",
+      "postal_code": "90653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.07",
+        "name": "Labakkang"
+      }
+    },
+    {
+      "id": "73.10.07.2011",
+      "name": "Bonto Manai",
+      "postal_code": "90653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.07",
+        "name": "Labakkang"
+      }
+    },
+    {
+      "id": "73.10.07.2012",
+      "name": "Kassiloe",
+      "postal_code": "90653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.07",
+        "name": "Labakkang"
+      }
+    },
+    {
+      "id": "73.10.07.2013",
+      "name": "Bara Batu",
+      "postal_code": "90653",
+      "province": {
+        "id": "73",
+        "name": "Sulawesi Selatan"
+      },
+      "regency": {
+        "id": "73.10",
+        "name": "Kabupaten Pangkajene dan Kepulauan"
+      },
+      "district": {
+        "id": "73.10.07",
+        "name": "Labakkang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

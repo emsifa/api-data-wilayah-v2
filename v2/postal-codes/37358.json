@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "15.02.14.2001",
+      "name": "Rantau Limau Manis",
+      "postal_code": "37358",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.14",
+        "name": "Tabir Ilir"
+      }
+    },
+    {
+      "id": "15.02.14.2002",
+      "name": "Ulak Makam",
+      "postal_code": "37358",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.14",
+        "name": "Tabir Ilir"
+      }
+    },
+    {
+      "id": "15.02.14.2003",
+      "name": "Air Batu",
+      "postal_code": "37358",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.14",
+        "name": "Tabir Ilir"
+      }
+    },
+    {
+      "id": "15.02.14.2004",
+      "name": "Rejo Sari",
+      "postal_code": "37358",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.14",
+        "name": "Tabir Ilir"
+      }
+    },
+    {
+      "id": "15.02.14.2005",
+      "name": "Kota Raja",
+      "postal_code": "37358",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.14",
+        "name": "Tabir Ilir"
+      }
+    },
+    {
+      "id": "15.02.14.2006",
+      "name": "Tunggul Bulin",
+      "postal_code": "37358",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.14",
+        "name": "Tabir Ilir"
+      }
+    },
+    {
+      "id": "15.02.14.2007",
+      "name": "Mekar Limau Manis",
+      "postal_code": "37358",
+      "province": {
+        "id": "15",
+        "name": "Jambi"
+      },
+      "regency": {
+        "id": "15.02",
+        "name": "Kabupaten Merangin"
+      },
+      "district": {
+        "id": "15.02.14",
+        "name": "Tabir Ilir"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

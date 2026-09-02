@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.07.21.2008",
+    "name": "Rajabasa Lama II",
+    "postal_code": "34375",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.07",
+      "name": "Kabupaten Lampung Timur"
+    },
+    "district": {
+      "id": "18.07.21",
+      "name": "Labuhan Ratu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

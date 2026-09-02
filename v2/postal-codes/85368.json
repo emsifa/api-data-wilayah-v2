@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "53.01.07.1001",
+      "name": "Sulamu",
+      "postal_code": "85368",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.07",
+        "name": "Sulamu"
+      }
+    },
+    {
+      "id": "53.01.07.2002",
+      "name": "Pitai",
+      "postal_code": "85368",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.07",
+        "name": "Sulamu"
+      }
+    },
+    {
+      "id": "53.01.07.2003",
+      "name": "Pariti",
+      "postal_code": "85368",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.07",
+        "name": "Sulamu"
+      }
+    },
+    {
+      "id": "53.01.07.2004",
+      "name": "Oeteta",
+      "postal_code": "85368",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.07",
+        "name": "Sulamu"
+      }
+    },
+    {
+      "id": "53.01.07.2005",
+      "name": "Bipolo",
+      "postal_code": "85368",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.07",
+        "name": "Sulamu"
+      }
+    },
+    {
+      "id": "53.01.07.2006",
+      "name": "Pantai Beringin",
+      "postal_code": "85368",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.07",
+        "name": "Sulamu"
+      }
+    },
+    {
+      "id": "53.01.07.2007",
+      "name": "Pantulan",
+      "postal_code": "85368",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.01",
+        "name": "Kabupaten Kupang"
+      },
+      "district": {
+        "id": "53.01.07",
+        "name": "Sulamu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

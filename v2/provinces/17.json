@@ -1,0 +1,17 @@
+{
+  "data": {
+    "id": "17",
+    "name": "Bengkulu",
+    "capital": "Bengkulu",
+    "lat": -3.8209403998102185,
+    "lng": 102.28398936428187,
+    "elv": 21,
+    "tz": 7,
+    "population": 2127957,
+    "total_area": 20122.21
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 1
+  }
+}

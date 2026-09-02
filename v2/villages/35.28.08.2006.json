@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.28.08.2006",
+    "name": "Grujugan",
+    "postal_code": "69383",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.28",
+      "name": "Kabupaten Pamekasan"
+    },
+    "district": {
+      "id": "35.28.08",
+      "name": "Larangan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

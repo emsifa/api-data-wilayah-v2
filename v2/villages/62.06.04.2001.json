@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.06.04.2001",
+    "name": "Tewang Papari",
+    "postal_code": "74453",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.06",
+      "name": "Kabupaten Katingan"
+    },
+    "district": {
+      "id": "62.06.04",
+      "name": "Pulau Malan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

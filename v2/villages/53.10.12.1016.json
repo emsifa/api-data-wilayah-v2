@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.10.12.1016",
+    "name": "Laci Carep",
+    "postal_code": "86519",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.10",
+      "name": "Kabupaten Manggarai"
+    },
+    "district": {
+      "id": "53.10.12",
+      "name": "Langke Rembong"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

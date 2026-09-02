@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.17.07.2004",
+    "name": "Gegur Sepakat",
+    "postal_code": "24555",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.17",
+      "name": "Kabupaten Bener Meriah"
+    },
+    "district": {
+      "id": "11.17.07",
+      "name": "Timang gajah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

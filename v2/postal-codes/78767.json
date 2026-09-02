@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "61.06.14.2001",
+      "name": "Badau",
+      "postal_code": "78767",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.14",
+        "name": "Badau"
+      }
+    },
+    {
+      "id": "61.06.14.2002",
+      "name": "Janting",
+      "postal_code": "78767",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.14",
+        "name": "Badau"
+      }
+    },
+    {
+      "id": "61.06.14.2003",
+      "name": "Semuntik",
+      "postal_code": "78767",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.14",
+        "name": "Badau"
+      }
+    },
+    {
+      "id": "61.06.14.2004",
+      "name": "Kekurak",
+      "postal_code": "78767",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.14",
+        "name": "Badau"
+      }
+    },
+    {
+      "id": "61.06.14.2005",
+      "name": "Pulau Majang",
+      "postal_code": "78767",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.14",
+        "name": "Badau"
+      }
+    },
+    {
+      "id": "61.06.14.2006",
+      "name": "Seriang",
+      "postal_code": "78767",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.14",
+        "name": "Badau"
+      }
+    },
+    {
+      "id": "61.06.14.2007",
+      "name": "Sebindang",
+      "postal_code": "78767",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.14",
+        "name": "Badau"
+      }
+    },
+    {
+      "id": "61.06.14.2008",
+      "name": "Tinting Seligi",
+      "postal_code": "78767",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.14",
+        "name": "Badau"
+      }
+    },
+    {
+      "id": "61.06.14.2009",
+      "name": "Tajum",
+      "postal_code": "78767",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.06",
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "district": {
+        "id": "61.06.14",
+        "name": "Badau"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

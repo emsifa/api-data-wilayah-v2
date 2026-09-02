@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.05.12.2005",
+    "name": "Wailab",
+    "postal_code": "97793",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.05",
+      "name": "Kabupaten Kepulauan Sula"
+    },
+    "district": {
+      "id": "82.05.12",
+      "name": "Mangoli Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

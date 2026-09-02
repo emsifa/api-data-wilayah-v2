@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "36.02.14.2013",
+      "name": "Jatimulya",
+      "postal_code": "42315",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.14",
+        "name": "Rangkasbitung"
+      }
+    },
+    {
+      "id": "36.02.22.2004",
+      "name": "Sindanglaya",
+      "postal_code": "42315",
+      "province": {
+        "id": "36",
+        "name": "Banten"
+      },
+      "regency": {
+        "id": "36.02",
+        "name": "Kabupaten Lebak"
+      },
+      "district": {
+        "id": "36.02.22",
+        "name": "Sobang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

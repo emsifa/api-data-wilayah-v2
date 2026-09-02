@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "12.71.14.1004",
+      "name": "Bantan",
+      "postal_code": "20224",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.71",
+        "name": "Kota Medan"
+      },
+      "district": {
+        "id": "12.71.14",
+        "name": "Medan Tembung"
+      }
+    },
+    {
+      "id": "12.71.14.1007",
+      "name": "Bantan Timur",
+      "postal_code": "20224",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.71",
+        "name": "Kota Medan"
+      },
+      "district": {
+        "id": "12.71.14",
+        "name": "Medan Tembung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

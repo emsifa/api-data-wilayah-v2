@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.03.01.2013",
+    "name": "Kambong",
+    "postal_code": "78516",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.03",
+      "name": "Kabupaten Sanggau"
+    },
+    "district": {
+      "id": "61.03.01",
+      "name": "Kapuas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

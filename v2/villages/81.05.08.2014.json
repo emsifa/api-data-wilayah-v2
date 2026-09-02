@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.05.08.2014",
+    "name": "Taa",
+    "postal_code": "97591",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.05",
+      "name": "Kabupaten Seram Bagian Timur"
+    },
+    "district": {
+      "id": "81.05.08",
+      "name": "Kilmury"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "18.71.11.1003",
+      "name": "Labuhan Dalam",
+      "postal_code": "35142",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.11",
+        "name": "Tanjung Senang"
+      }
+    },
+    {
+      "id": "18.71.14.1001",
+      "name": "Labuhan Ratu",
+      "postal_code": "35142",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.14",
+        "name": "Labuhan Ratu"
+      }
+    },
+    {
+      "id": "18.71.14.1002",
+      "name": "Labuhan Ratu Raya",
+      "postal_code": "35142",
+      "province": {
+        "id": "18",
+        "name": "Lampung"
+      },
+      "regency": {
+        "id": "18.71",
+        "name": "Kota Bandar Lampung"
+      },
+      "district": {
+        "id": "18.71.14",
+        "name": "Labuhan Ratu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

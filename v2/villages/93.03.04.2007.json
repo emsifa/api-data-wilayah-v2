@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "93.03.04.2007",
+    "name": "Isyaman",
+    "postal_code": "99873",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.03",
+      "name": "Kabupaten Mappi"
+    },
+    "district": {
+      "id": "93.03.04",
+      "name": "Edera"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

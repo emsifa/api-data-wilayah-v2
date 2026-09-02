@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "51.07.06.2001",
+      "name": "Bungaya",
+      "postal_code": "80861",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.06",
+        "name": "Bebandem"
+      }
+    },
+    {
+      "id": "51.07.06.2002",
+      "name": "Budakeling",
+      "postal_code": "80861",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.06",
+        "name": "Bebandem"
+      }
+    },
+    {
+      "id": "51.07.06.2003",
+      "name": "Bebandem",
+      "postal_code": "80861",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.06",
+        "name": "Bebandem"
+      }
+    },
+    {
+      "id": "51.07.06.2004",
+      "name": "Sibetan",
+      "postal_code": "80861",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.06",
+        "name": "Bebandem"
+      }
+    },
+    {
+      "id": "51.07.06.2005",
+      "name": "Jungutan",
+      "postal_code": "80861",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.06",
+        "name": "Bebandem"
+      }
+    },
+    {
+      "id": "51.07.06.2006",
+      "name": "Bungaya Kangin",
+      "postal_code": "80861",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.06",
+        "name": "Bebandem"
+      }
+    },
+    {
+      "id": "51.07.06.2007",
+      "name": "Bhuana Giri",
+      "postal_code": "80861",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.06",
+        "name": "Bebandem"
+      }
+    },
+    {
+      "id": "51.07.06.2008",
+      "name": "Macang",
+      "postal_code": "80861",
+      "province": {
+        "id": "51",
+        "name": "Bali"
+      },
+      "regency": {
+        "id": "51.07",
+        "name": "Kabupaten Karangasem"
+      },
+      "district": {
+        "id": "51.07.06",
+        "name": "Bebandem"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

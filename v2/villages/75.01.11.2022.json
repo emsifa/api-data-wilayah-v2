@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "75.01.11.2022",
+    "name": "Owalanga",
+    "postal_code": "96246",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.01",
+      "name": "Kabupaten Gorontalo"
+    },
+    "district": {
+      "id": "75.01.11",
+      "name": "Bongomeme"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.03.14.2005",
+    "name": "Bumi Raharja",
+    "postal_code": "34585",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.03",
+      "name": "Kabupaten Lampung Utara"
+    },
+    "district": {
+      "id": "18.03.14",
+      "name": "Abung Surakarta"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

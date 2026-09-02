@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.01.17.2002",
+    "name": "Sihorbo",
+    "postal_code": "22567",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.01",
+      "name": "Kabupaten Tapanuli Tengah"
+    },
+    "district": {
+      "id": "12.01.17",
+      "name": "Barus Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

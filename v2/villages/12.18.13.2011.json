@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.18.13.2011",
+    "name": "Kuta Baru",
+    "postal_code": "20999",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.18",
+      "name": "Kabupaten Serdang Bedagai"
+    },
+    "district": {
+      "id": "12.18.13",
+      "name": "Tebing Tinggi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

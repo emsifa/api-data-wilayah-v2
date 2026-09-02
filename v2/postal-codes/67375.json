@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "35.08.01.2001",
+      "name": "Tegalrejo",
+      "postal_code": "67375",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.08",
+        "name": "Kabupaten Lumajang"
+      },
+      "district": {
+        "id": "35.08.01",
+        "name": "Tempursari"
+      }
+    },
+    {
+      "id": "35.08.01.2002",
+      "name": "Bulurejo",
+      "postal_code": "67375",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.08",
+        "name": "Kabupaten Lumajang"
+      },
+      "district": {
+        "id": "35.08.01",
+        "name": "Tempursari"
+      }
+    },
+    {
+      "id": "35.08.01.2003",
+      "name": "Purorejo",
+      "postal_code": "67375",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.08",
+        "name": "Kabupaten Lumajang"
+      },
+      "district": {
+        "id": "35.08.01",
+        "name": "Tempursari"
+      }
+    },
+    {
+      "id": "35.08.01.2004",
+      "name": "Tempurejo",
+      "postal_code": "67375",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.08",
+        "name": "Kabupaten Lumajang"
+      },
+      "district": {
+        "id": "35.08.01",
+        "name": "Tempursari"
+      }
+    },
+    {
+      "id": "35.08.01.2005",
+      "name": "Tempursari",
+      "postal_code": "67375",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.08",
+        "name": "Kabupaten Lumajang"
+      },
+      "district": {
+        "id": "35.08.01",
+        "name": "Tempursari"
+      }
+    },
+    {
+      "id": "35.08.01.2006",
+      "name": "Pundungsari",
+      "postal_code": "67375",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.08",
+        "name": "Kabupaten Lumajang"
+      },
+      "district": {
+        "id": "35.08.01",
+        "name": "Tempursari"
+      }
+    },
+    {
+      "id": "35.08.01.2007",
+      "name": "Kaliuling",
+      "postal_code": "67375",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.08",
+        "name": "Kabupaten Lumajang"
+      },
+      "district": {
+        "id": "35.08.01",
+        "name": "Tempursari"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

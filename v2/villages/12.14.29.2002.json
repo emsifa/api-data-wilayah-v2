@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.14.29.2002",
+    "name": "Luaha Idano Pono",
+    "postal_code": "22883",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.14",
+      "name": "Kabupaten Nias Selatan"
+    },
+    "district": {
+      "id": "12.14.29",
+      "name": "Pulau-Pulau Batu Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

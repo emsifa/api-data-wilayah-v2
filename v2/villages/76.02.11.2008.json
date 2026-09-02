@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "76.02.11.2008",
+    "name": "Kakullasang",
+    "postal_code": "91564",
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    },
+    "regency": {
+      "id": "76.02",
+      "name": "Kabupaten Mamuju"
+    },
+    "district": {
+      "id": "76.02.11",
+      "name": "Tommo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

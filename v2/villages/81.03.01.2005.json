@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.03.01.2005",
+    "name": "Lauran",
+    "postal_code": "97471",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.03",
+      "name": "Kabupaten Kepulauan Tanimbar"
+    },
+    "district": {
+      "id": "81.03.01",
+      "name": "Tanimbar Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

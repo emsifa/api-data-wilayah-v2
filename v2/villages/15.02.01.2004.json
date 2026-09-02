@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.02.01.2004",
+    "name": "Rantau Kermas",
+    "postal_code": "37372",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.02",
+      "name": "Kabupaten Merangin"
+    },
+    "district": {
+      "id": "15.02.01",
+      "name": "Jangkat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

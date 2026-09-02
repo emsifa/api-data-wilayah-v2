@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.02.28.2007",
+    "name": "Besle'u",
+    "postal_code": "85582",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.02",
+      "name": "Kabupaten Timor Tengah Selatan"
+    },
+    "district": {
+      "id": "53.02.28",
+      "name": "Fautmolo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

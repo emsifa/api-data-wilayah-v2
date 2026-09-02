@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "64.71.03.1001",
+      "name": "Batu Ampar",
+      "postal_code": "76136",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.71",
+        "name": "Kota Balikpapan"
+      },
+      "district": {
+        "id": "64.71.03",
+        "name": "Balikpapan Utara"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

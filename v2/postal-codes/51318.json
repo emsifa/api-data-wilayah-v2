@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "33.24.15.1006",
+      "name": "Kebondalem",
+      "postal_code": "51318",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.15",
+        "name": "Kendal"
+      }
+    },
+    {
+      "id": "33.24.15.1007",
+      "name": "Kalibuntu Wetan",
+      "postal_code": "51318",
+      "province": {
+        "id": "33",
+        "name": "Jawa Tengah"
+      },
+      "regency": {
+        "id": "33.24",
+        "name": "Kabupaten Kendal"
+      },
+      "district": {
+        "id": "33.24.15",
+        "name": "Kendal"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

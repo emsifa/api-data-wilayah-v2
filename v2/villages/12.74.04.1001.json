@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.74.04.1001",
+    "name": "Sei Merbau",
+    "postal_code": "21334",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.74",
+      "name": "Kota Tanjungbalai"
+    },
+    "district": {
+      "id": "12.74.04",
+      "name": "Teluk Nibung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

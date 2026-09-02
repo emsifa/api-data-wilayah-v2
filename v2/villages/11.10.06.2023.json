@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.10.06.2023",
+    "name": "Tunas Harapan",
+    "postal_code": "24793",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.10",
+      "name": "Kabupaten Aceh Singkil"
+    },
+    "district": {
+      "id": "11.10.06",
+      "name": "Gunung Meriah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

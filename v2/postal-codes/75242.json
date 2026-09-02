@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "64.72.01.1002",
+      "name": "Handil Bakti",
+      "postal_code": "75242",
+      "province": {
+        "id": "64",
+        "name": "Kalimantan Timur"
+      },
+      "regency": {
+        "id": "64.72",
+        "name": "Kota Samarinda"
+      },
+      "district": {
+        "id": "64.72.01",
+        "name": "Palaran"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

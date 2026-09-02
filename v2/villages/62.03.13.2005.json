@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.03.13.2005",
+    "name": "Sidorejo",
+    "postal_code": "73582",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.03",
+      "name": "Kabupaten Kapuas"
+    },
+    "district": {
+      "id": "62.03.13",
+      "name": "Tamban Catur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

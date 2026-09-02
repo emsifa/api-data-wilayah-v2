@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.17.10.2003",
+    "name": "Cihampelas",
+    "postal_code": "40562",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.17",
+      "name": "Kabupaten Bandung Barat"
+    },
+    "district": {
+      "id": "32.17.10",
+      "name": "Cihampelas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

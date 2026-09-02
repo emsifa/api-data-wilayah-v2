@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "62.12.04.2008",
+    "name": "Pantai Laga",
+    "postal_code": "73971",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.12",
+      "name": "Kabupaten Murung Raya"
+    },
+    "district": {
+      "id": "62.12.04",
+      "name": "Permata Intan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

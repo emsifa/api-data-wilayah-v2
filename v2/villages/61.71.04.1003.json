@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "61.71.04.1003",
+    "name": "Siantan Hilir",
+    "postal_code": "78243",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.71",
+      "name": "Kota Pontianak"
+    },
+    "district": {
+      "id": "61.71.04",
+      "name": "Pontianak Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

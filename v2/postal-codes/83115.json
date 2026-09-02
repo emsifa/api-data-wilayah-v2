@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "52.71.04.1002",
+      "name": "Tanjung Karang",
+      "postal_code": "83115",
+      "province": {
+        "id": "52",
+        "name": "Nusa Tenggara Barat"
+      },
+      "regency": {
+        "id": "52.71",
+        "name": "Kota Mataram"
+      },
+      "district": {
+        "id": "52.71.04",
+        "name": "Sekarbela"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

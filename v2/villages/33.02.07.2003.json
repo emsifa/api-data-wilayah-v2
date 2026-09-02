@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.02.07.2003",
+    "name": "Karanggedang",
+    "postal_code": "53195",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.02",
+      "name": "Kabupaten Banyumas"
+    },
+    "district": {
+      "id": "33.02.07",
+      "name": "Sumpiuh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

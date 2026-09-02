@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "32.17.09.2001",
+      "name": "Batujajar Timur",
+      "postal_code": "40561",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.17",
+        "name": "Kabupaten Bandung Barat"
+      },
+      "district": {
+        "id": "32.17.09",
+        "name": "Batujajar"
+      }
+    },
+    {
+      "id": "32.17.09.2002",
+      "name": "Batujajar Barat",
+      "postal_code": "40561",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.17",
+        "name": "Kabupaten Bandung Barat"
+      },
+      "district": {
+        "id": "32.17.09",
+        "name": "Batujajar"
+      }
+    },
+    {
+      "id": "32.17.09.2004",
+      "name": "Galanggang",
+      "postal_code": "40561",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.17",
+        "name": "Kabupaten Bandung Barat"
+      },
+      "district": {
+        "id": "32.17.09",
+        "name": "Batujajar"
+      }
+    },
+    {
+      "id": "32.17.09.2005",
+      "name": "Cangkorah",
+      "postal_code": "40561",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.17",
+        "name": "Kabupaten Bandung Barat"
+      },
+      "district": {
+        "id": "32.17.09",
+        "name": "Batujajar"
+      }
+    },
+    {
+      "id": "32.17.09.2007",
+      "name": "Selacau",
+      "postal_code": "40561",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.17",
+        "name": "Kabupaten Bandung Barat"
+      },
+      "district": {
+        "id": "32.17.09",
+        "name": "Batujajar"
+      }
+    },
+    {
+      "id": "32.17.09.2008",
+      "name": "Pangauban",
+      "postal_code": "40561",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.17",
+        "name": "Kabupaten Bandung Barat"
+      },
+      "district": {
+        "id": "32.17.09",
+        "name": "Batujajar"
+      }
+    },
+    {
+      "id": "32.17.09.2010",
+      "name": "Giriasih",
+      "postal_code": "40561",
+      "province": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "regency": {
+        "id": "32.17",
+        "name": "Kabupaten Bandung Barat"
+      },
+      "district": {
+        "id": "32.17.09",
+        "name": "Batujajar"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "16.04.10.1033",
+      "name": "Pagar Agung",
+      "postal_code": "31417",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.04",
+        "name": "Kabupaten Lahat"
+      },
+      "district": {
+        "id": "16.04.10",
+        "name": "Lahat"
+      }
+    },
+    {
+      "id": "16.04.20.2008",
+      "name": "Pagar Agung",
+      "postal_code": "31417",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.04",
+        "name": "Kabupaten Lahat"
+      },
+      "district": {
+        "id": "16.04.20",
+        "name": "Pseksu"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

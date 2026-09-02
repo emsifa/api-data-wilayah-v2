@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "61.12.02.2001",
+      "name": "Kuala Mandor B",
+      "postal_code": "78355",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.12",
+        "name": "Kabupaten Kubu Raya"
+      },
+      "district": {
+        "id": "61.12.02",
+        "name": "Kuala Mandor B"
+      }
+    },
+    {
+      "id": "61.12.02.2002",
+      "name": "Kubu Padi",
+      "postal_code": "78355",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.12",
+        "name": "Kabupaten Kubu Raya"
+      },
+      "district": {
+        "id": "61.12.02",
+        "name": "Kuala Mandor B"
+      }
+    },
+    {
+      "id": "61.12.02.2003",
+      "name": "Kuala Mandor A",
+      "postal_code": "78355",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.12",
+        "name": "Kabupaten Kubu Raya"
+      },
+      "district": {
+        "id": "61.12.02",
+        "name": "Kuala Mandor B"
+      }
+    },
+    {
+      "id": "61.12.02.2004",
+      "name": "Retok",
+      "postal_code": "78355",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.12",
+        "name": "Kabupaten Kubu Raya"
+      },
+      "district": {
+        "id": "61.12.02",
+        "name": "Kuala Mandor B"
+      }
+    },
+    {
+      "id": "61.12.02.2005",
+      "name": "Sungai Enau",
+      "postal_code": "78355",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.12",
+        "name": "Kabupaten Kubu Raya"
+      },
+      "district": {
+        "id": "61.12.02",
+        "name": "Kuala Mandor B"
+      }
+    },
+    {
+      "id": "61.12.02.2006",
+      "name": "Padi Jaya",
+      "postal_code": "78355",
+      "province": {
+        "id": "61",
+        "name": "Kalimantan Barat"
+      },
+      "regency": {
+        "id": "61.12",
+        "name": "Kabupaten Kubu Raya"
+      },
+      "district": {
+        "id": "61.12.02",
+        "name": "Kuala Mandor B"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

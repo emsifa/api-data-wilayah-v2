@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "73.26.02.2008",
+    "name": "Bori' Lombongan",
+    "postal_code": "91844",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.26",
+      "name": "Kabupaten Toraja Utara"
+    },
+    "district": {
+      "id": "73.26.02",
+      "name": "Sesean"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

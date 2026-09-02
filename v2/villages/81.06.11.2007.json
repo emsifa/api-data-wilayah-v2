@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.06.11.2007",
+    "name": "Huku Kecil",
+    "postal_code": "97564",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.06",
+      "name": "Kabupaten Seram Bagian Barat"
+    },
+    "district": {
+      "id": "81.06.11",
+      "name": "Elpaputih"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

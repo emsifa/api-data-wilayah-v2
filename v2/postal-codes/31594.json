@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "16.11.08.2001",
+      "name": "Puntang",
+      "postal_code": "31594",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.11",
+        "name": "Kabupaten Empat Lawang"
+      },
+      "district": {
+        "id": "16.11.08",
+        "name": "Sikap Dalam"
+      }
+    },
+    {
+      "id": "16.11.08.2002",
+      "name": "Bandar Aji",
+      "postal_code": "31594",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.11",
+        "name": "Kabupaten Empat Lawang"
+      },
+      "district": {
+        "id": "16.11.08",
+        "name": "Sikap Dalam"
+      }
+    },
+    {
+      "id": "16.11.08.2003",
+      "name": "Paduraksa",
+      "postal_code": "31594",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.11",
+        "name": "Kabupaten Empat Lawang"
+      },
+      "district": {
+        "id": "16.11.08",
+        "name": "Sikap Dalam"
+      }
+    },
+    {
+      "id": "16.11.08.2004",
+      "name": "Karang Gede",
+      "postal_code": "31594",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.11",
+        "name": "Kabupaten Empat Lawang"
+      },
+      "district": {
+        "id": "16.11.08",
+        "name": "Sikap Dalam"
+      }
+    },
+    {
+      "id": "16.11.08.2005",
+      "name": "Karang Dapo Baru",
+      "postal_code": "31594",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.11",
+        "name": "Kabupaten Empat Lawang"
+      },
+      "district": {
+        "id": "16.11.08",
+        "name": "Sikap Dalam"
+      }
+    },
+    {
+      "id": "16.11.08.2006",
+      "name": "Karang Dapo Lama",
+      "postal_code": "31594",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.11",
+        "name": "Kabupaten Empat Lawang"
+      },
+      "district": {
+        "id": "16.11.08",
+        "name": "Sikap Dalam"
+      }
+    },
+    {
+      "id": "16.11.08.2007",
+      "name": "Tangga Rasa",
+      "postal_code": "31594",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.11",
+        "name": "Kabupaten Empat Lawang"
+      },
+      "district": {
+        "id": "16.11.08",
+        "name": "Sikap Dalam"
+      }
+    },
+    {
+      "id": "16.11.08.2008",
+      "name": "Tapa Baru",
+      "postal_code": "31594",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.11",
+        "name": "Kabupaten Empat Lawang"
+      },
+      "district": {
+        "id": "16.11.08",
+        "name": "Sikap Dalam"
+      }
+    },
+    {
+      "id": "16.11.08.2009",
+      "name": "Tapa Lama",
+      "postal_code": "31594",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.11",
+        "name": "Kabupaten Empat Lawang"
+      },
+      "district": {
+        "id": "16.11.08",
+        "name": "Sikap Dalam"
+      }
+    },
+    {
+      "id": "16.11.08.2010",
+      "name": "Martapura",
+      "postal_code": "31594",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.11",
+        "name": "Kabupaten Empat Lawang"
+      },
+      "district": {
+        "id": "16.11.08",
+        "name": "Sikap Dalam"
+      }
+    },
+    {
+      "id": "16.11.08.2011",
+      "name": "Karang Anyar",
+      "postal_code": "31594",
+      "province": {
+        "id": "16",
+        "name": "Sumatera Selatan"
+      },
+      "regency": {
+        "id": "16.11",
+        "name": "Kabupaten Empat Lawang"
+      },
+      "district": {
+        "id": "16.11.08",
+        "name": "Sikap Dalam"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

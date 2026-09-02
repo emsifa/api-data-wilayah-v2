@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.23.07.2002",
+    "name": "Lajo Lor",
+    "postal_code": "62361",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.23",
+      "name": "Kabupaten Tuban"
+    },
+    "district": {
+      "id": "35.23.07",
+      "name": "Singgahan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.02.07.2012",
+    "name": "Sigou",
+    "postal_code": "98926",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.02",
+      "name": "Kabupaten Puncak Jaya"
+    },
+    "district": {
+      "id": "94.02.07",
+      "name": "Torere"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

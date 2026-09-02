@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "34.71.14.1001",
+    "name": "Rejowinangun",
+    "postal_code": "55171",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.71",
+      "name": "Kota Yogyakarta"
+    },
+    "district": {
+      "id": "34.71.14",
+      "name": "Kotagede"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

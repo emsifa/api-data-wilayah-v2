@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "15.03.09.2004",
+    "name": "Payo Lebar",
+    "postal_code": "37483",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.03",
+      "name": "Kabupaten Sarolangun"
+    },
+    "district": {
+      "id": "15.03.09",
+      "name": "Singkut"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

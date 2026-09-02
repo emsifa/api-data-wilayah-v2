@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "21.04.05.2012",
+    "name": "Resun Pesisir",
+    "postal_code": "29874",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.04",
+      "name": "Kabupaten Lingga"
+    },
+    "district": {
+      "id": "21.04.05",
+      "name": "Lingga Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "64.71.02.1001",
+    "name": "Baru Ilir",
+    "postal_code": "76131",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.71",
+      "name": "Kota Balikpapan"
+    },
+    "district": {
+      "id": "64.71.02",
+      "name": "Balikpapan Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

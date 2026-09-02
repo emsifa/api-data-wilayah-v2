@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "35.13.11.2012",
+    "name": "Pasembon",
+    "postal_code": "67293",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.13",
+      "name": "Kabupaten Probolinggo"
+    },
+    "district": {
+      "id": "35.13.11",
+      "name": "Kotaanyar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:07Z",
+    "level": 4
+  }
+}

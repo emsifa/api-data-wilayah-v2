@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.11.19.2003",
+    "name": "Mandahu",
+    "postal_code": "87152",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.11",
+      "name": "Kabupaten Sumba Timur"
+    },
+    "district": {
+      "id": "53.11.19",
+      "name": "Katala Hamu Lingu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

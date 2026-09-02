@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "12.22.01.1001",
+      "name": "Kotapinang",
+      "postal_code": "21464",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.22",
+        "name": "Kabupaten Labuhanbatu Selatan"
+      },
+      "district": {
+        "id": "12.22.01",
+        "name": "Kotapinang"
+      }
+    },
+    {
+      "id": "12.22.01.2002",
+      "name": "Simatahari",
+      "postal_code": "21464",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.22",
+        "name": "Kabupaten Labuhanbatu Selatan"
+      },
+      "district": {
+        "id": "12.22.01",
+        "name": "Kotapinang"
+      }
+    },
+    {
+      "id": "12.22.01.2003",
+      "name": "Mampang",
+      "postal_code": "21464",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.22",
+        "name": "Kabupaten Labuhanbatu Selatan"
+      },
+      "district": {
+        "id": "12.22.01",
+        "name": "Kotapinang"
+      }
+    },
+    {
+      "id": "12.22.01.2004",
+      "name": "Pasir Tuntung",
+      "postal_code": "21464",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.22",
+        "name": "Kabupaten Labuhanbatu Selatan"
+      },
+      "district": {
+        "id": "12.22.01",
+        "name": "Kotapinang"
+      }
+    },
+    {
+      "id": "12.22.01.2005",
+      "name": "Sisumut",
+      "postal_code": "21464",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.22",
+        "name": "Kabupaten Labuhanbatu Selatan"
+      },
+      "district": {
+        "id": "12.22.01",
+        "name": "Kotapinang"
+      }
+    },
+    {
+      "id": "12.22.01.2006",
+      "name": "Hadundung",
+      "postal_code": "21464",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.22",
+        "name": "Kabupaten Labuhanbatu Selatan"
+      },
+      "district": {
+        "id": "12.22.01",
+        "name": "Kotapinang"
+      }
+    },
+    {
+      "id": "12.22.01.2007",
+      "name": "Sosopan",
+      "postal_code": "21464",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.22",
+        "name": "Kabupaten Labuhanbatu Selatan"
+      },
+      "district": {
+        "id": "12.22.01",
+        "name": "Kotapinang"
+      }
+    },
+    {
+      "id": "12.22.01.2008",
+      "name": "Perkebunan Nomark",
+      "postal_code": "21464",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.22",
+        "name": "Kabupaten Labuhanbatu Selatan"
+      },
+      "district": {
+        "id": "12.22.01",
+        "name": "Kotapinang"
+      }
+    },
+    {
+      "id": "12.22.01.2009",
+      "name": "Perkebunan Nagodang",
+      "postal_code": "21464",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.22",
+        "name": "Kabupaten Labuhanbatu Selatan"
+      },
+      "district": {
+        "id": "12.22.01",
+        "name": "Kotapinang"
+      }
+    },
+    {
+      "id": "12.22.01.2010",
+      "name": "Perk. Sei Rumbia",
+      "postal_code": "21464",
+      "province": {
+        "id": "12",
+        "name": "Sumatera Utara"
+      },
+      "regency": {
+        "id": "12.22",
+        "name": "Kabupaten Labuhanbatu Selatan"
+      },
+      "district": {
+        "id": "12.22.01",
+        "name": "Kotapinang"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

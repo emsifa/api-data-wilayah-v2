@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.71.01.1002",
+    "name": "Foramadiahi",
+    "postal_code": "97747",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.71",
+      "name": "Kota Ternate"
+    },
+    "district": {
+      "id": "82.71.01",
+      "name": "Pulau Ternate"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.02.02.2005",
+    "name": "Pelebib",
+    "postal_code": "99574",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.02",
+      "name": "Kabupaten Pegunungan Bintang"
+    },
+    "district": {
+      "id": "95.02.02",
+      "name": "Kiwirok"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

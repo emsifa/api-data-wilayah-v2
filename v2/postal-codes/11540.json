@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "31.73.05.1002",
+      "name": "Sukabumi Utara",
+      "postal_code": "11540",
+      "province": {
+        "id": "31",
+        "name": "Daerah Khusus Ibukota Jakarta"
+      },
+      "regency": {
+        "id": "31.73",
+        "name": "Kota Administrasi Jakarta Barat"
+      },
+      "district": {
+        "id": "31.73.05",
+        "name": "Kebon Jeruk"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

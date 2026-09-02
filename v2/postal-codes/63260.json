@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "35.21.13.2001",
+      "name": "Sambirejo",
+      "postal_code": "63260",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.13",
+        "name": "Mantingan"
+      }
+    },
+    {
+      "id": "35.21.13.2002",
+      "name": "Mantingan",
+      "postal_code": "63260",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.13",
+        "name": "Mantingan"
+      }
+    },
+    {
+      "id": "35.21.13.2003",
+      "name": "Kedungharjo",
+      "postal_code": "63260",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.13",
+        "name": "Mantingan"
+      }
+    },
+    {
+      "id": "35.21.13.2004",
+      "name": "Pakah",
+      "postal_code": "63260",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.13",
+        "name": "Mantingan"
+      }
+    },
+    {
+      "id": "35.21.13.2005",
+      "name": "Tambakboyo",
+      "postal_code": "63260",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.13",
+        "name": "Mantingan"
+      }
+    },
+    {
+      "id": "35.21.13.2006",
+      "name": "Pengkol",
+      "postal_code": "63260",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.13",
+        "name": "Mantingan"
+      }
+    },
+    {
+      "id": "35.21.13.2007",
+      "name": "Jatimulyo",
+      "postal_code": "63260",
+      "province": {
+        "id": "35",
+        "name": "Jawa Timur"
+      },
+      "regency": {
+        "id": "35.21",
+        "name": "Kabupaten Ngawi"
+      },
+      "district": {
+        "id": "35.21.13",
+        "name": "Mantingan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

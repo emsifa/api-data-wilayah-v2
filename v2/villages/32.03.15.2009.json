@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.03.15.2009",
+    "name": "Wangunjaya",
+    "postal_code": "43263",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.03",
+      "name": "Kabupaten Cianjur"
+    },
+    "district": {
+      "id": "32.03.15",
+      "name": "Campaka"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

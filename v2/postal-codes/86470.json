@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "53.16.07.2001",
+      "name": "Rendubutowe",
+      "postal_code": "86470",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.16",
+        "name": "Kabupaten Nagekeo"
+      },
+      "district": {
+        "id": "53.16.07",
+        "name": "Aesesa Selatan"
+      }
+    },
+    {
+      "id": "53.16.07.2002",
+      "name": "Tengatiba",
+      "postal_code": "86470",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.16",
+        "name": "Kabupaten Nagekeo"
+      },
+      "district": {
+        "id": "53.16.07",
+        "name": "Aesesa Selatan"
+      }
+    },
+    {
+      "id": "53.16.07.2003",
+      "name": "Langedhawe",
+      "postal_code": "86470",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.16",
+        "name": "Kabupaten Nagekeo"
+      },
+      "district": {
+        "id": "53.16.07",
+        "name": "Aesesa Selatan"
+      }
+    },
+    {
+      "id": "53.16.07.2004",
+      "name": "Renduteno",
+      "postal_code": "86470",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.16",
+        "name": "Kabupaten Nagekeo"
+      },
+      "district": {
+        "id": "53.16.07",
+        "name": "Aesesa Selatan"
+      }
+    },
+    {
+      "id": "53.16.07.2005",
+      "name": "Renduwawo",
+      "postal_code": "86470",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.16",
+        "name": "Kabupaten Nagekeo"
+      },
+      "district": {
+        "id": "53.16.07",
+        "name": "Aesesa Selatan"
+      }
+    },
+    {
+      "id": "53.16.07.2006",
+      "name": "Wajomara",
+      "postal_code": "86470",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.16",
+        "name": "Kabupaten Nagekeo"
+      },
+      "district": {
+        "id": "53.16.07",
+        "name": "Aesesa Selatan"
+      }
+    },
+    {
+      "id": "53.16.07.2007",
+      "name": "Rendut Tutubhada",
+      "postal_code": "86470",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.16",
+        "name": "Kabupaten Nagekeo"
+      },
+      "district": {
+        "id": "53.16.07",
+        "name": "Aesesa Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

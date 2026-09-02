@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.17.09.2008",
+    "name": "Janji Maria",
+    "postal_code": "22397",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.17",
+      "name": "Kabupaten Samosir"
+    },
+    "district": {
+      "id": "12.17.09",
+      "name": "Sitio-tio"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

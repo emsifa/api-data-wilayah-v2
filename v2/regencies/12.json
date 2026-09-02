@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "12",
+    "name": "Sumatera Utara",
+    "capital": "Medan",
+    "lat": 3.5806304901245087,
+    "lng": 98.67199998443536,
+    "elv": 32,
+    "tz": 7,
+    "population": 15640905,
+    "total_area": 72437.755,
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 2
+  }
+}

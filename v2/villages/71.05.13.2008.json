@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.05.13.2008",
+    "name": "Wuwuk",
+    "postal_code": "95953",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.05",
+      "name": "Kabupaten Minahasa Selatan"
+    },
+    "district": {
+      "id": "71.05.13",
+      "name": "Tareran"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

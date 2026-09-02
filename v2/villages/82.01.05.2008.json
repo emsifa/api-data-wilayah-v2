@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "82.01.05.2008",
+    "name": "Tuguraci",
+    "postal_code": "97751",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.01",
+      "name": "Kabupaten Halmahera Barat"
+    },
+    "district": {
+      "id": "82.01.05",
+      "name": "Jailolo Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

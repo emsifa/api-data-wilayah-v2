@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.06.03.2083",
+    "name": "Akris",
+    "postal_code": "99085",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.06",
+      "name": "Kabupaten Yalimo"
+    },
+    "district": {
+      "id": "95.06.03",
+      "name": "Abenaho"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

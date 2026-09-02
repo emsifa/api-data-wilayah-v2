@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.07.01.2006",
+    "name": "Tungu",
+    "postal_code": "97662",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.07",
+      "name": "Kabupaten Kepulauan Aru"
+    },
+    "district": {
+      "id": "81.07.01",
+      "name": "Pulau-Pulau Aru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

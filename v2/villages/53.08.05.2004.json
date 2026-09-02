@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "53.08.05.2004",
+    "name": "Wolotolo Timur",
+    "postal_code": "86360",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.08",
+      "name": "Kabupaten Ende"
+    },
+    "district": {
+      "id": "53.08.05",
+      "name": "Ndona"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

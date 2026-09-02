@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.02.16.2007",
+    "name": "Salino",
+    "postal_code": "72156",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.02",
+      "name": "Kabupaten Kotabaru"
+    },
+    "district": {
+      "id": "63.02.16",
+      "name": "Pulau Laut Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "96.02.11.2001",
+    "name": "Udagaga",
+    "postal_code": "98466",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.02",
+      "name": "Kabupaten Sorong Selatan"
+    },
+    "district": {
+      "id": "96.02.11",
+      "name": "Kokoda Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

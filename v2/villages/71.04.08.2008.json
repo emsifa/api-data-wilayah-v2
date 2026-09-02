@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "71.04.08.2008",
+    "name": "Taruan",
+    "postal_code": "95888",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.04",
+      "name": "Kabupaten Kepulauan Talaud"
+    },
+    "district": {
+      "id": "71.04.08",
+      "name": "Gemeh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

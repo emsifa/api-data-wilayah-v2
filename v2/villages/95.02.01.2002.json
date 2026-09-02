@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.02.01.2002",
+    "name": "Aldom",
+    "postal_code": "99573",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.02",
+      "name": "Kabupaten Pegunungan Bintang"
+    },
+    "district": {
+      "id": "95.02.01",
+      "name": "Oksibil"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

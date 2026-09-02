@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.05.19.2005",
+    "name": "Mabuga",
+    "postal_code": "98967",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.05",
+      "name": "Kabupaten Puncak"
+    },
+    "district": {
+      "id": "94.05.19",
+      "name": "Mabugi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

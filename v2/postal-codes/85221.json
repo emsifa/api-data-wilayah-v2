@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "53.71.06.1002",
+      "name": "Lai Lai Bisi Kopan",
+      "postal_code": "85221",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.71",
+        "name": "Kota Kupang"
+      },
+      "district": {
+        "id": "53.71.06",
+        "name": "Kota Lama"
+      }
+    },
+    {
+      "id": "53.71.06.1003",
+      "name": "Bonipoi",
+      "postal_code": "85221",
+      "province": {
+        "id": "53",
+        "name": "Nusa Tenggara Timur"
+      },
+      "regency": {
+        "id": "53.71",
+        "name": "Kota Kupang"
+      },
+      "district": {
+        "id": "53.71.06",
+        "name": "Kota Lama"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

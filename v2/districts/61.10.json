@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "61.10",
+    "name": "Kabupaten Melawi",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.10",
+      "name": "Kabupaten Melawi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:04Z",
+    "level": 3
+  }
+}

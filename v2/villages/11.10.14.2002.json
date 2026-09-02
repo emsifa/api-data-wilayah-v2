@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "11.10.14.2002",
+    "name": "Kuala Baru Sungai",
+    "postal_code": "24789",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.10",
+      "name": "Kabupaten Aceh Singkil"
+    },
+    "district": {
+      "id": "11.10.14",
+      "name": "Kuala Baru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

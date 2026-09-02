@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "72.11.04.2001",
+      "name": "Togong Sagu",
+      "postal_code": "94892",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.11",
+        "name": "Kabupaten Banggai Laut"
+      },
+      "district": {
+        "id": "72.11.04",
+        "name": "Bangkurung"
+      }
+    },
+    {
+      "id": "72.11.04.2002",
+      "name": "Taduno",
+      "postal_code": "94892",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.11",
+        "name": "Kabupaten Banggai Laut"
+      },
+      "district": {
+        "id": "72.11.04",
+        "name": "Bangkurung"
+      }
+    },
+    {
+      "id": "72.11.04.2003",
+      "name": "Kanari",
+      "postal_code": "94892",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.11",
+        "name": "Kabupaten Banggai Laut"
+      },
+      "district": {
+        "id": "72.11.04",
+        "name": "Bangkurung"
+      }
+    },
+    {
+      "id": "72.11.04.2004",
+      "name": "Lantibung",
+      "postal_code": "94892",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.11",
+        "name": "Kabupaten Banggai Laut"
+      },
+      "district": {
+        "id": "72.11.04",
+        "name": "Bangkurung"
+      }
+    },
+    {
+      "id": "72.11.04.2005",
+      "name": "Kalupapi",
+      "postal_code": "94892",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.11",
+        "name": "Kabupaten Banggai Laut"
+      },
+      "district": {
+        "id": "72.11.04",
+        "name": "Bangkurung"
+      }
+    },
+    {
+      "id": "72.11.04.2006",
+      "name": "Bone-Bone",
+      "postal_code": "94892",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.11",
+        "name": "Kabupaten Banggai Laut"
+      },
+      "district": {
+        "id": "72.11.04",
+        "name": "Bangkurung"
+      }
+    },
+    {
+      "id": "72.11.04.2007",
+      "name": "Mbeleang",
+      "postal_code": "94892",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.11",
+        "name": "Kabupaten Banggai Laut"
+      },
+      "district": {
+        "id": "72.11.04",
+        "name": "Bangkurung"
+      }
+    },
+    {
+      "id": "72.11.04.2008",
+      "name": "Tabulang",
+      "postal_code": "94892",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.11",
+        "name": "Kabupaten Banggai Laut"
+      },
+      "district": {
+        "id": "72.11.04",
+        "name": "Bangkurung"
+      }
+    },
+    {
+      "id": "72.11.04.2009",
+      "name": "Sasabobok",
+      "postal_code": "94892",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.11",
+        "name": "Kabupaten Banggai Laut"
+      },
+      "district": {
+        "id": "72.11.04",
+        "name": "Bangkurung"
+      }
+    },
+    {
+      "id": "72.11.04.2010",
+      "name": "Bungin Lawean",
+      "postal_code": "94892",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.11",
+        "name": "Kabupaten Banggai Laut"
+      },
+      "district": {
+        "id": "72.11.04",
+        "name": "Bangkurung"
+      }
+    },
+    {
+      "id": "72.11.04.2011",
+      "name": "Lalong",
+      "postal_code": "94892",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.11",
+        "name": "Kabupaten Banggai Laut"
+      },
+      "district": {
+        "id": "72.11.04",
+        "name": "Bangkurung"
+      }
+    },
+    {
+      "id": "72.11.04.2012",
+      "name": "Dungkean",
+      "postal_code": "94892",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.11",
+        "name": "Kabupaten Banggai Laut"
+      },
+      "district": {
+        "id": "72.11.04",
+        "name": "Bangkurung"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

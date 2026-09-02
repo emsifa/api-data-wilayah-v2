@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "94.01.07.2001",
+      "name": "Makimi",
+      "postal_code": "98863",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.01",
+        "name": "Kabupaten Nabire"
+      },
+      "district": {
+        "id": "94.01.07",
+        "name": "Makimi"
+      }
+    },
+    {
+      "id": "94.01.07.2002",
+      "name": "Nifasi",
+      "postal_code": "98863",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.01",
+        "name": "Kabupaten Nabire"
+      },
+      "district": {
+        "id": "94.01.07",
+        "name": "Makimi"
+      }
+    },
+    {
+      "id": "94.01.07.2003",
+      "name": "Biha",
+      "postal_code": "98863",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.01",
+        "name": "Kabupaten Nabire"
+      },
+      "district": {
+        "id": "94.01.07",
+        "name": "Makimi"
+      }
+    },
+    {
+      "id": "94.01.07.2004",
+      "name": "Lagari Jaya",
+      "postal_code": "98863",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.01",
+        "name": "Kabupaten Nabire"
+      },
+      "district": {
+        "id": "94.01.07",
+        "name": "Makimi"
+      }
+    },
+    {
+      "id": "94.01.07.2005",
+      "name": "Maidei",
+      "postal_code": "98863",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.01",
+        "name": "Kabupaten Nabire"
+      },
+      "district": {
+        "id": "94.01.07",
+        "name": "Makimi"
+      }
+    },
+    {
+      "id": "94.01.07.2006",
+      "name": "Manunggal Jaya",
+      "postal_code": "98863",
+      "province": {
+        "id": "94",
+        "name": "Papua Tengah"
+      },
+      "regency": {
+        "id": "94.01",
+        "name": "Kabupaten Nabire"
+      },
+      "district": {
+        "id": "94.01.07",
+        "name": "Makimi"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

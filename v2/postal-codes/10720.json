@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "31.71.02.1004",
+      "name": "Gunung Sahari Utara",
+      "postal_code": "10720",
+      "province": {
+        "id": "31",
+        "name": "Daerah Khusus Ibukota Jakarta"
+      },
+      "regency": {
+        "id": "31.71",
+        "name": "Kota Administrasi Jakarta Pusat"
+      },
+      "district": {
+        "id": "31.71.02",
+        "name": "Sawah Besar"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

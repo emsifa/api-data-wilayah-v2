@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "72.02.01.1007",
+      "name": "Gebangrejo",
+      "postal_code": "94619",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.02",
+        "name": "Kabupaten Poso"
+      },
+      "district": {
+        "id": "72.02.01",
+        "name": "Poso Kota"
+      }
+    },
+    {
+      "id": "72.02.01.1016",
+      "name": "Gebangrejo Timur",
+      "postal_code": "94619",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.02",
+        "name": "Kabupaten Poso"
+      },
+      "district": {
+        "id": "72.02.01",
+        "name": "Poso Kota"
+      }
+    },
+    {
+      "id": "72.02.01.1017",
+      "name": "Gebangrejo Barat",
+      "postal_code": "94619",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.02",
+        "name": "Kabupaten Poso"
+      },
+      "district": {
+        "id": "72.02.01",
+        "name": "Poso Kota"
+      }
+    },
+    {
+      "id": "72.02.21.1003",
+      "name": "Kawua",
+      "postal_code": "94619",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.02",
+        "name": "Kabupaten Poso"
+      },
+      "district": {
+        "id": "72.02.21",
+        "name": "Poso Kota Selatan"
+      }
+    },
+    {
+      "id": "72.02.21.1004",
+      "name": "Ronononcu",
+      "postal_code": "94619",
+      "province": {
+        "id": "72",
+        "name": "Sulawesi Tengah"
+      },
+      "regency": {
+        "id": "72.02",
+        "name": "Kabupaten Poso"
+      },
+      "district": {
+        "id": "72.02.21",
+        "name": "Poso Kota Selatan"
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T02:55:11Z",
+    "level": 4
+  }
+}

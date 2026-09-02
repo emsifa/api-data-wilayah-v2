@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.01.25.2005",
+    "name": "Leaway",
+    "postal_code": "97533",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.01",
+      "name": "Kabupaten Maluku Tengah"
+    },
+    "district": {
+      "id": "81.01.25",
+      "name": "Seram Utara Timur Kobi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

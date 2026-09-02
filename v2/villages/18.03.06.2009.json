@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "18.03.06.2009",
+    "name": "Bumi Nabung",
+    "postal_code": "34558",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.03",
+      "name": "Kabupaten Lampung Utara"
+    },
+    "district": {
+      "id": "18.03.06",
+      "name": "Abung Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

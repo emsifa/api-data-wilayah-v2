@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "33.03.02.2005",
+    "name": "Karangcengis",
+    "postal_code": "53382",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.03",
+      "name": "Kabupaten Purbalingga"
+    },
+    "district": {
+      "id": "33.03.02",
+      "name": "Bukateja"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

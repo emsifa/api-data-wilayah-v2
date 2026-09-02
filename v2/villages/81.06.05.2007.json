@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "81.06.05.2007",
+    "name": "Tala",
+    "postal_code": "97563",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.06",
+      "name": "Kabupaten Seram Bagian Barat"
+    },
+    "district": {
+      "id": "81.06.05",
+      "name": "Amalatu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

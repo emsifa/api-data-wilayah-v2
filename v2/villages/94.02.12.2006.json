@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "94.02.12.2006",
+    "name": "Karubate",
+    "postal_code": "98914",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.02",
+      "name": "Kabupaten Puncak Jaya"
+    },
+    "district": {
+      "id": "94.02.12",
+      "name": "Muara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:09Z",
+    "level": 4
+  }
+}

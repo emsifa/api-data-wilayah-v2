@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "95.03.46.2009",
+    "name": "Karelma",
+    "postal_code": "99737",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.03",
+      "name": "Kabupaten Yahukimo"
+    },
+    "district": {
+      "id": "95.03.46",
+      "name": "Kwikma"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:10Z",
+    "level": 4
+  }
+}

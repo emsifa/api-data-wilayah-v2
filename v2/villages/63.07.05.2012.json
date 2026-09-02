@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "63.07.05.2012",
+    "name": "Banua Supanggal",
+    "postal_code": "71352",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.07",
+      "name": "Kabupaten Hulu Sungai Tengah"
+    },
+    "district": {
+      "id": "63.07.05",
+      "name": "Pandawan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:08Z",
+    "level": 4
+  }
+}

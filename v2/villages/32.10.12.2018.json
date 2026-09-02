@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "32.10.12.2018",
+    "name": "Pasirmalati",
+    "postal_code": "45453",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.10",
+      "name": "Kabupaten Majalengka"
+    },
+    "district": {
+      "id": "32.10.12",
+      "name": "Dawuan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

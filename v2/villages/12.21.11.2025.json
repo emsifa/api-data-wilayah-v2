@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "12.21.11.2025",
+    "name": "Sayur Mahincat",
+    "postal_code": "22755",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.21",
+      "name": "Kabupaten Padang Lawas"
+    },
+    "district": {
+      "id": "12.21.11",
+      "name": "Aek Nabara Barumun"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}

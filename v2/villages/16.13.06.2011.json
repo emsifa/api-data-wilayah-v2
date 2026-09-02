@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.13.06.2011",
+    "name": "Embacang Baru",
+    "postal_code": "31654",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.13",
+      "name": "Kabupaten Musi Rawas Utara"
+    },
+    "district": {
+      "id": "16.13.06",
+      "name": "Karang Jaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:06Z",
+    "level": 4
+  }
+}

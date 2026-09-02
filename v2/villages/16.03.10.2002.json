@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": "16.03.10.2002",
+    "name": "Cahaya Alam",
+    "postal_code": "31355",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.03",
+      "name": "Kabupaten Muara Enim"
+    },
+    "district": {
+      "id": "16.03.10",
+      "name": "Semende Darat Ulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T02:55:05Z",
+    "level": 4
+  }
+}
