@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.22.05",
-    "name": "Silangkitang",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.22",
-      "name": "Kabupaten Labuhanbatu Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.22.05","lat":1.8756650587472958,"lng":99.934192897578,"name":"Silangkitang","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.22","name":"Kabupaten Labuhanbatu Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

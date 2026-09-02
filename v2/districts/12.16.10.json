@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.16.10",
-    "name": "Tarabintang",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.16",
-      "name": "Kabupaten Humbang Hasundutan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.16.10","lat":2.2557327355119536,"lng":98.3765349074265,"name":"Tarabintang","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.16","name":"Kabupaten Humbang Hasundutan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

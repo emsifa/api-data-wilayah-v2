@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.06.12",
-    "name": "Batang Lupar",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.06",
-      "name": "Kabupaten Kapuas Hulu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.06.12","lat":1.0450634589692778,"lng":112.26679200601716,"name":"Batang Lupar","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.06","name":"Kabupaten Kapuas Hulu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

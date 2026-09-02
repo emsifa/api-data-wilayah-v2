@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.26.08",
-    "name": "Kajen",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.26",
-      "name": "Kabupaten Pekalongan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.26.08","lat":-7.059008702857477,"lng":109.5759300333375,"name":"Kajen","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.26","name":"Kabupaten Pekalongan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

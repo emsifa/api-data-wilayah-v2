@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.04.03",
-    "name": "Mandiraja",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.04",
-      "name": "Kabupaten Banjarnegara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.04.03","lat":-7.480977214014198,"lng":109.49819788862555,"name":"Mandiraja","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.04","name":"Kabupaten Banjarnegara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

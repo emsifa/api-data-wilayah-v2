@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.15.06",
-    "name": "Duampanua",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.15",
-      "name": "Kabupaten Pinrang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.15.06","lat":-3.6456939274556586,"lng":119.5540235546169,"name":"Duampanua","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.15","name":"Kabupaten Pinrang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

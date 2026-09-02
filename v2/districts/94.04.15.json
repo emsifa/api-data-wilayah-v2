@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "94.04.15",
-    "name": "Iwaka",
-    "province": {
-      "id": "94",
-      "name": "Papua Tengah"
-    },
-    "regency": {
-      "id": "94.04",
-      "name": "Kabupaten Mimika"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"94.04.15","lat":-4.530875558130193,"lng":136.68214033058175,"name":"Iwaka","province":{"id":"94","name":"Papua Tengah"},"regency":{"id":"94.04","name":"Kabupaten Mimika"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

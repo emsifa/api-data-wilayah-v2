@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.71.01",
-    "name": "Mojoroto",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.71",
-      "name": "Kota Kediri"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.71.01","lat":-7.809250515244213,"lng":111.98746564610353,"name":"Mojoroto","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.71","name":"Kota Kediri"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

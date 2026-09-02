@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "52.08.03",
-    "name": "Kayangan",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
-    },
-    "regency": {
-      "id": "52.08",
-      "name": "Kabupaten Lombok Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"52.08.03","lat":-8.316919888366014,"lng":116.319082805044,"name":"Kayangan","province":{"id":"52","name":"Nusa Tenggara Barat"},"regency":{"id":"52.08","name":"Kabupaten Lombok Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

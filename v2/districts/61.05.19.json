@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.05.19",
-    "name": "Kelam Permai",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.05",
-      "name": "Kabupaten Sintang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.05.19","lat":0.16578817421029524,"lng":111.72934307353128,"name":"Kelam Permai","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.05","name":"Kabupaten Sintang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

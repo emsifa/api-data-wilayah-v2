@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.21.03",
-    "name": "Wewiku",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.21",
-      "name": "Kabupaten Malaka"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.21.03","lat":-9.714463143656577,"lng":124.83662425078342,"name":"Wewiku","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.21","name":"Kabupaten Malaka"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

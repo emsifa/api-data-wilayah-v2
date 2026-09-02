@@ -1,17 +1,1 @@
-{
-  "data": {
-    "id": "14",
-    "name": "Riau",
-    "capital": "Pekanbaru",
-    "lat": 0.5177095634585358,
-    "lng": 101.44583958102103,
-    "elv": 20,
-    "tz": 7,
-    "population": 7099297,
-    "total_area": 89900.78
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:57Z",
-    "level": 1
-  }
-}
+{"data":{"id":"14","name":"Riau","capital":"Pekanbaru","lat":0.5177095634585358,"lng":101.44583958102103,"elv":20,"tz":7,"population":7099297,"total_area":89900.78},"meta":{"updated_at":"2026-09-02","level":1}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.03.20",
-    "name": "Cubinong",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.03",
-      "name": "Kabupaten Cianjur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.03.20","lat":-7.325566678046231,"lng":107.15041660906779,"name":"Cubinong","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.03","name":"Kabupaten Cianjur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

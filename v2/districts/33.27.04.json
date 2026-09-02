@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.27.04",
-    "name": "Watukumpul",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.27",
-      "name": "Kabupaten Pemalang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.27.04","lat":-7.160235291727113,"lng":109.45650019563539,"name":"Watukumpul","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.27","name":"Kabupaten Pemalang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

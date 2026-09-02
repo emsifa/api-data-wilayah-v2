@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.04.12",
-    "name": "Kayoa Selatan",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.04",
-      "name": "Kabupaten Halmahera Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.04.12","lat":-0.05131517163467171,"lng":127.42886773077888,"name":"Kayoa Selatan","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.04","name":"Kabupaten Halmahera Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

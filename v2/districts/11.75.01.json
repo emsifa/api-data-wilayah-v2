@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.75.01",
-    "name": "Simpang Kiri",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.75",
-      "name": "Kota Subulussalam"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.75.01","lat":2.70945080140286,"lng":98.0109919316745,"name":"Simpang Kiri","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.75","name":"Kota Subulussalam"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.07.34",
-    "name": "Guna",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.07",
-      "name": "Kabupaten Lanny Jaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.07.34","lat":-3.9198089814017947,"lng":138.64808432163292,"name":"Guna","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.07","name":"Kabupaten Lanny Jaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

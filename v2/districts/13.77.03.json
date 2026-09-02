@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "13.77.03",
-    "name": "Pariaman Selatan",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
-    },
-    "regency": {
-      "id": "13.77",
-      "name": "Kota Pariaman"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"13.77.03","lat":-0.6388543561415895,"lng":100.15849062389513,"name":"Pariaman Selatan","province":{"id":"13","name":"Sumatera Barat"},"regency":{"id":"13.77","name":"Kota Pariaman"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

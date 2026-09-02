@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.72.05",
-    "name": "Metro Selatan",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.72",
-      "name": "Kota Metro"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.72.05","lat":-5.157808533305344,"lng":105.30234922689957,"name":"Metro Selatan","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.72","name":"Kota Metro"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

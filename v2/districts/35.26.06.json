@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.26.06",
-    "name": "Geger",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.26",
-      "name": "Kabupaten Bangkalan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.26.06","lat":-7.0018611080847855,"lng":112.9327198043733,"name":"Geger","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.26","name":"Kabupaten Bangkalan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

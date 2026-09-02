@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.08.10",
-    "name": "Ciawigebang",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.08",
-      "name": "Kabupaten Kuningan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.08.10","lat":-6.946966075937254,"lng":108.59910826182825,"name":"Ciawigebang","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.08","name":"Kabupaten Kuningan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

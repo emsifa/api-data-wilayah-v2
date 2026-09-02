@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.01.06",
-    "name": "Sejangkung",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.01",
-      "name": "Kabupaten Sambas"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.01.06","lat":1.4140579903251662,"lng":109.49162662666699,"name":"Sejangkung","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.01","name":"Kabupaten Sambas"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

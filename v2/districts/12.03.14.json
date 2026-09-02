@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.03.14",
-    "name": "Arse",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.03",
-      "name": "Kabupaten Tapanuli Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.03.14","lat":1.7024493307512738,"lng":99.35373384688118,"name":"Arse","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.03","name":"Kabupaten Tapanuli Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

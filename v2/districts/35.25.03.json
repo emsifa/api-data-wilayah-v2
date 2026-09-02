@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.25.03",
-    "name": "Panceng",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.25",
-      "name": "Kabupaten Gresik"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.25.03","lat":-6.932661517217781,"lng":112.46162502671484,"name":"Panceng","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.25","name":"Kabupaten Gresik"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

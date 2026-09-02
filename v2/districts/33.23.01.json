@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.23.01",
-    "name": "Bulu",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.23",
-      "name": "Kabupaten Temanggung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.23.01","lat":-7.318601806209739,"lng":110.10900069882925,"name":"Bulu","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.23","name":"Kabupaten Temanggung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

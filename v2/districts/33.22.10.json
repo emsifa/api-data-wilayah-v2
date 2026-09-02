@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.22.10",
-    "name": "Ambarawa",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.22",
-      "name": "Kabupaten Semarang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.22.10","lat":-7.260738800995868,"lng":110.3996629773255,"name":"Ambarawa","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.22","name":"Kabupaten Semarang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

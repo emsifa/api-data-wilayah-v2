@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "91.71.04",
-    "name": "Muara Tami",
-    "province": {
-      "id": "91",
-      "name": "Papua"
-    },
-    "regency": {
-      "id": "91.71",
-      "name": "Kota Jayapura"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"91.71.04","lat":-2.692852197953894,"lng":140.90336858338875,"name":"Muara Tami","province":{"id":"91","name":"Papua"},"regency":{"id":"91.71","name":"Kota Jayapura"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

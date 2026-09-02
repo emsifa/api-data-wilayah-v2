@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "13.02.12",
-    "name": "X Koto Diatas",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
-    },
-    "regency": {
-      "id": "13.02",
-      "name": "Kabupaten Solok"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"13.02.12","lat":-0.6307048999834425,"lng":100.65619725857574,"name":"X Koto Diatas","province":{"id":"13","name":"Sumatera Barat"},"regency":{"id":"13.02","name":"Kabupaten Solok"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

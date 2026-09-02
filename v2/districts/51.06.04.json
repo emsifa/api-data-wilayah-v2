@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "51.06.04",
-    "name": "Kintamani",
-    "province": {
-      "id": "51",
-      "name": "Bali"
-    },
-    "regency": {
-      "id": "51.06",
-      "name": "Kabupaten Bangli"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"51.06.04","lat":-8.243616211214846,"lng":115.34039418183221,"name":"Kintamani","province":{"id":"51","name":"Bali"},"regency":{"id":"51.06","name":"Kabupaten Bangli"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "34.02.17",
-    "name": "Sedayu",
-    "province": {
-      "id": "34",
-      "name": "Daerah Istimewa Yogyakarta"
-    },
-    "regency": {
-      "id": "34.02",
-      "name": "Kabupaten Bantul"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"34.02.17","lat":-7.824289509386203,"lng":110.25833482288596,"name":"Sedayu","province":{"id":"34","name":"Daerah Istimewa Yogyakarta"},"regency":{"id":"34.02","name":"Kabupaten Bantul"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

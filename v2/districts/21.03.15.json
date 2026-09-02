@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "21.03.15",
-    "name": "Bunguran Timur Laut",
-    "province": {
-      "id": "21",
-      "name": "Kepulauan Riau"
-    },
-    "regency": {
-      "id": "21.03",
-      "name": "Kabupaten Natuna"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"21.03.15","lat":4.027621493888916,"lng":108.2462957971466,"name":"Bunguran Timur Laut","province":{"id":"21","name":"Kepulauan Riau"},"regency":{"id":"21.03","name":"Kabupaten Natuna"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

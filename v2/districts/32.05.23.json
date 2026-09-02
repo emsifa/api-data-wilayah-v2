@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.05.23",
-    "name": "Banjarwangi",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.05",
-      "name": "Kabupaten Garut"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.05.23","lat":-7.404828657206032,"lng":107.8830052910101,"name":"Banjarwangi","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.05","name":"Kabupaten Garut"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

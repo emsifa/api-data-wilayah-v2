@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.11.09",
-    "name": "Juli",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.11",
-      "name": "Kabupaten Bireuen"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.11.09","lat":5.052140981686641,"lng":96.67895854953792,"name":"Juli","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.11","name":"Kabupaten Bireuen"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

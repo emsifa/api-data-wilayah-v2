@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.09.15",
-    "name": "Bajawa Utara",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.09",
-      "name": "Kabupaten Ngada"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.09.15","lat":-8.70366105051839,"lng":120.94779611344508,"name":"Bajawa Utara","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.09","name":"Kabupaten Ngada"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

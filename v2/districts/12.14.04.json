@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.14.04",
-    "name": "Hibala",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.14",
-      "name": "Kabupaten Nias Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.14.04","lat":-0.45102810730839754,"lng":98.45473205791716,"name":"Hibala","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.14","name":"Kabupaten Nias Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

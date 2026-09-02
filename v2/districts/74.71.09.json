@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.71.09",
-    "name": "Puuwatu",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.71",
-      "name": "Kota Kendari"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.71.09","lat":-3.9700692399579762,"lng":122.47253433653809,"name":"Puuwatu","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.71","name":"Kota Kendari"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

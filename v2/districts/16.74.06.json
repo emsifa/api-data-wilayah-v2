@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.74.06",
-    "name": "Prabumulih Selatan",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.74",
-      "name": "Kota Prabumulih"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.74.06","lat":-3.487139547015923,"lng":104.2433655138567,"name":"Prabumulih Selatan","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.74","name":"Kota Prabumulih"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

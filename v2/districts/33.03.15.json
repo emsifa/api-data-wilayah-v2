@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.03.15",
-    "name": "Padamara",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.03",
-      "name": "Kabupaten Purbalingga"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.03.15","lat":-7.379938494209787,"lng":109.32123668582148,"name":"Padamara","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.03","name":"Kabupaten Purbalingga"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

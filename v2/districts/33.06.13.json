@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.06.13",
-    "name": "Bruno",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.06",
-      "name": "Kabupaten Purworejo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.06.13","lat":-7.568536021767604,"lng":109.92154794342181,"name":"Bruno","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.06","name":"Kabupaten Purworejo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

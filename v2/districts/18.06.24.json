@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.06.24",
-    "name": "Limau",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.06",
-      "name": "Kabupaten Tanggamus"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.06.24","lat":-5.563761743254224,"lng":104.80227360617519,"name":"Limau","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.06","name":"Kabupaten Tanggamus"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

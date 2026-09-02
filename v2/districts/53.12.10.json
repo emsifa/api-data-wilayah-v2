@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.12.10",
-    "name": "Loli",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.12",
-      "name": "Kabupaten Sumba Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.12.10","lat":-9.61861396886119,"lng":119.44210238954408,"name":"Loli","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.12","name":"Kabupaten Sumba Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

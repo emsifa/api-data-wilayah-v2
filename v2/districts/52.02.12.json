@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "52.02.12",
-    "name": "Batukliang Utara",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
-    },
-    "regency": {
-      "id": "52.02",
-      "name": "Kabupaten Lombok Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"52.02.12","lat":-8.503647528393493,"lng":116.34280163067764,"name":"Batukliang Utara","province":{"id":"52","name":"Nusa Tenggara Barat"},"regency":{"id":"52.02","name":"Kabupaten Lombok Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

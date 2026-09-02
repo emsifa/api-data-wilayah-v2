@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "36.04.06",
-    "name": "Waringinkurung",
-    "province": {
-      "id": "36",
-      "name": "Banten"
-    },
-    "regency": {
-      "id": "36.04",
-      "name": "Kabupaten Serang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"36.04.06","lat":-6.090136209710516,"lng":106.06954601424968,"name":"Waringinkurung","province":{"id":"36","name":"Banten"},"regency":{"id":"36.04","name":"Kabupaten Serang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.21.02",
-    "name": "Ngrambe",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.21",
-      "name": "Kabupaten Ngawi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.21.02","lat":-7.504344590120286,"lng":111.21732057346618,"name":"Ngrambe","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.21","name":"Kabupaten Ngawi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

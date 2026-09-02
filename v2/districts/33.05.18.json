@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.05.18",
-    "name": "Sempor",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.05",
-      "name": "Kabupaten Kebumen"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.05.18","lat":-7.5495188133781985,"lng":109.51101643969271,"name":"Sempor","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.05","name":"Kabupaten Kebumen"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

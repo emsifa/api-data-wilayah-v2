@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.27.13",
-    "name": "Ulujami",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.27",
-      "name": "Kabupaten Pemalang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.27.13","lat":-6.840913766103984,"lng":109.54105409722264,"name":"Ulujami","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.27","name":"Kabupaten Pemalang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

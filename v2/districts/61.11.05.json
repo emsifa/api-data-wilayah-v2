@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.11.05",
-    "name": "Seponti",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.11",
-      "name": "Kabupaten Kayong Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.11.05","lat":-0.8353142005600107,"lng":109.93235915545503,"name":"Seponti","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.11","name":"Kabupaten Kayong Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.13.06",
-    "name": "Omesuri",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.13",
-      "name": "Kabupaten Lembata"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.13.06","lat":-8.263224064111029,"lng":123.71021970530438,"name":"Omesuri","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.13","name":"Kabupaten Lembata"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "92.06.23",
-    "name": "Meyado",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
-    },
-    "regency": {
-      "id": "92.06",
-      "name": "Kabupaten Teluk Bintuni"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"92.06.23","lat":-1.9338273889856736,"lng":133.08596246856945,"name":"Meyado","province":{"id":"92","name":"Papua Barat"},"regency":{"id":"92.06","name":"Kabupaten Teluk Bintuni"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

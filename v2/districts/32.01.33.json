@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.01.33",
-    "name": "Ciseeng",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.01",
-      "name": "Kabupaten Bogor"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.01.33","lat":-6.455595702809638,"lng":106.67850398535693,"name":"Ciseeng","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.01","name":"Kabupaten Bogor"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

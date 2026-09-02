@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "93.01.07",
-    "name": "Jagebob",
-    "province": {
-      "id": "93",
-      "name": "Papua Selatan"
-    },
-    "regency": {
-      "id": "93.01",
-      "name": "Kabupaten Merauke"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"93.01.07","lat":-7.970419313596611,"lng":140.73523709053362,"name":"Jagebob","province":{"id":"93","name":"Papua Selatan"},"regency":{"id":"93.01","name":"Kabupaten Merauke"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

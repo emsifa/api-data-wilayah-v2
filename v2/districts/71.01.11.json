@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.01.11",
-    "name": "Dumoga Utara",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.01",
-      "name": "Kabupaten Bolaang Mongondow"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.01.11","lat":0.6166381228201262,"lng":123.86175474710596,"name":"Dumoga Utara","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.01","name":"Kabupaten Bolaang Mongondow"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

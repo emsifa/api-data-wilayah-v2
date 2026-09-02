@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "64.07.11",
-    "name": "Jempang",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
-    },
-    "regency": {
-      "id": "64.07",
-      "name": "Kabupaten Kutai Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"64.07.11","lat":-0.555654170933952,"lng":116.11444098200334,"name":"Jempang","province":{"id":"64","name":"Kalimantan Timur"},"regency":{"id":"64.07","name":"Kabupaten Kutai Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

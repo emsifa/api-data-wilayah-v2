@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.25.03",
-    "name": "Mandrehe Barat",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.25",
-      "name": "Kabupaten Nias Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.25.03","lat":1.0141051248239814,"lng":97.4282135264283,"name":"Mandrehe Barat","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.25","name":"Kabupaten Nias Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

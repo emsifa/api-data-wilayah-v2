@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.74.02",
-    "name": "Langsa Barat",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.74",
-      "name": "Kota Langsa"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.74.02","lat":4.509613227203461,"lng":97.99594518958361,"name":"Langsa Barat","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.74","name":"Kota Langsa"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

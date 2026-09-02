@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.73.23",
-    "name": "Rancasari",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.73",
-      "name": "Kota Bandung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.73.23","lat":-6.954398814368688,"lng":107.67387355537345,"name":"Rancasari","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.73","name":"Kota Bandung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

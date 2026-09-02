@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.71.03",
-    "name": "Seberang Ulu Dua",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.71",
-      "name": "Kota Palembang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.71.03","lat":-2.99473305998999,"lng":104.78852566116257,"name":"Seberang Ulu Dua","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.71","name":"Kota Palembang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

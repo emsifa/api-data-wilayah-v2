@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.27.07",
-    "name": "Jrengik",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.27",
-      "name": "Kabupaten Sampang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.27.07","lat":-7.127789156923951,"lng":113.14414247171788,"name":"Jrengik","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.27","name":"Kabupaten Sampang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

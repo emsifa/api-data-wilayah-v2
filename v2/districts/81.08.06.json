@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.08.06",
-    "name": "Wetar Selatan",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.08",
-      "name": "Kabupaten Maluku Barat Daya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.08.06","lat":-7.826746108629868,"lng":126.30864464613475,"name":"Wetar Selatan","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.08","name":"Kabupaten Maluku Barat Daya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

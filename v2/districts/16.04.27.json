@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.04.27",
-    "name": "Tanjungtebat",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.04",
-      "name": "Kabupaten Lahat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.04.27","lat":-3.986492129120823,"lng":103.45995813463647,"name":"Tanjungtebat","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.04","name":"Kabupaten Lahat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.01.18",
-    "name": "Amarasi Selatan",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.01",
-      "name": "Kabupaten Kupang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.01.18","lat":-10.288719261685852,"lng":123.86717333333429,"name":"Amarasi Selatan","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.01","name":"Kabupaten Kupang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

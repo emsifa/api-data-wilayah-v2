@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.10.24",
-    "name": "Klaten Utara",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.10",
-      "name": "Kabupaten Klaten"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.10.24","lat":-7.69011268177506,"lng":110.61605561755333,"name":"Klaten Utara","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.10","name":"Kabupaten Klaten"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

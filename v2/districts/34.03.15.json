@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "34.03.15",
-    "name": "Saptosari",
-    "province": {
-      "id": "34",
-      "name": "Daerah Istimewa Yogyakarta"
-    },
-    "regency": {
-      "id": "34.03",
-      "name": "Kabupaten Gunungkidul"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"34.03.15","lat":-8.078832908751945,"lng":110.51145078735232,"name":"Saptosari","province":{"id":"34","name":"Daerah Istimewa Yogyakarta"},"regency":{"id":"34.03","name":"Kabupaten Gunungkidul"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

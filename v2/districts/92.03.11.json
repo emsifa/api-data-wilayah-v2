@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "92.03.11",
-    "name": "Wartutin",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
-    },
-    "regency": {
-      "id": "92.03",
-      "name": "Kabupaten Fak Fak"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"92.03.11","lat":-2.8876779399130674,"lng":132.0947432492379,"name":"Wartutin","province":{"id":"92","name":"Papua Barat"},"regency":{"id":"92.03","name":"Kabupaten Fak Fak"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

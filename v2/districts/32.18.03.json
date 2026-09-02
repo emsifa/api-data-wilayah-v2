@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.18.03",
-    "name": "Cimerak",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.18",
-      "name": "Kabupaten Pangandaran"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.18.03","lat":-7.7625647288093615,"lng":108.39157925027216,"name":"Cimerak","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.18","name":"Kabupaten Pangandaran"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

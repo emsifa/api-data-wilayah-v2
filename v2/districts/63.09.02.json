@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.09.02",
-    "name": "Kelua",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.09",
-      "name": "Kabupaten Tabalong"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.09.02","lat":-2.254347656528421,"lng":115.2869436021562,"name":"Kelua","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.09","name":"Kabupaten Tabalong"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

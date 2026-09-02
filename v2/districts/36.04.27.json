@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "36.04.27",
-    "name": "Ciomas",
-    "province": {
-      "id": "36",
-      "name": "Banten"
-    },
-    "regency": {
-      "id": "36.04",
-      "name": "Kabupaten Serang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"36.04.27","lat":-6.244473548376907,"lng":106.02924930954164,"name":"Ciomas","province":{"id":"36","name":"Banten"},"regency":{"id":"36.04","name":"Kabupaten Serang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

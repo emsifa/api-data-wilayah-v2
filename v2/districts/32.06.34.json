@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.06.34",
-    "name": "Rajapolah",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.06",
-      "name": "Kabupaten Tasikmalaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.06.34","lat":-7.216349081822572,"lng":108.18322726871936,"name":"Rajapolah","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.06","name":"Kabupaten Tasikmalaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

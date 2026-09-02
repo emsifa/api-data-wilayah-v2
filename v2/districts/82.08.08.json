@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.08.08",
-    "name": "Tabona",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.08",
-      "name": "Kabupaten Pulau Taliabu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.08.08","lat":-1.8526326790157985,"lng":124.88450026637508,"name":"Tabona","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.08","name":"Kabupaten Pulau Taliabu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

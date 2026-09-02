@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.09.16",
-    "name": "Buntu Pane",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.09",
-      "name": "Kabupaten Asahan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.09.16","lat":2.8614757770285837,"lng":99.48598220486124,"name":"Buntu Pane","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.09","name":"Kabupaten Asahan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

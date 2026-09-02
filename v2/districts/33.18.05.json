@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.18.05",
-    "name": "Pucakwangi",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.18",
-      "name": "Kabupaten Pati"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.18.05","lat":-6.850945532551363,"lng":111.16870232936853,"name":"Pucakwangi","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.18","name":"Kabupaten Pati"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

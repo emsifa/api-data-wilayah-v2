@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "52.03.10",
-    "name": "Sambelia",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
-    },
-    "regency": {
-      "id": "52.03",
-      "name": "Kabupaten Lombok Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"52.03.10","lat":-8.347155099649685,"lng":116.62267343426434,"name":"Sambelia","province":{"id":"52","name":"Nusa Tenggara Barat"},"regency":{"id":"52.03","name":"Kabupaten Lombok Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

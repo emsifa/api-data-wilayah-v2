@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "72.10.10",
-    "name": "Tanambulava",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
-    },
-    "regency": {
-      "id": "72.10",
-      "name": "Kabupaten Sigi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"72.10.10","lat":-1.1378485380594536,"lng":119.94282006665334,"name":"Tanambulava","province":{"id":"72","name":"Sulawesi Tengah"},"regency":{"id":"72.10","name":"Kabupaten Sigi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "34.01.05",
-    "name": "Lendah",
-    "province": {
-      "id": "34",
-      "name": "Daerah Istimewa Yogyakarta"
-    },
-    "regency": {
-      "id": "34.01",
-      "name": "Kabupaten Kulon Progo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"34.01.05","lat":-7.913718315041878,"lng":110.23099067380456,"name":"Lendah","province":{"id":"34","name":"Daerah Istimewa Yogyakarta"},"regency":{"id":"34.01","name":"Kabupaten Kulon Progo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

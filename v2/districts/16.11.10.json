@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.11.10",
-    "name": "Pendopo Barat",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.11",
-      "name": "Kabupaten Empat Lawang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.11.10","lat":-3.7538300586049,"lng":102.92492484876283,"name":"Pendopo Barat","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.11","name":"Kabupaten Empat Lawang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

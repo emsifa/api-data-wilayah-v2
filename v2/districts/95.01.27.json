@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.01.27",
-    "name": "Tagime",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.01",
-      "name": "Kabupaten Jayawijaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.01.27","lat":-3.8023873068528173,"lng":138.7263063309315,"name":"Tagime","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.01","name":"Kabupaten Jayawijaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

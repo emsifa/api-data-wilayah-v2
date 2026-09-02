@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.01.10",
-    "name": "Tulakan",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.01",
-      "name": "Kabupaten Pacitan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.01.10","lat":-8.163685615880572,"lng":111.26907386732373,"name":"Tulakan","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.01","name":"Kabupaten Pacitan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

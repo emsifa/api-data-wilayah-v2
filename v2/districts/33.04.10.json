@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.04.10",
-    "name": "Wanadadi",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.04",
-      "name": "Kabupaten Banjarnegara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.04.10","lat":-7.369185453180831,"lng":109.6376234880422,"name":"Wanadadi","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.04","name":"Kabupaten Banjarnegara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

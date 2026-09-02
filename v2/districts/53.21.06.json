@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.21.06",
-    "name": "Io Kufeu",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.21",
-      "name": "Kabupaten Malaka"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.21.06","lat":-9.508715239184276,"lng":124.77247976900173,"name":"Io Kufeu","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.21","name":"Kabupaten Malaka"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

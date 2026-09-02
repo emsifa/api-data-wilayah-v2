@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.12.01",
-    "name": "Sungai Raya",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.12",
-      "name": "Kabupaten Kubu Raya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.12.01","lat":-0.22901338610457725,"lng":109.63505915984592,"name":"Sungai Raya","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.12","name":"Kabupaten Kubu Raya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

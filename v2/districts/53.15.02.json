@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.15.02",
-    "name": "Kuwus",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.15",
-      "name": "Kabupaten Manggarai Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.15.02","lat":-8.559968541239535,"lng":120.3048641673735,"name":"Kuwus","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.15","name":"Kabupaten Manggarai Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.11.12",
-    "name": "Gunung Sitember",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.11",
-      "name": "Kabupaten Dairi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.11.12","lat":2.950769705958879,"lng":98.14162409825315,"name":"Gunung Sitember","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.11","name":"Kabupaten Dairi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "34.03.05",
-    "name": "Paliyan",
-    "province": {
-      "id": "34",
-      "name": "Daerah Istimewa Yogyakarta"
-    },
-    "regency": {
-      "id": "34.03",
-      "name": "Kabupaten Gunungkidul"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"34.03.05","lat":-8.014589529446754,"lng":110.52948735271866,"name":"Paliyan","province":{"id":"34","name":"Daerah Istimewa Yogyakarta"},"regency":{"id":"34.03","name":"Kabupaten Gunungkidul"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

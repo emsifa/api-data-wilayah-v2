@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.08.02",
-    "name": "Rantau Pandan",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.08",
-      "name": "Kabupaten Bungo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.08.02","lat":-1.646932065001181,"lng":101.93758244526856,"name":"Rantau Pandan","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.08","name":"Kabupaten Bungo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

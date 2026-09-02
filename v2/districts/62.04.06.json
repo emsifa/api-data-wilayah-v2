@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "62.04.06",
-    "name": "Dusun Selatan",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
-    },
-    "regency": {
-      "id": "62.04",
-      "name": "Kabupaten Barito Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"62.04.06","lat":-1.6767133505421754,"lng":114.8092930717374,"name":"Dusun Selatan","province":{"id":"62","name":"Kalimantan Tengah"},"regency":{"id":"62.04","name":"Kabupaten Barito Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.73.09",
-    "name": "Bara",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.73",
-      "name": "Kota Palopo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.73.09","lat":-2.9519188430735706,"lng":120.17786892221282,"name":"Bara","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.73","name":"Kota Palopo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

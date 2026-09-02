@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.04.01",
-    "name": "Bangkala",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.04",
-      "name": "Kabupaten Jeneponto"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.04.01","lat":-5.562333385075034,"lng":119.60164647032778,"name":"Bangkala","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.04","name":"Kabupaten Jeneponto"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

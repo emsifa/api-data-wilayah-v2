@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.04.04",
-    "name": "Batang",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.04",
-      "name": "Kabupaten Jeneponto"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.04.04","lat":-5.6277839010433715,"lng":119.81107585648175,"name":"Batang","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.04","name":"Kabupaten Jeneponto"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

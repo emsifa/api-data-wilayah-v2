@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.07.06",
-    "name": "Kaledupa Selatan",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.07",
-      "name": "Kabupaten Wakatobi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.07.06","lat":-5.565819341706926,"lng":123.81504547742716,"name":"Kaledupa Selatan","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.07","name":"Kabupaten Wakatobi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

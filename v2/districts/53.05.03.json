@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.05.03",
-    "name": "Alor Barat Daya",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.05",
-      "name": "Kabupaten Alor"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.05.03","lat":-8.338896013588233,"lng":124.47091602174851,"name":"Alor Barat Daya","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.05","name":"Kabupaten Alor"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

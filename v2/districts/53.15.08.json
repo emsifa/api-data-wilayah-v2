@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.15.08",
-    "name": "Ndoso",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.15",
-      "name": "Kabupaten Manggarai Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.15.08","lat":-8.4831715869954,"lng":120.33267030340578,"name":"Ndoso","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.15","name":"Kabupaten Manggarai Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

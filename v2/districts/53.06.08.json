@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.06.08",
-    "name": "Adonara Barat",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.06",
-      "name": "Kabupaten Flores Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.06.08","lat":-8.306785848345644,"lng":123.09441005226255,"name":"Adonara Barat","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.06","name":"Kabupaten Flores Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

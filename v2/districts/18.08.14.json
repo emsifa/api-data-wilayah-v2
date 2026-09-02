@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.08.14",
-    "name": "Bumi Agung",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.08",
-      "name": "Kabupaten Way Kanan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.08.14","lat":-4.345057283711033,"lng":104.5365406947113,"name":"Bumi Agung","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.08","name":"Kabupaten Way Kanan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

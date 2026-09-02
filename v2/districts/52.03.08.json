@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "52.03.08",
-    "name": "Pringgabaya",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
-    },
-    "regency": {
-      "id": "52.03",
-      "name": "Kabupaten Lombok Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"52.03.08","lat":-8.508745175965698,"lng":116.6375117990848,"name":"Pringgabaya","province":{"id":"52","name":"Nusa Tenggara Barat"},"regency":{"id":"52.03","name":"Kabupaten Lombok Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.23.20",
-    "name": "Grabagan",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.23",
-      "name": "Kabupaten Tuban"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.23.20","lat":-7.007861843365304,"lng":111.99284467367151,"name":"Grabagan","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.23","name":"Kabupaten Tuban"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.05.35",
-    "name": "Cisewu",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.05",
-      "name": "Kabupaten Garut"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.05.35","lat":-7.377583591302113,"lng":107.52319666926498,"name":"Cisewu","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.05","name":"Kabupaten Garut"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

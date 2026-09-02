@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.02.34",
-    "name": "Kebonpedes",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.02",
-      "name": "Kabupaten Sukabumi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.02.34","lat":-6.944091940411772,"lng":106.96989321051093,"name":"Kebonpedes","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.02","name":"Kabupaten Sukabumi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

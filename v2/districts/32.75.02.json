@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.75.02",
-    "name": "Bekasi Barat",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.75",
-      "name": "Kota Bekasi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.75.02","lat":-6.233559299061097,"lng":106.96281200530314,"name":"Bekasi Barat","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.75","name":"Kota Bekasi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

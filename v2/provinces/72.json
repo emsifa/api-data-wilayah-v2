@@ -1,17 +1,1 @@
-{
-  "data": {
-    "id": "72",
-    "name": "Sulawesi Tengah",
-    "capital": "Palu",
-    "lat": -0.8906090371916697,
-    "lng": 119.8710737989323,
-    "elv": 21,
-    "tz": 8,
-    "population": 3219494,
-    "total_area": 61496.983
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:57Z",
-    "level": 1
-  }
-}
+{"data":{"id":"72","name":"Sulawesi Tengah","capital":"Palu","lat":-0.8906090371916697,"lng":119.8710737989323,"elv":21,"tz":8,"population":3219494,"total_area":61496.983},"meta":{"updated_at":"2026-09-02","level":1}}

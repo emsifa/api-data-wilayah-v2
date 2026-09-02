@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.03.03",
-    "name": "Biboki Selatan",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.03",
-      "name": "Kabupaten Timor Tengah Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.03.03","lat":-9.340324464973708,"lng":124.69089328683522,"name":"Biboki Selatan","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.03","name":"Kabupaten Timor Tengah Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "64.72.06",
-    "name": "Sungai Kunjang",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
-    },
-    "regency": {
-      "id": "64.72",
-      "name": "Kota Samarinda"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"64.72.06","lat":-0.5100354908300111,"lng":117.08417077887113,"name":"Sungai Kunjang","province":{"id":"64","name":"Kalimantan Timur"},"regency":{"id":"64.72","name":"Kota Samarinda"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

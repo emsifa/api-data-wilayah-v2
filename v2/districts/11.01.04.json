@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.01.04",
-    "name": "Labuhanhaji",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.01",
-      "name": "Kabupaten Aceh Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.01.04","lat":3.605460156155988,"lng":97.06673616112423,"name":"Labuhanhaji","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.01","name":"Kabupaten Aceh Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

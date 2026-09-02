@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.26.06",
-    "name": "Sa'dan",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.26",
-      "name": "Kabupaten Toraja Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.26.06","lat":-2.8394465392163446,"lng":119.93371724240409,"name":"Sa'dan","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.26","name":"Kabupaten Toraja Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "36.01.15",
-    "name": "Cipeucang",
-    "province": {
-      "id": "36",
-      "name": "Banten"
-    },
-    "regency": {
-      "id": "36.01",
-      "name": "Kabupaten Pandeglang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"36.01.15","lat":-6.375563325012878,"lng":106.01370887620367,"name":"Cipeucang","province":{"id":"36","name":"Banten"},"regency":{"id":"36.01","name":"Kabupaten Pandeglang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

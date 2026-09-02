@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.22.01",
-    "name": "Malangke",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.22",
-      "name": "Kabupaten Luwu Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.22.01","lat":-2.7529513975830366,"lng":120.43637517616038,"name":"Malangke","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.22","name":"Kabupaten Luwu Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

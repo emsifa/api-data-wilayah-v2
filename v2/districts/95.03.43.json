@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.03.43",
-    "name": "Sobaham",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.03",
-      "name": "Kabupaten Yahukimo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.03.43","lat":-4.4024911489539775,"lng":139.36918933847798,"name":"Sobaham","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.03","name":"Kabupaten Yahukimo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

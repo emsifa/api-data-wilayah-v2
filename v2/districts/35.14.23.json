@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.14.23",
-    "name": "Rejoso",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.14",
-      "name": "Kabupaten Pasuruan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.14.23","lat":-7.679193162318712,"lng":112.95046362537904,"name":"Rejoso","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.14","name":"Kabupaten Pasuruan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

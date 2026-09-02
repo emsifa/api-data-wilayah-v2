@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.04.03",
-    "name": "Manis Mata",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.04",
-      "name": "Kabupaten Ketapang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.04.03","lat":-2.455423014994088,"lng":111.01381117041639,"name":"Manis Mata","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.04","name":"Kabupaten Ketapang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

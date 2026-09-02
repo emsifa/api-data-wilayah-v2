@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.74.05",
-    "name": "Kesambi",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.74",
-      "name": "Kota Cirebon"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.74.05","lat":-6.733022439278708,"lng":108.54262574768956,"name":"Kesambi","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.74","name":"Kota Cirebon"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

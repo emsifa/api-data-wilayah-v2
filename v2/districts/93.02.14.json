@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "93.02.14",
-    "name": "Yaniruma",
-    "province": {
-      "id": "93",
-      "name": "Papua Selatan"
-    },
-    "regency": {
-      "id": "93.02",
-      "name": "Kabupaten Boven Digoel"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"93.02.14","lat":-5.421955063572045,"lng":139.87760456707082,"name":"Yaniruma","province":{"id":"93","name":"Papua Selatan"},"regency":{"id":"93.02","name":"Kabupaten Boven Digoel"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

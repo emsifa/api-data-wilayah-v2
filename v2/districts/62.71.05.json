@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "62.71.05",
-    "name": "Rakumpit",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
-    },
-    "regency": {
-      "id": "62.71",
-      "name": "Kota Palangkaraya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"62.71.05","lat":-1.7523094756494813,"lng":113.66098211216709,"name":"Rakumpit","province":{"id":"62","name":"Kalimantan Tengah"},"regency":{"id":"62.71","name":"Kota Palangkaraya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

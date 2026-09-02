@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.11.15",
-    "name": "Matawai La Pawu",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.11",
-      "name": "Kabupaten Sumba Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.11.15","lat":-10.010196240049316,"lng":120.2801205014323,"name":"Matawai La Pawu","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.11","name":"Kabupaten Sumba Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

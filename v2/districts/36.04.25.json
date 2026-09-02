@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "36.04.25",
-    "name": "Kopo",
-    "province": {
-      "id": "36",
-      "name": "Banten"
-    },
-    "regency": {
-      "id": "36.04",
-      "name": "Kabupaten Serang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"36.04.25","lat":-6.285697163611299,"lng":106.37669774544996,"name":"Kopo","province":{"id":"36","name":"Banten"},"regency":{"id":"36.04","name":"Kabupaten Serang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

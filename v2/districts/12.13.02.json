@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.13.02",
-    "name": "Panyabungan Utara",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.13",
-      "name": "Kabupaten Mandailing Natal"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.13.02","lat":0.9302595999632239,"lng":99.55630678245706,"name":"Panyabungan Utara","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.13","name":"Kabupaten Mandailing Natal"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

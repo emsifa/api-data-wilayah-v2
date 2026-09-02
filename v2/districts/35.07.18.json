@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.07.18",
-    "name": "Pakis",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.07",
-      "name": "Kabupaten Malang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.07.18","lat":-7.960902592108056,"lng":112.70508770423281,"name":"Pakis","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.07","name":"Kabupaten Malang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

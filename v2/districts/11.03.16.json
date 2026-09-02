@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.03.16",
-    "name": "Peudawa",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.03",
-      "name": "Kabupaten Aceh Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.03.16","lat":4.8842793225299195,"lng":97.82170286902962,"name":"Peudawa","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.03","name":"Kabupaten Aceh Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

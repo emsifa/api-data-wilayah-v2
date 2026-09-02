@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "94.04.14",
-    "name": "Hoya",
-    "province": {
-      "id": "94",
-      "name": "Papua Tengah"
-    },
-    "regency": {
-      "id": "94.04",
-      "name": "Kabupaten Mimika"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"94.04.14","lat":-4.2911136524643485,"lng":137.49103904968894,"name":"Hoya","province":{"id":"94","name":"Papua Tengah"},"regency":{"id":"94.04","name":"Kabupaten Mimika"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

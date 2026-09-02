@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.02.08",
-    "name": "Amanatun Selatan",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.02",
-      "name": "Kabupaten Timor Tengah Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.02.08","lat":-9.843410125559627,"lng":124.623659904696,"name":"Amanatun Selatan","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.02","name":"Kabupaten Timor Tengah Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

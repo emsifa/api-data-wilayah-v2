@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "17.04.02",
-    "name": "Tanjung Kemuning",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
-    },
-    "regency": {
-      "id": "17.04",
-      "name": "Kabupaten Kaur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"17.04.02","lat":-4.580004540480255,"lng":103.15498925568365,"name":"Tanjung Kemuning","province":{"id":"17","name":"Bengkulu"},"regency":{"id":"17.04","name":"Kabupaten Kaur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

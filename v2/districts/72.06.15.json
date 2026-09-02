@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "72.06.15",
-    "name": "Bungku Pesisir",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
-    },
-    "regency": {
-      "id": "72.06",
-      "name": "Kabupaten Morowali"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"72.06.15","lat":-3.0257355206218337,"lng":122.25678502807183,"name":"Bungku Pesisir","province":{"id":"72","name":"Sulawesi Tengah"},"regency":{"id":"72.06","name":"Kabupaten Morowali"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

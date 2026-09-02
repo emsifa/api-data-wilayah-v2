@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.05.06",
-    "name": "Galesong Utara",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.05",
-      "name": "Kabupaten Takalar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.05.06","lat":-5.251382856974915,"lng":119.39128778740348,"name":"Galesong Utara","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.05","name":"Kabupaten Takalar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

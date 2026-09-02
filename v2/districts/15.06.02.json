@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.06.02",
-    "name": "Tungkal Ilir",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.06",
-      "name": "Kabupaten Tanjung Jabung Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.06.02","lat":-0.8374495740068693,"lng":103.49217894693172,"name":"Tungkal Ilir","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.06","name":"Kabupaten Tanjung Jabung Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

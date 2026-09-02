@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.02.03",
-    "name": "Adiankoting",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.02",
-      "name": "Kabupaten Tapanuli Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.02.03","lat":1.8753997015100148,"lng":98.90751960659921,"name":"Adiankoting","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.02","name":"Kabupaten Tapanuli Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

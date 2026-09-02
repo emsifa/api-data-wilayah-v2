@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.03.39",
-    "name": "Langda",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.03",
-      "name": "Kabupaten Yahukimo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.03.39","lat":-4.617600816580752,"lng":139.99111556886288,"name":"Langda","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.03","name":"Kabupaten Yahukimo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

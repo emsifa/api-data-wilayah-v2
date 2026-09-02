@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.11.13",
-    "name": "Karera",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.11",
-      "name": "Kabupaten Sumba Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.11.13","lat":-10.172733583110473,"lng":120.2528779200461,"name":"Karera","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.11","name":"Kabupaten Sumba Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

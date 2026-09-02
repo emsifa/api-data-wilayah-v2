@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.06.06",
-    "name": "Simpur",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.06",
-      "name": "Kabupaten Hulu Sungai Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.06.06","lat":-2.7674280872428594,"lng":115.18745367323721,"name":"Simpur","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.06","name":"Kabupaten Hulu Sungai Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

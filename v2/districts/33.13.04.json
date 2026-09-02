@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.13.04",
-    "name": "Jumantono",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.13",
-      "name": "Kabupaten Karanganyar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.13.04","lat":-7.659727396717012,"lng":110.992541512911,"name":"Jumantono","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.13","name":"Kabupaten Karanganyar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

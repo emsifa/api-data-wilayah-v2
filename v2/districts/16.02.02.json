@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.02.02",
-    "name": "Tanjung Lubuk",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.02",
-      "name": "Kabupaten Ogan Komering Ilir"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.02.02","lat":-3.5689806249195515,"lng":104.70435704839413,"name":"Tanjung Lubuk","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.02","name":"Kabupaten Ogan Komering Ilir"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

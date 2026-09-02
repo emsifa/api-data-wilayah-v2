@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "75.01.09",
-    "name": "Boliyohuto",
-    "province": {
-      "id": "75",
-      "name": "Gorontalo"
-    },
-    "regency": {
-      "id": "75.01",
-      "name": "Kabupaten Gorontalo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"75.01.09","lat":0.6562136428079235,"lng":122.6140478031007,"name":"Boliyohuto","province":{"id":"75","name":"Gorontalo"},"regency":{"id":"75.01","name":"Kabupaten Gorontalo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

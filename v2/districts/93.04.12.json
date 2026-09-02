@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "93.04.12",
-    "name": "Pulau Tiga",
-    "province": {
-      "id": "93",
-      "name": "Papua Selatan"
-    },
-    "regency": {
-      "id": "93.04",
-      "name": "Kabupaten Asmat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"93.04.12","lat":-4.935394084685455,"lng":137.97233647912964,"name":"Pulau Tiga","province":{"id":"93","name":"Papua Selatan"},"regency":{"id":"93.04","name":"Kabupaten Asmat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

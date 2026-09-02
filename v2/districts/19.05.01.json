@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "19.05.01",
-    "name": "Mentok",
-    "province": {
-      "id": "19",
-      "name": "Kepulauan Bangka Belitung"
-    },
-    "regency": {
-      "id": "19.05",
-      "name": "Kabupaten Bangka Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"19.05.01","lat":-2.022737608068278,"lng":105.23018789438225,"name":"Mentok","province":{"id":"19","name":"Kepulauan Bangka Belitung"},"regency":{"id":"19.05","name":"Kabupaten Bangka Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

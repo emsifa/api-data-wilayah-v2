@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.11.03",
-    "name": "Peudada",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.11",
-      "name": "Kabupaten Bireuen"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.11.03","lat":5.0702678580212766,"lng":96.56984595903417,"name":"Peudada","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.11","name":"Kabupaten Bireuen"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

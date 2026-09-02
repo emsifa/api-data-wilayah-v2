@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "72.05.10",
-    "name": "Karamat",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
-    },
-    "regency": {
-      "id": "72.05",
-      "name": "Kabupaten Buol"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"72.05.10","lat":1.2435752974569254,"lng":121.37789091320964,"name":"Karamat","province":{"id":"72","name":"Sulawesi Tengah"},"regency":{"id":"72.05","name":"Kabupaten Buol"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

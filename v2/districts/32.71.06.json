@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.71.06",
-    "name": "Tanah Sareal",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.71",
-      "name": "Kota Bogor"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.71.06","lat":-6.546830773206896,"lng":106.78545132794729,"name":"Tanah Sareal","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.71","name":"Kota Bogor"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

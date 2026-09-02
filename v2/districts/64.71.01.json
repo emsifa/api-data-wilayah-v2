@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "64.71.01",
-    "name": "Balikpapan Timur",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
-    },
-    "regency": {
-      "id": "64.71",
-      "name": "Kota Balikpapan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"64.71.01","lat":-1.1749094335782728,"lng":116.96079672700003,"name":"Balikpapan Timur","province":{"id":"64","name":"Kalimantan Timur"},"regency":{"id":"64.71","name":"Kota Balikpapan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

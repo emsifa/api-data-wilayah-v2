@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.24.10",
-    "name": "Pegandon",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.24",
-      "name": "Kabupaten Kendal"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.24.10","lat":-7.001848969395342,"lng":110.15921094807871,"name":"Pegandon","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.24","name":"Kabupaten Kendal"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

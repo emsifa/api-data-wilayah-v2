@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.71.06",
-    "name": "Kota Ternate Tengah",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.71",
-      "name": "Kota Ternate"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.71.06","lat":0.7966964478759662,"lng":127.36422511191125,"name":"Kota Ternate Tengah","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.71","name":"Kota Ternate"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

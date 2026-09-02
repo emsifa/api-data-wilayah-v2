@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.04.06",
-    "name": "Belalau",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.04",
-      "name": "Kabupaten Lampung Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.04.06","lat":-4.952666266483671,"lng":104.19559213763006,"name":"Belalau","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.04","name":"Kabupaten Lampung Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

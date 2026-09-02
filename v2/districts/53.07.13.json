@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.07.13",
-    "name": "Waiblama",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.07",
-      "name": "Kabupaten Sikka"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.07.13","lat":-8.58954405537876,"lng":122.59472106191588,"name":"Waiblama","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.07","name":"Kabupaten Sikka"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

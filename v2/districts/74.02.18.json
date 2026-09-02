@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.02.18",
-    "name": "Uepai",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.02",
-      "name": "Kabupaten Konawe"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.02.18","lat":-3.8970885395238537,"lng":122.0140602256628,"name":"Uepai","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.02","name":"Kabupaten Konawe"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

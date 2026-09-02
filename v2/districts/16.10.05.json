@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.10.05",
-    "name": "Pemulutan",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.10",
-      "name": "Kabupaten Ogan Ilir"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.10.05","lat":-3.108848482714949,"lng":104.7628606139743,"name":"Pemulutan","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.10","name":"Kabupaten Ogan Ilir"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

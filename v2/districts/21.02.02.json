@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "21.02.02",
-    "name": "Kundur",
-    "province": {
-      "id": "21",
-      "name": "Kepulauan Riau"
-    },
-    "regency": {
-      "id": "21.02",
-      "name": "Kabupaten Karimun"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"21.02.02","lat":0.6900684868594049,"lng":103.44517856632532,"name":"Kundur","province":{"id":"21","name":"Kepulauan Riau"},"regency":{"id":"21.02","name":"Kabupaten Karimun"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

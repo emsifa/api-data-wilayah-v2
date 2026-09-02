@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "17.06.07",
-    "name": "Air Rami",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
-    },
-    "regency": {
-      "id": "17.06",
-      "name": "Kabupaten Mukomuko"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"17.06.07","lat":-3.0369717389929436,"lng":101.64615939629759,"name":"Air Rami","province":{"id":"17","name":"Bengkulu"},"regency":{"id":"17.06","name":"Kabupaten Mukomuko"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

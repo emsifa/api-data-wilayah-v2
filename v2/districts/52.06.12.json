@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "52.06.12",
-    "name": "Lambu",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
-    },
-    "regency": {
-      "id": "52.06",
-      "name": "Kabupaten Bima"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"52.06.12","lat":-8.661879572451483,"lng":119.03970396523617,"name":"Lambu","province":{"id":"52","name":"Nusa Tenggara Barat"},"regency":{"id":"52.06","name":"Kabupaten Bima"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

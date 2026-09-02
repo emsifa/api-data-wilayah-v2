@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.08.02",
-    "name": "Ciniru",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.08",
-      "name": "Kabupaten Kuningan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.08.02","lat":-7.056757594557127,"lng":108.50559701548966,"name":"Ciniru","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.08","name":"Kabupaten Kuningan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.06.10",
-    "name": "Gurah",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.06",
-      "name": "Kabupaten Kediri"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.06.10","lat":-7.81770290449209,"lng":112.11041388360273,"name":"Gurah","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.06","name":"Kabupaten Kediri"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

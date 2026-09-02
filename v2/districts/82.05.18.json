@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.05.18",
-    "name": "Sanana Utara",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.05",
-      "name": "Kabupaten Kepulauan Sula"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.05.18","lat":-2.018459918444995,"lng":125.92494694903637,"name":"Sanana Utara","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.05","name":"Kabupaten Kepulauan Sula"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

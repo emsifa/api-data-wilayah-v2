@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.73.14",
-    "name": "Cibeunying Kidul",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.73",
-      "name": "Kota Bandung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.73.14","lat":-6.900741346807442,"lng":107.6453511805854,"name":"Cibeunying Kidul","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.73","name":"Kota Bandung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

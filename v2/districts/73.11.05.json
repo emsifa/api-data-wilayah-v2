@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.11.05",
-    "name": "Mallusetasi",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.11",
-      "name": "Kabupaten Barru"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.11.05","lat":-4.154638301330974,"lng":119.68037454151143,"name":"Mallusetasi","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.11","name":"Kabupaten Barru"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.02.24",
-    "name": "Purwokerto Selatan",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.02",
-      "name": "Kabupaten Banyumas"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.02.24","lat":-7.447817940456052,"lng":109.24411279421483,"name":"Purwokerto Selatan","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.02","name":"Kabupaten Banyumas"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

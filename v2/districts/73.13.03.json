@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.13.03",
-    "name": "Takkalalla",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.13",
-      "name": "Kabupaten Wajo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.13.03","lat":-4.149617065161052,"lng":120.28580322066476,"name":"Takkalalla","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.13","name":"Kabupaten Wajo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.77.02",
-    "name": "Cimahi Tengah",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.77",
-      "name": "Kota Cimahi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.77.02","lat":-6.88433171299084,"lng":107.53961709441695,"name":"Cimahi Tengah","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.77","name":"Kota Cimahi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

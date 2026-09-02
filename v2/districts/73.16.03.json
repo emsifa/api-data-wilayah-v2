@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.16.03",
-    "name": "Baraka",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.16",
-      "name": "Kabupaten Enrekang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.16.03","lat":-3.420454797233017,"lng":119.91563459267277,"name":"Baraka","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.16","name":"Kabupaten Enrekang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

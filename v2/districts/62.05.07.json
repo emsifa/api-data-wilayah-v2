@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "62.05.07",
-    "name": "Teweh Baru",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
-    },
-    "regency": {
-      "id": "62.05",
-      "name": "Kabupaten Barito Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"62.05.07","lat":-1.0013900591227909,"lng":115.09489194647311,"name":"Teweh Baru","province":{"id":"62","name":"Kalimantan Tengah"},"regency":{"id":"62.05","name":"Kabupaten Barito Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

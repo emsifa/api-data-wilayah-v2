@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "72.02.18",
-    "name": "Poso Pesisir Utara",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
-    },
-    "regency": {
-      "id": "72.02",
-      "name": "Kabupaten Poso"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"72.02.18","lat":-1.2291589218775503,"lng":120.49274251626088,"name":"Poso Pesisir Utara","province":{"id":"72","name":"Sulawesi Tengah"},"regency":{"id":"72.02","name":"Kabupaten Poso"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

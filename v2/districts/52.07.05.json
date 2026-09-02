@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "52.07.05",
-    "name": "Brang Rea",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
-    },
-    "regency": {
-      "id": "52.07",
-      "name": "Kabupaten Sumbawa Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"52.07.05","lat":-8.712906477094837,"lng":116.98873039370014,"name":"Brang Rea","province":{"id":"52","name":"Nusa Tenggara Barat"},"regency":{"id":"52.07","name":"Kabupaten Sumbawa Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

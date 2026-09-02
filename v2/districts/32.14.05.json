@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.14.05",
-    "name": "Sukatani",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.14",
-      "name": "Kabupaten Purwakarta"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.14.05","lat":-6.587114523829535,"lng":107.38203914550728,"name":"Sukatani","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.14","name":"Kabupaten Purwakarta"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

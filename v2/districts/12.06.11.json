@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.06.11",
-    "name": "Payung",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.06",
-      "name": "Kabupaten Karo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.06.11","lat":3.1226895055302073,"lng":98.37734235294694,"name":"Payung","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.06","name":"Kabupaten Karo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

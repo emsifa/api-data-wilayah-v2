@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.05.08",
-    "name": "Sungai Gelam",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.05",
-      "name": "Kabupaten Muaro Jambi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.05.08","lat":-1.7339624305685126,"lng":103.77888265409943,"name":"Sungai Gelam","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.05","name":"Kabupaten Muaro Jambi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

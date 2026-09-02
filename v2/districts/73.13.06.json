@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.13.06",
-    "name": "Tempe",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.13",
-      "name": "Kabupaten Wajo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.13.06","lat":-4.129019626342428,"lng":120.03257726898273,"name":"Tempe","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.13","name":"Kabupaten Wajo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

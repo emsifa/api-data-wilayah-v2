@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.21.14",
-    "name": "Ulu Sosa",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.21",
-      "name": "Kabupaten Padang Lawas"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.21.14","lat":0.9382066252455744,"lng":99.80222757683049,"name":"Ulu Sosa","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.21","name":"Kabupaten Padang Lawas"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

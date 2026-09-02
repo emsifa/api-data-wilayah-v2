@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.06.04",
-    "name": "Wori",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.06",
-      "name": "Kabupaten Minahasa Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.06.04","lat":1.6458442177173205,"lng":124.86199969006911,"name":"Wori","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.06","name":"Kabupaten Minahasa Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

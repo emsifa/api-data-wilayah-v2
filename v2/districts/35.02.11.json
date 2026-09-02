@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.02.11",
-    "name": "Balong",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.02",
-      "name": "Kabupaten Ponorogo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.02.11","lat":-7.955356495309794,"lng":111.40143896317448,"name":"Balong","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.02","name":"Kabupaten Ponorogo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

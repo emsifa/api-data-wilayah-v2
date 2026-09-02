@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.25.07",
-    "name": "Ujungpangkah",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.25",
-      "name": "Kabupaten Gresik"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.25.07","lat":-6.916730282173395,"lng":112.55351076407929,"name":"Ujungpangkah","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.25","name":"Kabupaten Gresik"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

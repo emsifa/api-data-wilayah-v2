@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.14.10",
-    "name": "Pitu Riawa",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.14",
-      "name": "Kabupaten Sidenreng Rappang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.14.10","lat":-3.791078050825351,"lng":119.96092238754551,"name":"Pitu Riawa","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.14","name":"Kabupaten Sidenreng Rappang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

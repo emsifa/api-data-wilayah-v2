@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "62.05.03",
-    "name": "Gunung Purei",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
-    },
-    "regency": {
-      "id": "62.05",
-      "name": "Kabupaten Barito Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"62.05.03","lat":-1.2075134515538488,"lng":115.60115232257533,"name":"Gunung Purei","province":{"id":"62","name":"Kalimantan Tengah"},"regency":{"id":"62.05","name":"Kabupaten Barito Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

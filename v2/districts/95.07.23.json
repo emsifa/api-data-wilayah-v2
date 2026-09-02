@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.07.23",
-    "name": "Wano Barat",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.07",
-      "name": "Kabupaten Lanny Jaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.07.23","lat":-3.994342377997134,"lng":138.07781003060973,"name":"Wano Barat","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.07","name":"Kabupaten Lanny Jaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

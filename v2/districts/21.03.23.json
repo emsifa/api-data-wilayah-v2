@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "21.03.23",
-    "name": "Pulau Panjang",
-    "province": {
-      "id": "21",
-      "name": "Kepulauan Riau"
-    },
-    "regency": {
-      "id": "21.03",
-      "name": "Kabupaten Natuna"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"21.03.23","lat":2.7186981480086545,"lng":108.77626591663122,"name":"Pulau Panjang","province":{"id":"21","name":"Kepulauan Riau"},"regency":{"id":"21.03","name":"Kabupaten Natuna"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

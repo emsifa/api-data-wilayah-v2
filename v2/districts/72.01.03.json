@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "72.01.03",
-    "name": "Kintom",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
-    },
-    "regency": {
-      "id": "72.01",
-      "name": "Kabupaten Banggai"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"72.01.03","lat":-1.100299076886048,"lng":122.57059876537765,"name":"Kintom","province":{"id":"72","name":"Sulawesi Tengah"},"regency":{"id":"72.01","name":"Kabupaten Banggai"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

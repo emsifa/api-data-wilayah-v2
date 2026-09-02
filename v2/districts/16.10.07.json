@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.10.07",
-    "name": "Indralaya Utara",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.10",
-      "name": "Kabupaten Ogan Ilir"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.10.07","lat":-3.1591216785267897,"lng":104.62483511367154,"name":"Indralaya Utara","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.10","name":"Kabupaten Ogan Ilir"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.02.20",
-    "name": "Mesuji Makmur",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.02",
-      "name": "Kabupaten Ogan Komering Ilir"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.02.20","lat":-4.128372550821883,"lng":104.8867482519287,"name":"Mesuji Makmur","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.02","name":"Kabupaten Ogan Komering Ilir"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

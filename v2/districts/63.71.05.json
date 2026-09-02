@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.71.05",
-    "name": "Banjarmasin Tengah",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.71",
-      "name": "Kota Banjarmasin"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.71.05","lat":-3.319635775313822,"lng":114.5891670871578,"name":"Banjarmasin Tengah","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.71","name":"Kota Banjarmasin"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

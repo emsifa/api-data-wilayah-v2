@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.12.04",
-    "name": "Tana Righu",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.12",
-      "name": "Kabupaten Sumba Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.12.04","lat":-9.475951228937799,"lng":119.41359585107534,"name":"Tana Righu","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.12","name":"Kabupaten Sumba Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

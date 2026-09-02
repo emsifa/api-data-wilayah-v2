@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.02.08",
-    "name": "Tambak",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.02",
-      "name": "Kabupaten Banyumas"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.02.08","lat":-7.601082011865145,"lng":109.40964934454563,"name":"Tambak","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.02","name":"Kabupaten Banyumas"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

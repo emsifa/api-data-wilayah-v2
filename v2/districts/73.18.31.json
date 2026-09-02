@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.18.31",
-    "name": "Masanda",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.18",
-      "name": "Kabupaten Tana Toraja"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.18.31","lat":-2.8807318366071546,"lng":119.6037617970135,"name":"Masanda","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.18","name":"Kabupaten Tana Toraja"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

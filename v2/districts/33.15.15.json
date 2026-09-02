@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.15.15",
-    "name": "Klambu",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.15",
-      "name": "Kabupaten Grobogan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.15.15","lat":-7.001463174595185,"lng":110.81153308258524,"name":"Klambu","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.15","name":"Kabupaten Grobogan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

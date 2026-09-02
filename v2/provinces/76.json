@@ -1,17 +1,1 @@
-{
-  "data": {
-    "id": "76",
-    "name": "Sulawesi Barat",
-    "capital": "Mamuju",
-    "lat": -2.664913765308631,
-    "lng": 118.85279559870158,
-    "elv": 27,
-    "tz": 8,
-    "population": 1466741,
-    "total_area": 16590.667
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:57Z",
-    "level": 1
-  }
-}
+{"data":{"id":"76","name":"Sulawesi Barat","capital":"Mamuju","lat":-2.664913765308631,"lng":118.85279559870158,"elv":27,"tz":8,"population":1466741,"total_area":16590.667},"meta":{"updated_at":"2026-09-02","level":1}}

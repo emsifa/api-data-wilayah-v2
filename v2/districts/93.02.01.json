@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "93.02.01",
-    "name": "Mandobo",
-    "province": {
-      "id": "93",
-      "name": "Papua Selatan"
-    },
-    "regency": {
-      "id": "93.02",
-      "name": "Kabupaten Boven Digoel"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"93.02.01","lat":-6.068590385740387,"lng":140.3856366996981,"name":"Mandobo","province":{"id":"93","name":"Papua Selatan"},"regency":{"id":"93.02","name":"Kabupaten Boven Digoel"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

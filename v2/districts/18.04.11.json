@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.04.11",
-    "name": "Sukau",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.04",
-      "name": "Kabupaten Lampung Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.04.11","lat":-4.947288630292858,"lng":104.04199166752176,"name":"Sukau","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.04","name":"Kabupaten Lampung Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

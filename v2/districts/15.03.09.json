@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.03.09",
-    "name": "Singkut",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.03",
-      "name": "Kabupaten Sarolangun"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.03.09","lat":-2.5304477729800112,"lng":102.70331943015997,"name":"Singkut","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.03","name":"Kabupaten Sarolangun"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.04.02",
-    "name": "Muara Tembesi",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.04",
-      "name": "Kabupaten Batanghari"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.04.02","lat":-1.7203521797657837,"lng":103.10182302140207,"name":"Muara Tembesi","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.04","name":"Kabupaten Batanghari"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

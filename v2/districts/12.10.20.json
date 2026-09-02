@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.10.20",
-    "name": "Panai Hulu",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.10",
-      "name": "Kabupaten Labuhanbatu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.10.20","lat":2.422007582562841,"lng":100.13909774147265,"name":"Panai Hulu","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.10","name":"Kabupaten Labuhanbatu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

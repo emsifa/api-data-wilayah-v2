@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "36.02.22",
-    "name": "Sobang",
-    "province": {
-      "id": "36",
-      "name": "Banten"
-    },
-    "regency": {
-      "id": "36.02",
-      "name": "Kabupaten Lebak"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"36.02.22","lat":-6.647903935226833,"lng":106.3249309346603,"name":"Sobang","province":{"id":"36","name":"Banten"},"regency":{"id":"36.02","name":"Kabupaten Lebak"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.07.22",
-    "name": "Braja Selebah",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.07",
-      "name": "Kabupaten Lampung Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.07.22","lat":-5.151987081712027,"lng":105.79985414824402,"name":"Braja Selebah","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.07","name":"Kabupaten Lampung Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

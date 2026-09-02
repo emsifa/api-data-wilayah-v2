@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "92.07.04",
-    "name": "Wondiboy",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
-    },
-    "regency": {
-      "id": "92.07",
-      "name": "Kabupaten Teluk Wondama"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"92.07.04","lat":-2.796443522437126,"lng":134.56745750060452,"name":"Wondiboy","province":{"id":"92","name":"Papua Barat"},"regency":{"id":"92.07","name":"Kabupaten Teluk Wondama"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

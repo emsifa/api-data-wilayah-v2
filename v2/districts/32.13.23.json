@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.13.23",
-    "name": "Serangpanjang",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.13",
-      "name": "Kabupaten Subang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.13.23","lat":-6.646112190117532,"lng":107.60909281703975,"name":"Serangpanjang","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.13","name":"Kabupaten Subang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

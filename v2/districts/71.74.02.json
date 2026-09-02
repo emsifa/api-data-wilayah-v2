@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.74.02",
-    "name": "Kotamobagu Timur",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.74",
-      "name": "Kota Kotamobagu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.74.02","lat":0.7224741414119111,"lng":124.33897785997806,"name":"Kotamobagu Timur","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.74","name":"Kota Kotamobagu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

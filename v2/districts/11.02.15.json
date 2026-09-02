@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.02.15",
-    "name": "Tanoh Alas",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.02",
-      "name": "Kabupaten Aceh Tenggara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.02.15","lat":3.3541181328396723,"lng":97.6820216091209,"name":"Tanoh Alas","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.02","name":"Kabupaten Aceh Tenggara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

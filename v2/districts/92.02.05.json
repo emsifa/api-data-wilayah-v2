@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "92.02.05",
-    "name": "Masni",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
-    },
-    "regency": {
-      "id": "92.02",
-      "name": "Kabupaten Manokwari"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"92.02.05","lat":-0.8551920939261481,"lng":133.7265848642746,"name":"Masni","province":{"id":"92","name":"Papua Barat"},"regency":{"id":"92.02","name":"Kabupaten Manokwari"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

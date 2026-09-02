@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "96.04.08",
-    "name": "Moraid",
-    "province": {
-      "id": "96",
-      "name": "Papua Barat Daya"
-    },
-    "regency": {
-      "id": "96.04",
-      "name": "Kabupaten Tambrauw"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"96.04.08","lat":-0.6774405980440437,"lng":132.00838858632943,"name":"Moraid","province":{"id":"96","name":"Papua Barat Daya"},"regency":{"id":"96.04","name":"Kabupaten Tambrauw"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

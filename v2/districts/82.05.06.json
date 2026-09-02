@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.05.06",
-    "name": "Mangoli Barat",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.05",
-      "name": "Kabupaten Kepulauan Sula"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.05.06","lat":-1.8479374703347413,"lng":125.4068341644716,"name":"Mangoli Barat","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.05","name":"Kabupaten Kepulauan Sula"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

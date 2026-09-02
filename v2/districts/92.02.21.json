@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "92.02.21",
-    "name": "Sidey",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
-    },
-    "regency": {
-      "id": "92.02",
-      "name": "Kabupaten Manokwari"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"92.02.21","lat":-0.9154332570541411,"lng":133.57726618675204,"name":"Sidey","province":{"id":"92","name":"Papua Barat"},"regency":{"id":"92.02","name":"Kabupaten Manokwari"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

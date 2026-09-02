@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.21.09",
-    "name": "Batang Lubu Sutam",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.21",
-      "name": "Kabupaten Padang Lawas"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.21.09","lat":0.8553343207265066,"lng":100.04048326557063,"name":"Batang Lubu Sutam","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.21","name":"Kabupaten Padang Lawas"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.71.03",
-    "name": "Baruga",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.71",
-      "name": "Kota Kendari"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.71.03","lat":-4.0460107802439405,"lng":122.50168705042586,"name":"Baruga","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.71","name":"Kota Kendari"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

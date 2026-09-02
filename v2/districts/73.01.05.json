@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.01.05",
-    "name": "Bontosikuyu",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.01",
-      "name": "Kabupaten Kepulauan Selayar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.01.05","lat":-6.330684209994063,"lng":120.48921692593261,"name":"Bontosikuyu","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.01","name":"Kabupaten Kepulauan Selayar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

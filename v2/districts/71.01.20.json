@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.01.20",
-    "name": "Poigar",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.01",
-      "name": "Kabupaten Bolaang Mongondow"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.01.20","lat":0.9297940687019626,"lng":124.27973555853625,"name":"Poigar","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.01","name":"Kabupaten Bolaang Mongondow"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

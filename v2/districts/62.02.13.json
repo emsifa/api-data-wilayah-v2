@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "62.02.13",
-    "name": "Cempaga Hulu",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
-    },
-    "regency": {
-      "id": "62.02",
-      "name": "Kabupaten Kotawaringin Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"62.02.13","lat":-1.9648895193467317,"lng":113.04084474291231,"name":"Cempaga Hulu","province":{"id":"62","name":"Kalimantan Tengah"},"regency":{"id":"62.02","name":"Kabupaten Kotawaringin Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

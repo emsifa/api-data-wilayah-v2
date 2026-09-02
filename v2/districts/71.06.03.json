@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.06.03",
-    "name": "Airmadidi",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.06",
-      "name": "Kabupaten Minahasa Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.06.03","lat":1.398409522213499,"lng":124.96234539000339,"name":"Airmadidi","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.06","name":"Kabupaten Minahasa Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.04.03",
-    "name": "Gane Timur",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.04",
-      "name": "Kabupaten Halmahera Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.04.03","lat":-0.06969865713120882,"lng":127.87357732212688,"name":"Gane Timur","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.04","name":"Kabupaten Halmahera Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

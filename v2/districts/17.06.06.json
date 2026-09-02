@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "17.06.06",
-    "name": "Malin Deman",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
-    },
-    "regency": {
-      "id": "17.06",
-      "name": "Kabupaten Mukomuko"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"17.06.06","lat":-2.845274216544109,"lng":101.71816937812677,"name":"Malin Deman","province":{"id":"17","name":"Bengkulu"},"regency":{"id":"17.06","name":"Kabupaten Mukomuko"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

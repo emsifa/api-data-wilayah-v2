@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.02.01",
-    "name": "Weda",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.02",
-      "name": "Kabupaten Halmahera Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.02.01","lat":0.36846085497034115,"lng":127.83548638186863,"name":"Weda","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.02","name":"Kabupaten Halmahera Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

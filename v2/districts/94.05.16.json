@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "94.05.16",
-    "name": "Mage'abume",
-    "province": {
-      "id": "94",
-      "name": "Papua Tengah"
-    },
-    "regency": {
-      "id": "94.05",
-      "name": "Kabupaten Puncak"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"94.05.16","lat":-3.7860943110148373,"lng":137.86323172603593,"name":"Mage'abume","province":{"id":"94","name":"Papua Tengah"},"regency":{"id":"94.05","name":"Kabupaten Puncak"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

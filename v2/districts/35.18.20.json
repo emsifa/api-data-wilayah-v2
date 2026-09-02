@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.18.20",
-    "name": "Jatikalen",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.18",
-      "name": "Kabupaten Nganjuk"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.18.20","lat":-7.490048655787262,"lng":112.12620984355112,"name":"Jatikalen","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.18","name":"Kabupaten Nganjuk"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

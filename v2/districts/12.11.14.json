@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.11.14",
-    "name": "Silahisabungan",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.11",
-      "name": "Kabupaten Dairi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.11.14","lat":2.784970787330089,"lng":98.54519077551805,"name":"Silahisabungan","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.11","name":"Kabupaten Dairi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

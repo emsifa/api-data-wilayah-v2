@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.04.20",
-    "name": "Sungai Batang",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.04",
-      "name": "Kabupaten Indragiri Hilir"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.04.20","lat":-0.6158169607213405,"lng":103.24560933206294,"name":"Sungai Batang","province":{"id":"14","name":"Riau"},"regency":{"id":"14.04","name":"Kabupaten Indragiri Hilir"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

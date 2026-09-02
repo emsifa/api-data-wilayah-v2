@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.02.41",
-    "name": "Sagaranten",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.02",
-      "name": "Kabupaten Sukabumi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.02.41","lat":-7.200803189227676,"lng":106.87241214927177,"name":"Sagaranten","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.02","name":"Kabupaten Sukabumi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

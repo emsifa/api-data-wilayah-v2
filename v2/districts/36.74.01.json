@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "36.74.01",
-    "name": "Serpong",
-    "province": {
-      "id": "36",
-      "name": "Banten"
-    },
-    "regency": {
-      "id": "36.74",
-      "name": "Kota Tangerang Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"36.74.01","lat":-6.31127087775037,"lng":106.68070274031491,"name":"Serpong","province":{"id":"36","name":"Banten"},"regency":{"id":"36.74","name":"Kota Tangerang Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

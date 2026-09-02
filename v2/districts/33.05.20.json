@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.05.20",
-    "name": "Karanganyar",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.05",
-      "name": "Kabupaten Kebumen"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.05.20","lat":-7.611654292147886,"lng":109.56711125678679,"name":"Karanganyar","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.05","name":"Kabupaten Kebumen"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

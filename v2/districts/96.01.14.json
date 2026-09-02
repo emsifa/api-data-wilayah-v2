@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "96.01.14",
-    "name": "Mariat",
-    "province": {
-      "id": "96",
-      "name": "Papua Barat Daya"
-    },
-    "regency": {
-      "id": "96.01",
-      "name": "Kabupaten Sorong"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"96.01.14","lat":-1.0161341122528225,"lng":131.3496215439946,"name":"Mariat","province":{"id":"96","name":"Papua Barat Daya"},"regency":{"id":"96.01","name":"Kabupaten Sorong"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

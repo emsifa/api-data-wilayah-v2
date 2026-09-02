@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.16.03",
-    "name": "Pacet",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.16",
-      "name": "Kabupaten Mojokerto"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.16.03","lat":-7.672743087976735,"lng":112.54297448962471,"name":"Pacet","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.16","name":"Kabupaten Mojokerto"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

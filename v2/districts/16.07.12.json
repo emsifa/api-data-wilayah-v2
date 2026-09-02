@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.07.12",
-    "name": "Tanjung Lago",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.07",
-      "name": "Kabupaten Banyuasin"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.07.12","lat":-2.6583246504197224,"lng":104.68256877623277,"name":"Tanjung Lago","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.07","name":"Kabupaten Banyuasin"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

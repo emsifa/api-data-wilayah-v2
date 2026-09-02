@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.76.05",
-    "name": "Tebing Tinggi Kota",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.76",
-      "name": "Kota Tebing Tinggi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.76.05","lat":3.3267815508101557,"lng":99.16122783636945,"name":"Tebing Tinggi Kota","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.76","name":"Kota Tebing Tinggi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

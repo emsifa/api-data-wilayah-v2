@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.20.01",
-    "name": "Dolok Sigompulon",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.20",
-      "name": "Kabupaten Padang Lawas Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.20.01","lat":1.9489891063713087,"lng":99.73183194888003,"name":"Dolok Sigompulon","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.20","name":"Kabupaten Padang Lawas Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

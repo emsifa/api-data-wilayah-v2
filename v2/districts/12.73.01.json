@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.73.01",
-    "name": "Sibolga Utara",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.73",
-      "name": "Kota Sibolga"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.73.01","lat":1.7498255964544878,"lng":98.7854214421514,"name":"Sibolga Utara","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.73","name":"Kota Sibolga"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

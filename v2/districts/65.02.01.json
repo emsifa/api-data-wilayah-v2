@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "65.02.01",
-    "name": "Mentarang",
-    "province": {
-      "id": "65",
-      "name": "Kalimantan Utara"
-    },
-    "regency": {
-      "id": "65.02",
-      "name": "Kabupaten Malinau"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"65.02.01","lat":3.5622002123566623,"lng":116.33673479271648,"name":"Mentarang","province":{"id":"65","name":"Kalimantan Utara"},"regency":{"id":"65.02","name":"Kabupaten Malinau"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.03.03",
-    "name": "Wertamrian",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.03",
-      "name": "Kabupaten Kepulauan Tanimbar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.03.03","lat":-7.745484277207086,"lng":131.38192388668998,"name":"Wertamrian","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.03","name":"Kabupaten Kepulauan Tanimbar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

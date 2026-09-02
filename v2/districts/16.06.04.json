@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.06.04",
-    "name": "Batang Hari Leko",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.06",
-      "name": "Kabupaten Musi Banyuasin"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.06.04","lat":-2.463650161108493,"lng":103.47481283624799,"name":"Batang Hari Leko","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.06","name":"Kabupaten Musi Banyuasin"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

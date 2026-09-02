@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.10.16",
-    "name": "Reok Barat",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.10",
-      "name": "Kabupaten Manggarai"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.10.16","lat":-8.363899947088857,"lng":120.34652229580854,"name":"Reok Barat","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.10","name":"Kabupaten Manggarai"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

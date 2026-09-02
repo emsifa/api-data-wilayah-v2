@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.01.31",
-    "name": "Bolaang Timur",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.01",
-      "name": "Kabupaten Bolaang Mongondow"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.01.31","lat":0.9040635143473968,"lng":124.17906792171284,"name":"Bolaang Timur","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.01","name":"Kabupaten Bolaang Mongondow"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

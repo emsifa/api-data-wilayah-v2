@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.16.06",
-    "name": "Keo Tengah",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.16",
-      "name": "Kabupaten Nagekeo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.16.06","lat":-8.870995242430025,"lng":121.29692739717025,"name":"Keo Tengah","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.16","name":"Kabupaten Nagekeo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

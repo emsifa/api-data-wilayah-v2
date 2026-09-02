@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.12.02",
-    "name": "Liliriaja",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.12",
-      "name": "Kabupaten Soppeng"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.12.02","lat":-4.401220344114005,"lng":119.94391820230992,"name":"Liliriaja","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.12","name":"Kabupaten Soppeng"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

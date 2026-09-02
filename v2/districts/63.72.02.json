@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.72.02",
-    "name": "Landasan Ulin",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.72",
-      "name": "Kota Banjarbaru"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.72.02","lat":-3.4591297035150634,"lng":114.76439983209576,"name":"Landasan Ulin","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.72","name":"Kota Banjarbaru"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

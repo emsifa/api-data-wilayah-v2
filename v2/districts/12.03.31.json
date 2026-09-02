@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.03.31",
-    "name": "Angkola Sangkunur",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.03",
-      "name": "Kabupaten Tapanuli Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.03.31","lat":1.3719016971292244,"lng":99.04022805917567,"name":"Angkola Sangkunur","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.03","name":"Kabupaten Tapanuli Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

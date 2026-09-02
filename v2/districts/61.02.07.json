@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.02.07",
-    "name": "Sungai Pinyuh",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.02",
-      "name": "Kabupaten Mempawah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.02.07","lat":0.2814954404174244,"lng":109.1086306410021,"name":"Sungai Pinyuh","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.02","name":"Kabupaten Mempawah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

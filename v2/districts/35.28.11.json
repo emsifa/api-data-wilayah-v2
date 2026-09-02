@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.28.11",
-    "name": "Batumarmar",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.28",
-      "name": "Kabupaten Pamekasan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.28.11","lat":-6.957009076471978,"lng":113.49524636934551,"name":"Batumarmar","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.28","name":"Kabupaten Pamekasan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

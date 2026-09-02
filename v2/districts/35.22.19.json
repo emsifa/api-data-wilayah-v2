@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.22.19",
-    "name": "Padangan",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.22",
-      "name": "Kabupaten Bojonegoro"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.22.19","lat":-7.182859446458282,"lng":111.61271922999637,"name":"Padangan","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.22","name":"Kabupaten Bojonegoro"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

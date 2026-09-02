@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.02.17",
-    "name": "Kei Besar Utara Barat",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.02",
-      "name": "Kabupaten Maluku Tenggara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.02.17","lat":-5.437878324260184,"lng":133.0862126692336,"name":"Kei Besar Utara Barat","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.02","name":"Kabupaten Maluku Tenggara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

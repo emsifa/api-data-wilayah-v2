@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.22.10",
-    "name": "Mappedeceng",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.22",
-      "name": "Kabupaten Luwu Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.22.10","lat":-2.50658036848768,"lng":120.43018926761646,"name":"Mappedeceng","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.22","name":"Kabupaten Luwu Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

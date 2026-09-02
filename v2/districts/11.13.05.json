@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.13.05",
-    "name": "Pining",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.13",
-      "name": "Kabupaten Gayo Lues"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.13.05","lat":4.02847611058669,"lng":97.67556138333107,"name":"Pining","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.13","name":"Kabupaten Gayo Lues"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

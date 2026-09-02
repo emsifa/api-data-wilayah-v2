@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "96.03.09",
-    "name": "Teluk Mayalibit",
-    "province": {
-      "id": "96",
-      "name": "Papua Barat Daya"
-    },
-    "regency": {
-      "id": "96.03",
-      "name": "Kabupaten Raja Ampat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"96.03.09","lat":-0.26335883337939914,"lng":130.89738143062834,"name":"Teluk Mayalibit","province":{"id":"96","name":"Papua Barat Daya"},"regency":{"id":"96.03","name":"Kabupaten Raja Ampat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

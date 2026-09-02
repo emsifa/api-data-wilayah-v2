@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.15.09",
-    "name": "Lembor Selatan",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.15",
-      "name": "Kabupaten Manggarai Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.15.09","lat":-8.773393917111633,"lng":120.1044330578665,"name":"Lembor Selatan","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.15","name":"Kabupaten Manggarai Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

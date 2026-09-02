@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.02.26",
-    "name": "Ciracap",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.02",
-      "name": "Kabupaten Sukabumi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.02.26","lat":-7.327680419592435,"lng":106.47106613153193,"name":"Ciracap","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.02","name":"Kabupaten Sukabumi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

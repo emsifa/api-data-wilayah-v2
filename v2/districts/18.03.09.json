@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.03.09",
-    "name": "Kotabumi Utara",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.03",
-      "name": "Kabupaten Lampung Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.03.09","lat":-4.748705527208379,"lng":104.86123828129152,"name":"Kotabumi Utara","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.03","name":"Kabupaten Lampung Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

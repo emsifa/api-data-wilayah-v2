@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.06.06",
-    "name": "Kabaena Timur",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.06",
-      "name": "Kabupaten Bombana"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.06.06","lat":-5.30151084917253,"lng":122.02748786481118,"name":"Kabaena Timur","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.06","name":"Kabupaten Bombana"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

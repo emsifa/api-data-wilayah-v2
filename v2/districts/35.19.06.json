@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.19.06",
-    "name": "Gemarang",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.19",
-      "name": "Kabupaten Madiun"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.19.06","lat":-7.637815162352967,"lng":111.7412008201156,"name":"Gemarang","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.19","name":"Kabupaten Madiun"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

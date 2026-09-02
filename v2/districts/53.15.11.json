@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.15.11",
-    "name": "Pacar",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.15",
-      "name": "Kabupaten Manggarai Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.15.11","lat":-8.502524297655242,"lng":120.19284114347197,"name":"Pacar","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.15","name":"Kabupaten Manggarai Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

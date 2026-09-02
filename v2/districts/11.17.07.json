@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.17.07",
-    "name": "Timang gajah",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.17",
-      "name": "Kabupaten Bener Meriah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.17.07","lat":4.7644208083932025,"lng":96.75372952853314,"name":"Timang gajah","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.17","name":"Kabupaten Bener Meriah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

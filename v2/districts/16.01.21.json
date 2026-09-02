@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.01.21",
-    "name": "Semidang Aji",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.01",
-      "name": "Kabupaten Ogan Komering Ulu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.01.21","lat":-4.031873619004213,"lng":103.99577821717713,"name":"Semidang Aji","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.01","name":"Kabupaten Ogan Komering Ulu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

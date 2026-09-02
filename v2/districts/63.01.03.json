@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.01.03",
-    "name": "Pelaihari",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.01",
-      "name": "Kabupaten Tanah Laut"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.01.03","lat":-3.792213410369847,"lng":114.74707029737506,"name":"Pelaihari","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.01","name":"Kabupaten Tanah Laut"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

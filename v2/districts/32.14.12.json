@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.14.12",
-    "name": "Babakancikao",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.14",
-      "name": "Kabupaten Purwakarta"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.14.12","lat":-6.490764236502057,"lng":107.42390184458696,"name":"Babakancikao","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.14","name":"Kabupaten Purwakarta"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

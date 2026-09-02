@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "96.04.03",
-    "name": "Yembun",
-    "province": {
-      "id": "96",
-      "name": "Papua Barat Daya"
-    },
-    "regency": {
-      "id": "96.04",
-      "name": "Kabupaten Tambrauw"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"96.04.03","lat":-0.764577331892246,"lng":132.23809164680068,"name":"Yembun","province":{"id":"96","name":"Papua Barat Daya"},"regency":{"id":"96.04","name":"Kabupaten Tambrauw"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

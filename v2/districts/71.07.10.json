@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.07.10",
-    "name": "Tombatu Utara",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.07",
-      "name": "Kabupaten Minahasa Tenggara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.07.10","lat":1.0556592640991385,"lng":124.71366915277271,"name":"Tombatu Utara","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.07","name":"Kabupaten Minahasa Tenggara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

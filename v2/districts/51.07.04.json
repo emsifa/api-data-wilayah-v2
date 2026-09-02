@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "51.07.04",
-    "name": "Karangasem",
-    "province": {
-      "id": "51",
-      "name": "Bali"
-    },
-    "regency": {
-      "id": "51.07",
-      "name": "Kabupaten Karangasem"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"51.07.04","lat":-8.442824695772872,"lng":115.6315808073318,"name":"Karangasem","province":{"id":"51","name":"Bali"},"regency":{"id":"51.07","name":"Kabupaten Karangasem"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

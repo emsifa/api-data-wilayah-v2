@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "52.04.25",
-    "name": "Tarano",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
-    },
-    "regency": {
-      "id": "52.04",
-      "name": "Kabupaten Sumbawa"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"52.04.25","lat":-8.742935557707062,"lng":118.1480726828583,"name":"Tarano","province":{"id":"52","name":"Nusa Tenggara Barat"},"regency":{"id":"52.04","name":"Kabupaten Sumbawa"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

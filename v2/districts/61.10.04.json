@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.10.04",
-    "name": "Menukung",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.10",
-      "name": "Kabupaten Melawi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.10.04","lat":-0.4540331407569705,"lng":112.29390154408406,"name":"Menukung","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.10","name":"Kabupaten Melawi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.06.09",
-    "name": "Bojongasih",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.06",
-      "name": "Kabupaten Tasikmalaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.06.09","lat":-7.554110573480862,"lng":108.12876448644575,"name":"Bojongasih","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.06","name":"Kabupaten Tasikmalaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

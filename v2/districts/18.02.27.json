@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.02.27",
-    "name": "Anak Ratu Aji",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.02",
-      "name": "Kabupaten Lampung Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.02.27","lat":-4.953222022104966,"lng":104.95290858426036,"name":"Anak Ratu Aji","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.02","name":"Kabupaten Lampung Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

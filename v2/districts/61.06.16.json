@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.06.16",
-    "name": "Silat Hulu",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.06",
-      "name": "Kabupaten Kapuas Hulu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.06.16","lat":0.19558165603116626,"lng":112.2277152629225,"name":"Silat Hulu","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.06","name":"Kabupaten Kapuas Hulu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

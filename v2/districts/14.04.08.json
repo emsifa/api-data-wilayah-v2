@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.04.08",
-    "name": "Kateman",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.04",
-      "name": "Kabupaten Indragiri Hilir"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.04.08","lat":0.2274074618428299,"lng":103.65207246433698,"name":"Kateman","province":{"id":"14","name":"Riau"},"regency":{"id":"14.04","name":"Kabupaten Indragiri Hilir"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

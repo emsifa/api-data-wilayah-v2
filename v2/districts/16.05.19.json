@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.05.19",
-    "name": "Sumber Harta",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.05",
-      "name": "Kabupaten Musi Rawas"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.05.19","lat":-3.032989703510587,"lng":102.95114450200752,"name":"Sumber Harta","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.05","name":"Kabupaten Musi Rawas"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

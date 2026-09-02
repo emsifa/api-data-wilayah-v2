@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "62.06.04",
-    "name": "Pulau Malan",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
-    },
-    "regency": {
-      "id": "62.06",
-      "name": "Kabupaten Katingan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"62.06.04","lat":-1.5822165152092433,"lng":113.25974879439809,"name":"Pulau Malan","province":{"id":"62","name":"Kalimantan Tengah"},"regency":{"id":"62.06","name":"Kabupaten Katingan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

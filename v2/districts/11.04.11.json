@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.04.11",
-    "name": "Kebayakan",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.04",
-      "name": "Kabupaten Aceh Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.04.11","lat":4.64693562006682,"lng":96.87613520248341,"name":"Kebayakan","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.04","name":"Kabupaten Aceh Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

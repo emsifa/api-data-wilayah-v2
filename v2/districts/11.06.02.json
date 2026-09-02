@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.06.02",
-    "name": "Lhoknga",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.06",
-      "name": "Kabupaten Aceh Besar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.06.02","lat":5.471103699077508,"lng":95.26398160505508,"name":"Lhoknga","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.06","name":"Kabupaten Aceh Besar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.10.02",
-    "name": "Kotabunan",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.10",
-      "name": "Kabupaten Bolaang Mongondow Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.10.02","lat":0.870737958384579,"lng":124.62621161028363,"name":"Kotabunan","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.10","name":"Kabupaten Bolaang Mongondow Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

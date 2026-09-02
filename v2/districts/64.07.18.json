@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "64.07.18",
-    "name": "Mook Manaar Bulatn",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
-    },
-    "regency": {
-      "id": "64.07",
-      "name": "Kabupaten Kutai Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"64.07.18","lat":-0.05492488522137595,"lng":115.87927026858522,"name":"Mook Manaar Bulatn","province":{"id":"64","name":"Kalimantan Timur"},"regency":{"id":"64.07","name":"Kabupaten Kutai Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

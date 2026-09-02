@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.02.18",
-    "name": "Jenangan",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.02",
-      "name": "Kabupaten Ponorogo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.02.18","lat":-7.832511828966561,"lng":111.54817087264864,"name":"Jenangan","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.02","name":"Kabupaten Ponorogo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

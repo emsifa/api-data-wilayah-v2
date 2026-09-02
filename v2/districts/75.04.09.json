@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "75.04.09",
-    "name": "Buntulia",
-    "province": {
-      "id": "75",
-      "name": "Gorontalo"
-    },
-    "regency": {
-      "id": "75.04",
-      "name": "Kabupaten Pohuwato"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"75.04.09","lat":0.6972572959238403,"lng":121.9899278174558,"name":"Buntulia","province":{"id":"75","name":"Gorontalo"},"regency":{"id":"75.04","name":"Kabupaten Pohuwato"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

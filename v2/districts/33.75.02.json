@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.75.02",
-    "name": "Pekalongan Timur",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.75",
-      "name": "Kota Pekalongan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.75.02","lat":-6.894522902639628,"lng":109.6891129610039,"name":"Pekalongan Timur","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.75","name":"Kota Pekalongan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

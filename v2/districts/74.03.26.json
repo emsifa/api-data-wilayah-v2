@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.03.26",
-    "name": "Bone",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.03",
-      "name": "Kabupaten Muna"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.03.26","lat":-5.165509821081008,"lng":122.43055408605998,"name":"Bone","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.03","name":"Kabupaten Muna"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

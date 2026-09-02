@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.18.13",
-    "name": "Sangalla'",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.18",
-      "name": "Kabupaten Tana Toraja"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.18.13","lat":-3.0950175099553268,"lng":119.90195860253985,"name":"Sangalla'","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.18","name":"Kabupaten Tana Toraja"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

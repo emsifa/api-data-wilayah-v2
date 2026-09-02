@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.08.31",
-    "name": "Sindangagung",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.08",
-      "name": "Kabupaten Kuningan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.08.31","lat":-6.9715882587132985,"lng":108.5312585340122,"name":"Sindangagung","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.08","name":"Kabupaten Kuningan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

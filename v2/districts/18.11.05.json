@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.11.05",
-    "name": "Simpang Pematang",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.11",
-      "name": "Kabupaten Mesuji"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.11.05","lat":-3.9715005385399684,"lng":105.19554112029269,"name":"Simpang Pematang","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.11","name":"Kabupaten Mesuji"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

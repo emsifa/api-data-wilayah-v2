@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.02.28",
-    "name": "Fautmolo",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.02",
-      "name": "Kabupaten Timor Tengah Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.02.28","lat":-9.781036684467654,"lng":124.56828372702377,"name":"Fautmolo","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.02","name":"Kabupaten Timor Tengah Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

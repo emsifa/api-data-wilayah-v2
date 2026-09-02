@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.21.10",
-    "name": "Kobalima Timur",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.21",
-      "name": "Kabupaten Malaka"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.21.10","lat":-9.387820233733255,"lng":125.03664958714903,"name":"Kobalima Timur","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.21","name":"Kabupaten Malaka"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.07.15",
-    "name": "Kalibawang",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.07",
-      "name": "Kabupaten Wonosobo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.07.15","lat":-7.501876255756284,"lng":109.92561925773593,"name":"Kalibawang","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.07","name":"Kabupaten Wonosobo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.08.05",
-    "name": "Ndona",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.08",
-      "name": "Kabupaten Ende"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.08.05","lat":-8.837231582601747,"lng":121.74136925642902,"name":"Ndona","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.08","name":"Kabupaten Ende"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

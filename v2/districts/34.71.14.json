@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "34.71.14",
-    "name": "Kotagede",
-    "province": {
-      "id": "34",
-      "name": "Daerah Istimewa Yogyakarta"
-    },
-    "regency": {
-      "id": "34.71",
-      "name": "Kota Yogyakarta"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"34.71.14","lat":-7.818640127069969,"lng":110.39878839966228,"name":"Kotagede","province":{"id":"34","name":"Daerah Istimewa Yogyakarta"},"regency":{"id":"34.71","name":"Kota Yogyakarta"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

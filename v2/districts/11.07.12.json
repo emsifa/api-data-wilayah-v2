@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.07.12",
-    "name": "Muara Tiga",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.07",
-      "name": "Kabupaten Pidie"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.07.12","lat":5.500205761684011,"lng":95.80240656211635,"name":"Muara Tiga","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.07","name":"Kabupaten Pidie"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

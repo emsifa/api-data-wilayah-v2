@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.11.09",
-    "name": "Saling",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.11",
-      "name": "Kabupaten Empat Lawang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.11.09","lat":-3.5103532486755933,"lng":103.02039781798298,"name":"Saling","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.11","name":"Kabupaten Empat Lawang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

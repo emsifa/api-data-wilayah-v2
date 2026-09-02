@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.10.13",
-    "name": "Karangdowo",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.10",
-      "name": "Kabupaten Klaten"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.10.13","lat":-7.706474213445385,"lng":110.74441280798986,"name":"Karangdowo","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.10","name":"Kabupaten Klaten"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.06.32",
-    "name": "Cisayong",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.06",
-      "name": "Kabupaten Tasikmalaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.06.32","lat":-7.242330278918924,"lng":108.13258486292146,"name":"Cisayong","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.06","name":"Kabupaten Tasikmalaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

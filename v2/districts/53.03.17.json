@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.03.17",
-    "name": "Bikomi Utara",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.03",
-      "name": "Kabupaten Timor Tengah Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.03.17","lat":-9.37362533973675,"lng":124.41868263407216,"name":"Bikomi Utara","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.03","name":"Kabupaten Timor Tengah Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

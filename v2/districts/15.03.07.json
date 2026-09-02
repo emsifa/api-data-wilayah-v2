@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.03.07",
-    "name": "Air Hitam",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.03",
-      "name": "Kabupaten Sarolangun"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.03.07","lat":-2.0063287311943308,"lng":102.64878819638838,"name":"Air Hitam","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.03","name":"Kabupaten Sarolangun"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

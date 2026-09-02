@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.14.19",
-    "name": "Ulunoyo",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.14",
-      "name": "Kabupaten Nias Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.14.19","lat":0.8914230406227194,"lng":97.67949647275482,"name":"Ulunoyo","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.14","name":"Kabupaten Nias Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

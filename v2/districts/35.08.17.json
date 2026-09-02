@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.08.17",
-    "name": "Jatiroto",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.08",
-      "name": "Kabupaten Lumajang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.08.17","lat":-8.12827001419911,"lng":113.33138746014907,"name":"Jatiroto","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.08","name":"Kabupaten Lumajang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

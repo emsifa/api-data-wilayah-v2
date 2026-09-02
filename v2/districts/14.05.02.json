@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.05.02",
-    "name": "Pangkalan Kerinci",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.05",
-      "name": "Kabupaten Pelalawan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.05.02","lat":0.34773983928857205,"lng":101.8394964133918,"name":"Pangkalan Kerinci","province":{"id":"14","name":"Riau"},"regency":{"id":"14.05","name":"Kabupaten Pelalawan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

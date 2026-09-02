@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.07.27",
-    "name": "Ngantang",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.07",
-      "name": "Kabupaten Malang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.07.27","lat":-7.892718173212576,"lng":112.37525696124368,"name":"Ngantang","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.07","name":"Kabupaten Malang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

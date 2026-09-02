@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.06.03",
-    "name": "Kras",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.06",
-      "name": "Kabupaten Kediri"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.06.03","lat":-7.963647125536527,"lng":111.97820666670357,"name":"Kras","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.06","name":"Kabupaten Kediri"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

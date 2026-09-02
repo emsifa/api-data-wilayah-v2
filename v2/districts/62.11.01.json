@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "62.11.01",
-    "name": "Pandih Batu",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
-    },
-    "regency": {
-      "id": "62.11",
-      "name": "Kabupaten Pulang Pisau"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"62.11.01","lat":-3.0807505470208763,"lng":114.09586489942087,"name":"Pandih Batu","province":{"id":"62","name":"Kalimantan Tengah"},"regency":{"id":"62.11","name":"Kabupaten Pulang Pisau"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

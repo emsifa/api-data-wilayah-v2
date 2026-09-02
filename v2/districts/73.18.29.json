@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.18.29",
-    "name": "Makale Selatan",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.18",
-      "name": "Kabupaten Tana Toraja"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.18.29","lat":-3.1622236750741033,"lng":119.80271283237855,"name":"Makale Selatan","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.18","name":"Kabupaten Tana Toraja"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.71.03",
-    "name": "Sail",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.71",
-      "name": "Kota Pekanbaru"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.71.03","lat":0.5158287019564824,"lng":101.45950268286603,"name":"Sail","province":{"id":"14","name":"Riau"},"regency":{"id":"14.71","name":"Kota Pekanbaru"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

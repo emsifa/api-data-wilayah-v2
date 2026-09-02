@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.71.06",
-    "name": "Danau Teluk",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.71",
-      "name": "Kota Jambi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.71.06","lat":-1.571709893882462,"lng":103.59289309293739,"name":"Danau Teluk","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.71","name":"Kota Jambi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

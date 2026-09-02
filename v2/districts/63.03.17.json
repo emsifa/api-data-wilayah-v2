@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.03.17",
-    "name": "Paramasan",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.03",
-      "name": "Kabupaten Banjar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.03.17","lat":-3.0174156113668067,"lng":115.42637549112331,"name":"Paramasan","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.03","name":"Kabupaten Banjar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

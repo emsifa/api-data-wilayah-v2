@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.01.03",
-    "name": "Pandan",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.01",
-      "name": "Kabupaten Tapanuli Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.01.03","lat":1.6918585119530372,"lng":98.84236741448073,"name":"Pandan","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.01","name":"Kabupaten Tapanuli Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

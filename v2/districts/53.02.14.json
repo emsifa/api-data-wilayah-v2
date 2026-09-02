@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.02.14",
-    "name": "Batu Putih",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.02",
-      "name": "Kabupaten Timor Tengah Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.02.14","lat":-9.939423734853321,"lng":124.18062913801451,"name":"Batu Putih","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.02","name":"Kabupaten Timor Tengah Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.04.10",
-    "name": "Sumbergempol",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.04",
-      "name": "Kabupaten Tulungagung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.04.10","lat":-8.101341036042037,"lng":111.95398314815304,"name":"Sumbergempol","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.04","name":"Kabupaten Tulungagung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

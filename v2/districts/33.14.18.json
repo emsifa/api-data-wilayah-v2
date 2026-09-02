@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.14.18",
-    "name": "Gesi",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.14",
-      "name": "Kabupaten Sragen"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.14.18","lat":-7.3285727666483,"lng":111.00705260059493,"name":"Gesi","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.14","name":"Kabupaten Sragen"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

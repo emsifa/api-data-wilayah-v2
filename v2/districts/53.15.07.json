@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.15.07",
-    "name": "Welak",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.15",
-      "name": "Kabupaten Manggarai Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.15.07","lat":-8.621491890684368,"lng":120.20302382254381,"name":"Welak","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.15","name":"Kabupaten Manggarai Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

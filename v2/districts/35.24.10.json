@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.24.10",
-    "name": "Maduran",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.24",
-      "name": "Kabupaten Lamongan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.24.10","lat":-7.0096500528014465,"lng":112.27718370585194,"name":"Maduran","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.24","name":"Kabupaten Lamongan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

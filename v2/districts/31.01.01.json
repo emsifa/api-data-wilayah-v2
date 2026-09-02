@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "31.01.01",
-    "name": "Kepulauan Seribu Utara",
-    "province": {
-      "id": "31",
-      "name": "Daerah Khusus Ibukota Jakarta"
-    },
-    "regency": {
-      "id": "31.01",
-      "name": "Kabupaten Administrasi Kepulauan Seribu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"31.01.01","lat":-5.580134480445578,"lng":106.55358267845662,"name":"Kepulauan Seribu Utara","province":{"id":"31","name":"Daerah Khusus Ibukota Jakarta"},"regency":{"id":"31.01","name":"Kabupaten Administrasi Kepulauan Seribu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

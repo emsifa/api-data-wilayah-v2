@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.07.07",
-    "name": "Batang Alai Selatan",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.07",
-      "name": "Kabupaten Hulu Sungai Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.07.07","lat":-2.559812381844855,"lng":115.46174474475623,"name":"Batang Alai Selatan","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.07","name":"Kabupaten Hulu Sungai Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

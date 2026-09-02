@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.04.21",
-    "name": "Batu Ketulis",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.04",
-      "name": "Kabupaten Lampung Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.04.21","lat":-5.010495187252834,"lng":104.25007747160316,"name":"Batu Ketulis","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.04","name":"Kabupaten Lampung Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

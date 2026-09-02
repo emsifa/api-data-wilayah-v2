@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.22.05",
-    "name": "Pabelan",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.22",
-      "name": "Kabupaten Semarang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.22.05","lat":-7.304763071867408,"lng":110.54351206660628,"name":"Pabelan","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.22","name":"Kabupaten Semarang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

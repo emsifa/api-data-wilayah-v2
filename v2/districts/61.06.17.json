@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.06.17",
-    "name": "Putussibau Selatan",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.06",
-      "name": "Kabupaten Kapuas Hulu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.06.17","lat":0.922487277395754,"lng":113.6372159506155,"name":"Putussibau Selatan","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.06","name":"Kabupaten Kapuas Hulu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

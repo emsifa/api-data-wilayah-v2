@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "19.06.01",
-    "name": "Manggar",
-    "province": {
-      "id": "19",
-      "name": "Kepulauan Bangka Belitung"
-    },
-    "regency": {
-      "id": "19.06",
-      "name": "Kabupaten Belitung Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"19.06.01","lat":-2.8436990652261565,"lng":108.19780930300132,"name":"Manggar","province":{"id":"19","name":"Kepulauan Bangka Belitung"},"regency":{"id":"19.06","name":"Kabupaten Belitung Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

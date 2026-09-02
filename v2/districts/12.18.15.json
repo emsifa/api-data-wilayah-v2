@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.18.15",
-    "name": "Sei Bamban",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.18",
-      "name": "Kabupaten Serdang Bedagai"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.18.15","lat":3.425500281587736,"lng":99.15219256742978,"name":"Sei Bamban","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.18","name":"Kabupaten Serdang Bedagai"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

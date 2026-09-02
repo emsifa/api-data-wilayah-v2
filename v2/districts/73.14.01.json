@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.14.01",
-    "name": "Panca Lautang",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.14",
-      "name": "Kabupaten Sidenreng Rappang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.14.01","lat":-4.072265317305073,"lng":119.82490619473442,"name":"Panca Lautang","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.14","name":"Kabupaten Sidenreng Rappang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

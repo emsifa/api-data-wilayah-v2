@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.21.07",
-    "name": "Sasitamean",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.21",
-      "name": "Kabupaten Malaka"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.21.07","lat":-9.493976279683853,"lng":124.82453025065139,"name":"Sasitamean","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.21","name":"Kabupaten Malaka"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

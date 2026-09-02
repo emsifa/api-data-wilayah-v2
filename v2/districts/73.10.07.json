@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.10.07",
-    "name": "Labakkang",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.10",
-      "name": "Kabupaten Pangkajene dan Kepulauan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.10.07","lat":-4.760773642792131,"lng":119.55416521114464,"name":"Labakkang","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.10","name":"Kabupaten Pangkajene dan Kepulauan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

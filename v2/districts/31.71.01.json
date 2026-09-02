@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "31.71.01",
-    "name": "Gambir",
-    "province": {
-      "id": "31",
-      "name": "Daerah Khusus Ibukota Jakarta"
-    },
-    "regency": {
-      "id": "31.71",
-      "name": "Kota Administrasi Jakarta Pusat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"31.71.01","lat":-6.171453896602028,"lng":106.8181279227156,"name":"Gambir","province":{"id":"31","name":"Daerah Khusus Ibukota Jakarta"},"regency":{"id":"31.71","name":"Kota Administrasi Jakarta Pusat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

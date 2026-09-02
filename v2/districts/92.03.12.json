@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "92.03.12",
-    "name": "Fakfak Timur Tengah",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
-    },
-    "regency": {
-      "id": "92.03",
-      "name": "Kabupaten Fak Fak"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"92.03.12","lat":-2.9700158796619505,"lng":132.57777403586786,"name":"Fakfak Timur Tengah","province":{"id":"92","name":"Papua Barat"},"regency":{"id":"92.03","name":"Kabupaten Fak Fak"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

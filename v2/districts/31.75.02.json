@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "31.75.02",
-    "name": "Pulogadung",
-    "province": {
-      "id": "31",
-      "name": "Daerah Khusus Ibukota Jakarta"
-    },
-    "regency": {
-      "id": "31.75",
-      "name": "Kota Administrasi Jakarta Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"31.75.02","lat":-6.19319900131276,"lng":106.88900534779202,"name":"Pulogadung","province":{"id":"31","name":"Daerah Khusus Ibukota Jakarta"},"regency":{"id":"31.75","name":"Kota Administrasi Jakarta Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

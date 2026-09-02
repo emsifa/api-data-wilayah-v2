@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.08.13",
-    "name": "Buay Bahuga",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.08",
-      "name": "Kabupaten Way Kanan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.08.13","lat":-4.286929193829685,"lng":104.55144035449916,"name":"Buay Bahuga","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.08","name":"Kabupaten Way Kanan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

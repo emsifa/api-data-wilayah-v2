@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "92.06.01",
-    "name": "Bintuni",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
-    },
-    "regency": {
-      "id": "92.06",
-      "name": "Kabupaten Teluk Bintuni"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"92.06.01","lat":-2.0863602172391724,"lng":133.5122580530663,"name":"Bintuni","province":{"id":"92","name":"Papua Barat"},"regency":{"id":"92.06","name":"Kabupaten Teluk Bintuni"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

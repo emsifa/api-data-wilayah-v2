@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.18.12",
-    "name": "Mengkendek",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.18",
-      "name": "Kabupaten Tana Toraja"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.18.12","lat":-3.2218776037947974,"lng":119.93685431976354,"name":"Mengkendek","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.18","name":"Kabupaten Tana Toraja"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

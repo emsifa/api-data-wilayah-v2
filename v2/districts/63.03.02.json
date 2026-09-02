@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.03.02",
-    "name": "Kertak Hanyar",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.03",
-      "name": "Kabupaten Banjar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.03.02","lat":-3.3751035969326635,"lng":114.63518204344284,"name":"Kertak Hanyar","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.03","name":"Kabupaten Banjar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

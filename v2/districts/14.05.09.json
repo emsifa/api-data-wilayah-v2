@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.05.09",
-    "name": "Teluk Meranti",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.05",
-      "name": "Kabupaten Pelalawan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.05.09","lat":0.3682446784880316,"lng":102.68342547361819,"name":"Teluk Meranti","province":{"id":"14","name":"Riau"},"regency":{"id":"14.05","name":"Kabupaten Pelalawan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

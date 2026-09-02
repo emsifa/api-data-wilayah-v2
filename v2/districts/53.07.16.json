@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.07.16",
-    "name": "Koting",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.07",
-      "name": "Kabupaten Sikka"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.07.16","lat":-8.688094824293367,"lng":122.19716326503988,"name":"Koting","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.07","name":"Kabupaten Sikka"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

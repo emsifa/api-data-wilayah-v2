@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.03.25",
-    "name": "Walma",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.03",
-      "name": "Kabupaten Yahukimo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.03.25","lat":-4.260740323219976,"lng":139.40730643101398,"name":"Walma","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.03","name":"Kabupaten Yahukimo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

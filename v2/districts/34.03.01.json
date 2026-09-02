@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "34.03.01",
-    "name": "Wonosari",
-    "province": {
-      "id": "34",
-      "name": "Daerah Istimewa Yogyakarta"
-    },
-    "regency": {
-      "id": "34.03",
-      "name": "Kabupaten Gunungkidul"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"34.03.01","lat":-7.977600725087336,"lng":110.5907709370838,"name":"Wonosari","province":{"id":"34","name":"Daerah Istimewa Yogyakarta"},"regency":{"id":"34.03","name":"Kabupaten Gunungkidul"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

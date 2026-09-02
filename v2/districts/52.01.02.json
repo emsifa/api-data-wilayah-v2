@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "52.01.02",
-    "name": "Kediri",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
-    },
-    "regency": {
-      "id": "52.01",
-      "name": "Kabupaten Lombok Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"52.01.02","lat":-8.645051059202958,"lng":116.14241573169522,"name":"Kediri","province":{"id":"52","name":"Nusa Tenggara Barat"},"regency":{"id":"52.01","name":"Kabupaten Lombok Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

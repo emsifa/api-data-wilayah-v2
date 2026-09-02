@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.02.10",
-    "name": "KI'E",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.02",
-      "name": "Kabupaten Timor Tengah Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.02.10","lat":-9.856494599061184,"lng":124.54445399551825,"name":"KI'E","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.02","name":"Kabupaten Timor Tengah Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

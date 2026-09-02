@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.73.22",
-    "name": "Buahbatu",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.73",
-      "name": "Kota Bandung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.73.22","lat":-6.950136153921217,"lng":107.65586156519139,"name":"Buahbatu","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.73","name":"Kota Bandung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

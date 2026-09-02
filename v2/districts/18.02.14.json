@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.02.14",
-    "name": "Bumi Ratu Nuban",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.02",
-      "name": "Kabupaten Lampung Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.02.14","lat":-5.087889613218328,"lng":105.207626703637,"name":"Bumi Ratu Nuban","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.02","name":"Kabupaten Lampung Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

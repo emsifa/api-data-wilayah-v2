@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.16.14",
-    "name": "Gedeg",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.16",
-      "name": "Kabupaten Mojokerto"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.16.14","lat":-7.4432628330834385,"lng":112.40075065485773,"name":"Gedeg","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.16","name":"Kabupaten Mojokerto"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

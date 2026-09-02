@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.11.06",
-    "name": "Lalolae",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.11",
-      "name": "Kabupaten Kolaka Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.11.06","lat":-4.014373881476609,"lng":121.79024417167382,"name":"Lalolae","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.11","name":"Kabupaten Kolaka Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

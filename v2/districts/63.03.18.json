@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.03.18",
-    "name": "Telaga Bauntung",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.03",
-      "name": "Kabupaten Banjar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.03.18","lat":-3.095051149285721,"lng":115.23094743369748,"name":"Telaga Bauntung","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.03","name":"Kabupaten Banjar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

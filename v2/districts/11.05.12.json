@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.05.12",
-    "name": "Panton Reu",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.05",
-      "name": "Kabupaten Aceh Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.05.12","lat":4.433641967431559,"lng":96.20435962768991,"name":"Panton Reu","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.05","name":"Kabupaten Aceh Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

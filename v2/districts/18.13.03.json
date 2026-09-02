@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.13.03",
-    "name": "Lemong",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.13",
-      "name": "Kabupaten Pesisir Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.13.03","lat":-4.9026862622328276,"lng":103.75409234422713,"name":"Lemong","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.13","name":"Kabupaten Pesisir Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

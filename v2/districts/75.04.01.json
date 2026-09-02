@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "75.04.01",
-    "name": "Popayato",
-    "province": {
-      "id": "75",
-      "name": "Gorontalo"
-    },
-    "regency": {
-      "id": "75.04",
-      "name": "Kabupaten Pohuwato"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"75.04.01","lat":0.5315387369504087,"lng":121.45182372005233,"name":"Popayato","province":{"id":"75","name":"Gorontalo"},"regency":{"id":"75.04","name":"Kabupaten Pohuwato"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

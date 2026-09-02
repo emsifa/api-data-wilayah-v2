@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "51.71.03",
-    "name": "Denpasar Barat",
-    "province": {
-      "id": "51",
-      "name": "Bali"
-    },
-    "regency": {
-      "id": "51.71",
-      "name": "Kota Denpasar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"51.71.03","lat":-8.665151360156955,"lng":115.19319930025091,"name":"Denpasar Barat","province":{"id":"51","name":"Bali"},"regency":{"id":"51.71","name":"Kota Denpasar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

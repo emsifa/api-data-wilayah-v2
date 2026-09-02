@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "13.10.01",
-    "name": "Koto Baru",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
-    },
-    "regency": {
-      "id": "13.10",
-      "name": "Kabupaten Dharmasraya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"13.10.01","lat":-1.1128514824103068,"lng":101.67561831007411,"name":"Koto Baru","province":{"id":"13","name":"Sumatera Barat"},"regency":{"id":"13.10","name":"Kabupaten Dharmasraya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

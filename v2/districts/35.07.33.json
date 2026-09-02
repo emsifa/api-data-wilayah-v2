@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.07.33",
-    "name": "Pagelaran",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.07",
-      "name": "Kabupaten Malang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.07.33","lat":-8.198761621829734,"lng":112.60421033653505,"name":"Pagelaran","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.07","name":"Kabupaten Malang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

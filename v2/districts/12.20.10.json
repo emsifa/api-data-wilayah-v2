@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.20.10",
-    "name": "Padang Bolak Tenggara",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.20",
-      "name": "Kabupaten Padang Lawas Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.20.10","lat":1.4014380679393181,"lng":99.57209102274417,"name":"Padang Bolak Tenggara","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.20","name":"Kabupaten Padang Lawas Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

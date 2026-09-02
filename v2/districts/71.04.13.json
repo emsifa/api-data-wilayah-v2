@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.04.13",
-    "name": "Miangas",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.04",
-      "name": "Kabupaten Kepulauan Talaud"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.04.13","lat":5.557455701263763,"lng":126.5831438147669,"name":"Miangas","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.04","name":"Kabupaten Kepulauan Talaud"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

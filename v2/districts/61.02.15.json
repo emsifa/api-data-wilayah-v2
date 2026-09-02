@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.02.15",
-    "name": "Segedong",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.02",
-      "name": "Kabupaten Mempawah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.02.15","lat":0.18541859634903607,"lng":109.253001382616,"name":"Segedong","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.02","name":"Kabupaten Mempawah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

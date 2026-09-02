@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "21.05.05",
-    "name": "Jemaja Timur",
-    "province": {
-      "id": "21",
-      "name": "Kepulauan Riau"
-    },
-    "regency": {
-      "id": "21.05",
-      "name": "Kabupaten Kepulauan Anambas"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"21.05.05","lat":2.9193265680005562,"lng":105.76867840329156,"name":"Jemaja Timur","province":{"id":"21","name":"Kepulauan Riau"},"regency":{"id":"21.05","name":"Kabupaten Kepulauan Anambas"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

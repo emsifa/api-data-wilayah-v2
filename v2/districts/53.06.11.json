@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.06.11",
-    "name": "Kelubagolit",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.06",
-      "name": "Kabupaten Flores Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.06.11","lat":-8.283552423018728,"lng":123.23267154567512,"name":"Kelubagolit","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.06","name":"Kabupaten Flores Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

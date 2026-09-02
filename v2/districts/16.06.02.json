@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.06.02",
-    "name": "Lais",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.06",
-      "name": "Kabupaten Musi Banyuasin"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.06.02","lat":-2.9061925493964385,"lng":104.06242319680679,"name":"Lais","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.06","name":"Kabupaten Musi Banyuasin"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

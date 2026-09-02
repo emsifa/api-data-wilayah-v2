@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.75.10",
-    "name": "Jatisampurna",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.75",
-      "name": "Kota Bekasi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.75.10","lat":-6.3654333246446475,"lng":106.92487692786389,"name":"Jatisampurna","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.75","name":"Kota Bekasi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

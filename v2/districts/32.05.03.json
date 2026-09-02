@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.05.03",
-    "name": "Wanaraja",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.05",
-      "name": "Kabupaten Garut"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.05.03","lat":-7.188732346933726,"lng":108.00827173522528,"name":"Wanaraja","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.05","name":"Kabupaten Garut"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

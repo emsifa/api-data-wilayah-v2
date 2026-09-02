@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.71.19",
-    "name": "Medan Petisah",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.71",
-      "name": "Kota Medan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.71.19","lat":3.5923209455936487,"lng":98.65983747070192,"name":"Medan Petisah","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.71","name":"Kota Medan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

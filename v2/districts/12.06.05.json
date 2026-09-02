@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.06.05",
-    "name": "Merek",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.06",
-      "name": "Kabupaten Karo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.06.05","lat":2.9423907699020955,"lng":98.49252856980505,"name":"Merek","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.06","name":"Kabupaten Karo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

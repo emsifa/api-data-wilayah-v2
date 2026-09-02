@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.05.15",
-    "name": "Teluk Waru",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.05",
-      "name": "Kabupaten Seram Bagian Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.05.15","lat":-3.3855885296136976,"lng":130.592987625439,"name":"Teluk Waru","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.05","name":"Kabupaten Seram Bagian Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

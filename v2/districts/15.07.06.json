@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.07.06",
-    "name": "Dendang",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.07",
-      "name": "Kabupaten Tanjung Jabung Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.07.06","lat":-1.2497939120143524,"lng":103.93482677633689,"name":"Dendang","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.07","name":"Kabupaten Tanjung Jabung Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

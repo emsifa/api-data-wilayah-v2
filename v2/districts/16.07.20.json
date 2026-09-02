@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.07.20",
-    "name": "Karang Agung Ilir",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.07",
-      "name": "Kabupaten Banyuasin"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.07.20","lat":-2.2522979206779965,"lng":104.70109237402094,"name":"Karang Agung Ilir","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.07","name":"Kabupaten Banyuasin"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

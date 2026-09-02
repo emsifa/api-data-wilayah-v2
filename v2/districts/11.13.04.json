@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.13.04",
-    "name": "Terangun",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.13",
-      "name": "Kabupaten Gayo Lues"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.13.04","lat":4.043746641833256,"lng":96.92138871452644,"name":"Terangun","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.13","name":"Kabupaten Gayo Lues"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

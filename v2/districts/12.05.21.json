@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.05.21",
-    "name": "Sirapit",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.05",
-      "name": "Kabupaten Langkat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.05.21","lat":3.581301382098595,"lng":98.30191597449961,"name":"Sirapit","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.05","name":"Kabupaten Langkat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

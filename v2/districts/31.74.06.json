@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "31.74.06",
-    "name": "Cilandak",
-    "province": {
-      "id": "31",
-      "name": "Daerah Khusus Ibukota Jakarta"
-    },
-    "regency": {
-      "id": "31.74",
-      "name": "Kota Administrasi Jakarta Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"31.74.06","lat":-6.2926711592312525,"lng":106.79333338631108,"name":"Cilandak","province":{"id":"31","name":"Daerah Khusus Ibukota Jakarta"},"regency":{"id":"31.74","name":"Kota Administrasi Jakarta Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

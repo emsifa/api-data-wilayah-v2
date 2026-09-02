@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "51.04.07",
-    "name": "Payangan",
-    "province": {
-      "id": "51",
-      "name": "Bali"
-    },
-    "regency": {
-      "id": "51.04",
-      "name": "Kabupaten Gianyar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"51.04.07","lat":-8.385530249274108,"lng":115.25662483578968,"name":"Payangan","province":{"id":"51","name":"Bali"},"regency":{"id":"51.04","name":"Kabupaten Gianyar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

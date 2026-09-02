@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.05.22",
-    "name": "Rawa Pitu",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.05",
-      "name": "Kabupaten Tulang Bawang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.05.22","lat":-4.316338346930165,"lng":105.59287084116933,"name":"Rawa Pitu","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.05","name":"Kabupaten Tulang Bawang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

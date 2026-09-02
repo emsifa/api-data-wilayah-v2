@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.21.13",
-    "name": "Barumun Baru",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.21",
-      "name": "Kabupaten Padang Lawas"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.21.13","lat":1.0697465484308326,"lng":99.71045343694931,"name":"Barumun Baru","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.21","name":"Kabupaten Padang Lawas"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

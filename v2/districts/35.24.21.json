@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.24.21",
-    "name": "Turi",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.24",
-      "name": "Kabupaten Lamongan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.24.21","lat":-7.070960329007093,"lng":112.38642370477223,"name":"Turi","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.24","name":"Kabupaten Lamongan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

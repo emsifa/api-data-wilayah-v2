@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.71.04",
-    "name": "Wenang",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.71",
-      "name": "Kota Manado"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.71.04","lat":1.4857407743901374,"lng":124.84134119697896,"name":"Wenang","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.71","name":"Kota Manado"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.01.16",
-    "name": "Dayeuhluhur",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.01",
-      "name": "Kabupaten Cilacap"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.01.16","lat":-7.229554807320868,"lng":108.6133473845262,"name":"Dayeuhluhur","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.01","name":"Kabupaten Cilacap"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

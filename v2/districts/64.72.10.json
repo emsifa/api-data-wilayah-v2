@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "64.72.10",
-    "name": "Loa Janan Ilir",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
-    },
-    "regency": {
-      "id": "64.72",
-      "name": "Kota Samarinda"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"64.72.10","lat":-0.5595069544713444,"lng":117.11140963069752,"name":"Loa Janan Ilir","province":{"id":"64","name":"Kalimantan Timur"},"regency":{"id":"64.72","name":"Kota Samarinda"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

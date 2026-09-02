@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "52.71.01",
-    "name": "Ampenan",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
-    },
-    "regency": {
-      "id": "52.71",
-      "name": "Kota Mataram"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"52.71.01","lat":-8.570668354131113,"lng":116.08391419366852,"name":"Ampenan","province":{"id":"52","name":"Nusa Tenggara Barat"},"regency":{"id":"52.71","name":"Kota Mataram"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

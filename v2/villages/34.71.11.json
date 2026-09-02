@@ -1,18 +1,1 @@
-{
-  "data": [
-    {
-      "id": "34.71.11.1001",
-      "name": "Purwokinanti",
-      "postal_code": "55112"
-    },
-    {
-      "id": "34.71.11.1002",
-      "name": "Gunungketur",
-      "postal_code": "55111"
-    }
-  ],
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 4
-  }
-}
+{"data":[{"id":"34.71.11.1001","lat":-7.799157333245309,"lng":110.37355195758555,"name":"Purwokinanti","postal_code":"55112"},{"id":"34.71.11.1002","lat":-7.801007147555098,"lng":110.37788519472548,"name":"Gunungketur","postal_code":"55111"}],"meta":{"level":4,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.16.15",
-    "name": "Kemlagi",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.16",
-      "name": "Kabupaten Mojokerto"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.16.15","lat":-7.400423016423094,"lng":112.36840946050485,"name":"Kemlagi","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.16","name":"Kabupaten Mojokerto"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

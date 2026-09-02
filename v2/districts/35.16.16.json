@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.16.16",
-    "name": "Jetis",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.16",
-      "name": "Kabupaten Mojokerto"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.16.16","lat":-7.40440183856233,"lng":112.44542527488403,"name":"Jetis","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.16","name":"Kabupaten Mojokerto"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

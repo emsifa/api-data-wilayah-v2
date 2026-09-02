@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.01.20",
-    "name": "Gunung Sahilan",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.01",
-      "name": "Kabupaten Kampar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.01.20","lat":0.0411989910056596,"lng":101.30268244620744,"name":"Gunung Sahilan","province":{"id":"14","name":"Riau"},"regency":{"id":"14.01","name":"Kabupaten Kampar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

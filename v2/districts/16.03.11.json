@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.03.11",
-    "name": "Ujan Mas",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.03",
-      "name": "Kabupaten Muara Enim"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.03.11","lat":-3.53207846696787,"lng":103.70671674713701,"name":"Ujan Mas","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.03","name":"Kabupaten Muara Enim"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

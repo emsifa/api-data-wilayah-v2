@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "76.05.08",
-    "name": "Banggae Timur",
-    "province": {
-      "id": "76",
-      "name": "Sulawesi Barat"
-    },
-    "regency": {
-      "id": "76.05",
-      "name": "Kabupaten Majene"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"76.05.08","lat":-3.5131896645306147,"lng":118.96770236724781,"name":"Banggae Timur","province":{"id":"76","name":"Sulawesi Barat"},"regency":{"id":"76.05","name":"Kabupaten Majene"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

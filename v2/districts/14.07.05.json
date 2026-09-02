@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.07.05",
-    "name": "Bagansinembah",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.07",
-      "name": "Kabupaten Rokan Hilir"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.07.05","lat":1.650504910183632,"lng":100.44092236581575,"name":"Bagansinembah","province":{"id":"14","name":"Riau"},"regency":{"id":"14.07","name":"Kabupaten Rokan Hilir"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

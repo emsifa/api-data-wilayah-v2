@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.08.18",
-    "name": "Ajangale",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.08",
-      "name": "Kabupaten Bone"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.08.18","lat":-4.277074248252118,"lng":120.13061913920764,"name":"Ajangale","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.08","name":"Kabupaten Bone"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

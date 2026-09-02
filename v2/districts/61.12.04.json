@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.12.04",
-    "name": "Terentang",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.12",
-      "name": "Kabupaten Kubu Raya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.12.04","lat":-0.38954522711785444,"lng":109.76093934098064,"name":"Terentang","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.12","name":"Kabupaten Kubu Raya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

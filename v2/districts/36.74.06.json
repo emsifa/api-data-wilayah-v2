@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "36.74.06",
-    "name": "Pamulang",
-    "province": {
-      "id": "36",
-      "name": "Banten"
-    },
-    "regency": {
-      "id": "36.74",
-      "name": "Kota Tangerang Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"36.74.06","lat":-6.33953804680362,"lng":106.73909105342318,"name":"Pamulang","province":{"id":"36","name":"Banten"},"regency":{"id":"36.74","name":"Kota Tangerang Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

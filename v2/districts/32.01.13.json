@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.01.13",
-    "name": "Bojonggede",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.01",
-      "name": "Kabupaten Bogor"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.01.13","lat":-6.477401907953613,"lng":106.79273511489511,"name":"Bojonggede","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.01","name":"Kabupaten Bogor"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

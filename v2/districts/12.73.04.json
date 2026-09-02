@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.73.04",
-    "name": "Sibolga Sambas",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.73",
-      "name": "Kota Sibolga"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.73.04","lat":1.732852978507772,"lng":98.7865178499082,"name":"Sibolga Sambas","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.73","name":"Kota Sibolga"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

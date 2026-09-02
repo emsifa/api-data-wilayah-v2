@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.07.02",
-    "name": "Tanjung Morawa",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.07",
-      "name": "Kabupaten Deli Serdang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.07.02","lat":3.525315648779692,"lng":98.79835016930294,"name":"Tanjung Morawa","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.07","name":"Kabupaten Deli Serdang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

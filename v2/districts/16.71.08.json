@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.71.08",
-    "name": "Sako",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.71",
-      "name": "Kota Palembang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.71.08","lat":-2.920071627949345,"lng":104.78388676814681,"name":"Sako","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.71","name":"Kota Palembang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.16.07",
-    "name": "Aesesa Selatan",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.16",
-      "name": "Kabupaten Nagekeo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.16.07","lat":-8.664009332289726,"lng":121.2423180146339,"name":"Aesesa Selatan","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.16","name":"Kabupaten Nagekeo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

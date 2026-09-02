@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.08.05",
-    "name": "Tanah Sepenggal",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.08",
-      "name": "Kabupaten Bungo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.08.05","lat":-1.453540817390611,"lng":101.9534549407594,"name":"Tanah Sepenggal","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.08","name":"Kabupaten Bungo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.10.03",
-    "name": "Sungai Loban",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.10",
-      "name": "Kabupaten Tanah Bumbu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.10.03","lat":-3.6252947093272367,"lng":115.68206712896998,"name":"Sungai Loban","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.10","name":"Kabupaten Tanah Bumbu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

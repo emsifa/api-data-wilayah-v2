@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "21.71.04",
-    "name": "Nongsa",
-    "province": {
-      "id": "21",
-      "name": "Kepulauan Riau"
-    },
-    "regency": {
-      "id": "21.71",
-      "name": "Kota Batam"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"21.71.04","lat":1.105323438036192,"lng":104.12446560821593,"name":"Nongsa","province":{"id":"21","name":"Kepulauan Riau"},"regency":{"id":"21.71","name":"Kota Batam"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.03.05",
-    "name": "Pajukukang",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.03",
-      "name": "Kabupaten Bantaeng"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.03.05","lat":-5.552538044550506,"lng":120.04002820242384,"name":"Pajukukang","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.03","name":"Kabupaten Bantaeng"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

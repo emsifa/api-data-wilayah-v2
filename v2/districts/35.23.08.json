@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.23.08",
-    "name": "Kerek",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.23",
-      "name": "Kabupaten Tuban"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.23.08","lat":-6.8893167456582844,"lng":111.85335204053783,"name":"Kerek","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.23","name":"Kabupaten Tuban"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

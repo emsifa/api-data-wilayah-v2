@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "92.08.06",
-    "name": "Teluk Arguni Bawah",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
-    },
-    "regency": {
-      "id": "92.08",
-      "name": "Kabupaten Kaimana"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"92.08.06","lat":-3.2684790191751345,"lng":133.69169092646106,"name":"Teluk Arguni Bawah","province":{"id":"92","name":"Papua Barat"},"regency":{"id":"92.08","name":"Kabupaten Kaimana"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

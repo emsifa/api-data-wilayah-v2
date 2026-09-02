@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "13.02.03",
-    "name": "Pantai Cermin",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
-    },
-    "regency": {
-      "id": "13.02",
-      "name": "Kabupaten Solok"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"13.02.03","lat":-1.245012037830614,"lng":100.892386007858,"name":"Pantai Cermin","province":{"id":"13","name":"Sumatera Barat"},"regency":{"id":"13.02","name":"Kabupaten Solok"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

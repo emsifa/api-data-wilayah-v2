@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "93.04.04",
-    "name": "Akat",
-    "province": {
-      "id": "93",
-      "name": "Papua Selatan"
-    },
-    "regency": {
-      "id": "93.04",
-      "name": "Kabupaten Asmat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"93.04.04","lat":-5.3340306383097635,"lng":138.34231146741632,"name":"Akat","province":{"id":"93","name":"Papua Selatan"},"regency":{"id":"93.04","name":"Kabupaten Asmat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

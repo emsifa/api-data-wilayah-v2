@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.02.10",
-    "name": "Seputih Banyak",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.02",
-      "name": "Kabupaten Lampung Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.02.10","lat":-4.851286913531409,"lng":105.48387347974949,"name":"Seputih Banyak","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.02","name":"Kabupaten Lampung Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

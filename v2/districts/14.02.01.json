@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.02.01",
-    "name": "Rengat",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.02",
-      "name": "Kabupaten Indragiri Hulu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.02.01","lat":-0.21405353072196537,"lng":102.54464320860916,"name":"Rengat","province":{"id":"14","name":"Riau"},"regency":{"id":"14.02","name":"Kabupaten Indragiri Hulu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

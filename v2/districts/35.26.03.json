@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.26.03",
-    "name": "Burneh",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.26",
-      "name": "Kabupaten Bangkalan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.26.03","lat":-7.03342971970968,"lng":112.8041469679783,"name":"Burneh","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.26","name":"Kabupaten Bangkalan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

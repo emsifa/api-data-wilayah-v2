@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "17.04.07",
-    "name": "Nasal",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
-    },
-    "regency": {
-      "id": "17.04",
-      "name": "Kabupaten Kaur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"17.04.07","lat":-4.76784913204951,"lng":103.62371036514305,"name":"Nasal","province":{"id":"17","name":"Bengkulu"},"regency":{"id":"17.04","name":"Kabupaten Kaur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

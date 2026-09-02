@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.73.05",
-    "name": "Wara Timur",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.73",
-      "name": "Kota Palopo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.73.05","lat":-3.0031503716486654,"lng":120.20860799250389,"name":"Wara Timur","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.73","name":"Kota Palopo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

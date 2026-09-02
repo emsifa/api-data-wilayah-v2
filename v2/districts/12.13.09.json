@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.13.09",
-    "name": "Lembah Sorik Marapi",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.13",
-      "name": "Kabupaten Mandailing Natal"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.13.09","lat":0.7454627993681847,"lng":99.59927159075076,"name":"Lembah Sorik Marapi","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.13","name":"Kabupaten Mandailing Natal"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

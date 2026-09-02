@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "36.04.09",
-    "name": "Ciruas",
-    "province": {
-      "id": "36",
-      "name": "Banten"
-    },
-    "regency": {
-      "id": "36.04",
-      "name": "Kabupaten Serang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"36.04.09","lat":-6.100550655078056,"lng":106.24331122566849,"name":"Ciruas","province":{"id":"36","name":"Banten"},"regency":{"id":"36.04","name":"Kabupaten Serang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

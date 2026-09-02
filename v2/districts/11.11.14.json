@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.11.14",
-    "name": "Kuala",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.11",
-      "name": "Kabupaten Bireuen"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.11.14","lat":5.2302163019187935,"lng":96.71863932507746,"name":"Kuala","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.11","name":"Kabupaten Bireuen"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

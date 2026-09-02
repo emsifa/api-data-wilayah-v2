@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.73.03",
-    "name": "Argomulyo",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.73",
-      "name": "Kota Salatiga"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.73.03","lat":-7.364171491042083,"lng":110.49827478324738,"name":"Argomulyo","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.73","name":"Kota Salatiga"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

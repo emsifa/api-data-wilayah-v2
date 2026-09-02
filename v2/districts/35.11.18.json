@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.11.18",
-    "name": "Sumberwringin",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.11",
-      "name": "Kabupaten Bondowoso"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.11.18","lat":-8.005635742495974,"lng":114.03135889784414,"name":"Sumberwringin","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.11","name":"Kabupaten Bondowoso"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

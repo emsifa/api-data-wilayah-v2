@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.22.18",
-    "name": "Ungaran Barat",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.22",
-      "name": "Kabupaten Semarang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.22.18","lat":-7.140621118426167,"lng":110.3803639669427,"name":"Ungaran Barat","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.22","name":"Kabupaten Semarang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

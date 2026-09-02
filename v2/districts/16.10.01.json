@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.10.01",
-    "name": "Muara Kuang",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.10",
-      "name": "Kabupaten Ogan Ilir"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.10.01","lat":-3.6663319852341294,"lng":104.57727899585191,"name":"Muara Kuang","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.10","name":"Kabupaten Ogan Ilir"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

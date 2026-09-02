@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "31.73.01",
-    "name": "Cengkareng",
-    "province": {
-      "id": "31",
-      "name": "Daerah Khusus Ibukota Jakarta"
-    },
-    "regency": {
-      "id": "31.73",
-      "name": "Kota Administrasi Jakarta Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"31.73.01","lat":-6.151468872680602,"lng":106.73685127999504,"name":"Cengkareng","province":{"id":"31","name":"Daerah Khusus Ibukota Jakarta"},"regency":{"id":"31.73","name":"Kota Administrasi Jakarta Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

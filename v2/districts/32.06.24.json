@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.06.24",
-    "name": "Singaparna",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.06",
-      "name": "Kabupaten Tasikmalaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.06.24","lat":-7.349345246756868,"lng":108.1293241476893,"name":"Singaparna","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.06","name":"Kabupaten Tasikmalaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

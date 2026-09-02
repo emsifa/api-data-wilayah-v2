@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "13.71.04",
-    "name": "Padang Utara",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
-    },
-    "regency": {
-      "id": "13.71",
-      "name": "Kota Padang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"13.71.04","lat":-0.9131357773623485,"lng":100.35799152831883,"name":"Padang Utara","province":{"id":"13","name":"Sumatera Barat"},"regency":{"id":"13.71","name":"Kota Padang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

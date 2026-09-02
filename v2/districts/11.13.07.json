@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.13.07",
-    "name": "Puteri Betung",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.13",
-      "name": "Kabupaten Gayo Lues"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.13.07","lat":3.7900703062300103,"lng":97.52634692784264,"name":"Puteri Betung","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.13","name":"Kabupaten Gayo Lues"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.04.15",
-    "name": "Besuki",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.04",
-      "name": "Kabupaten Tulungagung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.04.15","lat":-8.23122118961171,"lng":111.77936930813412,"name":"Besuki","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.04","name":"Kabupaten Tulungagung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.22.03",
-    "name": "Susukan",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.22",
-      "name": "Kabupaten Semarang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.22.03","lat":-7.4093710220001,"lng":110.60029278415143,"name":"Susukan","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.22","name":"Kabupaten Semarang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

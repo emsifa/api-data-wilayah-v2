@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.02.13",
-    "name": "Rakit Kulim",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.02",
-      "name": "Kabupaten Indragiri Hulu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.02.13","lat":-0.5887451841933745,"lng":102.1635510065221,"name":"Rakit Kulim","province":{"id":"14","name":"Riau"},"regency":{"id":"14.02","name":"Kabupaten Indragiri Hulu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

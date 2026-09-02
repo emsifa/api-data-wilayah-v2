@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.06.12",
-    "name": "Semaka",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.06",
-      "name": "Kabupaten Tanggamus"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.06.12","lat":-5.4603873655656825,"lng":104.43862146627735,"name":"Semaka","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.06","name":"Kabupaten Tanggamus"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

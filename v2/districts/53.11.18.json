@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.11.18",
-    "name": "Lewa Tidahu",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.11",
-      "name": "Kabupaten Sumba Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.11.18","lat":-9.795235070623189,"lng":119.78642080523448,"name":"Lewa Tidahu","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.11","name":"Kabupaten Sumba Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

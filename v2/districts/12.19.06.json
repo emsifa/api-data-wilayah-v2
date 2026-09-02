@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.19.06",
-    "name": "Tanjung Tiram",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.19",
-      "name": "Kabupaten Batu Bara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.19.06","lat":3.2214516912481255,"lng":99.60189697672345,"name":"Tanjung Tiram","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.19","name":"Kabupaten Batu Bara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

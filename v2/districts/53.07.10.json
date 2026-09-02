@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.07.10",
-    "name": "Kewapante",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.07",
-      "name": "Kabupaten Sikka"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.07.10","lat":-8.66818300288754,"lng":122.29310680315136,"name":"Kewapante","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.07","name":"Kabupaten Sikka"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

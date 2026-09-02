@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.13.06",
-    "name": "Purwadadi",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.13",
-      "name": "Kabupaten Subang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.13.06","lat":-6.443620488382392,"lng":107.68382606119494,"name":"Purwadadi","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.13","name":"Kabupaten Subang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

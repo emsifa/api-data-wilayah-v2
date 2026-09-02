@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.20.13",
-    "name": "Kalinyamatan",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.20",
-      "name": "Kabupaten Jepara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.20.13","lat":-6.723241392109919,"lng":110.71709614989105,"name":"Kalinyamatan","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.20","name":"Kabupaten Jepara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.73.04",
-    "name": "Muara Satu",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.73",
-      "name": "Kota Lhokseumawe"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.73.04","lat":5.204573653865614,"lng":97.07145360781958,"name":"Muara Satu","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.73","name":"Kota Lhokseumawe"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

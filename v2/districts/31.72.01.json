@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "31.72.01",
-    "name": "Penjaringan",
-    "province": {
-      "id": "31",
-      "name": "Daerah Khusus Ibukota Jakarta"
-    },
-    "regency": {
-      "id": "31.72",
-      "name": "Kota Administrasi Jakarta Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"31.72.01","lat":-6.115036458837119,"lng":106.76393197306923,"name":"Penjaringan","province":{"id":"31","name":"Daerah Khusus Ibukota Jakarta"},"regency":{"id":"31.72","name":"Kota Administrasi Jakarta Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

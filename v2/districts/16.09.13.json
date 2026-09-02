@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.09.13",
-    "name": "Warkuk Ranau Selatan",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.09",
-      "name": "Kabupaten Ogan Komering Ulu Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.09.13","lat":-4.858403241634098,"lng":104.1116454070888,"name":"Warkuk Ranau Selatan","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.09","name":"Kabupaten Ogan Komering Ulu Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

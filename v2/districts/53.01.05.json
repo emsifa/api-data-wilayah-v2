@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.01.05",
-    "name": "Kupang Barat",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.01",
-      "name": "Kabupaten Kupang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.01.05","lat":-10.286234820265815,"lng":123.52441770873341,"name":"Kupang Barat","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.01","name":"Kabupaten Kupang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.71.08",
-    "name": "Jaya Baru",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.71",
-      "name": "Kota Banda Aceh"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.71.08","lat":5.5362091161643585,"lng":95.29674916762218,"name":"Jaya Baru","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.71","name":"Kota Banda Aceh"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.03.13",
-    "name": "Manganitu",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.03",
-      "name": "Kabupaten Kepulauan Sangihe"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.03.13","lat":3.535266168099001,"lng":125.51508438372527,"name":"Manganitu","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.03","name":"Kabupaten Kepulauan Sangihe"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

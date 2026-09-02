@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.24.06",
-    "name": "Kedungpring",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.24",
-      "name": "Kabupaten Lamongan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.24.06","lat":-7.1863628274815206,"lng":112.20328997839117,"name":"Kedungpring","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.24","name":"Kabupaten Lamongan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

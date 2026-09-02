@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "51.03.05",
-    "name": "Kuta Selatan",
-    "province": {
-      "id": "51",
-      "name": "Bali"
-    },
-    "regency": {
-      "id": "51.03",
-      "name": "Kabupaten Badung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"51.03.05","lat":-8.812046677163579,"lng":115.16512048654508,"name":"Kuta Selatan","province":{"id":"51","name":"Bali"},"regency":{"id":"51.03","name":"Kabupaten Badung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

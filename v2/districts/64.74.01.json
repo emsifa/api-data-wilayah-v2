@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "64.74.01",
-    "name": "Bontang Utara",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
-    },
-    "regency": {
-      "id": "64.74",
-      "name": "Kota Bontang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"64.74.01","lat":0.15783843507790601,"lng":117.4912145603786,"name":"Bontang Utara","province":{"id":"64","name":"Kalimantan Timur"},"regency":{"id":"64.74","name":"Kota Bontang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

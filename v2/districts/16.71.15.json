@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.71.15",
-    "name": "Alang-alang Lebar",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.71",
-      "name": "Kota Palembang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.71.15","lat":-2.939535610605464,"lng":104.70135167305084,"name":"Alang-alang Lebar","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.71","name":"Kota Palembang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

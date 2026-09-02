@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "19.03.01",
-    "name": "Toboali",
-    "province": {
-      "id": "19",
-      "name": "Kepulauan Bangka Belitung"
-    },
-    "regency": {
-      "id": "19.03",
-      "name": "Kabupaten Bangka Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"19.03.01","lat":-2.9111582797510653,"lng":106.50903237117913,"name":"Toboali","province":{"id":"19","name":"Kepulauan Bangka Belitung"},"regency":{"id":"19.03","name":"Kabupaten Bangka Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

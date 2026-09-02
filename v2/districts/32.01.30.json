@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.01.30",
-    "name": "Dramaga",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.01",
-      "name": "Kabupaten Bogor"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.01.30","lat":-6.588798558582711,"lng":106.7298008450625,"name":"Dramaga","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.01","name":"Kabupaten Bogor"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.71.05",
-    "name": "Tanjungkarang Timur",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.71",
-      "name": "Kota Bandar Lampung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.71.05","lat":-5.413332751579019,"lng":105.26811401169134,"name":"Tanjungkarang Timur","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.71","name":"Kota Bandar Lampung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

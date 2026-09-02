@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "92.02.04",
-    "name": "Prafi",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
-    },
-    "regency": {
-      "id": "92.02",
-      "name": "Kabupaten Manokwari"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"92.02.04","lat":-0.8805843271427414,"lng":133.85962997030686,"name":"Prafi","province":{"id":"92","name":"Papua Barat"},"regency":{"id":"92.02","name":"Kabupaten Manokwari"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.03.04",
-    "name": "Galela",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.03",
-      "name": "Kabupaten Halmahera Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.03.04","lat":1.8005924472912966,"lng":127.8617110270798,"name":"Galela","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.03","name":"Kabupaten Halmahera Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

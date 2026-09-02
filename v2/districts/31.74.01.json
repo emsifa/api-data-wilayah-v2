@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "31.74.01",
-    "name": "Tebet",
-    "province": {
-      "id": "31",
-      "name": "Daerah Khusus Ibukota Jakarta"
-    },
-    "regency": {
-      "id": "31.74",
-      "name": "Kota Administrasi Jakarta Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"31.74.01","lat":-6.228858057552371,"lng":106.85087909597982,"name":"Tebet","province":{"id":"31","name":"Daerah Khusus Ibukota Jakarta"},"regency":{"id":"31.74","name":"Kota Administrasi Jakarta Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

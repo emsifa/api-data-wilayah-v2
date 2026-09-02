@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.18.09",
-    "name": "Pangandaran",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.18",
-      "name": "Kabupaten Pangandaran"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.18.09","lat":-7.649756558955528,"lng":108.65043258230706,"name":"Pangandaran","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.18","name":"Kabupaten Pangandaran"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

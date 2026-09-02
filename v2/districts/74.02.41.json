@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.02.41",
-    "name": "Wonggeduku Barat",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.02",
-      "name": "Kabupaten Konawe"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.02.41","lat":-3.9290995414198027,"lng":122.14609208201423,"name":"Wonggeduku Barat","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.02","name":"Kabupaten Konawe"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

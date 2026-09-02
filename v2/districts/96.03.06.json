@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "96.03.06",
-    "name": "Misool Timur",
-    "province": {
-      "id": "96",
-      "name": "Papua Barat Daya"
-    },
-    "regency": {
-      "id": "96.03",
-      "name": "Kabupaten Raja Ampat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"96.03.06","lat":-1.8295580203604627,"lng":130.30865853844944,"name":"Misool Timur","province":{"id":"96","name":"Papua Barat Daya"},"regency":{"id":"96.03","name":"Kabupaten Raja Ampat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

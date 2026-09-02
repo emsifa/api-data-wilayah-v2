@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.04.21",
-    "name": "Botomuzoi",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.04",
-      "name": "Kabupaten Nias"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.04.21","lat":1.170661084205272,"lng":97.53969412788695,"name":"Botomuzoi","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.04","name":"Kabupaten Nias"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

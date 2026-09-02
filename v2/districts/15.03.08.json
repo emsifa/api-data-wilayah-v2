@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.03.08",
-    "name": "Bathin VIII",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.03",
-      "name": "Kabupaten Sarolangun"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.03.08","lat":-2.259210055870959,"lng":102.53137980442257,"name":"Bathin VIII","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.03","name":"Kabupaten Sarolangun"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

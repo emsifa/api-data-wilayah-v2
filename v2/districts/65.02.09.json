@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "65.02.09",
-    "name": "Sungai Boh",
-    "province": {
-      "id": "65",
-      "name": "Kalimantan Utara"
-    },
-    "regency": {
-      "id": "65.02",
-      "name": "Kabupaten Malinau"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"65.02.09","lat":1.4331379341207255,"lng":115.33408928686409,"name":"Sungai Boh","province":{"id":"65","name":"Kalimantan Utara"},"regency":{"id":"65.02","name":"Kabupaten Malinau"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

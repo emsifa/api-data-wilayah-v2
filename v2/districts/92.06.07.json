@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "92.06.07",
-    "name": "Wamesa",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
-    },
-    "regency": {
-      "id": "92.06",
-      "name": "Kabupaten Teluk Bintuni"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"92.06.07","lat":-2.292502672415355,"lng":133.97646460069438,"name":"Wamesa","province":{"id":"92","name":"Papua Barat"},"regency":{"id":"92.06","name":"Kabupaten Teluk Bintuni"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

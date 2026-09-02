@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.04.28",
-    "name": "Wolowa",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.04",
-      "name": "Kabupaten Buton"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.04.28","lat":-5.370865926209874,"lng":122.93839583998009,"name":"Wolowa","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.04","name":"Kabupaten Buton"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

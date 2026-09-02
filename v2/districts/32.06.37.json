@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.06.37",
-    "name": "Kadipaten",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.06",
-      "name": "Kabupaten Tasikmalaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.06.37","lat":-7.120073818757763,"lng":108.11534326657362,"name":"Kadipaten","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.06","name":"Kabupaten Tasikmalaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

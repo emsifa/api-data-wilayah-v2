@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "17.01.04",
-    "name": "Manna",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
-    },
-    "regency": {
-      "id": "17.01",
-      "name": "Kabupaten Bengkulu Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"17.01.04","lat":-4.462639203423928,"lng":102.94879769596487,"name":"Manna","province":{"id":"17","name":"Bengkulu"},"regency":{"id":"17.01","name":"Kabupaten Bengkulu Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

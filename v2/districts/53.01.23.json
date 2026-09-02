@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.01.23",
-    "name": "Semau Selatan",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.01",
-      "name": "Kabupaten Kupang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.01.23","lat":-10.2843185939966,"lng":123.35760662555631,"name":"Semau Selatan","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.01","name":"Kabupaten Kupang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

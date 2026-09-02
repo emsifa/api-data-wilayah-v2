@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.14.01",
-    "name": "Kalijambe",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.14",
-      "name": "Kabupaten Sragen"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.14.01","lat":-7.436135914300998,"lng":110.81379259609345,"name":"Kalijambe","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.14","name":"Kabupaten Sragen"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

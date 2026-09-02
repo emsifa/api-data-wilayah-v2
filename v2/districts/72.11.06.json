@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "72.11.06",
-    "name": "Banggai Selatan",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
-    },
-    "regency": {
-      "id": "72.11",
-      "name": "Kabupaten Banggai Laut"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"72.11.06","lat":-1.6909019155960512,"lng":123.56016173114561,"name":"Banggai Selatan","province":{"id":"72","name":"Sulawesi Tengah"},"regency":{"id":"72.11","name":"Kabupaten Banggai Laut"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.07.12",
-    "name": "Nogi",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.07",
-      "name": "Kabupaten Lanny Jaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.07.12","lat":-3.9024530763796657,"lng":138.47496558518904,"name":"Nogi","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.07","name":"Kabupaten Lanny Jaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

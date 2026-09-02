@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.72.01",
-    "name": "Pagar Alam Utara",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.72",
-      "name": "Kota Pagar Alam"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.72.01","lat":-4.01103885251018,"lng":103.2101461961572,"name":"Pagar Alam Utara","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.72","name":"Kota Pagar Alam"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

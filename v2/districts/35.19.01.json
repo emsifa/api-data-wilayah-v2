@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.19.01",
-    "name": "Kebonsari",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.19",
-      "name": "Kabupaten Madiun"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.19.01","lat":-7.7440540251404775,"lng":111.4847961117012,"name":"Kebonsari","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.19","name":"Kabupaten Madiun"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

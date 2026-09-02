@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.02.17",
-    "name": "Langowan Selatan",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.02",
-      "name": "Kabupaten Minahasa"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.02.17","lat":1.0815898131408255,"lng":124.88743459446512,"name":"Langowan Selatan","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.02","name":"Kabupaten Minahasa"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

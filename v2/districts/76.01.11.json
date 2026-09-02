@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "76.01.11",
-    "name": "Sarjo",
-    "province": {
-      "id": "76",
-      "name": "Sulawesi Barat"
-    },
-    "regency": {
-      "id": "76.01",
-      "name": "Kabupaten Pasangkayu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"76.01.11","lat":-0.9062151627397049,"lng":119.54627461991483,"name":"Sarjo","province":{"id":"76","name":"Sulawesi Barat"},"regency":{"id":"76.01","name":"Kabupaten Pasangkayu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

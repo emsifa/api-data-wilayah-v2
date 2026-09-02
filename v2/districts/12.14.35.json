@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.14.35",
-    "name": "Idanotae",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.14",
-      "name": "Kabupaten Nias Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.14.35","lat":0.899700773156371,"lng":97.8461594467252,"name":"Idanotae","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.14","name":"Kabupaten Nias Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

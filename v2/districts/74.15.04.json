@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.15.04",
-    "name": "Batu Atas",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.15",
-      "name": "Kabupaten Buton Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.15.04","lat":-6.197867188917422,"lng":122.69326098825344,"name":"Batu Atas","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.15","name":"Kabupaten Buton Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

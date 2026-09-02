@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.22.10",
-    "name": "Baureno",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.22",
-      "name": "Kabupaten Bojonegoro"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.22.10","lat":-7.122284686954405,"lng":112.10028669182644,"name":"Baureno","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.22","name":"Kabupaten Bojonegoro"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

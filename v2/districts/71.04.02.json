@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.04.02",
-    "name": "Beo",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.04",
-      "name": "Kabupaten Kepulauan Talaud"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.04.02","lat":4.2399430505602,"lng":126.8042888842459,"name":"Beo","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.04","name":"Kabupaten Kepulauan Talaud"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

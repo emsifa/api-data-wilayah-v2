@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.13.04",
-    "name": "Pesisir Utara",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.13",
-      "name": "Kabupaten Pesisir Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.13.04","lat":-5.028694429050374,"lng":103.8224070285804,"name":"Pesisir Utara","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.13","name":"Kabupaten Pesisir Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

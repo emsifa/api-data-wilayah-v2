@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.75.04",
-    "name": "Panggungrejo",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.75",
-      "name": "Kota Pasuruan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.75.04","lat":-7.639743511120089,"lng":112.91324583645911,"name":"Panggungrejo","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.75","name":"Kota Pasuruan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

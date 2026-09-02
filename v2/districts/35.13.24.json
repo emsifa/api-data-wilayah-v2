@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.13.24",
-    "name": "Lumbang",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.13",
-      "name": "Kabupaten Probolinggo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.13.24","lat":-7.845837843001004,"lng":113.05761192951462,"name":"Lumbang","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.13","name":"Kabupaten Probolinggo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

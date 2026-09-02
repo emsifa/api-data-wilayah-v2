@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.10.03",
-    "name": "Ruteng",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.10",
-      "name": "Kabupaten Manggarai"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.10.03","lat":-8.595198679723639,"lng":120.38067896633687,"name":"Ruteng","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.10","name":"Kabupaten Manggarai"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

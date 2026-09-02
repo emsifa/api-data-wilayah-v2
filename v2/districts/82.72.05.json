@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.72.05",
-    "name": "Tidore Utara",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.72",
-      "name": "Kota Tidore Kepulauan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.72.05","lat":0.7014403623776436,"lng":127.39334640445938,"name":"Tidore Utara","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.72","name":"Kota Tidore Kepulauan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

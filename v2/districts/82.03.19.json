@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.03.19",
-    "name": "Loloda Kepulauan",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.03",
-      "name": "Kabupaten Halmahera Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.03.19","lat":2.2251624856539314,"lng":127.78096447423503,"name":"Loloda Kepulauan","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.03","name":"Kabupaten Halmahera Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.02.22",
-    "name": "Sendang Agung",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.02",
-      "name": "Kabupaten Lampung Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.02.22","lat":-5.185918221535287,"lng":104.88087425500461,"name":"Sendang Agung","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.02","name":"Kabupaten Lampung Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

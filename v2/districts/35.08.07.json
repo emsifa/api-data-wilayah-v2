@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.08.07",
-    "name": "Yosowilangun",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.08",
-      "name": "Kabupaten Lumajang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.08.07","lat":-8.255780225739795,"lng":113.28275802788573,"name":"Yosowilangun","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.08","name":"Kabupaten Lumajang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

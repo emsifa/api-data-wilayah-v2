@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.14.02",
-    "name": "Tutur",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.14",
-      "name": "Kabupaten Pasuruan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.14.02","lat":-7.8845751859489805,"lng":112.82497642321052,"name":"Tutur","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.14","name":"Kabupaten Pasuruan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.01.05",
-    "name": "Manduamas",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.01",
-      "name": "Kabupaten Tapanuli Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.01.05","lat":2.179252107075841,"lng":98.2264206694649,"name":"Manduamas","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.01","name":"Kabupaten Tapanuli Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

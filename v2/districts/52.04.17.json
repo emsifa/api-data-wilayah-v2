@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "52.04.17",
-    "name": "Alas Barat",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
-    },
-    "regency": {
-      "id": "52.04",
-      "name": "Kabupaten Sumbawa"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"52.04.17","lat":-8.537856322095736,"lng":116.93953080200816,"name":"Alas Barat","province":{"id":"52","name":"Nusa Tenggara Barat"},"regency":{"id":"52.04","name":"Kabupaten Sumbawa"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

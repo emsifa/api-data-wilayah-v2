@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "34.03.17",
-    "name": "Tanjungsari",
-    "province": {
-      "id": "34",
-      "name": "Daerah Istimewa Yogyakarta"
-    },
-    "regency": {
-      "id": "34.03",
-      "name": "Kabupaten Gunungkidul"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"34.03.17","lat":-8.092000410840065,"lng":110.59089987174087,"name":"Tanjungsari","province":{"id":"34","name":"Daerah Istimewa Yogyakarta"},"regency":{"id":"34.03","name":"Kabupaten Gunungkidul"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

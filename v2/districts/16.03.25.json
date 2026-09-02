@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.03.25",
-    "name": "Lubai Ulu",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.03",
-      "name": "Kabupaten Muara Enim"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.03.25","lat":-3.8079481806681987,"lng":104.10590977837252,"name":"Lubai Ulu","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.03","name":"Kabupaten Muara Enim"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

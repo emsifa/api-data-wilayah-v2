@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.12.03",
-    "name": "Giriwoyo",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.12",
-      "name": "Kabupaten Wonogiri"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.12.03","lat":-8.03815965681957,"lng":110.94452275375173,"name":"Giriwoyo","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.12","name":"Kabupaten Wonogiri"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

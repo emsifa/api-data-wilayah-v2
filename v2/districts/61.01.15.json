@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.01.15",
-    "name": "Sebawi",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.01",
-      "name": "Kabupaten Sambas"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.01.15","lat":1.2679632417571165,"lng":109.22714879320256,"name":"Sebawi","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.01","name":"Kabupaten Sambas"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.11.09",
-    "name": "Rindi",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.11",
-      "name": "Kabupaten Sumba Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.11.09","lat":-10.002329524335108,"lng":120.69012908133666,"name":"Rindi","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.11","name":"Kabupaten Sumba Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

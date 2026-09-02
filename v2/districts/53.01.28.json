@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.01.28",
-    "name": "Fatuleu Tengah",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.01",
-      "name": "Kabupaten Kupang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.01.28","lat":-9.92189186336441,"lng":123.85876123695948,"name":"Fatuleu Tengah","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.01","name":"Kabupaten Kupang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

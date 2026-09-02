@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "13.05.05",
-    "name": "VII Koto",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
-    },
-    "regency": {
-      "id": "13.05",
-      "name": "Kabupaten Padang Pariaman"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"13.05.05","lat":-0.5855339401069126,"lng":100.1973973199178,"name":"VII Koto","province":{"id":"13","name":"Sumatera Barat"},"regency":{"id":"13.05","name":"Kabupaten Padang Pariaman"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

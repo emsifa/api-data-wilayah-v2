@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.71.01",
-    "name": "Mariso",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.71",
-      "name": "Kota Makassar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.71.01","lat":-5.157310309773258,"lng":119.40902912713315,"name":"Mariso","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.71","name":"Kota Makassar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

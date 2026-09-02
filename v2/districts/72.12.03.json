@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "72.12.03",
-    "name": "Lembo Raya",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
-    },
-    "regency": {
-      "id": "72.12",
-      "name": "Kabupaten Morowali Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"72.12.03","lat":-2.293990381397936,"lng":121.27480790473733,"name":"Lembo Raya","province":{"id":"72","name":"Sulawesi Tengah"},"regency":{"id":"72.12","name":"Kabupaten Morowali Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

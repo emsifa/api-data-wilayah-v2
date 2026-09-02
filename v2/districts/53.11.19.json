@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.11.19",
-    "name": "Katala Hamu Lingu",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.11",
-      "name": "Kabupaten Sumba Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.11.19","lat":-9.850954055259967,"lng":119.92071424443259,"name":"Katala Hamu Lingu","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.11","name":"Kabupaten Sumba Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

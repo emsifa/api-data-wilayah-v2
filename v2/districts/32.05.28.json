@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.05.28",
-    "name": "Cisompet",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.05",
-      "name": "Kabupaten Garut"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.05.28","lat":-7.554817760132564,"lng":107.80818004678468,"name":"Cisompet","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.05","name":"Kabupaten Garut"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

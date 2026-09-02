@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.08.03",
-    "name": "Candipuro",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.08",
-      "name": "Kabupaten Lumajang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.08.03","lat":-8.17436674283615,"lng":113.05174600351096,"name":"Candipuro","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.08","name":"Kabupaten Lumajang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

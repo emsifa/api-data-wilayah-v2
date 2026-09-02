@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.25.06",
-    "name": "Tersono",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.25",
-      "name": "Kabupaten Batang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.25.06","lat":-7.0381521683645785,"lng":109.96619268098343,"name":"Tersono","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.25","name":"Kabupaten Batang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

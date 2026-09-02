@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.02.16",
-    "name": "Seputih Agung",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.02",
-      "name": "Kabupaten Lampung Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.02.16","lat":-4.939988582263521,"lng":105.12962744005407,"name":"Seputih Agung","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.02","name":"Kabupaten Lampung Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

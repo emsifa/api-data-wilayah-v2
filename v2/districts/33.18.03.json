@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.18.03",
-    "name": "Tambakromo",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.18",
-      "name": "Kabupaten Pati"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.18.03","lat":-6.899872087731192,"lng":111.05055058223607,"name":"Tambakromo","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.18","name":"Kabupaten Pati"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

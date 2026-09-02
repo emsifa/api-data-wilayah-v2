@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.72.02",
-    "name": "Pulau Dullah Selatan",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.72",
-      "name": "Kota Tual"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.72.02","lat":-5.642678787411163,"lng":132.76157705400541,"name":"Pulau Dullah Selatan","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.72","name":"Kota Tual"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

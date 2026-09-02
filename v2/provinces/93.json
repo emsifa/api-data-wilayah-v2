@@ -1,17 +1,1 @@
-{
-  "data": {
-    "id": "93",
-    "name": "Papua Selatan",
-    "capital": "Merauke",
-    "lat": -8.508696154665504,
-    "lng": 140.40967635178788,
-    "elv": 6,
-    "tz": 9,
-    "population": 562220,
-    "total_area": 117858.969
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:57Z",
-    "level": 1
-  }
-}
+{"data":{"id":"93","name":"Papua Selatan","capital":"Merauke","lat":-8.508696154665504,"lng":140.40967635178788,"elv":6,"tz":9,"population":562220,"total_area":117858.969},"meta":{"updated_at":"2026-09-02","level":1}}

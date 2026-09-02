@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.03.17",
-    "name": "Kadupandak",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.03",
-      "name": "Kabupaten Cianjur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.03.17","lat":-7.215397454543069,"lng":107.0262441284806,"name":"Kadupandak","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.03","name":"Kabupaten Cianjur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

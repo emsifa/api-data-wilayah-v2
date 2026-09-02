@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.06.04",
-    "name": "Bagelen",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.06",
-      "name": "Kabupaten Purworejo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.06.04","lat":-7.811558165396076,"lng":110.03965155332146,"name":"Bagelen","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.06","name":"Kabupaten Purworejo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

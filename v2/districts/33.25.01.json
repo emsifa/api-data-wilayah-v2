@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.25.01",
-    "name": "Wonotunggal",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.25",
-      "name": "Kabupaten Batang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.25.01","lat":-7.024584188794968,"lng":109.75624103154917,"name":"Wonotunggal","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.25","name":"Kabupaten Batang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

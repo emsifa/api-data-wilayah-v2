@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.08.03",
-    "name": "Ngluwar",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.08",
-      "name": "Kabupaten Magelang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.08.03","lat":-7.660054232152914,"lng":110.27562628310942,"name":"Ngluwar","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.08","name":"Kabupaten Magelang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

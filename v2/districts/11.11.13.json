@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.11.13",
-    "name": "Kota Juang",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.11",
-      "name": "Kabupaten Bireuen"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.11.13","lat":5.19616861429606,"lng":96.71525320082037,"name":"Kota Juang","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.11","name":"Kabupaten Bireuen"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

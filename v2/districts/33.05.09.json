@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.05.09",
-    "name": "Prembun",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.05",
-      "name": "Kabupaten Kebumen"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.05.09","lat":-7.703252862536218,"lng":109.79774522286351,"name":"Prembun","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.05","name":"Kabupaten Kebumen"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

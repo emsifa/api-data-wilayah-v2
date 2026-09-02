@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "72.01.16",
-    "name": "Lobu",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
-    },
-    "regency": {
-      "id": "72.01",
-      "name": "Kabupaten Banggai"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"72.01.16","lat":-0.8133769998358387,"lng":122.5150039703557,"name":"Lobu","province":{"id":"72","name":"Sulawesi Tengah"},"regency":{"id":"72.01","name":"Kabupaten Banggai"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.04.18",
-    "name": "Kepulauan Botanglomang",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.04",
-      "name": "Kabupaten Halmahera Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.04.18","lat":-0.635577727301908,"lng":127.36105632391848,"name":"Kepulauan Botanglomang","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.04","name":"Kabupaten Halmahera Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

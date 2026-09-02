@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.21.04",
-    "name": "Weliman",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.21",
-      "name": "Kabupaten Malaka"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.21.04","lat":-9.625089113105108,"lng":124.86808390519343,"name":"Weliman","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.21","name":"Kabupaten Malaka"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

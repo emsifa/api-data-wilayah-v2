@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.03.07",
-    "name": "Sekayam",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.03",
-      "name": "Kabupaten Sanggau"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.03.07","lat":0.8104410013001812,"lng":110.57873040476609,"name":"Sekayam","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.03","name":"Kabupaten Sanggau"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

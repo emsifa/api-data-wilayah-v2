@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.12.02",
-    "name": "Wawonii Utara",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.12",
-      "name": "Kabupaten Konawe Kepulauan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.12.02","lat":-4.055604744292228,"lng":123.11695965978917,"name":"Wawonii Utara","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.12","name":"Kabupaten Konawe Kepulauan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

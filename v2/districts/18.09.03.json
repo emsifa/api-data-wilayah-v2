@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.09.03",
-    "name": "Tegineneng",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.09",
-      "name": "Kabupaten Pesawaran"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.09.03","lat":-5.178245867849562,"lng":105.1407605783968,"name":"Tegineneng","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.09","name":"Kabupaten Pesawaran"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

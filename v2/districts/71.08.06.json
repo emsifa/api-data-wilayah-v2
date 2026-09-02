@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.08.06",
-    "name": "Pinogaluman",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.08",
-      "name": "Kabupaten Bolaang Mongondow Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.08.06","lat":0.8890569851197058,"lng":123.18536272868745,"name":"Pinogaluman","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.08","name":"Kabupaten Bolaang Mongondow Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

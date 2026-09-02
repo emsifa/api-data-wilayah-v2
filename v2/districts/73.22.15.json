@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.22.15",
-    "name": "Sabbang Selatan",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.22",
-      "name": "Kabupaten Luwu Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.22.15","lat":-2.7011195891629947,"lng":120.18331607800326,"name":"Sabbang Selatan","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.22","name":"Kabupaten Luwu Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

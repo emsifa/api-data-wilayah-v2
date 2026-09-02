@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.71.03",
-    "name": "Jambi Timur",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.71",
-      "name": "Kota Jambi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.71.03","lat":-1.5828143100324286,"lng":103.63558834604959,"name":"Jambi Timur","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.71","name":"Kota Jambi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

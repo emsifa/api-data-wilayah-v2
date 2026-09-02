@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.08.05",
-    "name": "Kaidipang",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.08",
-      "name": "Kabupaten Bolaang Mongondow Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.08.05","lat":0.8832087686273128,"lng":123.25496386699771,"name":"Kaidipang","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.08","name":"Kabupaten Bolaang Mongondow Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

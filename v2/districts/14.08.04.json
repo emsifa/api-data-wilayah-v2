@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.08.04",
-    "name": "Tualang",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.08",
-      "name": "Kabupaten Siak"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.08.04","lat":0.6474059832642826,"lng":101.6264864538761,"name":"Tualang","province":{"id":"14","name":"Riau"},"regency":{"id":"14.08","name":"Kabupaten Siak"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

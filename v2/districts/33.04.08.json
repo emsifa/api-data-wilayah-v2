@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.04.08",
-    "name": "Madukara",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.04",
-      "name": "Kabupaten Banjarnegara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.04.08","lat":-7.36323376939631,"lng":109.73159201353626,"name":"Madukara","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.04","name":"Kabupaten Banjarnegara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

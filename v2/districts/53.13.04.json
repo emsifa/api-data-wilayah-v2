@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.13.04",
-    "name": "Lebatukan",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.13",
-      "name": "Kabupaten Lembata"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.13.04","lat":-8.370606832054317,"lng":123.5988869063557,"name":"Lebatukan","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.13","name":"Kabupaten Lembata"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

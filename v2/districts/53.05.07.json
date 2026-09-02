@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.05.07",
-    "name": "Alor Tengah Utara",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.05",
-      "name": "Kabupaten Alor"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.05.07","lat":-8.237564893281368,"lng":124.63633525141634,"name":"Alor Tengah Utara","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.05","name":"Kabupaten Alor"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

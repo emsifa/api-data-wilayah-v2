@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.22.20",
-    "name": "Bandungan",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.22",
-      "name": "Kabupaten Semarang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.22.20","lat":-7.221052585483148,"lng":110.36329645719661,"name":"Bandungan","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.22","name":"Kabupaten Semarang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

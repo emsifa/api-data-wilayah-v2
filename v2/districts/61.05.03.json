@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.05.03",
-    "name": "Sepauk",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.05",
-      "name": "Kabupaten Sintang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.05.03","lat":-0.18281321737772127,"lng":111.18877275104926,"name":"Sepauk","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.05","name":"Kabupaten Sintang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

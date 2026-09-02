@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "72.01.08",
-    "name": "Bualemo",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
-    },
-    "regency": {
-      "id": "72.01",
-      "name": "Kabupaten Banggai"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"72.01.08","lat":-0.6708679055511553,"lng":123.09208570716355,"name":"Bualemo","province":{"id":"72","name":"Sulawesi Tengah"},"regency":{"id":"72.01","name":"Kabupaten Banggai"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

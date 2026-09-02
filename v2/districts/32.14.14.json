@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.14.14",
-    "name": "Cibatu",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.14",
-      "name": "Kabupaten Purwakarta"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.14.14","lat":-6.531190902587055,"lng":107.53713561304437,"name":"Cibatu","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.14","name":"Kabupaten Purwakarta"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

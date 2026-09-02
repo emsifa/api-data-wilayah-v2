@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.03.17",
-    "name": "Tahuna",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.03",
-      "name": "Kabupaten Kepulauan Sangihe"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.03.17","lat":3.6247336474243057,"lng":125.48472310395219,"name":"Tahuna","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.03","name":"Kabupaten Kepulauan Sangihe"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.01.14",
-    "name": "Salahutu",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.01",
-      "name": "Kabupaten Maluku Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.01.14","lat":-3.559565448555998,"lng":128.29825689800222,"name":"Salahutu","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.01","name":"Kabupaten Maluku Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

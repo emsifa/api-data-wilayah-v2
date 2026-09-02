@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.72.04",
-    "name": "Singkawang Utara",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.72",
-      "name": "Kota Singkawang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.72.04","lat":0.9688238565783771,"lng":109.02625433506317,"name":"Singkawang Utara","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.72","name":"Kota Singkawang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

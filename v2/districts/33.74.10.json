@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.74.10",
-    "name": "Tembalang",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.74",
-      "name": "Kota Semarang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.74.10","lat":-7.049153429086996,"lng":110.46120834656226,"name":"Tembalang","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.74","name":"Kota Semarang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

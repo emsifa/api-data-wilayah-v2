@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.08.02",
-    "name": "Borobudur",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.08",
-      "name": "Kabupaten Magelang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.08.02","lat":-7.619637127646021,"lng":110.19548587312329,"name":"Borobudur","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.08","name":"Kabupaten Magelang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.12.16",
-    "name": "Banyuglugur",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.12",
-      "name": "Kabupaten Situbondo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.12.16","lat":-7.752554791151679,"lng":113.62652423618971,"name":"Banyuglugur","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.12","name":"Kabupaten Situbondo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

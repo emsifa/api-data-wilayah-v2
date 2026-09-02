@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.15.16",
-    "name": "Godong",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.15",
-      "name": "Kabupaten Grobogan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.15.16","lat":-7.051811922963859,"lng":110.75568623586435,"name":"Godong","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.15","name":"Kabupaten Grobogan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

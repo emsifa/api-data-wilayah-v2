@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.26.05",
-    "name": "Talun",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.26",
-      "name": "Kabupaten Pekalongan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.26.05","lat":-7.043808783007454,"lng":109.73224186380558,"name":"Talun","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.26","name":"Kabupaten Pekalongan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

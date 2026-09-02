@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.04.04",
-    "name": "Batin XXIV",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.04",
-      "name": "Kabupaten Batanghari"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.04.04","lat":-1.869273636549614,"lng":102.94307690689232,"name":"Batin XXIV","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.04","name":"Kabupaten Batanghari"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

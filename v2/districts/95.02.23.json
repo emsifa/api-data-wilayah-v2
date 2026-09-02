@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.02.23",
-    "name": "Okbemtau",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.02",
-      "name": "Kabupaten Pegunungan Bintang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.02.23","lat":-4.533487065585096,"lng":140.76769505176705,"name":"Okbemtau","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.02","name":"Kabupaten Pegunungan Bintang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

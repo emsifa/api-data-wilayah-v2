@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "64.03.09",
-    "name": "Teluk Bayur",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
-    },
-    "regency": {
-      "id": "64.03",
-      "name": "Kabupaten Berau"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"64.03.09","lat":2.0417063563692475,"lng":117.2949458943523,"name":"Teluk Bayur","province":{"id":"64","name":"Kalimantan Timur"},"regency":{"id":"64.03","name":"Kabupaten Berau"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

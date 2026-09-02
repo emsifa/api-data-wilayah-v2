@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "36.01.25",
-    "name": "Karang Tanjung",
-    "province": {
-      "id": "36",
-      "name": "Banten"
-    },
-    "regency": {
-      "id": "36.01",
-      "name": "Kabupaten Pandeglang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"36.01.25","lat":-6.286212298573571,"lng":106.11002241416381,"name":"Karang Tanjung","province":{"id":"36","name":"Banten"},"regency":{"id":"36.01","name":"Kabupaten Pandeglang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

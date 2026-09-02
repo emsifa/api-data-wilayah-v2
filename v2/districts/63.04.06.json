@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.04.06",
-    "name": "Mandastana",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.04",
-      "name": "Kabupaten Barito Kuala"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.04.06","lat":-3.2144848124298027,"lng":114.66755854720616,"name":"Mandastana","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.04","name":"Kabupaten Barito Kuala"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

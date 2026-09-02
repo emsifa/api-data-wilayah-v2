@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.10.06",
-    "name": "Gunung Meriah",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.10",
-      "name": "Kabupaten Aceh Singkil"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.10.06","lat":2.378809691849046,"lng":97.96410032568537,"name":"Gunung Meriah","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.10","name":"Kabupaten Aceh Singkil"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

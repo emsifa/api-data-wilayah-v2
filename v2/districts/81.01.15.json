@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.01.15",
-    "name": "Leihitu",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.01",
-      "name": "Kabupaten Maluku Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.01.15","lat":-3.622333518533625,"lng":128.0949846481069,"name":"Leihitu","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.01","name":"Kabupaten Maluku Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.16.05",
-    "name": "Lintong Nihuta",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.16",
-      "name": "Kabupaten Humbang Hasundutan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.16.05","lat":2.2612925111150095,"lng":98.8566528640701,"name":"Lintong Nihuta","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.16","name":"Kabupaten Humbang Hasundutan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

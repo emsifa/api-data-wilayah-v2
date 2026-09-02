@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.74.03",
-    "name": "Sei Tualang Raso",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.74",
-      "name": "Kota Tanjungbalai"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.74.03","lat":2.9895929606219105,"lng":99.78447004237425,"name":"Sei Tualang Raso","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.74","name":"Kota Tanjungbalai"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

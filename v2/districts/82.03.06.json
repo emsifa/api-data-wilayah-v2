@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.03.06",
-    "name": "Tobelo Selatan",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.03",
-      "name": "Kabupaten Halmahera Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.03.06","lat":1.6152964318223932,"lng":127.93790531582788,"name":"Tobelo Selatan","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.03","name":"Kabupaten Halmahera Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

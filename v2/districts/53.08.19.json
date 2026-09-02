@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.08.19",
-    "name": "Ende Tengah",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.08",
-      "name": "Kabupaten Ende"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.08.19","lat":-8.833989234506888,"lng":121.65762104369013,"name":"Ende Tengah","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.08","name":"Kabupaten Ende"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

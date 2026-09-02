@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.04.29",
-    "name": "Obi Timur",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.04",
-      "name": "Kabupaten Halmahera Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.04.29","lat":-1.5863979201936356,"lng":128.03968465960054,"name":"Obi Timur","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.04","name":"Kabupaten Halmahera Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

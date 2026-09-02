@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "93.01.19",
-    "name": "Waan",
-    "province": {
-      "id": "93",
-      "name": "Papua Selatan"
-    },
-    "regency": {
-      "id": "93.01",
-      "name": "Kabupaten Merauke"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"93.01.19","lat":-8.285267614001892,"lng":137.89037932436784,"name":"Waan","province":{"id":"93","name":"Papua Selatan"},"regency":{"id":"93.01","name":"Kabupaten Merauke"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

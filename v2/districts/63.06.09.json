@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.06.09",
-    "name": "Kalumpang",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.06",
-      "name": "Kabupaten Hulu Sungai Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.06.09","lat":-2.800202754106579,"lng":115.12579109228867,"name":"Kalumpang","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.06","name":"Kabupaten Hulu Sungai Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

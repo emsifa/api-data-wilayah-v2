@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.11.01",
-    "name": "Wado",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.11",
-      "name": "Kabupaten Sumedang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.11.01","lat":-6.9867482429095285,"lng":108.11629767734487,"name":"Wado","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.11","name":"Kabupaten Sumedang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

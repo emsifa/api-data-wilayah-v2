@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.05.01",
-    "name": "Kobakma",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.05",
-      "name": "Kabupaten Mamberamo Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.05.01","lat":-3.6949191016726437,"lng":139.11678225662172,"name":"Kobakma","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.05","name":"Kabupaten Mamberamo Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

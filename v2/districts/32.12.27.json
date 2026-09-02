@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.12.27",
-    "name": "Sukagumiwang",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.12",
-      "name": "Kabupaten Indramayu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.12.27","lat":-6.581675804304436,"lng":108.32359959833798,"name":"Sukagumiwang","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.12","name":"Kabupaten Indramayu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

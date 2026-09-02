@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.03.11",
-    "name": "Rupat Utara",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.03",
-      "name": "Kabupaten Bengkalis"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.03.11","lat":2.025864626805835,"lng":101.57234189451214,"name":"Rupat Utara","province":{"id":"14","name":"Riau"},"regency":{"id":"14.03","name":"Kabupaten Bengkalis"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "76.01.12",
-    "name": "Lariang",
-    "province": {
-      "id": "76",
-      "name": "Sulawesi Barat"
-    },
-    "regency": {
-      "id": "76.01",
-      "name": "Kabupaten Pasangkayu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"76.01.12","lat":-1.4643927911873296,"lng":119.33908044684085,"name":"Lariang","province":{"id":"76","name":"Sulawesi Barat"},"regency":{"id":"76.01","name":"Kabupaten Pasangkayu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

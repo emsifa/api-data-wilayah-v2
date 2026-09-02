@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "62.09.01",
-    "name": "Lamandau",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
-    },
-    "regency": {
-      "id": "62.09",
-      "name": "Kabupaten Lamandau"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"62.09.01","lat":-1.9032962222809364,"lng":111.184910236923,"name":"Lamandau","province":{"id":"62","name":"Kalimantan Tengah"},"regency":{"id":"62.09","name":"Kabupaten Lamandau"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

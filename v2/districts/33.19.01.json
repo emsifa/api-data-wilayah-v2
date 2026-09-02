@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.19.01",
-    "name": "Kaliwungu",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.19",
-      "name": "Kabupaten Kudus"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.19.01","lat":-6.792783444897929,"lng":110.79449105734791,"name":"Kaliwungu","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.19","name":"Kabupaten Kudus"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

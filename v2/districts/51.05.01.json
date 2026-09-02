@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "51.05.01",
-    "name": "Nusa Penida",
-    "province": {
-      "id": "51",
-      "name": "Bali"
-    },
-    "regency": {
-      "id": "51.05",
-      "name": "Kabupaten Klungkung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"51.05.01","lat":-8.73635812443567,"lng":115.53617772274028,"name":"Nusa Penida","province":{"id":"51","name":"Bali"},"regency":{"id":"51.05","name":"Kabupaten Klungkung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

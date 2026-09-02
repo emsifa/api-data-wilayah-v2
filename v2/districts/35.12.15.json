@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.12.15",
-    "name": "Sumbermalang",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.12",
-      "name": "Kabupaten Situbondo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.12.15","lat":-7.882371958354599,"lng":113.67610220628903,"name":"Sumbermalang","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.12","name":"Kabupaten Situbondo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

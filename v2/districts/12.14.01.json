@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.14.01",
-    "name": "Lolomatua",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.14",
-      "name": "Kabupaten Nias Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.14.01","lat":0.9420666339798415,"lng":97.6475394905813,"name":"Lolomatua","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.14","name":"Kabupaten Nias Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

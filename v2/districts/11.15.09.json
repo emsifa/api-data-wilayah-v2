@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.15.09",
-    "name": "Tripa Makmur",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.15",
-      "name": "Kabupaten Nagan Raya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.15.09","lat":3.9323304770053533,"lng":96.40994931767224,"name":"Tripa Makmur","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.15","name":"Kabupaten Nagan Raya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

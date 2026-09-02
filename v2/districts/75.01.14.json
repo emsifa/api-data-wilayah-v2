@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "75.01.14",
-    "name": "Mootilango",
-    "province": {
-      "id": "75",
-      "name": "Gorontalo"
-    },
-    "regency": {
-      "id": "75.01",
-      "name": "Kabupaten Gorontalo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"75.01.14","lat":0.7563005520352897,"lng":122.65063164218304,"name":"Mootilango","province":{"id":"75","name":"Gorontalo"},"regency":{"id":"75.01","name":"Kabupaten Gorontalo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

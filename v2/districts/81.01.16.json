@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.01.16",
-    "name": "Nusa Laut",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.01",
-      "name": "Kabupaten Maluku Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.01.16","lat":-3.668242342676311,"lng":128.78401262098953,"name":"Nusa Laut","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.01","name":"Kabupaten Maluku Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

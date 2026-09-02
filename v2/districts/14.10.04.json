@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.10.04",
-    "name": "Tebing Tinggi Barat",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.10",
-      "name": "Kabupaten Kepulauan Meranti"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.10.04","lat":0.8898646186133747,"lng":102.55460936985074,"name":"Tebing Tinggi Barat","province":{"id":"14","name":"Riau"},"regency":{"id":"14.10","name":"Kabupaten Kepulauan Meranti"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

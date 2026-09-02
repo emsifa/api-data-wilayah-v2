@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.05.11",
-    "name": "Woyla Timur",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.05",
-      "name": "Kabupaten Aceh Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.05.11","lat":4.460463987668394,"lng":96.0947485431241,"name":"Woyla Timur","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.05","name":"Kabupaten Aceh Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

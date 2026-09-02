@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.20.04",
-    "name": "Sabu Liae",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.20",
-      "name": "Kabupaten Sabu Raijua"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.20.04","lat":-10.588279619848937,"lng":121.87048134542152,"name":"Sabu Liae","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.20","name":"Kabupaten Sabu Raijua"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

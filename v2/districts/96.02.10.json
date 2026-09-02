@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "96.02.10",
-    "name": "Matemani",
-    "province": {
-      "id": "96",
-      "name": "Papua Barat Daya"
-    },
-    "regency": {
-      "id": "96.02",
-      "name": "Kabupaten Sorong Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"96.02.10","lat":-1.9773945690749786,"lng":132.22569283232562,"name":"Matemani","province":{"id":"96","name":"Papua Barat Daya"},"regency":{"id":"96.02","name":"Kabupaten Sorong Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

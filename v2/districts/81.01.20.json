@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.01.20",
-    "name": "Seram Utara Barat",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.01",
-      "name": "Kabupaten Maluku Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.01.20","lat":-2.93849980351676,"lng":128.94097318313646,"name":"Seram Utara Barat","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.01","name":"Kabupaten Maluku Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

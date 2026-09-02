@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "92.08.01",
-    "name": "Kaimana",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
-    },
-    "regency": {
-      "id": "92.08",
-      "name": "Kabupaten Kaimana"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"92.08.01","lat":-3.6619185978570186,"lng":133.98135422359246,"name":"Kaimana","province":{"id":"92","name":"Papua Barat"},"regency":{"id":"92.08","name":"Kabupaten Kaimana"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

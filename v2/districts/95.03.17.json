@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.03.17",
-    "name": "Werima",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.03",
-      "name": "Kabupaten Yahukimo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.03.17","lat":-4.357564122861104,"lng":139.1224529929956,"name":"Werima","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.03","name":"Kabupaten Yahukimo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

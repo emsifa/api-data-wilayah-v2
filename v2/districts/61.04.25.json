@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.04.25",
-    "name": "Sungai Melayu Rayak",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.04",
-      "name": "Kabupaten Ketapang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.04.25","lat":-1.7622875415394263,"lng":110.36240697835233,"name":"Sungai Melayu Rayak","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.04","name":"Kabupaten Ketapang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

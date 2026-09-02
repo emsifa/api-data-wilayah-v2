@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.07.13",
-    "name": "Lumar",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.07",
-      "name": "Kabupaten Bengkayang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.07.13","lat":0.9598490868724212,"lng":109.4491594910771,"name":"Lumar","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.07","name":"Kabupaten Bengkayang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

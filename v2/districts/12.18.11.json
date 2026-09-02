@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.18.11",
-    "name": "Silinda",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.18",
-      "name": "Kabupaten Serdang Bedagai"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.18.11","lat":3.261733612444214,"lng":98.79487491877674,"name":"Silinda","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.18","name":"Kabupaten Serdang Bedagai"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.11.01",
-    "name": "Mesuji",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.11",
-      "name": "Kabupaten Mesuji"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.11.01","lat":-3.9028400615276686,"lng":105.48501442396858,"name":"Mesuji","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.11","name":"Kabupaten Mesuji"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

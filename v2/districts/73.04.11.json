@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.04.11",
-    "name": "Tarowang",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.04",
-      "name": "Kabupaten Jeneponto"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.04.11","lat":-5.58600654409006,"lng":119.86531249172255,"name":"Tarowang","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.04","name":"Kabupaten Jeneponto"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.10.13",
-    "name": "Kadipaten",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.10",
-      "name": "Kabupaten Majalengka"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.10.13","lat":-6.759929241879553,"lng":108.17612919364277,"name":"Kadipaten","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.10","name":"Kabupaten Majalengka"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

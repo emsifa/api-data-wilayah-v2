@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.15.10",
-    "name": "Beutong Ateuh Banggalang",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.15",
-      "name": "Kabupaten Nagan Raya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.15.10","lat":4.481684590538698,"lng":96.5754659292526,"name":"Beutong Ateuh Banggalang","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.15","name":"Kabupaten Nagan Raya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

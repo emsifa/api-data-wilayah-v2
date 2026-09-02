@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.14.01",
-    "name": "Lakudo",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.14",
-      "name": "Kabupaten Buton Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.14.01","lat":-5.319819578234009,"lng":122.53800355944047,"name":"Lakudo","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.14","name":"Kabupaten Buton Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

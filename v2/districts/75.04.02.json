@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "75.04.02",
-    "name": "Lemito",
-    "province": {
-      "id": "75",
-      "name": "Gorontalo"
-    },
-    "regency": {
-      "id": "75.04",
-      "name": "Kabupaten Pohuwato"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"75.04.02","lat":0.6993780791990957,"lng":121.5777316782891,"name":"Lemito","province":{"id":"75","name":"Gorontalo"},"regency":{"id":"75.04","name":"Kabupaten Pohuwato"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

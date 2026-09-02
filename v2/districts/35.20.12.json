@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.20.12",
-    "name": "Barat",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.20",
-      "name": "Kabupaten Magetan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.20.12","lat":-7.555430410897555,"lng":111.46149435622982,"name":"Barat","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.20","name":"Kabupaten Magetan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

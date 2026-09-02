@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.04.17",
-    "name": "Bacan Selatan",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.04",
-      "name": "Kabupaten Halmahera Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.04.17","lat":-0.7252457298995305,"lng":127.49056853377883,"name":"Bacan Selatan","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.04","name":"Kabupaten Halmahera Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

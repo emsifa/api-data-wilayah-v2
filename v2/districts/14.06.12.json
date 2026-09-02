@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.06.12",
-    "name": "Kabun",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.06",
-      "name": "Kabupaten Rokan Hulu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.06.12","lat":0.47104987908799245,"lng":100.76400079034894,"name":"Kabun","province":{"id":"14","name":"Riau"},"regency":{"id":"14.06","name":"Kabupaten Rokan Hulu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

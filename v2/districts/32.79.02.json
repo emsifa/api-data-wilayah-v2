@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.79.02",
-    "name": "Pataruman",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.79",
-      "name": "Kota Banjar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.79.02","lat":-7.3916798437598725,"lng":108.56503623140739,"name":"Pataruman","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.79","name":"Kota Banjar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

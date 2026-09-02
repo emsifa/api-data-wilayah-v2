@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.05.15",
-    "name": "Adimulyo",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.05",
-      "name": "Kabupaten Kebumen"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.05.15","lat":-7.6747314176086014,"lng":109.55810087327028,"name":"Adimulyo","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.05","name":"Kabupaten Kebumen"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

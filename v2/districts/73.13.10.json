@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.13.10",
-    "name": "Pitumpanua",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.13",
-      "name": "Kabupaten Wajo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.13.10","lat":-3.720745857522257,"lng":120.3662936132424,"name":"Pitumpanua","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.13","name":"Kabupaten Wajo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

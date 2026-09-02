@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "13.11.04",
-    "name": "Sangir Jujuan",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
-    },
-    "regency": {
-      "id": "13.11",
-      "name": "Kabupaten Solok Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"13.11.04","lat":-1.4237982680343373,"lng":101.31125952274748,"name":"Sangir Jujuan","province":{"id":"13","name":"Sumatera Barat"},"regency":{"id":"13.11","name":"Kabupaten Solok Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

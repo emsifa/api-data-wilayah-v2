@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "52.04.22",
-    "name": "Unter Iwes",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
-    },
-    "regency": {
-      "id": "52.04",
-      "name": "Kabupaten Sumbawa"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"52.04.22","lat":-8.547561163921422,"lng":117.39982512661241,"name":"Unter Iwes","province":{"id":"52","name":"Nusa Tenggara Barat"},"regency":{"id":"52.04","name":"Kabupaten Sumbawa"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.04.01",
-    "name": "Mersam",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.04",
-      "name": "Kabupaten Batanghari"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.04.01","lat":-1.554158741410971,"lng":102.95438880165544,"name":"Mersam","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.04","name":"Kabupaten Batanghari"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "76.04.11",
-    "name": "Limboro",
-    "province": {
-      "id": "76",
-      "name": "Sulawesi Barat"
-    },
-    "regency": {
-      "id": "76.04",
-      "name": "Kabupaten Polewali Mandar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"76.04.11","lat":-3.447437942167438,"lng":119.0159137829969,"name":"Limboro","province":{"id":"76","name":"Sulawesi Barat"},"regency":{"id":"76.04","name":"Kabupaten Polewali Mandar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.21.07",
-    "name": "Dempet",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.21",
-      "name": "Kabupaten Demak"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.21.07","lat":-6.958555213083223,"lng":110.74007435409193,"name":"Dempet","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.21","name":"Kabupaten Demak"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

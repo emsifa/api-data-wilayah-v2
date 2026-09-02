@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.07.11",
-    "name": "Cipaku",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.07",
-      "name": "Kabupaten Ciamis"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.07.11","lat":-7.233345849323031,"lng":108.36248464759115,"name":"Cipaku","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.07","name":"Kabupaten Ciamis"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.05.08",
-    "name": "Kayan Hilir",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.05",
-      "name": "Kabupaten Sintang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.05.08","lat":-0.03183590977568498,"lng":111.92550012543362,"name":"Kayan Hilir","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.05","name":"Kabupaten Sintang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

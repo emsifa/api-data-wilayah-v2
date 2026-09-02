@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "76.03.04",
-    "name": "Pana",
-    "province": {
-      "id": "76",
-      "name": "Sulawesi Barat"
-    },
-    "regency": {
-      "id": "76.03",
-      "name": "Kabupaten Mamasa"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"76.03.04","lat":-3.0669533884690034,"lng":119.54242685465196,"name":"Pana","province":{"id":"76","name":"Sulawesi Barat"},"regency":{"id":"76.03","name":"Kabupaten Mamasa"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

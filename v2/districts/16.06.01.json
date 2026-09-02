@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.06.01",
-    "name": "Sekayu",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.06",
-      "name": "Kabupaten Musi Banyuasin"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.06.01","lat":-2.8819687062209427,"lng":103.8621088303998,"name":"Sekayu","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.06","name":"Kabupaten Musi Banyuasin"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

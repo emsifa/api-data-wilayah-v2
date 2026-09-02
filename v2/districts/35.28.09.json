@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.28.09",
-    "name": "Pakong",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.28",
-      "name": "Kabupaten Pamekasan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.28.09","lat":-7.041944650674573,"lng":113.55843382650347,"name":"Pakong","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.28","name":"Kabupaten Pamekasan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

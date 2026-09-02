@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.24.12",
-    "name": "Weleri",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.24",
-      "name": "Kabupaten Kendal"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.24.12","lat":-6.982489205900209,"lng":110.0733944737873,"name":"Weleri","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.24","name":"Kabupaten Kendal"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

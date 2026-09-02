@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.16.02",
-    "name": "Babelan",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.16",
-      "name": "Kabupaten Bekasi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.16.02","lat":-6.1256557031042504,"lng":107.03410459306825,"name":"Babelan","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.16","name":"Kabupaten Bekasi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

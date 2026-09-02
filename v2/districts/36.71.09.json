@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "36.71.09",
-    "name": "Cibodas",
-    "province": {
-      "id": "36",
-      "name": "Banten"
-    },
-    "regency": {
-      "id": "36.71",
-      "name": "Kota Tangerang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"36.71.09","lat":-6.205758082762302,"lng":106.60798032372658,"name":"Cibodas","province":{"id":"36","name":"Banten"},"regency":{"id":"36.71","name":"Kota Tangerang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

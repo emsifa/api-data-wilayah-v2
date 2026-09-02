@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "92.06.24",
-    "name": "Moskona Timur",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
-    },
-    "regency": {
-      "id": "92.06",
-      "name": "Kabupaten Teluk Bintuni"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"92.06.24","lat":-1.3426608984596957,"lng":133.22097956285364,"name":"Moskona Timur","province":{"id":"92","name":"Papua Barat"},"regency":{"id":"92.06","name":"Kabupaten Teluk Bintuni"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

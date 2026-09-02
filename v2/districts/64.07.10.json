@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "64.07.10",
-    "name": "Muara Pahu",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
-    },
-    "regency": {
-      "id": "64.07",
-      "name": "Kabupaten Kutai Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"64.07.10","lat":-0.32602993600938096,"lng":116.03703344065448,"name":"Muara Pahu","province":{"id":"64","name":"Kalimantan Timur"},"regency":{"id":"64.07","name":"Kabupaten Kutai Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

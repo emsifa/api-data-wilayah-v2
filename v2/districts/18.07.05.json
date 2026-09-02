@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.07.05",
-    "name": "Sekampung",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.07",
-      "name": "Kabupaten Lampung Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.07.05","lat":-5.161128385461152,"lng":105.44931760062433,"name":"Sekampung","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.07","name":"Kabupaten Lampung Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

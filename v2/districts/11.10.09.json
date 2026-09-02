@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.10.09",
-    "name": "Kota Baharu",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.10",
-      "name": "Kabupaten Aceh Singkil"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.10.09","lat":2.4492588123172627,"lng":97.83505946061979,"name":"Kota Baharu","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.10","name":"Kabupaten Aceh Singkil"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

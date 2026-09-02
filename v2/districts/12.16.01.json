@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.16.01",
-    "name": "Parlilitan",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.16",
-      "name": "Kabupaten Humbang Hasundutan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.16.01","lat":2.360931381412373,"lng":98.47315433900499,"name":"Parlilitan","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.16","name":"Kabupaten Humbang Hasundutan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

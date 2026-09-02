@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.71.14",
-    "name": "Tamalanrea",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.71",
-      "name": "Kota Makassar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.71.14","lat":-5.112110520549929,"lng":119.48180219260374,"name":"Tamalanrea","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.71","name":"Kota Makassar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

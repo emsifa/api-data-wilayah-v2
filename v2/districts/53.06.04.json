@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.06.04",
-    "name": "Ile Mandiri",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.06",
-      "name": "Kabupaten Flores Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.06.04","lat":-8.27964617836066,"lng":122.9606161152617,"name":"Ile Mandiri","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.06","name":"Kabupaten Flores Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.07.04",
-    "name": "Ratatotok",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.07",
-      "name": "Kabupaten Minahasa Tenggara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.07.04","lat":0.9064574075895457,"lng":124.69329537506472,"name":"Ratatotok","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.07","name":"Kabupaten Minahasa Tenggara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

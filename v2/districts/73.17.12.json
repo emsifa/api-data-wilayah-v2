@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.17.12",
-    "name": "Latimojong",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.17",
-      "name": "Kabupaten Luwu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.17.12","lat":-3.380077166073902,"lng":120.11813937776341,"name":"Latimojong","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.17","name":"Kabupaten Luwu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

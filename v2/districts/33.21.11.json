@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.21.11",
-    "name": "Demak",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.21",
-      "name": "Kabupaten Demak"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.21.11","lat":-6.872628781030152,"lng":110.655831823523,"name":"Demak","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.21","name":"Kabupaten Demak"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

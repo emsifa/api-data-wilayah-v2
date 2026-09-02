@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.06.20",
-    "name": "Mentebah",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.06",
-      "name": "Kabupaten Kapuas Hulu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.06.20","lat":0.5127355880470453,"lng":112.87619038118673,"name":"Mentebah","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.06","name":"Kabupaten Kapuas Hulu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

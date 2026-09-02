@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.18.04",
-    "name": "Bandar Dua",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.18",
-      "name": "Kabupaten Pidie Jaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.18.04","lat":5.110996588603311,"lng":96.30742882789339,"name":"Bandar Dua","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.18","name":"Kabupaten Pidie Jaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

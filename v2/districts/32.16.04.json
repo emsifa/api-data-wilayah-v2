@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.16.04",
-    "name": "Tambelang",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.16",
-      "name": "Kabupaten Bekasi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.16.04","lat":-6.166990483435064,"lng":107.12729971150193,"name":"Tambelang","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.16","name":"Kabupaten Bekasi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.01.14",
-    "name": "Baturaja Timur",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.01",
-      "name": "Kabupaten Ogan Komering Ulu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.01.14","lat":-4.1611059528281364,"lng":104.21785497362093,"name":"Baturaja Timur","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.01","name":"Kabupaten Ogan Komering Ulu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

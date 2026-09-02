@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.11.02",
-    "name": "Posigadan",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.11",
-      "name": "Kabupaten Bolaang Mongondow Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.11.02","lat":0.4370852842467251,"lng":123.6064889666527,"name":"Posigadan","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.11","name":"Kabupaten Bolaang Mongondow Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

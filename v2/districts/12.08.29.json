@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.08.29",
-    "name": "Raya",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.08",
-      "name": "Kabupaten Simalungun"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.08.29","lat":2.9989338367916845,"lng":98.87077955781209,"name":"Raya","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.08","name":"Kabupaten Simalungun"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

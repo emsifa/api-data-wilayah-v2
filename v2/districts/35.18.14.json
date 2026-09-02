@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.18.14",
-    "name": "Bagor",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.18",
-      "name": "Kabupaten Nganjuk"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.18.14","lat":-7.585223106894354,"lng":111.8499211660546,"name":"Bagor","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.18","name":"Kabupaten Nganjuk"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

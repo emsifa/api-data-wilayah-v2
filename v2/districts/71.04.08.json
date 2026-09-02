@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.04.08",
-    "name": "Gemeh",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.04",
-      "name": "Kabupaten Kepulauan Talaud"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.04.08","lat":4.479264355814168,"lng":126.80058321125011,"name":"Gemeh","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.04","name":"Kabupaten Kepulauan Talaud"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

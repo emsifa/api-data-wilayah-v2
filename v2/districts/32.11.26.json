@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.11.26",
-    "name": "Jatigede",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.11",
-      "name": "Kabupaten Sumedang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.11.26","lat":-6.87217154919212,"lng":108.13407691847196,"name":"Jatigede","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.11","name":"Kabupaten Sumedang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

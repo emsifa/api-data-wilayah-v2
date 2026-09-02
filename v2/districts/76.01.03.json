@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "76.01.03",
-    "name": "Baras",
-    "province": {
-      "id": "76",
-      "name": "Sulawesi Barat"
-    },
-    "regency": {
-      "id": "76.01",
-      "name": "Kabupaten Pasangkayu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"76.01.03","lat":-1.559234835178893,"lng":119.41415948685335,"name":"Baras","province":{"id":"76","name":"Sulawesi Barat"},"regency":{"id":"76.01","name":"Kabupaten Pasangkayu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

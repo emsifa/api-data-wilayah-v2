@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "19.03.07",
-    "name": "Pulau Besar",
-    "province": {
-      "id": "19",
-      "name": "Kepulauan Bangka Belitung"
-    },
-    "regency": {
-      "id": "19.03",
-      "name": "Kabupaten Bangka Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"19.03.07","lat":-2.8007649897350873,"lng":106.13961586372278,"name":"Pulau Besar","province":{"id":"19","name":"Kepulauan Bangka Belitung"},"regency":{"id":"19.03","name":"Kabupaten Bangka Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

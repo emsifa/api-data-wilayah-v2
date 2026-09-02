@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.01.07",
-    "name": "Pomalaa",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.01",
-      "name": "Kabupaten Kolaka"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.01.07","lat":-4.241315010954759,"lng":121.64325340066462,"name":"Pomalaa","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.01","name":"Kabupaten Kolaka"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

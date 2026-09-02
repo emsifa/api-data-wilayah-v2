@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.11.23",
-    "name": "Cisarua",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.11",
-      "name": "Kabupaten Sumedang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.11.23","lat":-6.832348482807086,"lng":107.96837628118075,"name":"Cisarua","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.11","name":"Kabupaten Sumedang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "96.01.09",
-    "name": "Mayamuk",
-    "province": {
-      "id": "96",
-      "name": "Papua Barat Daya"
-    },
-    "regency": {
-      "id": "96.01",
-      "name": "Kabupaten Sorong"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"96.01.09","lat":-1.061109135810479,"lng":131.30459913167843,"name":"Mayamuk","province":{"id":"96","name":"Papua Barat Daya"},"regency":{"id":"96.01","name":"Kabupaten Sorong"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

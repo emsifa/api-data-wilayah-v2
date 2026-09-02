@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.08.21",
-    "name": "Lepembusu Kelisoke",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.08",
-      "name": "Kabupaten Ende"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.08.21","lat":-8.665976395901822,"lng":121.8886414525149,"name":"Lepembusu Kelisoke","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.08","name":"Kabupaten Ende"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

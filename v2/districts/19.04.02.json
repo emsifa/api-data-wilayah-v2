@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "19.04.02",
-    "name": "Pangkalan Baru",
-    "province": {
-      "id": "19",
-      "name": "Kepulauan Bangka Belitung"
-    },
-    "regency": {
-      "id": "19.04",
-      "name": "Kabupaten Bangka Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"19.04.02","lat":-2.1928031160753436,"lng":106.13769263603139,"name":"Pangkalan Baru","province":{"id":"19","name":"Kepulauan Bangka Belitung"},"regency":{"id":"19.04","name":"Kabupaten Bangka Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

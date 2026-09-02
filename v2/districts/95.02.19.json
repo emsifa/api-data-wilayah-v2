@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.02.19",
-    "name": "Tarup",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.02",
-      "name": "Kabupaten Pegunungan Bintang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.02.19","lat":-5.03805536317336,"lng":140.903355507907,"name":"Tarup","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.02","name":"Kabupaten Pegunungan Bintang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

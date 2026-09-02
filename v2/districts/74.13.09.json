@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.13.09",
-    "name": "Tiworo Kepulauan",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.13",
-      "name": "Kabupaten Muna Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.13.09","lat":-4.790981970145257,"lng":122.43737264058808,"name":"Tiworo Kepulauan","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.13","name":"Kabupaten Muna Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

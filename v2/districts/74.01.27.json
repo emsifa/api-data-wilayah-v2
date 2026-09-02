@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.01.27",
-    "name": "Iwoimendaa",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.01",
-      "name": "Kabupaten Kolaka"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.01.27","lat":-3.739287453463233,"lng":121.19832461867013,"name":"Iwoimendaa","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.01","name":"Kabupaten Kolaka"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

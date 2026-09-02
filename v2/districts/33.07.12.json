@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.07.12",
-    "name": "Garung",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.07",
-      "name": "Kabupaten Wonosobo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.07.12","lat":-7.2838854209292725,"lng":109.9315922014265,"name":"Garung","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.07","name":"Kabupaten Wonosobo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

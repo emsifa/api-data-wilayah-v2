@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.13.10",
-    "name": "Pakuniran",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.13",
-      "name": "Kabupaten Probolinggo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.13.10","lat":-7.823429562097289,"lng":113.5520331868346,"name":"Pakuniran","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.13","name":"Kabupaten Probolinggo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

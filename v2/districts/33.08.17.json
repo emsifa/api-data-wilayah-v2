@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.08.17",
-    "name": "Ngablak",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.08",
-      "name": "Kabupaten Magelang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.08.17","lat":-7.395227689758703,"lng":110.38173705246592,"name":"Ngablak","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.08","name":"Kabupaten Magelang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

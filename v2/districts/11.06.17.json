@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.06.17",
-    "name": "Kuta Malaka",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.06",
-      "name": "Kabupaten Aceh Besar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.06.17","lat":5.424040944977672,"lng":95.3913313737733,"name":"Kuta Malaka","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.06","name":"Kabupaten Aceh Besar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "52.71.02",
-    "name": "Mataram",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
-    },
-    "regency": {
-      "id": "52.71",
-      "name": "Kota Mataram"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"52.71.02","lat":-8.601339708226739,"lng":116.1105580278049,"name":"Mataram","province":{"id":"52","name":"Nusa Tenggara Barat"},"regency":{"id":"52.71","name":"Kota Mataram"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

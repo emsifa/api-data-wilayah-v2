@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.05.15",
-    "name": "Ambalau",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.05",
-      "name": "Kabupaten Sintang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.05.15","lat":-0.0905626003074859,"lng":112.98491512167185,"name":"Ambalau","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.05","name":"Kabupaten Sintang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

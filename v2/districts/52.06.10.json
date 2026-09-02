@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "52.06.10",
-    "name": "Ambalawi",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
-    },
-    "regency": {
-      "id": "52.06",
-      "name": "Kabupaten Bima"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"52.06.10","lat":-8.357892542904457,"lng":118.8096265822531,"name":"Ambalawi","province":{"id":"52","name":"Nusa Tenggara Barat"},"regency":{"id":"52.06","name":"Kabupaten Bima"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.08.01",
-    "name": "Tanah Tumbuh",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.08",
-      "name": "Kabupaten Bungo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.08.01","lat":-1.4962366290983764,"lng":101.84758693697758,"name":"Tanah Tumbuh","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.08","name":"Kabupaten Bungo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

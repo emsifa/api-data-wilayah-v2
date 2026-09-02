@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.08.12",
-    "name": "Lio Timur",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.08",
-      "name": "Kabupaten Ende"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.08.12","lat":-8.766624599297804,"lng":121.95061936967166,"name":"Lio Timur","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.08","name":"Kabupaten Ende"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

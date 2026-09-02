@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.15.17",
-    "name": "Telagasari",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.15",
-      "name": "Kabupaten Karawang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.15.17","lat":-6.2699912371971545,"lng":107.41370174159137,"name":"Telagasari","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.15","name":"Kabupaten Karawang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

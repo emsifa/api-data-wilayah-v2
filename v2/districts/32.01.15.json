@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.01.15",
-    "name": "Ciampea",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.01",
-      "name": "Kabupaten Bogor"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.01.15","lat":-6.5742207487527615,"lng":106.69802664970993,"name":"Ciampea","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.01","name":"Kabupaten Bogor"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

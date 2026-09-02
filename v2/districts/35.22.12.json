@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.22.12",
-    "name": "Sumberrejo",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.22",
-      "name": "Kabupaten Bojonegoro"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.22.12","lat":-7.2090877928231425,"lng":112.02822238211304,"name":"Sumberrejo","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.22","name":"Kabupaten Bojonegoro"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

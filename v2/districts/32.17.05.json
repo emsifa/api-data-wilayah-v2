@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.17.05",
-    "name": "Cipeundeuy",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.17",
-      "name": "Kabupaten Bandung Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.17.05","lat":-6.755103553141781,"lng":107.34413265807311,"name":"Cipeundeuy","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.17","name":"Kabupaten Bandung Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

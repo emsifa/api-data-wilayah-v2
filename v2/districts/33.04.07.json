@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.04.07",
-    "name": "Sigaluh",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.04",
-      "name": "Kabupaten Banjarnegara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.04.07","lat":-7.42164047401024,"lng":109.78227961286001,"name":"Sigaluh","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.04","name":"Kabupaten Banjarnegara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

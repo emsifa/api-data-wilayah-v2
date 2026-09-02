@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "62.04.03",
-    "name": "Karau Kuala",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
-    },
-    "regency": {
-      "id": "62.04",
-      "name": "Kabupaten Barito Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"62.04.03","lat":-1.9059917099327381,"lng":114.78200900095104,"name":"Karau Kuala","province":{"id":"62","name":"Kalimantan Tengah"},"regency":{"id":"62.04","name":"Kabupaten Barito Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.71.02",
-    "name": "Mamajang",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.71",
-      "name": "Kota Makassar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.71.02","lat":-5.164284264087985,"lng":119.41588419945892,"name":"Mamajang","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.71","name":"Kota Makassar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

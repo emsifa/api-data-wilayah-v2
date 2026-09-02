@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.22.06",
-    "name": "Dander",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.22",
-      "name": "Kabupaten Bojonegoro"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.22.06","lat":-7.232899131791983,"lng":111.84406449231047,"name":"Dander","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.22","name":"Kabupaten Bojonegoro"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

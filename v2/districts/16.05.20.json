@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.05.20",
-    "name": "Tuah Negeri",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.05",
-      "name": "Kabupaten Musi Rawas"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.05.20","lat":-3.1543217291931502,"lng":103.10082521179103,"name":"Tuah Negeri","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.05","name":"Kabupaten Musi Rawas"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

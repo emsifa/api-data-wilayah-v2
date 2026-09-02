@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "65.04.05",
-    "name": "Muruk Rian",
-    "province": {
-      "id": "65",
-      "name": "Kalimantan Utara"
-    },
-    "regency": {
-      "id": "65.04",
-      "name": "Kabupaten Tana Tidung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"65.04.05","lat":3.5295080852204257,"lng":116.76460863032774,"name":"Muruk Rian","province":{"id":"65","name":"Kalimantan Utara"},"regency":{"id":"65.04","name":"Kabupaten Tana Tidung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

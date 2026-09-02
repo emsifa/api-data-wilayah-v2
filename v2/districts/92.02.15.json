@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "92.02.15",
-    "name": "Manokwari Selatan",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
-    },
-    "regency": {
-      "id": "92.02",
-      "name": "Kabupaten Manokwari"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"92.02.15","lat":-0.9778030918113206,"lng":134.00612263750887,"name":"Manokwari Selatan","province":{"id":"92","name":"Papua Barat"},"regency":{"id":"92.02","name":"Kabupaten Manokwari"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

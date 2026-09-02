@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.76.02",
-    "name": "Rambutan",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.76",
-      "name": "Kota Tebing Tinggi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.76.02","lat":3.352870224360849,"lng":99.16490522844563,"name":"Rambutan","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.76","name":"Kota Tebing Tinggi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

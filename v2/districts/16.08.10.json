@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.08.10",
-    "name": "Belitang III",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.08",
-      "name": "Kabupaten Ogan Komering Ulu Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.08.10","lat":-4.134253372127293,"lng":104.7333342623101,"name":"Belitang III","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.08","name":"Kabupaten Ogan Komering Ulu Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

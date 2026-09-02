@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.04.27",
-    "name": "Cikancung",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.04",
-      "name": "Kabupaten Bandung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.04.27","lat":-7.031271857631862,"lng":107.82518801806982,"name":"Cikancung","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.04","name":"Kabupaten Bandung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

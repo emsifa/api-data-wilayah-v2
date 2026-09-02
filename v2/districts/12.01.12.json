@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.01.12",
-    "name": "Andam Dewi",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.01",
-      "name": "Kabupaten Tapanuli Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.01.12","lat":2.069604812231489,"lng":98.40483823289354,"name":"Andam Dewi","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.01","name":"Kabupaten Tapanuli Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

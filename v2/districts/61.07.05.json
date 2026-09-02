@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.07.05",
-    "name": "Seluas",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.07",
-      "name": "Kabupaten Bengkayang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.07.05","lat":1.2113409177091035,"lng":109.79892758831731,"name":"Seluas","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.07","name":"Kabupaten Bengkayang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

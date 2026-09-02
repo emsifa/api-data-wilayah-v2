@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.74.02",
-    "name": "Prabumulih Timur",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.74",
-      "name": "Kota Prabumulih"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.74.02","lat":-3.4237113385648708,"lng":104.28246175543595,"name":"Prabumulih Timur","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.74","name":"Kota Prabumulih"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

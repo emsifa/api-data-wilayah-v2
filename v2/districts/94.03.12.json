@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "94.03.12",
-    "name": "Wegee Bino",
-    "province": {
-      "id": "94",
-      "name": "Papua Tengah"
-    },
-    "regency": {
-      "id": "94.03",
-      "name": "Kabupaten Paniai"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"94.03.12","lat":-3.887645469070888,"lng":136.39505421913015,"name":"Wegee Bino","province":{"id":"94","name":"Papua Tengah"},"regency":{"id":"94.03","name":"Kabupaten Paniai"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

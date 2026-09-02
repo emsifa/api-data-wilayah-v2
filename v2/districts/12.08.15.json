@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.08.15",
-    "name": "Haranggaol Horisan",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.08",
-      "name": "Kabupaten Simalungun"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.08.15","lat":2.8397284986253073,"lng":98.65628047038881,"name":"Haranggaol Horisan","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.08","name":"Kabupaten Simalungun"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

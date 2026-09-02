@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "34.71.10",
-    "name": "Gondomanan",
-    "province": {
-      "id": "34",
-      "name": "Daerah Istimewa Yogyakarta"
-    },
-    "regency": {
-      "id": "34.71",
-      "name": "Kota Yogyakarta"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"34.71.10","lat":-7.801682411236859,"lng":110.36717440167278,"name":"Gondomanan","province":{"id":"34","name":"Daerah Istimewa Yogyakarta"},"regency":{"id":"34.71","name":"Kota Yogyakarta"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

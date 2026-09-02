@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.06.11",
-    "name": "Pagu",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.06",
-      "name": "Kabupaten Kediri"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.06.11","lat":-7.778336851772703,"lng":112.08170274258359,"name":"Pagu","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.06","name":"Kabupaten Kediri"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

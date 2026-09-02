@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.09.12",
-    "name": "Buay Pematang Ribu Ranau Tengah",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.09",
-      "name": "Kabupaten Ogan Komering Ulu Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.09.12","lat":-4.779367227584968,"lng":104.0476728662322,"name":"Buay Pematang Ribu Ranau Tengah","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.09","name":"Kabupaten Ogan Komering Ulu Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

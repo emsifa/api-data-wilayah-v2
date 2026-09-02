@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.01.08",
-    "name": "Tapaktuan",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.01",
-      "name": "Kabupaten Aceh Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.01.08","lat":3.283990204387257,"lng":97.22605954565815,"name":"Tapaktuan","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.01","name":"Kabupaten Aceh Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

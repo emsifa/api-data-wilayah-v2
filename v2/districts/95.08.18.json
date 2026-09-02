@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.08.18",
-    "name": "Dal",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.08",
-      "name": "Kabupaten Nduga"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.08.18","lat":-4.160757067905187,"lng":138.4515161632727,"name":"Dal","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.08","name":"Kabupaten Nduga"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

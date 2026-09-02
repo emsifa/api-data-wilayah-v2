@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.02.15",
-    "name": "Muara",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.02",
-      "name": "Kabupaten Tapanuli Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.02.15","lat":2.35149982001044,"lng":98.93263041574572,"name":"Muara","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.02","name":"Kabupaten Tapanuli Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

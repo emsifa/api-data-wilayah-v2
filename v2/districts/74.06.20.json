@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.06.20",
-    "name": "Tontonunu",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.06",
-      "name": "Kabupaten Bombana"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.06.20","lat":-4.65571686869926,"lng":121.70230579676371,"name":"Tontonunu","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.06","name":"Kabupaten Bombana"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

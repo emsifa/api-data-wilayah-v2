@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.03.31",
-    "name": "Marobo",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.03",
-      "name": "Kabupaten Muna"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.03.31","lat":-5.127144985207097,"lng":122.35412571297904,"name":"Marobo","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.03","name":"Kabupaten Muna"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

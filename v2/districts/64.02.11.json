@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "64.02.11",
-    "name": "Muara Kaman",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
-    },
-    "regency": {
-      "id": "64.02",
-      "name": "Kabupaten Kutai Kartanegara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"64.02.11","lat":0.0771041780131036,"lng":116.8639833762381,"name":"Muara Kaman","province":{"id":"64","name":"Kalimantan Timur"},"regency":{"id":"64.02","name":"Kabupaten Kutai Kartanegara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

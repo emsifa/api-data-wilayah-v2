@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.06.09",
-    "name": "Muara Papalik",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.06",
-      "name": "Kabupaten Tanjung Jabung Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.06.09","lat":-1.2981299252636394,"lng":103.16670694649521,"name":"Muara Papalik","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.06","name":"Kabupaten Tanjung Jabung Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

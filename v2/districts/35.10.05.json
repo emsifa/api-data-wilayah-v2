@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.10.05",
-    "name": "Muncar",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.10",
-      "name": "Kabupaten Banyuwangi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.10.05","lat":-8.447964751550451,"lng":114.32172953082106,"name":"Muncar","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.10","name":"Kabupaten Banyuwangi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

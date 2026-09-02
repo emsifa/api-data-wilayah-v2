@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.17.07",
-    "name": "Ronggur Nihuta",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.17",
-      "name": "Kabupaten Samosir"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.17.07","lat":2.617261922574972,"lng":98.78057858487225,"name":"Ronggur Nihuta","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.17","name":"Kabupaten Samosir"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

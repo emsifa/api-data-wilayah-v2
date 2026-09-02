@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.02.21",
-    "name": "Pulau Laut Tanjung Selayar",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.02",
-      "name": "Kabupaten Kotabaru"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.02.21","lat":-4.013904795250655,"lng":116.09331682098146,"name":"Pulau Laut Tanjung Selayar","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.02","name":"Kabupaten Kotabaru"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

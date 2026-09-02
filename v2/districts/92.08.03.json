@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "92.08.03",
-    "name": "Teluk Arguni Atas",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
-    },
-    "regency": {
-      "id": "92.08",
-      "name": "Kabupaten Kaimana"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"92.08.03","lat":-3.1166961910728683,"lng":133.99906439612806,"name":"Teluk Arguni Atas","province":{"id":"92","name":"Papua Barat"},"regency":{"id":"92.08","name":"Kabupaten Kaimana"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

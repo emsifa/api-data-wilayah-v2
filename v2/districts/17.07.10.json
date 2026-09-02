@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "17.07.10",
-    "name": "Amen",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
-    },
-    "regency": {
-      "id": "17.07",
-      "name": "Kabupaten Lebong"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"17.07.10","lat":-3.1306515086012356,"lng":102.21558653625493,"name":"Amen","province":{"id":"17","name":"Bengkulu"},"regency":{"id":"17.07","name":"Kabupaten Lebong"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

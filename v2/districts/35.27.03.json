@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.27.03",
-    "name": "Sampang",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.27",
-      "name": "Kabupaten Sampang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.27.03","lat":-7.177419395024011,"lng":113.25228420868865,"name":"Sampang","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.27","name":"Kabupaten Sampang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "62.02.01",
-    "name": "Kota Besi",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
-    },
-    "regency": {
-      "id": "62.02",
-      "name": "Kabupaten Kotawaringin Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"62.02.01","lat":-2.3414823995416403,"lng":112.82563441977871,"name":"Kota Besi","province":{"id":"62","name":"Kalimantan Tengah"},"regency":{"id":"62.02","name":"Kabupaten Kotawaringin Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.20.13",
-    "name": "Karangrejo",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.20",
-      "name": "Kabupaten Magetan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.20.13","lat":-7.5586455423936405,"lng":111.42103095450216,"name":"Karangrejo","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.20","name":"Kabupaten Magetan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

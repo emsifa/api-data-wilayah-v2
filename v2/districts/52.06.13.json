@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "52.06.13",
-    "name": "Madapangga",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
-    },
-    "regency": {
-      "id": "52.06",
-      "name": "Kabupaten Bima"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"52.06.13","lat":-8.596854402680691,"lng":118.55824735590836,"name":"Madapangga","province":{"id":"52","name":"Nusa Tenggara Barat"},"regency":{"id":"52.06","name":"Kabupaten Bima"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

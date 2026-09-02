@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.71.11",
-    "name": "Paal Dua",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.71",
-      "name": "Kota Manado"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.71.11","lat":1.4817411936050864,"lng":124.87434350845997,"name":"Paal Dua","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.71","name":"Kota Manado"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

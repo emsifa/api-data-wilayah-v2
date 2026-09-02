@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.74.02",
-    "name": "Tanjungbalai Utara",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.74",
-      "name": "Kota Tanjungbalai"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.74.02","lat":2.9704534356084094,"lng":99.802575781704,"name":"Tanjungbalai Utara","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.74","name":"Kota Tanjungbalai"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

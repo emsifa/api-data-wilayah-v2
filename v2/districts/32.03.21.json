@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.03.21",
-    "name": "Sindangbarang",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.03",
-      "name": "Kabupaten Cianjur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.03.21","lat":-7.427511473343902,"lng":107.11292067046992,"name":"Sindangbarang","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.03","name":"Kabupaten Cianjur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

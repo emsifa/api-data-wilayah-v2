@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "65.01.09",
-    "name": "Sekatak",
-    "province": {
-      "id": "65",
-      "name": "Kalimantan Utara"
-    },
-    "regency": {
-      "id": "65.01",
-      "name": "Kabupaten Bulungan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"65.01.09","lat":3.238950396619094,"lng":117.05836668961761,"name":"Sekatak","province":{"id":"65","name":"Kalimantan Utara"},"regency":{"id":"65.01","name":"Kabupaten Bulungan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.02.15",
-    "name": "Sungai Durian",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.02",
-      "name": "Kabupaten Kotabaru"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.02.15","lat":-2.5352800565406963,"lng":115.98724138507123,"name":"Sungai Durian","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.02","name":"Kabupaten Kotabaru"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.08.18",
-    "name": "Grabag",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.08",
-      "name": "Kabupaten Magelang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.08.18","lat":-7.378831615529773,"lng":110.32580099308832,"name":"Grabag","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.08","name":"Kabupaten Magelang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

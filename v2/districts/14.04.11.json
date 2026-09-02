@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.04.11",
-    "name": "Batang Tuaka",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.04",
-      "name": "Kabupaten Indragiri Hilir"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.04.11","lat":-0.26701627656030275,"lng":103.12442279386481,"name":"Batang Tuaka","province":{"id":"14","name":"Riau"},"regency":{"id":"14.04","name":"Kabupaten Indragiri Hilir"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

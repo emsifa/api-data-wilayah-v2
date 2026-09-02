@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "64.02.16",
-    "name": "Tenggarong Seberang",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
-    },
-    "regency": {
-      "id": "64.02",
-      "name": "Kabupaten Kutai Kartanegara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"64.02.16","lat":-0.26559707836138763,"lng":117.13762272678042,"name":"Tenggarong Seberang","province":{"id":"64","name":"Kalimantan Timur"},"regency":{"id":"64.02","name":"Kabupaten Kutai Kartanegara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

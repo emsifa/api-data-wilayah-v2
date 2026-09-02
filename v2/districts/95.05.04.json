@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.05.04",
-    "name": "Megambilis",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.05",
-      "name": "Kabupaten Mamberamo Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.05.04","lat":-3.4750228587078937,"lng":139.0970133635499,"name":"Megambilis","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.05","name":"Kabupaten Mamberamo Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

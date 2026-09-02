@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.15.04",
-    "name": "Ciampel",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.15",
-      "name": "Kabupaten Karawang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.15.04","lat":-6.430248863521965,"lng":107.33333460184889,"name":"Ciampel","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.15","name":"Kabupaten Karawang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

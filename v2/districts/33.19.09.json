@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.19.09",
-    "name": "Dawe",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.19",
-      "name": "Kabupaten Kudus"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.19.09","lat":-6.70823715077687,"lng":110.89164715390464,"name":"Dawe","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.19","name":"Kabupaten Kudus"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

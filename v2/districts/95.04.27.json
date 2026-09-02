@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.04.27",
-    "name": "Kamboneri",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.04",
-      "name": "Kabupaten Tolikara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.04.27","lat":-3.7065309478892794,"lng":138.6025313524486,"name":"Kamboneri","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.04","name":"Kabupaten Tolikara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

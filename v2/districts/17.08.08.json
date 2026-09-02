@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "17.08.08",
-    "name": "Muara Kemumu",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
-    },
-    "regency": {
-      "id": "17.08",
-      "name": "Kabupaten Kepahiang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"17.08.08","lat":-3.5990676443352996,"lng":102.74184342718523,"name":"Muara Kemumu","province":{"id":"17","name":"Bengkulu"},"regency":{"id":"17.08","name":"Kabupaten Kepahiang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.20.09",
-    "name": "Sukomoro",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.20",
-      "name": "Kabupaten Magetan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.20.09","lat":-7.625887820716519,"lng":111.37674105482938,"name":"Sukomoro","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.20","name":"Kabupaten Magetan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

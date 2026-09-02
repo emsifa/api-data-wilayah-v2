@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "21.04.12",
-    "name": "Temiang Pesisir",
-    "province": {
-      "id": "21",
-      "name": "Kepulauan Riau"
-    },
-    "regency": {
-      "id": "21.04",
-      "name": "Kabupaten Lingga"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"21.04.12","lat":0.29907742521834,"lng":104.39209747192699,"name":"Temiang Pesisir","province":{"id":"21","name":"Kepulauan Riau"},"regency":{"id":"21.04","name":"Kabupaten Lingga"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

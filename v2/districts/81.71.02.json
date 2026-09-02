@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.71.02",
-    "name": "Sirimau",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.71",
-      "name": "Kota Ambon"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.71.02","lat":-3.6945796469156003,"lng":128.21532178224936,"name":"Sirimau","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.71","name":"Kota Ambon"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

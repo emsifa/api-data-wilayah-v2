@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.01.03",
-    "name": "Ibu",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.01",
-      "name": "Kabupaten Halmahera Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.01.03","lat":1.4861835078427592,"lng":127.59047340758241,"name":"Ibu","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.01","name":"Kabupaten Halmahera Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.78.01",
-    "name": "Karang Pilang",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.78",
-      "name": "Kota Surabaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.78.01","lat":-7.33504465689293,"lng":112.68741260055816,"name":"Karang Pilang","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.78","name":"Kota Surabaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

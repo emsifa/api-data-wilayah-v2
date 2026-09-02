@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.04.12",
-    "name": "Kalongan",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.04",
-      "name": "Kabupaten Kepulauan Talaud"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.04.12","lat":4.001985408001533,"lng":126.63187608807112,"name":"Kalongan","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.04","name":"Kabupaten Kepulauan Talaud"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

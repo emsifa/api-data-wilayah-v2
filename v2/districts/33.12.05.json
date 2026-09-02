@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.12.05",
-    "name": "Tirtomoyo",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.12",
-      "name": "Kabupaten Wonogiri"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.12.05","lat":-7.953491187723932,"lng":111.0824028573133,"name":"Tirtomoyo","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.12","name":"Kabupaten Wonogiri"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

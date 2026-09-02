@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.11.05",
-    "name": "Lambandia",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.11",
-      "name": "Kabupaten Kolaka Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.11.05","lat":-4.327866300560344,"lng":121.93487802397374,"name":"Lambandia","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.11","name":"Kabupaten Kolaka Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

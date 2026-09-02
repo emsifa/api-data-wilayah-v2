@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "17.08.03",
-    "name": "Tebat Karai",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
-    },
-    "regency": {
-      "id": "17.08",
-      "name": "Kabupaten Kepahiang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"17.08.03","lat":-3.652202316967031,"lng":102.64293625391699,"name":"Tebat Karai","province":{"id":"17","name":"Bengkulu"},"regency":{"id":"17.08","name":"Kabupaten Kepahiang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

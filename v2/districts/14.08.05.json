@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.08.05",
-    "name": "Sungai Mandau",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.08",
-      "name": "Kabupaten Siak"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.08.05","lat":0.9997942699980754,"lng":101.74377707092883,"name":"Sungai Mandau","province":{"id":"14","name":"Riau"},"regency":{"id":"14.08","name":"Kabupaten Siak"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

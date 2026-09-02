@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "93.02.15",
-    "name": "Subur",
-    "province": {
-      "id": "93",
-      "name": "Papua Selatan"
-    },
-    "regency": {
-      "id": "93.02",
-      "name": "Kabupaten Boven Digoel"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"93.02.15","lat":-6.884173105103749,"lng":140.44077031834524,"name":"Subur","province":{"id":"93","name":"Papua Selatan"},"regency":{"id":"93.02","name":"Kabupaten Boven Digoel"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

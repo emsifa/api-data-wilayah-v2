@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.07.13",
-    "name": "Kejajar",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.07",
-      "name": "Kabupaten Wonosobo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.07.13","lat":-7.241955790782049,"lng":109.93434631864938,"name":"Kejajar","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.07","name":"Kabupaten Wonosobo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

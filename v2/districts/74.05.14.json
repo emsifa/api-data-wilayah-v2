@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.05.14",
-    "name": "Palangga Selatan",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.05",
-      "name": "Kabupaten Konawe Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.05.14","lat":-4.419942059740492,"lng":122.38299821448985,"name":"Palangga Selatan","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.05","name":"Kabupaten Konawe Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "62.06.10",
-    "name": "Katingan Kuala",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
-    },
-    "regency": {
-      "id": "62.06",
-      "name": "Kabupaten Katingan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"62.06.10","lat":-3.0543892342842907,"lng":113.47325999229108,"name":"Katingan Kuala","province":{"id":"62","name":"Kalimantan Tengah"},"regency":{"id":"62.06","name":"Kabupaten Katingan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

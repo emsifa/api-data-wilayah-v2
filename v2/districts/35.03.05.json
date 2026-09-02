@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.03.05",
-    "name": "Tugu",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.03",
-      "name": "Kabupaten Trenggalek"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.03.05","lat":-8.031900536345256,"lng":111.63597949118078,"name":"Tugu","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.03","name":"Kabupaten Trenggalek"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "93.03.11",
-    "name": "Syahcame",
-    "province": {
-      "id": "93",
-      "name": "Papua Selatan"
-    },
-    "regency": {
-      "id": "93.03",
-      "name": "Kabupaten Mappi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"93.03.11","lat":-6.889947307202024,"lng":139.6123919742085,"name":"Syahcame","province":{"id":"93","name":"Papua Selatan"},"regency":{"id":"93.03","name":"Kabupaten Mappi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

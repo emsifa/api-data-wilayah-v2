@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.06.02",
-    "name": "Padang Batung",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.06",
-      "name": "Kabupaten Hulu Sungai Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.06.02","lat":-2.8528055063078903,"lng":115.31966030370728,"name":"Padang Batung","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.06","name":"Kabupaten Hulu Sungai Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

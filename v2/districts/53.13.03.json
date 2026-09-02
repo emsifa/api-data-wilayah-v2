@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.13.03",
-    "name": "Ile Ape",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.13",
-      "name": "Kabupaten Lembata"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.13.03","lat":-8.296687208810617,"lng":123.4508346513235,"name":"Ile Ape","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.13","name":"Kabupaten Lembata"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.11.03",
-    "name": "Tawangsari",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.11",
-      "name": "Kabupaten Sukoharjo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.11.03","lat":-7.728259766771688,"lng":110.78536087364577,"name":"Tawangsari","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.11","name":"Kabupaten Sukoharjo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

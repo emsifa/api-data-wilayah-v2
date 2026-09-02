@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.05.07",
-    "name": "Pattallassang",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.05",
-      "name": "Kabupaten Takalar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.05.07","lat":-5.426527901943438,"lng":119.44275318338848,"name":"Pattallassang","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.05","name":"Kabupaten Takalar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

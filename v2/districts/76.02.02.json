@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "76.02.02",
-    "name": "Tapalang",
-    "province": {
-      "id": "76",
-      "name": "Sulawesi Barat"
-    },
-    "regency": {
-      "id": "76.02",
-      "name": "Kabupaten Mamuju"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"76.02.02","lat":-2.8627480551329256,"lng":118.94860512514124,"name":"Tapalang","province":{"id":"76","name":"Sulawesi Barat"},"regency":{"id":"76.02","name":"Kabupaten Mamuju"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

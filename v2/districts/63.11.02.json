@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.11.02",
-    "name": "Halong",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.11",
-      "name": "Kabupaten Balangan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.11.02","lat":-2.247689473845378,"lng":115.72608666656802,"name":"Halong","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.11","name":"Kabupaten Balangan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.05.05",
-    "name": "Mestong",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.05",
-      "name": "Kabupaten Muaro Jambi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.05.05","lat":-1.8048880674630978,"lng":103.52921446470687,"name":"Mestong","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.05","name":"Kabupaten Muaro Jambi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

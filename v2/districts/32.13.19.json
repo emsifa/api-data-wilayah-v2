@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.13.19",
-    "name": "Cijambe",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.13",
-      "name": "Kabupaten Subang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.13.19","lat":-6.6317334831027885,"lng":107.77697092068983,"name":"Cijambe","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.13","name":"Kabupaten Subang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

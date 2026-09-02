@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.09.10",
-    "name": "Motui",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.09",
-      "name": "Kabupaten Konawe Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.09.10","lat":-3.832007218404128,"lng":122.41003561412764,"name":"Motui","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.09","name":"Kabupaten Konawe Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

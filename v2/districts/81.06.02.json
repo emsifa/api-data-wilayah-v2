@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.06.02",
-    "name": "Seram Barat",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.06",
-      "name": "Kabupaten Seram Bagian Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.06.02","lat":-3.0510821413733313,"lng":128.22060644352769,"name":"Seram Barat","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.06","name":"Kabupaten Seram Bagian Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.05.01",
-    "name": "Teluk Mutiara",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.05",
-      "name": "Kabupaten Alor"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.05.01","lat":-8.228689070640348,"lng":124.54185279499877,"name":"Teluk Mutiara","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.05","name":"Kabupaten Alor"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

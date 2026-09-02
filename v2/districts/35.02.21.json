@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.02.21",
-    "name": "Pudak",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.02",
-      "name": "Kabupaten Ponorogo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.02.21","lat":-7.859225737867538,"lng":111.7352476158607,"name":"Pudak","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.02","name":"Kabupaten Ponorogo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

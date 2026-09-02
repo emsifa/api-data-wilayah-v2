@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "94.02.03",
-    "name": "Fawi",
-    "province": {
-      "id": "94",
-      "name": "Papua Tengah"
-    },
-    "regency": {
-      "id": "94.02",
-      "name": "Kabupaten Puncak Jaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"94.02.03","lat":-3.2485136638527017,"lng":137.68187353500528,"name":"Fawi","province":{"id":"94","name":"Papua Tengah"},"regency":{"id":"94.02","name":"Kabupaten Puncak Jaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

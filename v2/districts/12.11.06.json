@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.11.06",
-    "name": "Tanah Pinem",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.11",
-      "name": "Kabupaten Dairi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.11.06","lat":3.0030715485373,"lng":98.09336349203981,"name":"Tanah Pinem","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.11","name":"Kabupaten Dairi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

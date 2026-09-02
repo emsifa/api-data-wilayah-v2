@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.01.02",
-    "name": "Gunungputri",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.01",
-      "name": "Kabupaten Bogor"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.01.02","lat":-6.405192714067646,"lng":106.93127021856837,"name":"Gunungputri","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.01","name":"Kabupaten Bogor"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

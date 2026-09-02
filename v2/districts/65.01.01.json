@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "65.01.01",
-    "name": "Tanjung Palas",
-    "province": {
-      "id": "65",
-      "name": "Kalimantan Utara"
-    },
-    "regency": {
-      "id": "65.01",
-      "name": "Kabupaten Bulungan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"65.01.01","lat":2.720771215958018,"lng":117.30973218776433,"name":"Tanjung Palas","province":{"id":"65","name":"Kalimantan Utara"},"regency":{"id":"65.01","name":"Kabupaten Bulungan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

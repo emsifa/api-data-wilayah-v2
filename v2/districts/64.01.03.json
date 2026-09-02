@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "64.01.03",
-    "name": "Paser Belengkong",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
-    },
-    "regency": {
-      "id": "64.01",
-      "name": "Kabupaten Paser"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"64.01.03","lat":-1.9726123627396996,"lng":116.23659345571015,"name":"Paser Belengkong","province":{"id":"64","name":"Kalimantan Timur"},"regency":{"id":"64.01","name":"Kabupaten Paser"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

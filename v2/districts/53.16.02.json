@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.16.02",
-    "name": "Nangaroro",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.16",
-      "name": "Kabupaten Nagekeo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.16.02","lat":-8.763735837912918,"lng":121.34794774765734,"name":"Nangaroro","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.16","name":"Kabupaten Nagekeo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

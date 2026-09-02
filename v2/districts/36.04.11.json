@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "36.04.11",
-    "name": "Kragilan",
-    "province": {
-      "id": "36",
-      "name": "Banten"
-    },
-    "regency": {
-      "id": "36.04",
-      "name": "Kabupaten Serang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"36.04.11","lat":-6.151336365393874,"lng":106.2733212058555,"name":"Kragilan","province":{"id":"36","name":"Banten"},"regency":{"id":"36.04","name":"Kabupaten Serang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

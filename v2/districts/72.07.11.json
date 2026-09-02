@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "72.07.11",
-    "name": "Tinangkung Selatan",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
-    },
-    "regency": {
-      "id": "72.07",
-      "name": "Kabupaten Banggai Kepulauan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"72.07.11","lat":-1.4423143666062526,"lng":123.37701931910664,"name":"Tinangkung Selatan","province":{"id":"72","name":"Sulawesi Tengah"},"regency":{"id":"72.07","name":"Kabupaten Banggai Kepulauan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

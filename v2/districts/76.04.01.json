@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "76.04.01",
-    "name": "Tinambung",
-    "province": {
-      "id": "76",
-      "name": "Sulawesi Barat"
-    },
-    "regency": {
-      "id": "76.04",
-      "name": "Kabupaten Polewali Mandar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"76.04.01","lat":-3.504147516984963,"lng":119.00728945037886,"name":"Tinambung","province":{"id":"76","name":"Sulawesi Barat"},"regency":{"id":"76.04","name":"Kabupaten Polewali Mandar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

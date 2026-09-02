@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.73.04",
-    "name": "Sidomukti",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.73",
-      "name": "Kota Salatiga"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.73.04","lat":-7.336434760977779,"lng":110.48488945678218,"name":"Sidomukti","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.73","name":"Kota Salatiga"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

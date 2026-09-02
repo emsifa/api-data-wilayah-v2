@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "62.02.16",
-    "name": "Tualan Hulu",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
-    },
-    "regency": {
-      "id": "62.02",
-      "name": "Kabupaten Kotawaringin Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"62.02.16","lat":-1.7113832684114447,"lng":112.7928201615851,"name":"Tualan Hulu","province":{"id":"62","name":"Kalimantan Tengah"},"regency":{"id":"62.02","name":"Kabupaten Kotawaringin Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

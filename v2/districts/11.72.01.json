@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.72.01",
-    "name": "Sukakarya",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.72",
-      "name": "Kota Sabang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.72.01","lat":5.87095433096962,"lng":95.32209270007947,"name":"Sukakarya","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.72","name":"Kota Sabang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

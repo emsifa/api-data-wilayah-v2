@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.14.17",
-    "name": "Pohjentrek",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.14",
-      "name": "Kabupaten Pasuruan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.14.17","lat":-7.663466110888654,"lng":112.87119772719502,"name":"Pohjentrek","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.14","name":"Kabupaten Pasuruan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

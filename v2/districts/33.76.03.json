@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.76.03",
-    "name": "Tegal Selatan",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.76",
-      "name": "Kota Tegal"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.76.03","lat":-6.886638502645485,"lng":109.12173341547502,"name":"Tegal Selatan","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.76","name":"Kota Tegal"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

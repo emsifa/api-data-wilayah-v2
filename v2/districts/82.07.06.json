@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.07.06",
-    "name": "Pulau Rao",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.07",
-      "name": "Kabupaten Pulau Morotai"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.07.06","lat":2.3436717489912473,"lng":128.15809586365572,"name":"Pulau Rao","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.07","name":"Kabupaten Pulau Morotai"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

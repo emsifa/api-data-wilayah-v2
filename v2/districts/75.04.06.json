@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "75.04.06",
-    "name": "Patilanggio",
-    "province": {
-      "id": "75",
-      "name": "Gorontalo"
-    },
-    "regency": {
-      "id": "75.04",
-      "name": "Kabupaten Pohuwato"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"75.04.06","lat":0.5872825436321172,"lng":121.90184434921137,"name":"Patilanggio","province":{"id":"75","name":"Gorontalo"},"regency":{"id":"75.04","name":"Kabupaten Pohuwato"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

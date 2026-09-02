@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.73.27",
-    "name": "Gedebage",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.73",
-      "name": "Kota Bandung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.73.27","lat":-6.9533417483402715,"lng":107.6973367176904,"name":"Gedebage","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.73","name":"Kota Bandung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.05.02",
-    "name": "Tempunak",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.05",
-      "name": "Kabupaten Sintang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.05.02","lat":-0.13987086266412233,"lng":111.33705172070219,"name":"Tempunak","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.05","name":"Kabupaten Sintang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

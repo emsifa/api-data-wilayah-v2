@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.07.05",
-    "name": "Alok",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.07",
-      "name": "Kabupaten Sikka"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.07.05","lat":-8.457590240012665,"lng":122.22087118204374,"name":"Alok","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.07","name":"Kabupaten Sikka"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "72.03.12",
-    "name": "Balaesang",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
-    },
-    "regency": {
-      "id": "72.03",
-      "name": "Kabupaten Donggala"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"72.03.12","lat":-0.027714819684483357,"lng":119.89587455976672,"name":"Balaesang","province":{"id":"72","name":"Sulawesi Tengah"},"regency":{"id":"72.03","name":"Kabupaten Donggala"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

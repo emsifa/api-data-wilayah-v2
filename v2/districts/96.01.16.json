@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "96.01.16",
-    "name": "Klaso",
-    "province": {
-      "id": "96",
-      "name": "Papua Barat Daya"
-    },
-    "regency": {
-      "id": "96.01",
-      "name": "Kabupaten Sorong"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"96.01.16","lat":-0.7894875819556314,"lng":131.94912672964347,"name":"Klaso","province":{"id":"96","name":"Papua Barat Daya"},"regency":{"id":"96.01","name":"Kabupaten Sorong"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

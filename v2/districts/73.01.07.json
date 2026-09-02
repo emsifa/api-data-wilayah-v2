@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.01.07",
-    "name": "Pasimarannu",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.01",
-      "name": "Kabupaten Kepulauan Selayar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.01.07","lat":-7.317110456889075,"lng":120.99960227251006,"name":"Pasimarannu","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.01","name":"Kabupaten Kepulauan Selayar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

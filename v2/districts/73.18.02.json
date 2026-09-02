@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.18.02",
-    "name": "Bittuang",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.18",
-      "name": "Kabupaten Tana Toraja"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.18.02","lat":-2.9485978723669746,"lng":119.66704799143089,"name":"Bittuang","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.18","name":"Kabupaten Tana Toraja"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

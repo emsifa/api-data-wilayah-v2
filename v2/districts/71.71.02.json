@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.71.02",
-    "name": "Tuminting",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.71",
-      "name": "Kota Manado"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.71.02","lat":1.513431722382329,"lng":124.85478113311461,"name":"Tuminting","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.71","name":"Kota Manado"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

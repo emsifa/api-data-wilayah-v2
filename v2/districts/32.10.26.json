@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.10.26",
-    "name": "Malausma",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.10",
-      "name": "Kabupaten Majalengka"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.10.26","lat":-7.03996813083321,"lng":108.24900788525602,"name":"Malausma","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.10","name":"Kabupaten Majalengka"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

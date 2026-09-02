@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "64.08.13",
-    "name": "Teluk Pandan",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
-    },
-    "regency": {
-      "id": "64.08",
-      "name": "Kabupaten Kutai Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"64.08.13","lat":0.1934201903261559,"lng":117.33492193070816,"name":"Teluk Pandan","province":{"id":"64","name":"Kalimantan Timur"},"regency":{"id":"64.08","name":"Kabupaten Kutai Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

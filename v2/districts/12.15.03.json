@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.15.03",
-    "name": "Salak",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.15",
-      "name": "Kabupaten Pakpak Bharat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.15.03","lat":2.4542795369617783,"lng":98.28793225148576,"name":"Salak","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.15","name":"Kabupaten Pakpak Bharat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

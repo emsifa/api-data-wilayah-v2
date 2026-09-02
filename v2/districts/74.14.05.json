@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.14.05",
-    "name": "Talaga Raya",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.14",
-      "name": "Kabupaten Buton Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.14.05","lat":-5.451052124861111,"lng":121.99845721500105,"name":"Talaga Raya","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.14","name":"Kabupaten Buton Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

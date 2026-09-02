@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.05.08",
-    "name": "Jayaloka",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.05",
-      "name": "Kabupaten Musi Rawas"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.05.08","lat":-3.348065232041799,"lng":103.19503814566053,"name":"Jayaloka","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.05","name":"Kabupaten Musi Rawas"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "64.11.02",
-    "name": "Long Hubung",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
-    },
-    "regency": {
-      "id": "64.11",
-      "name": "Kabupaten Mahakam Ulu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"64.11.02","lat":0.23983816181687098,"lng":115.50855940146519,"name":"Long Hubung","province":{"id":"64","name":"Kalimantan Timur"},"regency":{"id":"64.11","name":"Kabupaten Mahakam Ulu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

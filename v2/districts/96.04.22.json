@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "96.04.22",
-    "name": "Mawabuan",
-    "province": {
-      "id": "96",
-      "name": "Papua Barat Daya"
-    },
-    "regency": {
-      "id": "96.04",
-      "name": "Kabupaten Tambrauw"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"96.04.22","lat":-0.880167533883951,"lng":132.97075378057647,"name":"Mawabuan","province":{"id":"96","name":"Papua Barat Daya"},"regency":{"id":"96.04","name":"Kabupaten Tambrauw"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

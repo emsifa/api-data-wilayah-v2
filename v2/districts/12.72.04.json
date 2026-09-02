@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.72.04",
-    "name": "Siantar Selatan",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.72",
-      "name": "Kota Pematangsiantar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.72.04","lat":2.947938052185298,"lng":99.06158415404713,"name":"Siantar Selatan","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.72","name":"Kota Pematangsiantar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,17 +1,1 @@
-{
-  "data": {
-    "id": "94",
-    "name": "Papua Tengah",
-    "capital": "Nabira",
-    "lat": -3.363365864105701,
-    "lng": 135.50389107766932,
-    "elv": 13,
-    "tz": 9,
-    "population": 1369112,
-    "total_area": 61079.587
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:57Z",
-    "level": 1
-  }
-}
+{"data":{"id":"94","name":"Papua Tengah","capital":"Nabira","lat":-3.363365864105701,"lng":135.50389107766932,"elv":13,"tz":9,"population":1369112,"total_area":61079.587},"meta":{"updated_at":"2026-09-02","level":1}}

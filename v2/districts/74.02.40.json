@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.02.40",
-    "name": "Anggalomoare",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.02",
-      "name": "Kabupaten Konawe"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.02.40","lat":-3.957394992034833,"lng":122.4403501472511,"name":"Anggalomoare","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.02","name":"Kabupaten Konawe"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

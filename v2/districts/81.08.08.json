@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.08.08",
-    "name": "Pulau Leti",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.08",
-      "name": "Kabupaten Maluku Barat Daya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.08.08","lat":-8.19754437586599,"lng":127.68200913114173,"name":"Pulau Leti","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.08","name":"Kabupaten Maluku Barat Daya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

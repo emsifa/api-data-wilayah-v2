@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.10.08",
-    "name": "Srono",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.10",
-      "name": "Kabupaten Banyuwangi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.10.08","lat":-8.378942008041237,"lng":114.26145600317474,"name":"Srono","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.10","name":"Kabupaten Banyuwangi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

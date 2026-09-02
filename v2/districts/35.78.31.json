@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.78.31",
-    "name": "Sambikerep",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.78",
-      "name": "Kota Surabaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.78.31","lat":-7.277055602385649,"lng":112.65199526924006,"name":"Sambikerep","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.78","name":"Kota Surabaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

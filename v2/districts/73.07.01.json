@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.07.01",
-    "name": "Sinjai Barat",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.07",
-      "name": "Kabupaten Sinjai"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.07.01","lat":-5.2149426051619505,"lng":120.01206705688837,"name":"Sinjai Barat","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.07","name":"Kabupaten Sinjai"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

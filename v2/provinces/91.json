@@ -1,17 +1,1 @@
-{
-  "data": {
-    "id": "91",
-    "name": "Papua",
-    "capital": "Jayapura",
-    "lat": -2.536300864438473,
-    "lng": 140.71502399915792,
-    "elv": 9,
-    "tz": 9,
-    "population": 1102360,
-    "total_area": 81383.315
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:57Z",
-    "level": 1
-  }
-}
+{"data":{"id":"91","name":"Papua","capital":"Jayapura","lat":-2.536300864438473,"lng":140.71502399915792,"elv":9,"tz":9,"population":1102360,"total_area":81383.315},"meta":{"updated_at":"2026-09-02","level":1}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.03.01",
-    "name": "Panggul",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.03",
-      "name": "Kabupaten Trenggalek"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.03.01","lat":-8.23014160090684,"lng":111.4567862472301,"name":"Panggul","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.03","name":"Kabupaten Trenggalek"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.09.04",
-    "name": "Gumukmas",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.09",
-      "name": "Kabupaten Jember"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.09.04","lat":-8.327597310875163,"lng":113.40442086642591,"name":"Gumukmas","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.09","name":"Kabupaten Jember"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

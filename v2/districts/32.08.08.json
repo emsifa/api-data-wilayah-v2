@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.08.08",
-    "name": "Garawangi",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.08",
-      "name": "Kabupaten Kuningan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.08.08","lat":-7.013115849105044,"lng":108.52730808142756,"name":"Garawangi","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.08","name":"Kabupaten Kuningan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

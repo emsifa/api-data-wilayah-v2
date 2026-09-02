@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "93.01.14",
-    "name": "Malind",
-    "province": {
-      "id": "93",
-      "name": "Papua Selatan"
-    },
-    "regency": {
-      "id": "93.01",
-      "name": "Kabupaten Merauke"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"93.01.14","lat":-8.209751076379822,"lng":140.1111041301188,"name":"Malind","province":{"id":"93","name":"Papua Selatan"},"regency":{"id":"93.01","name":"Kabupaten Merauke"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.16.06",
-    "name": "Dolok Sanggul",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.16",
-      "name": "Kabupaten Humbang Hasundutan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.16.06","lat":2.2377564751062864,"lng":98.72121473240783,"name":"Dolok Sanggul","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.16","name":"Kabupaten Humbang Hasundutan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

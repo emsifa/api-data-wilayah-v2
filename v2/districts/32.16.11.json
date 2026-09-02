@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.16.11",
-    "name": "Cikarang Timur",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.16",
-      "name": "Kabupaten Bekasi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.16.11","lat":-6.288478624037119,"lng":107.2089539592699,"name":"Cikarang Timur","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.16","name":"Kabupaten Bekasi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

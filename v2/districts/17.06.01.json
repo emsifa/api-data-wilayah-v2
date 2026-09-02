@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "17.06.01",
-    "name": "Lubuk Pinang",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
-    },
-    "regency": {
-      "id": "17.06",
-      "name": "Kabupaten Mukomuko"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"17.06.01","lat":-2.4222753468070595,"lng":101.15485881565792,"name":"Lubuk Pinang","province":{"id":"17","name":"Bengkulu"},"regency":{"id":"17.06","name":"Kabupaten Mukomuko"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

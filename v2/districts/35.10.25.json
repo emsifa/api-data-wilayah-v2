@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.10.25",
-    "name": "Blimbingsari",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.10",
-      "name": "Kabupaten Banyuwangi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.10.25","lat":-8.3309705105877,"lng":114.33617008014654,"name":"Blimbingsari","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.10","name":"Kabupaten Banyuwangi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

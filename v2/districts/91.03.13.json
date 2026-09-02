@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "91.03.13",
-    "name": "Waibu",
-    "province": {
-      "id": "91",
-      "name": "Papua"
-    },
-    "regency": {
-      "id": "91.03",
-      "name": "Kabupaten Jayapura"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"91.03.13","lat":-2.5634481639385136,"lng":140.43646600461352,"name":"Waibu","province":{"id":"91","name":"Papua"},"regency":{"id":"91.03","name":"Kabupaten Jayapura"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

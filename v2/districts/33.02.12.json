@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.02.12",
-    "name": "Patikraja",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.02",
-      "name": "Kabupaten Banyumas"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.02.12","lat":-7.476873268204251,"lng":109.21311442830876,"name":"Patikraja","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.02","name":"Kabupaten Banyumas"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

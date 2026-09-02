@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.05.09",
-    "name": "Tenga",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.05",
-      "name": "Kabupaten Minahasa Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.05.09","lat":1.1448998441678548,"lng":124.42680662874442,"name":"Tenga","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.05","name":"Kabupaten Minahasa Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

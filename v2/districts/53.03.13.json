@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.03.13",
-    "name": "Mutis",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.03",
-      "name": "Kabupaten Timor Tengah Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.03.13","lat":-9.44812704161021,"lng":124.21756260631238,"name":"Mutis","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.03","name":"Kabupaten Timor Tengah Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

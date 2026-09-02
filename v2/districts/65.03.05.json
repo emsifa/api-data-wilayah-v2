@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "65.03.05",
-    "name": "Krayan",
-    "province": {
-      "id": "65",
-      "name": "Kalimantan Utara"
-    },
-    "regency": {
-      "id": "65.03",
-      "name": "Kabupaten Nunukan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"65.03.05","lat":3.8868644303336564,"lng":115.70095659657173,"name":"Krayan","province":{"id":"65","name":"Kalimantan Utara"},"regency":{"id":"65.03","name":"Kabupaten Nunukan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

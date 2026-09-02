@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.03.07",
-    "name": "Gantarang Keke",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.03",
-      "name": "Kabupaten Bantaeng"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.03.07","lat":-5.517557970859395,"lng":120.05958341865602,"name":"Gantarang Keke","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.03","name":"Kabupaten Bantaeng"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

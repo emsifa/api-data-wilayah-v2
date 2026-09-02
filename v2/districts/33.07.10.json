@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.07.10",
-    "name": "Watumalang",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.07",
-      "name": "Kabupaten Wonosobo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.07.10","lat":-7.310913255977071,"lng":109.85135896932628,"name":"Watumalang","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.07","name":"Kabupaten Wonosobo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

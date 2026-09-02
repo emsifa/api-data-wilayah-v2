@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "96.01.21",
-    "name": "Sunook",
-    "province": {
-      "id": "96",
-      "name": "Papua Barat Daya"
-    },
-    "regency": {
-      "id": "96.01",
-      "name": "Kabupaten Sorong"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"96.01.21","lat":-0.9373320451219682,"lng":132.1835927224182,"name":"Sunook","province":{"id":"96","name":"Papua Barat Daya"},"regency":{"id":"96.01","name":"Kabupaten Sorong"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

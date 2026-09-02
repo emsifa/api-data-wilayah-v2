@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "72.04.03",
-    "name": "Dondo",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
-    },
-    "regency": {
-      "id": "72.04",
-      "name": "Kabupaten Toli-Toli"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"72.04.03","lat":0.7225343440683508,"lng":120.4588774400357,"name":"Dondo","province":{"id":"72","name":"Sulawesi Tengah"},"regency":{"id":"72.04","name":"Kabupaten Toli-Toli"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.05.01",
-    "name": "Mangoli Timur",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.05",
-      "name": "Kabupaten Kepulauan Sula"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.05.01","lat":-1.8635071046896023,"lng":126.05764323324755,"name":"Mangoli Timur","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.05","name":"Kabupaten Kepulauan Sula"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "36.04.08",
-    "name": "Pulo Ampel",
-    "province": {
-      "id": "36",
-      "name": "Banten"
-    },
-    "regency": {
-      "id": "36.04",
-      "name": "Kabupaten Serang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"36.04.08","lat":-5.918356956798045,"lng":106.08553023855987,"name":"Pulo Ampel","province":{"id":"36","name":"Banten"},"regency":{"id":"36.04","name":"Kabupaten Serang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

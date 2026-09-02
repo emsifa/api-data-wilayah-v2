@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.04.09",
-    "name": "Merapi Barat",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.04",
-      "name": "Kabupaten Lahat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.04.09","lat":-3.7581092412200814,"lng":103.65064543819082,"name":"Merapi Barat","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.04","name":"Kabupaten Lahat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

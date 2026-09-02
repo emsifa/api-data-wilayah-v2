@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.71.04",
-    "name": "Panjang",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.71",
-      "name": "Kota Bandar Lampung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.71.04","lat":-5.475575459388357,"lng":105.32373080510419,"name":"Panjang","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.71","name":"Kota Bandar Lampung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

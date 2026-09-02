@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "51.03.03",
-    "name": "Abiansemal",
-    "province": {
-      "id": "51",
-      "name": "Bali"
-    },
-    "regency": {
-      "id": "51.03",
-      "name": "Kabupaten Badung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"51.03.03","lat":-8.531187015264608,"lng":115.22113617985971,"name":"Abiansemal","province":{"id":"51","name":"Bali"},"regency":{"id":"51.03","name":"Kabupaten Badung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

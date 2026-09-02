@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.12.30",
-    "name": "Tukdana",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.12",
-      "name": "Kabupaten Indramayu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.12.30","lat":-6.559705339726666,"lng":108.2721813976383,"name":"Tukdana","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.12","name":"Kabupaten Indramayu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

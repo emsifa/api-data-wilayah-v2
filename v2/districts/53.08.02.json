@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.08.02",
-    "name": "Pulau Ende",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.08",
-      "name": "Kabupaten Ende"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.08.02","lat":-8.882640316105768,"lng":121.52208153754803,"name":"Pulau Ende","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.08","name":"Kabupaten Ende"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

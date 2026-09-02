@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "19.03.03",
-    "name": "Airgegas",
-    "province": {
-      "id": "19",
-      "name": "Kepulauan Bangka Belitung"
-    },
-    "regency": {
-      "id": "19.03",
-      "name": "Kabupaten Bangka Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"19.03.03","lat":-2.7190931869048347,"lng":106.37391463464397,"name":"Airgegas","province":{"id":"19","name":"Kepulauan Bangka Belitung"},"regency":{"id":"19.03","name":"Kabupaten Bangka Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

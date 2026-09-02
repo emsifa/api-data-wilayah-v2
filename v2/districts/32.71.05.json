@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.71.05",
-    "name": "Bogor Utara",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.71",
-      "name": "Kota Bogor"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.71.05","lat":-6.570802766280904,"lng":106.81960905623583,"name":"Bogor Utara","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.71","name":"Kota Bogor"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

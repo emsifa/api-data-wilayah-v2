@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.72.01",
-    "name": "Dumai Barat",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.72",
-      "name": "Kota Dumai"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.72.01","lat":1.6814638760546032,"lng":101.38815962221958,"name":"Dumai Barat","province":{"id":"14","name":"Riau"},"regency":{"id":"14.72","name":"Kota Dumai"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

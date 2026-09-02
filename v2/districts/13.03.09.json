@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "13.03.09",
-    "name": "Sumpur Kudus",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
-    },
-    "regency": {
-      "id": "13.03",
-      "name": "Kabupaten Sijunjung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"13.03.09","lat":-0.45840833962388566,"lng":100.91079945731643,"name":"Sumpur Kudus","province":{"id":"13","name":"Sumatera Barat"},"regency":{"id":"13.03","name":"Kabupaten Sijunjung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

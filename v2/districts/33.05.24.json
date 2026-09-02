@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.05.24",
-    "name": "Padureso",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.05",
-      "name": "Kabupaten Kebumen"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.05.24","lat":-7.632437820905508,"lng":109.78762441351006,"name":"Padureso","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.05","name":"Kabupaten Kebumen"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

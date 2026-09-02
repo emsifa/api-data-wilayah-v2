@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.13.06",
-    "name": "Tawangmangu",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.13",
-      "name": "Kabupaten Karanganyar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.13.06","lat":-7.664293845573193,"lng":111.13850232407408,"name":"Tawangmangu","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.13","name":"Kabupaten Karanganyar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

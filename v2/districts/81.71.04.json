@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.71.04",
-    "name": "Teluk Ambon",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.71",
-      "name": "Kota Ambon"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.71.04","lat":-3.668439007562819,"lng":128.1259072955113,"name":"Teluk Ambon","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.71","name":"Kota Ambon"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

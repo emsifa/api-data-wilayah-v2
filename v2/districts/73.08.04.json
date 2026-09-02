@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.08.04",
-    "name": "Salomekko",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.08",
-      "name": "Kabupaten Bone"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.08.04","lat":-5.001504211012043,"lng":120.23214501329853,"name":"Salomekko","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.08","name":"Kabupaten Bone"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

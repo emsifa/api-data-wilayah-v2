@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.03.07",
-    "name": "Abung Selatan",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.03",
-      "name": "Kabupaten Lampung Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.03.07","lat":-4.896531184672418,"lng":104.9296699066653,"name":"Abung Selatan","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.03","name":"Kabupaten Lampung Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

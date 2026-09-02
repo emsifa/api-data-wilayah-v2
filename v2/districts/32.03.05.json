@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.03.05",
-    "name": "Ciranjang",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.03",
-      "name": "Kabupaten Cianjur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.03.05","lat":-6.8065730862806815,"lng":107.26571927152537,"name":"Ciranjang","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.03","name":"Kabupaten Cianjur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

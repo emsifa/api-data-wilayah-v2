@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.04.07",
-    "name": "Bajubang",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.04",
-      "name": "Kabupaten Batanghari"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.04.07","lat":-2.026076443871471,"lng":103.3326464303219,"name":"Bajubang","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.04","name":"Kabupaten Batanghari"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.01.01",
-    "name": "Bakongan",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.01",
-      "name": "Kabupaten Aceh Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.01.01","lat":2.960325743420683,"lng":97.46087307098534,"name":"Bakongan","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.01","name":"Kabupaten Aceh Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

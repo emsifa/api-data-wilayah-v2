@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.04.31",
-    "name": "Lahat Selatan",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.04",
-      "name": "Kabupaten Lahat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.04.31","lat":-3.8436859931422127,"lng":103.58088863375713,"name":"Lahat Selatan","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.04","name":"Kabupaten Lahat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

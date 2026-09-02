@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "93.02.07",
-    "name": "Kombut",
-    "province": {
-      "id": "93",
-      "name": "Papua Selatan"
-    },
-    "regency": {
-      "id": "93.02",
-      "name": "Kabupaten Boven Digoel"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"93.02.07","lat":-5.879860956930819,"lng":140.90200671393904,"name":"Kombut","province":{"id":"93","name":"Papua Selatan"},"regency":{"id":"93.02","name":"Kabupaten Boven Digoel"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

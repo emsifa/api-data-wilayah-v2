@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.74.03",
-    "name": "Cambai",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.74",
-      "name": "Kota Prabumulih"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.74.03","lat":-3.3784005176794527,"lng":104.26796850968965,"name":"Cambai","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.74","name":"Kota Prabumulih"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

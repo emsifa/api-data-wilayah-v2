@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.13.08",
-    "name": "Krui Selatan",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.13",
-      "name": "Kabupaten Pesisir Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.13.08","lat":-5.224439876551885,"lng":103.94424873929755,"name":"Krui Selatan","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.13","name":"Kabupaten Pesisir Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

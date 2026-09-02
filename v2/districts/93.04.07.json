@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "93.04.07",
-    "name": "Suator",
-    "province": {
-      "id": "93",
-      "name": "Papua Selatan"
-    },
-    "regency": {
-      "id": "93.04",
-      "name": "Kabupaten Asmat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"93.04.07","lat":-5.292196936966965,"lng":139.34561047658445,"name":"Suator","province":{"id":"93","name":"Papua Selatan"},"regency":{"id":"93.04","name":"Kabupaten Asmat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

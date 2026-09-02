@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.17.02",
-    "name": "Permata",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.17",
-      "name": "Kabupaten Bener Meriah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.17.02","lat":4.832486050217216,"lng":96.93680514705136,"name":"Permata","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.17","name":"Kabupaten Bener Meriah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

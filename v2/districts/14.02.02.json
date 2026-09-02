@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "14.02.02",
-    "name": "Rengat Barat",
-    "province": {
-      "id": "14",
-      "name": "Riau"
-    },
-    "regency": {
-      "id": "14.02",
-      "name": "Kabupaten Indragiri Hulu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"14.02.02","lat":-0.3363296182541739,"lng":102.42245416481123,"name":"Rengat Barat","province":{"id":"14","name":"Riau"},"regency":{"id":"14.02","name":"Kabupaten Indragiri Hulu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

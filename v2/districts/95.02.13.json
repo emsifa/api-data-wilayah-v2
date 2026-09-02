@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.02.13",
-    "name": "Kalomdol",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.02",
-      "name": "Kabupaten Pegunungan Bintang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.02.13","lat":-4.976078800576934,"lng":140.6241669424759,"name":"Kalomdol","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.02","name":"Kabupaten Pegunungan Bintang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "62.01.04",
-    "name": "Arut Utara",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
-    },
-    "regency": {
-      "id": "62.01",
-      "name": "Kabupaten Kotawaringin Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"62.01.04","lat":-2.000819369451743,"lng":111.9013395556231,"name":"Arut Utara","province":{"id":"62","name":"Kalimantan Tengah"},"regency":{"id":"62.01","name":"Kabupaten Kotawaringin Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

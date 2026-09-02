@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.71.04",
-    "name": "Oebobo",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.71",
-      "name": "Kota Kupang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.71.04","lat":-10.167940235850304,"lng":123.6249747126272,"name":"Oebobo","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.71","name":"Kota Kupang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

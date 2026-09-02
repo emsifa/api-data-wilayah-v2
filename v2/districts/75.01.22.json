@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "75.01.22",
-    "name": "Talaga Jaya",
-    "province": {
-      "id": "75",
-      "name": "Gorontalo"
-    },
-    "regency": {
-      "id": "75.01",
-      "name": "Kabupaten Gorontalo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"75.01.22","lat":0.5818536001366136,"lng":123.01101726506661,"name":"Talaga Jaya","province":{"id":"75","name":"Gorontalo"},"regency":{"id":"75.01","name":"Kabupaten Gorontalo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

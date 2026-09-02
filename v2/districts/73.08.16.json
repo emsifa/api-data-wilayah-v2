@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.08.16",
-    "name": "Awangpone",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.08",
-      "name": "Kabupaten Bone"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.08.16","lat":-4.452251141141965,"lng":120.29893039116753,"name":"Awangpone","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.08","name":"Kabupaten Bone"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

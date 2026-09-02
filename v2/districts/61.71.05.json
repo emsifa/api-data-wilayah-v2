@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.71.05",
-    "name": "Pontianak Kota",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.71",
-      "name": "Kota Pontianak"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.71.05","lat":-0.03663674300562847,"lng":109.31348410491758,"name":"Pontianak Kota","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.71","name":"Kota Pontianak"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

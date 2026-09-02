@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "34.02.07",
-    "name": "Pajangan",
-    "province": {
-      "id": "34",
-      "name": "Daerah Istimewa Yogyakarta"
-    },
-    "regency": {
-      "id": "34.02",
-      "name": "Kabupaten Bantul"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"34.02.07","lat":-7.870616154244499,"lng":110.28753604226586,"name":"Pajangan","province":{"id":"34","name":"Daerah Istimewa Yogyakarta"},"regency":{"id":"34.02","name":"Kabupaten Bantul"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

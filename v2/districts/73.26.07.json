@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.26.07",
-    "name": "Sanggalangi",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.26",
-      "name": "Kabupaten Toraja Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.26.07","lat":-3.0106428051308503,"lng":119.92921820231625,"name":"Sanggalangi","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.26","name":"Kabupaten Toraja Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

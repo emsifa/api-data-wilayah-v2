@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "72.04.05",
-    "name": "Ogodeide",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
-    },
-    "regency": {
-      "id": "72.04",
-      "name": "Kabupaten Toli-Toli"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"72.04.05","lat":0.8887857863768751,"lng":120.67532019625936,"name":"Ogodeide","province":{"id":"72","name":"Sulawesi Tengah"},"regency":{"id":"72.04","name":"Kabupaten Toli-Toli"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.03.02",
-    "name": "Bantaeng",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.03",
-      "name": "Kabupaten Bantaeng"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.03.02","lat":-5.504526115069613,"lng":119.96965030801628,"name":"Bantaeng","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.03","name":"Kabupaten Bantaeng"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

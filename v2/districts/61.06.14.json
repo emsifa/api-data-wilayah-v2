@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.06.14",
-    "name": "Badau",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.06",
-      "name": "Kabupaten Kapuas Hulu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.06.14","lat":0.9917756258447447,"lng":111.96752815351252,"name":"Badau","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.06","name":"Kabupaten Kapuas Hulu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

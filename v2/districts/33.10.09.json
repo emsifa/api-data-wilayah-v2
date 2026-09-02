@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.10.09",
-    "name": "Manisrenggo",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.10",
-      "name": "Kabupaten Klaten"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.10.09","lat":-7.68627510264403,"lng":110.49828558537541,"name":"Manisrenggo","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.10","name":"Kabupaten Klaten"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

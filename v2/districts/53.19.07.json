@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.19.07",
-    "name": "Rana Mese",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.19",
-      "name": "Kabupaten Manggarai Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.19.07","lat":-8.712854138281383,"lng":120.5447860853252,"name":"Rana Mese","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.19","name":"Kabupaten Manggarai Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

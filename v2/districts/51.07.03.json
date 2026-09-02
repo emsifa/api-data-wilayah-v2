@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "51.07.03",
-    "name": "Manggis",
-    "province": {
-      "id": "51",
-      "name": "Bali"
-    },
-    "regency": {
-      "id": "51.07",
-      "name": "Kabupaten Karangasem"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"51.07.03","lat":-8.491159160386525,"lng":115.5180913850901,"name":"Manggis","province":{"id":"51","name":"Bali"},"regency":{"id":"51.07","name":"Kabupaten Karangasem"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

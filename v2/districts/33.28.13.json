@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.28.13",
-    "name": "Dukuhturi",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.28",
-      "name": "Kabupaten Tegal"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.28.13","lat":-6.901410004997438,"lng":109.10677527661176,"name":"Dukuhturi","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.28","name":"Kabupaten Tegal"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

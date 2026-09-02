@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.04.15",
-    "name": "Lilialy",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.04",
-      "name": "Kabupaten Buru"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.04.15","lat":-3.1850529556695655,"lng":126.97801598402263,"name":"Lilialy","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.04","name":"Kabupaten Buru"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

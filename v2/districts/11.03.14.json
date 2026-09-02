@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.03.14",
-    "name": "Idi Tunong",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.03",
-      "name": "Kabupaten Aceh Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.03.14","lat":4.8761856359155935,"lng":97.72920060050366,"name":"Idi Tunong","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.03","name":"Kabupaten Aceh Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.07.05",
-    "name": "Cidolog",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.07",
-      "name": "Kabupaten Ciamis"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.07.05","lat":-7.426960517091157,"lng":108.43947541823741,"name":"Cidolog","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.07","name":"Kabupaten Ciamis"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

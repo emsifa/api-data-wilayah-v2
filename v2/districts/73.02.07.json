@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.02.07",
-    "name": "Bulukumpa",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.02",
-      "name": "Kabupaten Bulukumba"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.02.07","lat":-5.345517717181391,"lng":120.17911610419772,"name":"Bulukumpa","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.02","name":"Kabupaten Bulukumba"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

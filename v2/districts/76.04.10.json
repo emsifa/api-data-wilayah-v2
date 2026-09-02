@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "76.04.10",
-    "name": "Luyo",
-    "province": {
-      "id": "76",
-      "name": "Sulawesi Barat"
-    },
-    "regency": {
-      "id": "76.04",
-      "name": "Kabupaten Polewali Mandar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"76.04.10","lat":-3.366412633024754,"lng":119.1064662059505,"name":"Luyo","province":{"id":"76","name":"Sulawesi Barat"},"regency":{"id":"76.04","name":"Kabupaten Polewali Mandar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.02.42",
-    "name": "Tongauna Utara",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.02",
-      "name": "Kabupaten Konawe"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.02.42","lat":-3.7227456153146123,"lng":122.02713359557656,"name":"Tongauna Utara","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.02","name":"Kabupaten Konawe"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

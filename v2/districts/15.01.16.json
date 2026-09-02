@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.01.16",
-    "name": "Siulak",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.01",
-      "name": "Kabupaten Kerinci"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.01.16","lat":-1.978673359992925,"lng":101.29331347380075,"name":"Siulak","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.01","name":"Kabupaten Kerinci"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

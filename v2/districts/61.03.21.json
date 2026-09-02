@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.03.21",
-    "name": "Entikong",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.03",
-      "name": "Kabupaten Sanggau"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.03.21","lat":1.0061708407871832,"lng":110.25542065283605,"name":"Entikong","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.03","name":"Kabupaten Sanggau"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

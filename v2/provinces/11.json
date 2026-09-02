@@ -1,17 +1,1 @@
-{
-  "data": {
-    "id": "11",
-    "name": "Aceh",
-    "capital": "Banda Aceh",
-    "lat": 5.570546962920454,
-    "lng": 95.34080851187178,
-    "elv": 11,
-    "tz": 7,
-    "population": 5623479,
-    "total_area": 56835.019
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:57Z",
-    "level": 1
-  }
-}
+{"data":{"id":"11","name":"Aceh","capital":"Banda Aceh","lat":5.570546962920454,"lng":95.34080851187178,"elv":11,"tz":7,"population":5623479,"total_area":56835.019},"meta":{"updated_at":"2026-09-02","level":1}}

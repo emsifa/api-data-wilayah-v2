@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.26.15",
-    "name": "Tirto",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.26",
-      "name": "Kabupaten Pekalongan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.26.15","lat":-6.901904693233809,"lng":109.6364073784547,"name":"Tirto","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.26","name":"Kabupaten Pekalongan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.20.05",
-    "name": "Batealit",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.20",
-      "name": "Kabupaten Jepara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.20.05","lat":-6.63603954099813,"lng":110.77809544278416,"name":"Batealit","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.20","name":"Kabupaten Jepara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

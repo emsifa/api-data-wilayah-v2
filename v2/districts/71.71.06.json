@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.71.06",
-    "name": "Sario",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.71",
-      "name": "Kota Manado"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.71.06","lat":1.468929155792951,"lng":124.83433510039643,"name":"Sario","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.71","name":"Kota Manado"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

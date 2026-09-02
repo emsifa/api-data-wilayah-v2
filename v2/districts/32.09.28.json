@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.09.28",
-    "name": "Gegesik",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.09",
-      "name": "Kabupaten Cirebon"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.09.28","lat":-6.575209673945066,"lng":108.42957776007455,"name":"Gegesik","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.09","name":"Kabupaten Cirebon"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

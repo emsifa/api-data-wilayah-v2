@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.03.20",
-    "name": "Cintapuri Darussalam",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.03",
-      "name": "Kabupaten Banjar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.03.20","lat":-3.180622530950529,"lng":114.90133900369797,"name":"Cintapuri Darussalam","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.03","name":"Kabupaten Banjar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.06.10",
-    "name": "Kota Maba",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.06",
-      "name": "Kabupaten Halmahera Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.06.10","lat":0.7225455610108245,"lng":128.15501019033962,"name":"Kota Maba","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.06","name":"Kabupaten Halmahera Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

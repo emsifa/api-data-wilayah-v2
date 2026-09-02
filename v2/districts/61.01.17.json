@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.01.17",
-    "name": "Tangaran",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.01",
-      "name": "Kabupaten Sambas"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.01.17","lat":1.537503957673246,"lng":109.13668363451842,"name":"Tangaran","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.01","name":"Kabupaten Sambas"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

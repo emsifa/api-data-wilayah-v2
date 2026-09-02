@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "34.71.12",
-    "name": "Mergangsan",
-    "province": {
-      "id": "34",
-      "name": "Daerah Istimewa Yogyakarta"
-    },
-    "regency": {
-      "id": "34.71",
-      "name": "Kota Yogyakarta"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"34.71.12","lat":-7.813726804479111,"lng":110.3737904310483,"name":"Mergangsan","province":{"id":"34","name":"Daerah Istimewa Yogyakarta"},"regency":{"id":"34.71","name":"Kota Yogyakarta"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

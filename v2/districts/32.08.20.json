@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.08.20",
-    "name": "Nusaherang",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.08",
-      "name": "Kabupaten Kuningan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.08.20","lat":-7.01537011147554,"lng":108.4322732449504,"name":"Nusaherang","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.08","name":"Kabupaten Kuningan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

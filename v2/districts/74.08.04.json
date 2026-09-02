@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "74.08.04",
-    "name": "Rante Angin",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
-    },
-    "regency": {
-      "id": "74.08",
-      "name": "Kabupaten Kolaka Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"74.08.04","lat":-3.6135558542467545,"lng":121.06990363855061,"name":"Rante Angin","province":{"id":"74","name":"Sulawesi Tenggara"},"regency":{"id":"74.08","name":"Kabupaten Kolaka Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

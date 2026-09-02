@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.08.23",
-    "name": "Mbua Tengah",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.08",
-      "name": "Kabupaten Nduga"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.08.23","lat":-4.456092124192399,"lng":138.5228470776473,"name":"Mbua Tengah","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.08","name":"Kabupaten Nduga"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

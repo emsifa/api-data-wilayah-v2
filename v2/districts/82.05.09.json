@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.05.09",
-    "name": "Sulabesi Selatan",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.05",
-      "name": "Kabupaten Kepulauan Sula"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.05.09","lat":-2.34457415661716,"lng":125.97833264848164,"name":"Sulabesi Selatan","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.05","name":"Kabupaten Kepulauan Sula"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

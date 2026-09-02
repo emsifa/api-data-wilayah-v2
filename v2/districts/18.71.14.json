@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.71.14",
-    "name": "Labuhan Ratu",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.71",
-      "name": "Kota Bandar Lampung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.71.14","lat":-5.371549427574144,"lng":105.25758526931445,"name":"Labuhan Ratu","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.71","name":"Kota Bandar Lampung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

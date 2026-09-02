@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.73.03",
-    "name": "Lubuk Linggau Selatan I",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.73",
-      "name": "Kota Lubuk Linggau"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.73.03","lat":-3.3258031647967092,"lng":102.93173201431702,"name":"Lubuk Linggau Selatan I","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.73","name":"Kota Lubuk Linggau"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

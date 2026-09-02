@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.14.04",
-    "name": "Baranti",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.14",
-      "name": "Kabupaten Sidenreng Rappang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.14.04","lat":-3.835991334209685,"lng":119.77498303058186,"name":"Baranti","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.14","name":"Kabupaten Sidenreng Rappang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.07.01",
-    "name": "Haruyan",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.07",
-      "name": "Kabupaten Hulu Sungai Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.07.01","lat":-2.6955602317065286,"lng":115.3651943812886,"name":"Haruyan","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.07","name":"Kabupaten Hulu Sungai Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

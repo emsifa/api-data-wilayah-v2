@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.11.20",
-    "name": "Binakal",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.11",
-      "name": "Kabupaten Bondowoso"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.11.20","lat":-7.911263423464745,"lng":113.74008435231781,"name":"Binakal","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.11","name":"Kabupaten Bondowoso"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

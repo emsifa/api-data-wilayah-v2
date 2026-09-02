@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "13.12.03",
-    "name": "Pasaman",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
-    },
-    "regency": {
-      "id": "13.12",
-      "name": "Kabupaten Pasaman Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"13.12.03","lat":0.12177991314148323,"lng":99.81292834758328,"name":"Pasaman","province":{"id":"13","name":"Sumatera Barat"},"regency":{"id":"13.12","name":"Kabupaten Pasaman Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

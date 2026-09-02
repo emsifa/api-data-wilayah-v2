@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.06.20",
-    "name": "Tarokan",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.06",
-      "name": "Kabupaten Kediri"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.06.20","lat":-7.727006362061128,"lng":111.93834665938036,"name":"Tarokan","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.06","name":"Kabupaten Kediri"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

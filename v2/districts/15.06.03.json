@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.06.03",
-    "name": "Pengabuan",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.06",
-      "name": "Kabupaten Tanjung Jabung Barat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.06.03","lat":-0.8845347366015034,"lng":103.22659166629403,"name":"Pengabuan","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.06","name":"Kabupaten Tanjung Jabung Barat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

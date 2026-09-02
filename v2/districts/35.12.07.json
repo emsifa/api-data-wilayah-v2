@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.12.07",
-    "name": "Situbondo",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.12",
-      "name": "Kabupaten Situbondo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.12.07","lat":-7.72132412237996,"lng":113.99631983640326,"name":"Situbondo","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.12","name":"Kabupaten Situbondo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

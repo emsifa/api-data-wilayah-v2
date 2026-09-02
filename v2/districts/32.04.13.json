@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.04.13",
-    "name": "Banjaran",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.04",
-      "name": "Kabupaten Bandung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.04.13","lat":-7.075948178070521,"lng":107.59400202510176,"name":"Banjaran","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.04","name":"Kabupaten Bandung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

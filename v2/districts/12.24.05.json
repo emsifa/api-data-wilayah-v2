@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.24.05",
-    "name": "Namohalu Esiwa",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.24",
-      "name": "Kabupaten Nias Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.24.05","lat":1.327363826502111,"lng":97.41866540929286,"name":"Namohalu Esiwa","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.24","name":"Kabupaten Nias Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

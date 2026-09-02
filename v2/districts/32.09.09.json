@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.09.09",
-    "name": "Sedong",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.09",
-      "name": "Kabupaten Cirebon"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.09.09","lat":-6.871855021331784,"lng":108.57497939601527,"name":"Sedong","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.09","name":"Kabupaten Cirebon"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.24.19",
-    "name": "Kembangbahu",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.24",
-      "name": "Kabupaten Lamongan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.24.19","lat":-7.203924875376226,"lng":112.36195839171113,"name":"Kembangbahu","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.24","name":"Kabupaten Lamongan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

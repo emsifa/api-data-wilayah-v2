@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "34.02.10",
-    "name": "Imogiri",
-    "province": {
-      "id": "34",
-      "name": "Daerah Istimewa Yogyakarta"
-    },
-    "regency": {
-      "id": "34.02",
-      "name": "Kabupaten Bantul"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"34.02.10","lat":-7.9372914245211925,"lng":110.39766034191663,"name":"Imogiri","province":{"id":"34","name":"Daerah Istimewa Yogyakarta"},"regency":{"id":"34.02","name":"Kabupaten Bantul"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

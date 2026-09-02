@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.18.10",
-    "name": "Pati",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.18",
-      "name": "Kabupaten Pati"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.18.10","lat":-6.740544483782812,"lng":111.05682706825503,"name":"Pati","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.18","name":"Kabupaten Pati"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

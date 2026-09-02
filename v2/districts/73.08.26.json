@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.08.26",
-    "name": "Bengo",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.08",
-      "name": "Kabupaten Bone"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.08.26","lat":-4.622130063343677,"lng":120.05219385503652,"name":"Bengo","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.08","name":"Kabupaten Bone"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

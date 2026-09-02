@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.04.29",
-    "name": "Sukamerindu",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.04",
-      "name": "Kabupaten Lahat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.04.29","lat":-3.962863355774991,"lng":103.21703464178431,"name":"Sukamerindu","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.04","name":"Kabupaten Lahat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

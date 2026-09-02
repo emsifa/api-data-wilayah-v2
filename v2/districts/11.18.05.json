@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.18.05",
-    "name": "Meurah Dua",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.18",
-      "name": "Kabupaten Pidie Jaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.18.05","lat":5.026429235703655,"lng":96.26161857553349,"name":"Meurah Dua","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.18","name":"Kabupaten Pidie Jaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

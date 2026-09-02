@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.03.08",
-    "name": "Mande",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.03",
-      "name": "Kabupaten Cianjur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.03.08","lat":-6.756490683767007,"lng":107.19527595575768,"name":"Mande","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.03","name":"Kabupaten Cianjur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

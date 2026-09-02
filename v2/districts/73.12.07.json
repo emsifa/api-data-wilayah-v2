@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.12.07",
-    "name": "Ganra",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.12",
-      "name": "Kabupaten Soppeng"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.12.07","lat":-4.2966539432385815,"lng":119.94876382962046,"name":"Ganra","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.12","name":"Kabupaten Soppeng"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

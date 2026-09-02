@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.78.24",
-    "name": "Tenggilis Mejoyo",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.78",
-      "name": "Kota Surabaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.78.24","lat":-7.324676297593083,"lng":112.75429018733058,"name":"Tenggilis Mejoyo","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.78","name":"Kota Surabaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.21.08",
-    "name": "Padas",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.21",
-      "name": "Kabupaten Ngawi"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.21.08","lat":-7.448564454378802,"lng":111.52796382247982,"name":"Padas","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.21","name":"Kabupaten Ngawi"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

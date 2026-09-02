@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.09.13",
-    "name": "Simo",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.09",
-      "name": "Kabupaten Boyolali"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.09.13","lat":-7.431257141673368,"lng":110.68375036550067,"name":"Simo","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.09","name":"Kabupaten Boyolali"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

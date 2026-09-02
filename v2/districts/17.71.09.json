@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "17.71.09",
-    "name": "Singaran Pati",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
-    },
-    "regency": {
-      "id": "17.71",
-      "name": "Kota Bengkulu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"17.71.09","lat":-3.807636611616965,"lng":102.30308791208827,"name":"Singaran Pati","province":{"id":"17","name":"Bengkulu"},"regency":{"id":"17.71","name":"Kota Bengkulu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.17.12",
-    "name": "Kragan",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.17",
-      "name": "Kabupaten Rembang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.17.12","lat":-6.691905968705289,"lng":111.57668748154526,"name":"Kragan","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.17","name":"Kabupaten Rembang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

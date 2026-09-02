@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "64.03.12",
-    "name": "Batu Putih",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
-    },
-    "regency": {
-      "id": "64.03",
-      "name": "Kabupaten Berau"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"64.03.12","lat":1.312584595791647,"lng":118.23494800671766,"name":"Batu Putih","province":{"id":"64","name":"Kalimantan Timur"},"regency":{"id":"64.03","name":"Kabupaten Berau"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

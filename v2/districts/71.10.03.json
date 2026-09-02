@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.10.03",
-    "name": "Nuangan",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.10",
-      "name": "Kabupaten Bolaang Mongondow Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.10.03","lat":0.5690762446060654,"lng":124.48913637147474,"name":"Nuangan","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.10","name":"Kabupaten Bolaang Mongondow Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

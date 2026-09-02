@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.04.16",
-    "name": "Wanaraya",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.04",
-      "name": "Kabupaten Barito Kuala"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.04.16","lat":-3.012927162638384,"lng":114.57664272101168,"name":"Wanaraya","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.04","name":"Kabupaten Barito Kuala"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

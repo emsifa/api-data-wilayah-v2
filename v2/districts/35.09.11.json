@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.09.11",
-    "name": "Wuluhan",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.09",
-      "name": "Kabupaten Jember"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.09.11","lat":-8.358748311016372,"lng":113.54095656723587,"name":"Wuluhan","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.09","name":"Kabupaten Jember"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

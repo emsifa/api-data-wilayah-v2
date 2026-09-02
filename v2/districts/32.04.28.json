@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.04.28",
-    "name": "Rancaekek",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.04",
-      "name": "Kabupaten Bandung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.04.28","lat":-6.980005486194228,"lng":107.76691428790552,"name":"Rancaekek","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.04","name":"Kabupaten Bandung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

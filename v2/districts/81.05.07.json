@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.05.07",
-    "name": "Siwalalat",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.05",
-      "name": "Kabupaten Seram Bagian Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.05.07","lat":-3.282153784601444,"lng":130.02613289930096,"name":"Siwalalat","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.05","name":"Kabupaten Seram Bagian Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

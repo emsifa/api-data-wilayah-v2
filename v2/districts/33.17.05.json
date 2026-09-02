@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.17.05",
-    "name": "Sarang",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.17",
-      "name": "Kabupaten Rembang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.17.05","lat":-6.7722720471759885,"lng":111.63387801377952,"name":"Sarang","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.17","name":"Kabupaten Rembang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

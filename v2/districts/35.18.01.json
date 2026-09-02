@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.18.01",
-    "name": "Sawahan",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.18",
-      "name": "Kabupaten Nganjuk"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.18.01","lat":-7.747061458183578,"lng":111.7732302698297,"name":"Sawahan","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.18","name":"Kabupaten Nganjuk"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

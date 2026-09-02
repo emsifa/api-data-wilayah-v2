@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.08.25",
-    "name": "Silimakuta",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.08",
-      "name": "Kabupaten Simalungun"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.08.25","lat":2.963348613697795,"lng":98.62743598897373,"name":"Silimakuta","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.08","name":"Kabupaten Simalungun"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

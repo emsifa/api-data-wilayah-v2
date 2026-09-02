@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.27.13",
-    "name": "Pangarengan",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.27",
-      "name": "Kabupaten Sampang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.27.13","lat":-7.192947191502624,"lng":113.17242266298749,"name":"Pangarengan","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.27","name":"Kabupaten Sampang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.77.01",
-    "name": "Padangsidimpuan Utara",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.77",
-      "name": "Kota Padangsidimpuan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.77.01","lat":1.3937572596608279,"lng":99.25863102859687,"name":"Padangsidimpuan Utara","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.77","name":"Kota Padangsidimpuan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

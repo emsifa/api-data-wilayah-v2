@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.04.20",
-    "name": "Pseksu",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.04",
-      "name": "Kabupaten Lahat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.04.20","lat":-3.821489816481174,"lng":103.31951869479856,"name":"Pseksu","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.04","name":"Kabupaten Lahat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

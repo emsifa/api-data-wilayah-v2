@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.02.11",
-    "name": "Babul Rahmah",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.02",
-      "name": "Kabupaten Aceh Tenggara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.02.11","lat":3.301694466914889,"lng":97.69983582294071,"name":"Babul Rahmah","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.02","name":"Kabupaten Aceh Tenggara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

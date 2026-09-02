@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.15.04",
-    "name": "Porong",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.15",
-      "name": "Kabupaten Sidoarjo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.15.04","lat":-7.5285842775357255,"lng":112.70795341819127,"name":"Porong","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.15","name":"Kabupaten Sidoarjo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

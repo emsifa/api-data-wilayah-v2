@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.07.05",
-    "name": "Aru Utara Timur Batuley",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.07",
-      "name": "Kabupaten Kepulauan Aru"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.07.05","lat":-5.768072946311403,"lng":134.64640906992759,"name":"Aru Utara Timur Batuley","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.07","name":"Kabupaten Kepulauan Aru"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

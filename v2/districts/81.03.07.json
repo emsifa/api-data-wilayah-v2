@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.03.07",
-    "name": "Wuar Labobar",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.03",
-      "name": "Kabupaten Kepulauan Tanimbar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.03.07","lat":-7.404798167405362,"lng":131.43261249216118,"name":"Wuar Labobar","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.03","name":"Kabupaten Kepulauan Tanimbar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

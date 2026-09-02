@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "51.05.02",
-    "name": "Banjarangkan",
-    "province": {
-      "id": "51",
-      "name": "Bali"
-    },
-    "regency": {
-      "id": "51.05",
-      "name": "Kabupaten Klungkung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"51.05.02","lat":-8.518654777136671,"lng":115.37700805559871,"name":"Banjarangkan","province":{"id":"51","name":"Bali"},"regency":{"id":"51.05","name":"Kabupaten Klungkung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "71.71.05",
-    "name": "Tikala",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
-    },
-    "regency": {
-      "id": "71.71",
-      "name": "Kota Manado"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"71.71.05","lat":1.4671567498511842,"lng":124.86200052858885,"name":"Tikala","province":{"id":"71","name":"Sulawesi Utara"},"regency":{"id":"71.71","name":"Kota Manado"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

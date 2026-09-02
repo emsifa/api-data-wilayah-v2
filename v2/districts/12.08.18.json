@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.08.18",
-    "name": "Hutabayu Raja",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.08",
-      "name": "Kabupaten Simalungun"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.08.18","lat":2.9708095881467154,"lng":99.28992012762535,"name":"Hutabayu Raja","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.08","name":"Kabupaten Simalungun"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

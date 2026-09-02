@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.15.04",
-    "name": "Beutong",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.15",
-      "name": "Kabupaten Nagan Raya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.15.04","lat":4.286322544310766,"lng":96.50074017647157,"name":"Beutong","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.15","name":"Kabupaten Nagan Raya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

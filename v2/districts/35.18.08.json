@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.18.08",
-    "name": "Kertosono",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.18",
-      "name": "Kabupaten Nganjuk"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.18.08","lat":-7.609993653770618,"lng":112.08934428324962,"name":"Kertosono","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.18","name":"Kabupaten Nganjuk"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

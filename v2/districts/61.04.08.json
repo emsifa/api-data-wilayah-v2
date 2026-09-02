@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "61.04.08",
-    "name": "Simpang Hulu",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
-    },
-    "regency": {
-      "id": "61.04",
-      "name": "Kabupaten Ketapang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"61.04.08","lat":-0.5525941937679609,"lng":110.27233492065395,"name":"Simpang Hulu","province":{"id":"61","name":"Kalimantan Barat"},"regency":{"id":"61.04","name":"Kabupaten Ketapang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

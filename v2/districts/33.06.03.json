@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.06.03",
-    "name": "Purwodadi",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.06",
-      "name": "Kabupaten Purworejo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.06.03","lat":-7.834464042745058,"lng":109.99938002546854,"name":"Purwodadi","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.06","name":"Kabupaten Purworejo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

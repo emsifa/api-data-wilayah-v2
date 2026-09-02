@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.28.11",
-    "name": "Adiwerna",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.28",
-      "name": "Kabupaten Tegal"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.28.11","lat":-6.935329774567936,"lng":109.11000445917857,"name":"Adiwerna","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.28","name":"Kabupaten Tegal"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

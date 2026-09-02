@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.18.09",
-    "name": "Patianrowo",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.18",
-      "name": "Kabupaten Nganjuk"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.18.09","lat":-7.548564151934384,"lng":112.09958989455089,"name":"Patianrowo","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.18","name":"Kabupaten Nganjuk"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

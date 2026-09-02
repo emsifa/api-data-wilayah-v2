@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.08.21",
-    "name": "Tanete Riattang",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.08",
-      "name": "Kabupaten Bone"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.08.21","lat":-4.531058791004391,"lng":120.33500539497383,"name":"Tanete Riattang","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.08","name":"Kabupaten Bone"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

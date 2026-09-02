@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.26.17",
-    "name": "Siwalan",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.26",
-      "name": "Kabupaten Pekalongan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.26.17","lat":-6.889401993347954,"lng":109.58713906186762,"name":"Siwalan","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.26","name":"Kabupaten Pekalongan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

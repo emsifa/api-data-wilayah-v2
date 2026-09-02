@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.08.03",
-    "name": "Lede",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.08",
-      "name": "Kabupaten Pulau Taliabu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.08.03","lat":-1.7247019061283375,"lng":124.44054558412441,"name":"Lede","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.08","name":"Kabupaten Pulau Taliabu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

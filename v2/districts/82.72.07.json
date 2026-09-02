@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.72.07",
-    "name": "Oba Selatan",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.72",
-      "name": "Kota Tidore Kepulauan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.72.07","lat":0.09415609195734348,"lng":127.75564406723669,"name":"Oba Selatan","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.72","name":"Kota Tidore Kepulauan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

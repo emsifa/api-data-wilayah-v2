@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.76.03",
-    "name": "Kranggan",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.76",
-      "name": "Kota Mojokerto"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.76.03","lat":-7.477793952555683,"lng":112.44018511447997,"name":"Kranggan","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.76","name":"Kota Mojokerto"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.72.02",
-    "name": "Ujung",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.72",
-      "name": "Kota Parepare"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.72.02","lat":-3.995857555143077,"lng":119.65045766667863,"name":"Ujung","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.72","name":"Kota Parepare"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

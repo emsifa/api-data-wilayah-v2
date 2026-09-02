@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.02.07",
-    "name": "Sumpiuh",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.02",
-      "name": "Kabupaten Banyumas"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.02.07","lat":-7.597421509442242,"lng":109.3675495565517,"name":"Sumpiuh","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.02","name":"Kabupaten Banyumas"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

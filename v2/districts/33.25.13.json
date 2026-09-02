@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.25.13",
-    "name": "Kandeman",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.25",
-      "name": "Kabupaten Batang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.25.13","lat":-6.92123279851793,"lng":109.7736122942926,"name":"Kandeman","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.25","name":"Kabupaten Batang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "81.05.09",
-    "name": "Pulau Panjang",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
-    },
-    "regency": {
-      "id": "81.05",
-      "name": "Kabupaten Seram Bagian Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"81.05.09","lat":-4.013743774850612,"lng":131.2264157096026,"name":"Pulau Panjang","province":{"id":"81","name":"Maluku"},"regency":{"id":"81.05","name":"Kabupaten Seram Bagian Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.22.02",
-    "name": "Bone Bone",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.22",
-      "name": "Kabupaten Luwu Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.22.02","lat":-2.612813548459708,"lng":120.5322365096539,"name":"Bone Bone","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.22","name":"Kabupaten Luwu Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

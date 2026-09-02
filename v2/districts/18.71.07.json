@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.71.07",
-    "name": "Telukbetung Selatan",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.71",
-      "name": "Kota Bandar Lampung"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.71.07","lat":-5.4411086149227845,"lng":105.2544894360445,"name":"Telukbetung Selatan","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.71","name":"Kota Bandar Lampung"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

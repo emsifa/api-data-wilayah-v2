@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "62.06.12",
-    "name": "Petak Malai",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
-    },
-    "regency": {
-      "id": "62.06",
-      "name": "Kabupaten Katingan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"62.06.12","lat":-0.7968415031102836,"lng":112.9878485268354,"name":"Petak Malai","province":{"id":"62","name":"Kalimantan Tengah"},"regency":{"id":"62.06","name":"Kabupaten Katingan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

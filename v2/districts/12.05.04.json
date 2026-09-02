@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.05.04",
-    "name": "Sei Bingai",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.05",
-      "name": "Kabupaten Langkat"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.05.04","lat":3.3825441738190443,"lng":98.45472801056658,"name":"Sei Bingai","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.05","name":"Kabupaten Langkat"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

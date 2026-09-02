@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.27.08",
-    "name": "Pemalang",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.27",
-      "name": "Kabupaten Pemalang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.27.08","lat":-6.932792881139152,"lng":109.36452033375866,"name":"Pemalang","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.27","name":"Kabupaten Pemalang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.07.05",
-    "name": "Dimba",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.07",
-      "name": "Kabupaten Lanny Jaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.07.05","lat":-3.839554183813911,"lng":138.54261903409724,"name":"Dimba","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.07","name":"Kabupaten Lanny Jaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "17.03.01",
-    "name": "Enggano",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
-    },
-    "regency": {
-      "id": "17.03",
-      "name": "Kabupaten Bengkulu Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"17.03.01","lat":-5.393863571827012,"lng":102.24687755569873,"name":"Enggano","province":{"id":"17","name":"Bengkulu"},"regency":{"id":"17.03","name":"Kabupaten Bengkulu Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

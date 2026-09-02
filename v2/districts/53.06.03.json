@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.06.03",
-    "name": "Larantuka",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.06",
-      "name": "Kabupaten Flores Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.06.03","lat":-8.330952182000358,"lng":122.94107560283709,"name":"Larantuka","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.06","name":"Kabupaten Flores Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

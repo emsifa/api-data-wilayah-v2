@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.02.03",
-    "name": "Bambel",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.02",
-      "name": "Kabupaten Aceh Tenggara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.02.03","lat":3.4520073608517694,"lng":97.87952118347422,"name":"Bambel","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.02","name":"Kabupaten Aceh Tenggara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

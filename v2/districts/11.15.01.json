@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.15.01",
-    "name": "Kuala",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.15",
-      "name": "Kabupaten Nagan Raya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.15.01","lat":4.096176045131867,"lng":96.29709465311814,"name":"Kuala","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.15","name":"Kabupaten Nagan Raya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

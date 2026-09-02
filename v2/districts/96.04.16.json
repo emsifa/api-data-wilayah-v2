@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "96.04.16",
-    "name": "Miyah Selatan",
-    "province": {
-      "id": "96",
-      "name": "Papua Barat Daya"
-    },
-    "regency": {
-      "id": "96.04",
-      "name": "Kabupaten Tambrauw"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"96.04.16","lat":-1.0096481594225262,"lng":132.67404972334853,"name":"Miyah Selatan","province":{"id":"96","name":"Papua Barat Daya"},"regency":{"id":"96.04","name":"Kabupaten Tambrauw"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

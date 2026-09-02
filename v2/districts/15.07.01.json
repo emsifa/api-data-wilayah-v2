@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "15.07.01",
-    "name": "Muara Sabak Timur",
-    "province": {
-      "id": "15",
-      "name": "Jambi"
-    },
-    "regency": {
-      "id": "15.07",
-      "name": "Kabupaten Tanjung Jabung Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"15.07.01","lat":-1.0708138916484244,"lng":103.94473600646326,"name":"Muara Sabak Timur","province":{"id":"15","name":"Jambi"},"regency":{"id":"15.07","name":"Kabupaten Tanjung Jabung Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

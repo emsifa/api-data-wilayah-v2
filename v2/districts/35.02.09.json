@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.02.09",
-    "name": "Jetis",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.02",
-      "name": "Kabupaten Ponorogo"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.02.09","lat":-7.942291744074626,"lng":111.4785345879701,"name":"Jetis","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.02","name":"Kabupaten Ponorogo"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

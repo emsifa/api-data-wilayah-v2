@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "73.05.04",
-    "name": "Polongbangkeng Utara",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
-    },
-    "regency": {
-      "id": "73.05",
-      "name": "Kabupaten Takalar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"73.05.04","lat":-5.340022829645814,"lng":119.50071594635507,"name":"Polongbangkeng Utara","province":{"id":"73","name":"Sulawesi Selatan"},"regency":{"id":"73.05","name":"Kabupaten Takalar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

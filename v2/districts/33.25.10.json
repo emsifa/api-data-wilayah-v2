@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.25.10",
-    "name": "Tulis",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.25",
-      "name": "Kabupaten Batang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.25.10","lat":-6.950423040458768,"lng":109.81152879688904,"name":"Tulis","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.25","name":"Kabupaten Batang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

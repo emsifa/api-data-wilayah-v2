@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.06.28",
-    "name": "Kelumbayan Barat",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.06",
-      "name": "Kabupaten Tanggamus"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.06.28","lat":-5.652661057489181,"lng":105.02972742988072,"name":"Kelumbayan Barat","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.06","name":"Kabupaten Tanggamus"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

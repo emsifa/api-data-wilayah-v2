@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "95.07.21",
-    "name": "Awina",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
-    },
-    "regency": {
-      "id": "95.07",
-      "name": "Kabupaten Lanny Jaya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"95.07.21","lat":-4.008394868093681,"lng":138.59606322678587,"name":"Awina","province":{"id":"95","name":"Papua Pegunungan"},"regency":{"id":"95.07","name":"Kabupaten Lanny Jaya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

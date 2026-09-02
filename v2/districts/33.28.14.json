@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.28.14",
-    "name": "Tarub",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.28",
-      "name": "Kabupaten Tegal"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.28.14","lat":-6.92423058408295,"lng":109.18497080874228,"name":"Tarub","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.28","name":"Kabupaten Tegal"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

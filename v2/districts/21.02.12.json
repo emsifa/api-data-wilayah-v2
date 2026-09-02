@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "21.02.12",
-    "name": "Belat",
-    "province": {
-      "id": "21",
-      "name": "Kepulauan Riau"
-    },
-    "regency": {
-      "id": "21.02",
-      "name": "Kabupaten Karimun"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"21.02.12","lat":0.8191040571713852,"lng":103.48615447767777,"name":"Belat","province":{"id":"21","name":"Kepulauan Riau"},"regency":{"id":"21.02","name":"Kabupaten Karimun"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

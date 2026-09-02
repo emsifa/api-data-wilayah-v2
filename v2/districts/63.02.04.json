@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "63.02.04",
-    "name": "Pulau Laut Timur",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
-    },
-    "regency": {
-      "id": "63.02",
-      "name": "Kabupaten Kotabaru"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"63.02.04","lat":-3.550005397252275,"lng":116.22612681560852,"name":"Pulau Laut Timur","province":{"id":"63","name":"Kalimantan Selatan"},"regency":{"id":"63.02","name":"Kabupaten Kotabaru"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

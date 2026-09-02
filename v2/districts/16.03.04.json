@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.03.04",
-    "name": "Gunung Megang",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.03",
-      "name": "Kabupaten Muara Enim"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.03.04","lat":-3.52840864578692,"lng":103.8822572935716,"name":"Gunung Megang","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.03","name":"Kabupaten Muara Enim"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

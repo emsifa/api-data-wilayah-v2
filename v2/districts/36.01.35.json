@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "36.01.35",
-    "name": "Sobang",
-    "province": {
-      "id": "36",
-      "name": "Banten"
-    },
-    "regency": {
-      "id": "36.01",
-      "name": "Kabupaten Pandeglang"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"36.01.35","lat":-6.606216034442562,"lng":105.78019470467584,"name":"Sobang","province":{"id":"36","name":"Banten"},"regency":{"id":"36.01","name":"Kabupaten Pandeglang"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

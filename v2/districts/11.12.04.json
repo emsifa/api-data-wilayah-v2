@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.12.04",
-    "name": "Susoh",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.12",
-      "name": "Kabupaten Aceh Barat Daya"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.12.04","lat":3.7279826789811805,"lng":96.81793782414006,"name":"Susoh","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.12","name":"Kabupaten Aceh Barat Daya"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

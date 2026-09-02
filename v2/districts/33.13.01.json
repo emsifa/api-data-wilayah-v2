@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "33.13.01",
-    "name": "Jatipuro",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
-    },
-    "regency": {
-      "id": "33.13",
-      "name": "Kabupaten Karanganyar"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"33.13.01","lat":-7.745369036547613,"lng":111.01526121975212,"name":"Jatipuro","province":{"id":"33","name":"Jawa Tengah"},"regency":{"id":"33.13","name":"Kabupaten Karanganyar"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

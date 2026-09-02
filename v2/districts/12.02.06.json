@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "12.02.06",
-    "name": "Pahae Jae",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
-    },
-    "regency": {
-      "id": "12.02",
-      "name": "Kabupaten Tapanuli Utara"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"12.02.06","lat":1.8202771701164553,"lng":99.12133611457034,"name":"Pahae Jae","province":{"id":"12","name":"Sumatera Utara"},"regency":{"id":"12.02","name":"Kabupaten Tapanuli Utara"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

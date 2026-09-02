@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "16.03.10",
-    "name": "Semende Darat Ulu",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
-    },
-    "regency": {
-      "id": "16.03",
-      "name": "Kabupaten Muara Enim"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"16.03.10","lat":-4.274150498623126,"lng":103.5112056463044,"name":"Semende Darat Ulu","province":{"id":"16","name":"Sumatera Selatan"},"regency":{"id":"16.03","name":"Kabupaten Muara Enim"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

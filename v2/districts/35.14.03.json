@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "35.14.03",
-    "name": "Puspo",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
-    },
-    "regency": {
-      "id": "35.14",
-      "name": "Kabupaten Pasuruan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"35.14.03","lat":-7.851646360311345,"lng":112.88639215690148,"name":"Puspo","province":{"id":"35","name":"Jawa Timur"},"regency":{"id":"35.14","name":"Kabupaten Pasuruan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

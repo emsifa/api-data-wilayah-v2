@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "11.01.16",
-    "name": "Trumon Timur",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
-    },
-    "regency": {
-      "id": "11.01",
-      "name": "Kabupaten Aceh Selatan"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"11.01.16","lat":2.8895770138279864,"lng":97.80024511897481,"name":"Trumon Timur","province":{"id":"11","name":"Aceh"},"regency":{"id":"11.01","name":"Kabupaten Aceh Selatan"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

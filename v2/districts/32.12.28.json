@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "32.12.28",
-    "name": "Kedokan Bunder",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
-    },
-    "regency": {
-      "id": "32.12",
-      "name": "Kabupaten Indramayu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"32.12.28","lat":-6.498735570790959,"lng":108.41347212675957,"name":"Kedokan Bunder","province":{"id":"32","name":"Jawa Barat"},"regency":{"id":"32.12","name":"Kabupaten Indramayu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

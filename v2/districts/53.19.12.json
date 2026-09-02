@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "53.19.12",
-    "name": "Congkar",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
-    },
-    "regency": {
-      "id": "53.19",
-      "name": "Kabupaten Manggarai Timur"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"53.19.12","lat":-8.543416029030574,"lng":120.69544277994768,"name":"Congkar","province":{"id":"53","name":"Nusa Tenggara Timur"},"regency":{"id":"53.19","name":"Kabupaten Manggarai Timur"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

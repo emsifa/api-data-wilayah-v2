@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "17.06.13",
-    "name": "Air Manjunto",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
-    },
-    "regency": {
-      "id": "17.06",
-      "name": "Kabupaten Mukomuko"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"17.06.13","lat":-2.49477006499879,"lng":101.16572881470779,"name":"Air Manjunto","province":{"id":"17","name":"Bengkulu"},"regency":{"id":"17.06","name":"Kabupaten Mukomuko"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

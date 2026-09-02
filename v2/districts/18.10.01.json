@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "18.10.01",
-    "name": "Pringsewu",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
-    },
-    "regency": {
-      "id": "18.10",
-      "name": "Kabupaten Pringsewu"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:48Z",
-    "level": 3
-  }
-}
+{"data":{"id":"18.10.01","lat":-5.356431624112994,"lng":104.9652366318555,"name":"Pringsewu","province":{"id":"18","name":"Lampung"},"regency":{"id":"18.10","name":"Kabupaten Pringsewu"}},"meta":{"level":3,"updated_at":"2026-09-02"}}

@@ -1,18 +1,1 @@
-{
-  "data": {
-    "id": "82.02.02",
-    "name": "Patani",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
-    },
-    "regency": {
-      "id": "82.02",
-      "name": "Kabupaten Halmahera Tengah"
-    }
-  },
-  "meta": {
-    "generated_at": "2026-09-02T11:07:49Z",
-    "level": 3
-  }
-}
+{"data":{"id":"82.02.02","lat":0.2749728625462001,"lng":128.7808923123421,"name":"Patani","province":{"id":"82","name":"Maluku Utara"},"regency":{"id":"82.02","name":"Kabupaten Halmahera Tengah"}},"meta":{"level":3,"updated_at":"2026-09-02"}}
