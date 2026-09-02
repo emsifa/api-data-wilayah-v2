@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "72.08.13.2001",
+      "name": "Tomoli",
+      "postal_code": "94466"
+    },
+    {
+      "id": "72.08.13.2002",
+      "name": "Toribulu",
+      "postal_code": "94466"
+    },
+    {
+      "id": "72.08.13.2003",
+      "name": "Sienjo",
+      "postal_code": "94466"
+    },
+    {
+      "id": "72.08.13.2004",
+      "name": "Pinotu",
+      "postal_code": "94466"
+    },
+    {
+      "id": "72.08.13.2005",
+      "name": "Singura",
+      "postal_code": "94466"
+    },
+    {
+      "id": "72.08.13.2006",
+      "name": "Tomoli Selatan",
+      "postal_code": "94466"
+    },
+    {
+      "id": "72.08.13.2007",
+      "name": "Sibalago",
+      "postal_code": "94466"
+    },
+    {
+      "id": "72.08.13.2008",
+      "name": "Toribulu Selatan",
+      "postal_code": "94466"
+    },
+    {
+      "id": "72.08.13.2009",
+      "name": "Tomoli Utara",
+      "postal_code": "94466"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

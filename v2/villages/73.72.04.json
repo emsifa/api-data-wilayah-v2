@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.72.04.1001",
+      "name": "Kampung Baru",
+      "postal_code": "91121"
+    },
+    {
+      "id": "73.72.04.1002",
+      "name": "Cappa Galung",
+      "postal_code": "91122"
+    },
+    {
+      "id": "73.72.04.1003",
+      "name": "Lumpue",
+      "postal_code": "91123"
+    },
+    {
+      "id": "73.72.04.1004",
+      "name": "Tiro Sompe",
+      "postal_code": "91125"
+    },
+    {
+      "id": "73.72.04.1005",
+      "name": "Sumpang Minangae",
+      "postal_code": "91121"
+    },
+    {
+      "id": "73.72.04.1006",
+      "name": "Bumi Harapan",
+      "postal_code": "91121"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

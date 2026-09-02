@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "81.72.03.2001",
+      "name": "Tam Ngurhir",
+      "postal_code": "97613"
+    },
+    {
+      "id": "81.72.03.2002",
+      "name": "Tayando Langgiar",
+      "postal_code": "97613"
+    },
+    {
+      "id": "81.72.03.2003",
+      "name": "Tayando Yamtel",
+      "postal_code": "97613"
+    },
+    {
+      "id": "81.72.03.2004",
+      "name": "Tayando Ohoiel",
+      "postal_code": "97613"
+    },
+    {
+      "id": "81.72.03.2005",
+      "name": "Tayando Yamru",
+      "postal_code": "97613"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

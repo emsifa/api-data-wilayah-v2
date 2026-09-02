@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "75.01.21",
+    "name": "Asparaga",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.01",
+      "name": "Kabupaten Gorontalo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

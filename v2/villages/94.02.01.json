@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "94.02.01.1010",
+      "name": "Wuyukwi",
+      "postal_code": "98974"
+    },
+    {
+      "id": "94.02.01.1011",
+      "name": "Pagaleme",
+      "postal_code": "98974"
+    },
+    {
+      "id": "94.02.01.2001",
+      "name": "Pruleme",
+      "postal_code": "98915"
+    },
+    {
+      "id": "94.02.01.2002",
+      "name": "Wuyukwi",
+      "postal_code": "98974"
+    },
+    {
+      "id": "94.02.01.2003",
+      "name": "Wuyuneri",
+      "postal_code": "98915"
+    },
+    {
+      "id": "94.02.01.2004",
+      "name": "Pepera",
+      "postal_code": "98974"
+    },
+    {
+      "id": "94.02.01.2005",
+      "name": "Muliagambut",
+      "postal_code": "98974"
+    },
+    {
+      "id": "94.02.01.2006",
+      "name": "Trikora",
+      "postal_code": "98974"
+    },
+    {
+      "id": "94.02.01.2007",
+      "name": "Towogi",
+      "postal_code": "98974"
+    },
+    {
+      "id": "94.02.01.2008",
+      "name": "Birak Ambut",
+      "postal_code": "98974"
+    },
+    {
+      "id": "94.02.01.2009",
+      "name": "Usir",
+      "postal_code": "98974"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

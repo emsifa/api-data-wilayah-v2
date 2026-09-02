@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "82.02.01.2004",
+      "name": "Nusliko",
+      "postal_code": "97850"
+    },
+    {
+      "id": "82.02.01.2005",
+      "name": "Were",
+      "postal_code": "97850"
+    },
+    {
+      "id": "82.02.01.2020",
+      "name": "Fidy Jaya",
+      "postal_code": "97850"
+    },
+    {
+      "id": "82.02.01.2021",
+      "name": "Sidanga",
+      "postal_code": "97850"
+    },
+    {
+      "id": "82.02.01.2022",
+      "name": "Nurweda",
+      "postal_code": "97850"
+    },
+    {
+      "id": "82.02.01.2023",
+      "name": "Wedana",
+      "postal_code": "97850"
+    },
+    {
+      "id": "82.02.01.2024",
+      "name": "Goeng",
+      "postal_code": "97850"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

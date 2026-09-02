@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "13.71.01.1001",
+      "name": "Belakang Pondok",
+      "postal_code": "25211"
+    },
+    {
+      "id": "13.71.01.1002",
+      "name": "Alang Laweh",
+      "postal_code": "25211"
+    },
+    {
+      "id": "13.71.01.1003",
+      "name": "Ranah Parak Rumbio",
+      "postal_code": "25212"
+    },
+    {
+      "id": "13.71.01.1004",
+      "name": "Pasa Gadang",
+      "postal_code": "25213"
+    },
+    {
+      "id": "13.71.01.1005",
+      "name": "Batang Arau",
+      "postal_code": "25215"
+    },
+    {
+      "id": "13.71.01.1006",
+      "name": "Seberang Palinggam",
+      "postal_code": "25215"
+    },
+    {
+      "id": "13.71.01.1007",
+      "name": "Seberang Padang",
+      "postal_code": "25214"
+    },
+    {
+      "id": "13.71.01.1008",
+      "name": "Mata Air",
+      "postal_code": "25216"
+    },
+    {
+      "id": "13.71.01.1009",
+      "name": "Rawang",
+      "postal_code": "25216"
+    },
+    {
+      "id": "13.71.01.1010",
+      "name": "Teluk Bayur",
+      "postal_code": "25217"
+    },
+    {
+      "id": "13.71.01.1011",
+      "name": "Air Manis",
+      "postal_code": "25217"
+    },
+    {
+      "id": "13.71.01.1012",
+      "name": "Bukit Gado-gado",
+      "postal_code": "25215"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

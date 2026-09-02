@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "73.73.06.1001",
+      "name": "Tamarundung",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.73.06.1002",
+      "name": "Battang",
+      "postal_code": "91958"
+    },
+    {
+      "id": "73.73.06.1003",
+      "name": "Lebang",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.73.06.1004",
+      "name": "Battang Barat",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.73.06.1005",
+      "name": "Padang Lambe",
+      "postal_code": "91921"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "94.05",
+    "name": "Kabupaten Puncak",
+    "capital": "Ilaga",
+    "lat": -3.971608513617806,
+    "lng": 137.64179825141554,
+    "elv": 2314,
+    "tz": 9,
+    "population": 178072,
+    "total_area": 7701.031,
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

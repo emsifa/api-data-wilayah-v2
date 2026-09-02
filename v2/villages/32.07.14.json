@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.07.14.2001",
+      "name": "Sukadana",
+      "postal_code": "46272"
+    },
+    {
+      "id": "32.07.14.2002",
+      "name": "Salakaria",
+      "postal_code": "46272"
+    },
+    {
+      "id": "32.07.14.2003",
+      "name": "Margaharja",
+      "postal_code": "46272"
+    },
+    {
+      "id": "32.07.14.2004",
+      "name": "Margajaya",
+      "postal_code": "46272"
+    },
+    {
+      "id": "32.07.14.2005",
+      "name": "Bunter",
+      "postal_code": "46272"
+    },
+    {
+      "id": "32.07.14.2006",
+      "name": "Ciparigi",
+      "postal_code": "46272"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

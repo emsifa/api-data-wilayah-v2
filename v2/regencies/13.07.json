@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "13.07",
+    "name": "Kabupaten Lima Puluh Kota",
+    "capital": "Sarilamak",
+    "lat": -0.1523939738781051,
+    "lng": 100.66073826825613,
+    "elv": 526,
+    "tz": 7,
+    "population": 402788,
+    "total_area": 3273.405,
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

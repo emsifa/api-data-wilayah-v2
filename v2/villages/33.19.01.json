@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "33.19.01.2001",
+      "name": "Bakalankrapyak",
+      "postal_code": "59332"
+    },
+    {
+      "id": "33.19.01.2002",
+      "name": "Prambatan Kidul",
+      "postal_code": "59332"
+    },
+    {
+      "id": "33.19.01.2003",
+      "name": "Prambatan Lor",
+      "postal_code": "59332"
+    },
+    {
+      "id": "33.19.01.2004",
+      "name": "Garung Kidul",
+      "postal_code": "59332"
+    },
+    {
+      "id": "33.19.01.2005",
+      "name": "Setrokalangan",
+      "postal_code": "59332"
+    },
+    {
+      "id": "33.19.01.2006",
+      "name": "Banget",
+      "postal_code": "59332"
+    },
+    {
+      "id": "33.19.01.2007",
+      "name": "Blimbing Kidul",
+      "postal_code": "59332"
+    },
+    {
+      "id": "33.19.01.2008",
+      "name": "Sidorekso",
+      "postal_code": "59332"
+    },
+    {
+      "id": "33.19.01.2009",
+      "name": "Gamong",
+      "postal_code": "59332"
+    },
+    {
+      "id": "33.19.01.2010",
+      "name": "Kedungdowo",
+      "postal_code": "59332"
+    },
+    {
+      "id": "33.19.01.2011",
+      "name": "Garung Lor",
+      "postal_code": "59332"
+    },
+    {
+      "id": "33.19.01.2012",
+      "name": "Karangampel",
+      "postal_code": "59332"
+    },
+    {
+      "id": "33.19.01.2013",
+      "name": "Mijen",
+      "postal_code": "59332"
+    },
+    {
+      "id": "33.19.01.2014",
+      "name": "Kaliwungu",
+      "postal_code": "59332"
+    },
+    {
+      "id": "33.19.01.2015",
+      "name": "Papringan",
+      "postal_code": "59332"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

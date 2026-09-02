@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "53.21.11.2001",
+      "name": "Babulu",
+      "postal_code": "85766"
+    },
+    {
+      "id": "53.21.11.2002",
+      "name": "Babulu Selatan",
+      "postal_code": "85766"
+    },
+    {
+      "id": "53.21.11.2003",
+      "name": "Sisi",
+      "postal_code": "85766"
+    },
+    {
+      "id": "53.21.11.2004",
+      "name": "Rainawe",
+      "postal_code": "85766"
+    },
+    {
+      "id": "53.21.11.2005",
+      "name": "Litamali",
+      "postal_code": "85766"
+    },
+    {
+      "id": "53.21.11.2006",
+      "name": "Lakekun Utara",
+      "postal_code": "85766"
+    },
+    {
+      "id": "53.21.11.2007",
+      "name": "Lakekun",
+      "postal_code": "85766"
+    },
+    {
+      "id": "53.21.11.2008",
+      "name": "Lakekun Barat",
+      "postal_code": "85766"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

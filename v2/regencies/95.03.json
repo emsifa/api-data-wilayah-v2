@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "95.03",
+    "name": "Kabupaten Yahukimo",
+    "capital": "Sumohai",
+    "lat": -4.886949804165835,
+    "lng": 139.52051776219918,
+    "elv": 75,
+    "tz": 9,
+    "population": 356021,
+    "total_area": 16365.938,
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

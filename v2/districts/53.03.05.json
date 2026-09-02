@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "53.03.05",
+    "name": "Kota Kefamenanu",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.03",
+      "name": "Kabupaten Timor Tengah Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

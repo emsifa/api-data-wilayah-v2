@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "35.06",
+    "name": "Kabupaten Kediri",
+    "capital": "Ngasem",
+    "lat": -7.80216489245253,
+    "lng": 112.04111356733358,
+    "elv": 72,
+    "tz": 7,
+    "population": 1691976,
+    "total_area": 1523.563,
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

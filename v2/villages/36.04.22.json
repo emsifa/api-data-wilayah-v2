@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "36.04.22.2001",
+      "name": "Baros",
+      "postal_code": "42173"
+    },
+    {
+      "id": "36.04.22.2002",
+      "name": "Tejamari",
+      "postal_code": "42173"
+    },
+    {
+      "id": "36.04.22.2003",
+      "name": "Panyirapan",
+      "postal_code": "42173"
+    },
+    {
+      "id": "36.04.22.2004",
+      "name": "Sidamukti",
+      "postal_code": "42173"
+    },
+    {
+      "id": "36.04.22.2005",
+      "name": "Sukacai",
+      "postal_code": "42173"
+    },
+    {
+      "id": "36.04.22.2006",
+      "name": "Tamansari",
+      "postal_code": "42173"
+    },
+    {
+      "id": "36.04.22.2007",
+      "name": "Sindangmandi",
+      "postal_code": "42173"
+    },
+    {
+      "id": "36.04.22.2008",
+      "name": "Cisalam",
+      "postal_code": "42173"
+    },
+    {
+      "id": "36.04.22.2009",
+      "name": "Sukamanah",
+      "postal_code": "42173"
+    },
+    {
+      "id": "36.04.22.2010",
+      "name": "Sukamenak",
+      "postal_code": "42173"
+    },
+    {
+      "id": "36.04.22.2011",
+      "name": "Curug Agung",
+      "postal_code": "42173"
+    },
+    {
+      "id": "36.04.22.2012",
+      "name": "Padasuka",
+      "postal_code": "42173"
+    },
+    {
+      "id": "36.04.22.2013",
+      "name": "Sinarmukti",
+      "postal_code": "42173"
+    },
+    {
+      "id": "36.04.22.2014",
+      "name": "Suka Indah",
+      "postal_code": "42173"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

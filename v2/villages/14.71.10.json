@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "14.71.10.1002",
+      "name": "Bencahlesung",
+      "postal_code": "28285"
+    },
+    {
+      "id": "14.71.10.1003",
+      "name": "Tangkerang Timur",
+      "postal_code": "28289"
+    },
+    {
+      "id": "14.71.10.1004",
+      "name": "Rejosari",
+      "postal_code": "28281"
+    },
+    {
+      "id": "14.71.10.1005",
+      "name": "Bambukuning",
+      "postal_code": "28281"
+    },
+    {
+      "id": "14.71.10.1010",
+      "name": "Melebung",
+      "postal_code": "28285"
+    },
+    {
+      "id": "14.71.10.1011",
+      "name": "Industritenayan",
+      "postal_code": "28285"
+    },
+    {
+      "id": "14.71.10.1012",
+      "name": "Sialangsakti",
+      "postal_code": "28285"
+    },
+    {
+      "id": "14.71.10.1013",
+      "name": "Tuahnegeri",
+      "postal_code": "28285"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

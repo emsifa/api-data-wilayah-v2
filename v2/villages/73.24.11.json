@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.24.11.2001",
+      "name": "Ledu Ledu",
+      "postal_code": "92984"
+    },
+    {
+      "id": "73.24.11.2002",
+      "name": "Kawata",
+      "postal_code": "92984"
+    },
+    {
+      "id": "73.24.11.2003",
+      "name": "Tabarano",
+      "postal_code": "92984"
+    },
+    {
+      "id": "73.24.11.2004",
+      "name": "Wasuponda",
+      "postal_code": "92984"
+    },
+    {
+      "id": "73.24.11.2005",
+      "name": "Parumpanai",
+      "postal_code": "92984"
+    },
+    {
+      "id": "73.24.11.2006",
+      "name": "Balambano",
+      "postal_code": "92984"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

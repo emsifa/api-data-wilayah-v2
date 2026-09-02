@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "18.13",
+    "name": "Kabupaten Pesisir Barat",
+    "capital": "Krui",
+    "lat": -5.188425335364648,
+    "lng": 103.93458368482928,
+    "elv": 6,
+    "tz": 7,
+    "population": 177430,
+    "total_area": 2937.496,
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

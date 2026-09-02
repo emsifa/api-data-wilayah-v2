@@ -1,18 +1,48 @@
 {
-  "data": {
-    "id": "62.12",
-    "name": "Kabupaten Murung Raya",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
+  "data": [
+    {
+      "id": "62.12.01",
+      "name": "Murung"
     },
-    "regency": {
-      "id": "62.12",
-      "name": "Kabupaten Murung Raya"
+    {
+      "id": "62.12.02",
+      "name": "Tanah Siang"
+    },
+    {
+      "id": "62.12.03",
+      "name": "Laung Tuhup"
+    },
+    {
+      "id": "62.12.04",
+      "name": "Permata Intan"
+    },
+    {
+      "id": "62.12.05",
+      "name": "Sumber Barito"
+    },
+    {
+      "id": "62.12.06",
+      "name": "Barito Tuhup Raya"
+    },
+    {
+      "id": "62.12.07",
+      "name": "Tanah Siang Selatan"
+    },
+    {
+      "id": "62.12.08",
+      "name": "Sungai Babuat"
+    },
+    {
+      "id": "62.12.09",
+      "name": "Seribu Riam"
+    },
+    {
+      "id": "62.12.10",
+      "name": "Uut Murung"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

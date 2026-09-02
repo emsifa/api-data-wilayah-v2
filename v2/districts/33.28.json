@@ -1,18 +1,80 @@
 {
-  "data": {
-    "id": "33.28",
-    "name": "Kabupaten Tegal",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
+  "data": [
+    {
+      "id": "33.28.01",
+      "name": "Margasari"
     },
-    "regency": {
-      "id": "33.28",
-      "name": "Kabupaten Tegal"
+    {
+      "id": "33.28.02",
+      "name": "Bumijawa"
+    },
+    {
+      "id": "33.28.03",
+      "name": "Bojong"
+    },
+    {
+      "id": "33.28.04",
+      "name": "Balapulang"
+    },
+    {
+      "id": "33.28.05",
+      "name": "Pagerbarang"
+    },
+    {
+      "id": "33.28.06",
+      "name": "Lebaksiu"
+    },
+    {
+      "id": "33.28.07",
+      "name": "Jatinegara"
+    },
+    {
+      "id": "33.28.08",
+      "name": "Kedungbanteng"
+    },
+    {
+      "id": "33.28.09",
+      "name": "Pangkah"
+    },
+    {
+      "id": "33.28.10",
+      "name": "Slawi"
+    },
+    {
+      "id": "33.28.11",
+      "name": "Adiwerna"
+    },
+    {
+      "id": "33.28.12",
+      "name": "Talang"
+    },
+    {
+      "id": "33.28.13",
+      "name": "Dukuhturi"
+    },
+    {
+      "id": "33.28.14",
+      "name": "Tarub"
+    },
+    {
+      "id": "33.28.15",
+      "name": "Kramat"
+    },
+    {
+      "id": "33.28.16",
+      "name": "Suradadi"
+    },
+    {
+      "id": "33.28.17",
+      "name": "Warureja"
+    },
+    {
+      "id": "33.28.18",
+      "name": "Dukuhwaru"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

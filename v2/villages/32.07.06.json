@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.07.06.2001",
+      "name": "Sukamulya",
+      "postal_code": "46262"
+    },
+    {
+      "id": "32.07.06.2002",
+      "name": "Sukahurip",
+      "postal_code": "46262"
+    },
+    {
+      "id": "32.07.06.2003",
+      "name": "Cijulang",
+      "postal_code": "46262"
+    },
+    {
+      "id": "32.07.06.2004",
+      "name": "Sukamaju",
+      "postal_code": "46262"
+    },
+    {
+      "id": "32.07.06.2005",
+      "name": "Sukasetia",
+      "postal_code": "46262"
+    },
+    {
+      "id": "32.07.06.2006",
+      "name": "Sumberjaya",
+      "postal_code": "46262"
+    },
+    {
+      "id": "32.07.06.2007",
+      "name": "Cihaurbeuti",
+      "postal_code": "46262"
+    },
+    {
+      "id": "32.07.06.2008",
+      "name": "Pasirtamiang",
+      "postal_code": "46262"
+    },
+    {
+      "id": "32.07.06.2009",
+      "name": "Padamulya",
+      "postal_code": "46262"
+    },
+    {
+      "id": "32.07.06.2010",
+      "name": "Pamokolan",
+      "postal_code": "46262"
+    },
+    {
+      "id": "32.07.06.2011",
+      "name": "Sukahaji",
+      "postal_code": "46262"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

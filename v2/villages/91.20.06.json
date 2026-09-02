@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "91.20.06.2001",
+      "name": "Nadofoai",
+      "postal_code": "98681"
+    },
+    {
+      "id": "91.20.06.2002",
+      "name": "Barapasi",
+      "postal_code": "98681"
+    },
+    {
+      "id": "91.20.06.2003",
+      "name": "Sipisi",
+      "postal_code": "98681"
+    },
+    {
+      "id": "91.20.06.2004",
+      "name": "Bariwaro",
+      "postal_code": "98681"
+    },
+    {
+      "id": "91.20.06.2005",
+      "name": "Bensor",
+      "postal_code": "98681"
+    },
+    {
+      "id": "91.20.06.2006",
+      "name": "Rawiwa",
+      "postal_code": "98681"
+    },
+    {
+      "id": "91.20.06.2007",
+      "name": "Marikai",
+      "postal_code": "98681"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

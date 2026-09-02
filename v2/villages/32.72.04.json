@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.72.04.1001",
+      "name": "Warudoyong",
+      "postal_code": "43133"
+    },
+    {
+      "id": "32.72.04.1002",
+      "name": "Nyomplong",
+      "postal_code": "43131"
+    },
+    {
+      "id": "32.72.04.1003",
+      "name": "Dayeuhluhur",
+      "postal_code": "43134"
+    },
+    {
+      "id": "32.72.04.1004",
+      "name": "Sukakarya",
+      "postal_code": "43135"
+    },
+    {
+      "id": "32.72.04.1005",
+      "name": "Benteng",
+      "postal_code": "43132"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

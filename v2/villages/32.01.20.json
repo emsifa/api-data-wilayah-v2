@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.01.20.2001",
+      "name": "Jagabaya",
+      "postal_code": "16360"
+    },
+    {
+      "id": "32.01.20.2002",
+      "name": "Gorowong",
+      "postal_code": "16360"
+    },
+    {
+      "id": "32.01.20.2003",
+      "name": "Dago",
+      "postal_code": "16360"
+    },
+    {
+      "id": "32.01.20.2004",
+      "name": "Pingku",
+      "postal_code": "16360"
+    },
+    {
+      "id": "32.01.20.2005",
+      "name": "Cikuda",
+      "postal_code": "16360"
+    },
+    {
+      "id": "32.01.20.2006",
+      "name": "Parungpanjang",
+      "postal_code": "16360"
+    },
+    {
+      "id": "32.01.20.2007",
+      "name": "Lumpang",
+      "postal_code": "16360"
+    },
+    {
+      "id": "32.01.20.2008",
+      "name": "Cibunar",
+      "postal_code": "16360"
+    },
+    {
+      "id": "32.01.20.2009",
+      "name": "Jagabita",
+      "postal_code": "16360"
+    },
+    {
+      "id": "32.01.20.2010",
+      "name": "Gintungcilejet",
+      "postal_code": "16360"
+    },
+    {
+      "id": "32.01.20.2011",
+      "name": "Kabasiran",
+      "postal_code": "16360"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

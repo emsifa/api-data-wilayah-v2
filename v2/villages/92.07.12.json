@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "92.07.12.2001",
+      "name": "Werabur",
+      "postal_code": "98331"
+    },
+    {
+      "id": "92.07.12.2002",
+      "name": "Mamisi",
+      "postal_code": "98331"
+    },
+    {
+      "id": "92.07.12.2003",
+      "name": "Werianggi",
+      "postal_code": "98331"
+    },
+    {
+      "id": "92.07.12.2004",
+      "name": "Kurei",
+      "postal_code": "98331"
+    },
+    {
+      "id": "92.07.12.2005",
+      "name": "Tamoge",
+      "postal_code": "98331"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "94.01.02.2001",
+      "name": "Napan",
+      "postal_code": "98862"
+    },
+    {
+      "id": "94.01.02.2002",
+      "name": "Masipawa",
+      "postal_code": "98841"
+    },
+    {
+      "id": "94.01.02.2003",
+      "name": "Weinami",
+      "postal_code": "98841"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

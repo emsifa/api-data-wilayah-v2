@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "71.71.06.1001",
+      "name": "Sario Utara",
+      "postal_code": "95114"
+    },
+    {
+      "id": "71.71.06.1002",
+      "name": "Sario Kotabaru",
+      "postal_code": "95113"
+    },
+    {
+      "id": "71.71.06.1003",
+      "name": "Sario Tumpaan",
+      "postal_code": "95114"
+    },
+    {
+      "id": "71.71.06.1004",
+      "name": "Sario",
+      "postal_code": "95114"
+    },
+    {
+      "id": "71.71.06.1005",
+      "name": "Titiwungan Utara",
+      "postal_code": "95113"
+    },
+    {
+      "id": "71.71.06.1006",
+      "name": "Titiwungan Selatan",
+      "postal_code": "95113"
+    },
+    {
+      "id": "71.71.06.1007",
+      "name": "Ranotana",
+      "postal_code": "95116"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

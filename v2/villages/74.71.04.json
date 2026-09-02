@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "74.71.04.1003",
+      "name": "Andonohu",
+      "postal_code": "93231"
+    },
+    {
+      "id": "74.71.04.1004",
+      "name": "Rahandouna",
+      "postal_code": "93232"
+    },
+    {
+      "id": "74.71.04.1005",
+      "name": "Anggoeya",
+      "postal_code": "93231"
+    },
+    {
+      "id": "74.71.04.1006",
+      "name": "Matabubu",
+      "postal_code": "93233"
+    },
+    {
+      "id": "74.71.04.1021",
+      "name": "Wundumbatu",
+      "postal_code": "93232"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

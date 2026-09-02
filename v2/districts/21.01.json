@@ -1,18 +1,48 @@
 {
-  "data": {
-    "id": "21.01",
-    "name": "Kabupaten Bintan",
-    "province": {
-      "id": "21",
-      "name": "Kepulauan Riau"
+  "data": [
+    {
+      "id": "21.01.04",
+      "name": "Gunung Kijang"
     },
-    "regency": {
-      "id": "21.01",
-      "name": "Kabupaten Bintan"
+    {
+      "id": "21.01.06",
+      "name": "Bintan Timur"
+    },
+    {
+      "id": "21.01.07",
+      "name": "Bintan Utara"
+    },
+    {
+      "id": "21.01.08",
+      "name": "Teluk Bintan"
+    },
+    {
+      "id": "21.01.09",
+      "name": "Tambelan"
+    },
+    {
+      "id": "21.01.10",
+      "name": "Teluk Sebong"
+    },
+    {
+      "id": "21.01.12",
+      "name": "Toapaya"
+    },
+    {
+      "id": "21.01.13",
+      "name": "Mantang"
+    },
+    {
+      "id": "21.01.14",
+      "name": "Bintan Pesisir"
+    },
+    {
+      "id": "21.01.15",
+      "name": "Seri Kuala Lobam"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

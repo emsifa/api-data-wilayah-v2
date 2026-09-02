@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "95.07.31.2001",
+      "name": "Bonom",
+      "postal_code": "99578"
+    },
+    {
+      "id": "95.07.31.2002",
+      "name": "Kuwanom",
+      "postal_code": "99578"
+    },
+    {
+      "id": "95.07.31.2003",
+      "name": "Kumulume",
+      "postal_code": "99578"
+    },
+    {
+      "id": "95.07.31.2004",
+      "name": "Uwagambur",
+      "postal_code": "99578"
+    },
+    {
+      "id": "95.07.31.2005",
+      "name": "Lagame",
+      "postal_code": "99578"
+    },
+    {
+      "id": "95.07.31.2006",
+      "name": "Kuwoge",
+      "postal_code": "99578"
+    },
+    {
+      "id": "95.07.31.2007",
+      "name": "Laurapaga",
+      "postal_code": "99578"
+    },
+    {
+      "id": "95.07.31.2008",
+      "name": "Bawi",
+      "postal_code": "99578"
+    },
+    {
+      "id": "95.07.31.2009",
+      "name": "Yugimbo",
+      "postal_code": "99578"
+    },
+    {
+      "id": "95.07.31.2010",
+      "name": "Tinggini",
+      "postal_code": "99578"
+    },
+    {
+      "id": "95.07.31.2011",
+      "name": "Ogin",
+      "postal_code": "99578"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

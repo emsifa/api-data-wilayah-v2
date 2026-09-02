@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "18.03.01.1001",
+      "name": "Bukit Kemuning",
+      "postal_code": "34564"
+    },
+    {
+      "id": "18.03.01.2002",
+      "name": "Tanjung Baru",
+      "postal_code": "34564"
+    },
+    {
+      "id": "18.03.01.2003",
+      "name": "Suka Menanti",
+      "postal_code": "34564"
+    },
+    {
+      "id": "18.03.01.2004",
+      "name": "Muara Aman",
+      "postal_code": "34564"
+    },
+    {
+      "id": "18.03.01.2005",
+      "name": "Tanjung Baru Timur",
+      "postal_code": "34564"
+    },
+    {
+      "id": "18.03.01.2006",
+      "name": "Dwikora",
+      "postal_code": "34564"
+    },
+    {
+      "id": "18.03.01.2007",
+      "name": "Tanjung Waras",
+      "postal_code": "34564"
+    },
+    {
+      "id": "18.03.01.2008",
+      "name": "Sido Mulyo",
+      "postal_code": "34564"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

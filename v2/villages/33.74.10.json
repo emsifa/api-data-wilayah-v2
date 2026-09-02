@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "33.74.10.1001",
+      "name": "Meteseh",
+      "postal_code": "50271"
+    },
+    {
+      "id": "33.74.10.1002",
+      "name": "Rowosari",
+      "postal_code": "50279"
+    },
+    {
+      "id": "33.74.10.1003",
+      "name": "Mangunharjo",
+      "postal_code": "50272"
+    },
+    {
+      "id": "33.74.10.1004",
+      "name": "Bulusan",
+      "postal_code": "50277"
+    },
+    {
+      "id": "33.74.10.1005",
+      "name": "Kramas",
+      "postal_code": "50278"
+    },
+    {
+      "id": "33.74.10.1006",
+      "name": "Tembalang",
+      "postal_code": "50275"
+    },
+    {
+      "id": "33.74.10.1007",
+      "name": "Jangli",
+      "postal_code": "50274"
+    },
+    {
+      "id": "33.74.10.1008",
+      "name": "Tandang",
+      "postal_code": "50274"
+    },
+    {
+      "id": "33.74.10.1009",
+      "name": "Kedungmundu",
+      "postal_code": "50273"
+    },
+    {
+      "id": "33.74.10.1010",
+      "name": "Sendangguwo",
+      "postal_code": "50273"
+    },
+    {
+      "id": "33.74.10.1011",
+      "name": "Sendangmulyo",
+      "postal_code": "50272"
+    },
+    {
+      "id": "33.74.10.1012",
+      "name": "Sambiroto",
+      "postal_code": "50276"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

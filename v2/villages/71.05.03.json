@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "71.05.03.2002",
+      "name": "Poopo",
+      "postal_code": "95944"
+    },
+    {
+      "id": "71.05.03.2003",
+      "name": "Ranoyapo",
+      "postal_code": "95944"
+    },
+    {
+      "id": "71.05.03.2004",
+      "name": "Mopolo",
+      "postal_code": "95944"
+    },
+    {
+      "id": "71.05.03.2005",
+      "name": "Beringin",
+      "postal_code": "95944"
+    },
+    {
+      "id": "71.05.03.2006",
+      "name": "Powalutan",
+      "postal_code": "95944"
+    },
+    {
+      "id": "71.05.03.2008",
+      "name": "Lompad",
+      "postal_code": "95944"
+    },
+    {
+      "id": "71.05.03.2009",
+      "name": "Lompad Baru",
+      "postal_code": "95944"
+    },
+    {
+      "id": "71.05.03.2010",
+      "name": "Pontak",
+      "postal_code": "95944"
+    },
+    {
+      "id": "71.05.03.2012",
+      "name": "Poopo Utara",
+      "postal_code": "95944"
+    },
+    {
+      "id": "71.05.03.2013",
+      "name": "Poopo Barat",
+      "postal_code": "95944"
+    },
+    {
+      "id": "71.05.03.2014",
+      "name": "Pontak Satu",
+      "postal_code": "95944"
+    },
+    {
+      "id": "71.05.03.2015",
+      "name": "Mopolo Esa",
+      "postal_code": "95944"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

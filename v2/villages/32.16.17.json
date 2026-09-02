@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.16.17.2001",
+      "name": "Pantai Mekar",
+      "postal_code": "17730"
+    },
+    {
+      "id": "32.16.17.2002",
+      "name": "Pantai Bahagia",
+      "postal_code": "17730"
+    },
+    {
+      "id": "32.16.17.2003",
+      "name": "Pantai Bakti",
+      "postal_code": "17730"
+    },
+    {
+      "id": "32.16.17.2004",
+      "name": "Pantai Harapanjaya",
+      "postal_code": "17730"
+    },
+    {
+      "id": "32.16.17.2005",
+      "name": "Pantai Sederhana",
+      "postal_code": "17730"
+    },
+    {
+      "id": "32.16.17.2006",
+      "name": "Jayasakti",
+      "postal_code": "17730"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

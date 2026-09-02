@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "16.04.21.2001",
+      "name": "Sugi Waras",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.21.2002",
+      "name": "Tanjung Periuk",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.21.2003",
+      "name": "Tanjung Karangan",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.21.2004",
+      "name": "Muara Tandi",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.21.2005",
+      "name": "Darmo",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.21.2006",
+      "name": "Indikat Ilir",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.21.2007",
+      "name": "Tanjung Baru",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.21.2008",
+      "name": "Mandi Angin",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.21.2009",
+      "name": "Ngalam Baru",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.21.2010",
+      "name": "Sukarami",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.21.2011",
+      "name": "Tanjung Dalam",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.21.2012",
+      "name": "Tanah Pilih",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.21.2013",
+      "name": "Tanjung Beringin",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.21.2014",
+      "name": "Batay",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.21.2015",
+      "name": "Suka Makmur",
+      "postal_code": "31419"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

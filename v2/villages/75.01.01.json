@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "75.01.01.1001",
+      "name": "Kayubulan",
+      "postal_code": "96211"
+    },
+    {
+      "id": "75.01.01.1002",
+      "name": "Kayumerah",
+      "postal_code": "96214"
+    },
+    {
+      "id": "75.01.01.1003",
+      "name": "Hunggaluwa",
+      "postal_code": "96219"
+    },
+    {
+      "id": "75.01.01.1004",
+      "name": "Bolihuangga",
+      "postal_code": "96218"
+    },
+    {
+      "id": "75.01.01.1005",
+      "name": "Hepuhulawa",
+      "postal_code": "96212"
+    },
+    {
+      "id": "75.01.01.1006",
+      "name": "Hutuo",
+      "postal_code": "96213"
+    },
+    {
+      "id": "75.01.01.1007",
+      "name": "Dutulanaa",
+      "postal_code": "96213"
+    },
+    {
+      "id": "75.01.01.1008",
+      "name": "Tenilo",
+      "postal_code": "96218"
+    },
+    {
+      "id": "75.01.01.1009",
+      "name": "Biyonga",
+      "postal_code": "96212"
+    },
+    {
+      "id": "75.01.01.1010",
+      "name": "Bongohulawa",
+      "postal_code": "96214"
+    },
+    {
+      "id": "75.01.01.1011",
+      "name": "Bulota",
+      "postal_code": "96213"
+    },
+    {
+      "id": "75.01.01.1012",
+      "name": "Malahu",
+      "postal_code": "96211"
+    },
+    {
+      "id": "75.01.01.1013",
+      "name": "Tilihuwa",
+      "postal_code": "96214"
+    },
+    {
+      "id": "75.01.01.1014",
+      "name": "Polohungo",
+      "postal_code": "96212"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

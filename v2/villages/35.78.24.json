@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "35.78.24.1001",
+      "name": "Kutisari",
+      "postal_code": "60291"
+    },
+    {
+      "id": "35.78.24.1002",
+      "name": "Kendangsari",
+      "postal_code": "60292"
+    },
+    {
+      "id": "35.78.24.1003",
+      "name": "Tenggilis Mejoyo",
+      "postal_code": "60292"
+    },
+    {
+      "id": "35.78.24.1004",
+      "name": "Panjang Jiwo",
+      "postal_code": "60299"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

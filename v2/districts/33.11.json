@@ -1,18 +1,56 @@
 {
-  "data": {
-    "id": "33.11",
-    "name": "Kabupaten Sukoharjo",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
+  "data": [
+    {
+      "id": "33.11.01",
+      "name": "Weru"
     },
-    "regency": {
-      "id": "33.11",
-      "name": "Kabupaten Sukoharjo"
+    {
+      "id": "33.11.02",
+      "name": "Bulu"
+    },
+    {
+      "id": "33.11.03",
+      "name": "Tawangsari"
+    },
+    {
+      "id": "33.11.04",
+      "name": "Sukoharjo"
+    },
+    {
+      "id": "33.11.05",
+      "name": "Nguter"
+    },
+    {
+      "id": "33.11.06",
+      "name": "Bendosari"
+    },
+    {
+      "id": "33.11.07",
+      "name": "Polokarto"
+    },
+    {
+      "id": "33.11.08",
+      "name": "Mojolaban"
+    },
+    {
+      "id": "33.11.09",
+      "name": "Grogol"
+    },
+    {
+      "id": "33.11.10",
+      "name": "Baki"
+    },
+    {
+      "id": "33.11.11",
+      "name": "Gatak"
+    },
+    {
+      "id": "33.11.12",
+      "name": "Kartasura"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

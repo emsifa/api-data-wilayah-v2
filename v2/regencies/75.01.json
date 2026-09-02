@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "75.01",
+    "name": "Kabupaten Gorontalo",
+    "capital": "Limboto",
+    "lat": 0.6290030224702096,
+    "lng": 122.98093758487616,
+    "elv": 18,
+    "tz": 8,
+    "population": 423981,
+    "total_area": 2160.183,
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

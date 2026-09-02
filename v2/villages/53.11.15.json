@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "53.11.15.2001",
+      "name": "Prai Bakul",
+      "postal_code": "87174"
+    },
+    {
+      "id": "53.11.15.2002",
+      "name": "Katikutana",
+      "postal_code": "87174"
+    },
+    {
+      "id": "53.11.15.2003",
+      "name": "Karipi",
+      "postal_code": "87174"
+    },
+    {
+      "id": "53.11.15.2004",
+      "name": "Wangga Meti",
+      "postal_code": "87174"
+    },
+    {
+      "id": "53.11.15.2005",
+      "name": "Katiku Wai",
+      "postal_code": "87174"
+    },
+    {
+      "id": "53.11.15.2006",
+      "name": "Katiku Luku",
+      "postal_code": "87174"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

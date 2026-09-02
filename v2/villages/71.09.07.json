@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "71.09.07.2001",
+      "name": "Buang",
+      "postal_code": "95864"
+    },
+    {
+      "id": "71.09.07.2002",
+      "name": "Karungo",
+      "postal_code": "95864"
+    },
+    {
+      "id": "71.09.07.2003",
+      "name": "Lamanggo",
+      "postal_code": "95864"
+    },
+    {
+      "id": "71.09.07.2004",
+      "name": "Dalinsaheng",
+      "postal_code": "95864"
+    },
+    {
+      "id": "71.09.07.2005",
+      "name": "Tope",
+      "postal_code": "95864"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

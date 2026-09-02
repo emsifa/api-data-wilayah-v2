@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.17.19.1002",
+      "name": "Lindajang",
+      "postal_code": "91986"
+    },
+    {
+      "id": "73.17.19.2001",
+      "name": "Buntu Barana",
+      "postal_code": "91986"
+    },
+    {
+      "id": "73.17.19.2003",
+      "name": "Poringan",
+      "postal_code": "91986"
+    },
+    {
+      "id": "73.17.19.2004",
+      "name": "Salubua",
+      "postal_code": "91986"
+    },
+    {
+      "id": "73.17.19.2005",
+      "name": "Kaili",
+      "postal_code": "91986"
+    },
+    {
+      "id": "73.17.19.2006",
+      "name": "Muhajirin",
+      "postal_code": "91986"
+    },
+    {
+      "id": "73.17.19.2007",
+      "name": "Tallang",
+      "postal_code": "91986"
+    },
+    {
+      "id": "73.17.19.2008",
+      "name": "Kaladi Darussalam",
+      "postal_code": "91986"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

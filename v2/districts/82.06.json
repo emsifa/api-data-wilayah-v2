@@ -1,18 +1,48 @@
 {
-  "data": {
-    "id": "82.06",
-    "name": "Kabupaten Halmahera Timur",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
+  "data": [
+    {
+      "id": "82.06.01",
+      "name": "Wasile"
     },
-    "regency": {
-      "id": "82.06",
-      "name": "Kabupaten Halmahera Timur"
+    {
+      "id": "82.06.02",
+      "name": "Maba"
+    },
+    {
+      "id": "82.06.03",
+      "name": "Maba Selatan"
+    },
+    {
+      "id": "82.06.04",
+      "name": "Wasile Selatan"
+    },
+    {
+      "id": "82.06.05",
+      "name": "Wasile Tengah"
+    },
+    {
+      "id": "82.06.06",
+      "name": "Wasile Utara"
+    },
+    {
+      "id": "82.06.07",
+      "name": "Wasile Timur"
+    },
+    {
+      "id": "82.06.08",
+      "name": "Maba Tengah"
+    },
+    {
+      "id": "82.06.09",
+      "name": "Maba Utara"
+    },
+    {
+      "id": "82.06.10",
+      "name": "Kota Maba"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

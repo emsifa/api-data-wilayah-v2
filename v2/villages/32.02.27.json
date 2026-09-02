@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.02.27.2001",
+      "name": "Cikujang",
+      "postal_code": "43156"
+    },
+    {
+      "id": "32.02.27.2002",
+      "name": "Gunungguruh",
+      "postal_code": "43156"
+    },
+    {
+      "id": "32.02.27.2003",
+      "name": "Cibentang",
+      "postal_code": "43156"
+    },
+    {
+      "id": "32.02.27.2004",
+      "name": "Sirnaresmi",
+      "postal_code": "43156"
+    },
+    {
+      "id": "32.02.27.2005",
+      "name": "Kebonmanggu",
+      "postal_code": "43156"
+    },
+    {
+      "id": "32.02.27.2006",
+      "name": "Cibolang",
+      "postal_code": "43156"
+    },
+    {
+      "id": "32.02.27.2007",
+      "name": "Mangkalaya",
+      "postal_code": "43156"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

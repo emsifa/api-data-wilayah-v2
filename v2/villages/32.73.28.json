@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.73.28.1001",
+      "name": "Cipadung Kulon",
+      "postal_code": "40614"
+    },
+    {
+      "id": "32.73.28.1002",
+      "name": "Cipadung Kidul",
+      "postal_code": "40614"
+    },
+    {
+      "id": "32.73.28.1003",
+      "name": "Cipadung Wetan",
+      "postal_code": "40614"
+    },
+    {
+      "id": "32.73.28.1004",
+      "name": "Mekar Mulya",
+      "postal_code": "40614"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

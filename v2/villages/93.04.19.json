@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "93.04.19.2001",
+      "name": "Biwar Laut",
+      "postal_code": "99786"
+    },
+    {
+      "id": "93.04.19.2002",
+      "name": "Atambuts",
+      "postal_code": "99786"
+    },
+    {
+      "id": "93.04.19.2003",
+      "name": "Omanesep",
+      "postal_code": "99786"
+    },
+    {
+      "id": "93.04.19.2004",
+      "name": "Warkai",
+      "postal_code": "99786"
+    },
+    {
+      "id": "93.04.19.2005",
+      "name": "You",
+      "postal_code": "99786"
+    },
+    {
+      "id": "93.04.19.2006",
+      "name": "Pirpis",
+      "postal_code": "99786"
+    },
+    {
+      "id": "93.04.19.2007",
+      "name": "Desep",
+      "postal_code": "99786"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "95.01.30.2001",
+      "name": "Wogi",
+      "postal_code": "99535"
+    },
+    {
+      "id": "95.01.30.2002",
+      "name": "Elaboge",
+      "postal_code": "99535"
+    },
+    {
+      "id": "95.01.30.2003",
+      "name": "Holasili",
+      "postal_code": "99535"
+    },
+    {
+      "id": "95.01.30.2004",
+      "name": "Yerega",
+      "postal_code": "99535"
+    },
+    {
+      "id": "95.01.30.2005",
+      "name": "Olagi",
+      "postal_code": "99535"
+    },
+    {
+      "id": "95.01.30.2006",
+      "name": "Gigilobo",
+      "postal_code": "99535"
+    },
+    {
+      "id": "95.01.30.2007",
+      "name": "Apnae",
+      "postal_code": "99535"
+    },
+    {
+      "id": "95.01.30.2008",
+      "name": "Wonenggulik",
+      "postal_code": "99535"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

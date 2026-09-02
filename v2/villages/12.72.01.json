@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.72.01.1001",
+      "name": "Kebun Sayur",
+      "postal_code": "21134"
+    },
+    {
+      "id": "12.72.01.1002",
+      "name": "Tomuan",
+      "postal_code": "21133"
+    },
+    {
+      "id": "12.72.01.1003",
+      "name": "Pahlawan",
+      "postal_code": "21132"
+    },
+    {
+      "id": "12.72.01.1004",
+      "name": "Asuhan",
+      "postal_code": "21136"
+    },
+    {
+      "id": "12.72.01.1005",
+      "name": "Merdeka",
+      "postal_code": "21135"
+    },
+    {
+      "id": "12.72.01.1006",
+      "name": "Pardomuan",
+      "postal_code": "21131"
+    },
+    {
+      "id": "12.72.01.1007",
+      "name": "Siopat Suhu",
+      "postal_code": "21139"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

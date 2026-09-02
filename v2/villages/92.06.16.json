@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "92.06.16.2001",
+      "name": "Aroba",
+      "postal_code": "98131"
+    },
+    {
+      "id": "92.06.16.2002",
+      "name": "Yaru",
+      "postal_code": "98131"
+    },
+    {
+      "id": "92.06.16.2003",
+      "name": "Sido Makmur",
+      "postal_code": "98131"
+    },
+    {
+      "id": "92.06.16.2004",
+      "name": "Wimbro",
+      "postal_code": "98131"
+    },
+    {
+      "id": "92.06.16.2005",
+      "name": "Sangguar",
+      "postal_code": "98131"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

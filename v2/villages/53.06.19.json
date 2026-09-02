@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "53.06.19.2001",
+      "name": "Kalike",
+      "postal_code": "86273"
+    },
+    {
+      "id": "53.06.19.2002",
+      "name": "Kalike Aimatan",
+      "postal_code": "86273"
+    },
+    {
+      "id": "53.06.19.2003",
+      "name": "Sulengwaseng",
+      "postal_code": "86273"
+    },
+    {
+      "id": "53.06.19.2004",
+      "name": "Kenere",
+      "postal_code": "86273"
+    },
+    {
+      "id": "53.06.19.2005",
+      "name": "Lemanu",
+      "postal_code": "86273"
+    },
+    {
+      "id": "53.06.19.2006",
+      "name": "Lewograran",
+      "postal_code": "86273"
+    },
+    {
+      "id": "53.06.19.2007",
+      "name": "Bubuatagamu",
+      "postal_code": "86273"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

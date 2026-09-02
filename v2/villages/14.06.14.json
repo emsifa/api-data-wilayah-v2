@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "14.06.14.2001",
+      "name": "Pagaran Tapah",
+      "postal_code": "28550"
+    },
+    {
+      "id": "14.06.14.2002",
+      "name": "Kembang Damai",
+      "postal_code": "28550"
+    },
+    {
+      "id": "14.06.14.2005",
+      "name": "Sangkir Indah",
+      "postal_code": "28550"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

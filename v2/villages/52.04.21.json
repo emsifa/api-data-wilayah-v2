@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "52.04.21.2001",
+      "name": "Rhee",
+      "postal_code": "84352"
+    },
+    {
+      "id": "52.04.21.2002",
+      "name": "Sampe",
+      "postal_code": "84352"
+    },
+    {
+      "id": "52.04.21.2003",
+      "name": "Luk",
+      "postal_code": "84352"
+    },
+    {
+      "id": "52.04.21.2004",
+      "name": "Rhee Loka",
+      "postal_code": "84352"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

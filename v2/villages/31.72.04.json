@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "31.72.04.1001",
+      "name": "Cilincing",
+      "postal_code": "14120"
+    },
+    {
+      "id": "31.72.04.1002",
+      "name": "Sukapura",
+      "postal_code": "14140"
+    },
+    {
+      "id": "31.72.04.1003",
+      "name": "Marunda",
+      "postal_code": "14150"
+    },
+    {
+      "id": "31.72.04.1004",
+      "name": "Kalibaru",
+      "postal_code": "14110"
+    },
+    {
+      "id": "31.72.04.1005",
+      "name": "Semper Timur",
+      "postal_code": "14130"
+    },
+    {
+      "id": "31.72.04.1006",
+      "name": "Rorotan",
+      "postal_code": "14140"
+    },
+    {
+      "id": "31.72.04.1007",
+      "name": "Semper Barat",
+      "postal_code": "14130"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

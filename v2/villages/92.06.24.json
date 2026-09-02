@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "92.06.24.2001",
+      "name": "Igomu",
+      "postal_code": "98164"
+    },
+    {
+      "id": "92.06.24.2002",
+      "name": "Mesna",
+      "postal_code": "98164"
+    },
+    {
+      "id": "92.06.24.2003",
+      "name": "Sumuy",
+      "postal_code": "98164"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

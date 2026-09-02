@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "35.78.31.1001",
+      "name": "Sambikerep",
+      "postal_code": "60217"
+    },
+    {
+      "id": "35.78.31.1002",
+      "name": "Made",
+      "postal_code": "60219"
+    },
+    {
+      "id": "35.78.31.1003",
+      "name": "Beringin",
+      "postal_code": "60218"
+    },
+    {
+      "id": "35.78.31.1004",
+      "name": "Lontar",
+      "postal_code": "60216"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

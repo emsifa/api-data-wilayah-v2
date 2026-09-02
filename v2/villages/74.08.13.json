@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "74.08.13.2001",
+      "name": "Lanipa-Nipa",
+      "postal_code": "93916"
+    },
+    {
+      "id": "74.08.13.2002",
+      "name": "Ujung Tobaku",
+      "postal_code": "93916"
+    },
+    {
+      "id": "74.08.13.2003",
+      "name": "Katoi",
+      "postal_code": "93913"
+    },
+    {
+      "id": "74.08.13.2004",
+      "name": "Simbula",
+      "postal_code": "93914"
+    },
+    {
+      "id": "74.08.13.2005",
+      "name": "Maruge",
+      "postal_code": "93914"
+    },
+    {
+      "id": "74.08.13.2006",
+      "name": "Lambuno",
+      "postal_code": "93916"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

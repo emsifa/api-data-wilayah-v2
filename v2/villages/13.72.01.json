@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "13.72.01.1001",
+      "name": "Tanah Garam",
+      "postal_code": "27312"
+    },
+    {
+      "id": "13.72.01.1002",
+      "name": "VI Suku",
+      "postal_code": "27311"
+    },
+    {
+      "id": "13.72.01.1003",
+      "name": "Sinapa Piliang",
+      "postal_code": "27313"
+    },
+    {
+      "id": "13.72.01.1004",
+      "name": "IX Korong",
+      "postal_code": "27314"
+    },
+    {
+      "id": "13.72.01.1005",
+      "name": "Kampai Tabu Karambia",
+      "postal_code": "27315"
+    },
+    {
+      "id": "13.72.01.1006",
+      "name": "Aro IV Korong",
+      "postal_code": "27317"
+    },
+    {
+      "id": "13.72.01.1007",
+      "name": "Simpang Rumbio",
+      "postal_code": "27316"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

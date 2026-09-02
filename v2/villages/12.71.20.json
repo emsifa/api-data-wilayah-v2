@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.71.20.1001",
+      "name": "Gang Buntu",
+      "postal_code": "20231"
+    },
+    {
+      "id": "12.71.20.1002",
+      "name": "Sidodadi",
+      "postal_code": "20234"
+    },
+    {
+      "id": "12.71.20.1003",
+      "name": "Durian",
+      "postal_code": "20235"
+    },
+    {
+      "id": "12.71.20.1004",
+      "name": "Glugur Darat I",
+      "postal_code": "20238"
+    },
+    {
+      "id": "12.71.20.1005",
+      "name": "Glugur Darat II",
+      "postal_code": "20238"
+    },
+    {
+      "id": "12.71.20.1006",
+      "name": "P Berayan Darat I",
+      "postal_code": "20239"
+    },
+    {
+      "id": "12.71.20.1007",
+      "name": "P Berayan Darat II",
+      "postal_code": "20239"
+    },
+    {
+      "id": "12.71.20.1008",
+      "name": "P Berayan Bengkel",
+      "postal_code": "20239"
+    },
+    {
+      "id": "12.71.20.1009",
+      "name": "PB Bengkel Baru",
+      "postal_code": "20239"
+    },
+    {
+      "id": "12.71.20.1010",
+      "name": "Perintis",
+      "postal_code": "20231"
+    },
+    {
+      "id": "12.71.20.1011",
+      "name": "Gaharu",
+      "postal_code": "20235"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

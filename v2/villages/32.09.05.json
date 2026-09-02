@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "32.09.05.2001",
+      "name": "Cangkuang",
+      "postal_code": "45191"
+    },
+    {
+      "id": "32.09.05.2002",
+      "name": "Serang Wetan",
+      "postal_code": "45191"
+    },
+    {
+      "id": "32.09.05.2003",
+      "name": "Serang Kulon",
+      "postal_code": "45191"
+    },
+    {
+      "id": "32.09.05.2004",
+      "name": "Gembongan Mekar",
+      "postal_code": "45191"
+    },
+    {
+      "id": "32.09.05.2005",
+      "name": "Gembongan",
+      "postal_code": "45191"
+    },
+    {
+      "id": "32.09.05.2006",
+      "name": "Babakan Gebang",
+      "postal_code": "45191"
+    },
+    {
+      "id": "32.09.05.2007",
+      "name": "Babakan",
+      "postal_code": "45191"
+    },
+    {
+      "id": "32.09.05.2008",
+      "name": "Bojonggebang",
+      "postal_code": "45191"
+    },
+    {
+      "id": "32.09.05.2009",
+      "name": "Sumber Kidul",
+      "postal_code": "45191"
+    },
+    {
+      "id": "32.09.05.2010",
+      "name": "Sumber Lor",
+      "postal_code": "45191"
+    },
+    {
+      "id": "32.09.05.2011",
+      "name": "Kudumulya",
+      "postal_code": "45191"
+    },
+    {
+      "id": "32.09.05.2012",
+      "name": "Kudukeras",
+      "postal_code": "45191"
+    },
+    {
+      "id": "32.09.05.2013",
+      "name": "Pakusamben",
+      "postal_code": "45191"
+    },
+    {
+      "id": "32.09.05.2014",
+      "name": "Karangwangun",
+      "postal_code": "45191"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

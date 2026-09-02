@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "18.06.17.2001",
+      "name": "Negeri Kelumbayan",
+      "postal_code": "35388"
+    },
+    {
+      "id": "18.06.17.2002",
+      "name": "Pekon Susuk",
+      "postal_code": "35388"
+    },
+    {
+      "id": "18.06.17.2003",
+      "name": "Napal",
+      "postal_code": "35388"
+    },
+    {
+      "id": "18.06.17.2005",
+      "name": "Pekon Unggak",
+      "postal_code": "35388"
+    },
+    {
+      "id": "18.06.17.2006",
+      "name": "Penyandingan",
+      "postal_code": "35388"
+    },
+    {
+      "id": "18.06.17.2009",
+      "name": "Paku",
+      "postal_code": "35388"
+    },
+    {
+      "id": "18.06.17.2010",
+      "name": "Umbar",
+      "postal_code": "35388"
+    },
+    {
+      "id": "18.06.17.2012",
+      "name": "Kiluan Negeri",
+      "postal_code": "35388"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "53.15.12.2001",
+      "name": "Golo Lewe",
+      "postal_code": "86751"
+    },
+    {
+      "id": "53.15.12.2002",
+      "name": "Tueng",
+      "postal_code": "86751"
+    },
+    {
+      "id": "53.15.12.2003",
+      "name": "Sompang Kolang",
+      "postal_code": "86751"
+    },
+    {
+      "id": "53.15.12.2004",
+      "name": "Wajur",
+      "postal_code": "86751"
+    },
+    {
+      "id": "53.15.12.2005",
+      "name": "Kolang",
+      "postal_code": "86751"
+    },
+    {
+      "id": "53.15.12.2006",
+      "name": "Golo Riwu",
+      "postal_code": "86751"
+    },
+    {
+      "id": "53.15.12.2007",
+      "name": "Compang Kules",
+      "postal_code": "86751"
+    },
+    {
+      "id": "53.15.12.2008",
+      "name": "Tengku",
+      "postal_code": "86751"
+    },
+    {
+      "id": "53.15.12.2009",
+      "name": "Golo Wedong",
+      "postal_code": "86751"
+    },
+    {
+      "id": "53.15.12.2010",
+      "name": "Ranggu",
+      "postal_code": "86751"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

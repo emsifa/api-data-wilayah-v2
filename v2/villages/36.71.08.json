@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "36.71.08.1001",
+      "name": "Periuk",
+      "postal_code": "15131"
+    },
+    {
+      "id": "36.71.08.1002",
+      "name": "Gembor",
+      "postal_code": "15133"
+    },
+    {
+      "id": "36.71.08.1003",
+      "name": "Gebang Raya",
+      "postal_code": "15132"
+    },
+    {
+      "id": "36.71.08.1004",
+      "name": "Sangiang Jaya",
+      "postal_code": "15132"
+    },
+    {
+      "id": "36.71.08.1005",
+      "name": "Periuk Jaya",
+      "postal_code": "15131"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

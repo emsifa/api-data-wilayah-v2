@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "14.02",
+    "name": "Kabupaten Indragiri Hulu",
+    "capital": "Rengat",
+    "lat": -0.39300278228698865,
+    "lng": 102.43757196516648,
+    "elv": 32,
+    "tz": 7,
+    "population": 487039,
+    "total_area": 7871.85,
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

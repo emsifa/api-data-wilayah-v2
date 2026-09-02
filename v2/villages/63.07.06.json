@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "63.07.06.1001",
+      "name": "Barabai Darat",
+      "postal_code": "71315"
+    },
+    {
+      "id": "63.07.06.1002",
+      "name": "Barabai Timur",
+      "postal_code": "71312"
+    },
+    {
+      "id": "63.07.06.1003",
+      "name": "Barabai Selatan",
+      "postal_code": "71311"
+    },
+    {
+      "id": "63.07.06.1004",
+      "name": "Barabai Utara",
+      "postal_code": "71313"
+    },
+    {
+      "id": "63.07.06.1005",
+      "name": "Barabai Barat",
+      "postal_code": "71314"
+    },
+    {
+      "id": "63.07.06.1006",
+      "name": "Bukat",
+      "postal_code": "71315"
+    },
+    {
+      "id": "63.07.06.2007",
+      "name": "Gambah",
+      "postal_code": "71315"
+    },
+    {
+      "id": "63.07.06.2008",
+      "name": "Kayu Bawang",
+      "postal_code": "71315"
+    },
+    {
+      "id": "63.07.06.2009",
+      "name": "Benawa Tengah",
+      "postal_code": "71315"
+    },
+    {
+      "id": "63.07.06.2010",
+      "name": "Mandingin",
+      "postal_code": "71315"
+    },
+    {
+      "id": "63.07.06.2011",
+      "name": "Pajukungan",
+      "postal_code": "71315"
+    },
+    {
+      "id": "63.07.06.2012",
+      "name": "Banua Budi",
+      "postal_code": "71315"
+    },
+    {
+      "id": "63.07.06.2013",
+      "name": "Banua Binjai",
+      "postal_code": "71315"
+    },
+    {
+      "id": "63.07.06.2014",
+      "name": "Banua Jingah",
+      "postal_code": "71315"
+    },
+    {
+      "id": "63.07.06.2015",
+      "name": "Ayuang",
+      "postal_code": "71315"
+    },
+    {
+      "id": "63.07.06.2016",
+      "name": "Babai",
+      "postal_code": "71315"
+    },
+    {
+      "id": "63.07.06.2017",
+      "name": "Awang Besar",
+      "postal_code": "71315"
+    },
+    {
+      "id": "63.07.06.2018",
+      "name": "Bakapas",
+      "postal_code": "71315"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

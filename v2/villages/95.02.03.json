@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "95.02.03.2001",
+      "name": "Okbifisil",
+      "postal_code": "99404"
+    },
+    {
+      "id": "95.02.03.2002",
+      "name": "Abmisibil",
+      "postal_code": "99572"
+    },
+    {
+      "id": "95.02.03.2003",
+      "name": "Manunggal",
+      "postal_code": "99572"
+    },
+    {
+      "id": "95.02.03.2004",
+      "name": "Iriding",
+      "postal_code": "99404"
+    },
+    {
+      "id": "95.02.03.2005",
+      "name": "Atolbol",
+      "postal_code": "99572"
+    },
+    {
+      "id": "95.02.03.2006",
+      "name": "Oktanglap",
+      "postal_code": "99572"
+    },
+    {
+      "id": "95.02.03.2007",
+      "name": "Oksemar",
+      "postal_code": "99572"
+    },
+    {
+      "id": "95.02.03.2008",
+      "name": "Okaplo",
+      "postal_code": "99404"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

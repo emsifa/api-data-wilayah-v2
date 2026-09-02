@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "13.07.03.2001",
+      "name": "Koto Baru Simalanggang",
+      "postal_code": "26251"
+    },
+    {
+      "id": "13.07.03.2002",
+      "name": "Taeh Bukik",
+      "postal_code": "26251"
+    },
+    {
+      "id": "13.07.03.2003",
+      "name": "Simalanggang",
+      "postal_code": "26251"
+    },
+    {
+      "id": "13.07.03.2004",
+      "name": "Sungai Beringin",
+      "postal_code": "26251"
+    },
+    {
+      "id": "13.07.03.2005",
+      "name": "Piobang",
+      "postal_code": "26251"
+    },
+    {
+      "id": "13.07.03.2006",
+      "name": "Taeh Baruah",
+      "postal_code": "26251"
+    },
+    {
+      "id": "13.07.03.2007",
+      "name": "Koto Tangah Simalanggang",
+      "postal_code": "26251"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

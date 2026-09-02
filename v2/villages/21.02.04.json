@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "21.02.04.1001",
+      "name": "Meral Kota",
+      "postal_code": "29666"
+    },
+    {
+      "id": "21.02.04.1002",
+      "name": "Baran Barat",
+      "postal_code": "29666"
+    },
+    {
+      "id": "21.02.04.1003",
+      "name": "Sungai Raya",
+      "postal_code": "29666"
+    },
+    {
+      "id": "21.02.04.1006",
+      "name": "Baran Timur",
+      "postal_code": "29666"
+    },
+    {
+      "id": "21.02.04.1007",
+      "name": "Sungai Pasir",
+      "postal_code": "29666"
+    },
+    {
+      "id": "21.02.04.1008",
+      "name": "Parit Benut",
+      "postal_code": "29666"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

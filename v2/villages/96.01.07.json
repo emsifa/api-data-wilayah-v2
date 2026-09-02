@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "96.01.07.2001",
+      "name": "Sayosa",
+      "postal_code": "98444"
+    },
+    {
+      "id": "96.01.07.2002",
+      "name": "Maladofok",
+      "postal_code": "98444"
+    },
+    {
+      "id": "96.01.07.2003",
+      "name": "Yorbes",
+      "postal_code": "98444"
+    },
+    {
+      "id": "96.01.07.2004",
+      "name": "Samusa",
+      "postal_code": "98444"
+    },
+    {
+      "id": "96.01.07.2005",
+      "name": "Klamintu",
+      "postal_code": "98444"
+    },
+    {
+      "id": "96.01.07.2006",
+      "name": "Klain",
+      "postal_code": "98444"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

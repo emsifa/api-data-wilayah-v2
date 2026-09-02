@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "76.01.04.2001",
+      "name": "Sarudu",
+      "postal_code": "91576"
+    },
+    {
+      "id": "76.01.04.2003",
+      "name": "Bulu Mario",
+      "postal_code": "91576"
+    },
+    {
+      "id": "76.01.04.2005",
+      "name": "Kumasari",
+      "postal_code": "91576"
+    },
+    {
+      "id": "76.01.04.2011",
+      "name": "Patika",
+      "postal_code": "91576"
+    },
+    {
+      "id": "76.01.04.2012",
+      "name": "Doda",
+      "postal_code": "91576"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "19.06.02.2001",
+      "name": "Gantung",
+      "postal_code": "33562"
+    },
+    {
+      "id": "19.06.02.2002",
+      "name": "Selingsing",
+      "postal_code": "33562"
+    },
+    {
+      "id": "19.06.02.2003",
+      "name": "Jangkar Asam",
+      "postal_code": "33562"
+    },
+    {
+      "id": "19.06.02.2004",
+      "name": "Lilangan",
+      "postal_code": "33562"
+    },
+    {
+      "id": "19.06.02.2009",
+      "name": "Lenggang",
+      "postal_code": "33562"
+    },
+    {
+      "id": "19.06.02.2010",
+      "name": "Batu Penyu",
+      "postal_code": "33562"
+    },
+    {
+      "id": "19.06.02.2011",
+      "name": "Limbongan",
+      "postal_code": "33562"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

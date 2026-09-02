@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "62.03.02.1001",
+      "name": "Mambulau",
+      "postal_code": "73521"
+    },
+    {
+      "id": "62.03.02.1002",
+      "name": "Hampatung",
+      "postal_code": "73522"
+    },
+    {
+      "id": "62.03.02.1003",
+      "name": "Dahirang",
+      "postal_code": "73523"
+    },
+    {
+      "id": "62.03.02.1004",
+      "name": "Barimba",
+      "postal_code": "73524"
+    },
+    {
+      "id": "62.03.02.1005",
+      "name": "Sei Pasah",
+      "postal_code": "73525"
+    },
+    {
+      "id": "62.03.02.2006",
+      "name": "Bakungin",
+      "postal_code": "73525"
+    },
+    {
+      "id": "62.03.02.2007",
+      "name": "Sei Asam",
+      "postal_code": "73525"
+    },
+    {
+      "id": "62.03.02.2008",
+      "name": "Saka Batur",
+      "postal_code": "73525"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

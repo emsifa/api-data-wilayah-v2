@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "13.02.19.2001",
+      "name": "Simpang Tj. Nan IV",
+      "postal_code": "27383"
+    },
+    {
+      "id": "13.02.19.2002",
+      "name": "Kampung Batu Dalam",
+      "postal_code": "27383"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

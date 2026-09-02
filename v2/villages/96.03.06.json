@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "96.03.06.2001",
+      "name": "Foley",
+      "postal_code": "98492"
+    },
+    {
+      "id": "96.03.06.2002",
+      "name": "Tomolol",
+      "postal_code": "98492"
+    },
+    {
+      "id": "96.03.06.2003",
+      "name": "Usaha Jaya",
+      "postal_code": "98492"
+    },
+    {
+      "id": "96.03.06.2004",
+      "name": "Limalas Timur",
+      "postal_code": "98492"
+    },
+    {
+      "id": "96.03.06.2005",
+      "name": "Audam",
+      "postal_code": "98492"
+    },
+    {
+      "id": "96.03.06.2006",
+      "name": "Limalas Barat",
+      "postal_code": "98492"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

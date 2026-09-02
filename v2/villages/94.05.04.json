@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "94.05.04.2001",
+      "name": "Doufo",
+      "postal_code": "98982"
+    },
+    {
+      "id": "94.05.04.2002",
+      "name": "Iratoi",
+      "postal_code": "98982"
+    },
+    {
+      "id": "94.05.04.2003",
+      "name": "Lani",
+      "postal_code": "98988"
+    },
+    {
+      "id": "94.05.04.2004",
+      "name": "Wahuka",
+      "postal_code": "98988"
+    },
+    {
+      "id": "94.05.04.2005",
+      "name": "Sibita",
+      "postal_code": "98988"
+    },
+    {
+      "id": "94.05.04.2006",
+      "name": "Rawa",
+      "postal_code": "98982"
+    },
+    {
+      "id": "94.05.04.2007",
+      "name": "Jirei",
+      "postal_code": "98982"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

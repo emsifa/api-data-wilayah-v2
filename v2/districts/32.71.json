@@ -1,18 +1,32 @@
 {
-  "data": {
-    "id": "32.71",
-    "name": "Kota Bogor",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
+  "data": [
+    {
+      "id": "32.71.01",
+      "name": "Bogor Selatan"
     },
-    "regency": {
-      "id": "32.71",
-      "name": "Kota Bogor"
+    {
+      "id": "32.71.02",
+      "name": "Bogor Timur"
+    },
+    {
+      "id": "32.71.03",
+      "name": "Bogor Tengah"
+    },
+    {
+      "id": "32.71.04",
+      "name": "Bogor Barat"
+    },
+    {
+      "id": "32.71.05",
+      "name": "Bogor Utara"
+    },
+    {
+      "id": "32.71.06",
+      "name": "Tanah Sareal"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

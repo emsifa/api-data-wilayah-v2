@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "13.08.07.2001",
+      "name": "Panti",
+      "postal_code": "26351"
+    },
+    {
+      "id": "13.08.07.2003",
+      "name": "Panti Timur",
+      "postal_code": "26351"
+    },
+    {
+      "id": "13.08.07.2004",
+      "name": "Panti Selatan",
+      "postal_code": "26351"
+    },
+    {
+      "id": "13.08.07.2005",
+      "name": "Panti Utara",
+      "postal_code": "26351"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

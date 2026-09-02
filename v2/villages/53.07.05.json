@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "53.07.05.1006",
+      "name": "Madawat",
+      "postal_code": "86112"
+    },
+    {
+      "id": "53.07.05.1007",
+      "name": "Nangalimang",
+      "postal_code": "86118"
+    },
+    {
+      "id": "53.07.05.1008",
+      "name": "Kabor",
+      "postal_code": "86112"
+    },
+    {
+      "id": "53.07.05.1009",
+      "name": "Kota Uneng",
+      "postal_code": "86113"
+    },
+    {
+      "id": "53.07.05.2014",
+      "name": "Pemana",
+      "postal_code": "86116"
+    },
+    {
+      "id": "53.07.05.2015",
+      "name": "Samparong",
+      "postal_code": "86116"
+    },
+    {
+      "id": "53.07.05.2016",
+      "name": "Gunung Sari",
+      "postal_code": "86116"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

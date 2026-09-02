@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "74.02.42.2001",
+      "name": "Waworoda Jaya",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.42.2002",
+      "name": "Uluao",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.42.2003",
+      "name": "Sanuanggamo",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.42.2004",
+      "name": "Anggohu",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.42.2005",
+      "name": "Ambopi",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.42.2006",
+      "name": "Nambeaboru",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.42.2007",
+      "name": "Puundombi",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.42.2008",
+      "name": "Olo Onua",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.42.2009",
+      "name": "Barowila",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.42.2010",
+      "name": "Andalambe",
+      "postal_code": "93460"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

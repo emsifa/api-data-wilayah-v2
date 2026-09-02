@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.07.16.2001",
+      "name": "Tambaksari",
+      "postal_code": "46388"
+    },
+    {
+      "id": "32.07.16.2002",
+      "name": "Mekarsari",
+      "postal_code": "46388"
+    },
+    {
+      "id": "32.07.16.2003",
+      "name": "Kaso",
+      "postal_code": "46388"
+    },
+    {
+      "id": "32.07.16.2004",
+      "name": "Kadupandak",
+      "postal_code": "46388"
+    },
+    {
+      "id": "32.07.16.2005",
+      "name": "Sukasari",
+      "postal_code": "46388"
+    },
+    {
+      "id": "32.07.16.2006",
+      "name": "Karangpaningal",
+      "postal_code": "46388"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

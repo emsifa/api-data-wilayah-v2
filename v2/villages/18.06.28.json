@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "18.06.28.2001",
+      "name": "Lengkukai",
+      "postal_code": "35389"
+    },
+    {
+      "id": "18.06.28.2002",
+      "name": "Sidoharjo",
+      "postal_code": "35389"
+    },
+    {
+      "id": "18.06.28.2003",
+      "name": "Merbau",
+      "postal_code": "35389"
+    },
+    {
+      "id": "18.06.28.2004",
+      "name": "Batu Patah",
+      "postal_code": "35389"
+    },
+    {
+      "id": "18.06.28.2005",
+      "name": "Purwosari",
+      "postal_code": "35389"
+    },
+    {
+      "id": "18.06.28.2006",
+      "name": "Marga Mulya",
+      "postal_code": "35389"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

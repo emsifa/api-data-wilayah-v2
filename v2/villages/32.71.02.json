@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.71.02.1001",
+      "name": "Sukasari",
+      "postal_code": "16142"
+    },
+    {
+      "id": "32.71.02.1002",
+      "name": "Baranangsiang",
+      "postal_code": "16143"
+    },
+    {
+      "id": "32.71.02.1003",
+      "name": "Katulampa",
+      "postal_code": "16144"
+    },
+    {
+      "id": "32.71.02.1004",
+      "name": "Sindangsari",
+      "postal_code": "16146"
+    },
+    {
+      "id": "32.71.02.1005",
+      "name": "Sindangrasa",
+      "postal_code": "16145"
+    },
+    {
+      "id": "32.71.02.1006",
+      "name": "Tajur",
+      "postal_code": "16141"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

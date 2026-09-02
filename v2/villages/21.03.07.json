@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "21.03.07.1011",
+      "name": "Ranai Kota",
+      "postal_code": "29777"
+    },
+    {
+      "id": "21.03.07.1016",
+      "name": "Ranai Darat",
+      "postal_code": "29777"
+    },
+    {
+      "id": "21.03.07.1017",
+      "name": "Bandarsyah",
+      "postal_code": "29777"
+    },
+    {
+      "id": "21.03.07.1019",
+      "name": "Batu Hitam",
+      "postal_code": "29777"
+    },
+    {
+      "id": "21.03.07.2002",
+      "name": "Sungai Ulu",
+      "postal_code": "29777"
+    },
+    {
+      "id": "21.03.07.2004",
+      "name": "Sepempang",
+      "postal_code": "29777"
+    },
+    {
+      "id": "21.03.07.2014",
+      "name": "Batu Gajah",
+      "postal_code": "29777"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

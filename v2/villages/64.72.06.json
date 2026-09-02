@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "64.72.06.1001",
+      "name": "Loa Bakung",
+      "postal_code": "75126"
+    },
+    {
+      "id": "64.72.06.1002",
+      "name": "Loa Buah",
+      "postal_code": "75126"
+    },
+    {
+      "id": "64.72.06.1003",
+      "name": "Karang Asam Ulu",
+      "postal_code": "75126"
+    },
+    {
+      "id": "64.72.06.1004",
+      "name": "Lok Bahu",
+      "postal_code": "75125"
+    },
+    {
+      "id": "64.72.06.1005",
+      "name": "Teluk Lerong Ulu",
+      "postal_code": "75127"
+    },
+    {
+      "id": "64.72.06.1006",
+      "name": "Karang Asam Ilir",
+      "postal_code": "75126"
+    },
+    {
+      "id": "64.72.06.1007",
+      "name": "Karang Anyar",
+      "postal_code": "75125"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

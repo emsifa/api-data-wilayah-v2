@@ -1,18 +1,52 @@
 {
-  "data": {
-    "id": "63.06",
-    "name": "Kabupaten Hulu Sungai Selatan",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
+  "data": [
+    {
+      "id": "63.06.01",
+      "name": "Sungai Raya"
     },
-    "regency": {
-      "id": "63.06",
-      "name": "Kabupaten Hulu Sungai Selatan"
+    {
+      "id": "63.06.02",
+      "name": "Padang Batung"
+    },
+    {
+      "id": "63.06.03",
+      "name": "Telaga Langsat"
+    },
+    {
+      "id": "63.06.04",
+      "name": "Angkinang"
+    },
+    {
+      "id": "63.06.05",
+      "name": "Kandangan"
+    },
+    {
+      "id": "63.06.06",
+      "name": "Simpur"
+    },
+    {
+      "id": "63.06.07",
+      "name": "Daha Selatan"
+    },
+    {
+      "id": "63.06.08",
+      "name": "Daha Utara"
+    },
+    {
+      "id": "63.06.09",
+      "name": "Kalumpang"
+    },
+    {
+      "id": "63.06.10",
+      "name": "Loksado"
+    },
+    {
+      "id": "63.06.11",
+      "name": "Daha Barat"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

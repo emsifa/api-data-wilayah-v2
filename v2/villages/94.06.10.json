@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "94.06.10.2001",
+      "name": "Dogimani",
+      "postal_code": "98881"
+    },
+    {
+      "id": "94.06.10.2002",
+      "name": "Kigamani",
+      "postal_code": "98881"
+    },
+    {
+      "id": "94.06.10.2003",
+      "name": "Idadagi",
+      "postal_code": "98881"
+    },
+    {
+      "id": "94.06.10.2004",
+      "name": "Denemani",
+      "postal_code": "98881"
+    },
+    {
+      "id": "94.06.10.2005",
+      "name": "Makidimi",
+      "postal_code": "98881"
+    },
+    {
+      "id": "94.06.10.2006",
+      "name": "Egebutu",
+      "postal_code": "98881"
+    },
+    {
+      "id": "94.06.10.2007",
+      "name": "Motito",
+      "postal_code": "98881"
+    },
+    {
+      "id": "94.06.10.2008",
+      "name": "Bobobutu",
+      "postal_code": "98881"
+    },
+    {
+      "id": "94.06.10.2009",
+      "name": "Pona",
+      "postal_code": "98881"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

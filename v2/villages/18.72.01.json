@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "18.72.01.1001",
+      "name": "Metro",
+      "postal_code": "34111"
+    },
+    {
+      "id": "18.72.01.1002",
+      "name": "Hadimulyo Timur",
+      "postal_code": "34113"
+    },
+    {
+      "id": "18.72.01.1003",
+      "name": "Imopuro",
+      "postal_code": "34111"
+    },
+    {
+      "id": "18.72.01.1004",
+      "name": "Hadimulyo Barat",
+      "postal_code": "34113"
+    },
+    {
+      "id": "18.72.01.1005",
+      "name": "Yosomulyo",
+      "postal_code": "34111"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

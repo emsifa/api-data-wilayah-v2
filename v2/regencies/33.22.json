@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "33.22",
+    "name": "Kabupaten Semarang",
+    "capital": "Ungaran",
+    "lat": -7.128957393445669,
+    "lng": 110.40409099653884,
+    "elv": 322,
+    "tz": 7,
+    "population": 1088729,
+    "total_area": 1019.27,
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

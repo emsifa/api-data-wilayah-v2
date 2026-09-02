@@ -1,18 +1,56 @@
 {
-  "data": {
-    "id": "13.08",
-    "name": "Kabupaten Pasaman",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
+  "data": [
+    {
+      "id": "13.08.04",
+      "name": "Bonjol"
     },
-    "regency": {
-      "id": "13.08",
-      "name": "Kabupaten Pasaman"
+    {
+      "id": "13.08.05",
+      "name": "Lubuk Sikaping"
+    },
+    {
+      "id": "13.08.07",
+      "name": "Panti"
+    },
+    {
+      "id": "13.08.08",
+      "name": "Mapat Tunggul"
+    },
+    {
+      "id": "13.08.12",
+      "name": "Duo Koto"
+    },
+    {
+      "id": "13.08.13",
+      "name": "Tigo Nagari"
+    },
+    {
+      "id": "13.08.14",
+      "name": "Rao"
+    },
+    {
+      "id": "13.08.15",
+      "name": "Mapat Tunggul Selatan"
+    },
+    {
+      "id": "13.08.16",
+      "name": "Simpang Alahan Mati"
+    },
+    {
+      "id": "13.08.17",
+      "name": "Padang Gelugur"
+    },
+    {
+      "id": "13.08.18",
+      "name": "Rao Utara"
+    },
+    {
+      "id": "13.08.19",
+      "name": "Rao Selatan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

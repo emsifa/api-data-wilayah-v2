@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "64.07.20.2001",
+      "name": "Sekolaq Joleq",
+      "postal_code": "75764"
+    },
+    {
+      "id": "64.07.20.2002",
+      "name": "Sekolaq Muliaq",
+      "postal_code": "75764"
+    },
+    {
+      "id": "64.07.20.2003",
+      "name": "Sekolaq Oday",
+      "postal_code": "75764"
+    },
+    {
+      "id": "64.07.20.2004",
+      "name": "Srimulyo",
+      "postal_code": "75764"
+    },
+    {
+      "id": "64.07.20.2005",
+      "name": "Sumber Bangun",
+      "postal_code": "75764"
+    },
+    {
+      "id": "64.07.20.2006",
+      "name": "Sumber Rejo",
+      "postal_code": "75764"
+    },
+    {
+      "id": "64.07.20.2007",
+      "name": "Sekolaq Darat",
+      "postal_code": "75764"
+    },
+    {
+      "id": "64.07.20.2008",
+      "name": "Leleng",
+      "postal_code": "75764"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

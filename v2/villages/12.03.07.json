@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "id": "12.03.07.1001",
+      "name": "Sigalangan",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.1060",
+      "name": "Pintu Padang I",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.1061",
+      "name": "Pintu Padang II",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.1068",
+      "name": "Bangun Purba",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2005",
+      "name": "Aek Nauli",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2016",
+      "name": "Sidadi I",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2018",
+      "name": "Janji Manaon",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2020",
+      "name": "Sitampa Simatoras",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2021",
+      "name": "Pasar Lama",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2027",
+      "name": "Benteng Huraba",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2029",
+      "name": "Padang Kahombu",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2030",
+      "name": "Sorik",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2045",
+      "name": "Sibulele Muara",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2047",
+      "name": "Bargot Topong",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2053",
+      "name": "Sigulang Losung",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2055",
+      "name": "Hurase",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2057",
+      "name": "Sorimadingin PP",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2058",
+      "name": "Huta Padang",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2062",
+      "name": "Tahalak Ujung Gading",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2063",
+      "name": "Sidadi II",
+      "postal_code": "22773"
+    },
+    {
+      "id": "12.03.07.2067",
+      "name": "Aek Gunung",
+      "postal_code": "22773"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

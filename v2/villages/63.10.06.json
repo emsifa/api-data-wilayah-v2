@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "63.10.06.1001",
+      "name": "Kampung Baru",
+      "postal_code": "72212"
+    },
+    {
+      "id": "63.10.06.1002",
+      "name": "Tungkaran Pangeran",
+      "postal_code": "72213"
+    },
+    {
+      "id": "63.10.06.2003",
+      "name": "Sari Gadung",
+      "postal_code": "72211"
+    },
+    {
+      "id": "63.10.06.2004",
+      "name": "Mekar Sari",
+      "postal_code": "72211"
+    },
+    {
+      "id": "63.10.06.2005",
+      "name": "Sungaidua",
+      "postal_code": "72211"
+    },
+    {
+      "id": "63.10.06.2006",
+      "name": "Batu Ampar",
+      "postal_code": "72213"
+    },
+    {
+      "id": "63.10.06.2007",
+      "name": "Gunungbesar",
+      "postal_code": "72213"
+    },
+    {
+      "id": "63.10.06.2008",
+      "name": "Pulau Burung",
+      "postal_code": "72213"
+    },
+    {
+      "id": "63.10.06.2009",
+      "name": "Baroqah",
+      "postal_code": "72213"
+    },
+    {
+      "id": "63.10.06.2010",
+      "name": "Bersujud",
+      "postal_code": "72213"
+    },
+    {
+      "id": "63.10.06.2011",
+      "name": "Sejahtera",
+      "postal_code": "72213"
+    },
+    {
+      "id": "63.10.06.2012",
+      "name": "Gunungantasari",
+      "postal_code": "72213"
+    },
+    {
+      "id": "63.10.06.2013",
+      "name": "Hidayah Makmur",
+      "postal_code": "72213"
+    },
+    {
+      "id": "63.10.06.2014",
+      "name": "Plajau Mulia",
+      "postal_code": "72213"
+    },
+    {
+      "id": "63.10.06.2015",
+      "name": "Kupang Berkah Jaya",
+      "postal_code": "72211"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

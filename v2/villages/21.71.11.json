@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "21.71.11.1001",
+      "name": "Tembesi",
+      "postal_code": "29439"
+    },
+    {
+      "id": "21.71.11.1002",
+      "name": "Sungai Binti",
+      "postal_code": "29439"
+    },
+    {
+      "id": "21.71.11.1003",
+      "name": "Sungai Lekop",
+      "postal_code": "29439"
+    },
+    {
+      "id": "21.71.11.1004",
+      "name": "Sagulung Kota",
+      "postal_code": "29439"
+    },
+    {
+      "id": "21.71.11.1005",
+      "name": "Sungai Langkai",
+      "postal_code": "29439"
+    },
+    {
+      "id": "21.71.11.1006",
+      "name": "Sungai Pelunggut",
+      "postal_code": "29439"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "12.25.04",
+    "name": "Moro'o",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.25",
+      "name": "Kabupaten Nias Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "35.12.11.2001",
+      "name": "Kayumas",
+      "postal_code": "68371"
+    },
+    {
+      "id": "35.12.11.2002",
+      "name": "Bayeman",
+      "postal_code": "68371"
+    },
+    {
+      "id": "35.12.11.2003",
+      "name": "Ketowan",
+      "postal_code": "68371"
+    },
+    {
+      "id": "35.12.11.2004",
+      "name": "Kedungdowo",
+      "postal_code": "68371"
+    },
+    {
+      "id": "35.12.11.2005",
+      "name": "Jatisari",
+      "postal_code": "68371"
+    },
+    {
+      "id": "35.12.11.2006",
+      "name": "Curah Tatal",
+      "postal_code": "68371"
+    },
+    {
+      "id": "35.12.11.2007",
+      "name": "Arjasa",
+      "postal_code": "68371"
+    },
+    {
+      "id": "35.12.11.2008",
+      "name": "Lamongan",
+      "postal_code": "68371"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

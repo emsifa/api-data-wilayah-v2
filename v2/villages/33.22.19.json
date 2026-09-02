@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "33.22.19.1001",
+      "name": "Sidomulyo",
+      "postal_code": "50514"
+    },
+    {
+      "id": "33.22.19.1002",
+      "name": "Kalirejo",
+      "postal_code": "50515"
+    },
+    {
+      "id": "33.22.19.1003",
+      "name": "Susukan",
+      "postal_code": "50516"
+    },
+    {
+      "id": "33.22.19.1007",
+      "name": "Gedanganak",
+      "postal_code": "50519"
+    },
+    {
+      "id": "33.22.19.1008",
+      "name": "Beji",
+      "postal_code": "50519"
+    },
+    {
+      "id": "33.22.19.2004",
+      "name": "Mluweh",
+      "postal_code": "50519"
+    },
+    {
+      "id": "33.22.19.2005",
+      "name": "Kawengen",
+      "postal_code": "50519"
+    },
+    {
+      "id": "33.22.19.2006",
+      "name": "Kalikayen",
+      "postal_code": "50519"
+    },
+    {
+      "id": "33.22.19.2009",
+      "name": "Leyangan",
+      "postal_code": "50519"
+    },
+    {
+      "id": "33.22.19.2010",
+      "name": "Kalongan",
+      "postal_code": "50519"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

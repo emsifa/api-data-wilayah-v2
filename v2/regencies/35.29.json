@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "35.29",
+    "name": "Kabupaten Sumenep",
+    "capital": "Sumenep",
+    "lat": -7.014033429943415,
+    "lng": 113.86352599653785,
+    "elv": 7,
+    "tz": 7,
+    "population": 1143002,
+    "total_area": 2083.048,
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "93.01.13.2001",
+      "name": "Koa",
+      "postal_code": "99644"
+    },
+    {
+      "id": "93.01.13.2002",
+      "name": "Baad",
+      "postal_code": "99644"
+    },
+    {
+      "id": "93.01.13.2003",
+      "name": "Senegi",
+      "postal_code": "99644"
+    },
+    {
+      "id": "93.01.13.2004",
+      "name": "Wayau",
+      "postal_code": "99644"
+    },
+    {
+      "id": "93.01.13.2005",
+      "name": "Kaisah",
+      "postal_code": "99644"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

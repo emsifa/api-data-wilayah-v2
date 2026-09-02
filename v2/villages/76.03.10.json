@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "76.03.10.1001",
+      "name": "Tabang",
+      "postal_code": "91364"
+    },
+    {
+      "id": "76.03.10.2003",
+      "name": "Tadokalua",
+      "postal_code": "91364"
+    },
+    {
+      "id": "76.03.10.2004",
+      "name": "Tabang Barat",
+      "postal_code": "91364"
+    },
+    {
+      "id": "76.03.10.2005",
+      "name": "Masupu",
+      "postal_code": "91364"
+    },
+    {
+      "id": "76.03.10.2006",
+      "name": "Kalama",
+      "postal_code": "91364"
+    },
+    {
+      "id": "76.03.10.2007",
+      "name": "Bakadisura",
+      "postal_code": "91364"
+    },
+    {
+      "id": "76.03.10.2008",
+      "name": "Salukona",
+      "postal_code": "91364"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

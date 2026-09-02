@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "71.09.09.2001",
+      "name": "Salili",
+      "postal_code": "95860"
+    },
+    {
+      "id": "71.09.09.2002",
+      "name": "Beong",
+      "postal_code": "95860"
+    },
+    {
+      "id": "71.09.09.2003",
+      "name": "Lai",
+      "postal_code": "95860"
+    },
+    {
+      "id": "71.09.09.2004",
+      "name": "Dompase",
+      "postal_code": "95860"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

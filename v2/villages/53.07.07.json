@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "53.07.07.2002",
+      "name": "Nelle Urung",
+      "postal_code": "86119"
+    },
+    {
+      "id": "53.07.07.2003",
+      "name": "Nelle Wutung",
+      "postal_code": "86119"
+    },
+    {
+      "id": "53.07.07.2004",
+      "name": "Nelle Barat",
+      "postal_code": "86119"
+    },
+    {
+      "id": "53.07.07.2005",
+      "name": "Nella Lorang",
+      "postal_code": "86119"
+    },
+    {
+      "id": "53.07.07.2006",
+      "name": "Manubura",
+      "postal_code": "86119"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

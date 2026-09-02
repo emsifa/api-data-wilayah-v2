@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "18.03.02.1001",
+      "name": "Kotabumi Udik",
+      "postal_code": "34518"
+    },
+    {
+      "id": "18.03.02.1002",
+      "name": "Cempedak",
+      "postal_code": "34516"
+    },
+    {
+      "id": "18.03.02.1003",
+      "name": "Rejosari",
+      "postal_code": "34514"
+    },
+    {
+      "id": "18.03.02.1004",
+      "name": "Kotabumi Tengah",
+      "postal_code": "34516"
+    },
+    {
+      "id": "18.03.02.1005",
+      "name": "Kotabumi Pasar",
+      "postal_code": "34518"
+    },
+    {
+      "id": "18.03.02.1006",
+      "name": "Kotabumi Ilir",
+      "postal_code": "34517"
+    },
+    {
+      "id": "18.03.02.1007",
+      "name": "Sindang Sari",
+      "postal_code": "34517"
+    },
+    {
+      "id": "18.03.02.1008",
+      "name": "Sribasuki",
+      "postal_code": "34515"
+    },
+    {
+      "id": "18.03.02.1009",
+      "name": "Kota Gapura",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.02.2010",
+      "name": "Talang Bojong",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.02.2011",
+      "name": "Sumber Arum",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.02.2012",
+      "name": "Bojong Barat",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.02.2013",
+      "name": "Kotabumi Tengah Barat",
+      "postal_code": "34516"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.10.23.2001",
+      "name": "Tegalsari",
+      "postal_code": "68485"
+    },
+    {
+      "id": "35.10.23.2002",
+      "name": "Karangdoro",
+      "postal_code": "68485"
+    },
+    {
+      "id": "35.10.23.2003",
+      "name": "Tamansari",
+      "postal_code": "68485"
+    },
+    {
+      "id": "35.10.23.2004",
+      "name": "Dasri",
+      "postal_code": "68485"
+    },
+    {
+      "id": "35.10.23.2005",
+      "name": "Karangmulyo",
+      "postal_code": "68485"
+    },
+    {
+      "id": "35.10.23.2006",
+      "name": "Tegalrejo",
+      "postal_code": "68485"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

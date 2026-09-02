@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "36.01.20.2002",
+      "name": "Citalahab",
+      "postal_code": "42252"
+    },
+    {
+      "id": "36.01.20.2004",
+      "name": "Kadulimus",
+      "postal_code": "42252"
+    },
+    {
+      "id": "36.01.20.2005",
+      "name": "Bandung",
+      "postal_code": "42252"
+    },
+    {
+      "id": "36.01.20.2006",
+      "name": "Mogana",
+      "postal_code": "42252"
+    },
+    {
+      "id": "36.01.20.2007",
+      "name": "Banjar",
+      "postal_code": "42252"
+    },
+    {
+      "id": "36.01.20.2008",
+      "name": "Gunungputri",
+      "postal_code": "42252"
+    },
+    {
+      "id": "36.01.20.2010",
+      "name": "Cibodas",
+      "postal_code": "42252"
+    },
+    {
+      "id": "36.01.20.2011",
+      "name": "Kadubale",
+      "postal_code": "42252"
+    },
+    {
+      "id": "36.01.20.2012",
+      "name": "Cibeureum",
+      "postal_code": "42252"
+    },
+    {
+      "id": "36.01.20.2013",
+      "name": "Kadumaneuh",
+      "postal_code": "42252"
+    },
+    {
+      "id": "36.01.20.2014",
+      "name": "Pasirawi",
+      "postal_code": "42252"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

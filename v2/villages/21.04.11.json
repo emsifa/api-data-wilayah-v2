@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "21.04.11.2001",
+      "name": "Benan",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.11.2002",
+      "name": "Mensanak",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.11.2003",
+      "name": "Pulau Bukit",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.11.2004",
+      "name": "Pulau Duyung",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.11.2005",
+      "name": "Pulau Medang",
+      "postal_code": "29873"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

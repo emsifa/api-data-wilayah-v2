@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "12.09.28.2001",
+      "name": "Silo Baru",
+      "postal_code": "21267"
+    },
+    {
+      "id": "12.09.28.2002",
+      "name": "Silo Lama",
+      "postal_code": "21267"
+    },
+    {
+      "id": "12.09.28.2003",
+      "name": "Silo Bonto",
+      "postal_code": "21267"
+    },
+    {
+      "id": "12.09.28.2004",
+      "name": "Lubuk Palas",
+      "postal_code": "21267"
+    },
+    {
+      "id": "12.09.28.2005",
+      "name": "Bangun Sari",
+      "postal_code": "21267"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

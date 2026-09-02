@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "15.03.11.2001",
+      "name": "Guruh Baru",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.11.2002",
+      "name": "Petiduran Baru",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.11.2003",
+      "name": "Sungai Butang",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.11.2004",
+      "name": "Butang Baru",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.11.2005",
+      "name": "Suka Maju",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.11.2006",
+      "name": "Jati Baru",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.11.2007",
+      "name": "Jati Baru Mudo",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.11.2008",
+      "name": "Meranti Baru",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.11.2009",
+      "name": "Meranti Jaya",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.11.2010",
+      "name": "Jernang Baru",
+      "postal_code": "37492"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

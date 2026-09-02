@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "17.05.12.2001",
+      "name": "Pering Baru",
+      "postal_code": "38888"
+    },
+    {
+      "id": "17.05.12.2002",
+      "name": "Talang Padang",
+      "postal_code": "38888"
+    },
+    {
+      "id": "17.05.12.2003",
+      "name": "Suka Merindu",
+      "postal_code": "38888"
+    },
+    {
+      "id": "17.05.12.2004",
+      "name": "Napalan",
+      "postal_code": "38888"
+    },
+    {
+      "id": "17.05.12.2005",
+      "name": "Taba",
+      "postal_code": "38888"
+    },
+    {
+      "id": "17.05.12.2006",
+      "name": "Bakal Dalam",
+      "postal_code": "38888"
+    },
+    {
+      "id": "17.05.12.2007",
+      "name": "Lubuk Lagan",
+      "postal_code": "38888"
+    },
+    {
+      "id": "17.05.12.2008",
+      "name": "Sungai Petai",
+      "postal_code": "38888"
+    },
+    {
+      "id": "17.05.12.2009",
+      "name": "Suka Bulan",
+      "postal_code": "38888"
+    },
+    {
+      "id": "17.05.12.2010",
+      "name": "Tebat Sibun",
+      "postal_code": "38888"
+    },
+    {
+      "id": "17.05.12.2011",
+      "name": "Batu Balai",
+      "postal_code": "38888"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

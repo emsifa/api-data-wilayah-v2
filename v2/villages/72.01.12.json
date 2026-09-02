@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "72.01.12.2001",
+      "name": "Dongin",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2002",
+      "name": "Pandan Wangi",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2003",
+      "name": "Kami Wangi",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2004",
+      "name": "Sindang Sari",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2005",
+      "name": "Makapa",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2006",
+      "name": "Karya Makmur",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2007",
+      "name": "Mantawa",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2008",
+      "name": "Pasir Lamba",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2009",
+      "name": "Mantawa Bonebae",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2010",
+      "name": "Gunung Kramat",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2011",
+      "name": "Lembah Kramat",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2012",
+      "name": "Rata",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2013",
+      "name": "Bukit Makarti",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2014",
+      "name": "Uwe Lolu",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2015",
+      "name": "Bumi Harapan",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2016",
+      "name": "Mekar Sari",
+      "postal_code": "94766"
+    },
+    {
+      "id": "72.01.12.2017",
+      "name": "Mekar Jaya",
+      "postal_code": "94766"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

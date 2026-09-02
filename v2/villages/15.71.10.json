@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "15.71.10.1001",
+      "name": "Sungai Putri",
+      "postal_code": "36122"
+    },
+    {
+      "id": "15.71.10.1002",
+      "name": "Murni",
+      "postal_code": "36121"
+    },
+    {
+      "id": "15.71.10.1003",
+      "name": "Legok",
+      "postal_code": "36121"
+    },
+    {
+      "id": "15.71.10.1004",
+      "name": "Selamat",
+      "postal_code": "36129"
+    },
+    {
+      "id": "15.71.10.1005",
+      "name": "Solok Sipin",
+      "postal_code": "36121"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

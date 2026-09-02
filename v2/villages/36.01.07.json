@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "36.01.07.2001",
+      "name": "Angsana",
+      "postal_code": "42277"
+    },
+    {
+      "id": "36.01.07.2002",
+      "name": "Padaherang",
+      "postal_code": "42277"
+    },
+    {
+      "id": "36.01.07.2003",
+      "name": "Padamulya",
+      "postal_code": "42277"
+    },
+    {
+      "id": "36.01.07.2004",
+      "name": "Karangsari",
+      "postal_code": "42277"
+    },
+    {
+      "id": "36.01.07.2005",
+      "name": "Cikayas",
+      "postal_code": "42277"
+    },
+    {
+      "id": "36.01.07.2006",
+      "name": "Sumurlaban",
+      "postal_code": "42277"
+    },
+    {
+      "id": "36.01.07.2007",
+      "name": "Kadubadak",
+      "postal_code": "42277"
+    },
+    {
+      "id": "36.01.07.2009",
+      "name": "Cipinang",
+      "postal_code": "42277"
+    },
+    {
+      "id": "36.01.07.2010",
+      "name": "Kramatmanik",
+      "postal_code": "42277"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

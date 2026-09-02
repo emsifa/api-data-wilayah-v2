@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "61.71.06.1001",
+      "name": "Bansir Laut",
+      "postal_code": "78124"
+    },
+    {
+      "id": "61.71.06.1002",
+      "name": "Bansir Darat",
+      "postal_code": "78124"
+    },
+    {
+      "id": "61.71.06.1003",
+      "name": "Bangkabelitung Laut",
+      "postal_code": "78124"
+    },
+    {
+      "id": "61.71.06.1004",
+      "name": "Bangkabelitung Darat",
+      "postal_code": "78124"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,18 +1,52 @@
 {
-  "data": {
-    "id": "17.09",
-    "name": "Kabupaten Bengkulu Tengah",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
+  "data": [
+    {
+      "id": "17.09.01",
+      "name": "Karang Tinggi"
     },
-    "regency": {
-      "id": "17.09",
-      "name": "Kabupaten Bengkulu Tengah"
+    {
+      "id": "17.09.02",
+      "name": "Talang Empat"
+    },
+    {
+      "id": "17.09.03",
+      "name": "Pondok Kelapa"
+    },
+    {
+      "id": "17.09.04",
+      "name": "Pematang Tiga"
+    },
+    {
+      "id": "17.09.05",
+      "name": "Pagar Jati"
+    },
+    {
+      "id": "17.09.06",
+      "name": "Taba Penanjung"
+    },
+    {
+      "id": "17.09.07",
+      "name": "Merigi Kelindang"
+    },
+    {
+      "id": "17.09.08",
+      "name": "Merigi Sakti"
+    },
+    {
+      "id": "17.09.09",
+      "name": "Pondok Kubang"
+    },
+    {
+      "id": "17.09.10",
+      "name": "Bang Haji"
+    },
+    {
+      "id": "17.09.11",
+      "name": "Semidang Lagan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

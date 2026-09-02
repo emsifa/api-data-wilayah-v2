@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "82.05.02.2001",
+      "name": "Mangon",
+      "postal_code": "97795"
+    },
+    {
+      "id": "82.05.02.2002",
+      "name": "Fagudu",
+      "postal_code": "97795"
+    },
+    {
+      "id": "82.05.02.2003",
+      "name": "Waibau",
+      "postal_code": "97795"
+    },
+    {
+      "id": "82.05.02.2004",
+      "name": "Falahu",
+      "postal_code": "97795"
+    },
+    {
+      "id": "82.05.02.2005",
+      "name": "Fatcei",
+      "postal_code": "97795"
+    },
+    {
+      "id": "82.05.02.2006",
+      "name": "Fogi",
+      "postal_code": "97795"
+    },
+    {
+      "id": "82.05.02.2007",
+      "name": "Waihama",
+      "postal_code": "97795"
+    },
+    {
+      "id": "82.05.02.2008",
+      "name": "Wai Ipa",
+      "postal_code": "97795"
+    },
+    {
+      "id": "82.05.02.2009",
+      "name": "Umaloya",
+      "postal_code": "97795"
+    },
+    {
+      "id": "82.05.02.2010",
+      "name": "Pastina",
+      "postal_code": "97795"
+    },
+    {
+      "id": "82.05.02.2011",
+      "name": "Wailau",
+      "postal_code": "97795"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

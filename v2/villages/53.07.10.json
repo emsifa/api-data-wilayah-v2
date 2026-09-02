@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "53.07.10.2005",
+      "name": "Seusina",
+      "postal_code": "86182"
+    },
+    {
+      "id": "53.07.10.2007",
+      "name": "Kopong",
+      "postal_code": "86182"
+    },
+    {
+      "id": "53.07.10.2008",
+      "name": "Namangkewa",
+      "postal_code": "86182"
+    },
+    {
+      "id": "53.07.10.2009",
+      "name": "Iantena",
+      "postal_code": "86182"
+    },
+    {
+      "id": "53.07.10.2016",
+      "name": "Umagera",
+      "postal_code": "86182"
+    },
+    {
+      "id": "53.07.10.2020",
+      "name": "Geliting",
+      "postal_code": "86182"
+    },
+    {
+      "id": "53.07.10.2021",
+      "name": "Waiara",
+      "postal_code": "86182"
+    },
+    {
+      "id": "53.07.10.2024",
+      "name": "Wairkoja",
+      "postal_code": "86182"
+    },
+    {
+      "id": "53.07.10.2026",
+      "name": "Watukobu",
+      "postal_code": "86182"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

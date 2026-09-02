@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "33.05.17.2001",
+      "name": "Redisari",
+      "postal_code": "54472"
+    },
+    {
+      "id": "33.05.17.2002",
+      "name": "Kalisari",
+      "postal_code": "54472"
+    },
+    {
+      "id": "33.05.17.2003",
+      "name": "Pringtutul",
+      "postal_code": "54472"
+    },
+    {
+      "id": "33.05.17.2004",
+      "name": "Rowokele",
+      "postal_code": "54472"
+    },
+    {
+      "id": "33.05.17.2005",
+      "name": "Bumiagung",
+      "postal_code": "54472"
+    },
+    {
+      "id": "33.05.17.2006",
+      "name": "Jatiluhur",
+      "postal_code": "54472"
+    },
+    {
+      "id": "33.05.17.2007",
+      "name": "Kretek",
+      "postal_code": "54472"
+    },
+    {
+      "id": "33.05.17.2008",
+      "name": "Sukomulyo",
+      "postal_code": "54472"
+    },
+    {
+      "id": "33.05.17.2009",
+      "name": "Giyanti",
+      "postal_code": "54472"
+    },
+    {
+      "id": "33.05.17.2010",
+      "name": "Wonoharjo",
+      "postal_code": "54472"
+    },
+    {
+      "id": "33.05.17.2011",
+      "name": "Wagirpandan",
+      "postal_code": "54472"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

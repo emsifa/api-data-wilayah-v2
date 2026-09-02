@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "75.01.18.2001",
+      "name": "Tualango",
+      "postal_code": "96182"
+    },
+    {
+      "id": "75.01.18.2002",
+      "name": "Dulomo",
+      "postal_code": "96182"
+    },
+    {
+      "id": "75.01.18.2003",
+      "name": "Tilote",
+      "postal_code": "96182"
+    },
+    {
+      "id": "75.01.18.2004",
+      "name": "Tabumela",
+      "postal_code": "96182"
+    },
+    {
+      "id": "75.01.18.2005",
+      "name": "Ilotidea",
+      "postal_code": "96182"
+    },
+    {
+      "id": "75.01.18.2006",
+      "name": "Lauwonu",
+      "postal_code": "96182"
+    },
+    {
+      "id": "75.01.18.2007",
+      "name": "Tenggela",
+      "postal_code": "96182"
+    },
+    {
+      "id": "75.01.18.2008",
+      "name": "Tinelo",
+      "postal_code": "96182"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

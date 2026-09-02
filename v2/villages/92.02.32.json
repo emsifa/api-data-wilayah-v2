@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "92.02.32.2001",
+      "name": "Duweibey",
+      "postal_code": "98352"
+    },
+    {
+      "id": "92.02.32.2002",
+      "name": "Mingre",
+      "postal_code": "98352"
+    },
+    {
+      "id": "92.02.32.2003",
+      "name": "Figoud",
+      "postal_code": "98352"
+    },
+    {
+      "id": "92.02.32.2004",
+      "name": "Kwau",
+      "postal_code": "98352"
+    },
+    {
+      "id": "92.02.32.2005",
+      "name": "Mokwam",
+      "postal_code": "98352"
+    },
+    {
+      "id": "92.02.32.2006",
+      "name": "Syou",
+      "postal_code": "98352"
+    },
+    {
+      "id": "92.02.32.2007",
+      "name": "Amber",
+      "postal_code": "98352"
+    },
+    {
+      "id": "92.02.32.2008",
+      "name": "Asarbey",
+      "postal_code": "98352"
+    },
+    {
+      "id": "92.02.32.2009",
+      "name": "Minoqbei",
+      "postal_code": "98352"
+    },
+    {
+      "id": "92.02.32.2010",
+      "name": "Bahamyenti",
+      "postal_code": "98352"
+    },
+    {
+      "id": "92.02.32.2011",
+      "name": "Kipuwau",
+      "postal_code": "98352"
+    },
+    {
+      "id": "92.02.32.2012",
+      "name": "Aiwow",
+      "postal_code": "98352"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

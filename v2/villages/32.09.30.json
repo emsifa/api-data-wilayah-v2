@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "32.09.30.2001",
+      "name": "Dompyong Kulon",
+      "postal_code": "45190"
+    },
+    {
+      "id": "32.09.30.2002",
+      "name": "Dompyong Wetan",
+      "postal_code": "45190"
+    },
+    {
+      "id": "32.09.30.2003",
+      "name": "Kalimekar",
+      "postal_code": "45190"
+    },
+    {
+      "id": "32.09.30.2004",
+      "name": "Kalimaro",
+      "postal_code": "45190"
+    },
+    {
+      "id": "32.09.30.2005",
+      "name": "Gagasari",
+      "postal_code": "45190"
+    },
+    {
+      "id": "32.09.30.2006",
+      "name": "Kalipasung",
+      "postal_code": "45190"
+    },
+    {
+      "id": "32.09.30.2007",
+      "name": "Gebang Kulon",
+      "postal_code": "45190"
+    },
+    {
+      "id": "32.09.30.2008",
+      "name": "Gebang",
+      "postal_code": "45190"
+    },
+    {
+      "id": "32.09.30.2009",
+      "name": "Gebang Ilir",
+      "postal_code": "45190"
+    },
+    {
+      "id": "32.09.30.2010",
+      "name": "Gebang Udik",
+      "postal_code": "45190"
+    },
+    {
+      "id": "32.09.30.2011",
+      "name": "Gebang Mekar",
+      "postal_code": "45190"
+    },
+    {
+      "id": "32.09.30.2012",
+      "name": "Playangan",
+      "postal_code": "45190"
+    },
+    {
+      "id": "32.09.30.2013",
+      "name": "Melakasari",
+      "postal_code": "45190"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

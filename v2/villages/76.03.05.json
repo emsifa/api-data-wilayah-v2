@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "76.03.05.1001",
+      "name": "Lakahang",
+      "postal_code": "91372"
+    },
+    {
+      "id": "76.03.05.2002",
+      "name": "Periangan",
+      "postal_code": "91372"
+    },
+    {
+      "id": "76.03.05.2003",
+      "name": "Malatiro",
+      "postal_code": "91372"
+    },
+    {
+      "id": "76.03.05.2004",
+      "name": "Tabulahan",
+      "postal_code": "91372"
+    },
+    {
+      "id": "76.03.05.2005",
+      "name": "Saluleang",
+      "postal_code": "91372"
+    },
+    {
+      "id": "76.03.05.2007",
+      "name": "Tampak Kurra",
+      "postal_code": "91372"
+    },
+    {
+      "id": "76.03.05.2008",
+      "name": "Gandang Dewata",
+      "postal_code": "91372"
+    },
+    {
+      "id": "76.03.05.2009",
+      "name": "Burana",
+      "postal_code": "91372"
+    },
+    {
+      "id": "76.03.05.2010",
+      "name": "Salubakka",
+      "postal_code": "91372"
+    },
+    {
+      "id": "76.03.05.2011",
+      "name": "Pangandaran",
+      "postal_code": "91372"
+    },
+    {
+      "id": "76.03.05.2012",
+      "name": "Talopak",
+      "postal_code": "91372"
+    },
+    {
+      "id": "76.03.05.2013",
+      "name": "Peu'",
+      "postal_code": "91372"
+    },
+    {
+      "id": "76.03.05.2014",
+      "name": "Timoro",
+      "postal_code": "91372"
+    },
+    {
+      "id": "76.03.05.2015",
+      "name": "Lakahang Utama",
+      "postal_code": "91372"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "93.04.12.2001",
+      "name": "Kapi",
+      "postal_code": "99778"
+    },
+    {
+      "id": "93.04.12.2002",
+      "name": "As",
+      "postal_code": "99778"
+    },
+    {
+      "id": "93.04.12.2003",
+      "name": "Atat",
+      "postal_code": "99778"
+    },
+    {
+      "id": "93.04.12.2004",
+      "name": "Aou",
+      "postal_code": "99778"
+    },
+    {
+      "id": "93.04.12.2005",
+      "name": "Nakai",
+      "postal_code": "99778"
+    },
+    {
+      "id": "93.04.12.2006",
+      "name": "Esmapan",
+      "postal_code": "99778"
+    },
+    {
+      "id": "93.04.12.2007",
+      "name": "Eroko",
+      "postal_code": "99778"
+    },
+    {
+      "id": "93.04.12.2008",
+      "name": "Yakapis",
+      "postal_code": "99778"
+    },
+    {
+      "id": "93.04.12.2009",
+      "name": "Weo",
+      "postal_code": "99778"
+    },
+    {
+      "id": "93.04.12.2010",
+      "name": "Aoap",
+      "postal_code": "99778"
+    },
+    {
+      "id": "93.04.12.2011",
+      "name": "Fumereipits",
+      "postal_code": "99778"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

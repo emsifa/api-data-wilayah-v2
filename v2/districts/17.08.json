@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "17.08",
-    "name": "Kabupaten Kepahiang",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
+  "data": [
+    {
+      "id": "17.08.01",
+      "name": "Bermani Ilir"
     },
-    "regency": {
-      "id": "17.08",
-      "name": "Kabupaten Kepahiang"
+    {
+      "id": "17.08.02",
+      "name": "Ujan Mas"
+    },
+    {
+      "id": "17.08.03",
+      "name": "Tebat Karai"
+    },
+    {
+      "id": "17.08.04",
+      "name": "Kepahiang"
+    },
+    {
+      "id": "17.08.05",
+      "name": "Merigi"
+    },
+    {
+      "id": "17.08.06",
+      "name": "Kebawetan"
+    },
+    {
+      "id": "17.08.07",
+      "name": "Seberang Musi"
+    },
+    {
+      "id": "17.08.08",
+      "name": "Muara Kemumu"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

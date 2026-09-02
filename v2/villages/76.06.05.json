@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "76.06.05.2001",
+      "name": "Karossa",
+      "postal_code": "91460"
+    },
+    {
+      "id": "76.06.05.2002",
+      "name": "Tasokko",
+      "postal_code": "91460"
+    },
+    {
+      "id": "76.06.05.2003",
+      "name": "Lara",
+      "postal_code": "91460"
+    },
+    {
+      "id": "76.06.05.2004",
+      "name": "Kadaila",
+      "postal_code": "91460"
+    },
+    {
+      "id": "76.06.05.2005",
+      "name": "Kayu Calla",
+      "postal_code": "91460"
+    },
+    {
+      "id": "76.06.05.2006",
+      "name": "Lembah Hopo",
+      "postal_code": "91460"
+    },
+    {
+      "id": "76.06.05.2007",
+      "name": "Benggaulu",
+      "postal_code": "91460"
+    },
+    {
+      "id": "76.06.05.2008",
+      "name": "Suka Maju",
+      "postal_code": "91460"
+    },
+    {
+      "id": "76.06.05.2009",
+      "name": "Kambunong",
+      "postal_code": "91460"
+    },
+    {
+      "id": "76.06.05.2010",
+      "name": "Salubiro",
+      "postal_code": "91460"
+    },
+    {
+      "id": "76.06.05.2011",
+      "name": "Sanjango",
+      "postal_code": "91460"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

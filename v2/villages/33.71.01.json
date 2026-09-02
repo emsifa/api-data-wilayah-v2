@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "33.71.01.1003",
+      "name": "Rejowinangun Selatan",
+      "postal_code": "56124"
+    },
+    {
+      "id": "33.71.01.1007",
+      "name": "Magersari",
+      "postal_code": "56126"
+    },
+    {
+      "id": "33.71.01.1008",
+      "name": "Jurangombo Utara",
+      "postal_code": "56123"
+    },
+    {
+      "id": "33.71.01.1009",
+      "name": "Jurangombo Selatan",
+      "postal_code": "56123"
+    },
+    {
+      "id": "33.71.01.1010",
+      "name": "Tidar Utara",
+      "postal_code": "56125"
+    },
+    {
+      "id": "33.71.01.1011",
+      "name": "Tidar Selatan",
+      "postal_code": "56125"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

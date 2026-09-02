@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "16.06.04.2001",
+      "name": "Bukit Sejahtera",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2002",
+      "name": "Bukit Pangkuasan",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2003",
+      "name": "Tanah Abang",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2004",
+      "name": "Talang Leban",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2005",
+      "name": "Talang Buluh",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2006",
+      "name": "Lubuk Buah",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2007",
+      "name": "Sungai Napal",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2008",
+      "name": "Lubuk Bintialo",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2009",
+      "name": "Sako Suban",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2010",
+      "name": "Bukit Selabu",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2011",
+      "name": "Saut",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2012",
+      "name": "Tanjung Bali",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2013",
+      "name": "Pinggap",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2014",
+      "name": "Pengaturan",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2015",
+      "name": "Ulak Kembang",
+      "postal_code": "30755"
+    },
+    {
+      "id": "16.06.04.2016",
+      "name": "Pangkalan Bulian",
+      "postal_code": "30755"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

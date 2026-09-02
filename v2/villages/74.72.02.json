@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "74.72.02.1001",
+      "name": "Wale",
+      "postal_code": "93711"
+    },
+    {
+      "id": "74.72.02.1002",
+      "name": "Tomba",
+      "postal_code": "93712"
+    },
+    {
+      "id": "74.72.02.1003",
+      "name": "Bataraguru",
+      "postal_code": "93714"
+    },
+    {
+      "id": "74.72.02.1004",
+      "name": "Wangkanapi",
+      "postal_code": "93713"
+    },
+    {
+      "id": "74.72.02.1005",
+      "name": "Batulo",
+      "postal_code": "93717"
+    },
+    {
+      "id": "74.72.02.1007",
+      "name": "Kadolo Katapi",
+      "postal_code": "93715"
+    },
+    {
+      "id": "74.72.02.1011",
+      "name": "Bukit Wolio Indah",
+      "postal_code": "93711"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

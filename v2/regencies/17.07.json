@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "17.07",
+    "name": "Kabupaten Lebong",
+    "capital": "Muara Aman",
+    "lat": -3.1574485628093467,
+    "lng": 102.18284672681582,
+    "elv": 580,
+    "tz": 7,
+    "population": 115520,
+    "total_area": 1666.621,
+    "province": {
+      "id": "17",
+      "name": "Bengkulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

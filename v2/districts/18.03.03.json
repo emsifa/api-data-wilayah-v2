@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "18.03.03",
+    "name": "Sungkai Selatan",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.03",
+      "name": "Kabupaten Lampung Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

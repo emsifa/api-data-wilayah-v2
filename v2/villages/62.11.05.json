@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "62.11.05.1005",
+      "name": "Pulang Pisau",
+      "postal_code": "74841"
+    },
+    {
+      "id": "62.11.05.1015",
+      "name": "Kalawa",
+      "postal_code": "74812"
+    },
+    {
+      "id": "62.11.05.1016",
+      "name": "Bereng",
+      "postal_code": "74831"
+    },
+    {
+      "id": "62.11.05.2001",
+      "name": "Buntoi",
+      "postal_code": "74861"
+    },
+    {
+      "id": "62.11.05.2002",
+      "name": "Mintin",
+      "postal_code": "74816"
+    },
+    {
+      "id": "62.11.05.2003",
+      "name": "Mantaren I",
+      "postal_code": "74861"
+    },
+    {
+      "id": "62.11.05.2004",
+      "name": "Anjir Pulang Pisau",
+      "postal_code": "74813"
+    },
+    {
+      "id": "62.11.05.2006",
+      "name": "Gohong",
+      "postal_code": "74812"
+    },
+    {
+      "id": "62.11.05.2014",
+      "name": "Mantaren II",
+      "postal_code": "74861"
+    },
+    {
+      "id": "62.11.05.2017",
+      "name": "Hanjak Maju",
+      "postal_code": "74821"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

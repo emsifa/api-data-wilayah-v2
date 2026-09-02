@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "61.08.12.2001",
+      "name": "Padang Pio",
+      "postal_code": "79364"
+    },
+    {
+      "id": "61.08.12.2002",
+      "name": "Tembawang Bale",
+      "postal_code": "79364"
+    },
+    {
+      "id": "61.08.12.2003",
+      "name": "Kampet",
+      "postal_code": "79364"
+    },
+    {
+      "id": "61.08.12.2004",
+      "name": "Untang",
+      "postal_code": "79364"
+    },
+    {
+      "id": "61.08.12.2005",
+      "name": "Ringo Lojok",
+      "postal_code": "79364"
+    },
+    {
+      "id": "61.08.12.2006",
+      "name": "Gamang",
+      "postal_code": "79364"
+    },
+    {
+      "id": "61.08.12.2007",
+      "name": "Semade",
+      "postal_code": "79364"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

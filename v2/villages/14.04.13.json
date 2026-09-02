@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "14.04.13.1001",
+      "name": "Tembilahan Hulu",
+      "postal_code": "29213"
+    },
+    {
+      "id": "14.04.13.1005",
+      "name": "Tembilahan Barat",
+      "postal_code": "29213"
+    },
+    {
+      "id": "14.04.13.2002",
+      "name": "Pekan Kamis",
+      "postal_code": "29213"
+    },
+    {
+      "id": "14.04.13.2003",
+      "name": "Pulaupalas",
+      "postal_code": "29213"
+    },
+    {
+      "id": "14.04.13.2004",
+      "name": "Sialang Panjang",
+      "postal_code": "29213"
+    },
+    {
+      "id": "14.04.13.2006",
+      "name": "Sungaiintan",
+      "postal_code": "29213"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

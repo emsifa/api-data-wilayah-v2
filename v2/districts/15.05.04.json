@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "15.05.04",
+    "name": "Maro Sebo",
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    },
+    "regency": {
+      "id": "15.05",
+      "name": "Kabupaten Muaro Jambi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

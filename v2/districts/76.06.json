@@ -1,18 +1,28 @@
 {
-  "data": {
-    "id": "76.06",
-    "name": "Kabupaten Mamuju Tengah",
-    "province": {
-      "id": "76",
-      "name": "Sulawesi Barat"
+  "data": [
+    {
+      "id": "76.06.01",
+      "name": "Tobadak"
     },
-    "regency": {
-      "id": "76.06",
-      "name": "Kabupaten Mamuju Tengah"
+    {
+      "id": "76.06.02",
+      "name": "Pangale"
+    },
+    {
+      "id": "76.06.03",
+      "name": "Budong-Budong"
+    },
+    {
+      "id": "76.06.04",
+      "name": "Topoyo"
+    },
+    {
+      "id": "76.06.05",
+      "name": "Karossa"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

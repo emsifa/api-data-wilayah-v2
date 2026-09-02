@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "12.14.10.2001",
+      "name": "Hilisimaetano",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.10.2002",
+      "name": "Bawogosali",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.10.2003",
+      "name": "Hilifalawu",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.10.2005",
+      "name": "Samadaya Hilisimaetano",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.10.2006",
+      "name": "Idala Jaya Hilisimaetano",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.10.2007",
+      "name": "Pekan Hilisimaetano",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.10.2008",
+      "name": "Bonia Hilisimaetano",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.10.2009",
+      "name": "Ndraso Hilisimaetano",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.10.2010",
+      "name": "Faomasi Hilisimaetano",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.10.2011",
+      "name": "Eho Hilisimaetano",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.10.2012",
+      "name": "Soto'o Hilisimaetano",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.10.2013",
+      "name": "Hiliaurifa Hilisimaetano",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.10.2015",
+      "name": "Bawohosi Maniamolo",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.10.2016",
+      "name": "Bawosaodano",
+      "postal_code": "22865"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

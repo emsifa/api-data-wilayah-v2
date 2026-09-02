@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "31.74.07.1001",
+      "name": "Melawai",
+      "postal_code": "12160"
+    },
+    {
+      "id": "31.74.07.1002",
+      "name": "Gunung",
+      "postal_code": "12120"
+    },
+    {
+      "id": "31.74.07.1003",
+      "name": "Kramat Pela",
+      "postal_code": "12130"
+    },
+    {
+      "id": "31.74.07.1004",
+      "name": "Selong",
+      "postal_code": "12110"
+    },
+    {
+      "id": "31.74.07.1005",
+      "name": "Rawa Barat",
+      "postal_code": "12180"
+    },
+    {
+      "id": "31.74.07.1006",
+      "name": "Senayan",
+      "postal_code": "12190"
+    },
+    {
+      "id": "31.74.07.1007",
+      "name": "Pulo",
+      "postal_code": "12160"
+    },
+    {
+      "id": "31.74.07.1008",
+      "name": "Petogogan",
+      "postal_code": "12170"
+    },
+    {
+      "id": "31.74.07.1009",
+      "name": "Gandaria Utara",
+      "postal_code": "12140"
+    },
+    {
+      "id": "31.74.07.1010",
+      "name": "Cipete Utara",
+      "postal_code": "12150"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

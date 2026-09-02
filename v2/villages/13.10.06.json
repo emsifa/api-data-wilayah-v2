@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.10.06.2001",
+      "name": "Timpeh",
+      "postal_code": "27679"
+    },
+    {
+      "id": "13.10.06.2002",
+      "name": "Taratak Tinggi",
+      "postal_code": "27679"
+    },
+    {
+      "id": "13.10.06.2003",
+      "name": "Tabek",
+      "postal_code": "27679"
+    },
+    {
+      "id": "13.10.06.2004",
+      "name": "Panyubarangan",
+      "postal_code": "27679"
+    },
+    {
+      "id": "13.10.06.2005",
+      "name": "Ranah Palabi",
+      "postal_code": "27679"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

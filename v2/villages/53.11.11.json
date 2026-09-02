@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "53.11.11.2001",
+      "name": "Wulla",
+      "postal_code": "87183"
+    },
+    {
+      "id": "53.11.11.2002",
+      "name": "Hadakamali",
+      "postal_code": "87183"
+    },
+    {
+      "id": "53.11.11.2003",
+      "name": "Lumbu Manggit",
+      "postal_code": "87183"
+    },
+    {
+      "id": "53.11.11.2004",
+      "name": "Latena",
+      "postal_code": "87183"
+    },
+    {
+      "id": "53.11.11.2005",
+      "name": "Lainjanji",
+      "postal_code": "87183"
+    },
+    {
+      "id": "53.11.11.2006",
+      "name": "Laipandak",
+      "postal_code": "87183"
+    },
+    {
+      "id": "53.11.11.2008",
+      "name": "Paranda",
+      "postal_code": "87183"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

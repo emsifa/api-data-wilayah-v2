@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "63.01.07",
+    "name": "Kintap",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.01",
+      "name": "Kabupaten Tanah Laut"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

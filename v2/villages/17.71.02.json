@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "17.71.02.1001",
+      "name": "Padang Harapan",
+      "postal_code": "38225"
+    },
+    {
+      "id": "17.71.02.1002",
+      "name": "Jalan Gedang",
+      "postal_code": "38225"
+    },
+    {
+      "id": "17.71.02.1021",
+      "name": "Sidomulyo",
+      "postal_code": "38229"
+    },
+    {
+      "id": "17.71.02.1024",
+      "name": "Lingkar Barat",
+      "postal_code": "38221"
+    },
+    {
+      "id": "17.71.02.1027",
+      "name": "Cempaka Permai",
+      "postal_code": "38221"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

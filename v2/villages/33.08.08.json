@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "33.08.08.1014",
+      "name": "Muntilan",
+      "postal_code": "56411"
+    },
+    {
+      "id": "33.08.08.2001",
+      "name": "Tanjung",
+      "postal_code": "56415"
+    },
+    {
+      "id": "33.08.08.2002",
+      "name": "Sokorini",
+      "postal_code": "56415"
+    },
+    {
+      "id": "33.08.08.2003",
+      "name": "Sriwedari",
+      "postal_code": "56415"
+    },
+    {
+      "id": "33.08.08.2004",
+      "name": "Congkrang",
+      "postal_code": "56415"
+    },
+    {
+      "id": "33.08.08.2005",
+      "name": "Adikarto",
+      "postal_code": "56415"
+    },
+    {
+      "id": "33.08.08.2006",
+      "name": "Menayu",
+      "postal_code": "56415"
+    },
+    {
+      "id": "33.08.08.2007",
+      "name": "Keji",
+      "postal_code": "56415"
+    },
+    {
+      "id": "33.08.08.2008",
+      "name": "Ngawen",
+      "postal_code": "56415"
+    },
+    {
+      "id": "33.08.08.2009",
+      "name": "Gunungpring",
+      "postal_code": "56415"
+    },
+    {
+      "id": "33.08.08.2010",
+      "name": "Pucungrejo",
+      "postal_code": "56414"
+    },
+    {
+      "id": "33.08.08.2011",
+      "name": "Tamanagung",
+      "postal_code": "56413"
+    },
+    {
+      "id": "33.08.08.2012",
+      "name": "Gondosuli",
+      "postal_code": "56415"
+    },
+    {
+      "id": "33.08.08.2013",
+      "name": "Sedayu",
+      "postal_code": "56412"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

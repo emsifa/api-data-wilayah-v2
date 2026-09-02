@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "76.05.06.2001",
+      "name": "Seppong",
+      "postal_code": "91450"
+    },
+    {
+      "id": "76.05.06.2002",
+      "name": "Tammerodo",
+      "postal_code": "91450"
+    },
+    {
+      "id": "76.05.06.2003",
+      "name": "Ulidang",
+      "postal_code": "91450"
+    },
+    {
+      "id": "76.05.06.2004",
+      "name": "Tallambalao",
+      "postal_code": "91450"
+    },
+    {
+      "id": "76.05.06.2005",
+      "name": "Tammerodo Utara",
+      "postal_code": "91450"
+    },
+    {
+      "id": "76.05.06.2006",
+      "name": "Manyamba",
+      "postal_code": "91450"
+    },
+    {
+      "id": "76.05.06.2007",
+      "name": "Awo",
+      "postal_code": "91450"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

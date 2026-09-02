@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "74.09.05.1001",
+      "name": "Tinobu",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2006",
+      "name": "Abola",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2007",
+      "name": "Belalo",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2008",
+      "name": "Andeo",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2009",
+      "name": "Matapila",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2010",
+      "name": "Andumowu",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2011",
+      "name": "Basule",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2012",
+      "name": "Waworaha",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2013",
+      "name": "Otole",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2016",
+      "name": "Watukila",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2017",
+      "name": "Lametono",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2020",
+      "name": "Larodangge",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2024",
+      "name": "Tetelupai",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2025",
+      "name": "Lalowaru",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2026",
+      "name": "Muara Tinobu",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2030",
+      "name": "Marombo Pantai",
+      "postal_code": "93352"
+    },
+    {
+      "id": "74.09.05.2031",
+      "name": "Tokowuta",
+      "postal_code": "93352"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

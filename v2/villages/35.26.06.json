@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "35.26.06.2001",
+      "name": "Kombangan",
+      "postal_code": "69152"
+    },
+    {
+      "id": "35.26.06.2002",
+      "name": "Banyoneng Laok",
+      "postal_code": "69152"
+    },
+    {
+      "id": "35.26.06.2003",
+      "name": "Katol Barat",
+      "postal_code": "69152"
+    },
+    {
+      "id": "35.26.06.2004",
+      "name": "Dabung",
+      "postal_code": "69152"
+    },
+    {
+      "id": "35.26.06.2005",
+      "name": "Lerpak",
+      "postal_code": "69152"
+    },
+    {
+      "id": "35.26.06.2006",
+      "name": "Geger",
+      "postal_code": "69152"
+    },
+    {
+      "id": "35.26.06.2007",
+      "name": "Togubang",
+      "postal_code": "69152"
+    },
+    {
+      "id": "35.26.06.2008",
+      "name": "Batobella",
+      "postal_code": "69152"
+    },
+    {
+      "id": "35.26.06.2009",
+      "name": "Kampak",
+      "postal_code": "69152"
+    },
+    {
+      "id": "35.26.06.2010",
+      "name": "Campor",
+      "postal_code": "69152"
+    },
+    {
+      "id": "35.26.06.2011",
+      "name": "Kompol",
+      "postal_code": "69152"
+    },
+    {
+      "id": "35.26.06.2012",
+      "name": "Tegar Priyah",
+      "postal_code": "69152"
+    },
+    {
+      "id": "35.26.06.2013",
+      "name": "Banyoneng Dajah",
+      "postal_code": "69152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

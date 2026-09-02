@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "93.02.01.2001",
+      "name": "Ampera",
+      "postal_code": "99662"
+    },
+    {
+      "id": "93.02.01.2002",
+      "name": "Sokanggo",
+      "postal_code": "99662"
+    },
+    {
+      "id": "93.02.01.2003",
+      "name": "Persatuan",
+      "postal_code": "99674"
+    },
+    {
+      "id": "93.02.01.2004",
+      "name": "Mariam",
+      "postal_code": "99674"
+    },
+    {
+      "id": "93.02.01.2005",
+      "name": "Mawan",
+      "postal_code": "99674"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

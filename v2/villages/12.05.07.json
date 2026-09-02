@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "12.05.07.1004",
+      "name": "Perdamaian",
+      "postal_code": "20815"
+    },
+    {
+      "id": "12.05.07.1005",
+      "name": "Kwala Bingai",
+      "postal_code": "20811"
+    },
+    {
+      "id": "12.05.07.1006",
+      "name": "Sidomulyo",
+      "postal_code": "20813"
+    },
+    {
+      "id": "12.05.07.1010",
+      "name": "Stabat Baru",
+      "postal_code": "20811"
+    },
+    {
+      "id": "12.05.07.1011",
+      "name": "Dendang",
+      "postal_code": "20811"
+    },
+    {
+      "id": "12.05.07.1012",
+      "name": "Paya Mabar",
+      "postal_code": "20816"
+    },
+    {
+      "id": "12.05.07.2001",
+      "name": "Karang Rejo",
+      "postal_code": "20811"
+    },
+    {
+      "id": "12.05.07.2002",
+      "name": "Kwala Begumit",
+      "postal_code": "20811"
+    },
+    {
+      "id": "12.05.07.2003",
+      "name": "Mangga",
+      "postal_code": "20811"
+    },
+    {
+      "id": "12.05.07.2007",
+      "name": "Banyumas",
+      "postal_code": "20811"
+    },
+    {
+      "id": "12.05.07.2008",
+      "name": "Pantai Gemi",
+      "postal_code": "20812"
+    },
+    {
+      "id": "12.05.07.2009",
+      "name": "Ara Condong",
+      "postal_code": "20811"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

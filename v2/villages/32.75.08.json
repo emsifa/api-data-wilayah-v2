@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.75.08.1001",
+      "name": "Jatiwaringin",
+      "postal_code": "17411"
+    },
+    {
+      "id": "32.75.08.1002",
+      "name": "Jatibening",
+      "postal_code": "17412"
+    },
+    {
+      "id": "32.75.08.1003",
+      "name": "Jatimakmur",
+      "postal_code": "17413"
+    },
+    {
+      "id": "32.75.08.1006",
+      "name": "Jatibening Baru",
+      "postal_code": "17412"
+    },
+    {
+      "id": "32.75.08.1007",
+      "name": "Jaticempaka",
+      "postal_code": "17411"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

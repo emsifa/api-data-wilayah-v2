@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "34.02.08.2001",
+      "name": "Palbapang",
+      "postal_code": "55713"
+    },
+    {
+      "id": "34.02.08.2002",
+      "name": "Ringinharjo",
+      "postal_code": "55712"
+    },
+    {
+      "id": "34.02.08.2003",
+      "name": "Bantul",
+      "postal_code": "55711"
+    },
+    {
+      "id": "34.02.08.2004",
+      "name": "Trirenggo",
+      "postal_code": "55714"
+    },
+    {
+      "id": "34.02.08.2005",
+      "name": "Sabdodadi",
+      "postal_code": "55715"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

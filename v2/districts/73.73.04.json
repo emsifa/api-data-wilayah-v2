@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "73.73.04",
+    "name": "Telluwanua",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.73",
+      "name": "Kota Palopo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "72.71.02.1002",
+      "name": "Ujuna",
+      "postal_code": "94222"
+    },
+    {
+      "id": "72.71.02.1005",
+      "name": "Balaroa",
+      "postal_code": "94226"
+    },
+    {
+      "id": "72.71.02.1007",
+      "name": "Kamonji",
+      "postal_code": "94223"
+    },
+    {
+      "id": "72.71.02.1008",
+      "name": "Baru",
+      "postal_code": "94221"
+    },
+    {
+      "id": "72.71.02.1009",
+      "name": "Lere",
+      "postal_code": "94221"
+    },
+    {
+      "id": "72.71.02.1015",
+      "name": "Siranindi",
+      "postal_code": "94221"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

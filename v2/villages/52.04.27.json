@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "52.04.27.2001",
+      "name": "Tatebal",
+      "postal_code": "84370"
+    },
+    {
+      "id": "52.04.27.2002",
+      "name": "Lenangguar",
+      "postal_code": "84370"
+    },
+    {
+      "id": "52.04.27.2003",
+      "name": "Ledang",
+      "postal_code": "84370"
+    },
+    {
+      "id": "52.04.27.2004",
+      "name": "Telaga",
+      "postal_code": "84370"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

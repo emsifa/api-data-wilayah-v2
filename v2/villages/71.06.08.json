@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "71.06.08.2001",
+      "name": "Suwaan",
+      "postal_code": "95378"
+    },
+    {
+      "id": "71.06.08.2002",
+      "name": "Kuwil",
+      "postal_code": "95378"
+    },
+    {
+      "id": "71.06.08.2003",
+      "name": "Kawangkoan",
+      "postal_code": "95378"
+    },
+    {
+      "id": "71.06.08.2004",
+      "name": "Kolongan",
+      "postal_code": "95378"
+    },
+    {
+      "id": "71.06.08.2005",
+      "name": "Maumbi",
+      "postal_code": "95378"
+    },
+    {
+      "id": "71.06.08.2006",
+      "name": "Kaleosan",
+      "postal_code": "95378"
+    },
+    {
+      "id": "71.06.08.2007",
+      "name": "Watutumou",
+      "postal_code": "95378"
+    },
+    {
+      "id": "71.06.08.2008",
+      "name": "Kolongan Tetempangan",
+      "postal_code": "95378"
+    },
+    {
+      "id": "71.06.08.2009",
+      "name": "Kawangkoan Baru",
+      "postal_code": "95378"
+    },
+    {
+      "id": "71.06.08.2010",
+      "name": "Kalawat",
+      "postal_code": "95378"
+    },
+    {
+      "id": "71.06.08.2011",
+      "name": "Watutumou Dua",
+      "postal_code": "95378"
+    },
+    {
+      "id": "71.06.08.2012",
+      "name": "Watutumou Tiga",
+      "postal_code": "95378"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

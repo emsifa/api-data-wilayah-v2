@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.75.11.1001",
+      "name": "Padurenan",
+      "postal_code": "17156"
+    },
+    {
+      "id": "32.75.11.1002",
+      "name": "Cimuning",
+      "postal_code": "17155"
+    },
+    {
+      "id": "32.75.11.1003",
+      "name": "Mustikajaya",
+      "postal_code": "17158"
+    },
+    {
+      "id": "32.75.11.1004",
+      "name": "Mustikasari",
+      "postal_code": "17157"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

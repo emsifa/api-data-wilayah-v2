@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "81.04.14.2001",
+      "name": "Kaiely",
+      "postal_code": "97577"
+    },
+    {
+      "id": "81.04.14.2002",
+      "name": "Masarete",
+      "postal_code": "97577"
+    },
+    {
+      "id": "81.04.14.2003",
+      "name": "Waelapia",
+      "postal_code": "97577"
+    },
+    {
+      "id": "81.04.14.2004",
+      "name": "Kaki Air",
+      "postal_code": "97577"
+    },
+    {
+      "id": "81.04.14.2005",
+      "name": "Seith",
+      "postal_code": "97577"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

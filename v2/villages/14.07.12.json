@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "14.07.12.1004",
+      "name": "Bantayan Hilir",
+      "postal_code": "28912"
+    },
+    {
+      "id": "14.07.12.2001",
+      "name": "Bantaian",
+      "postal_code": "28912"
+    },
+    {
+      "id": "14.07.12.2002",
+      "name": "Sungaisialang",
+      "postal_code": "28912"
+    },
+    {
+      "id": "14.07.12.2003",
+      "name": "Bantayan Baru",
+      "postal_code": "28912"
+    },
+    {
+      "id": "14.07.12.2005",
+      "name": "Sungaisialang Hulu",
+      "postal_code": "28912"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

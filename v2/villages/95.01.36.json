@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.01.36.2001",
+      "name": "Sogokmo",
+      "postal_code": "99502"
+    },
+    {
+      "id": "95.01.36.2002",
+      "name": "Asotipo",
+      "postal_code": "99502"
+    },
+    {
+      "id": "95.01.36.2003",
+      "name": "Putagaima",
+      "postal_code": "99502"
+    },
+    {
+      "id": "95.01.36.2004",
+      "name": "Kuantapo",
+      "postal_code": "99502"
+    },
+    {
+      "id": "95.01.36.2005",
+      "name": "Heberima",
+      "postal_code": "99502"
+    },
+    {
+      "id": "95.01.36.2006",
+      "name": "Iwigima",
+      "postal_code": "99502"
+    },
+    {
+      "id": "95.01.36.2007",
+      "name": "Pobiatma",
+      "postal_code": "99502"
+    },
+    {
+      "id": "95.01.36.2008",
+      "name": "Hitigima",
+      "postal_code": "99502"
+    },
+    {
+      "id": "95.01.36.2009",
+      "name": "Air Garam",
+      "postal_code": "99502"
+    },
+    {
+      "id": "95.01.36.2010",
+      "name": "Hukulimo",
+      "postal_code": "99502"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

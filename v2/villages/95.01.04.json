@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "95.01.04.2001",
+      "name": "Hubikosi",
+      "postal_code": "99552"
+    },
+    {
+      "id": "95.01.04.2002",
+      "name": "Kosimeage",
+      "postal_code": "99516"
+    },
+    {
+      "id": "95.01.04.2003",
+      "name": "Kosihilapok",
+      "postal_code": "99516"
+    },
+    {
+      "id": "95.01.04.2004",
+      "name": "Meagama",
+      "postal_code": "99516"
+    },
+    {
+      "id": "95.01.04.2005",
+      "name": "Pipukmo",
+      "postal_code": "99516"
+    },
+    {
+      "id": "95.01.04.2006",
+      "name": "Isakusa",
+      "postal_code": "99516"
+    },
+    {
+      "id": "95.01.04.2007",
+      "name": "Pelima",
+      "postal_code": "99552"
+    },
+    {
+      "id": "95.01.04.2008",
+      "name": "Kikhumo",
+      "postal_code": "99552"
+    },
+    {
+      "id": "95.01.04.2009",
+      "name": "Jibilabaga",
+      "postal_code": "99516"
+    },
+    {
+      "id": "95.01.04.2010",
+      "name": "Ikilumo",
+      "postal_code": "99516"
+    },
+    {
+      "id": "95.01.04.2011",
+      "name": "Sunili",
+      "postal_code": "99516"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

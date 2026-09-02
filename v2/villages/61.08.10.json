@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "61.08.10.2001",
+      "name": "Sebangki",
+      "postal_code": "79358"
+    },
+    {
+      "id": "61.08.10.2002",
+      "name": "Kumpang Tengah",
+      "postal_code": "79358"
+    },
+    {
+      "id": "61.08.10.2003",
+      "name": "Agak",
+      "postal_code": "79358"
+    },
+    {
+      "id": "61.08.10.2004",
+      "name": "Rantau Panjang",
+      "postal_code": "79358"
+    },
+    {
+      "id": "61.08.10.2005",
+      "name": "Sungai Segak",
+      "postal_code": "79358"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

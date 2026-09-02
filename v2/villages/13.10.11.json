@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "13.10.11.2001",
+      "name": "Koto Besar",
+      "postal_code": "27685"
+    },
+    {
+      "id": "13.10.11.2002",
+      "name": "Koto Tinggi",
+      "postal_code": "27685"
+    },
+    {
+      "id": "13.10.11.2003",
+      "name": "Koto Gadang",
+      "postal_code": "27685"
+    },
+    {
+      "id": "13.10.11.2004",
+      "name": "Bonjol",
+      "postal_code": "27685"
+    },
+    {
+      "id": "13.10.11.2005",
+      "name": "Abai Siat",
+      "postal_code": "27685"
+    },
+    {
+      "id": "13.10.11.2006",
+      "name": "Koto Laweh",
+      "postal_code": "27685"
+    },
+    {
+      "id": "13.10.11.2007",
+      "name": "Koto Ranah",
+      "postal_code": "27685"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

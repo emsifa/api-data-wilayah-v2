@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "id": "94.03.01.1001",
+      "name": "Enarotali",
+      "postal_code": "98714"
+    },
+    {
+      "id": "94.03.01.1006",
+      "name": "Timida",
+      "postal_code": "98713"
+    },
+    {
+      "id": "94.03.01.2002",
+      "name": "Madi",
+      "postal_code": "98714"
+    },
+    {
+      "id": "94.03.01.2003",
+      "name": "Aikai",
+      "postal_code": "98711"
+    },
+    {
+      "id": "94.03.01.2004",
+      "name": "Ipakiye",
+      "postal_code": "98711"
+    },
+    {
+      "id": "94.03.01.2005",
+      "name": "Papato",
+      "postal_code": "98711"
+    },
+    {
+      "id": "94.03.01.2007",
+      "name": "Kopo",
+      "postal_code": "98712"
+    },
+    {
+      "id": "94.03.01.2008",
+      "name": "Wage",
+      "postal_code": "98711"
+    },
+    {
+      "id": "94.03.01.2009",
+      "name": "Kagupago",
+      "postal_code": "98711"
+    },
+    {
+      "id": "94.03.01.2010",
+      "name": "Oyaigo",
+      "postal_code": "98714"
+    },
+    {
+      "id": "94.03.01.2011",
+      "name": "Kogekotu",
+      "postal_code": "98713"
+    },
+    {
+      "id": "94.03.01.2012",
+      "name": "Awabutu",
+      "postal_code": "98713"
+    },
+    {
+      "id": "94.03.01.2013",
+      "name": "Geko",
+      "postal_code": "98711"
+    },
+    {
+      "id": "94.03.01.2014",
+      "name": "Mugimeketago",
+      "postal_code": "98714"
+    },
+    {
+      "id": "94.03.01.2015",
+      "name": "Tuamakida",
+      "postal_code": "98713"
+    },
+    {
+      "id": "94.03.01.2016",
+      "name": "Geibu",
+      "postal_code": "98711"
+    },
+    {
+      "id": "94.03.01.2017",
+      "name": "Pudotadi",
+      "postal_code": "98714"
+    },
+    {
+      "id": "94.03.01.2018",
+      "name": "Kogekotu",
+      "postal_code": "98713"
+    },
+    {
+      "id": "94.03.01.2019",
+      "name": "Iyaitaka",
+      "postal_code": "98714"
+    },
+    {
+      "id": "94.03.01.2020",
+      "name": "Ugibutu",
+      "postal_code": "98714"
+    },
+    {
+      "id": "94.03.01.2021",
+      "name": "Wouyebutu",
+      "postal_code": "98712"
+    },
+    {
+      "id": "94.03.01.2022",
+      "name": "Amougibutu",
+      "postal_code": "98713"
+    },
+    {
+      "id": "94.03.01.2023",
+      "name": "Dapaiba",
+      "postal_code": "98714"
+    },
+    {
+      "id": "94.03.01.2024",
+      "name": "Yukekebo",
+      "postal_code": "98711"
+    },
+    {
+      "id": "94.03.01.2025",
+      "name": "Agumaida",
+      "postal_code": "98711"
+    },
+    {
+      "id": "94.03.01.2026",
+      "name": "Yagiyo Butu",
+      "postal_code": "98714"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

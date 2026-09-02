@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "35.10.01.2001",
+      "name": "Sarongan",
+      "postal_code": "68488"
+    },
+    {
+      "id": "35.10.01.2002",
+      "name": "Pesanggaran",
+      "postal_code": "68488"
+    },
+    {
+      "id": "35.10.01.2004",
+      "name": "Sumberagung",
+      "postal_code": "68488"
+    },
+    {
+      "id": "35.10.01.2009",
+      "name": "Kandangan",
+      "postal_code": "68488"
+    },
+    {
+      "id": "35.10.01.2010",
+      "name": "Sumbermulyo",
+      "postal_code": "68488"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "21.71.02.1001",
+      "name": "Tanjung Sengkuang",
+      "postal_code": "29453"
+    },
+    {
+      "id": "21.71.02.1002",
+      "name": "Sungai Jodoh",
+      "postal_code": "29453"
+    },
+    {
+      "id": "21.71.02.1003",
+      "name": "Batu Merah",
+      "postal_code": "29452"
+    },
+    {
+      "id": "21.71.02.1004",
+      "name": "Kampung Seraya",
+      "postal_code": "29454"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

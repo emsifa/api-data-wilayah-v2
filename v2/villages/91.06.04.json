@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "91.06.04.2003",
+      "name": "Namber",
+      "postal_code": "98564"
+    },
+    {
+      "id": "91.06.04.2004",
+      "name": "Baruki",
+      "postal_code": "98564"
+    },
+    {
+      "id": "91.06.04.2005",
+      "name": "Kameri",
+      "postal_code": "98564"
+    },
+    {
+      "id": "91.06.04.2008",
+      "name": "Warido",
+      "postal_code": "98564"
+    },
+    {
+      "id": "91.06.04.2012",
+      "name": "Sub Manggunsi",
+      "postal_code": "98564"
+    },
+    {
+      "id": "91.06.04.2013",
+      "name": "Serbin",
+      "postal_code": "98564"
+    },
+    {
+      "id": "91.06.04.2014",
+      "name": "Kansai",
+      "postal_code": "98564"
+    },
+    {
+      "id": "91.06.04.2015",
+      "name": "Pomdori",
+      "postal_code": "98564"
+    },
+    {
+      "id": "91.06.04.2019",
+      "name": "Semayen",
+      "postal_code": "98564"
+    },
+    {
+      "id": "91.06.04.2020",
+      "name": "Mambodo Sawai",
+      "postal_code": "98564"
+    },
+    {
+      "id": "91.06.04.2021",
+      "name": "Rimbaraya",
+      "postal_code": "98564"
+    },
+    {
+      "id": "91.06.04.2022",
+      "name": "Pomdori Sup",
+      "postal_code": "98564"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

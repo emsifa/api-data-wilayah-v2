@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "12.08.19.2001",
+      "name": "Jawa Maraja",
+      "postal_code": "21153"
+    },
+    {
+      "id": "12.08.19.2002",
+      "name": "Moho",
+      "postal_code": "21153"
+    },
+    {
+      "id": "12.08.19.2003",
+      "name": "Bahalat Bayu",
+      "postal_code": "21153"
+    },
+    {
+      "id": "12.08.19.2004",
+      "name": "Mekar Bahalat",
+      "postal_code": "21153"
+    },
+    {
+      "id": "12.08.19.2005",
+      "name": "Tanjung Maraja",
+      "postal_code": "21153"
+    },
+    {
+      "id": "12.08.19.2006",
+      "name": "Mariah Jambi",
+      "postal_code": "21153"
+    },
+    {
+      "id": "12.08.19.2007",
+      "name": "Bah Joga",
+      "postal_code": "21153"
+    },
+    {
+      "id": "12.08.19.2008",
+      "name": "Bah Jambi",
+      "postal_code": "21153"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

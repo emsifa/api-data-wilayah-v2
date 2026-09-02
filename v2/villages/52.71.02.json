@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "52.71.02.1001",
+      "name": "Pagesangan",
+      "postal_code": "83127"
+    },
+    {
+      "id": "52.71.02.1002",
+      "name": "Mataram Timur",
+      "postal_code": "83121"
+    },
+    {
+      "id": "52.71.02.1008",
+      "name": "Pagutan",
+      "postal_code": "83117"
+    },
+    {
+      "id": "52.71.02.1009",
+      "name": "Pagesangan Barat",
+      "postal_code": "83127"
+    },
+    {
+      "id": "52.71.02.1010",
+      "name": "Pagesangan Timur",
+      "postal_code": "83127"
+    },
+    {
+      "id": "52.71.02.1011",
+      "name": "Pejanggik",
+      "postal_code": "83127"
+    },
+    {
+      "id": "52.71.02.1012",
+      "name": "Punia",
+      "postal_code": "83127"
+    },
+    {
+      "id": "52.71.02.1013",
+      "name": "Pagutan Timur",
+      "postal_code": "83127"
+    },
+    {
+      "id": "52.71.02.1014",
+      "name": "Pagutan Barat",
+      "postal_code": "83127"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

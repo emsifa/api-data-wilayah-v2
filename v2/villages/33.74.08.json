@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "33.74.08.1001",
+      "name": "Candi",
+      "postal_code": "50257"
+    },
+    {
+      "id": "33.74.08.1002",
+      "name": "Jatingaleh",
+      "postal_code": "50254"
+    },
+    {
+      "id": "33.74.08.1003",
+      "name": "Kaliwiru",
+      "postal_code": "50253"
+    },
+    {
+      "id": "33.74.08.1004",
+      "name": "Jomblang",
+      "postal_code": "50256"
+    },
+    {
+      "id": "33.74.08.1005",
+      "name": "Karanganyar Gunung",
+      "postal_code": "50255"
+    },
+    {
+      "id": "33.74.08.1006",
+      "name": "Tegalsari",
+      "postal_code": "50614"
+    },
+    {
+      "id": "33.74.08.1007",
+      "name": "Wonotingal",
+      "postal_code": "50252"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

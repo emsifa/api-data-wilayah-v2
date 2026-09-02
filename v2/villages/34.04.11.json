@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "34.04.11.2001",
+      "name": "Sindumartani",
+      "postal_code": "55584"
+    },
+    {
+      "id": "34.04.11.2002",
+      "name": "Bimomartani",
+      "postal_code": "55584"
+    },
+    {
+      "id": "34.04.11.2003",
+      "name": "Widodomartani",
+      "postal_code": "55584"
+    },
+    {
+      "id": "34.04.11.2004",
+      "name": "Wedomartani",
+      "postal_code": "55584"
+    },
+    {
+      "id": "34.04.11.2005",
+      "name": "Umbulmartani",
+      "postal_code": "55584"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

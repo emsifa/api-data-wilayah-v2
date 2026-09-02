@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "12.06.10.2001",
+      "name": "Lau Pengulu",
+      "postal_code": "22165"
+    },
+    {
+      "id": "12.06.10.2002",
+      "name": "Lau Mulgap",
+      "postal_code": "22165"
+    },
+    {
+      "id": "12.06.10.2003",
+      "name": "Lau Kesumpat",
+      "postal_code": "22165"
+    },
+    {
+      "id": "12.06.10.2004",
+      "name": "Rimo Bunga",
+      "postal_code": "22165"
+    },
+    {
+      "id": "12.06.10.2005",
+      "name": "Tanjung Pamah",
+      "postal_code": "22165"
+    },
+    {
+      "id": "12.06.10.2006",
+      "name": "Kuta Pengkih",
+      "postal_code": "22165"
+    },
+    {
+      "id": "12.06.10.2007",
+      "name": "Bandar Purba",
+      "postal_code": "22165"
+    },
+    {
+      "id": "12.06.10.2008",
+      "name": "Mardingding",
+      "postal_code": "22165"
+    },
+    {
+      "id": "12.06.10.2009",
+      "name": "Lau Pakam",
+      "postal_code": "22165"
+    },
+    {
+      "id": "12.06.10.2010",
+      "name": "Lau Solu",
+      "postal_code": "22165"
+    },
+    {
+      "id": "12.06.10.2011",
+      "name": "Lau Garut",
+      "postal_code": "22165"
+    },
+    {
+      "id": "12.06.10.2012",
+      "name": "Bukit Makmur",
+      "postal_code": "22165"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

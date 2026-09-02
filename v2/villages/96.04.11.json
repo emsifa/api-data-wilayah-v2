@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "96.04.11.2001",
+      "name": "Senopi",
+      "postal_code": "98374"
+    },
+    {
+      "id": "96.04.11.2002",
+      "name": "Arapi",
+      "postal_code": "98374"
+    },
+    {
+      "id": "96.04.11.2003",
+      "name": "Srurem",
+      "postal_code": "98374"
+    },
+    {
+      "id": "96.04.11.2004",
+      "name": "Sumo",
+      "postal_code": "98374"
+    },
+    {
+      "id": "96.04.11.2005",
+      "name": "Ifat Mitu",
+      "postal_code": "98374"
+    },
+    {
+      "id": "96.04.11.2006",
+      "name": "Povokek Ania",
+      "postal_code": "98374"
+    },
+    {
+      "id": "96.04.11.2007",
+      "name": "Thomas",
+      "postal_code": "98374"
+    },
+    {
+      "id": "96.04.11.2008",
+      "name": "Tintum Araw",
+      "postal_code": "98374"
+    },
+    {
+      "id": "96.04.11.2009",
+      "name": "Hobiah",
+      "postal_code": "98374"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

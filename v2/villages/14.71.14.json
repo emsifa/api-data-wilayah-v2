@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "14.71.14.1001",
+      "name": "Kulim",
+      "postal_code": "28286"
+    },
+    {
+      "id": "14.71.14.1002",
+      "name": "Mentangor",
+      "postal_code": "28286"
+    },
+    {
+      "id": "14.71.14.1003",
+      "name": "Sialangrampai",
+      "postal_code": "28286"
+    },
+    {
+      "id": "14.71.14.1004",
+      "name": "Pebatuan",
+      "postal_code": "28286"
+    },
+    {
+      "id": "14.71.14.1005",
+      "name": "Pematangkapau",
+      "postal_code": "28289"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

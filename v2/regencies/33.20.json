@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "33.20",
+    "name": "Kabupaten Jepara",
+    "capital": "Jepara",
+    "lat": -6.59009446252794,
+    "lng": 110.66812971187831,
+    "elv": 7,
+    "tz": 7,
+    "population": 1283687,
+    "total_area": 1020.124,
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

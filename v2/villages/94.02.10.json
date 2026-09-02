@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "94.02.10.2001",
+      "name": "Yarmukum",
+      "postal_code": "98911"
+    },
+    {
+      "id": "94.02.10.2002",
+      "name": "Pilia",
+      "postal_code": "98911"
+    },
+    {
+      "id": "94.02.10.2003",
+      "name": "Yaniruk",
+      "postal_code": "98911"
+    },
+    {
+      "id": "94.02.10.2004",
+      "name": "Gwenggu",
+      "postal_code": "98911"
+    },
+    {
+      "id": "94.02.10.2005",
+      "name": "Tukwi",
+      "postal_code": "98911"
+    },
+    {
+      "id": "94.02.10.2006",
+      "name": "Tiru",
+      "postal_code": "98911"
+    },
+    {
+      "id": "94.02.10.2007",
+      "name": "Yogorini",
+      "postal_code": "98911"
+    },
+    {
+      "id": "94.02.10.2008",
+      "name": "Nalime",
+      "postal_code": "98911"
+    },
+    {
+      "id": "94.02.10.2009",
+      "name": "Urgele",
+      "postal_code": "98911"
+    },
+    {
+      "id": "94.02.10.2010",
+      "name": "Yagonik",
+      "postal_code": "98911"
+    },
+    {
+      "id": "94.02.10.2011",
+      "name": "Lulame",
+      "postal_code": "98911"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "31.01.02.1001",
+      "name": "Pulau Untung Jawa",
+      "postal_code": "14510"
+    },
+    {
+      "id": "31.01.02.1002",
+      "name": "Pulau Tidung",
+      "postal_code": "14520"
+    },
+    {
+      "id": "31.01.02.1003",
+      "name": "Pulau Pari",
+      "postal_code": "14520"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

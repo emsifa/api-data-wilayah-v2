@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.16.20.2001",
+      "name": "Cicau",
+      "postal_code": "17531"
+    },
+    {
+      "id": "32.16.20.2002",
+      "name": "Sukamahi",
+      "postal_code": "17531"
+    },
+    {
+      "id": "32.16.20.2003",
+      "name": "Pasiranji",
+      "postal_code": "17531"
+    },
+    {
+      "id": "32.16.20.2004",
+      "name": "Hegarmukti",
+      "postal_code": "17531"
+    },
+    {
+      "id": "32.16.20.2005",
+      "name": "Jayamukti",
+      "postal_code": "17531"
+    },
+    {
+      "id": "32.16.20.2006",
+      "name": "Pasirtanjung",
+      "postal_code": "17531"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

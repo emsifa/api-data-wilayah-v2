@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "13.71.02.1001",
+      "name": "Sawahan",
+      "postal_code": "25121"
+    },
+    {
+      "id": "13.71.02.1002",
+      "name": "Jati Baru",
+      "postal_code": "25129"
+    },
+    {
+      "id": "13.71.02.1003",
+      "name": "Jati",
+      "postal_code": "25129"
+    },
+    {
+      "id": "13.71.02.1004",
+      "name": "Sawahan Timur",
+      "postal_code": "25121"
+    },
+    {
+      "id": "13.71.02.1005",
+      "name": "Simpang Haru",
+      "postal_code": "25123"
+    },
+    {
+      "id": "13.71.02.1006",
+      "name": "Kubu Marapalam",
+      "postal_code": "25125"
+    },
+    {
+      "id": "13.71.02.1007",
+      "name": "Andalas",
+      "postal_code": "25126"
+    },
+    {
+      "id": "13.71.02.1008",
+      "name": "Kubu Dalam Parak Karakah",
+      "postal_code": "25126"
+    },
+    {
+      "id": "13.71.02.1009",
+      "name": "Parak Gadang Timur",
+      "postal_code": "25123"
+    },
+    {
+      "id": "13.71.02.1010",
+      "name": "Ganting Parak Gadang",
+      "postal_code": "25122"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

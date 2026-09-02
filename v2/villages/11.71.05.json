@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "11.71.05.2001",
+      "name": "Lueng Bata",
+      "postal_code": "23247"
+    },
+    {
+      "id": "11.71.05.2002",
+      "name": "Cot Mesjid",
+      "postal_code": "23246"
+    },
+    {
+      "id": "11.71.05.2003",
+      "name": "Panteriek",
+      "postal_code": "23247"
+    },
+    {
+      "id": "11.71.05.2004",
+      "name": "Blang Cut",
+      "postal_code": "23248"
+    },
+    {
+      "id": "11.71.05.2005",
+      "name": "Lamseupeung",
+      "postal_code": "23247"
+    },
+    {
+      "id": "11.71.05.2006",
+      "name": "Batoh",
+      "postal_code": "23245"
+    },
+    {
+      "id": "11.71.05.2007",
+      "name": "Suka Damai",
+      "postal_code": "23249"
+    },
+    {
+      "id": "11.71.05.2008",
+      "name": "Lamdom",
+      "postal_code": "23244"
+    },
+    {
+      "id": "11.71.05.2009",
+      "name": "Lampaloh",
+      "postal_code": "23248"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

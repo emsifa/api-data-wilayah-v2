@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "15.01.22.2001",
+      "name": "Kayu Aro Ambai",
+      "postal_code": "37171"
+    },
+    {
+      "id": "15.01.22.2002",
+      "name": "Bunga Tanjung",
+      "postal_code": "37171"
+    },
+    {
+      "id": "15.01.22.2003",
+      "name": "Pondok Beringin",
+      "postal_code": "37171"
+    },
+    {
+      "id": "15.01.22.2004",
+      "name": "Semerah",
+      "postal_code": "37171"
+    },
+    {
+      "id": "15.01.22.2005",
+      "name": "Sebukar",
+      "postal_code": "37171"
+    },
+    {
+      "id": "15.01.22.2006",
+      "name": "Koto Tuo Ujung Pasir",
+      "postal_code": "37172"
+    },
+    {
+      "id": "15.01.22.2007",
+      "name": "Ujung Pasir",
+      "postal_code": "37172"
+    },
+    {
+      "id": "15.01.22.2008",
+      "name": "Koto Petai",
+      "postal_code": "37172"
+    },
+    {
+      "id": "15.01.22.2009",
+      "name": "Koto Salak",
+      "postal_code": "37172"
+    },
+    {
+      "id": "15.01.22.2010",
+      "name": "Agung Koto Iman",
+      "postal_code": "37172"
+    },
+    {
+      "id": "15.01.22.2011",
+      "name": "Koto Iman",
+      "postal_code": "37172"
+    },
+    {
+      "id": "15.01.22.2012",
+      "name": "Baru Semerah",
+      "postal_code": "37171"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

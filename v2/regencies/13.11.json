@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "13.11",
+    "name": "Kabupaten Solok Selatan",
+    "capital": "Padang Aro",
+    "lat": -1.55622109073616,
+    "lng": 101.23950314232809,
+    "elv": 559,
+    "tz": 7,
+    "population": 181525,
+    "total_area": 3282.144,
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "91.05.10.2001",
+      "name": "Ambai I",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.10.2004",
+      "name": "Kawipi",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.10.2005",
+      "name": "Wamori",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.10.2006",
+      "name": "Adiwipi",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.10.2008",
+      "name": "Ambai II",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.10.2009",
+      "name": "Mambawi",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.10.2010",
+      "name": "Baisore",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.10.2011",
+      "name": "Rondepi",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.10.2014",
+      "name": "Imboriawa",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.10.2015",
+      "name": "Bairei",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.10.2016",
+      "name": "Aiwaraggani",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.10.2017",
+      "name": "Toroa",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.10.2019",
+      "name": "Marawi",
+      "postal_code": "98653"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

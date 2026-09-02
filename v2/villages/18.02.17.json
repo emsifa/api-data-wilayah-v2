@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "18.02.17.2001",
+      "name": "Tanjung Ratu Ilir",
+      "postal_code": "35213"
+    },
+    {
+      "id": "18.02.17.2002",
+      "name": "Candi Rejo",
+      "postal_code": "35213"
+    },
+    {
+      "id": "18.02.17.2003",
+      "name": "Banjar Ratu",
+      "postal_code": "35213"
+    },
+    {
+      "id": "18.02.17.2004",
+      "name": "Banjar Kerta Rahayu",
+      "postal_code": "35213"
+    },
+    {
+      "id": "18.02.17.2005",
+      "name": "Lempuyang Bandar",
+      "postal_code": "35213"
+    },
+    {
+      "id": "18.02.17.2006",
+      "name": "Purnama Tunggal",
+      "postal_code": "35213"
+    },
+    {
+      "id": "18.02.17.2007",
+      "name": "Banjar Rejo",
+      "postal_code": "35213"
+    },
+    {
+      "id": "18.02.17.2008",
+      "name": "Putra Lempuyang",
+      "postal_code": "35213"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

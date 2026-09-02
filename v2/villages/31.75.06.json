@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "31.75.06.1001",
+      "name": "Jatinegara",
+      "postal_code": "13930"
+    },
+    {
+      "id": "31.75.06.1002",
+      "name": "Rawa Terate",
+      "postal_code": "13920"
+    },
+    {
+      "id": "31.75.06.1003",
+      "name": "Penggilingan",
+      "postal_code": "13940"
+    },
+    {
+      "id": "31.75.06.1004",
+      "name": "Cakung Timur",
+      "postal_code": "13910"
+    },
+    {
+      "id": "31.75.06.1005",
+      "name": "Pulo Gebang",
+      "postal_code": "13950"
+    },
+    {
+      "id": "31.75.06.1006",
+      "name": "Ujung Menteng",
+      "postal_code": "13960"
+    },
+    {
+      "id": "31.75.06.1007",
+      "name": "Cakung Barat",
+      "postal_code": "13910"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

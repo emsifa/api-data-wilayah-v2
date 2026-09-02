@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "96.04.24.2001",
+      "name": "Nekori",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.24.2002",
+      "name": "Ajami",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.24.2003",
+      "name": "Aniti",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.24.2004",
+      "name": "Akari",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.24.2005",
+      "name": "Amnan",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.24.2006",
+      "name": "Atiki",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.24.2007",
+      "name": "Arwani",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.24.2008",
+      "name": "Aritowi",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.24.2009",
+      "name": "Umpay",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.24.2010",
+      "name": "Meiwar",
+      "postal_code": "98372"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

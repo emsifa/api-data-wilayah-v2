@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "82.08.07.2001",
+      "name": "Bahu",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.07.2002",
+      "name": "Bapenu",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.07.2003",
+      "name": "Kilo",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.07.2004",
+      "name": "Pancado",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.07.2005",
+      "name": "Nggaki",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.07.2006",
+      "name": "Sumbong",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.07.2007",
+      "name": "Maluli",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.07.2008",
+      "name": "Galebo",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.07.2009",
+      "name": "Nggoli",
+      "postal_code": "97794"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

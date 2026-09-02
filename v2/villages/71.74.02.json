@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "71.74.02.1003",
+      "name": "Kotobangun",
+      "postal_code": "95712"
+    },
+    {
+      "id": "71.74.02.1004",
+      "name": "Tumubui",
+      "postal_code": "95716"
+    },
+    {
+      "id": "71.74.02.1005",
+      "name": "Sinindian",
+      "postal_code": "95718"
+    },
+    {
+      "id": "71.74.02.1006",
+      "name": "Matali",
+      "postal_code": "95718"
+    },
+    {
+      "id": "71.74.02.1007",
+      "name": "Motoboi Besar",
+      "postal_code": "95719"
+    },
+    {
+      "id": "71.74.02.1008",
+      "name": "Kobo Besar",
+      "postal_code": "95719"
+    },
+    {
+      "id": "71.74.02.2001",
+      "name": "Moyag",
+      "postal_code": "95719"
+    },
+    {
+      "id": "71.74.02.2002",
+      "name": "Kobo Kecil",
+      "postal_code": "95719"
+    },
+    {
+      "id": "71.74.02.2009",
+      "name": "Moyag Tampoan",
+      "postal_code": "95719"
+    },
+    {
+      "id": "71.74.02.2010",
+      "name": "Moyag Todulan",
+      "postal_code": "95719"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

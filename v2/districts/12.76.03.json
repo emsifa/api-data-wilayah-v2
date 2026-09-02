@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "12.76.03",
+    "name": "Padang Hilir",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.76",
+      "name": "Kota Tebing Tinggi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

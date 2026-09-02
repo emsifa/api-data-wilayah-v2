@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "95.08.04.2001",
+      "name": "Pilini",
+      "postal_code": "99544"
+    },
+    {
+      "id": "95.08.04.2002",
+      "name": "Ndugwa",
+      "postal_code": "99544"
+    },
+    {
+      "id": "95.08.04.2003",
+      "name": "Biala",
+      "postal_code": "99929"
+    },
+    {
+      "id": "95.08.04.2004",
+      "name": "Bambisik",
+      "postal_code": "99929"
+    },
+    {
+      "id": "95.08.04.2005",
+      "name": "Sitpogol",
+      "postal_code": "99544"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "18.71.12.1002",
+      "name": "Sukabumi",
+      "postal_code": "35134"
+    },
+    {
+      "id": "18.71.12.1004",
+      "name": "Sukabumi Indah",
+      "postal_code": "35132"
+    },
+    {
+      "id": "18.71.12.1007",
+      "name": "Campang Raya",
+      "postal_code": "35122"
+    },
+    {
+      "id": "18.71.12.1008",
+      "name": "Nusantara Permai",
+      "postal_code": "35122"
+    },
+    {
+      "id": "18.71.12.1009",
+      "name": "Campang Jaya",
+      "postal_code": "35122"
+    },
+    {
+      "id": "18.71.12.1010",
+      "name": "Way Gubak",
+      "postal_code": "35244"
+    },
+    {
+      "id": "18.71.12.1011",
+      "name": "Way Laga",
+      "postal_code": "35245"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

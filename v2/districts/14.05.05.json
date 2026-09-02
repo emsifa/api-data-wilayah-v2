@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "14.05.05",
+    "name": "Langgam",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.05",
+      "name": "Kabupaten Pelalawan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "65.01.05.1001",
+      "name": "Tanjung Selor Hulu",
+      "postal_code": "77211"
+    },
+    {
+      "id": "65.01.05.1002",
+      "name": "Tanjung Selor Hilir",
+      "postal_code": "77212"
+    },
+    {
+      "id": "65.01.05.1008",
+      "name": "Tanjung Selor Timur",
+      "postal_code": "77212"
+    },
+    {
+      "id": "65.01.05.2003",
+      "name": "Jelarai Selor",
+      "postal_code": "77212"
+    },
+    {
+      "id": "65.01.05.2004",
+      "name": "Gunung Seriang",
+      "postal_code": "77212"
+    },
+    {
+      "id": "65.01.05.2005",
+      "name": "Bumi Rahayu",
+      "postal_code": "77212"
+    },
+    {
+      "id": "65.01.05.2006",
+      "name": "Gunung Sari",
+      "postal_code": "77212"
+    },
+    {
+      "id": "65.01.05.2007",
+      "name": "Apung",
+      "postal_code": "77212"
+    },
+    {
+      "id": "65.01.05.2009",
+      "name": "Tengkapak",
+      "postal_code": "77212"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

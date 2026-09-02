@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "18.71.06.1001",
+      "name": "Durian Payung",
+      "postal_code": "35116"
+    },
+    {
+      "id": "18.71.06.1002",
+      "name": "Gotong Royong",
+      "postal_code": "35119"
+    },
+    {
+      "id": "18.71.06.1005",
+      "name": "Palapa",
+      "postal_code": "35116"
+    },
+    {
+      "id": "18.71.06.1006",
+      "name": "Kaliawi",
+      "postal_code": "35115"
+    },
+    {
+      "id": "18.71.06.1007",
+      "name": "Kelapa Tiga",
+      "postal_code": "35111"
+    },
+    {
+      "id": "18.71.06.1010",
+      "name": "Pasir Gintung",
+      "postal_code": "35113"
+    },
+    {
+      "id": "18.71.06.1012",
+      "name": "Kaliawi Persada",
+      "postal_code": "35115"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

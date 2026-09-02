@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.02.36.2001",
+      "name": "Sukalarang",
+      "postal_code": "43191"
+    },
+    {
+      "id": "32.02.36.2002",
+      "name": "Sukamaju",
+      "postal_code": "43191"
+    },
+    {
+      "id": "32.02.36.2003",
+      "name": "Cimangkok",
+      "postal_code": "43191"
+    },
+    {
+      "id": "32.02.36.2004",
+      "name": "Titisan",
+      "postal_code": "43191"
+    },
+    {
+      "id": "32.02.36.2005",
+      "name": "Semplak",
+      "postal_code": "43191"
+    },
+    {
+      "id": "32.02.36.2006",
+      "name": "Prianganjaya",
+      "postal_code": "43191"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

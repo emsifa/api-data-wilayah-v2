@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "31.72.01.1001",
+      "name": "Penjaringan",
+      "postal_code": "14440"
+    },
+    {
+      "id": "31.72.01.1002",
+      "name": "Kamal Muara",
+      "postal_code": "14470"
+    },
+    {
+      "id": "31.72.01.1003",
+      "name": "Kapuk Muara",
+      "postal_code": "14460"
+    },
+    {
+      "id": "31.72.01.1004",
+      "name": "Pejagalan",
+      "postal_code": "14450"
+    },
+    {
+      "id": "31.72.01.1005",
+      "name": "Pluit",
+      "postal_code": "14450"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

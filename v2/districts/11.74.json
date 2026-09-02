@@ -1,18 +1,28 @@
 {
-  "data": {
-    "id": "11.74",
-    "name": "Kota Langsa",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
+  "data": [
+    {
+      "id": "11.74.01",
+      "name": "Langsa Timur"
     },
-    "regency": {
-      "id": "11.74",
-      "name": "Kota Langsa"
+    {
+      "id": "11.74.02",
+      "name": "Langsa Barat"
+    },
+    {
+      "id": "11.74.03",
+      "name": "Langsa Kota"
+    },
+    {
+      "id": "11.74.04",
+      "name": "Langsa Lama"
+    },
+    {
+      "id": "11.74.05",
+      "name": "Langsa Baro"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "51.02.01.2001",
+      "name": "Bajera",
+      "postal_code": "82164"
+    },
+    {
+      "id": "51.02.01.2002",
+      "name": "Wanagiri",
+      "postal_code": "82164"
+    },
+    {
+      "id": "51.02.01.2003",
+      "name": "Pupuan Sawah",
+      "postal_code": "82164"
+    },
+    {
+      "id": "51.02.01.2004",
+      "name": "Berembeng",
+      "postal_code": "82164"
+    },
+    {
+      "id": "51.02.01.2005",
+      "name": "Selemadeg",
+      "postal_code": "82164"
+    },
+    {
+      "id": "51.02.01.2006",
+      "name": "Serampingan",
+      "postal_code": "82164"
+    },
+    {
+      "id": "51.02.01.2007",
+      "name": "Antap",
+      "postal_code": "82164"
+    },
+    {
+      "id": "51.02.01.2008",
+      "name": "Wanagiri Kauh",
+      "postal_code": "82164"
+    },
+    {
+      "id": "51.02.01.2009",
+      "name": "Manikyang",
+      "postal_code": "82164"
+    },
+    {
+      "id": "51.02.01.2010",
+      "name": "Bajera Utara",
+      "postal_code": "82164"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

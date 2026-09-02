@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "id": "15.04.03.1001",
+      "name": "Muara Bulian",
+      "postal_code": "36613"
+    },
+    {
+      "id": "15.04.03.1002",
+      "name": "Teratai",
+      "postal_code": "36612"
+    },
+    {
+      "id": "15.04.03.1003",
+      "name": "Sridadi",
+      "postal_code": "36614"
+    },
+    {
+      "id": "15.04.03.1004",
+      "name": "Pasar Baru",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.1005",
+      "name": "Rengas Condong",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2006",
+      "name": "Pasar Terusan",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2007",
+      "name": "Simpang Terusan",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2008",
+      "name": "Malapari",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2009",
+      "name": "Napal Sisik",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2010",
+      "name": "Rambahan",
+      "postal_code": "36612"
+    },
+    {
+      "id": "15.04.03.2011",
+      "name": "Olak",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2012",
+      "name": "Muaro Singoan",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2013",
+      "name": "Aro",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2014",
+      "name": "Rantau Puri",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2015",
+      "name": "Sungai Baung",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2016",
+      "name": "Bajubang Laut",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2017",
+      "name": "Singkawang",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2018",
+      "name": "Tenam",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2019",
+      "name": "Sungai Buluh",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2020",
+      "name": "Kilangan",
+      "postal_code": "36611"
+    },
+    {
+      "id": "15.04.03.2021",
+      "name": "Pelayangan",
+      "postal_code": "36611"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

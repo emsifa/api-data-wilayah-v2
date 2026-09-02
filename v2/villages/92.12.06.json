@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "92.12.06.2001",
+      "name": "Genyu",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.12.06.2002",
+      "name": "Ansum",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.12.06.2003",
+      "name": "Deurohu",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.12.06.2004",
+      "name": "Horeta",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.12.06.2005",
+      "name": "Ubeisa",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.12.06.2006",
+      "name": "Taige",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.12.06.2007",
+      "name": "Tridaga",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.12.06.2008",
+      "name": "Disura",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.12.06.2009",
+      "name": "Awigau",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.12.06.2010",
+      "name": "Siskedowo",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.12.06.2011",
+      "name": "Irbos",
+      "postal_code": "98357"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "33.22.18.1006",
+      "name": "Candirejo",
+      "postal_code": "50513"
+    },
+    {
+      "id": "33.22.18.1007",
+      "name": "Genuk",
+      "postal_code": "50512"
+    },
+    {
+      "id": "33.22.18.1008",
+      "name": "Ungaran",
+      "postal_code": "50511"
+    },
+    {
+      "id": "33.22.18.1009",
+      "name": "Bandarjo",
+      "postal_code": "50517"
+    },
+    {
+      "id": "33.22.18.1010",
+      "name": "Langensari",
+      "postal_code": "50518"
+    },
+    {
+      "id": "33.22.18.2001",
+      "name": "Branjang",
+      "postal_code": "50519"
+    },
+    {
+      "id": "33.22.18.2002",
+      "name": "Kalisidi",
+      "postal_code": "50519"
+    },
+    {
+      "id": "33.22.18.2003",
+      "name": "Keji",
+      "postal_code": "50519"
+    },
+    {
+      "id": "33.22.18.2004",
+      "name": "Lerep",
+      "postal_code": "50519"
+    },
+    {
+      "id": "33.22.18.2005",
+      "name": "Nyatnyono",
+      "postal_code": "50551"
+    },
+    {
+      "id": "33.22.18.2011",
+      "name": "Gogik",
+      "postal_code": "50551"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

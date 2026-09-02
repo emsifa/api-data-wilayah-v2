@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "95.01.32.2001",
+      "name": "Miliama",
+      "postal_code": "99532"
+    },
+    {
+      "id": "95.01.32.2002",
+      "name": "Asologaima",
+      "postal_code": "99532"
+    },
+    {
+      "id": "95.01.32.2003",
+      "name": "Kewin",
+      "postal_code": "99532"
+    },
+    {
+      "id": "95.01.32.2004",
+      "name": "Holkima",
+      "postal_code": "99532"
+    },
+    {
+      "id": "95.01.32.2005",
+      "name": "Helefa",
+      "postal_code": "99532"
+    },
+    {
+      "id": "95.01.32.2006",
+      "name": "Sekom",
+      "postal_code": "99532"
+    },
+    {
+      "id": "95.01.32.2007",
+      "name": "Delekama",
+      "postal_code": "99532"
+    },
+    {
+      "id": "95.01.32.2008",
+      "name": "Molebaga",
+      "postal_code": "99532"
+    },
+    {
+      "id": "95.01.32.2009",
+      "name": "Silamik",
+      "postal_code": "99532"
+    },
+    {
+      "id": "95.01.32.2010",
+      "name": "Konan",
+      "postal_code": "99532"
+    },
+    {
+      "id": "95.01.32.2011",
+      "name": "Pilibaga",
+      "postal_code": "99532"
+    },
+    {
+      "id": "95.01.32.2012",
+      "name": "Hukuragi",
+      "postal_code": "99532"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

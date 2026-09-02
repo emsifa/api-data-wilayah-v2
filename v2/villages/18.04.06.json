@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "18.04.06.2001",
+      "name": "Kenali",
+      "postal_code": "34873"
+    },
+    {
+      "id": "18.04.06.2002",
+      "name": "Kejadian",
+      "postal_code": "34873"
+    },
+    {
+      "id": "18.04.06.2003",
+      "name": "Bumi Agung",
+      "postal_code": "34873"
+    },
+    {
+      "id": "18.04.06.2004",
+      "name": "Turgak",
+      "postal_code": "34873"
+    },
+    {
+      "id": "18.04.06.2005",
+      "name": "Bedudu",
+      "postal_code": "34873"
+    },
+    {
+      "id": "18.04.06.2006",
+      "name": "Sukarame",
+      "postal_code": "34873"
+    },
+    {
+      "id": "18.04.06.2007",
+      "name": "Hujung",
+      "postal_code": "34873"
+    },
+    {
+      "id": "18.04.06.2013",
+      "name": "Serungkuk",
+      "postal_code": "34873"
+    },
+    {
+      "id": "18.04.06.2019",
+      "name": "Suka Makmur",
+      "postal_code": "34873"
+    },
+    {
+      "id": "18.04.06.2020",
+      "name": "Fajar Agung",
+      "postal_code": "34873"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

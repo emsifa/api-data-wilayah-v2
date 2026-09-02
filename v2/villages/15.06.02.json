@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "15.06.02.1004",
+      "name": "Tungkal Empat Kota",
+      "postal_code": "36557"
+    },
+    {
+      "id": "15.06.02.1005",
+      "name": "Tungkal III",
+      "postal_code": "36557"
+    },
+    {
+      "id": "15.06.02.1006",
+      "name": "Tungkal Harapan",
+      "postal_code": "36557"
+    },
+    {
+      "id": "15.06.02.1007",
+      "name": "Tungkal II",
+      "postal_code": "36557"
+    },
+    {
+      "id": "15.06.02.1015",
+      "name": "Kampung Nelayan",
+      "postal_code": "36557"
+    },
+    {
+      "id": "15.06.02.1016",
+      "name": "Patunas",
+      "postal_code": "36557"
+    },
+    {
+      "id": "15.06.02.1017",
+      "name": "Sriwijaya",
+      "postal_code": "36557"
+    },
+    {
+      "id": "15.06.02.1018",
+      "name": "Sungainibung",
+      "postal_code": "36557"
+    },
+    {
+      "id": "15.06.02.2003",
+      "name": "Tungkal I",
+      "postal_code": "36557"
+    },
+    {
+      "id": "15.06.02.2014",
+      "name": "Teluk Sialang",
+      "postal_code": "36557"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

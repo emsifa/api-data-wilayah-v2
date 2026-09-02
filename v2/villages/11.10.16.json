@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "11.10.16.2001",
+      "name": "Haloban",
+      "postal_code": "24790"
+    },
+    {
+      "id": "11.10.16.2002",
+      "name": "Asantola",
+      "postal_code": "24790"
+    },
+    {
+      "id": "11.10.16.2003",
+      "name": "Ujung Sialit",
+      "postal_code": "24790"
+    },
+    {
+      "id": "11.10.16.2004",
+      "name": "Suka Makmur",
+      "postal_code": "24790"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

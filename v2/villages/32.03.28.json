@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.03.28.2001",
+      "name": "Cipanas",
+      "postal_code": "43253"
+    },
+    {
+      "id": "32.03.28.2002",
+      "name": "Cimacan",
+      "postal_code": "43253"
+    },
+    {
+      "id": "32.03.28.2003",
+      "name": "Ciloto",
+      "postal_code": "43253"
+    },
+    {
+      "id": "32.03.28.2004",
+      "name": "Sindanglaya",
+      "postal_code": "43253"
+    },
+    {
+      "id": "32.03.28.2005",
+      "name": "Batulawang",
+      "postal_code": "43253"
+    },
+    {
+      "id": "32.03.28.2006",
+      "name": "Palasari",
+      "postal_code": "43253"
+    },
+    {
+      "id": "32.03.28.2007",
+      "name": "Sindangjaya",
+      "postal_code": "43253"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

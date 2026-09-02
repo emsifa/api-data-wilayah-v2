@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "94.04.05.2001",
+      "name": "Sempan Timur",
+      "postal_code": "99965"
+    },
+    {
+      "id": "94.04.05.2002",
+      "name": "Wenin",
+      "postal_code": "99965"
+    },
+    {
+      "id": "94.04.05.2003",
+      "name": "Noema",
+      "postal_code": "99965"
+    },
+    {
+      "id": "94.04.05.2004",
+      "name": "Wapu",
+      "postal_code": "99965"
+    },
+    {
+      "id": "94.04.05.2005",
+      "name": "Sumapro",
+      "postal_code": "99965"
+    },
+    {
+      "id": "94.04.05.2006",
+      "name": "Wacakam",
+      "postal_code": "99965"
+    },
+    {
+      "id": "94.04.05.2007",
+      "name": "Waituku",
+      "postal_code": "99965"
+    },
+    {
+      "id": "94.04.05.2008",
+      "name": "Bulumen",
+      "postal_code": "99965"
+    },
+    {
+      "id": "94.04.05.2009",
+      "name": "Kanmapiri",
+      "postal_code": "99965"
+    },
+    {
+      "id": "94.04.05.2010",
+      "name": "Jaitak",
+      "postal_code": "99965"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

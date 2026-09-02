@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "33.29.10",
+    "name": "Songgom",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.29",
+      "name": "Kabupaten Brebes"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

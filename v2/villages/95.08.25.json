@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "95.08.25.2001",
+      "name": "Kora",
+      "postal_code": "99923"
+    },
+    {
+      "id": "95.08.25.2002",
+      "name": "Nanggoal",
+      "postal_code": "99923"
+    },
+    {
+      "id": "95.08.25.2003",
+      "name": "Wenam",
+      "postal_code": "99923"
+    },
+    {
+      "id": "95.08.25.2004",
+      "name": "Wilimi",
+      "postal_code": "99923"
+    },
+    {
+      "id": "95.08.25.2005",
+      "name": "Brutnai",
+      "postal_code": "99923"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

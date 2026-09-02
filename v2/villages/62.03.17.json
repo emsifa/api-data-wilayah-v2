@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "62.03.17.1001",
+      "name": "Pulau Kupang",
+      "postal_code": "73511"
+    },
+    {
+      "id": "62.03.17.2002",
+      "name": "Pulau Mambulau",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.17.2003",
+      "name": "Sei Lunuk",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.17.2004",
+      "name": "Sei Jangkit",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.17.2005",
+      "name": "Tamban Luar",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.17.2006",
+      "name": "Terusan Raya",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.17.2007",
+      "name": "Terusan Karya",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.17.2008",
+      "name": "Terusan Makmur",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.17.2009",
+      "name": "Terusan Mulya",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.17.2010",
+      "name": "Bamban Raya",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.17.2011",
+      "name": "Bangun Harjo",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.17.2012",
+      "name": "Terusan Baguntan Raya",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.17.2013",
+      "name": "Terusan Raya Barat",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.17.2014",
+      "name": "Terusan Raya Hulu",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.17.2015",
+      "name": "Budi Mufakat",
+      "postal_code": "73516"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

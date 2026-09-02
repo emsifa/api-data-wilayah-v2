@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "14.05.09.1001",
+      "name": "Teluk Meranti",
+      "postal_code": "28354"
+    },
+    {
+      "id": "14.05.09.2002",
+      "name": "Kuala Panduk",
+      "postal_code": "28354"
+    },
+    {
+      "id": "14.05.09.2003",
+      "name": "Petodaan",
+      "postal_code": "28354"
+    },
+    {
+      "id": "14.05.09.2004",
+      "name": "Teluk Binjai",
+      "postal_code": "28354"
+    },
+    {
+      "id": "14.05.09.2005",
+      "name": "Pulau Muda",
+      "postal_code": "28354"
+    },
+    {
+      "id": "14.05.09.2006",
+      "name": "Gambut Mutiara",
+      "postal_code": "28354"
+    },
+    {
+      "id": "14.05.09.2007",
+      "name": "Labuhan Bilik",
+      "postal_code": "28354"
+    },
+    {
+      "id": "14.05.09.2008",
+      "name": "Pangkalan Terap",
+      "postal_code": "28354"
+    },
+    {
+      "id": "14.05.09.2009",
+      "name": "Segamai",
+      "postal_code": "28354"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

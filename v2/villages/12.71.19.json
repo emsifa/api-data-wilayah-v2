@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.71.19.1001",
+      "name": "Petisah Tengah",
+      "postal_code": "20112"
+    },
+    {
+      "id": "12.71.19.1002",
+      "name": "Sekip",
+      "postal_code": "20113"
+    },
+    {
+      "id": "12.71.19.1003",
+      "name": "Sei Sikambing D",
+      "postal_code": "20119"
+    },
+    {
+      "id": "12.71.19.1004",
+      "name": "Sei Putih Barat",
+      "postal_code": "20118"
+    },
+    {
+      "id": "12.71.19.1005",
+      "name": "Sei Putih Tengah",
+      "postal_code": "20118"
+    },
+    {
+      "id": "12.71.19.1006",
+      "name": "Sei Putih Timur I",
+      "postal_code": "20118"
+    },
+    {
+      "id": "12.71.19.1007",
+      "name": "Sei Putih Timur II",
+      "postal_code": "20118"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

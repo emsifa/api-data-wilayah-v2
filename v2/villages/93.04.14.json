@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "93.04.14.2001",
+      "name": "Yamkap",
+      "postal_code": "99771"
+    },
+    {
+      "id": "93.04.14.2002",
+      "name": "Amkum",
+      "postal_code": "99771"
+    },
+    {
+      "id": "93.04.14.2003",
+      "name": "Amaru",
+      "postal_code": "99771"
+    },
+    {
+      "id": "93.04.14.2004",
+      "name": "Amkai",
+      "postal_code": "99771"
+    },
+    {
+      "id": "93.04.14.2005",
+      "name": "Amagais",
+      "postal_code": "99771"
+    },
+    {
+      "id": "93.04.14.2006",
+      "name": "Erosaman",
+      "postal_code": "99771"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

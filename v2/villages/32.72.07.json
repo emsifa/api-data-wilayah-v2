@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.72.07.1001",
+      "name": "Cibeureum Hilir",
+      "postal_code": "43165"
+    },
+    {
+      "id": "32.72.07.1002",
+      "name": "Babakan",
+      "postal_code": "43142"
+    },
+    {
+      "id": "32.72.07.1003",
+      "name": "Sindangpalay",
+      "postal_code": "43162"
+    },
+    {
+      "id": "32.72.07.1004",
+      "name": "Limusnunggal",
+      "postal_code": "43165"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "93.01.07.2001",
+      "name": "Kartini",
+      "postal_code": "99645"
+    },
+    {
+      "id": "93.01.07.2002",
+      "name": "Makarti Jaya",
+      "postal_code": "99645"
+    },
+    {
+      "id": "93.01.07.2003",
+      "name": "Nalkin",
+      "postal_code": "99645"
+    },
+    {
+      "id": "93.01.07.2004",
+      "name": "Angger Permegi",
+      "postal_code": "99645"
+    },
+    {
+      "id": "93.01.07.2005",
+      "name": "Poo",
+      "postal_code": "99645"
+    },
+    {
+      "id": "93.01.07.2006",
+      "name": "Mimi Baru",
+      "postal_code": "99645"
+    },
+    {
+      "id": "93.01.07.2007",
+      "name": "Kamno Sari",
+      "postal_code": "99645"
+    },
+    {
+      "id": "93.01.07.2008",
+      "name": "Blandin Kakayo",
+      "postal_code": "99645"
+    },
+    {
+      "id": "93.01.07.2009",
+      "name": "Gurinda Jaya",
+      "postal_code": "99645"
+    },
+    {
+      "id": "93.01.07.2010",
+      "name": "Jagebob Raya",
+      "postal_code": "99645"
+    },
+    {
+      "id": "93.01.07.2011",
+      "name": "Wenda Asri",
+      "postal_code": "99645"
+    },
+    {
+      "id": "93.01.07.2012",
+      "name": "Melin Megikar",
+      "postal_code": "99645"
+    },
+    {
+      "id": "93.01.07.2013",
+      "name": "Obaat Throw",
+      "postal_code": "99645"
+    },
+    {
+      "id": "93.01.07.2014",
+      "name": "Yemunain Jaya",
+      "postal_code": "99645"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

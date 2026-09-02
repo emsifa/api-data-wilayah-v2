@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "35.77.02.1001",
+      "name": "Manguharjo",
+      "postal_code": "63127"
+    },
+    {
+      "id": "35.77.02.1002",
+      "name": "Sogaten",
+      "postal_code": "63129"
+    },
+    {
+      "id": "35.77.02.1003",
+      "name": "Patihan",
+      "postal_code": "63123"
+    },
+    {
+      "id": "35.77.02.1004",
+      "name": "Ngegong",
+      "postal_code": "63125"
+    },
+    {
+      "id": "35.77.02.1005",
+      "name": "Winongo",
+      "postal_code": "63126"
+    },
+    {
+      "id": "35.77.02.1006",
+      "name": "Madiun Lor",
+      "postal_code": "63122"
+    },
+    {
+      "id": "35.77.02.1007",
+      "name": "Pangongangan",
+      "postal_code": "63121"
+    },
+    {
+      "id": "35.77.02.1008",
+      "name": "Nambangan Lor",
+      "postal_code": "63129"
+    },
+    {
+      "id": "35.77.02.1009",
+      "name": "Nambangan Kidul",
+      "postal_code": "63128"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "64.72.07.1001",
+      "name": "Sungai Kapih",
+      "postal_code": "75114"
+    },
+    {
+      "id": "64.72.07.1002",
+      "name": "Sambutan",
+      "postal_code": "75115"
+    },
+    {
+      "id": "64.72.07.1003",
+      "name": "Makroman",
+      "postal_code": "75115"
+    },
+    {
+      "id": "64.72.07.1004",
+      "name": "Sindang Sari",
+      "postal_code": "75114"
+    },
+    {
+      "id": "64.72.07.1005",
+      "name": "Pulau Atas",
+      "postal_code": "75114"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

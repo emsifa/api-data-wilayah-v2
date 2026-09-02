@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "12.08.15.1005",
+      "name": "Haranggaol",
+      "postal_code": "21177"
+    },
+    {
+      "id": "12.08.15.2001",
+      "name": "Nagori Purba",
+      "postal_code": "21177"
+    },
+    {
+      "id": "12.08.15.2002",
+      "name": "Nagori Sihalpe",
+      "postal_code": "21177"
+    },
+    {
+      "id": "12.08.15.2003",
+      "name": "Purba Horisan",
+      "postal_code": "21177"
+    },
+    {
+      "id": "12.08.15.2004",
+      "name": "Purba Pasir",
+      "postal_code": "21177"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

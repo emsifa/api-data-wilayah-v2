@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "33.74.03.1001",
+      "name": "Kemijen",
+      "postal_code": "50228"
+    },
+    {
+      "id": "33.74.03.1002",
+      "name": "Rejomulyo",
+      "postal_code": "50227"
+    },
+    {
+      "id": "33.74.03.1003",
+      "name": "Mlatibaru",
+      "postal_code": "50122"
+    },
+    {
+      "id": "33.74.03.1004",
+      "name": "Kebonagung",
+      "postal_code": "50123"
+    },
+    {
+      "id": "33.74.03.1005",
+      "name": "Mlatiharjo",
+      "postal_code": "50126"
+    },
+    {
+      "id": "33.74.03.1006",
+      "name": "Bugangan",
+      "postal_code": "50126"
+    },
+    {
+      "id": "33.74.03.1007",
+      "name": "Sarirejo",
+      "postal_code": "50124"
+    },
+    {
+      "id": "33.74.03.1008",
+      "name": "Rejosari",
+      "postal_code": "50125"
+    },
+    {
+      "id": "33.74.03.1009",
+      "name": "Karangturi",
+      "postal_code": "50124"
+    },
+    {
+      "id": "33.74.03.1010",
+      "name": "Karangtempel",
+      "postal_code": "50232"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

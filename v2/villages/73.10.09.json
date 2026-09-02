@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.10.09.1001",
+      "name": "Bonto Matene",
+      "postal_code": "90656"
+    },
+    {
+      "id": "73.10.09.1002",
+      "name": "Segeri",
+      "postal_code": "90656"
+    },
+    {
+      "id": "73.10.09.1003",
+      "name": "Bone",
+      "postal_code": "90656"
+    },
+    {
+      "id": "73.10.09.1004",
+      "name": "Bawasalo",
+      "postal_code": "90656"
+    },
+    {
+      "id": "73.10.09.2005",
+      "name": "Baring",
+      "postal_code": "90656"
+    },
+    {
+      "id": "73.10.09.2006",
+      "name": "Parenreng",
+      "postal_code": "90656"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

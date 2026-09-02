@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "53.18.09.1003",
+      "name": "Langga Lero",
+      "postal_code": "87255"
+    },
+    {
+      "id": "53.18.09.1004",
+      "name": "Waitabula",
+      "postal_code": "87255"
+    },
+    {
+      "id": "53.18.09.2001",
+      "name": "Rada Mata",
+      "postal_code": "87255"
+    },
+    {
+      "id": "53.18.09.2002",
+      "name": "Kalena Wano",
+      "postal_code": "87255"
+    },
+    {
+      "id": "53.18.09.2005",
+      "name": "Wee Londa",
+      "postal_code": "87255"
+    },
+    {
+      "id": "53.18.09.2006",
+      "name": "Wee Pangali",
+      "postal_code": "87255"
+    },
+    {
+      "id": "53.18.09.2007",
+      "name": "Kadi Pada",
+      "postal_code": "87255"
+    },
+    {
+      "id": "53.18.09.2008",
+      "name": "Watu Kawula",
+      "postal_code": "87255"
+    },
+    {
+      "id": "53.18.09.2009",
+      "name": "Wee Rena",
+      "postal_code": "87255"
+    },
+    {
+      "id": "53.18.09.2010",
+      "name": "Kalembu Kaha",
+      "postal_code": "87255"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

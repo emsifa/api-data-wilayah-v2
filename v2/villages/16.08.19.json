@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "16.08.19.2001",
+      "name": "Sari Guna",
+      "postal_code": "32388"
+    },
+    {
+      "id": "16.08.19.2002",
+      "name": "Sido Waluyo",
+      "postal_code": "32388"
+    },
+    {
+      "id": "16.08.19.2003",
+      "name": "Sugih Waras",
+      "postal_code": "32388"
+    },
+    {
+      "id": "16.08.19.2004",
+      "name": "Rejo Sari",
+      "postal_code": "32388"
+    },
+    {
+      "id": "16.08.19.2005",
+      "name": "Petanggan",
+      "postal_code": "32388"
+    },
+    {
+      "id": "16.08.19.2006",
+      "name": "Purwodadi",
+      "postal_code": "32388"
+    },
+    {
+      "id": "16.08.19.2007",
+      "name": "Sri Mulyo",
+      "postal_code": "32388"
+    },
+    {
+      "id": "16.08.19.2008",
+      "name": "Ulak Buntar",
+      "postal_code": "32388"
+    },
+    {
+      "id": "16.08.19.2009",
+      "name": "Sribudaya",
+      "postal_code": "32388"
+    },
+    {
+      "id": "16.08.19.2010",
+      "name": "Sukoharjo",
+      "postal_code": "32388"
+    },
+    {
+      "id": "16.08.19.2011",
+      "name": "Tulung Sari",
+      "postal_code": "32388"
+    },
+    {
+      "id": "16.08.19.2012",
+      "name": "Mulya Sari",
+      "postal_code": "32388"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

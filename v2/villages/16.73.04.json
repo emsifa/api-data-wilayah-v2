@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "16.73.04.1001",
+      "name": "Durian Rampak",
+      "postal_code": "31619"
+    },
+    {
+      "id": "16.73.04.1002",
+      "name": "Tanjung Raya",
+      "postal_code": "31619"
+    },
+    {
+      "id": "16.73.04.1003",
+      "name": "Sumber Agung",
+      "postal_code": "31619"
+    },
+    {
+      "id": "16.73.04.1004",
+      "name": "Marga Bakti",
+      "postal_code": "31619"
+    },
+    {
+      "id": "16.73.04.1005",
+      "name": "Belalau I",
+      "postal_code": "31619"
+    },
+    {
+      "id": "16.73.04.1006",
+      "name": "Belalau II",
+      "postal_code": "31619"
+    },
+    {
+      "id": "16.73.04.1007",
+      "name": "Taba Baru",
+      "postal_code": "31619"
+    },
+    {
+      "id": "16.73.04.1008",
+      "name": "Margorejo",
+      "postal_code": "31619"
+    },
+    {
+      "id": "16.73.04.1009",
+      "name": "Petanang Ulu",
+      "postal_code": "31618"
+    },
+    {
+      "id": "16.73.04.1010",
+      "name": "Petanang Ilir",
+      "postal_code": "31618"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.05.12.2001",
+      "name": "Panyangkalang",
+      "postal_code": "92261"
+    },
+    {
+      "id": "73.05.12.2002",
+      "name": "Bontoparang",
+      "postal_code": "92261"
+    },
+    {
+      "id": "73.05.12.2003",
+      "name": "Pattopakang",
+      "postal_code": "92261"
+    },
+    {
+      "id": "73.05.12.2004",
+      "name": "Cikoang",
+      "postal_code": "92261"
+    },
+    {
+      "id": "73.05.12.2005",
+      "name": "Punaga",
+      "postal_code": "92261"
+    },
+    {
+      "id": "73.05.12.2006",
+      "name": "Laikang",
+      "postal_code": "92261"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "95.04.13.2001",
+      "name": "Mondagul",
+      "postal_code": "99032"
+    },
+    {
+      "id": "95.04.13.2002",
+      "name": "Timojimo",
+      "postal_code": "99424"
+    },
+    {
+      "id": "95.04.13.2003",
+      "name": "Tabowanimbo",
+      "postal_code": "99032"
+    },
+    {
+      "id": "95.04.13.2004",
+      "name": "Nelawi",
+      "postal_code": "99424"
+    },
+    {
+      "id": "95.04.13.2005",
+      "name": "Woromolome",
+      "postal_code": "99032"
+    },
+    {
+      "id": "95.04.13.2006",
+      "name": "Kendemaya",
+      "postal_code": "99032"
+    },
+    {
+      "id": "95.04.13.2007",
+      "name": "Palagi",
+      "postal_code": "99032"
+    },
+    {
+      "id": "95.04.13.2008",
+      "name": "Megapura",
+      "postal_code": "99032"
+    },
+    {
+      "id": "95.04.13.2009",
+      "name": "Wabuna",
+      "postal_code": "99032"
+    },
+    {
+      "id": "95.04.13.2010",
+      "name": "Minagame",
+      "postal_code": "99032"
+    },
+    {
+      "id": "95.04.13.2011",
+      "name": "Barename/Luanggi",
+      "postal_code": "99032"
+    },
+    {
+      "id": "95.04.13.2012",
+      "name": "Yilogonime/Tabinabo",
+      "postal_code": "99032"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "35.17.10.2001",
+      "name": "Peterongan",
+      "postal_code": "61481"
+    },
+    {
+      "id": "35.17.10.2002",
+      "name": "Keplaksari",
+      "postal_code": "61481"
+    },
+    {
+      "id": "35.17.10.2003",
+      "name": "Kepuhkembeng",
+      "postal_code": "61481"
+    },
+    {
+      "id": "35.17.10.2004",
+      "name": "Mancar",
+      "postal_code": "61481"
+    },
+    {
+      "id": "35.17.10.2005",
+      "name": "Tugusumberjo",
+      "postal_code": "61481"
+    },
+    {
+      "id": "35.17.10.2006",
+      "name": "Morosunggingan",
+      "postal_code": "61481"
+    },
+    {
+      "id": "35.17.10.2007",
+      "name": "Kebontemu",
+      "postal_code": "61481"
+    },
+    {
+      "id": "35.17.10.2008",
+      "name": "Dukuhklopo",
+      "postal_code": "61481"
+    },
+    {
+      "id": "35.17.10.2009",
+      "name": "Tanjunggunung",
+      "postal_code": "61481"
+    },
+    {
+      "id": "35.17.10.2010",
+      "name": "Bongkot",
+      "postal_code": "61481"
+    },
+    {
+      "id": "35.17.10.2011",
+      "name": "Senden",
+      "postal_code": "61481"
+    },
+    {
+      "id": "35.17.10.2012",
+      "name": "Ngrandulor",
+      "postal_code": "61481"
+    },
+    {
+      "id": "35.17.10.2013",
+      "name": "Tengaran",
+      "postal_code": "61481"
+    },
+    {
+      "id": "35.17.10.2014",
+      "name": "Sumberagung",
+      "postal_code": "61481"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

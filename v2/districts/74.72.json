@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "74.72",
-    "name": "Kota Bau Bau",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
+  "data": [
+    {
+      "id": "74.72.01",
+      "name": "Betoambari"
     },
-    "regency": {
-      "id": "74.72",
-      "name": "Kota Bau Bau"
+    {
+      "id": "74.72.02",
+      "name": "Wolio"
+    },
+    {
+      "id": "74.72.03",
+      "name": "Sorawolio"
+    },
+    {
+      "id": "74.72.04",
+      "name": "Bungi"
+    },
+    {
+      "id": "74.72.05",
+      "name": "Kokalukuna"
+    },
+    {
+      "id": "74.72.06",
+      "name": "Murhum"
+    },
+    {
+      "id": "74.72.07",
+      "name": "Lea-Lea"
+    },
+    {
+      "id": "74.72.08",
+      "name": "Batupoaro"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

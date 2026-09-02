@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.76.05.1001",
+      "name": "Mandailing",
+      "postal_code": "20626"
+    },
+    {
+      "id": "12.76.05.1002",
+      "name": "Pasar Baru",
+      "postal_code": "20627"
+    },
+    {
+      "id": "12.76.05.1003",
+      "name": "Pasar Gambir",
+      "postal_code": "20628"
+    },
+    {
+      "id": "12.76.05.1004",
+      "name": "Badak Bejuang",
+      "postal_code": "20615"
+    },
+    {
+      "id": "12.76.05.1005",
+      "name": "Bandar Utama",
+      "postal_code": "20613"
+    },
+    {
+      "id": "12.76.05.1006",
+      "name": "Rambung",
+      "postal_code": "20633"
+    },
+    {
+      "id": "12.76.05.1007",
+      "name": "Tebing Tinggi Lama",
+      "postal_code": "20632"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

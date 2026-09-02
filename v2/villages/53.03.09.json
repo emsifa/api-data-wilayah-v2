@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "53.03.09.2006",
+      "name": "Fatumtasa",
+      "postal_code": "85674"
+    },
+    {
+      "id": "53.03.09.2007",
+      "name": "Oesoko",
+      "postal_code": "85674"
+    },
+    {
+      "id": "53.03.09.2008",
+      "name": "Humusu Sainiup",
+      "postal_code": "85674"
+    },
+    {
+      "id": "53.03.09.2009",
+      "name": "Humusu Oekolo",
+      "postal_code": "85674"
+    },
+    {
+      "id": "53.03.09.2010",
+      "name": "Humusu Wini",
+      "postal_code": "85672"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

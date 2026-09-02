@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "62.01",
+    "name": "Kabupaten Kotawaringin Barat",
+    "capital": "Pangkalan Bun",
+    "lat": -2.6922174879548355,
+    "lng": 111.63434121272037,
+    "elv": 21,
+    "tz": 7,
+    "population": 294602,
+    "total_area": 9475.854,
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

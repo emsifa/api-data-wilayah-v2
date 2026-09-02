@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "93.02.07.2001",
+      "name": "Kombut",
+      "postal_code": "99662"
+    },
+    {
+      "id": "93.02.07.2002",
+      "name": "Moukbiran",
+      "postal_code": "99662"
+    },
+    {
+      "id": "93.02.07.2003",
+      "name": "Kawangtet",
+      "postal_code": "99662"
+    },
+    {
+      "id": "93.02.07.2004",
+      "name": "Amuan",
+      "postal_code": "99662"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

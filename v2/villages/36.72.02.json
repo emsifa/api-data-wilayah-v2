@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "36.72.02.1001",
+      "name": "Bagendung",
+      "postal_code": "42419"
+    },
+    {
+      "id": "36.72.02.1002",
+      "name": "Ciwedus",
+      "postal_code": "42418"
+    },
+    {
+      "id": "36.72.02.1003",
+      "name": "Bendungan",
+      "postal_code": "42417"
+    },
+    {
+      "id": "36.72.02.1004",
+      "name": "Ketileng",
+      "postal_code": "42416"
+    },
+    {
+      "id": "36.72.02.1005",
+      "name": "Ciwaduk",
+      "postal_code": "42415"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

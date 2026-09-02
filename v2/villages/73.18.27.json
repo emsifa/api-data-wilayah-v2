@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "73.18.27.1001",
+      "name": "Tambunan",
+      "postal_code": "91817"
+    },
+    {
+      "id": "73.18.27.1002",
+      "name": "Sarira",
+      "postal_code": "91817"
+    },
+    {
+      "id": "73.18.27.1003",
+      "name": "Bungin",
+      "postal_code": "91812"
+    },
+    {
+      "id": "73.18.27.1004",
+      "name": "Lion Tondok Iring",
+      "postal_code": "91817"
+    },
+    {
+      "id": "73.18.27.1005",
+      "name": "Lemo",
+      "postal_code": "91817"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

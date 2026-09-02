@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "35.21.10.2001",
+      "name": "Gentong",
+      "postal_code": "63253"
+    },
+    {
+      "id": "35.21.10.2002",
+      "name": "Babadan",
+      "postal_code": "63253"
+    },
+    {
+      "id": "35.21.10.2003",
+      "name": "Semen",
+      "postal_code": "63253"
+    },
+    {
+      "id": "35.21.10.2004",
+      "name": "Kedungputri",
+      "postal_code": "63253"
+    },
+    {
+      "id": "35.21.10.2005",
+      "name": "Tempuran",
+      "postal_code": "63253"
+    },
+    {
+      "id": "35.21.10.2006",
+      "name": "Dawu",
+      "postal_code": "63253"
+    },
+    {
+      "id": "35.21.10.2007",
+      "name": "Paron",
+      "postal_code": "63253"
+    },
+    {
+      "id": "35.21.10.2008",
+      "name": "Jambangan",
+      "postal_code": "63253"
+    },
+    {
+      "id": "35.21.10.2009",
+      "name": "Teguhan",
+      "postal_code": "63253"
+    },
+    {
+      "id": "35.21.10.2010",
+      "name": "Sirigan",
+      "postal_code": "63253"
+    },
+    {
+      "id": "35.21.10.2011",
+      "name": "Jeblogan",
+      "postal_code": "63253"
+    },
+    {
+      "id": "35.21.10.2012",
+      "name": "Ngale",
+      "postal_code": "63253"
+    },
+    {
+      "id": "35.21.10.2013",
+      "name": "Gelung",
+      "postal_code": "63253"
+    },
+    {
+      "id": "35.21.10.2014",
+      "name": "Kebon",
+      "postal_code": "63253"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

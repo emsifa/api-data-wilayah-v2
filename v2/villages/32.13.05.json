@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.13.05.2001",
+      "name": "Cihambulu",
+      "postal_code": "41262"
+    },
+    {
+      "id": "32.13.05.2002",
+      "name": "Siluman",
+      "postal_code": "41262"
+    },
+    {
+      "id": "32.13.05.2003",
+      "name": "Pringkasap",
+      "postal_code": "41262"
+    },
+    {
+      "id": "32.13.05.2004",
+      "name": "Pabuaran",
+      "postal_code": "41262"
+    },
+    {
+      "id": "32.13.05.2005",
+      "name": "Karanghegar",
+      "postal_code": "41262"
+    },
+    {
+      "id": "32.13.05.2006",
+      "name": "Salamjaya",
+      "postal_code": "41262"
+    },
+    {
+      "id": "32.13.05.2007",
+      "name": "Kadawung",
+      "postal_code": "41262"
+    },
+    {
+      "id": "32.13.05.2008",
+      "name": "Balebandung Jaya",
+      "postal_code": "41262"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

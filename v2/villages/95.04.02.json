@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "95.04.02.1001",
+      "name": "Bokondini",
+      "postal_code": "99012"
+    },
+    {
+      "id": "95.04.02.2002",
+      "name": "Mairini",
+      "postal_code": "99412"
+    },
+    {
+      "id": "95.04.02.2003",
+      "name": "Apiam",
+      "postal_code": "99412"
+    },
+    {
+      "id": "95.04.02.2004",
+      "name": "Umaga",
+      "postal_code": "99412"
+    },
+    {
+      "id": "95.04.02.2005",
+      "name": "Galala",
+      "postal_code": "99412"
+    },
+    {
+      "id": "95.04.02.2006",
+      "name": "Mingganggo",
+      "postal_code": "99012"
+    },
+    {
+      "id": "95.04.02.2007",
+      "name": "Tenggagama",
+      "postal_code": "99012"
+    },
+    {
+      "id": "95.04.02.2008",
+      "name": "Kologume",
+      "postal_code": "99012"
+    },
+    {
+      "id": "95.04.02.2009",
+      "name": "Lambogo",
+      "postal_code": "99412"
+    },
+    {
+      "id": "95.04.02.2010",
+      "name": "Jawalane",
+      "postal_code": "99412"
+    },
+    {
+      "id": "95.04.02.2011",
+      "name": "Dunduma",
+      "postal_code": "99412"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

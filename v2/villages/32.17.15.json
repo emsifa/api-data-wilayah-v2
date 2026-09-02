@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.17.15.2001",
+      "name": "Sirnajaya",
+      "postal_code": "40565"
+    },
+    {
+      "id": "32.17.15.2002",
+      "name": "Gununghalu",
+      "postal_code": "40565"
+    },
+    {
+      "id": "32.17.15.2003",
+      "name": "Bunijaya",
+      "postal_code": "40565"
+    },
+    {
+      "id": "32.17.15.2004",
+      "name": "Celak",
+      "postal_code": "40565"
+    },
+    {
+      "id": "32.17.15.2005",
+      "name": "Cilangari",
+      "postal_code": "40565"
+    },
+    {
+      "id": "32.17.15.2006",
+      "name": "Sindangjaya",
+      "postal_code": "40565"
+    },
+    {
+      "id": "32.17.15.2007",
+      "name": "Sukasari",
+      "postal_code": "40565"
+    },
+    {
+      "id": "32.17.15.2008",
+      "name": "Tamanjaya",
+      "postal_code": "40565"
+    },
+    {
+      "id": "32.17.15.2009",
+      "name": "Wargasaluyu",
+      "postal_code": "40565"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

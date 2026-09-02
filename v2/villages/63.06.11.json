@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "63.06.11.2001",
+      "name": "Siang Gantung",
+      "postal_code": "71252"
+    },
+    {
+      "id": "63.06.11.2002",
+      "name": "Baru",
+      "postal_code": "71252"
+    },
+    {
+      "id": "63.06.11.2003",
+      "name": "Tanjung Selor",
+      "postal_code": "71252"
+    },
+    {
+      "id": "63.06.11.2004",
+      "name": "Badaun",
+      "postal_code": "71252"
+    },
+    {
+      "id": "63.06.11.2005",
+      "name": "Bajayau",
+      "postal_code": "71252"
+    },
+    {
+      "id": "63.06.11.2006",
+      "name": "Bajayau Tengah",
+      "postal_code": "71252"
+    },
+    {
+      "id": "63.06.11.2007",
+      "name": "Bajayau Lama",
+      "postal_code": "71252"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

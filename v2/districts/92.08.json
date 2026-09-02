@@ -1,18 +1,36 @@
 {
-  "data": {
-    "id": "92.08",
-    "name": "Kabupaten Kaimana",
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
+  "data": [
+    {
+      "id": "92.08.01",
+      "name": "Kaimana"
     },
-    "regency": {
-      "id": "92.08",
-      "name": "Kabupaten Kaimana"
+    {
+      "id": "92.08.02",
+      "name": "Buruway"
+    },
+    {
+      "id": "92.08.03",
+      "name": "Teluk Arguni Atas"
+    },
+    {
+      "id": "92.08.04",
+      "name": "Teluk Etna"
+    },
+    {
+      "id": "92.08.05",
+      "name": "Kambrau"
+    },
+    {
+      "id": "92.08.06",
+      "name": "Teluk Arguni Bawah"
+    },
+    {
+      "id": "92.08.07",
+      "name": "Yamor"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

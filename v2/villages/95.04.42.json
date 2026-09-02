@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.04.42.2001",
+      "name": "Wuluk",
+      "postal_code": "99041"
+    },
+    {
+      "id": "95.04.42.2002",
+      "name": "Wenggun",
+      "postal_code": "99041"
+    },
+    {
+      "id": "95.04.42.2003",
+      "name": "Posman",
+      "postal_code": "99041"
+    },
+    {
+      "id": "95.04.42.2004",
+      "name": "Tiyonggi",
+      "postal_code": "99041"
+    },
+    {
+      "id": "95.04.42.2005",
+      "name": "Yelly",
+      "postal_code": "99041"
+    },
+    {
+      "id": "95.04.42.2006",
+      "name": "Agin",
+      "postal_code": "99041"
+    },
+    {
+      "id": "95.04.42.2007",
+      "name": "Kogagi",
+      "postal_code": "99041"
+    },
+    {
+      "id": "95.04.42.2008",
+      "name": "Yebena",
+      "postal_code": "99041"
+    },
+    {
+      "id": "95.04.42.2009",
+      "name": "Wamigi",
+      "postal_code": "99041"
+    },
+    {
+      "id": "95.04.42.2010",
+      "name": "Kolanggun",
+      "postal_code": "99041"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

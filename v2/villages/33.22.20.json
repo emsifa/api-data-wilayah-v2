@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "33.22.20.1011",
+      "name": "Bandungan",
+      "postal_code": "50614"
+    },
+    {
+      "id": "33.22.20.2001",
+      "name": "Mlilir",
+      "postal_code": "50614"
+    },
+    {
+      "id": "33.22.20.2002",
+      "name": "Duren",
+      "postal_code": "50614"
+    },
+    {
+      "id": "33.22.20.2003",
+      "name": "Jetis",
+      "postal_code": "50614"
+    },
+    {
+      "id": "33.22.20.2004",
+      "name": "Kenteng",
+      "postal_code": "50614"
+    },
+    {
+      "id": "33.22.20.2005",
+      "name": "Candi",
+      "postal_code": "50614"
+    },
+    {
+      "id": "33.22.20.2006",
+      "name": "Jimbaran",
+      "postal_code": "50661"
+    },
+    {
+      "id": "33.22.20.2007",
+      "name": "Pakopen",
+      "postal_code": "50661"
+    },
+    {
+      "id": "33.22.20.2008",
+      "name": "Sidomukti",
+      "postal_code": "50661"
+    },
+    {
+      "id": "33.22.20.2009",
+      "name": "Banyukuning",
+      "postal_code": "50663"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

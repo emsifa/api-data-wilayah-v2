@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "16.72.04.1002",
+      "name": "Lubuk Buntak",
+      "postal_code": "31521"
+    },
+    {
+      "id": "16.72.04.1018",
+      "name": "Prahu Dipo",
+      "postal_code": "31521"
+    },
+    {
+      "id": "16.72.04.1020",
+      "name": "Kance Diwe",
+      "postal_code": "31521"
+    },
+    {
+      "id": "16.72.04.1021",
+      "name": "Atung Bungsu",
+      "postal_code": "31521"
+    },
+    {
+      "id": "16.72.04.1022",
+      "name": "Penjalang",
+      "postal_code": "31521"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

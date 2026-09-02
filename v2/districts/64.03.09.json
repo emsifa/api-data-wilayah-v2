@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "64.03.09",
+    "name": "Teluk Bayur",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.03",
+      "name": "Kabupaten Berau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "63.71.02",
+    "name": "Banjarmasin Timur",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.71",
+      "name": "Kota Banjarmasin"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

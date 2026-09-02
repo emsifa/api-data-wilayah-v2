@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "16.09.07.2001",
+      "name": "Sugih Rawas",
+      "postal_code": "32278"
+    },
+    {
+      "id": "16.09.07.2002",
+      "name": "Padang Sari",
+      "postal_code": "32278"
+    },
+    {
+      "id": "16.09.07.2003",
+      "name": "Padang Bindu",
+      "postal_code": "32278"
+    },
+    {
+      "id": "16.09.07.2005",
+      "name": "Saung Naga",
+      "postal_code": "32278"
+    },
+    {
+      "id": "16.09.07.2006",
+      "name": "Negeri Batin Baru",
+      "postal_code": "32278"
+    },
+    {
+      "id": "16.09.07.2007",
+      "name": "Kota Aman",
+      "postal_code": "32278"
+    },
+    {
+      "id": "16.09.07.2008",
+      "name": "Belambangan",
+      "postal_code": "32278"
+    },
+    {
+      "id": "16.09.07.2009",
+      "name": "Paninjauan",
+      "postal_code": "32278"
+    },
+    {
+      "id": "16.09.07.2018",
+      "name": "Nagar Agung",
+      "postal_code": "32278"
+    },
+    {
+      "id": "16.09.07.2019",
+      "name": "Simpang Saga",
+      "postal_code": "32278"
+    },
+    {
+      "id": "16.09.07.2020",
+      "name": "Perupus Blambangan",
+      "postal_code": "32278"
+    },
+    {
+      "id": "16.09.07.2021",
+      "name": "Kagelang Blambangan",
+      "postal_code": "32278"
+    },
+    {
+      "id": "16.09.07.2022",
+      "name": "Sukajadi Blambangan",
+      "postal_code": "32278"
+    },
+    {
+      "id": "16.09.07.2023",
+      "name": "Bedeng Blambangan",
+      "postal_code": "32278"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

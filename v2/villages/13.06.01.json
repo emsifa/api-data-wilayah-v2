@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "13.06.01.2001",
+      "name": "Tiku Selatan",
+      "postal_code": "26473"
+    },
+    {
+      "id": "13.06.01.2002",
+      "name": "Tiku Utara",
+      "postal_code": "26473"
+    },
+    {
+      "id": "13.06.01.2003",
+      "name": "Tiku Limo Jorong",
+      "postal_code": "26473"
+    },
+    {
+      "id": "13.06.01.2004",
+      "name": "Durian Kapeh Darussalam",
+      "postal_code": "26473"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": "62.01.02.1002",
+      "name": "Mendawai Seberang",
+      "postal_code": "74117"
+    },
+    {
+      "id": "62.01.02.1003",
+      "name": "Mendawai",
+      "postal_code": "74115"
+    },
+    {
+      "id": "62.01.02.1005",
+      "name": "Madurejo",
+      "postal_code": "74112"
+    },
+    {
+      "id": "62.01.02.1006",
+      "name": "Sidorejo",
+      "postal_code": "74111"
+    },
+    {
+      "id": "62.01.02.1007",
+      "name": "Raja",
+      "postal_code": "74114"
+    },
+    {
+      "id": "62.01.02.1008",
+      "name": "Raja Seberang",
+      "postal_code": "74116"
+    },
+    {
+      "id": "62.01.02.1009",
+      "name": "Baru",
+      "postal_code": "74113"
+    },
+    {
+      "id": "62.01.02.2001",
+      "name": "Tanjung Putri",
+      "postal_code": "74117"
+    },
+    {
+      "id": "62.01.02.2004",
+      "name": "Pasir Panjang",
+      "postal_code": "74117"
+    },
+    {
+      "id": "62.01.02.2010",
+      "name": "Rangda",
+      "postal_code": "74117"
+    },
+    {
+      "id": "62.01.02.2011",
+      "name": "Kenambui",
+      "postal_code": "74117"
+    },
+    {
+      "id": "62.01.02.2012",
+      "name": "Runtu",
+      "postal_code": "74117"
+    },
+    {
+      "id": "62.01.02.2013",
+      "name": "Umpang",
+      "postal_code": "74117"
+    },
+    {
+      "id": "62.01.02.2014",
+      "name": "Kumpai Batu Bawah",
+      "postal_code": "74117"
+    },
+    {
+      "id": "62.01.02.2015",
+      "name": "Kumpai Batu Atas",
+      "postal_code": "74117"
+    },
+    {
+      "id": "62.01.02.2016",
+      "name": "Natai Raya",
+      "postal_code": "74117"
+    },
+    {
+      "id": "62.01.02.2017",
+      "name": "Medang Sari",
+      "postal_code": "74117"
+    },
+    {
+      "id": "62.01.02.2018",
+      "name": "Natai Baru",
+      "postal_code": "74117"
+    },
+    {
+      "id": "62.01.02.2019",
+      "name": "Tanjung Terantang",
+      "postal_code": "74117"
+    },
+    {
+      "id": "62.01.02.2020",
+      "name": "Sulung",
+      "postal_code": "74117"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

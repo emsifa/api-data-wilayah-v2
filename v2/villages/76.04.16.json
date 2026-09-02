@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "76.04.16.2001",
+      "name": "Bulo",
+      "postal_code": "91353"
+    },
+    {
+      "id": "76.04.16.2002",
+      "name": "Pulliwa",
+      "postal_code": "91353"
+    },
+    {
+      "id": "76.04.16.2003",
+      "name": "Patambanua",
+      "postal_code": "91353"
+    },
+    {
+      "id": "76.04.16.2004",
+      "name": "Karombang",
+      "postal_code": "91353"
+    },
+    {
+      "id": "76.04.16.2005",
+      "name": "Daala Timur",
+      "postal_code": "91353"
+    },
+    {
+      "id": "76.04.16.2006",
+      "name": "Lenggo",
+      "postal_code": "91353"
+    },
+    {
+      "id": "76.04.16.2007",
+      "name": "Sabura",
+      "postal_code": "91353"
+    },
+    {
+      "id": "76.04.16.2008",
+      "name": "Sepporakki",
+      "postal_code": "91353"
+    },
+    {
+      "id": "76.04.16.2009",
+      "name": "Ihing",
+      "postal_code": "91353"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

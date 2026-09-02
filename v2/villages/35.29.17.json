@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "35.29.17.2001",
+      "name": "Aengmerah",
+      "postal_code": "69453"
+    },
+    {
+      "id": "35.29.17.2002",
+      "name": "Tengedan",
+      "postal_code": "69453"
+    },
+    {
+      "id": "35.29.17.2003",
+      "name": "Juruan Laok",
+      "postal_code": "69453"
+    },
+    {
+      "id": "35.29.17.2004",
+      "name": "Juruan Daya",
+      "postal_code": "69453"
+    },
+    {
+      "id": "35.29.17.2005",
+      "name": "Badur",
+      "postal_code": "69453"
+    },
+    {
+      "id": "35.29.17.2006",
+      "name": "Gedang-Gedang",
+      "postal_code": "69453"
+    },
+    {
+      "id": "35.29.17.2007",
+      "name": "Batuputih Kenek",
+      "postal_code": "69453"
+    },
+    {
+      "id": "35.29.17.2008",
+      "name": "Batuputih Laok",
+      "postal_code": "69453"
+    },
+    {
+      "id": "35.29.17.2009",
+      "name": "Batuputih Daya",
+      "postal_code": "69453"
+    },
+    {
+      "id": "35.29.17.2010",
+      "name": "Bantelan",
+      "postal_code": "69453"
+    },
+    {
+      "id": "35.29.17.2011",
+      "name": "Larangan Barma",
+      "postal_code": "69453"
+    },
+    {
+      "id": "35.29.17.2012",
+      "name": "Larangan Kerta",
+      "postal_code": "69453"
+    },
+    {
+      "id": "35.29.17.2013",
+      "name": "Bulla'an",
+      "postal_code": "69453"
+    },
+    {
+      "id": "35.29.17.2014",
+      "name": "Sergang",
+      "postal_code": "69453"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

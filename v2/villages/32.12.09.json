@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.12.09.2001",
+      "name": "Purwajaya",
+      "postal_code": "45284"
+    },
+    {
+      "id": "32.12.09.2002",
+      "name": "Kapringan",
+      "postal_code": "45284"
+    },
+    {
+      "id": "32.12.09.2003",
+      "name": "Singakerta",
+      "postal_code": "45284"
+    },
+    {
+      "id": "32.12.09.2004",
+      "name": "Dukuhjati",
+      "postal_code": "45284"
+    },
+    {
+      "id": "32.12.09.2005",
+      "name": "Tegalmulya",
+      "postal_code": "45284"
+    },
+    {
+      "id": "32.12.09.2006",
+      "name": "Kedungwungu",
+      "postal_code": "45284"
+    },
+    {
+      "id": "32.12.09.2007",
+      "name": "Srengseng",
+      "postal_code": "45284"
+    },
+    {
+      "id": "32.12.09.2008",
+      "name": "Luwunggesik",
+      "postal_code": "45284"
+    },
+    {
+      "id": "32.12.09.2009",
+      "name": "Kalianyar",
+      "postal_code": "45284"
+    },
+    {
+      "id": "32.12.09.2010",
+      "name": "Krangkeng",
+      "postal_code": "45284"
+    },
+    {
+      "id": "32.12.09.2011",
+      "name": "Tanjakan",
+      "postal_code": "45284"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

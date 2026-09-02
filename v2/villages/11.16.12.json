@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "11.16.12.2001",
+      "name": "Bandar Mahligai",
+      "postal_code": "24476"
+    },
+    {
+      "id": "11.16.12.2002",
+      "name": "Sekerak Kiri",
+      "postal_code": "24476"
+    },
+    {
+      "id": "11.16.12.2003",
+      "name": "Pantai Tinjau",
+      "postal_code": "24476"
+    },
+    {
+      "id": "11.16.12.2004",
+      "name": "Pantai Perlak",
+      "postal_code": "24476"
+    },
+    {
+      "id": "11.16.12.2005",
+      "name": "Kebun Batang Ara",
+      "postal_code": "24476"
+    },
+    {
+      "id": "11.16.12.2006",
+      "name": "Sekerak Kanan",
+      "postal_code": "24476"
+    },
+    {
+      "id": "11.16.12.2007",
+      "name": "Lubuk Sidup",
+      "postal_code": "24476"
+    },
+    {
+      "id": "11.16.12.2008",
+      "name": "Sekumur",
+      "postal_code": "24476"
+    },
+    {
+      "id": "11.16.12.2009",
+      "name": "Tanjung Gelumpang",
+      "postal_code": "24476"
+    },
+    {
+      "id": "11.16.12.2010",
+      "name": "Pematang Durian",
+      "postal_code": "24476"
+    },
+    {
+      "id": "11.16.12.2011",
+      "name": "Juar",
+      "postal_code": "24476"
+    },
+    {
+      "id": "11.16.12.2012",
+      "name": "Sulum",
+      "postal_code": "24476"
+    },
+    {
+      "id": "11.16.12.2013",
+      "name": "Suka Makmur",
+      "postal_code": "24476"
+    },
+    {
+      "id": "11.16.12.2014",
+      "name": "Baling Karang",
+      "postal_code": "24476"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "19.04",
+    "name": "Kabupaten Bangka Tengah",
+    "capital": "Koba",
+    "lat": -2.515349261743928,
+    "lng": 106.41589404069474,
+    "elv": 20,
+    "tz": 7,
+    "population": 210684,
+    "total_area": 2253.854,
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

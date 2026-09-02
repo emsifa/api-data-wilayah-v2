@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "35.06.05.2001",
+      "name": "Sumberejo",
+      "postal_code": "64173"
+    },
+    {
+      "id": "35.06.05.2002",
+      "name": "Selosari",
+      "postal_code": "64173"
+    },
+    {
+      "id": "35.06.05.2003",
+      "name": "Karangrejo",
+      "postal_code": "64173"
+    },
+    {
+      "id": "35.06.05.2004",
+      "name": "Kandat",
+      "postal_code": "64173"
+    },
+    {
+      "id": "35.06.05.2005",
+      "name": "Cendono",
+      "postal_code": "64173"
+    },
+    {
+      "id": "35.06.05.2006",
+      "name": "Ringinsari",
+      "postal_code": "64173"
+    },
+    {
+      "id": "35.06.05.2007",
+      "name": "Tegalan",
+      "postal_code": "64173"
+    },
+    {
+      "id": "35.06.05.2008",
+      "name": "Ngletih",
+      "postal_code": "64137"
+    },
+    {
+      "id": "35.06.05.2009",
+      "name": "Purworejo",
+      "postal_code": "64173"
+    },
+    {
+      "id": "35.06.05.2010",
+      "name": "Pule",
+      "postal_code": "64173"
+    },
+    {
+      "id": "35.06.05.2011",
+      "name": "Blabak",
+      "postal_code": "64173"
+    },
+    {
+      "id": "35.06.05.2012",
+      "name": "Ngreco",
+      "postal_code": "64173"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "62.02.06.1001",
+      "name": "Mentawa Baru Hulu",
+      "postal_code": "74322"
+    },
+    {
+      "id": "62.02.06.1002",
+      "name": "Mentawa Baru Hilir",
+      "postal_code": "74323"
+    },
+    {
+      "id": "62.02.06.1003",
+      "name": "Ketapang",
+      "postal_code": "74325"
+    },
+    {
+      "id": "62.02.06.1007",
+      "name": "Sawahan",
+      "postal_code": "74321"
+    },
+    {
+      "id": "62.02.06.1009",
+      "name": "Pasir Putih",
+      "postal_code": "74322"
+    },
+    {
+      "id": "62.02.06.2005",
+      "name": "Pelangsian",
+      "postal_code": "74326"
+    },
+    {
+      "id": "62.02.06.2006",
+      "name": "Bapeang",
+      "postal_code": "74326"
+    },
+    {
+      "id": "62.02.06.2008",
+      "name": "Eka Bahurui",
+      "postal_code": "74326"
+    },
+    {
+      "id": "62.02.06.2010",
+      "name": "Telaga baru",
+      "postal_code": "74326"
+    },
+    {
+      "id": "62.02.06.2011",
+      "name": "Bangkuang Makmur",
+      "postal_code": "74326"
+    },
+    {
+      "id": "62.02.06.2012",
+      "name": "Bapanggang Raya",
+      "postal_code": "74326"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

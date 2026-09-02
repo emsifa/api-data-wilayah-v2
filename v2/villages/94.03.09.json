@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "94.03.09.2001",
+      "name": "Wotai",
+      "postal_code": "98726"
+    },
+    {
+      "id": "94.03.09.2002",
+      "name": "Keniapa",
+      "postal_code": "98726"
+    },
+    {
+      "id": "94.03.09.2003",
+      "name": "Memiyaibutu",
+      "postal_code": "98726"
+    },
+    {
+      "id": "94.03.09.2004",
+      "name": "Dimiya",
+      "postal_code": "98726"
+    },
+    {
+      "id": "94.03.09.2005",
+      "name": "Udaugi",
+      "postal_code": "98726"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

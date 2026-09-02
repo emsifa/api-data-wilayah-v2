@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "34.04.13.2001",
+      "name": "Caturharjo",
+      "postal_code": "55515"
+    },
+    {
+      "id": "34.04.13.2002",
+      "name": "Triharjo",
+      "postal_code": "55514"
+    },
+    {
+      "id": "34.04.13.2003",
+      "name": "Tridadi",
+      "postal_code": "55511"
+    },
+    {
+      "id": "34.04.13.2004",
+      "name": "Pandowoharjo",
+      "postal_code": "55512"
+    },
+    {
+      "id": "34.04.13.2005",
+      "name": "Trimulyo",
+      "postal_code": "55513"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

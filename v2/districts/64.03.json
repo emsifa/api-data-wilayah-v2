@@ -1,18 +1,60 @@
 {
-  "data": {
-    "id": "64.03",
-    "name": "Kabupaten Berau",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
+  "data": [
+    {
+      "id": "64.03.01",
+      "name": "Kelay"
     },
-    "regency": {
-      "id": "64.03",
-      "name": "Kabupaten Berau"
+    {
+      "id": "64.03.02",
+      "name": "Talisayan"
+    },
+    {
+      "id": "64.03.03",
+      "name": "Sambaliung"
+    },
+    {
+      "id": "64.03.04",
+      "name": "Segah"
+    },
+    {
+      "id": "64.03.05",
+      "name": "Tanjung Redeb"
+    },
+    {
+      "id": "64.03.06",
+      "name": "Gunung Tabur"
+    },
+    {
+      "id": "64.03.07",
+      "name": "Pulau Derawan"
+    },
+    {
+      "id": "64.03.08",
+      "name": "Biduk-Biduk"
+    },
+    {
+      "id": "64.03.09",
+      "name": "Teluk Bayur"
+    },
+    {
+      "id": "64.03.10",
+      "name": "Tabalar"
+    },
+    {
+      "id": "64.03.11",
+      "name": "Maratua"
+    },
+    {
+      "id": "64.03.12",
+      "name": "Batu Putih"
+    },
+    {
+      "id": "64.03.13",
+      "name": "Biatan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "95.03.40.2001",
+      "name": "Bomela",
+      "postal_code": "99731"
+    },
+    {
+      "id": "95.03.40.2002",
+      "name": "Yalmabi",
+      "postal_code": "99731"
+    },
+    {
+      "id": "95.03.40.2003",
+      "name": "Kitikni",
+      "postal_code": "99731"
+    },
+    {
+      "id": "95.03.40.2004",
+      "name": "Sombat",
+      "postal_code": "99731"
+    },
+    {
+      "id": "95.03.40.2005",
+      "name": "Kubialat",
+      "postal_code": "99731"
+    },
+    {
+      "id": "95.03.40.2006",
+      "name": "Palamdua",
+      "postal_code": "99731"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

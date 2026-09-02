@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.79.03.1001",
+      "name": "Purwaharja",
+      "postal_code": "46331"
+    },
+    {
+      "id": "32.79.03.1004",
+      "name": "Karangpanimbal",
+      "postal_code": "46332"
+    },
+    {
+      "id": "32.79.03.2002",
+      "name": "Raharja",
+      "postal_code": "46333"
+    },
+    {
+      "id": "32.79.03.2003",
+      "name": "Mekarharja",
+      "postal_code": "46334"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

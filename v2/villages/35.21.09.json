@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "35.21.09.1013",
+      "name": "Margomulyo",
+      "postal_code": "63217"
+    },
+    {
+      "id": "35.21.09.1014",
+      "name": "Karangtengah",
+      "postal_code": "63218"
+    },
+    {
+      "id": "35.21.09.1015",
+      "name": "Ketanggi",
+      "postal_code": "63211"
+    },
+    {
+      "id": "35.21.09.1016",
+      "name": "Pelem",
+      "postal_code": "63212"
+    },
+    {
+      "id": "35.21.09.2001",
+      "name": "Mangunharjo",
+      "postal_code": "63218"
+    },
+    {
+      "id": "35.21.09.2002",
+      "name": "Kandangan",
+      "postal_code": "63218"
+    },
+    {
+      "id": "35.21.09.2003",
+      "name": "Kartoharjo",
+      "postal_code": "63218"
+    },
+    {
+      "id": "35.21.09.2004",
+      "name": "Karangasri",
+      "postal_code": "63218"
+    },
+    {
+      "id": "35.21.09.2005",
+      "name": "Banyuurip",
+      "postal_code": "63218"
+    },
+    {
+      "id": "35.21.09.2006",
+      "name": "Beran",
+      "postal_code": "63216"
+    },
+    {
+      "id": "35.21.09.2007",
+      "name": "Jururejo",
+      "postal_code": "63215"
+    },
+    {
+      "id": "35.21.09.2008",
+      "name": "Grudo",
+      "postal_code": "63214"
+    },
+    {
+      "id": "35.21.09.2009",
+      "name": "Watualang",
+      "postal_code": "63218"
+    },
+    {
+      "id": "35.21.09.2010",
+      "name": "Ngawi",
+      "postal_code": "63218"
+    },
+    {
+      "id": "35.21.09.2011",
+      "name": "Karangtengah Prandon",
+      "postal_code": "63218"
+    },
+    {
+      "id": "35.21.09.2012",
+      "name": "Kerek",
+      "postal_code": "63218"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

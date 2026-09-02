@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "12.71",
+    "name": "Kota Medan",
+    "capital": "Medan",
+    "lat": 3.5902455275064686,
+    "lng": 98.67497243281954,
+    "elv": 24,
+    "tz": 7,
+    "population": 2546452,
+    "total_area": 279.239,
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "53.11.01.1001",
+      "name": "Kambajawa",
+      "postal_code": "87116"
+    },
+    {
+      "id": "53.11.01.1002",
+      "name": "Hambala",
+      "postal_code": "87112"
+    },
+    {
+      "id": "53.11.01.1003",
+      "name": "Matawai",
+      "postal_code": "87116"
+    },
+    {
+      "id": "53.11.01.1004",
+      "name": "Kamalaputi",
+      "postal_code": "87111"
+    },
+    {
+      "id": "53.11.01.2012",
+      "name": "Lukukamaru",
+      "postal_code": "87116"
+    },
+    {
+      "id": "53.11.01.2013",
+      "name": "Mbatakapidu",
+      "postal_code": "87116"
+    },
+    {
+      "id": "53.11.01.2014",
+      "name": "Pambotandjara",
+      "postal_code": "87116"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

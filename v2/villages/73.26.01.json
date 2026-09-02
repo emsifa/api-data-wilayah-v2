@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "73.26.01.1001",
+      "name": "Laang Tanduk",
+      "postal_code": "91834"
+    },
+    {
+      "id": "73.26.01.1002",
+      "name": "Rantepao",
+      "postal_code": "91831"
+    },
+    {
+      "id": "73.26.01.1003",
+      "name": "Mentirotiku",
+      "postal_code": "91834"
+    },
+    {
+      "id": "73.26.01.1004",
+      "name": "Manggalo",
+      "postal_code": "91831"
+    },
+    {
+      "id": "73.26.01.1005",
+      "name": "Pasale",
+      "postal_code": "91831"
+    },
+    {
+      "id": "73.26.01.1006",
+      "name": "Singki'",
+      "postal_code": "91835"
+    },
+    {
+      "id": "73.26.01.1007",
+      "name": "Karassik",
+      "postal_code": "91835"
+    },
+    {
+      "id": "73.26.01.1008",
+      "name": "Penanian",
+      "postal_code": "91835"
+    },
+    {
+      "id": "73.26.01.1009",
+      "name": "Rante Pasele",
+      "postal_code": "91835"
+    },
+    {
+      "id": "73.26.01.2010",
+      "name": "Limbong",
+      "postal_code": "91835"
+    },
+    {
+      "id": "73.26.01.2011",
+      "name": "Saloso",
+      "postal_code": "91835"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

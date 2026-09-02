@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "61.09",
+    "name": "Kabupaten Sekadau",
+    "capital": "Sekadau",
+    "lat": 0.007190078560764424,
+    "lng": 110.95471874069129,
+    "elv": 30,
+    "tz": 7,
+    "population": 225494,
+    "total_area": 5979.044,
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

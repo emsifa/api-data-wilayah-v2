@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "11.04.19.2001",
+      "name": "Merah Said",
+      "postal_code": "24564"
+    },
+    {
+      "id": "11.04.19.2002",
+      "name": "Berawang Dewal",
+      "postal_code": "24564"
+    },
+    {
+      "id": "11.04.19.2003",
+      "name": "Gegarang",
+      "postal_code": "24564"
+    },
+    {
+      "id": "11.04.19.2004",
+      "name": "Telege Sari",
+      "postal_code": "24564"
+    },
+    {
+      "id": "11.04.19.2005",
+      "name": "Jeget Ayu",
+      "postal_code": "24564"
+    },
+    {
+      "id": "11.04.19.2006",
+      "name": "Paya Tungel",
+      "postal_code": "24564"
+    },
+    {
+      "id": "11.04.19.2007",
+      "name": "Jagong Jeget",
+      "postal_code": "24564"
+    },
+    {
+      "id": "11.04.19.2008",
+      "name": "Bukit Sari",
+      "postal_code": "24564"
+    },
+    {
+      "id": "11.04.19.2009",
+      "name": "Bukit Kemuning",
+      "postal_code": "24564"
+    },
+    {
+      "id": "11.04.19.2010",
+      "name": "Paya Dedep",
+      "postal_code": "24564"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

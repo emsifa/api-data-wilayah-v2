@@ -1,18 +1,52 @@
 {
-  "data": {
-    "id": "76.02",
-    "name": "Kabupaten Mamuju",
-    "province": {
-      "id": "76",
-      "name": "Sulawesi Barat"
+  "data": [
+    {
+      "id": "76.02.01",
+      "name": "Mamuju"
     },
-    "regency": {
-      "id": "76.02",
-      "name": "Kabupaten Mamuju"
+    {
+      "id": "76.02.02",
+      "name": "Tapalang"
+    },
+    {
+      "id": "76.02.03",
+      "name": "Kalukku"
+    },
+    {
+      "id": "76.02.04",
+      "name": "Kalumpang"
+    },
+    {
+      "id": "76.02.07",
+      "name": "Papalang"
+    },
+    {
+      "id": "76.02.08",
+      "name": "Sampaga"
+    },
+    {
+      "id": "76.02.11",
+      "name": "Tommo"
+    },
+    {
+      "id": "76.02.12",
+      "name": "Simboro"
+    },
+    {
+      "id": "76.02.13",
+      "name": "Tapalang Barat"
+    },
+    {
+      "id": "76.02.15",
+      "name": "Bonehau"
+    },
+    {
+      "id": "76.02.16",
+      "name": "Kepulauan Bala Balakang"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

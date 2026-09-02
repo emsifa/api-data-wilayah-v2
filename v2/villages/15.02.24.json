@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "15.02.24.2001",
+      "name": "Sekancing",
+      "postal_code": "37371"
+    },
+    {
+      "id": "15.02.24.2002",
+      "name": "Sekancing Ilir",
+      "postal_code": "37371"
+    },
+    {
+      "id": "15.02.24.2003",
+      "name": "Beringin Sanggul",
+      "postal_code": "37371"
+    },
+    {
+      "id": "15.02.24.2004",
+      "name": "Baru Bukit Punjung",
+      "postal_code": "37371"
+    },
+    {
+      "id": "15.02.24.2005",
+      "name": "Rantau Limau Kapas",
+      "postal_code": "37353"
+    },
+    {
+      "id": "15.02.24.2006",
+      "name": "Baru Sungai Sakai",
+      "postal_code": "37371"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

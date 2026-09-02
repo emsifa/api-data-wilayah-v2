@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "35.11.11.1004",
+      "name": "Nangkaan",
+      "postal_code": "68215"
+    },
+    {
+      "id": "35.11.11.1005",
+      "name": "Tamansari",
+      "postal_code": "68216"
+    },
+    {
+      "id": "35.11.11.1006",
+      "name": "Kademangan",
+      "postal_code": "68217"
+    },
+    {
+      "id": "35.11.11.1007",
+      "name": "Dabasah",
+      "postal_code": "68211"
+    },
+    {
+      "id": "35.11.11.1008",
+      "name": "Badean",
+      "postal_code": "68214"
+    },
+    {
+      "id": "35.11.11.1009",
+      "name": "Kotakulon",
+      "postal_code": "68213"
+    },
+    {
+      "id": "35.11.11.1010",
+      "name": "Blindungan",
+      "postal_code": "68212"
+    },
+    {
+      "id": "35.11.11.2001",
+      "name": "Pancoran",
+      "postal_code": "68219"
+    },
+    {
+      "id": "35.11.11.2002",
+      "name": "Sukowiryo",
+      "postal_code": "68219"
+    },
+    {
+      "id": "35.11.11.2003",
+      "name": "Kembang",
+      "postal_code": "68219"
+    },
+    {
+      "id": "35.11.11.2011",
+      "name": "Pejaten",
+      "postal_code": "68218"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

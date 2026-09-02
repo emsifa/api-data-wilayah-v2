@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "18.71.07.1001",
+      "name": "Pesawahan",
+      "postal_code": "35223"
+    },
+    {
+      "id": "18.71.07.1002",
+      "name": "Telukbetung",
+      "postal_code": "35221"
+    },
+    {
+      "id": "18.71.07.1008",
+      "name": "Talang",
+      "postal_code": "35229"
+    },
+    {
+      "id": "18.71.07.1009",
+      "name": "Gedong Pakuon",
+      "postal_code": "35222"
+    },
+    {
+      "id": "18.71.07.1012",
+      "name": "Sumur Putri",
+      "postal_code": "35215"
+    },
+    {
+      "id": "18.71.07.1013",
+      "name": "Gunungmas",
+      "postal_code": "35211"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

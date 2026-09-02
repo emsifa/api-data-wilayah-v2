@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "71.05.17.1002",
+      "name": "Kawangkoan Bawah",
+      "postal_code": "95955"
+    },
+    {
+      "id": "71.05.17.1003",
+      "name": "Rumoong Bawah",
+      "postal_code": "95955"
+    },
+    {
+      "id": "71.05.17.2001",
+      "name": "Kapitu",
+      "postal_code": "95955"
+    },
+    {
+      "id": "71.05.17.2004",
+      "name": "Rumoong Bawah",
+      "postal_code": "95955"
+    },
+    {
+      "id": "71.05.17.2005",
+      "name": "Tewasen",
+      "postal_code": "95955"
+    },
+    {
+      "id": "71.05.17.2006",
+      "name": "Pondos",
+      "postal_code": "95955"
+    },
+    {
+      "id": "71.05.17.2007",
+      "name": "Elusan",
+      "postal_code": "95955"
+    },
+    {
+      "id": "71.05.17.2008",
+      "name": "Teep",
+      "postal_code": "95955"
+    },
+    {
+      "id": "71.05.17.2009",
+      "name": "Wakan",
+      "postal_code": "95955"
+    },
+    {
+      "id": "71.05.17.2010",
+      "name": "Teep Trans",
+      "postal_code": "95955"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

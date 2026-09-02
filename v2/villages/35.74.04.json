@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.74.04.1001",
+      "name": "Tisnonegaran",
+      "postal_code": "67211"
+    },
+    {
+      "id": "35.74.04.1002",
+      "name": "Sukoharjo",
+      "postal_code": "67215"
+    },
+    {
+      "id": "35.74.04.1003",
+      "name": "Kanigaran",
+      "postal_code": "67213"
+    },
+    {
+      "id": "35.74.04.1004",
+      "name": "Kebonsari Wetan",
+      "postal_code": "67214"
+    },
+    {
+      "id": "35.74.04.1005",
+      "name": "Curahgrinting",
+      "postal_code": "67212"
+    },
+    {
+      "id": "35.74.04.1006",
+      "name": "Kebonsari Kulon",
+      "postal_code": "67214"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "13.06.07.2001",
+      "name": "Batu Taba",
+      "postal_code": "26190"
+    },
+    {
+      "id": "13.06.07.2002",
+      "name": "Biaro Gadang",
+      "postal_code": "26190"
+    },
+    {
+      "id": "13.06.07.2003",
+      "name": "Lambah",
+      "postal_code": "26190"
+    },
+    {
+      "id": "13.06.07.2004",
+      "name": "Panampuang",
+      "postal_code": "26190"
+    },
+    {
+      "id": "13.06.07.2005",
+      "name": "Ampang Gadang",
+      "postal_code": "26190"
+    },
+    {
+      "id": "13.06.07.2006",
+      "name": "Pasia",
+      "postal_code": "26190"
+    },
+    {
+      "id": "13.06.07.2008",
+      "name": "Balai Gurah",
+      "postal_code": "26190"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

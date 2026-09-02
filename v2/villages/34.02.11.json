@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "34.02.11.2001",
+      "name": "Mangunan",
+      "postal_code": "55783"
+    },
+    {
+      "id": "34.02.11.2002",
+      "name": "Muntuk",
+      "postal_code": "55783"
+    },
+    {
+      "id": "34.02.11.2003",
+      "name": "Dlingo",
+      "postal_code": "55783"
+    },
+    {
+      "id": "34.02.11.2004",
+      "name": "Temuwuh",
+      "postal_code": "55783"
+    },
+    {
+      "id": "34.02.11.2005",
+      "name": "Terong",
+      "postal_code": "55783"
+    },
+    {
+      "id": "34.02.11.2006",
+      "name": "Jatimulyo",
+      "postal_code": "55783"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

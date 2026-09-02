@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "51.01.02.1006",
+      "name": "Tegalcangkring",
+      "postal_code": "82261"
+    },
+    {
+      "id": "51.01.02.2001",
+      "name": "Mendoyo Dauh Tukad",
+      "postal_code": "82261"
+    },
+    {
+      "id": "51.01.02.2002",
+      "name": "Pohsanten",
+      "postal_code": "82261"
+    },
+    {
+      "id": "51.01.02.2003",
+      "name": "Mendoyo Dangin Tukad",
+      "postal_code": "82261"
+    },
+    {
+      "id": "51.01.02.2004",
+      "name": "Pergung",
+      "postal_code": "82261"
+    },
+    {
+      "id": "51.01.02.2005",
+      "name": "Delodberawah",
+      "postal_code": "82261"
+    },
+    {
+      "id": "51.01.02.2007",
+      "name": "Penyaringan",
+      "postal_code": "82261"
+    },
+    {
+      "id": "51.01.02.2008",
+      "name": "Yehembang",
+      "postal_code": "82261"
+    },
+    {
+      "id": "51.01.02.2009",
+      "name": "Yeh Sumbul",
+      "postal_code": "82261"
+    },
+    {
+      "id": "51.01.02.2010",
+      "name": "Yehembang Kauh",
+      "postal_code": "82261"
+    },
+    {
+      "id": "51.01.02.2011",
+      "name": "Yehembang Kangin",
+      "postal_code": "82261"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

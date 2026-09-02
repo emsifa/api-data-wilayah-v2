@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "33.04.10.2001",
+      "name": "Kasilib",
+      "postal_code": "53461"
+    },
+    {
+      "id": "33.04.10.2002",
+      "name": "Tapen",
+      "postal_code": "53461"
+    },
+    {
+      "id": "33.04.10.2003",
+      "name": "Karangjambe",
+      "postal_code": "53461"
+    },
+    {
+      "id": "33.04.10.2004",
+      "name": "Wanadadi",
+      "postal_code": "53461"
+    },
+    {
+      "id": "33.04.10.2005",
+      "name": "Wanakarsa",
+      "postal_code": "53461"
+    },
+    {
+      "id": "33.04.10.2006",
+      "name": "Lemahjaya",
+      "postal_code": "53461"
+    },
+    {
+      "id": "33.04.10.2007",
+      "name": "Karangkemiri",
+      "postal_code": "53461"
+    },
+    {
+      "id": "33.04.10.2008",
+      "name": "Kandangwangi",
+      "postal_code": "53461"
+    },
+    {
+      "id": "33.04.10.2009",
+      "name": "Medayu",
+      "postal_code": "53461"
+    },
+    {
+      "id": "33.04.10.2010",
+      "name": "Linggasari",
+      "postal_code": "53461"
+    },
+    {
+      "id": "33.04.10.2011",
+      "name": "Gumingsir",
+      "postal_code": "53461"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

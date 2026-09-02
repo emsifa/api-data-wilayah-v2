@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.02.19.2001",
+      "name": "Kabandungan",
+      "postal_code": "43368"
+    },
+    {
+      "id": "32.02.19.2002",
+      "name": "Cipeuteuy",
+      "postal_code": "43368"
+    },
+    {
+      "id": "32.02.19.2003",
+      "name": "Cihamerang",
+      "postal_code": "43368"
+    },
+    {
+      "id": "32.02.19.2004",
+      "name": "Tugubandung",
+      "postal_code": "43368"
+    },
+    {
+      "id": "32.02.19.2005",
+      "name": "Mekarjaya",
+      "postal_code": "43368"
+    },
+    {
+      "id": "32.02.19.2006",
+      "name": "Cianaga",
+      "postal_code": "43368"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

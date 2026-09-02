@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "82.04.19.2001",
+      "name": "Lele",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.19.2002",
+      "name": "Bahu",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.19.2003",
+      "name": "Jiko",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.19.2004",
+      "name": "Galala",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.19.2005",
+      "name": "Tabalema",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.19.2006",
+      "name": "Yoyok",
+      "postal_code": "97791"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

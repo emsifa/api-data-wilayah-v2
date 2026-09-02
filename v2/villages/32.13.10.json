@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.13.10.2005",
+      "name": "Pusakaratu",
+      "postal_code": "41265"
+    },
+    {
+      "id": "32.13.10.2006",
+      "name": "Gempol",
+      "postal_code": "41265"
+    },
+    {
+      "id": "32.13.10.2007",
+      "name": "Kalentambo",
+      "postal_code": "41265"
+    },
+    {
+      "id": "32.13.10.2008",
+      "name": "Patimban",
+      "postal_code": "41265"
+    },
+    {
+      "id": "32.13.10.2012",
+      "name": "Rancadaka",
+      "postal_code": "41265"
+    },
+    {
+      "id": "32.13.10.2014",
+      "name": "Kotasari",
+      "postal_code": "41265"
+    },
+    {
+      "id": "32.13.10.2015",
+      "name": "Mundusari",
+      "postal_code": "41265"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

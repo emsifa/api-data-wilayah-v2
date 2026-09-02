@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "15.72.07.2001",
+      "name": "Koto Baru",
+      "postal_code": "37152"
+    },
+    {
+      "id": "15.72.07.2002",
+      "name": "Koto Limau Manis",
+      "postal_code": "37152"
+    },
+    {
+      "id": "15.72.07.2003",
+      "name": "Kampung Tengah",
+      "postal_code": "37152"
+    },
+    {
+      "id": "15.72.07.2004",
+      "name": "Dujung Sakti",
+      "postal_code": "37152"
+    },
+    {
+      "id": "15.72.07.2005",
+      "name": "Permai Indah",
+      "postal_code": "37152"
+    },
+    {
+      "id": "15.72.07.2006",
+      "name": "Srimenanti",
+      "postal_code": "37152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "16.03.24",
+    "name": "Belida Darat",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.03",
+      "name": "Kabupaten Muara Enim"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

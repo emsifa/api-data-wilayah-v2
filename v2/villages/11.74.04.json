@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "11.74.04.2001",
+      "name": "Pondok Kemuning",
+      "postal_code": "24416"
+    },
+    {
+      "id": "11.74.04.2002",
+      "name": "Seulalah",
+      "postal_code": "24416"
+    },
+    {
+      "id": "11.74.04.2003",
+      "name": "Pondok Pabrik",
+      "postal_code": "24416"
+    },
+    {
+      "id": "11.74.04.2004",
+      "name": "Sidodadi",
+      "postal_code": "24411"
+    },
+    {
+      "id": "11.74.04.2005",
+      "name": "Sidorejo",
+      "postal_code": "24411"
+    },
+    {
+      "id": "11.74.04.2006",
+      "name": "Baro",
+      "postal_code": "24416"
+    },
+    {
+      "id": "11.74.04.2007",
+      "name": "Meurandeh",
+      "postal_code": "24416"
+    },
+    {
+      "id": "11.74.04.2008",
+      "name": "Asam Peutik",
+      "postal_code": "24416"
+    },
+    {
+      "id": "11.74.04.2009",
+      "name": "Baroh Langsa Lama",
+      "postal_code": "24416"
+    },
+    {
+      "id": "11.74.04.2010",
+      "name": "Seulalah Baru",
+      "postal_code": "24416"
+    },
+    {
+      "id": "11.74.04.2011",
+      "name": "Sukajadi Kebun Ireng",
+      "postal_code": "24411"
+    },
+    {
+      "id": "11.74.04.2012",
+      "name": "Meurandeh Tengah",
+      "postal_code": "24416"
+    },
+    {
+      "id": "11.74.04.2013",
+      "name": "Meurandeh Dayah",
+      "postal_code": "24416"
+    },
+    {
+      "id": "11.74.04.2014",
+      "name": "Meurandeh Aceh",
+      "postal_code": "24416"
+    },
+    {
+      "id": "11.74.04.2015",
+      "name": "Batee Puteh",
+      "postal_code": "24411"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

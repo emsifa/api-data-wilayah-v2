@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "31.74.01.1001",
+      "name": "Tebet Timur",
+      "postal_code": "12820"
+    },
+    {
+      "id": "31.74.01.1002",
+      "name": "Tebet Barat",
+      "postal_code": "12810"
+    },
+    {
+      "id": "31.74.01.1003",
+      "name": "Menteng Dalam",
+      "postal_code": "12870"
+    },
+    {
+      "id": "31.74.01.1004",
+      "name": "Kebon Baru",
+      "postal_code": "12830"
+    },
+    {
+      "id": "31.74.01.1005",
+      "name": "Bukit Duri",
+      "postal_code": "12840"
+    },
+    {
+      "id": "31.74.01.1006",
+      "name": "Manggarai Selatan",
+      "postal_code": "12860"
+    },
+    {
+      "id": "31.74.01.1007",
+      "name": "Manggarai",
+      "postal_code": "12850"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

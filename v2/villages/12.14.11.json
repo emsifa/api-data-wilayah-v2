@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.14.11.2001",
+      "name": "Togizita",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.11.2002",
+      "name": "Soledua",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.11.2003",
+      "name": "Bawosalo'o Dao-dao",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.11.2004",
+      "name": "Tuho'owo",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.11.2005",
+      "name": "Togizita I",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.11.2007",
+      "name": "Hilitoese",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.11.2008",
+      "name": "Dao-dao Sowo",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.11.2009",
+      "name": "Hiliadulo",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.11.2010",
+      "name": "Soledua I",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.11.2011",
+      "name": "Soledua II",
+      "postal_code": "22864"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

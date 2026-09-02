@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "32.01.01.1001",
+      "name": "Pondok Rajeg",
+      "postal_code": "16914"
+    },
+    {
+      "id": "32.01.01.1002",
+      "name": "Karadenan",
+      "postal_code": "16913"
+    },
+    {
+      "id": "32.01.01.1003",
+      "name": "Harapanjaya",
+      "postal_code": "16914"
+    },
+    {
+      "id": "32.01.01.1004",
+      "name": "Nanggewer",
+      "postal_code": "16912"
+    },
+    {
+      "id": "32.01.01.1005",
+      "name": "Nanggewer Mekar",
+      "postal_code": "16912"
+    },
+    {
+      "id": "32.01.01.1006",
+      "name": "Cibinong",
+      "postal_code": "16911"
+    },
+    {
+      "id": "32.01.01.1007",
+      "name": "Pakansari",
+      "postal_code": "16915"
+    },
+    {
+      "id": "32.01.01.1008",
+      "name": "Tengah",
+      "postal_code": "16914"
+    },
+    {
+      "id": "32.01.01.1009",
+      "name": "Sukahati",
+      "postal_code": "16913"
+    },
+    {
+      "id": "32.01.01.1010",
+      "name": "Ciriung",
+      "postal_code": "16918"
+    },
+    {
+      "id": "32.01.01.1011",
+      "name": "Cirimekar",
+      "postal_code": "16917"
+    },
+    {
+      "id": "32.01.01.1012",
+      "name": "Pabuaran",
+      "postal_code": "16916"
+    },
+    {
+      "id": "32.01.01.1013",
+      "name": "Pabuaran Mekar",
+      "postal_code": "16916"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

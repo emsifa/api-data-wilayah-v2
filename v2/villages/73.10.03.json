@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "73.10.03.1001",
+      "name": "Mattiro Sompe",
+      "postal_code": "90671"
+    },
+    {
+      "id": "73.10.03.1016",
+      "name": "Mattiro Bintang",
+      "postal_code": "90671"
+    },
+    {
+      "id": "73.10.03.2002",
+      "name": "Mattiro Deceng",
+      "postal_code": "90671"
+    },
+    {
+      "id": "73.10.03.2003",
+      "name": "Mattiro Langi",
+      "postal_code": "90671"
+    },
+    {
+      "id": "73.10.03.2009",
+      "name": "Mattiro Matae",
+      "postal_code": "90671"
+    },
+    {
+      "id": "73.10.03.2010",
+      "name": "Mattiro Ujung",
+      "postal_code": "90671"
+    },
+    {
+      "id": "73.10.03.2011",
+      "name": "Mattiro Dolangeng",
+      "postal_code": "90671"
+    },
+    {
+      "id": "73.10.03.2013",
+      "name": "Mattiro Bone",
+      "postal_code": "90671"
+    },
+    {
+      "id": "73.10.03.2015",
+      "name": "Mattaro Adae",
+      "postal_code": "90671"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

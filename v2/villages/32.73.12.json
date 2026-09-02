@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.73.12.1001",
+      "name": "Gumuruh",
+      "postal_code": "40275"
+    },
+    {
+      "id": "32.73.12.1002",
+      "name": "Maleer",
+      "postal_code": "40274"
+    },
+    {
+      "id": "32.73.12.1003",
+      "name": "Cibangkong",
+      "postal_code": "40273"
+    },
+    {
+      "id": "32.73.12.1004",
+      "name": "Kacapiring",
+      "postal_code": "40271"
+    },
+    {
+      "id": "32.73.12.1005",
+      "name": "Kebon Waru",
+      "postal_code": "40272"
+    },
+    {
+      "id": "32.73.12.1006",
+      "name": "Kebon Gedang",
+      "postal_code": "40274"
+    },
+    {
+      "id": "32.73.12.1007",
+      "name": "Samoja",
+      "postal_code": "40273"
+    },
+    {
+      "id": "32.73.12.1008",
+      "name": "Binong",
+      "postal_code": "40275"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "34.04.03.2001",
+      "name": "Sumberrahayu",
+      "postal_code": "55563"
+    },
+    {
+      "id": "34.04.03.2002",
+      "name": "Sumbersari",
+      "postal_code": "55563"
+    },
+    {
+      "id": "34.04.03.2003",
+      "name": "Sumberagung",
+      "postal_code": "55563"
+    },
+    {
+      "id": "34.04.03.2004",
+      "name": "Sumberarum",
+      "postal_code": "55563"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

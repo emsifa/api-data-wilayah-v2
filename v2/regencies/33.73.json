@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "33.73",
+    "name": "Kota Salatiga",
+    "capital": "Salatiga",
+    "lat": -7.33043714839692,
+    "lng": 110.5008298965402,
+    "elv": 584,
+    "tz": 7,
+    "population": 198971,
+    "total_area": 54.983,
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

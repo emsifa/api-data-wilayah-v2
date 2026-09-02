@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.06.15.2001",
+      "name": "Mandalasari",
+      "postal_code": "46471"
+    },
+    {
+      "id": "32.06.15.2002",
+      "name": "Sukasari",
+      "postal_code": "46471"
+    },
+    {
+      "id": "32.06.15.2003",
+      "name": "Puspasari",
+      "postal_code": "46471"
+    },
+    {
+      "id": "32.06.15.2004",
+      "name": "Puspahiang",
+      "postal_code": "46471"
+    },
+    {
+      "id": "32.06.15.2005",
+      "name": "Luyubakti",
+      "postal_code": "46471"
+    },
+    {
+      "id": "32.06.15.2006",
+      "name": "Pusparahayu",
+      "postal_code": "46471"
+    },
+    {
+      "id": "32.06.15.2007",
+      "name": "Cimanggu",
+      "postal_code": "46471"
+    },
+    {
+      "id": "32.06.15.2008",
+      "name": "Puspajaya",
+      "postal_code": "46471"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

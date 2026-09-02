@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "33.09.20.2001",
+      "name": "Seboto",
+      "postal_code": "57352"
+    },
+    {
+      "id": "33.09.20.2002",
+      "name": "Kaligentong",
+      "postal_code": "57352"
+    },
+    {
+      "id": "33.09.20.2003",
+      "name": "Gladagsari",
+      "postal_code": "57352"
+    },
+    {
+      "id": "33.09.20.2004",
+      "name": "Kembang",
+      "postal_code": "57352"
+    },
+    {
+      "id": "33.09.20.2005",
+      "name": "Ngagrong",
+      "postal_code": "57352"
+    },
+    {
+      "id": "33.09.20.2006",
+      "name": "Candisari",
+      "postal_code": "57352"
+    },
+    {
+      "id": "33.09.20.2007",
+      "name": "Ngargoloka",
+      "postal_code": "57352"
+    },
+    {
+      "id": "33.09.20.2008",
+      "name": "Sampetan",
+      "postal_code": "57352"
+    },
+    {
+      "id": "33.09.20.2009",
+      "name": "Ngadirojo",
+      "postal_code": "57352"
+    },
+    {
+      "id": "33.09.20.2010",
+      "name": "Jlarem",
+      "postal_code": "57352"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

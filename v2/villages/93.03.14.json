@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "93.03.14.2001",
+      "name": "Wonggi",
+      "postal_code": "99877"
+    },
+    {
+      "id": "93.03.14.2002",
+      "name": "Busiri",
+      "postal_code": "99877"
+    },
+    {
+      "id": "93.03.14.2003",
+      "name": "Keta",
+      "postal_code": "99877"
+    },
+    {
+      "id": "93.03.14.2004",
+      "name": "Veta",
+      "postal_code": "99877"
+    },
+    {
+      "id": "93.03.14.2005",
+      "name": "Honya",
+      "postal_code": "99877"
+    },
+    {
+      "id": "93.03.14.2006",
+      "name": "Haku",
+      "postal_code": "99877"
+    },
+    {
+      "id": "93.03.14.2007",
+      "name": "Bifo",
+      "postal_code": "99877"
+    },
+    {
+      "id": "93.03.14.2008",
+      "name": "Samurukie",
+      "postal_code": "99877"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

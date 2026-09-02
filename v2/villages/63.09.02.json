@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "63.09.02.1001",
+      "name": "Pulau",
+      "postal_code": "71552"
+    },
+    {
+      "id": "63.09.02.2002",
+      "name": "Ampukung",
+      "postal_code": "71552"
+    },
+    {
+      "id": "63.09.02.2003",
+      "name": "Telaga Itar",
+      "postal_code": "71552"
+    },
+    {
+      "id": "63.09.02.2004",
+      "name": "Sungai Buluh",
+      "postal_code": "71552"
+    },
+    {
+      "id": "63.09.02.2005",
+      "name": "Binturu",
+      "postal_code": "71552"
+    },
+    {
+      "id": "63.09.02.2006",
+      "name": "Pudak Setegal",
+      "postal_code": "71552"
+    },
+    {
+      "id": "63.09.02.2007",
+      "name": "Pasar Panas",
+      "postal_code": "71552"
+    },
+    {
+      "id": "63.09.02.2008",
+      "name": "Masintan",
+      "postal_code": "71552"
+    },
+    {
+      "id": "63.09.02.2009",
+      "name": "Takulat",
+      "postal_code": "71552"
+    },
+    {
+      "id": "63.09.02.2010",
+      "name": "Paliat",
+      "postal_code": "71552"
+    },
+    {
+      "id": "63.09.02.2011",
+      "name": "Karangan Putih",
+      "postal_code": "71552"
+    },
+    {
+      "id": "63.09.02.2012",
+      "name": "Bahungin",
+      "postal_code": "71552"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

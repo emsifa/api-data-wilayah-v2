@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "33.04.20.2001",
+      "name": "Pagedongan",
+      "postal_code": "53418"
+    },
+    {
+      "id": "33.04.20.2002",
+      "name": "Gunungjati",
+      "postal_code": "53418"
+    },
+    {
+      "id": "33.04.20.2003",
+      "name": "Twelagiri",
+      "postal_code": "53418"
+    },
+    {
+      "id": "33.04.20.2004",
+      "name": "Kebutuhduwur",
+      "postal_code": "53418"
+    },
+    {
+      "id": "33.04.20.2005",
+      "name": "Kebutuhjurang",
+      "postal_code": "53418"
+    },
+    {
+      "id": "33.04.20.2006",
+      "name": "Pesangkalan",
+      "postal_code": "53418"
+    },
+    {
+      "id": "33.04.20.2007",
+      "name": "Duren",
+      "postal_code": "53418"
+    },
+    {
+      "id": "33.04.20.2008",
+      "name": "Lebakwangi",
+      "postal_code": "53418"
+    },
+    {
+      "id": "33.04.20.2009",
+      "name": "Gentansari",
+      "postal_code": "53418"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

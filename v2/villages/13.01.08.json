@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "13.01.08.2001",
+      "name": "Taratak",
+      "postal_code": "25662"
+    },
+    {
+      "id": "13.01.08.2002",
+      "name": "Surantih",
+      "postal_code": "25662"
+    },
+    {
+      "id": "13.01.08.2003",
+      "name": "Amping Parak",
+      "postal_code": "25662"
+    },
+    {
+      "id": "13.01.08.2004",
+      "name": "Amping Parak Timur",
+      "postal_code": "25662"
+    },
+    {
+      "id": "13.01.08.2005",
+      "name": "Koto Taratak",
+      "postal_code": "25662"
+    },
+    {
+      "id": "13.01.08.2006",
+      "name": "Lansano Taratak",
+      "postal_code": "25662"
+    },
+    {
+      "id": "13.01.08.2007",
+      "name": "Aur Duri Surantih",
+      "postal_code": "25662"
+    },
+    {
+      "id": "13.01.08.2008",
+      "name": "Rawang Gunung Malelo Surantih",
+      "postal_code": "25662"
+    },
+    {
+      "id": "13.01.08.2009",
+      "name": "Koto Nan Tigo Selatan Surantih",
+      "postal_code": "25662"
+    },
+    {
+      "id": "13.01.08.2010",
+      "name": "Koto Nan Tigo Utara Surantih",
+      "postal_code": "25662"
+    },
+    {
+      "id": "13.01.08.2011",
+      "name": "Ganting Mudiak Selatan Surantih",
+      "postal_code": "25662"
+    },
+    {
+      "id": "13.01.08.2012",
+      "name": "Ganting Mudiak Utara Surantih",
+      "postal_code": "25662"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

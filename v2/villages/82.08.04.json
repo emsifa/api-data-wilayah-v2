@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "id": "82.08.04.2001",
+      "name": "Mananga",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2002",
+      "name": "Tanjung Una",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2003",
+      "name": "Jorjoga",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2004",
+      "name": "Gela",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2005",
+      "name": "Minton",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2006",
+      "name": "Nunca",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2007",
+      "name": "Sahu",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2008",
+      "name": "Bua Mbono",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2009",
+      "name": "Hai",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2010",
+      "name": "Tikong",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2011",
+      "name": "Dege",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2012",
+      "name": "Air Bulan",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2013",
+      "name": "Air Kalimat",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2014",
+      "name": "Ufung",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2015",
+      "name": "Padang",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2016",
+      "name": "Natang Kuning",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2017",
+      "name": "Nunu",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2018",
+      "name": "London",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.04.2019",
+      "name": "Wahe",
+      "postal_code": "97794"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

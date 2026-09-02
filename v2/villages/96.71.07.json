@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "96.71.07.1001",
+      "name": "Kampung Baru",
+      "postal_code": "98412"
+    },
+    {
+      "id": "96.71.07.1002",
+      "name": "Klabala",
+      "postal_code": "98412"
+    },
+    {
+      "id": "96.71.07.1003",
+      "name": "Klasuur",
+      "postal_code": "98412"
+    },
+    {
+      "id": "96.71.07.1004",
+      "name": "Klakublik",
+      "postal_code": "98412"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "11.08.22.2001",
+      "name": "Keude Simpang Empat",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2002",
+      "name": "Seunebok Punti",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2003",
+      "name": "Paya Leupah",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2004",
+      "name": "Paya Teungoh",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2005",
+      "name": "Keubon Baro",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2006",
+      "name": "Meunasah Teungoh",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2007",
+      "name": "Meunasah Baroh",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2008",
+      "name": "Mancang",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2009",
+      "name": "Alue Bade",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2010",
+      "name": "Meunasah Dayah SPK",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2011",
+      "name": "Kilometer VI",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2012",
+      "name": "Kilometer VIII",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2013",
+      "name": "Ie Tarek I",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2014",
+      "name": "Ie Tarek II",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2015",
+      "name": "Pase Sentosa",
+      "postal_code": "24313"
+    },
+    {
+      "id": "11.08.22.2016",
+      "name": "Blang Raleue",
+      "postal_code": "24313"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.71.03.1001",
+      "name": "Helvetia",
+      "postal_code": "20124"
+    },
+    {
+      "id": "12.71.03.1002",
+      "name": "Helvetia Tengah",
+      "postal_code": "20124"
+    },
+    {
+      "id": "12.71.03.1003",
+      "name": "Helvetia Timur",
+      "postal_code": "20124"
+    },
+    {
+      "id": "12.71.03.1004",
+      "name": "Tanjung Gusta",
+      "postal_code": "20125"
+    },
+    {
+      "id": "12.71.03.1005",
+      "name": "Cinta Damai",
+      "postal_code": "20126"
+    },
+    {
+      "id": "12.71.03.1006",
+      "name": "Dwi Kora",
+      "postal_code": "20123"
+    },
+    {
+      "id": "12.71.03.1007",
+      "name": "Sei Sikambing C II",
+      "postal_code": "20123"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

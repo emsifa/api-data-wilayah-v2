@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "11.01.12.2001",
+      "name": "Tutong",
+      "postal_code": "23757"
+    },
+    {
+      "id": "11.01.12.2002",
+      "name": "Teungoh Iboh",
+      "postal_code": "23757"
+    },
+    {
+      "id": "11.01.12.2003",
+      "name": "Peulokan",
+      "postal_code": "23757"
+    },
+    {
+      "id": "11.01.12.2004",
+      "name": "Kuta Iboh",
+      "postal_code": "23757"
+    },
+    {
+      "id": "11.01.12.2005",
+      "name": "Ujung Padang",
+      "postal_code": "23757"
+    },
+    {
+      "id": "11.01.12.2006",
+      "name": "Blang Baru",
+      "postal_code": "23757"
+    },
+    {
+      "id": "11.01.12.2007",
+      "name": "Blang Poroh",
+      "postal_code": "23757"
+    },
+    {
+      "id": "11.01.12.2008",
+      "name": "Pulo Ie",
+      "postal_code": "23757"
+    },
+    {
+      "id": "11.01.12.2009",
+      "name": "Suak Lokan",
+      "postal_code": "23757"
+    },
+    {
+      "id": "11.01.12.2010",
+      "name": "Iku Lhueng",
+      "postal_code": "23757"
+    },
+    {
+      "id": "11.01.12.2011",
+      "name": "Kuta Trieng",
+      "postal_code": "23757"
+    },
+    {
+      "id": "11.01.12.2012",
+      "name": "Pante Geulima",
+      "postal_code": "23757"
+    },
+    {
+      "id": "11.01.12.2013",
+      "name": "Panton Pawoh",
+      "postal_code": "23757"
+    },
+    {
+      "id": "11.01.12.2014",
+      "name": "Batee Meucanang",
+      "postal_code": "23757"
+    },
+    {
+      "id": "11.01.12.2015",
+      "name": "Panton Rubek",
+      "postal_code": "23757"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

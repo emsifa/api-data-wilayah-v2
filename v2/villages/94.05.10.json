@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "94.05.10.2001",
+      "name": "Babe",
+      "postal_code": "98952"
+    },
+    {
+      "id": "94.05.10.2002",
+      "name": "Jambul",
+      "postal_code": "98952"
+    },
+    {
+      "id": "94.05.10.2003",
+      "name": "Nungai",
+      "postal_code": "98952"
+    },
+    {
+      "id": "94.05.10.2004",
+      "name": "Mugulip",
+      "postal_code": "98952"
+    },
+    {
+      "id": "94.05.10.2005",
+      "name": "Kelmabet",
+      "postal_code": "98952"
+    },
+    {
+      "id": "94.05.10.2006",
+      "name": "Jenggeren",
+      "postal_code": "98952"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

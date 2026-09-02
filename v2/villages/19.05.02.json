@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "19.05.02.2001",
+      "name": "Pelangas",
+      "postal_code": "33366"
+    },
+    {
+      "id": "19.05.02.2002",
+      "name": "Kundi",
+      "postal_code": "33366"
+    },
+    {
+      "id": "19.05.02.2003",
+      "name": "Mayang",
+      "postal_code": "33366"
+    },
+    {
+      "id": "19.05.02.2004",
+      "name": "Peradong",
+      "postal_code": "33366"
+    },
+    {
+      "id": "19.05.02.2005",
+      "name": "Air Nyatoh",
+      "postal_code": "33366"
+    },
+    {
+      "id": "19.05.02.2006",
+      "name": "Berang",
+      "postal_code": "33366"
+    },
+    {
+      "id": "19.05.02.2007",
+      "name": "Rambat",
+      "postal_code": "33366"
+    },
+    {
+      "id": "19.05.02.2008",
+      "name": "Simpang Gong",
+      "postal_code": "33366"
+    },
+    {
+      "id": "19.05.02.2009",
+      "name": "Simpang Tiga",
+      "postal_code": "33366"
+    },
+    {
+      "id": "19.05.02.2010",
+      "name": "Ibul",
+      "postal_code": "33366"
+    },
+    {
+      "id": "19.05.02.2011",
+      "name": "Pangek",
+      "postal_code": "33366"
+    },
+    {
+      "id": "19.05.02.2012",
+      "name": "Bukit Terak",
+      "postal_code": "33366"
+    },
+    {
+      "id": "19.05.02.2013",
+      "name": "Air Menduyung",
+      "postal_code": "33366"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

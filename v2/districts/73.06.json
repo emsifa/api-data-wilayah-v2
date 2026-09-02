@@ -1,18 +1,80 @@
 {
-  "data": {
-    "id": "73.06",
-    "name": "Kabupaten Gowa",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
+  "data": [
+    {
+      "id": "73.06.01",
+      "name": "Bontonompo"
     },
-    "regency": {
-      "id": "73.06",
-      "name": "Kabupaten Gowa"
+    {
+      "id": "73.06.02",
+      "name": "Bajeng"
+    },
+    {
+      "id": "73.06.03",
+      "name": "Tompobulu"
+    },
+    {
+      "id": "73.06.04",
+      "name": "Tinggimoncong"
+    },
+    {
+      "id": "73.06.05",
+      "name": "Parangloe"
+    },
+    {
+      "id": "73.06.06",
+      "name": "Bontomarannu"
+    },
+    {
+      "id": "73.06.07",
+      "name": "Pallangga"
+    },
+    {
+      "id": "73.06.08",
+      "name": "Somba Opu"
+    },
+    {
+      "id": "73.06.09",
+      "name": "Bungaya"
+    },
+    {
+      "id": "73.06.10",
+      "name": "Tombolopao"
+    },
+    {
+      "id": "73.06.11",
+      "name": "Biringbulu"
+    },
+    {
+      "id": "73.06.12",
+      "name": "Barombong"
+    },
+    {
+      "id": "73.06.13",
+      "name": "Pattallasang"
+    },
+    {
+      "id": "73.06.14",
+      "name": "Manuju"
+    },
+    {
+      "id": "73.06.15",
+      "name": "Bontolempangang"
+    },
+    {
+      "id": "73.06.16",
+      "name": "Bontonompo Selatan"
+    },
+    {
+      "id": "73.06.17",
+      "name": "Parigi"
+    },
+    {
+      "id": "73.06.18",
+      "name": "Bajeng Barat"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

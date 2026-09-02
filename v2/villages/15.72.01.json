@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "15.72.01.1001",
+      "name": "Sungai Penuh",
+      "postal_code": "37111"
+    },
+    {
+      "id": "15.72.01.1003",
+      "name": "Pasar Sungai Penuh",
+      "postal_code": "37113"
+    },
+    {
+      "id": "15.72.01.2004",
+      "name": "Pasar Baru",
+      "postal_code": "37111"
+    },
+    {
+      "id": "15.72.01.2006",
+      "name": "Gedang",
+      "postal_code": "37111"
+    },
+    {
+      "id": "15.72.01.2014",
+      "name": "Amar Sakti",
+      "postal_code": "37111"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

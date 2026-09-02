@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "62.09.01.1012",
+      "name": "Tapin Bini",
+      "postal_code": "74660"
+    },
+    {
+      "id": "62.09.01.2001",
+      "name": "Sungai Tuat",
+      "postal_code": "74660"
+    },
+    {
+      "id": "62.09.01.2002",
+      "name": "Tanjung Beringin",
+      "postal_code": "74660"
+    },
+    {
+      "id": "62.09.01.2003",
+      "name": "Cuhai",
+      "postal_code": "74660"
+    },
+    {
+      "id": "62.09.01.2004",
+      "name": "Kawa",
+      "postal_code": "74660"
+    },
+    {
+      "id": "62.09.01.2005",
+      "name": "Karang Taba",
+      "postal_code": "74660"
+    },
+    {
+      "id": "62.09.01.2006",
+      "name": "Penopa",
+      "postal_code": "74660"
+    },
+    {
+      "id": "62.09.01.2007",
+      "name": "Suja",
+      "postal_code": "74660"
+    },
+    {
+      "id": "62.09.01.2008",
+      "name": "Sekoban",
+      "postal_code": "74660"
+    },
+    {
+      "id": "62.09.01.2009",
+      "name": "Bakonsu",
+      "postal_code": "74660"
+    },
+    {
+      "id": "62.09.01.2022",
+      "name": "Samu Jaya",
+      "postal_code": "74660"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

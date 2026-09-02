@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "18.04.05.1016",
+      "name": "Tugu Sari",
+      "postal_code": "34870"
+    },
+    {
+      "id": "18.04.05.2001",
+      "name": "Simpangsari",
+      "postal_code": "34870"
+    },
+    {
+      "id": "18.04.05.2010",
+      "name": "Sukajaya",
+      "postal_code": "34870"
+    },
+    {
+      "id": "18.04.05.2011",
+      "name": "Sindang Pagar",
+      "postal_code": "34870"
+    },
+    {
+      "id": "18.04.05.2012",
+      "name": "Sukapura",
+      "postal_code": "34870"
+    },
+    {
+      "id": "18.04.05.2013",
+      "name": "Way Petai",
+      "postal_code": "34870"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

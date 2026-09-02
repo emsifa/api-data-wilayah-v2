@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "95.03.06.2001",
+      "name": "Nalca",
+      "postal_code": "99757"
+    },
+    {
+      "id": "95.03.06.2002",
+      "name": "Cenderawasih",
+      "postal_code": "99757"
+    },
+    {
+      "id": "95.03.06.2003",
+      "name": "Manggona",
+      "postal_code": "99757"
+    },
+    {
+      "id": "95.03.06.2004",
+      "name": "Bolda",
+      "postal_code": "99757"
+    },
+    {
+      "id": "95.03.06.2005",
+      "name": "Emm",
+      "postal_code": "99757"
+    },
+    {
+      "id": "95.03.06.2006",
+      "name": "Imsekla",
+      "postal_code": "99757"
+    },
+    {
+      "id": "95.03.06.2007",
+      "name": "Hein",
+      "postal_code": "99757"
+    },
+    {
+      "id": "95.03.06.2008",
+      "name": "Luwemna",
+      "postal_code": "99757"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

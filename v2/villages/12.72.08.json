@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "12.72.08.1001",
+      "name": "Simarimbun",
+      "postal_code": "21129"
+    },
+    {
+      "id": "12.72.08.1002",
+      "name": "Tong Marimbun",
+      "postal_code": "21129"
+    },
+    {
+      "id": "12.72.08.1003",
+      "name": "Naga Huta",
+      "postal_code": "21129"
+    },
+    {
+      "id": "12.72.08.1004",
+      "name": "Naga Huta Timur",
+      "postal_code": "21129"
+    },
+    {
+      "id": "12.72.08.1005",
+      "name": "Pematang Marihat",
+      "postal_code": "21127"
+    },
+    {
+      "id": "12.72.08.1006",
+      "name": "Marihat Jaya",
+      "postal_code": "21128"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

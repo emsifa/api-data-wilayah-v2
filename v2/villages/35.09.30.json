@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "35.09.30.2001",
+      "name": "Sempolan",
+      "postal_code": "68184"
+    },
+    {
+      "id": "35.09.30.2002",
+      "name": "Harjomulyo",
+      "postal_code": "68184"
+    },
+    {
+      "id": "35.09.30.2003",
+      "name": "Karangharjo",
+      "postal_code": "68184"
+    },
+    {
+      "id": "35.09.30.2004",
+      "name": "Silo",
+      "postal_code": "68184"
+    },
+    {
+      "id": "35.09.30.2005",
+      "name": "Pace",
+      "postal_code": "68184"
+    },
+    {
+      "id": "35.09.30.2006",
+      "name": "Mulyorejo",
+      "postal_code": "68184"
+    },
+    {
+      "id": "35.09.30.2007",
+      "name": "Sumberjati",
+      "postal_code": "68184"
+    },
+    {
+      "id": "35.09.30.2008",
+      "name": "Garahan",
+      "postal_code": "68184"
+    },
+    {
+      "id": "35.09.30.2009",
+      "name": "Sidomulyo",
+      "postal_code": "68184"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

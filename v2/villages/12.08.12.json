@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "12.08.12.2001",
+      "name": "Buntu Bayu",
+      "postal_code": "21178"
+    },
+    {
+      "id": "12.08.12.2002",
+      "name": "Bosar Nauli",
+      "postal_code": "21178"
+    },
+    {
+      "id": "12.08.12.2003",
+      "name": "Tangga Batu",
+      "postal_code": "21178"
+    },
+    {
+      "id": "12.08.12.2004",
+      "name": "Buntu Turunan",
+      "postal_code": "21178"
+    },
+    {
+      "id": "12.08.12.2005",
+      "name": "Saribu Asih",
+      "postal_code": "21178"
+    },
+    {
+      "id": "12.08.12.2006",
+      "name": "Jawa Tongah",
+      "postal_code": "21178"
+    },
+    {
+      "id": "12.08.12.2007",
+      "name": "Tonduhan",
+      "postal_code": "21178"
+    },
+    {
+      "id": "12.08.12.2008",
+      "name": "Parhundalian Jawa Dipar",
+      "postal_code": "21178"
+    },
+    {
+      "id": "12.08.12.2009",
+      "name": "Jawa Tongah II",
+      "postal_code": "21178"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.78.14.1002",
+      "name": "Tandes",
+      "postal_code": "60187"
+    },
+    {
+      "id": "35.78.14.1006",
+      "name": "Karang Poh",
+      "postal_code": "60186"
+    },
+    {
+      "id": "35.78.14.1007",
+      "name": "Balongsari",
+      "postal_code": "60186"
+    },
+    {
+      "id": "35.78.14.1009",
+      "name": "Manukan Kulon",
+      "postal_code": "60185"
+    },
+    {
+      "id": "35.78.14.1011",
+      "name": "Manukan Wetan",
+      "postal_code": "60184"
+    },
+    {
+      "id": "35.78.14.1012",
+      "name": "Banjar Sugihan",
+      "postal_code": "60185"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

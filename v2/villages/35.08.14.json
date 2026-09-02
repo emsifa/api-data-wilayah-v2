@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "35.08.14.2001",
+      "name": "Barat",
+      "postal_code": "67352"
+    },
+    {
+      "id": "35.08.14.2002",
+      "name": "Babakan",
+      "postal_code": "67352"
+    },
+    {
+      "id": "35.08.14.2003",
+      "name": "Mojo",
+      "postal_code": "67352"
+    },
+    {
+      "id": "35.08.14.2004",
+      "name": "Bodang",
+      "postal_code": "67352"
+    },
+    {
+      "id": "35.08.14.2005",
+      "name": "Kedawung",
+      "postal_code": "67352"
+    },
+    {
+      "id": "35.08.14.2006",
+      "name": "Padang",
+      "postal_code": "67352"
+    },
+    {
+      "id": "35.08.14.2007",
+      "name": "Kalisemut",
+      "postal_code": "67352"
+    },
+    {
+      "id": "35.08.14.2008",
+      "name": "Merakan",
+      "postal_code": "67352"
+    },
+    {
+      "id": "35.08.14.2009",
+      "name": "Tanggung",
+      "postal_code": "67352"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

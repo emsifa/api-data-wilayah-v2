@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "92.07.04.2002",
+      "name": "Wondiboy",
+      "postal_code": "98347"
+    },
+    {
+      "id": "92.07.04.2009",
+      "name": "Kabouw",
+      "postal_code": "98347"
+    },
+    {
+      "id": "92.07.04.2010",
+      "name": "Issui",
+      "postal_code": "98347"
+    },
+    {
+      "id": "92.07.04.2015",
+      "name": "Kaibi",
+      "postal_code": "98347"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

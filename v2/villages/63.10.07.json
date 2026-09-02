@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "63.10.07.2001",
+      "name": "Karang Bintang",
+      "postal_code": "72211"
+    },
+    {
+      "id": "63.10.07.2002",
+      "name": "Pandan Sari",
+      "postal_code": "72211"
+    },
+    {
+      "id": "63.10.07.2003",
+      "name": "Rejo Winangun",
+      "postal_code": "72211"
+    },
+    {
+      "id": "63.10.07.2004",
+      "name": "Selaselilau",
+      "postal_code": "72211"
+    },
+    {
+      "id": "63.10.07.2005",
+      "name": "Pematang Ulin",
+      "postal_code": "72211"
+    },
+    {
+      "id": "63.10.07.2006",
+      "name": "Batu Licin Irigasi",
+      "postal_code": "72211"
+    },
+    {
+      "id": "63.10.07.2007",
+      "name": "Manunggal",
+      "postal_code": "72211"
+    },
+    {
+      "id": "63.10.07.2009",
+      "name": "Sumber Wangi",
+      "postal_code": "72211"
+    },
+    {
+      "id": "63.10.07.2010",
+      "name": "Madu Retno",
+      "postal_code": "72211"
+    },
+    {
+      "id": "63.10.07.2011",
+      "name": "Maju Sejahtera",
+      "postal_code": "72211"
+    },
+    {
+      "id": "63.10.07.2012",
+      "name": "Karang Rejo",
+      "postal_code": "72211"
+    },
+    {
+      "id": "63.10.07.2013",
+      "name": "Karang Nunggal",
+      "postal_code": "72211"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

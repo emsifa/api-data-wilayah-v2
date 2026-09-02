@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "96.03.11.2001",
+      "name": "Yenbekwan",
+      "postal_code": "98485"
+    },
+    {
+      "id": "96.03.11.2002",
+      "name": "Kapisawar",
+      "postal_code": "98485"
+    },
+    {
+      "id": "96.03.11.2003",
+      "name": "Sawinggrai",
+      "postal_code": "98485"
+    },
+    {
+      "id": "96.03.11.2004",
+      "name": "Yenwaupnor",
+      "postal_code": "98485"
+    },
+    {
+      "id": "96.03.11.2005",
+      "name": "Arborek",
+      "postal_code": "98485"
+    },
+    {
+      "id": "96.03.11.2006",
+      "name": "Yenbuba",
+      "postal_code": "98485"
+    },
+    {
+      "id": "96.03.11.2007",
+      "name": "Kabuy",
+      "postal_code": "98485"
+    },
+    {
+      "id": "96.03.11.2008",
+      "name": "Kurkapa",
+      "postal_code": "98485"
+    },
+    {
+      "id": "96.03.11.2009",
+      "name": "Sauandarek",
+      "postal_code": "98485"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

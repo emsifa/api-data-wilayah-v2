@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "62.13.08.2001",
+      "name": "Puri",
+      "postal_code": "73655"
+    },
+    {
+      "id": "62.13.08.2002",
+      "name": "Lenggang",
+      "postal_code": "73655"
+    },
+    {
+      "id": "62.13.08.2003",
+      "name": "Batuah",
+      "postal_code": "73655"
+    },
+    {
+      "id": "62.13.08.2004",
+      "name": "Unsum",
+      "postal_code": "73655"
+    },
+    {
+      "id": "62.13.08.2005",
+      "name": "Baruyan",
+      "postal_code": "73655"
+    },
+    {
+      "id": "62.13.08.2006",
+      "name": "Turan Amis",
+      "postal_code": "73655"
+    },
+    {
+      "id": "62.13.08.2007",
+      "name": "Malintut",
+      "postal_code": "73655"
+    },
+    {
+      "id": "62.13.08.2008",
+      "name": "Tangkum",
+      "postal_code": "73655"
+    },
+    {
+      "id": "62.13.08.2009",
+      "name": "Sibung",
+      "postal_code": "73655"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

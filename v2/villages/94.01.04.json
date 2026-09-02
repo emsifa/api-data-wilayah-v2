@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "94.01.04.2001",
+      "name": "Topo",
+      "postal_code": "98853"
+    },
+    {
+      "id": "94.01.04.2002",
+      "name": "Urumusu",
+      "postal_code": "98853"
+    },
+    {
+      "id": "94.01.04.2003",
+      "name": "Marga Jaya",
+      "postal_code": "98853"
+    },
+    {
+      "id": "94.01.04.2004",
+      "name": "Argo Mulyo",
+      "postal_code": "98853"
+    },
+    {
+      "id": "94.01.04.2005",
+      "name": "Topo Jaya",
+      "postal_code": "98842"
+    },
+    {
+      "id": "94.01.04.2006",
+      "name": "Gamei Jaya",
+      "postal_code": "98853"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

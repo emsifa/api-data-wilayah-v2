@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.18.28.1004",
+      "name": "Kondodewata",
+      "postal_code": "91873"
+    },
+    {
+      "id": "73.18.28.2001",
+      "name": "Tanete",
+      "postal_code": "91873"
+    },
+    {
+      "id": "73.18.28.2002",
+      "name": "Dewata",
+      "postal_code": "91873"
+    },
+    {
+      "id": "73.18.28.2003",
+      "name": "Miallo",
+      "postal_code": "91873"
+    },
+    {
+      "id": "73.18.28.2005",
+      "name": "Sangpeparikan",
+      "postal_code": "91873"
+    },
+    {
+      "id": "73.18.28.2006",
+      "name": "Butang",
+      "postal_code": "91873"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

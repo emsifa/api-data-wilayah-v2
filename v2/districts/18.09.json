@@ -1,18 +1,52 @@
 {
-  "data": {
-    "id": "18.09",
-    "name": "Kabupaten Pesawaran",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
+  "data": [
+    {
+      "id": "18.09.01",
+      "name": "Gedong Tataan"
     },
-    "regency": {
-      "id": "18.09",
-      "name": "Kabupaten Pesawaran"
+    {
+      "id": "18.09.02",
+      "name": "Negeri Katon"
+    },
+    {
+      "id": "18.09.03",
+      "name": "Tegineneng"
+    },
+    {
+      "id": "18.09.04",
+      "name": "Way Lima"
+    },
+    {
+      "id": "18.09.05",
+      "name": "Padang Cermin"
+    },
+    {
+      "id": "18.09.06",
+      "name": "Punduh Pidada"
+    },
+    {
+      "id": "18.09.07",
+      "name": "Kedondong"
+    },
+    {
+      "id": "18.09.08",
+      "name": "Marga Punduh"
+    },
+    {
+      "id": "18.09.09",
+      "name": "Way Khilau"
+    },
+    {
+      "id": "18.09.10",
+      "name": "Teluk Pandan"
+    },
+    {
+      "id": "18.09.11",
+      "name": "Way Ratai"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

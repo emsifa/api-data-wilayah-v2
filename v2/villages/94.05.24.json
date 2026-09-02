@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "94.05.24.2001",
+      "name": "Mundidok",
+      "postal_code": "98964"
+    },
+    {
+      "id": "94.05.24.2002",
+      "name": "Yaiki Maiki",
+      "postal_code": "98964"
+    },
+    {
+      "id": "94.05.24.2003",
+      "name": "Tobenggi",
+      "postal_code": "98964"
+    },
+    {
+      "id": "94.05.24.2004",
+      "name": "Towenggi II",
+      "postal_code": "98964"
+    },
+    {
+      "id": "94.05.24.2005",
+      "name": "Welenggaru",
+      "postal_code": "98964"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

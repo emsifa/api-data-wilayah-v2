@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "74.03.31.2001",
+      "name": "Marobo",
+      "postal_code": "93666"
+    },
+    {
+      "id": "74.03.31.2002",
+      "name": "Wadolao",
+      "postal_code": "93666"
+    },
+    {
+      "id": "74.03.31.2003",
+      "name": "Pasikuta",
+      "postal_code": "93666"
+    },
+    {
+      "id": "74.03.31.2004",
+      "name": "Tapitapi",
+      "postal_code": "93666"
+    },
+    {
+      "id": "74.03.31.2005",
+      "name": "Poaroha",
+      "postal_code": "93666"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "92.02.34.2001",
+      "name": "Moubja",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.02.34.2002",
+      "name": "Meyof II",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.02.34.2003",
+      "name": "Membowi",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.02.34.2004",
+      "name": "Ririnfos",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.02.34.2005",
+      "name": "Wariori Indah",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.02.34.2006",
+      "name": "Merejemeg",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.02.34.2007",
+      "name": "Wamfoura",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.02.34.2008",
+      "name": "Meyeruk",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.02.34.2009",
+      "name": "Aurmios",
+      "postal_code": "98357"
+    },
+    {
+      "id": "92.02.34.2010",
+      "name": "Muara Wariori",
+      "postal_code": "98357"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

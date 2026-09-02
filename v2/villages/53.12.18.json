@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "53.12.18.2001",
+      "name": "Wee Tana",
+      "postal_code": "87270"
+    },
+    {
+      "id": "53.12.18.2002",
+      "name": "Gaura",
+      "postal_code": "87270"
+    },
+    {
+      "id": "53.12.18.2003",
+      "name": "Patiala Dete",
+      "postal_code": "87270"
+    },
+    {
+      "id": "53.12.18.2004",
+      "name": "Harona Kalla",
+      "postal_code": "87270"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

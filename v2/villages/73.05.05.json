@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "73.05.05.2006",
+      "name": "Bonto Kanang",
+      "postal_code": "92254"
+    },
+    {
+      "id": "73.05.05.2007",
+      "name": "Bontomarannu",
+      "postal_code": "92254"
+    },
+    {
+      "id": "73.05.05.2008",
+      "name": "Mangindara",
+      "postal_code": "92254"
+    },
+    {
+      "id": "73.05.05.2009",
+      "name": "Bontokassi",
+      "postal_code": "92254"
+    },
+    {
+      "id": "73.05.05.2011",
+      "name": "Bentang",
+      "postal_code": "92254"
+    },
+    {
+      "id": "73.05.05.2012",
+      "name": "Barangmamase",
+      "postal_code": "92254"
+    },
+    {
+      "id": "73.05.05.2013",
+      "name": "Sawakong",
+      "postal_code": "92254"
+    },
+    {
+      "id": "73.05.05.2015",
+      "name": "Popo",
+      "postal_code": "92254"
+    },
+    {
+      "id": "73.05.05.2016",
+      "name": "Tarowang",
+      "postal_code": "92254"
+    },
+    {
+      "id": "73.05.05.2017",
+      "name": "Kalukubodo",
+      "postal_code": "92254"
+    },
+    {
+      "id": "73.05.05.2018",
+      "name": "Kadatong",
+      "postal_code": "92254"
+    },
+    {
+      "id": "73.05.05.2019",
+      "name": "Kale Bentang",
+      "postal_code": "92254"
+    },
+    {
+      "id": "73.05.05.2020",
+      "name": "Kanaeng",
+      "postal_code": "92254"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

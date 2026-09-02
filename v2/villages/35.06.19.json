@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "35.06.19.2001",
+      "name": "Kemiri",
+      "postal_code": "64294"
+    },
+    {
+      "id": "35.06.19.2002",
+      "name": "Klampisan",
+      "postal_code": "64294"
+    },
+    {
+      "id": "35.06.19.2003",
+      "name": "Karangtengah",
+      "postal_code": "64294"
+    },
+    {
+      "id": "35.06.19.2004",
+      "name": "Kasreman",
+      "postal_code": "64294"
+    },
+    {
+      "id": "35.06.19.2005",
+      "name": "Jerukwangi",
+      "postal_code": "64294"
+    },
+    {
+      "id": "35.06.19.2006",
+      "name": "Jerukgulung",
+      "postal_code": "64294"
+    },
+    {
+      "id": "35.06.19.2007",
+      "name": "Jlumbang",
+      "postal_code": "64294"
+    },
+    {
+      "id": "35.06.19.2008",
+      "name": "Bukur",
+      "postal_code": "64294"
+    },
+    {
+      "id": "35.06.19.2009",
+      "name": "Kandangan",
+      "postal_code": "64294"
+    },
+    {
+      "id": "35.06.19.2010",
+      "name": "Banaran",
+      "postal_code": "64294"
+    },
+    {
+      "id": "35.06.19.2011",
+      "name": "Mlancu",
+      "postal_code": "64294"
+    },
+    {
+      "id": "35.06.19.2012",
+      "name": "Medowo",
+      "postal_code": "64294"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

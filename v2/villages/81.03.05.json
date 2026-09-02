@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "81.03.05.2001",
+      "name": "Lelingluan",
+      "postal_code": "97464"
+    },
+    {
+      "id": "81.03.05.2002",
+      "name": "Ritabel",
+      "postal_code": "97464"
+    },
+    {
+      "id": "81.03.05.2003",
+      "name": "Ridool",
+      "postal_code": "97464"
+    },
+    {
+      "id": "81.03.05.2004",
+      "name": "Watidal",
+      "postal_code": "97464"
+    },
+    {
+      "id": "81.03.05.2005",
+      "name": "Keliobar",
+      "postal_code": "97464"
+    },
+    {
+      "id": "81.03.05.2006",
+      "name": "Kelaan",
+      "postal_code": "97464"
+    },
+    {
+      "id": "81.03.05.2007",
+      "name": "Lamdesar Barat",
+      "postal_code": "97464"
+    },
+    {
+      "id": "81.03.05.2008",
+      "name": "Lamdesar Timur",
+      "postal_code": "97464"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

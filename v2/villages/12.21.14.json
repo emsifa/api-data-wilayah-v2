@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.21.14.2001",
+      "name": "Hapung",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.14.2002",
+      "name": "Batu Gajah",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.14.2003",
+      "name": "Hapung Torop",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.14.2004",
+      "name": "Harang Jae",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.14.2005",
+      "name": "Harang Julu",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.14.2006",
+      "name": "Handio",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.14.2007",
+      "name": "Gunung Tua",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.14.2008",
+      "name": "Mandian",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.14.2009",
+      "name": "Parapat",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.14.2010",
+      "name": "Horuon",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.14.2011",
+      "name": "Bonan Dolok",
+      "postal_code": "22765"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

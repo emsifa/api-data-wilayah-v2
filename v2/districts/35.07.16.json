@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "35.07.16",
+    "name": "Tumpang",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.07",
+      "name": "Kabupaten Malang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

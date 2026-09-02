@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "14.08.09.2001",
+      "name": "Pangkalan Pisang",
+      "postal_code": "28672"
+    },
+    {
+      "id": "14.08.09.2002",
+      "name": "Kuala Gasib",
+      "postal_code": "28672"
+    },
+    {
+      "id": "14.08.09.2003",
+      "name": "Teluk Rimba",
+      "postal_code": "28672"
+    },
+    {
+      "id": "14.08.09.2004",
+      "name": "Buatan I",
+      "postal_code": "28672"
+    },
+    {
+      "id": "14.08.09.2005",
+      "name": "Buatan II",
+      "postal_code": "28672"
+    },
+    {
+      "id": "14.08.09.2006",
+      "name": "Sengkemang",
+      "postal_code": "28672"
+    },
+    {
+      "id": "14.08.09.2007",
+      "name": "Rantau Panjang",
+      "postal_code": "28672"
+    },
+    {
+      "id": "14.08.09.2008",
+      "name": "Empang Pandan",
+      "postal_code": "28672"
+    },
+    {
+      "id": "14.08.09.2009",
+      "name": "Keranji Guguh",
+      "postal_code": "28672"
+    },
+    {
+      "id": "14.08.09.2010",
+      "name": "Sri Gemilang",
+      "postal_code": "28672"
+    },
+    {
+      "id": "14.08.09.2011",
+      "name": "Tasik Seminai",
+      "postal_code": "28672"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

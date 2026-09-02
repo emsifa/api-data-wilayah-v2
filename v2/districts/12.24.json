@@ -1,18 +1,52 @@
 {
-  "data": {
-    "id": "12.24",
-    "name": "Kabupaten Nias Utara",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
+  "data": [
+    {
+      "id": "12.24.01",
+      "name": "Lotu"
     },
-    "regency": {
-      "id": "12.24",
-      "name": "Kabupaten Nias Utara"
+    {
+      "id": "12.24.02",
+      "name": "Sawo"
+    },
+    {
+      "id": "12.24.03",
+      "name": "Tuhemberua"
+    },
+    {
+      "id": "12.24.04",
+      "name": "Sitolu Ori"
+    },
+    {
+      "id": "12.24.05",
+      "name": "Namohalu Esiwa"
+    },
+    {
+      "id": "12.24.06",
+      "name": "Alasa Talumuzoi"
+    },
+    {
+      "id": "12.24.07",
+      "name": "Alasa"
+    },
+    {
+      "id": "12.24.08",
+      "name": "Tugala Oyo"
+    },
+    {
+      "id": "12.24.09",
+      "name": "Afulu"
+    },
+    {
+      "id": "12.24.10",
+      "name": "Lahewa"
+    },
+    {
+      "id": "12.24.11",
+      "name": "Lahewa Timur"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

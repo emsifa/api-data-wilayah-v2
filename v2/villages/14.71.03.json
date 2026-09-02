@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "14.71.03.1001",
+      "name": "Cinta Raja",
+      "postal_code": "28131"
+    },
+    {
+      "id": "14.71.03.1002",
+      "name": "Sukamulya",
+      "postal_code": "28133"
+    },
+    {
+      "id": "14.71.03.1003",
+      "name": "Sukamaju",
+      "postal_code": "28132"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

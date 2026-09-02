@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "13.03",
-    "name": "Kabupaten Sijunjung",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
+  "data": [
+    {
+      "id": "13.03.03",
+      "name": "Tanjung Gadang"
     },
-    "regency": {
-      "id": "13.03",
-      "name": "Kabupaten Sijunjung"
+    {
+      "id": "13.03.04",
+      "name": "Sijunjung"
+    },
+    {
+      "id": "13.03.05",
+      "name": "IV Nagari"
+    },
+    {
+      "id": "13.03.06",
+      "name": "Kamang Baru"
+    },
+    {
+      "id": "13.03.07",
+      "name": "Lubuk Tarok"
+    },
+    {
+      "id": "13.03.08",
+      "name": "Koto VII"
+    },
+    {
+      "id": "13.03.09",
+      "name": "Sumpur Kudus"
+    },
+    {
+      "id": "13.03.10",
+      "name": "Kupitan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

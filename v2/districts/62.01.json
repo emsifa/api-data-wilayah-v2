@@ -1,18 +1,32 @@
 {
-  "data": {
-    "id": "62.01",
-    "name": "Kabupaten Kotawaringin Barat",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
+  "data": [
+    {
+      "id": "62.01.01",
+      "name": "Kumai"
     },
-    "regency": {
-      "id": "62.01",
-      "name": "Kabupaten Kotawaringin Barat"
+    {
+      "id": "62.01.02",
+      "name": "Arut Selatan"
+    },
+    {
+      "id": "62.01.03",
+      "name": "Kotawaringin Lama"
+    },
+    {
+      "id": "62.01.04",
+      "name": "Arut Utara"
+    },
+    {
+      "id": "62.01.05",
+      "name": "Pangkalan Lada"
+    },
+    {
+      "id": "62.01.06",
+      "name": "Pangkalan Banteng"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

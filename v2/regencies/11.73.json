@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "11.73",
+    "name": "Kota Lhokseumawe",
+    "capital": "Lhokseumawe",
+    "lat": 5.179363622042538,
+    "lng": 97.14894011186956,
+    "elv": 3,
+    "tz": 7,
+    "population": 198705,
+    "total_area": 132.966,
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

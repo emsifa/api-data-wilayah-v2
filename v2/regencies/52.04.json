@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "52.04",
+    "name": "Kabupaten Sumbawa",
+    "capital": "Sumbawa Besar",
+    "lat": -8.489511525311054,
+    "lng": 117.4196890006745,
+    "elv": 14,
+    "tz": 8,
+    "population": 527715,
+    "total_area": 6645.723,
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "32.02.05.2001",
+      "name": "Cisolok",
+      "postal_code": "43366"
+    },
+    {
+      "id": "32.02.05.2002",
+      "name": "Pasirbaru",
+      "postal_code": "43366"
+    },
+    {
+      "id": "32.02.05.2003",
+      "name": "Cikahuripan",
+      "postal_code": "43366"
+    },
+    {
+      "id": "32.02.05.2004",
+      "name": "Cikelat",
+      "postal_code": "43366"
+    },
+    {
+      "id": "32.02.05.2005",
+      "name": "Caringin",
+      "postal_code": "43366"
+    },
+    {
+      "id": "32.02.05.2006",
+      "name": "Gunungkaramat",
+      "postal_code": "43366"
+    },
+    {
+      "id": "32.02.05.2007",
+      "name": "Gunungtanjung",
+      "postal_code": "43366"
+    },
+    {
+      "id": "32.02.05.2008",
+      "name": "Karangpapak",
+      "postal_code": "43366"
+    },
+    {
+      "id": "32.02.05.2009",
+      "name": "Sirnaresmi",
+      "postal_code": "43366"
+    },
+    {
+      "id": "32.02.05.2010",
+      "name": "Cicadas",
+      "postal_code": "43366"
+    },
+    {
+      "id": "32.02.05.2011",
+      "name": "Wanajaya",
+      "postal_code": "43366"
+    },
+    {
+      "id": "32.02.05.2012",
+      "name": "Wangunsari",
+      "postal_code": "43366"
+    },
+    {
+      "id": "32.02.05.2013",
+      "name": "Sukarame",
+      "postal_code": "43366"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

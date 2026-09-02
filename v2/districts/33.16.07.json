@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "33.16.07",
+    "name": "Jiken",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.16",
+      "name": "Kabupaten Blora"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

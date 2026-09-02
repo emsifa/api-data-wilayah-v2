@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "93.03.10.2001",
+      "name": "Sien",
+      "postal_code": "99853"
+    },
+    {
+      "id": "93.03.10.2002",
+      "name": "Sahapikya",
+      "postal_code": "99853"
+    },
+    {
+      "id": "93.03.10.2003",
+      "name": "Harapan",
+      "postal_code": "99853"
+    },
+    {
+      "id": "93.03.10.2004",
+      "name": "Yibin",
+      "postal_code": "99853"
+    },
+    {
+      "id": "93.03.10.2005",
+      "name": "Mopio",
+      "postal_code": "99853"
+    },
+    {
+      "id": "93.03.10.2006",
+      "name": "Pies",
+      "postal_code": "99854"
+    },
+    {
+      "id": "93.03.10.2007",
+      "name": "Memes",
+      "postal_code": "99854"
+    },
+    {
+      "id": "93.03.10.2008",
+      "name": "Getiyo",
+      "postal_code": "99854"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

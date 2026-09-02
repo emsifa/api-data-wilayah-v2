@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "75.01.14.2001",
+      "name": "Paris",
+      "postal_code": "96153"
+    },
+    {
+      "id": "75.01.14.2002",
+      "name": "Helumo",
+      "postal_code": "96150"
+    },
+    {
+      "id": "75.01.14.2003",
+      "name": "Pilomonu",
+      "postal_code": "96155"
+    },
+    {
+      "id": "75.01.14.2004",
+      "name": "Satria",
+      "postal_code": "96156"
+    },
+    {
+      "id": "75.01.14.2005",
+      "name": "Karyamukti",
+      "postal_code": "96152"
+    },
+    {
+      "id": "75.01.14.2006",
+      "name": "Talumopatu",
+      "postal_code": "96159"
+    },
+    {
+      "id": "75.01.14.2007",
+      "name": "Sidomukti",
+      "postal_code": "96157"
+    },
+    {
+      "id": "75.01.14.2008",
+      "name": "Payu",
+      "postal_code": "96154"
+    },
+    {
+      "id": "75.01.14.2009",
+      "name": "Sukamaju",
+      "postal_code": "96158"
+    },
+    {
+      "id": "75.01.14.2010",
+      "name": "Huyula",
+      "postal_code": "96151"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

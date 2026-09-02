@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "74.03.17.1002",
+      "name": "Palangga",
+      "postal_code": "93618"
+    },
+    {
+      "id": "74.03.17.1005",
+      "name": "Wapunto",
+      "postal_code": "93618"
+    },
+    {
+      "id": "74.03.17.2001",
+      "name": "Ghonsume",
+      "postal_code": "93618"
+    },
+    {
+      "id": "74.03.17.2003",
+      "name": "Lagasa",
+      "postal_code": "93618"
+    },
+    {
+      "id": "74.03.17.2004",
+      "name": "Ghone Bhalano",
+      "postal_code": "93618"
+    },
+    {
+      "id": "74.03.17.2006",
+      "name": "Lasunapa",
+      "postal_code": "93618"
+    },
+    {
+      "id": "74.03.17.2007",
+      "name": "Banggai",
+      "postal_code": "93618"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

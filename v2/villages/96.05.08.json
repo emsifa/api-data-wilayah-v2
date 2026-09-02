@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "96.05.08.1001",
+      "name": "Ayamaru",
+      "postal_code": "98058"
+    },
+    {
+      "id": "96.05.08.2002",
+      "name": "Framu",
+      "postal_code": "98058"
+    },
+    {
+      "id": "96.05.08.2003",
+      "name": "Mefkajim II",
+      "postal_code": "98058"
+    },
+    {
+      "id": "96.05.08.2004",
+      "name": "Fraharo",
+      "postal_code": "98058"
+    },
+    {
+      "id": "96.05.08.2005",
+      "name": "Smusswioh",
+      "postal_code": "98058"
+    },
+    {
+      "id": "96.05.08.2006",
+      "name": "Twer",
+      "postal_code": "98058"
+    },
+    {
+      "id": "96.05.08.2007",
+      "name": "Afes",
+      "postal_code": "98058"
+    },
+    {
+      "id": "96.05.08.2008",
+      "name": "Tuso",
+      "postal_code": "98058"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

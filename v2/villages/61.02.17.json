@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "61.02.17.2001",
+      "name": "Sekabuk",
+      "postal_code": "78361"
+    },
+    {
+      "id": "61.02.17.2002",
+      "name": "Pentek",
+      "postal_code": "78361"
+    },
+    {
+      "id": "61.02.17.2003",
+      "name": "Bum-bun",
+      "postal_code": "78361"
+    },
+    {
+      "id": "61.02.17.2004",
+      "name": "Amawang",
+      "postal_code": "78361"
+    },
+    {
+      "id": "61.02.17.2005",
+      "name": "Ansiap",
+      "postal_code": "78361"
+    },
+    {
+      "id": "61.02.17.2006",
+      "name": "Suak Barangan",
+      "postal_code": "78361"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

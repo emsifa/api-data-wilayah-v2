@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "53.17.02",
+    "name": "Umbu Ratu Nggay Barat",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.17",
+      "name": "Kabupaten Sumba Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "72.09.01.2005",
+      "name": "Taningkola",
+      "postal_code": "94690"
+    },
+    {
+      "id": "72.09.01.2006",
+      "name": "Bambu",
+      "postal_code": "94690"
+    },
+    {
+      "id": "72.09.01.2007",
+      "name": "Wakai",
+      "postal_code": "94690"
+    },
+    {
+      "id": "72.09.01.2008",
+      "name": "Una-Una",
+      "postal_code": "94690"
+    },
+    {
+      "id": "72.09.01.2009",
+      "name": "Tanjung Pude",
+      "postal_code": "94690"
+    },
+    {
+      "id": "72.09.01.2010",
+      "name": "Lembanya",
+      "postal_code": "94690"
+    },
+    {
+      "id": "72.09.01.2014",
+      "name": "Cendana",
+      "postal_code": "94690"
+    },
+    {
+      "id": "72.09.01.2015",
+      "name": "Binanguna",
+      "postal_code": "94690"
+    },
+    {
+      "id": "72.09.01.2017",
+      "name": "Kavetan",
+      "postal_code": "94690"
+    },
+    {
+      "id": "72.09.01.2018",
+      "name": "Tanimpo",
+      "postal_code": "94690"
+    },
+    {
+      "id": "72.09.01.2019",
+      "name": "Luangon",
+      "postal_code": "94690"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

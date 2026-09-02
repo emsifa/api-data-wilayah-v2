@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "95.02.07.2001",
+      "name": "Okyop",
+      "postal_code": "99574"
+    },
+    {
+      "id": "95.02.07.2002",
+      "name": "Oketur",
+      "postal_code": "99422"
+    },
+    {
+      "id": "95.02.07.2003",
+      "name": "Ehipten",
+      "postal_code": "99422"
+    },
+    {
+      "id": "95.02.07.2004",
+      "name": "Wantem",
+      "postal_code": "99422"
+    },
+    {
+      "id": "95.02.07.2005",
+      "name": "Dikdon",
+      "postal_code": "99422"
+    },
+    {
+      "id": "95.02.07.2006",
+      "name": "Okyako",
+      "postal_code": "99422"
+    },
+    {
+      "id": "95.02.07.2007",
+      "name": "Okyaop",
+      "postal_code": "99574"
+    },
+    {
+      "id": "95.02.07.2008",
+      "name": "Tatam",
+      "postal_code": "99422"
+    },
+    {
+      "id": "95.02.07.2009",
+      "name": "Okhik",
+      "postal_code": "99574"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

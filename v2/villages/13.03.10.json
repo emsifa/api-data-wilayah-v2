@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "13.03.10.2001",
+      "name": "Batu Manjulur",
+      "postal_code": "27564"
+    },
+    {
+      "id": "13.03.10.2002",
+      "name": "Pamuatan",
+      "postal_code": "27564"
+    },
+    {
+      "id": "13.03.10.2003",
+      "name": "Padang Sibusuk",
+      "postal_code": "27564"
+    },
+    {
+      "id": "13.03.10.2004",
+      "name": "Desa Kampung Baru",
+      "postal_code": "27564"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

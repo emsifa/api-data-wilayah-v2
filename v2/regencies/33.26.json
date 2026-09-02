@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "33.26",
+    "name": "Kabupaten Pekalongan",
+    "capital": "Kajen",
+    "lat": -7.0250357325518875,
+    "lng": 109.59114532537376,
+    "elv": 46,
+    "tz": 7,
+    "population": 1034241,
+    "total_area": 892.578,
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

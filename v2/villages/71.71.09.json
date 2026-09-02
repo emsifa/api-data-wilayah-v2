@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "71.71.09.1001",
+      "name": "Malalayang Satu",
+      "postal_code": "95162"
+    },
+    {
+      "id": "71.71.09.1002",
+      "name": "Bahu",
+      "postal_code": "95115"
+    },
+    {
+      "id": "71.71.09.1003",
+      "name": "Kleak",
+      "postal_code": "95115"
+    },
+    {
+      "id": "71.71.09.1004",
+      "name": "Batu Kota",
+      "postal_code": "95163"
+    },
+    {
+      "id": "71.71.09.1005",
+      "name": "Malalayang Satu Timur",
+      "postal_code": "95163"
+    },
+    {
+      "id": "71.71.09.1006",
+      "name": "Malalayang Satu Barat",
+      "postal_code": "95163"
+    },
+    {
+      "id": "71.71.09.1007",
+      "name": "Malalayang Dua",
+      "postal_code": "95163"
+    },
+    {
+      "id": "71.71.09.1008",
+      "name": "Winangun Satu",
+      "postal_code": "95161"
+    },
+    {
+      "id": "71.71.09.1009",
+      "name": "Winangun Dua",
+      "postal_code": "95161"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

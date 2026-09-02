@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "71.04.15.2001",
+      "name": "Pulutan",
+      "postal_code": "95878"
+    },
+    {
+      "id": "71.04.15.2002",
+      "name": "Pulutan Utara",
+      "postal_code": "95878"
+    },
+    {
+      "id": "71.04.15.2003",
+      "name": "Pulutan Selatan",
+      "postal_code": "95878"
+    },
+    {
+      "id": "71.04.15.2004",
+      "name": "Daran",
+      "postal_code": "95878"
+    },
+    {
+      "id": "71.04.15.2005",
+      "name": "Daran Utara",
+      "postal_code": "95878"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

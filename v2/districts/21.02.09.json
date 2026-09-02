@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "21.02.09",
+    "name": "Durai",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.02",
+      "name": "Kabupaten Karimun"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

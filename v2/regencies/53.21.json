@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "53.21",
+    "name": "Kabupaten Malaka",
+    "capital": "Betun",
+    "lat": -9.444597244521727,
+    "lng": 124.91757971876395,
+    "elv": 217,
+    "tz": 8,
+    "population": 210908,
+    "total_area": 1109.003,
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

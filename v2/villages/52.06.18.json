@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "52.06.18.2001",
+      "name": "Panda",
+      "postal_code": "84174"
+    },
+    {
+      "id": "52.06.18.2002",
+      "name": "Belo",
+      "postal_code": "84174"
+    },
+    {
+      "id": "52.06.18.2003",
+      "name": "Tonggondoa",
+      "postal_code": "84174"
+    },
+    {
+      "id": "52.06.18.2004",
+      "name": "Tonggorisa",
+      "postal_code": "84174"
+    },
+    {
+      "id": "52.06.18.2005",
+      "name": "Teke",
+      "postal_code": "84174"
+    },
+    {
+      "id": "52.06.18.2006",
+      "name": "Ntonggu",
+      "postal_code": "84174"
+    },
+    {
+      "id": "52.06.18.2007",
+      "name": "Nata",
+      "postal_code": "84174"
+    },
+    {
+      "id": "52.06.18.2008",
+      "name": "Dore",
+      "postal_code": "84174"
+    },
+    {
+      "id": "52.06.18.2009",
+      "name": "Roi",
+      "postal_code": "84174"
+    },
+    {
+      "id": "52.06.18.2011",
+      "name": "Ragi",
+      "postal_code": "84174"
+    },
+    {
+      "id": "52.06.18.2012",
+      "name": "Padolo",
+      "postal_code": "84174"
+    },
+    {
+      "id": "52.06.18.2013",
+      "name": "Bre",
+      "postal_code": "84174"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

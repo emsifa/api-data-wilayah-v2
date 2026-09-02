@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.76.02.1007",
+      "name": "Harjamukti",
+      "postal_code": "16454"
+    },
+    {
+      "id": "32.76.02.1008",
+      "name": "Curug",
+      "postal_code": "16453"
+    },
+    {
+      "id": "32.76.02.1009",
+      "name": "Tugu",
+      "postal_code": "16451"
+    },
+    {
+      "id": "32.76.02.1010",
+      "name": "Mekarsari",
+      "postal_code": "16452"
+    },
+    {
+      "id": "32.76.02.1011",
+      "name": "Pasir Gunung Selatan",
+      "postal_code": "16451"
+    },
+    {
+      "id": "32.76.02.1012",
+      "name": "Cisalak Pasar",
+      "postal_code": "16452"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

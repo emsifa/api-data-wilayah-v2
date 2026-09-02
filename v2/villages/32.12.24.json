@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.12.24.2001",
+      "name": "Bogor",
+      "postal_code": "45259"
+    },
+    {
+      "id": "32.12.24.2002",
+      "name": "Sukra",
+      "postal_code": "45259"
+    },
+    {
+      "id": "32.12.24.2003",
+      "name": "Ujunggebang",
+      "postal_code": "45259"
+    },
+    {
+      "id": "32.12.24.2004",
+      "name": "Tegaltaman",
+      "postal_code": "45259"
+    },
+    {
+      "id": "32.12.24.2005",
+      "name": "Sukra Wetan",
+      "postal_code": "45259"
+    },
+    {
+      "id": "32.12.24.2006",
+      "name": "Sumuradem",
+      "postal_code": "45259"
+    },
+    {
+      "id": "32.12.24.2007",
+      "name": "Sumuradem Timur",
+      "postal_code": "45259"
+    },
+    {
+      "id": "32.12.24.2017",
+      "name": "Karanglayung",
+      "postal_code": "45259"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

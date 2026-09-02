@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.73.22.1001",
+      "name": "Sekejati",
+      "postal_code": "40286"
+    },
+    {
+      "id": "32.73.22.1002",
+      "name": "Margasari",
+      "postal_code": "40286"
+    },
+    {
+      "id": "32.73.22.1003",
+      "name": "Cijaura",
+      "postal_code": "40287"
+    },
+    {
+      "id": "32.73.22.1004",
+      "name": "Jati Sari",
+      "postal_code": "40286"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

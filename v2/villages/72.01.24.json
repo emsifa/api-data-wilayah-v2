@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "72.01.24.2001",
+      "name": "Tolisu",
+      "postal_code": "94764"
+    },
+    {
+      "id": "72.01.24.2002",
+      "name": "Mekar Kencana",
+      "postal_code": "94764"
+    },
+    {
+      "id": "72.01.24.2003",
+      "name": "Marga Kencana",
+      "postal_code": "94764"
+    },
+    {
+      "id": "72.01.24.2004",
+      "name": "Mulyasari",
+      "postal_code": "94764"
+    },
+    {
+      "id": "72.01.24.2005",
+      "name": "Tirta Jaya",
+      "postal_code": "94764"
+    },
+    {
+      "id": "72.01.24.2006",
+      "name": "Saribuana",
+      "postal_code": "94764"
+    },
+    {
+      "id": "72.01.24.2007",
+      "name": "Tohitisari",
+      "postal_code": "94764"
+    },
+    {
+      "id": "72.01.24.2008",
+      "name": "Sindang Baru",
+      "postal_code": "94764"
+    },
+    {
+      "id": "72.01.24.2009",
+      "name": "Bukit Jaya",
+      "postal_code": "94764"
+    },
+    {
+      "id": "72.01.24.2010",
+      "name": "Piondo",
+      "postal_code": "94764"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

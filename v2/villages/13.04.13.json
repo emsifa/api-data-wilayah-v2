@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.04.13.2001",
+      "name": "Batu Bulek",
+      "postal_code": "27293"
+    },
+    {
+      "id": "13.04.13.2002",
+      "name": "Balai Tangah",
+      "postal_code": "27293"
+    },
+    {
+      "id": "13.04.13.2003",
+      "name": "Tanjuang Bonai",
+      "postal_code": "27293"
+    },
+    {
+      "id": "13.04.13.2004",
+      "name": "Lubuak Jantan",
+      "postal_code": "27293"
+    },
+    {
+      "id": "13.04.13.2005",
+      "name": "Tapi Selo",
+      "postal_code": "27293"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

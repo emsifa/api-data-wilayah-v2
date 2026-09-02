@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "73.02.04.1001",
+      "name": "Eka Tiro",
+      "postal_code": "92572"
+    },
+    {
+      "id": "73.02.04.2002",
+      "name": "Dwitiro",
+      "postal_code": "92572"
+    },
+    {
+      "id": "73.02.04.2003",
+      "name": "Tritiro",
+      "postal_code": "92572"
+    },
+    {
+      "id": "73.02.04.2004",
+      "name": "Batang",
+      "postal_code": "92572"
+    },
+    {
+      "id": "73.02.04.2005",
+      "name": "Bontotangnga",
+      "postal_code": "92572"
+    },
+    {
+      "id": "73.02.04.2006",
+      "name": "Caramming",
+      "postal_code": "92572"
+    },
+    {
+      "id": "73.02.04.2007",
+      "name": "Tamalanrea",
+      "postal_code": "92572"
+    },
+    {
+      "id": "73.02.04.2008",
+      "name": "Bontobarua",
+      "postal_code": "92572"
+    },
+    {
+      "id": "73.02.04.2009",
+      "name": "Pakubalaho",
+      "postal_code": "92572"
+    },
+    {
+      "id": "73.02.04.2010",
+      "name": "Bontomarannu",
+      "postal_code": "92572"
+    },
+    {
+      "id": "73.02.04.2011",
+      "name": "Bontobulaeng",
+      "postal_code": "92572"
+    },
+    {
+      "id": "73.02.04.2012",
+      "name": "Buhung Bundang",
+      "postal_code": "92572"
+    },
+    {
+      "id": "73.02.04.2013",
+      "name": "Lamanda",
+      "postal_code": "92572"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "74.02.02.1001",
+      "name": "Puunaaha",
+      "postal_code": "93411"
+    },
+    {
+      "id": "74.02.02.1002",
+      "name": "Tumpas",
+      "postal_code": "93411"
+    },
+    {
+      "id": "74.02.02.1003",
+      "name": "Latoma",
+      "postal_code": "93414"
+    },
+    {
+      "id": "74.02.02.1004",
+      "name": "Ambekairi",
+      "postal_code": "93413"
+    },
+    {
+      "id": "74.02.02.1005",
+      "name": "Arombu",
+      "postal_code": "93412"
+    },
+    {
+      "id": "74.02.02.1006",
+      "name": "Asinua",
+      "postal_code": "93416"
+    },
+    {
+      "id": "74.02.02.1011",
+      "name": "Wawonggole",
+      "postal_code": "93416"
+    },
+    {
+      "id": "74.02.02.1012",
+      "name": "Tuoy",
+      "postal_code": "93415"
+    },
+    {
+      "id": "74.02.02.1013",
+      "name": "Unaaha",
+      "postal_code": "93418"
+    },
+    {
+      "id": "74.02.02.1015",
+      "name": "Inolobunggadue",
+      "postal_code": "93416"
+    },
+    {
+      "id": "74.02.02.1016",
+      "name": "Asambu",
+      "postal_code": "93416"
+    },
+    {
+      "id": "74.02.02.1017",
+      "name": "Tobeu",
+      "postal_code": "93416"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

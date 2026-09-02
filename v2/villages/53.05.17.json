@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "53.05.17.2001",
+      "name": "Kayang",
+      "postal_code": "85882"
+    },
+    {
+      "id": "53.05.17.2002",
+      "name": "Marisa",
+      "postal_code": "85882"
+    },
+    {
+      "id": "53.05.17.2003",
+      "name": "Lamma",
+      "postal_code": "85882"
+    },
+    {
+      "id": "53.05.17.2004",
+      "name": "Allumang",
+      "postal_code": "85882"
+    },
+    {
+      "id": "53.05.17.2005",
+      "name": "Beangonong",
+      "postal_code": "85882"
+    },
+    {
+      "id": "53.05.17.2006",
+      "name": "Kalondama Barat",
+      "postal_code": "85882"
+    },
+    {
+      "id": "53.05.17.2007",
+      "name": "Kalondama Tengah",
+      "postal_code": "85882"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

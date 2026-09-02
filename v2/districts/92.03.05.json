@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "92.03.05",
+    "name": "Fak-Fak Tengah",
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    },
+    "regency": {
+      "id": "92.03",
+      "name": "Kabupaten Fak Fak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

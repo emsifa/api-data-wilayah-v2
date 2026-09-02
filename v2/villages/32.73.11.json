@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.73.11.1001",
+      "name": "Cigereleng",
+      "postal_code": "40253"
+    },
+    {
+      "id": "32.73.11.1002",
+      "name": "Ancol",
+      "postal_code": "40254"
+    },
+    {
+      "id": "32.73.11.1003",
+      "name": "Pungkur",
+      "postal_code": "40252"
+    },
+    {
+      "id": "32.73.11.1004",
+      "name": "Balong Gede",
+      "postal_code": "40251"
+    },
+    {
+      "id": "32.73.11.1005",
+      "name": "Ciseureuh",
+      "postal_code": "40255"
+    },
+    {
+      "id": "32.73.11.1006",
+      "name": "Ciateul",
+      "postal_code": "40252"
+    },
+    {
+      "id": "32.73.11.1007",
+      "name": "Pasirluyu",
+      "postal_code": "40254"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

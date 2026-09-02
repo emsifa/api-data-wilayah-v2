@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "94.06.09.2001",
+      "name": "Piyakunu",
+      "postal_code": "98873"
+    },
+    {
+      "id": "94.06.09.2002",
+      "name": "Diyeugi",
+      "postal_code": "98873"
+    },
+    {
+      "id": "94.06.09.2003",
+      "name": "Putaapa",
+      "postal_code": "98873"
+    },
+    {
+      "id": "94.06.09.2004",
+      "name": "Atou",
+      "postal_code": "98873"
+    },
+    {
+      "id": "94.06.09.2005",
+      "name": "Modio",
+      "postal_code": "98873"
+    },
+    {
+      "id": "94.06.09.2006",
+      "name": "Upibega",
+      "postal_code": "98873"
+    },
+    {
+      "id": "94.06.09.2007",
+      "name": "Timepa",
+      "postal_code": "98873"
+    },
+    {
+      "id": "94.06.09.2008",
+      "name": "Gabaikunu",
+      "postal_code": "98873"
+    },
+    {
+      "id": "94.06.09.2009",
+      "name": "Adauwo",
+      "postal_code": "98873"
+    },
+    {
+      "id": "94.06.09.2010",
+      "name": "Megaikebo",
+      "postal_code": "98873"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

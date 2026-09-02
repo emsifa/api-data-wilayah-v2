@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "13.02.11.2001",
+      "name": "Sumani",
+      "postal_code": "27356"
+    },
+    {
+      "id": "13.02.11.2002",
+      "name": "Tikalak",
+      "postal_code": "27356"
+    },
+    {
+      "id": "13.02.11.2003",
+      "name": "Koto Sani",
+      "postal_code": "27356"
+    },
+    {
+      "id": "13.02.11.2004",
+      "name": "Singkarak",
+      "postal_code": "27356"
+    },
+    {
+      "id": "13.02.11.2005",
+      "name": "Aripan",
+      "postal_code": "27356"
+    },
+    {
+      "id": "13.02.11.2006",
+      "name": "Kacang",
+      "postal_code": "27356"
+    },
+    {
+      "id": "13.02.11.2007",
+      "name": "Tanjung Alai",
+      "postal_code": "27356"
+    },
+    {
+      "id": "13.02.11.2008",
+      "name": "Saniangbaka",
+      "postal_code": "27356"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

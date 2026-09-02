@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "61.05.21",
+    "name": "Binjai Hulu",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.05",
+      "name": "Kabupaten Sintang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

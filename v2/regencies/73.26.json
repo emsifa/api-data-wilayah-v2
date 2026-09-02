@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "73.26",
+    "name": "Kabupaten Toraja Utara",
+    "capital": "Rantepao",
+    "lat": -2.9736212067823917,
+    "lng": 119.89482069925177,
+    "elv": 779,
+    "tz": 8,
+    "population": 266513,
+    "total_area": 1289.134,
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

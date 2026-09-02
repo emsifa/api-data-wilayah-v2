@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "11.01.09.2001",
+      "name": "Keude Trumon",
+      "postal_code": "23774"
+    },
+    {
+      "id": "11.01.09.2002",
+      "name": "Ujong Tanoh",
+      "postal_code": "23774"
+    },
+    {
+      "id": "11.01.09.2003",
+      "name": "Sigleng",
+      "postal_code": "23774"
+    },
+    {
+      "id": "11.01.09.2004",
+      "name": "Ie Meudama",
+      "postal_code": "23774"
+    },
+    {
+      "id": "11.01.09.2005",
+      "name": "Teupin Tinggi",
+      "postal_code": "23774"
+    },
+    {
+      "id": "11.01.09.2006",
+      "name": "Kuta Baro",
+      "postal_code": "23774"
+    },
+    {
+      "id": "11.01.09.2007",
+      "name": "Panton Bilie",
+      "postal_code": "23774"
+    },
+    {
+      "id": "11.01.09.2012",
+      "name": "Kuta Padang",
+      "postal_code": "23774"
+    },
+    {
+      "id": "11.01.09.2013",
+      "name": "Raket",
+      "postal_code": "23774"
+    },
+    {
+      "id": "11.01.09.2014",
+      "name": "Gampong Teungoh",
+      "postal_code": "23774"
+    },
+    {
+      "id": "11.01.09.2015",
+      "name": "Seuneubok Jaya",
+      "postal_code": "23774"
+    },
+    {
+      "id": "11.01.09.2016",
+      "name": "Padang Harapan",
+      "postal_code": "23774"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

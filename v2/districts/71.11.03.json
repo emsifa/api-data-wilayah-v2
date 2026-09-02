@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "71.11.03",
+    "name": "Pinolosian",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.11",
+      "name": "Kabupaten Bolaang Mongondow Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

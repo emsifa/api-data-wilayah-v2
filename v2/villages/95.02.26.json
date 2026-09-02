@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "95.02.26.2001",
+      "name": "Karye",
+      "postal_code": "99441"
+    },
+    {
+      "id": "95.02.26.2002",
+      "name": "Batani",
+      "postal_code": "99441"
+    },
+    {
+      "id": "95.02.26.2003",
+      "name": "Segame",
+      "postal_code": "99441"
+    },
+    {
+      "id": "95.02.26.2004",
+      "name": "Palur Satu",
+      "postal_code": "99441"
+    },
+    {
+      "id": "95.02.26.2005",
+      "name": "Palur Dua",
+      "postal_code": "99441"
+    },
+    {
+      "id": "95.02.26.2006",
+      "name": "Sople",
+      "postal_code": "99441"
+    },
+    {
+      "id": "95.02.26.2007",
+      "name": "Bakata",
+      "postal_code": "99441"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

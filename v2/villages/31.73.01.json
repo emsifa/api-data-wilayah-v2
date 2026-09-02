@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "31.73.01.1001",
+      "name": "Cengkareng Barat",
+      "postal_code": "11730"
+    },
+    {
+      "id": "31.73.01.1002",
+      "name": "Duri Kosambi",
+      "postal_code": "11750"
+    },
+    {
+      "id": "31.73.01.1003",
+      "name": "Rawa Buaya",
+      "postal_code": "11740"
+    },
+    {
+      "id": "31.73.01.1004",
+      "name": "Kedaung Kali Angke",
+      "postal_code": "11710"
+    },
+    {
+      "id": "31.73.01.1005",
+      "name": "Kapuk",
+      "postal_code": "11720"
+    },
+    {
+      "id": "31.73.01.1006",
+      "name": "Cengkareng Timur",
+      "postal_code": "11730"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

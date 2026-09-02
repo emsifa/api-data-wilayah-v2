@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "16.09.05.2001",
+      "name": "Karang Agung",
+      "postal_code": "32263"
+    },
+    {
+      "id": "16.09.05.2007",
+      "name": "Lubar",
+      "postal_code": "32263"
+    },
+    {
+      "id": "16.09.05.2008",
+      "name": "Tanjung Sari",
+      "postal_code": "32263"
+    },
+    {
+      "id": "16.09.05.2009",
+      "name": "Simpangan",
+      "postal_code": "32263"
+    },
+    {
+      "id": "16.09.05.2010",
+      "name": "Bungin Campang",
+      "postal_code": "32263"
+    },
+    {
+      "id": "16.09.05.2029",
+      "name": "Simpang Agung",
+      "postal_code": "32263"
+    },
+    {
+      "id": "16.09.05.2030",
+      "name": "Sinar Mulyo",
+      "postal_code": "32263"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

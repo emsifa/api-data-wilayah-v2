@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.09.24.2001",
+      "name": "Patemon",
+      "postal_code": "68181"
+    },
+    {
+      "id": "35.09.24.2002",
+      "name": "Bedadung",
+      "postal_code": "68181"
+    },
+    {
+      "id": "35.09.24.2003",
+      "name": "Sumberpinang",
+      "postal_code": "68181"
+    },
+    {
+      "id": "35.09.24.2004",
+      "name": "Subo",
+      "postal_code": "68181"
+    },
+    {
+      "id": "35.09.24.2005",
+      "name": "Kertosari",
+      "postal_code": "68181"
+    },
+    {
+      "id": "35.09.24.2006",
+      "name": "Jatian",
+      "postal_code": "68181"
+    },
+    {
+      "id": "35.09.24.2007",
+      "name": "Pakusari",
+      "postal_code": "68181"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

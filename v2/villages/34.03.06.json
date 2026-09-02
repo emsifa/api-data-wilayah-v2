@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "34.03.06.2001",
+      "name": "Girikarto",
+      "postal_code": "55872"
+    },
+    {
+      "id": "34.03.06.2002",
+      "name": "Girisekar",
+      "postal_code": "55872"
+    },
+    {
+      "id": "34.03.06.2003",
+      "name": "Girimulyo",
+      "postal_code": "55872"
+    },
+    {
+      "id": "34.03.06.2004",
+      "name": "Giriwungu",
+      "postal_code": "55872"
+    },
+    {
+      "id": "34.03.06.2005",
+      "name": "Giriharjo",
+      "postal_code": "55872"
+    },
+    {
+      "id": "34.03.06.2006",
+      "name": "Girisuko",
+      "postal_code": "55872"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

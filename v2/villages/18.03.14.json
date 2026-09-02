@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "18.03.14.2001",
+      "name": "Tatakarya",
+      "postal_code": "34585"
+    },
+    {
+      "id": "18.03.14.2002",
+      "name": "Bandar Abung",
+      "postal_code": "34585"
+    },
+    {
+      "id": "18.03.14.2003",
+      "name": "Bangun Sari",
+      "postal_code": "34585"
+    },
+    {
+      "id": "18.03.14.2004",
+      "name": "Purba Sakti",
+      "postal_code": "34585"
+    },
+    {
+      "id": "18.03.14.2005",
+      "name": "Bumi Raharja",
+      "postal_code": "34585"
+    },
+    {
+      "id": "18.03.14.2006",
+      "name": "Bumi Restu",
+      "postal_code": "34585"
+    },
+    {
+      "id": "18.03.14.2007",
+      "name": "Bandar Sakti",
+      "postal_code": "34585"
+    },
+    {
+      "id": "18.03.14.2008",
+      "name": "Karya Sakti",
+      "postal_code": "34585"
+    },
+    {
+      "id": "18.03.14.2009",
+      "name": "Sukoharjo",
+      "postal_code": "34585"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

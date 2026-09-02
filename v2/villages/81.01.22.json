@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "81.01.22.2001",
+      "name": "Larike",
+      "postal_code": "97581"
+    },
+    {
+      "id": "81.01.22.2002",
+      "name": "Wakasihu",
+      "postal_code": "97581"
+    },
+    {
+      "id": "81.01.22.2003",
+      "name": "Allang",
+      "postal_code": "97581"
+    },
+    {
+      "id": "81.01.22.2004",
+      "name": "Liliboy",
+      "postal_code": "97581"
+    },
+    {
+      "id": "81.01.22.2005",
+      "name": "Hatu",
+      "postal_code": "97581"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

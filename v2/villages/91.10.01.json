@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "91.10.01.1001",
+      "name": "Mararena",
+      "postal_code": "99373"
+    },
+    {
+      "id": "91.10.01.1002",
+      "name": "Sarmi Kota",
+      "postal_code": "99373"
+    },
+    {
+      "id": "91.10.01.2003",
+      "name": "Sarmo",
+      "postal_code": "99373"
+    },
+    {
+      "id": "91.10.01.2004",
+      "name": "Liki",
+      "postal_code": "99373"
+    },
+    {
+      "id": "91.10.01.2006",
+      "name": "Sawar",
+      "postal_code": "99373"
+    },
+    {
+      "id": "91.10.01.2007",
+      "name": "Bagaiserwar",
+      "postal_code": "99373"
+    },
+    {
+      "id": "91.10.01.2014",
+      "name": "Armo",
+      "postal_code": "99373"
+    },
+    {
+      "id": "91.10.01.2018",
+      "name": "Bagaisewar II",
+      "postal_code": "99373"
+    },
+    {
+      "id": "91.10.01.2019",
+      "name": "Pulau Armo",
+      "postal_code": "99373"
+    },
+    {
+      "id": "91.10.01.2020",
+      "name": "Lembah Neidam",
+      "postal_code": "99373"
+    },
+    {
+      "id": "91.10.01.2021",
+      "name": "Tefarewar",
+      "postal_code": "99373"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

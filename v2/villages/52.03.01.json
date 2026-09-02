@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "52.03.01.2001",
+      "name": "Tanjung Luar",
+      "postal_code": "83673"
+    },
+    {
+      "id": "52.03.01.2002",
+      "name": "Pijot",
+      "postal_code": "83673"
+    },
+    {
+      "id": "52.03.01.2003",
+      "name": "Selebung Ketangga",
+      "postal_code": "83673"
+    },
+    {
+      "id": "52.03.01.2004",
+      "name": "Sepit",
+      "postal_code": "83673"
+    },
+    {
+      "id": "52.03.01.2005",
+      "name": "Batu Putik",
+      "postal_code": "83673"
+    },
+    {
+      "id": "52.03.01.2006",
+      "name": "Senyiur",
+      "postal_code": "83673"
+    },
+    {
+      "id": "52.03.01.2007",
+      "name": "Keruak",
+      "postal_code": "83673"
+    },
+    {
+      "id": "52.03.01.2008",
+      "name": "Ketapang Raya",
+      "postal_code": "83673"
+    },
+    {
+      "id": "52.03.01.2009",
+      "name": "Pijot Utara",
+      "postal_code": "83673"
+    },
+    {
+      "id": "52.03.01.2010",
+      "name": "Dane Rase",
+      "postal_code": "83673"
+    },
+    {
+      "id": "52.03.01.2011",
+      "name": "Ketangga Jeraeng",
+      "postal_code": "83673"
+    },
+    {
+      "id": "52.03.01.2012",
+      "name": "Mendana Raya",
+      "postal_code": "83673"
+    },
+    {
+      "id": "52.03.01.2013",
+      "name": "Setungkep Lingsar",
+      "postal_code": "83673"
+    },
+    {
+      "id": "52.03.01.2014",
+      "name": "Montong Belae",
+      "postal_code": "83673"
+    },
+    {
+      "id": "52.03.01.2015",
+      "name": "Pulau Maringkik",
+      "postal_code": "83673"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "13.07.06.2001",
+      "name": "Manggilang",
+      "postal_code": "26272"
+    },
+    {
+      "id": "13.07.06.2002",
+      "name": "Tanjuang Balik",
+      "postal_code": "26272"
+    },
+    {
+      "id": "13.07.06.2003",
+      "name": "Gunuang Malintang",
+      "postal_code": "26272"
+    },
+    {
+      "id": "13.07.06.2004",
+      "name": "Pangkalan",
+      "postal_code": "26272"
+    },
+    {
+      "id": "13.07.06.2005",
+      "name": "Koto Alam",
+      "postal_code": "26272"
+    },
+    {
+      "id": "13.07.06.2006",
+      "name": "Tanjung Pauh",
+      "postal_code": "26272"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

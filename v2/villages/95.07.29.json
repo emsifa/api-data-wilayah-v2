@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "95.07.29.2001",
+      "name": "Pirambor",
+      "postal_code": "99561"
+    },
+    {
+      "id": "95.07.29.2002",
+      "name": "Gondura",
+      "postal_code": "99561"
+    },
+    {
+      "id": "95.07.29.2003",
+      "name": "Juta",
+      "postal_code": "99561"
+    },
+    {
+      "id": "95.07.29.2004",
+      "name": "Tigima",
+      "postal_code": "99561"
+    },
+    {
+      "id": "95.07.29.2005",
+      "name": "Gelok",
+      "postal_code": "99561"
+    },
+    {
+      "id": "95.07.29.2006",
+      "name": "Murtani",
+      "postal_code": "99561"
+    },
+    {
+      "id": "95.07.29.2007",
+      "name": "Beam",
+      "postal_code": "99561"
+    },
+    {
+      "id": "95.07.29.2008",
+      "name": "Wanggu",
+      "postal_code": "99561"
+    },
+    {
+      "id": "95.07.29.2009",
+      "name": "Kulip",
+      "postal_code": "99561"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

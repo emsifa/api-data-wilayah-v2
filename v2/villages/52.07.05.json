@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "52.07.05.2001",
+      "name": "Desa Beru",
+      "postal_code": "84458"
+    },
+    {
+      "id": "52.07.05.2002",
+      "name": "Tepas",
+      "postal_code": "84458"
+    },
+    {
+      "id": "52.07.05.2003",
+      "name": "Bangkat Monteh",
+      "postal_code": "84458"
+    },
+    {
+      "id": "52.07.05.2004",
+      "name": "Sapugara Bree",
+      "postal_code": "84458"
+    },
+    {
+      "id": "52.07.05.2005",
+      "name": "Tepas Sepakat",
+      "postal_code": "84455"
+    },
+    {
+      "id": "52.07.05.2006",
+      "name": "Lamuntet",
+      "postal_code": "84455"
+    },
+    {
+      "id": "52.07.05.2007",
+      "name": "Rarak Ronges",
+      "postal_code": "84455"
+    },
+    {
+      "id": "52.07.05.2008",
+      "name": "Moteng",
+      "postal_code": "84455"
+    },
+    {
+      "id": "52.07.05.2009",
+      "name": "Seminar Salit",
+      "postal_code": "84455"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

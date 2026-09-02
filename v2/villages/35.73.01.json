@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "35.73.01.1001",
+      "name": "Balearjosari",
+      "postal_code": "65126"
+    },
+    {
+      "id": "35.73.01.1002",
+      "name": "Arjosari",
+      "postal_code": "65126"
+    },
+    {
+      "id": "35.73.01.1003",
+      "name": "Polowijen",
+      "postal_code": "65126"
+    },
+    {
+      "id": "35.73.01.1004",
+      "name": "Purwodadi",
+      "postal_code": "65125"
+    },
+    {
+      "id": "35.73.01.1005",
+      "name": "Blimbing",
+      "postal_code": "65125"
+    },
+    {
+      "id": "35.73.01.1006",
+      "name": "Pandanwangi",
+      "postal_code": "65124"
+    },
+    {
+      "id": "35.73.01.1007",
+      "name": "Purwantoro",
+      "postal_code": "65122"
+    },
+    {
+      "id": "35.73.01.1008",
+      "name": "Bunulrejo",
+      "postal_code": "65123"
+    },
+    {
+      "id": "35.73.01.1009",
+      "name": "Kesatrian",
+      "postal_code": "65121"
+    },
+    {
+      "id": "35.73.01.1010",
+      "name": "Polehan",
+      "postal_code": "65121"
+    },
+    {
+      "id": "35.73.01.1011",
+      "name": "Jodipan",
+      "postal_code": "65137"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

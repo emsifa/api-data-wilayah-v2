@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.12.31.2001",
+      "name": "Limpas",
+      "postal_code": "45257"
+    },
+    {
+      "id": "32.12.31.2002",
+      "name": "Mekarsari",
+      "postal_code": "45257"
+    },
+    {
+      "id": "32.12.31.2003",
+      "name": "Patrol Baru",
+      "postal_code": "45257"
+    },
+    {
+      "id": "32.12.31.2004",
+      "name": "Patrol Lor",
+      "postal_code": "45257"
+    },
+    {
+      "id": "32.12.31.2005",
+      "name": "Patrol",
+      "postal_code": "45257"
+    },
+    {
+      "id": "32.12.31.2006",
+      "name": "Bugel",
+      "postal_code": "45257"
+    },
+    {
+      "id": "32.12.31.2007",
+      "name": "Arjasari",
+      "postal_code": "45257"
+    },
+    {
+      "id": "32.12.31.2008",
+      "name": "Sukahaji",
+      "postal_code": "45257"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

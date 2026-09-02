@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "32.02.29.2001",
+      "name": "Gunungjaya",
+      "postal_code": "43152"
+    },
+    {
+      "id": "32.02.29.2002",
+      "name": "Sukasari",
+      "postal_code": "43134"
+    },
+    {
+      "id": "32.02.29.2003",
+      "name": "Sukamanah",
+      "postal_code": "43152"
+    },
+    {
+      "id": "32.02.29.2004",
+      "name": "Cisaat",
+      "postal_code": "43152"
+    },
+    {
+      "id": "32.02.29.2005",
+      "name": "Nagrak",
+      "postal_code": "43132"
+    },
+    {
+      "id": "32.02.29.2006",
+      "name": "Babakan",
+      "postal_code": "43152"
+    },
+    {
+      "id": "32.02.29.2007",
+      "name": "Sukamantri",
+      "postal_code": "43152"
+    },
+    {
+      "id": "32.02.29.2008",
+      "name": "Cibatu",
+      "postal_code": "43152"
+    },
+    {
+      "id": "32.02.29.2009",
+      "name": "Selajambe",
+      "postal_code": "43152"
+    },
+    {
+      "id": "32.02.29.2010",
+      "name": "Padaasih",
+      "postal_code": "43152"
+    },
+    {
+      "id": "32.02.29.2011",
+      "name": "Cibolang Kaler",
+      "postal_code": "43152"
+    },
+    {
+      "id": "32.02.29.2012",
+      "name": "Kutasirna",
+      "postal_code": "43152"
+    },
+    {
+      "id": "32.02.29.2013",
+      "name": "Sukaresmi",
+      "postal_code": "43152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

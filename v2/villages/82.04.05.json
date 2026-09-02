@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "82.04.05.2001",
+      "name": "Wayaloar",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.05.2002",
+      "name": "Fluk",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.05.2003",
+      "name": "Bobo",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.05.2004",
+      "name": "Mano",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.05.2005",
+      "name": "Loleo",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.05.2007",
+      "name": "Soligi",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.05.2008",
+      "name": "Gambaru",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.05.2009",
+      "name": "Ocimaloleo",
+      "postal_code": "97792"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

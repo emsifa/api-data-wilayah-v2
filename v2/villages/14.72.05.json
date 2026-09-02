@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "14.72.05.1001",
+      "name": "Teluk Makmur",
+      "postal_code": "28825"
+    },
+    {
+      "id": "14.72.05.1002",
+      "name": "Mundam",
+      "postal_code": "28825"
+    },
+    {
+      "id": "14.72.05.1003",
+      "name": "Guntung",
+      "postal_code": "28825"
+    },
+    {
+      "id": "14.72.05.1004",
+      "name": "Pelintung",
+      "postal_code": "28825"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

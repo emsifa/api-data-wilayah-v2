@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "61.04.01.2011",
+      "name": "Sungai Putri",
+      "postal_code": "78813"
+    },
+    {
+      "id": "61.04.01.2012",
+      "name": "Tanjung Baik Budi",
+      "postal_code": "78813"
+    },
+    {
+      "id": "61.04.01.2013",
+      "name": "Kuala Tolak",
+      "postal_code": "78813"
+    },
+    {
+      "id": "61.04.01.2014",
+      "name": "Kuala Satong",
+      "postal_code": "78813"
+    },
+    {
+      "id": "61.04.01.2015",
+      "name": "Laman Satong",
+      "postal_code": "78813"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

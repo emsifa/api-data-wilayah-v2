@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.02.03.1001",
+      "name": "Tanahl Lemo",
+      "postal_code": "92571"
+    },
+    {
+      "id": "73.02.03.1002",
+      "name": "Sapo Lohe",
+      "postal_code": "92571"
+    },
+    {
+      "id": "73.02.03.1003",
+      "name": "Benjala",
+      "postal_code": "92571"
+    },
+    {
+      "id": "73.02.03.1004",
+      "name": "Tanah Beru",
+      "postal_code": "92571"
+    },
+    {
+      "id": "73.02.03.2005",
+      "name": "Bira",
+      "postal_code": "92571"
+    },
+    {
+      "id": "73.02.03.2006",
+      "name": "Ara",
+      "postal_code": "92571"
+    },
+    {
+      "id": "73.02.03.2007",
+      "name": "Darubiah",
+      "postal_code": "92571"
+    },
+    {
+      "id": "73.02.03.2008",
+      "name": "Lembanna",
+      "postal_code": "92571"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

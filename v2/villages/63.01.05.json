@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "63.01.05.2001",
+      "name": "Benua Raya",
+      "postal_code": "70852"
+    },
+    {
+      "id": "63.01.05.2002",
+      "name": "Bati-Bati",
+      "postal_code": "70852"
+    },
+    {
+      "id": "63.01.05.2003",
+      "name": "Ujung",
+      "postal_code": "70852"
+    },
+    {
+      "id": "63.01.05.2004",
+      "name": "Liang Anggang",
+      "postal_code": "70852"
+    },
+    {
+      "id": "63.01.05.2005",
+      "name": "Bentok Kampung",
+      "postal_code": "70852"
+    },
+    {
+      "id": "63.01.05.2006",
+      "name": "Bentok Darat",
+      "postal_code": "70852"
+    },
+    {
+      "id": "63.01.05.2007",
+      "name": "Banyu Irang",
+      "postal_code": "70852"
+    },
+    {
+      "id": "63.01.05.2008",
+      "name": "Nusa Indah",
+      "postal_code": "70852"
+    },
+    {
+      "id": "63.01.05.2009",
+      "name": "Pandahan",
+      "postal_code": "70852"
+    },
+    {
+      "id": "63.01.05.2010",
+      "name": "Padang",
+      "postal_code": "70852"
+    },
+    {
+      "id": "63.01.05.2011",
+      "name": "Ujung Baru",
+      "postal_code": "70852"
+    },
+    {
+      "id": "63.01.05.2012",
+      "name": "Sambangan",
+      "postal_code": "70852"
+    },
+    {
+      "id": "63.01.05.2013",
+      "name": "Kait-kait",
+      "postal_code": "70852"
+    },
+    {
+      "id": "63.01.05.2014",
+      "name": "Kait-kait Baru",
+      "postal_code": "70852"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

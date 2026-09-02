@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "33.24.19.2001",
+      "name": "Dempelrejo",
+      "postal_code": "51357"
+    },
+    {
+      "id": "33.24.19.2002",
+      "name": "Putatgede",
+      "postal_code": "51357"
+    },
+    {
+      "id": "33.24.19.2003",
+      "name": "Jatirejo",
+      "postal_code": "51357"
+    },
+    {
+      "id": "33.24.19.2004",
+      "name": "Winong",
+      "postal_code": "51357"
+    },
+    {
+      "id": "33.24.19.2005",
+      "name": "Rejosari",
+      "postal_code": "51357"
+    },
+    {
+      "id": "33.24.19.2006",
+      "name": "Sumbersari",
+      "postal_code": "51357"
+    },
+    {
+      "id": "33.24.19.2007",
+      "name": "Bojong Gede",
+      "postal_code": "51357"
+    },
+    {
+      "id": "33.24.19.2008",
+      "name": "Kebonagung",
+      "postal_code": "51357"
+    },
+    {
+      "id": "33.24.19.2009",
+      "name": "Ngampel Kulon",
+      "postal_code": "51357"
+    },
+    {
+      "id": "33.24.19.2010",
+      "name": "Ngampel Wetan",
+      "postal_code": "51357"
+    },
+    {
+      "id": "33.24.19.2011",
+      "name": "Sudipayung",
+      "postal_code": "51357"
+    },
+    {
+      "id": "33.24.19.2012",
+      "name": "Banyuurip",
+      "postal_code": "51357"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

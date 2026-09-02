@@ -1,18 +1,64 @@
 {
-  "data": {
-    "id": "34.71",
-    "name": "Kota Yogyakarta",
-    "province": {
-      "id": "34",
-      "name": "Daerah Istimewa Yogyakarta"
+  "data": [
+    {
+      "id": "34.71.01",
+      "name": "Tegalrejo"
     },
-    "regency": {
-      "id": "34.71",
-      "name": "Kota Yogyakarta"
+    {
+      "id": "34.71.02",
+      "name": "Jetis"
+    },
+    {
+      "id": "34.71.03",
+      "name": "Gondokusuman"
+    },
+    {
+      "id": "34.71.04",
+      "name": "Danurejan"
+    },
+    {
+      "id": "34.71.05",
+      "name": "Gedongtengen"
+    },
+    {
+      "id": "34.71.06",
+      "name": "Ngampilan"
+    },
+    {
+      "id": "34.71.07",
+      "name": "Wirobrajan"
+    },
+    {
+      "id": "34.71.08",
+      "name": "Mantrijeron"
+    },
+    {
+      "id": "34.71.09",
+      "name": "Kraton"
+    },
+    {
+      "id": "34.71.10",
+      "name": "Gondomanan"
+    },
+    {
+      "id": "34.71.11",
+      "name": "Pakualaman"
+    },
+    {
+      "id": "34.71.12",
+      "name": "Mergangsan"
+    },
+    {
+      "id": "34.71.13",
+      "name": "Umbulharjo"
+    },
+    {
+      "id": "34.71.14",
+      "name": "Kotagede"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

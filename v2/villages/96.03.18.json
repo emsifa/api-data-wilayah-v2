@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "96.03.18.2001",
+      "name": "Go",
+      "postal_code": "98486"
+    },
+    {
+      "id": "96.03.18.2002",
+      "name": "Kabilol",
+      "postal_code": "98486"
+    },
+    {
+      "id": "96.03.18.2003",
+      "name": "Arawai",
+      "postal_code": "98486"
+    },
+    {
+      "id": "96.03.18.2004",
+      "name": "Beo",
+      "postal_code": "98486"
+    },
+    {
+      "id": "96.03.18.2005",
+      "name": "Waifoi",
+      "postal_code": "98486"
+    },
+    {
+      "id": "96.03.18.2006",
+      "name": "Warimak",
+      "postal_code": "98486"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "11.75.01.2001",
+      "name": "Subulussalam",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2002",
+      "name": "Pegayo",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2003",
+      "name": "Sikalondang",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2004",
+      "name": "Buluh Dori",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2005",
+      "name": "Subulussalam Utara",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2006",
+      "name": "Subulussalam Selatan",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2007",
+      "name": "Subulussalam Barat",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2008",
+      "name": "Suka Makmur",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2009",
+      "name": "Tangga Besi",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2010",
+      "name": "Kuta Cepu",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2011",
+      "name": "Pasar Panjang",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2012",
+      "name": "Mukti Makmur",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2013",
+      "name": "Lae Oram",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2014",
+      "name": "Makmur Jaya",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2015",
+      "name": "Belegen Mulia",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2016",
+      "name": "Danau Tras",
+      "postal_code": "24781"
+    },
+    {
+      "id": "11.75.01.2017",
+      "name": "Subulussalam Timur",
+      "postal_code": "24781"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

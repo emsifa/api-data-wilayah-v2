@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "13.02.13.2001",
+      "name": "Paninggahan",
+      "postal_code": "27389"
+    },
+    {
+      "id": "13.02.13.2002",
+      "name": "Muaro Pingai",
+      "postal_code": "27389"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

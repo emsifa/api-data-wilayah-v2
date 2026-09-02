@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "16.05.21.2001",
+      "name": "Sukowarno",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.21.2002",
+      "name": "Sugih Waras",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.21.2003",
+      "name": "Bangun Rejo",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.21.2004",
+      "name": "Ciptodadi",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.21.2005",
+      "name": "Sukarena",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.21.2006",
+      "name": "Yudha Karya Bakti",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.21.2007",
+      "name": "Rantau Alih",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.21.2008",
+      "name": "Ciptodadi II",
+      "postal_code": "31665"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

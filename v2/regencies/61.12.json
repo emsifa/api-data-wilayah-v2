@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "61.12",
+    "name": "Kabupaten Kubu Raya",
+    "capital": "Sungai Raya",
+    "lat": -0.12685886609816646,
+    "lng": 109.40395645418373,
+    "elv": 2,
+    "tz": 7,
+    "population": 646091,
+    "total_area": 8549.057,
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

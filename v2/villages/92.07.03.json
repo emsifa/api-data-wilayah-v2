@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "92.07.03.2001",
+      "name": "Aisandami",
+      "postal_code": "98345"
+    },
+    {
+      "id": "92.07.03.2002",
+      "name": "Sobey",
+      "postal_code": "98345"
+    },
+    {
+      "id": "92.07.03.2006",
+      "name": "Yopanggar",
+      "postal_code": "98345"
+    },
+    {
+      "id": "92.07.03.2011",
+      "name": "Sobey Indah",
+      "postal_code": "98345"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

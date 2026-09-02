@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "13.08",
+    "name": "Kabupaten Pasaman",
+    "capital": "Lubuk Sikaping",
+    "lat": 0.14039088869184965,
+    "lng": 100.16698745256477,
+    "elv": 449,
+    "tz": 7,
+    "population": 313837,
+    "total_area": 3902.444,
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

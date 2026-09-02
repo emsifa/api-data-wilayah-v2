@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.09.29.2001",
+      "name": "Kalideres",
+      "postal_code": "45165"
+    },
+    {
+      "id": "32.09.29.2002",
+      "name": "Prajawinangun Kulon",
+      "postal_code": "45165"
+    },
+    {
+      "id": "32.09.29.2003",
+      "name": "Prajawinangun Wetan",
+      "postal_code": "45165"
+    },
+    {
+      "id": "32.09.29.2004",
+      "name": "Ujungsemi",
+      "postal_code": "45165"
+    },
+    {
+      "id": "32.09.29.2005",
+      "name": "Wargabinangun",
+      "postal_code": "45165"
+    },
+    {
+      "id": "32.09.29.2006",
+      "name": "Kaliwedi Lor",
+      "postal_code": "45165"
+    },
+    {
+      "id": "32.09.29.2007",
+      "name": "Kaliwedi Kidul",
+      "postal_code": "45165"
+    },
+    {
+      "id": "32.09.29.2008",
+      "name": "Guwa Kidul",
+      "postal_code": "45165"
+    },
+    {
+      "id": "32.09.29.2009",
+      "name": "Guwa Lor",
+      "postal_code": "45165"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

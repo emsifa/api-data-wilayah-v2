@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "91.20.04.2001",
+      "name": "Kustra",
+      "postal_code": "98693"
+    },
+    {
+      "id": "91.20.04.2002",
+      "name": "Noyadi",
+      "postal_code": "98693"
+    },
+    {
+      "id": "91.20.04.2003",
+      "name": "Obogoi",
+      "postal_code": "98693"
+    },
+    {
+      "id": "91.20.04.2004",
+      "name": "Biri",
+      "postal_code": "98693"
+    },
+    {
+      "id": "91.20.04.2005",
+      "name": "Wakeyadi",
+      "postal_code": "98693"
+    },
+    {
+      "id": "91.20.04.2006",
+      "name": "Eri",
+      "postal_code": "98693"
+    },
+    {
+      "id": "91.20.04.2007",
+      "name": "Towao",
+      "postal_code": "98693"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

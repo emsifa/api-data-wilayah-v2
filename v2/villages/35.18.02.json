@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "35.18.02.2001",
+      "name": "Kuncir",
+      "postal_code": "64474"
+    },
+    {
+      "id": "35.18.02.2002",
+      "name": "Kepel",
+      "postal_code": "64474"
+    },
+    {
+      "id": "35.18.02.2003",
+      "name": "Suru",
+      "postal_code": "64474"
+    },
+    {
+      "id": "35.18.02.2004",
+      "name": "Ngetos",
+      "postal_code": "64474"
+    },
+    {
+      "id": "35.18.02.2005",
+      "name": "Klodan",
+      "postal_code": "64474"
+    },
+    {
+      "id": "35.18.02.2006",
+      "name": "Mojoduwur",
+      "postal_code": "64474"
+    },
+    {
+      "id": "35.18.02.2007",
+      "name": "Kweden",
+      "postal_code": "64474"
+    },
+    {
+      "id": "35.18.02.2008",
+      "name": "Blongko",
+      "postal_code": "64474"
+    },
+    {
+      "id": "35.18.02.2009",
+      "name": "Oro-oro Ombo",
+      "postal_code": "64474"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

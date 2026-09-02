@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "76.02",
+    "name": "Kabupaten Mamuju",
+    "capital": "Mamuju",
+    "lat": -2.6897491591296983,
+    "lng": 118.88453367460207,
+    "elv": 31,
+    "tz": 8,
+    "population": 288382,
+    "total_area": 4942.041,
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

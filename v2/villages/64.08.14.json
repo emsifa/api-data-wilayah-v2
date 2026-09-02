@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "64.08.14.2001",
+      "name": "Mukti Jaya",
+      "postal_code": "75683"
+    },
+    {
+      "id": "64.08.14.2002",
+      "name": "Pulung Sari",
+      "postal_code": "75683"
+    },
+    {
+      "id": "64.08.14.2003",
+      "name": "Margo Mulyo",
+      "postal_code": "75683"
+    },
+    {
+      "id": "64.08.14.2004",
+      "name": "Rantau Makmur",
+      "postal_code": "75683"
+    },
+    {
+      "id": "64.08.14.2005",
+      "name": "Manunggal Jaya",
+      "postal_code": "75683"
+    },
+    {
+      "id": "64.08.14.2006",
+      "name": "Tanjung Labu",
+      "postal_code": "75683"
+    },
+    {
+      "id": "64.08.14.2007",
+      "name": "Kebon Agung",
+      "postal_code": "75683"
+    },
+    {
+      "id": "64.08.14.2008",
+      "name": "Tepian Makmur",
+      "postal_code": "75683"
+    },
+    {
+      "id": "64.08.14.2009",
+      "name": "Masalap Raya",
+      "postal_code": "75683"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "32.72",
+    "name": "Kota Sukabumi",
+    "capital": "Sukabumi",
+    "lat": -6.917619028189996,
+    "lng": 106.93185683886544,
+    "elv": 626,
+    "tz": 7,
+    "population": 370096,
+    "total_area": 48.314,
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

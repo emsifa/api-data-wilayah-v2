@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "73.72.04",
+    "name": "Bacukiki Barat",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.72",
+      "name": "Kota Parepare"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "75.05.10.2001",
+      "name": "Biau",
+      "postal_code": "96523"
+    },
+    {
+      "id": "75.05.10.2002",
+      "name": "Omuto",
+      "postal_code": "96523"
+    },
+    {
+      "id": "75.05.10.2003",
+      "name": "Luhuto",
+      "postal_code": "96523"
+    },
+    {
+      "id": "75.05.10.2004",
+      "name": "Windu",
+      "postal_code": "96523"
+    },
+    {
+      "id": "75.05.10.2005",
+      "name": "Topi",
+      "postal_code": "96523"
+    },
+    {
+      "id": "75.05.10.2006",
+      "name": "Sembihingan",
+      "postal_code": "96523"
+    },
+    {
+      "id": "75.05.10.2007",
+      "name": "Didingga",
+      "postal_code": "96523"
+    },
+    {
+      "id": "75.05.10.2008",
+      "name": "Bualo",
+      "postal_code": "96523"
+    },
+    {
+      "id": "75.05.10.2009",
+      "name": "Potanga",
+      "postal_code": "96523"
+    },
+    {
+      "id": "75.05.10.2010",
+      "name": "Bohulo",
+      "postal_code": "96523"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

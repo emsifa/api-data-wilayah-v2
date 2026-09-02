@@ -1,18 +1,48 @@
 {
-  "data": {
-    "id": "52.01",
-    "name": "Kabupaten Lombok Barat",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
+  "data": [
+    {
+      "id": "52.01.01",
+      "name": "Gerung"
     },
-    "regency": {
-      "id": "52.01",
-      "name": "Kabupaten Lombok Barat"
+    {
+      "id": "52.01.02",
+      "name": "Kediri"
+    },
+    {
+      "id": "52.01.03",
+      "name": "Narmada"
+    },
+    {
+      "id": "52.01.07",
+      "name": "Sekotong"
+    },
+    {
+      "id": "52.01.08",
+      "name": "Labuapi"
+    },
+    {
+      "id": "52.01.09",
+      "name": "Gunungsari"
+    },
+    {
+      "id": "52.01.12",
+      "name": "Lingsar"
+    },
+    {
+      "id": "52.01.13",
+      "name": "Lembar"
+    },
+    {
+      "id": "52.01.14",
+      "name": "Batu Layar"
+    },
+    {
+      "id": "52.01.15",
+      "name": "Kuripan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

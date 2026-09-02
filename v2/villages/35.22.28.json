@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "35.22.28.2001",
+      "name": "Gayam",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.28.2002",
+      "name": "Begadon",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.28.2003",
+      "name": "Ringintunggal",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.28.2004",
+      "name": "Mojodelik",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.28.2005",
+      "name": "Brabowan",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.28.2006",
+      "name": "Bonorejo",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.28.2007",
+      "name": "Beged",
+      "postal_code": "62152"
+    },
+    {
+      "id": "35.22.28.2008",
+      "name": "Katur",
+      "postal_code": "62152"
+    },
+    {
+      "id": "35.22.28.2009",
+      "name": "Ngraho",
+      "postal_code": "62152"
+    },
+    {
+      "id": "35.22.28.2010",
+      "name": "Sudu",
+      "postal_code": "62152"
+    },
+    {
+      "id": "35.22.28.2011",
+      "name": "Cengungklung",
+      "postal_code": "62152"
+    },
+    {
+      "id": "35.22.28.2012",
+      "name": "Manukan",
+      "postal_code": "62152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

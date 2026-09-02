@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "61.07",
+    "name": "Kabupaten Bengkayang",
+    "capital": "Bengkayang",
+    "lat": 0.8691040170174341,
+    "lng": 109.49749129836343,
+    "elv": 80,
+    "tz": 7,
+    "population": 295966,
+    "total_area": 5488.322,
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "32.10.23.2001",
+      "name": "Sedareja",
+      "postal_code": "45467"
+    },
+    {
+      "id": "32.10.23.2002",
+      "name": "Cidadap",
+      "postal_code": "45467"
+    },
+    {
+      "id": "32.10.23.2003",
+      "name": "Maniis",
+      "postal_code": "45467"
+    },
+    {
+      "id": "32.10.23.2004",
+      "name": "Nagarakembang",
+      "postal_code": "45467"
+    },
+    {
+      "id": "32.10.23.2005",
+      "name": "Wangkelang",
+      "postal_code": "45467"
+    },
+    {
+      "id": "32.10.23.2006",
+      "name": "Cimanggugirang",
+      "postal_code": "45467"
+    },
+    {
+      "id": "32.10.23.2007",
+      "name": "Cingambul",
+      "postal_code": "45467"
+    },
+    {
+      "id": "32.10.23.2008",
+      "name": "Cikondang",
+      "postal_code": "45467"
+    },
+    {
+      "id": "32.10.23.2009",
+      "name": "Ciranjeng",
+      "postal_code": "45467"
+    },
+    {
+      "id": "32.10.23.2010",
+      "name": "Rawa",
+      "postal_code": "45467"
+    },
+    {
+      "id": "32.10.23.2011",
+      "name": "Kondangmekar",
+      "postal_code": "45467"
+    },
+    {
+      "id": "32.10.23.2012",
+      "name": "Cintaasih",
+      "postal_code": "45467"
+    },
+    {
+      "id": "32.10.23.2013",
+      "name": "Muktisari",
+      "postal_code": "45467"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

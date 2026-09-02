@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "81.05.15.2001",
+      "name": "Waru",
+      "postal_code": "97524"
+    },
+    {
+      "id": "81.05.15.2002",
+      "name": "Bellis",
+      "postal_code": "97524"
+    },
+    {
+      "id": "81.05.15.2003",
+      "name": "Dawang",
+      "postal_code": "97524"
+    },
+    {
+      "id": "81.05.15.2004",
+      "name": "Solang",
+      "postal_code": "97524"
+    },
+    {
+      "id": "81.05.15.2005",
+      "name": "Karay",
+      "postal_code": "97524"
+    },
+    {
+      "id": "81.05.15.2006",
+      "name": "Nama Lena",
+      "postal_code": "97524"
+    },
+    {
+      "id": "81.05.15.2007",
+      "name": "Nama Andan",
+      "postal_code": "97524"
+    },
+    {
+      "id": "81.05.15.2008",
+      "name": "Tubir Wasiwang",
+      "postal_code": "97524"
+    },
+    {
+      "id": "81.05.15.2009",
+      "name": "Kampung Baru",
+      "postal_code": "97524"
+    },
+    {
+      "id": "81.05.15.2010",
+      "name": "Boinfia",
+      "postal_code": "97524"
+    },
+    {
+      "id": "81.05.15.2011",
+      "name": "Madak",
+      "postal_code": "97524"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

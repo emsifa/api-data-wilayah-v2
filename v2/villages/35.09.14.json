@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.09.14.2001",
+      "name": "Pakis",
+      "postal_code": "68153"
+    },
+    {
+      "id": "35.09.14.2002",
+      "name": "Kemuning Sari Lor",
+      "postal_code": "68153"
+    },
+    {
+      "id": "35.09.14.2003",
+      "name": "Panti",
+      "postal_code": "68153"
+    },
+    {
+      "id": "35.09.14.2004",
+      "name": "Glagahwero",
+      "postal_code": "68153"
+    },
+    {
+      "id": "35.09.14.2005",
+      "name": "Suci",
+      "postal_code": "68153"
+    },
+    {
+      "id": "35.09.14.2006",
+      "name": "Kemiri",
+      "postal_code": "68153"
+    },
+    {
+      "id": "35.09.14.2007",
+      "name": "Serut",
+      "postal_code": "68153"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

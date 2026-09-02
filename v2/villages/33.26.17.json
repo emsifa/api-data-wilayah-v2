@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "33.26.17.2001",
+      "name": "Mejasem",
+      "postal_code": "51137"
+    },
+    {
+      "id": "33.26.17.2002",
+      "name": "Wonosari",
+      "postal_code": "51137"
+    },
+    {
+      "id": "33.26.17.2003",
+      "name": "Tengengkulon",
+      "postal_code": "51137"
+    },
+    {
+      "id": "33.26.17.2004",
+      "name": "Tunjungsari",
+      "postal_code": "51137"
+    },
+    {
+      "id": "33.26.17.2005",
+      "name": "Pait",
+      "postal_code": "51137"
+    },
+    {
+      "id": "33.26.17.2006",
+      "name": "Tengengwetan",
+      "postal_code": "51137"
+    },
+    {
+      "id": "33.26.17.2007",
+      "name": "Rembun",
+      "postal_code": "51137"
+    },
+    {
+      "id": "33.26.17.2008",
+      "name": "Yosorejo",
+      "postal_code": "51137"
+    },
+    {
+      "id": "33.26.17.2009",
+      "name": "Siwalan",
+      "postal_code": "51137"
+    },
+    {
+      "id": "33.26.17.2010",
+      "name": "Boyoteluk",
+      "postal_code": "51137"
+    },
+    {
+      "id": "33.26.17.2011",
+      "name": "Depok",
+      "postal_code": "51137"
+    },
+    {
+      "id": "33.26.17.2012",
+      "name": "Blacanan",
+      "postal_code": "51137"
+    },
+    {
+      "id": "33.26.17.2013",
+      "name": "Blimbingwuluh",
+      "postal_code": "51137"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

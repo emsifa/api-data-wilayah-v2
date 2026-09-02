@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.17.16.2001",
+      "name": "Cikande",
+      "postal_code": "40560"
+    },
+    {
+      "id": "32.17.16.2002",
+      "name": "Jati",
+      "postal_code": "40560"
+    },
+    {
+      "id": "32.17.16.2003",
+      "name": "Girimukti",
+      "postal_code": "40560"
+    },
+    {
+      "id": "32.17.16.2004",
+      "name": "Bojonghaleuang",
+      "postal_code": "40560"
+    },
+    {
+      "id": "32.17.16.2005",
+      "name": "Cipangeran",
+      "postal_code": "40560"
+    },
+    {
+      "id": "32.17.16.2006",
+      "name": "Saguling",
+      "postal_code": "40560"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

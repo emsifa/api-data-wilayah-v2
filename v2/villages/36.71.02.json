@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "36.71.02.1001",
+      "name": "Keroncong",
+      "postal_code": "15134"
+    },
+    {
+      "id": "36.71.02.1002",
+      "name": "Jatake",
+      "postal_code": "15136"
+    },
+    {
+      "id": "36.71.02.1003",
+      "name": "Pasir Jaya",
+      "postal_code": "15135"
+    },
+    {
+      "id": "36.71.02.1004",
+      "name": "Gandasari",
+      "postal_code": "15137"
+    },
+    {
+      "id": "36.71.02.1005",
+      "name": "Manis Jaya",
+      "postal_code": "15136"
+    },
+    {
+      "id": "36.71.02.1006",
+      "name": "Alam Jaya",
+      "postal_code": "15133"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

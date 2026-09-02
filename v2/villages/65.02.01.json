@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "65.02.01.2002",
+      "name": "Long Bisai",
+      "postal_code": "77555"
+    },
+    {
+      "id": "65.02.01.2005",
+      "name": "Pulau Sapi",
+      "postal_code": "77555"
+    },
+    {
+      "id": "65.02.01.2006",
+      "name": "Paking",
+      "postal_code": "77555"
+    },
+    {
+      "id": "65.02.01.2007",
+      "name": "Lidung Kemenci",
+      "postal_code": "77555"
+    },
+    {
+      "id": "65.02.01.2008",
+      "name": "Mentarang Baru",
+      "postal_code": "77555"
+    },
+    {
+      "id": "65.02.01.2009",
+      "name": "Harapan Maju",
+      "postal_code": "77555"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

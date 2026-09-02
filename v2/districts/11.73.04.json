@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "11.73.04",
+    "name": "Muara Satu",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.73",
+      "name": "Kota Lhokseumawe"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

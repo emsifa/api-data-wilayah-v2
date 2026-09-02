@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "72.02.22",
+    "name": "Poso Kota Utara",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.02",
+      "name": "Kabupaten Poso"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

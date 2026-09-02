@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "18.13.09.2001",
+      "name": "Sumber Agung",
+      "postal_code": "34883"
+    },
+    {
+      "id": "18.13.09.2002",
+      "name": "Ulok Mukti",
+      "postal_code": "34883"
+    },
+    {
+      "id": "18.13.09.2003",
+      "name": "Negeri Ratu Ngambur",
+      "postal_code": "34883"
+    },
+    {
+      "id": "18.13.09.2004",
+      "name": "Pekon Mon",
+      "postal_code": "34883"
+    },
+    {
+      "id": "18.13.09.2005",
+      "name": "Gedung Cahya Kuningan",
+      "postal_code": "34883"
+    },
+    {
+      "id": "18.13.09.2006",
+      "name": "Suka Banjar",
+      "postal_code": "34883"
+    },
+    {
+      "id": "18.13.09.2007",
+      "name": "Suka Negara",
+      "postal_code": "34883"
+    },
+    {
+      "id": "18.13.09.2008",
+      "name": "Muara Tembulih",
+      "postal_code": "34883"
+    },
+    {
+      "id": "18.13.09.2009",
+      "name": "Bumi Ratu",
+      "postal_code": "34883"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

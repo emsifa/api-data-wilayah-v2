@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "91.03.03.2001",
+      "name": "Waiya",
+      "postal_code": "99353"
+    },
+    {
+      "id": "91.03.03.2002",
+      "name": "Entiyebo",
+      "postal_code": "99353"
+    },
+    {
+      "id": "91.03.03.2003",
+      "name": "Kendate",
+      "postal_code": "99353"
+    },
+    {
+      "id": "91.03.03.2004",
+      "name": "Tablasupa",
+      "postal_code": "99353"
+    },
+    {
+      "id": "91.03.03.2005",
+      "name": "Yepase",
+      "postal_code": "99353"
+    },
+    {
+      "id": "91.03.03.2006",
+      "name": "Wambena",
+      "postal_code": "99353"
+    },
+    {
+      "id": "91.03.03.2007",
+      "name": "Yewena",
+      "postal_code": "99353"
+    },
+    {
+      "id": "91.03.03.2012",
+      "name": "Doromena",
+      "postal_code": "99353"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

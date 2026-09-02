@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "33.24.18.2001",
+      "name": "Ngerjo",
+      "postal_code": "51359"
+    },
+    {
+      "id": "33.24.18.2002",
+      "name": "Kedungasri",
+      "postal_code": "51359"
+    },
+    {
+      "id": "33.24.18.2003",
+      "name": "Kedunggading",
+      "postal_code": "51359"
+    },
+    {
+      "id": "33.24.18.2004",
+      "name": "Ringinarum",
+      "postal_code": "51359"
+    },
+    {
+      "id": "33.24.18.2005",
+      "name": "Ngawensari",
+      "postal_code": "51359"
+    },
+    {
+      "id": "33.24.18.2006",
+      "name": "Tejorejo",
+      "postal_code": "51359"
+    },
+    {
+      "id": "33.24.18.2007",
+      "name": "Wungurejo",
+      "postal_code": "51359"
+    },
+    {
+      "id": "33.24.18.2008",
+      "name": "Rowobranten",
+      "postal_code": "51359"
+    },
+    {
+      "id": "33.24.18.2009",
+      "name": "Caruban",
+      "postal_code": "51359"
+    },
+    {
+      "id": "33.24.18.2010",
+      "name": "Mojo",
+      "postal_code": "51359"
+    },
+    {
+      "id": "33.24.18.2011",
+      "name": "Purworejo",
+      "postal_code": "51359"
+    },
+    {
+      "id": "33.24.18.2012",
+      "name": "Pagerdawung",
+      "postal_code": "51359"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

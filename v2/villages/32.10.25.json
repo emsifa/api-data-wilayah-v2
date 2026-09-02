@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.10.25.2001",
+      "name": "Pasirayu",
+      "postal_code": "45471"
+    },
+    {
+      "id": "32.10.25.2002",
+      "name": "Sindang",
+      "postal_code": "45471"
+    },
+    {
+      "id": "32.10.25.2003",
+      "name": "Garawastu",
+      "postal_code": "45471"
+    },
+    {
+      "id": "32.10.25.2004",
+      "name": "Indrakila",
+      "postal_code": "45471"
+    },
+    {
+      "id": "32.10.25.2005",
+      "name": "Gunungkuning",
+      "postal_code": "45471"
+    },
+    {
+      "id": "32.10.25.2007",
+      "name": "Sangkanhurip",
+      "postal_code": "45471"
+    },
+    {
+      "id": "32.10.25.2008",
+      "name": "Bayureja",
+      "postal_code": "45471"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

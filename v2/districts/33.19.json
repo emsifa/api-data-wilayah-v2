@@ -1,18 +1,44 @@
 {
-  "data": {
-    "id": "33.19",
-    "name": "Kabupaten Kudus",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
+  "data": [
+    {
+      "id": "33.19.01",
+      "name": "Kaliwungu"
     },
-    "regency": {
-      "id": "33.19",
-      "name": "Kabupaten Kudus"
+    {
+      "id": "33.19.02",
+      "name": "Kota Kudus"
+    },
+    {
+      "id": "33.19.03",
+      "name": "Jati"
+    },
+    {
+      "id": "33.19.04",
+      "name": "Undaan"
+    },
+    {
+      "id": "33.19.05",
+      "name": "Mejobo"
+    },
+    {
+      "id": "33.19.06",
+      "name": "Jekulo"
+    },
+    {
+      "id": "33.19.07",
+      "name": "Bae"
+    },
+    {
+      "id": "33.19.08",
+      "name": "Gebog"
+    },
+    {
+      "id": "33.19.09",
+      "name": "Dawe"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

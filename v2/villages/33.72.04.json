@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "33.72.04.1001",
+      "name": "Kepatihan Kulon",
+      "postal_code": "57129"
+    },
+    {
+      "id": "33.72.04.1002",
+      "name": "Kepatihan Wetan",
+      "postal_code": "57129"
+    },
+    {
+      "id": "33.72.04.1003",
+      "name": "Sudiroprajan",
+      "postal_code": "57121"
+    },
+    {
+      "id": "33.72.04.1004",
+      "name": "Gandekan",
+      "postal_code": "57122"
+    },
+    {
+      "id": "33.72.04.1005",
+      "name": "Sewu",
+      "postal_code": "57129"
+    },
+    {
+      "id": "33.72.04.1006",
+      "name": "Pucangsawit",
+      "postal_code": "57125"
+    },
+    {
+      "id": "33.72.04.1007",
+      "name": "Jagalan",
+      "postal_code": "57162"
+    },
+    {
+      "id": "33.72.04.1008",
+      "name": "Purwodiningratan",
+      "postal_code": "57128"
+    },
+    {
+      "id": "33.72.04.1009",
+      "name": "Tegalharjo",
+      "postal_code": "57128"
+    },
+    {
+      "id": "33.72.04.1010",
+      "name": "Jebres",
+      "postal_code": "57126"
+    },
+    {
+      "id": "33.72.04.1011",
+      "name": "Mojosongo",
+      "postal_code": "57127"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

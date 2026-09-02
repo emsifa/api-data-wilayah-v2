@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "61.07.01.2001",
+      "name": "Sungai Duri",
+      "postal_code": "79272"
+    },
+    {
+      "id": "61.07.01.2004",
+      "name": "Sungai Jaga A",
+      "postal_code": "79272"
+    },
+    {
+      "id": "61.07.01.2005",
+      "name": "Sungai Jaga B",
+      "postal_code": "79272"
+    },
+    {
+      "id": "61.07.01.2006",
+      "name": "Sungai Pangkalan I",
+      "postal_code": "79272"
+    },
+    {
+      "id": "61.07.01.2007",
+      "name": "Sungai Pangkalan II",
+      "postal_code": "79272"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

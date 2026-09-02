@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "13.06.09.2001",
+      "name": "Koto Tangah",
+      "postal_code": "26153"
+    },
+    {
+      "id": "13.06.09.2003",
+      "name": "Gadut",
+      "postal_code": "26153"
+    },
+    {
+      "id": "13.06.09.2004",
+      "name": "Kapau",
+      "postal_code": "26153"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

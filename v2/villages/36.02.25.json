@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "36.02.25.2001",
+      "name": "Banjaririgasi",
+      "postal_code": "42351"
+    },
+    {
+      "id": "36.02.25.2002",
+      "name": "Ciladaeun",
+      "postal_code": "42351"
+    },
+    {
+      "id": "36.02.25.2003",
+      "name": "Lebakgedong",
+      "postal_code": "42351"
+    },
+    {
+      "id": "36.02.25.2004",
+      "name": "Banjarsari",
+      "postal_code": "42351"
+    },
+    {
+      "id": "36.02.25.2005",
+      "name": "Lebaksitu",
+      "postal_code": "42351"
+    },
+    {
+      "id": "36.02.25.2006",
+      "name": "Lebaksangka",
+      "postal_code": "42351"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "21.04.10.2001",
+      "name": "Busung Panjang",
+      "postal_code": "29876"
+    },
+    {
+      "id": "21.04.10.2002",
+      "name": "Posek",
+      "postal_code": "29876"
+    },
+    {
+      "id": "21.04.10.2003",
+      "name": "Suak Buaya",
+      "postal_code": "29876"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

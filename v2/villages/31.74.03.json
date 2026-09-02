@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "31.74.03.1001",
+      "name": "Mampang Prapatan",
+      "postal_code": "12790"
+    },
+    {
+      "id": "31.74.03.1002",
+      "name": "Bangka",
+      "postal_code": "12730"
+    },
+    {
+      "id": "31.74.03.1003",
+      "name": "Pela Mampang",
+      "postal_code": "12720"
+    },
+    {
+      "id": "31.74.03.1004",
+      "name": "Tegal Parang",
+      "postal_code": "12790"
+    },
+    {
+      "id": "31.74.03.1005",
+      "name": "Kuningan Barat",
+      "postal_code": "12710"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "76.05.05.2001",
+      "name": "Kabiraan",
+      "postal_code": "91454"
+    },
+    {
+      "id": "76.05.05.2002",
+      "name": "Sambabo",
+      "postal_code": "91454"
+    },
+    {
+      "id": "76.05.05.2003",
+      "name": "Tandeallo",
+      "postal_code": "91454"
+    },
+    {
+      "id": "76.05.05.2004",
+      "name": "Ulumanda",
+      "postal_code": "91454"
+    },
+    {
+      "id": "76.05.05.2005",
+      "name": "Salutambung",
+      "postal_code": "91454"
+    },
+    {
+      "id": "76.05.05.2006",
+      "name": "Popenga",
+      "postal_code": "91454"
+    },
+    {
+      "id": "76.05.05.2007",
+      "name": "Sulai",
+      "postal_code": "91454"
+    },
+    {
+      "id": "76.05.05.2008",
+      "name": "Panggalo",
+      "postal_code": "91454"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

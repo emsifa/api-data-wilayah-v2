@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "96.03.01.2001",
+      "name": "Waigama",
+      "postal_code": "98491"
+    },
+    {
+      "id": "96.03.01.2002",
+      "name": "Salafen",
+      "postal_code": "98491"
+    },
+    {
+      "id": "96.03.01.2003",
+      "name": "Aduwei",
+      "postal_code": "98491"
+    },
+    {
+      "id": "96.03.01.2004",
+      "name": "Atkari",
+      "postal_code": "98491"
+    },
+    {
+      "id": "96.03.01.2005",
+      "name": "Solal",
+      "postal_code": "98491"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

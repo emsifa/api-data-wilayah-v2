@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "64.72.10",
+    "name": "Loa Janan Ilir",
+    "province": {
+      "id": "64",
+      "name": "Kalimantan Timur"
+    },
+    "regency": {
+      "id": "64.72",
+      "name": "Kota Samarinda"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

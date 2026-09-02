@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "36.04.20.2001",
+      "name": "Tunjung Teja",
+      "postal_code": "42174"
+    },
+    {
+      "id": "36.04.20.2002",
+      "name": "Sukasari",
+      "postal_code": "42174"
+    },
+    {
+      "id": "36.04.20.2003",
+      "name": "Panunggulan",
+      "postal_code": "42174"
+    },
+    {
+      "id": "36.04.20.2004",
+      "name": "Malanggah",
+      "postal_code": "42174"
+    },
+    {
+      "id": "36.04.20.2005",
+      "name": "Kemuning",
+      "postal_code": "42174"
+    },
+    {
+      "id": "36.04.20.2006",
+      "name": "Bojong Menteng",
+      "postal_code": "42174"
+    },
+    {
+      "id": "36.04.20.2007",
+      "name": "Bojong Catang",
+      "postal_code": "42174"
+    },
+    {
+      "id": "36.04.20.2008",
+      "name": "Bojong Pandan",
+      "postal_code": "42174"
+    },
+    {
+      "id": "36.04.20.2009",
+      "name": "Pancaregang",
+      "postal_code": "42174"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

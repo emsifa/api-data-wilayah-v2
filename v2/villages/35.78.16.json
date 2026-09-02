@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "35.78.16.1001",
+      "name": "Ampel",
+      "postal_code": "60151"
+    },
+    {
+      "id": "35.78.16.1002",
+      "name": "Pegirian",
+      "postal_code": "60153"
+    },
+    {
+      "id": "35.78.16.1003",
+      "name": "Wonokusumo",
+      "postal_code": "60154"
+    },
+    {
+      "id": "35.78.16.1004",
+      "name": "Ujung",
+      "postal_code": "60155"
+    },
+    {
+      "id": "35.78.16.1005",
+      "name": "Sidotopo",
+      "postal_code": "60152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

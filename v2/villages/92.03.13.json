@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "92.03.13.2001",
+      "name": "Andamata",
+      "postal_code": "98014"
+    },
+    {
+      "id": "92.03.13.2002",
+      "name": "Taver",
+      "postal_code": "98014"
+    },
+    {
+      "id": "92.03.13.2003",
+      "name": "Arguni",
+      "postal_code": "98014"
+    },
+    {
+      "id": "92.03.13.2004",
+      "name": "Fior",
+      "postal_code": "98014"
+    },
+    {
+      "id": "92.03.13.2005",
+      "name": "Furir",
+      "postal_code": "98014"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "13.01.09",
+    "name": "Linggo Sari Baganti",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.01",
+      "name": "Kabupaten Pesisir Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

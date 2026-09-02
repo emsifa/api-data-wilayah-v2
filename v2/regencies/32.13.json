@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "32.13",
+    "name": "Kabupaten Subang",
+    "capital": "Subang",
+    "lat": -6.571294853262137,
+    "lng": 107.76235318119123,
+    "elv": 96,
+    "tz": 7,
+    "population": 1677628,
+    "total_area": 2168.909,
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

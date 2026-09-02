@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "61.04.12.2006",
+      "name": "Sungai Jawi",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.12.2007",
+      "name": "Pesaguan Kiri",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.12.2008",
+      "name": "Sungai Pelang",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.12.2012",
+      "name": "Sungai Bakau",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.12.2013",
+      "name": "Pematang Gadung",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.12.2014",
+      "name": "Pesaguan Kanan",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.12.2015",
+      "name": "Sungai Besar",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.12.2016",
+      "name": "Sungai Nanjung",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.12.2017",
+      "name": "Kemuning Biutak",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.12.2018",
+      "name": "Harapan Baru",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.12.2019",
+      "name": "Pagar Mentimun",
+      "postal_code": "78822"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "36.72.07.1001",
+      "name": "Ramanuju",
+      "postal_code": "42431"
+    },
+    {
+      "id": "36.72.07.1002",
+      "name": "Kotabumi",
+      "postal_code": "42434"
+    },
+    {
+      "id": "36.72.07.1003",
+      "name": "Kebon Dalem",
+      "postal_code": "42433"
+    },
+    {
+      "id": "36.72.07.1004",
+      "name": "Purwakarta",
+      "postal_code": "42437"
+    },
+    {
+      "id": "36.72.07.1005",
+      "name": "Tegal Bunder",
+      "postal_code": "42437"
+    },
+    {
+      "id": "36.72.07.1006",
+      "name": "Pabean",
+      "postal_code": "42437"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

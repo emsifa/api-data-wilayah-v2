@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "14.07.07.1005",
+      "name": "Sinaboi Kota",
+      "postal_code": "28914"
+    },
+    {
+      "id": "14.07.07.2001",
+      "name": "Sinaboi",
+      "postal_code": "28914"
+    },
+    {
+      "id": "14.07.07.2002",
+      "name": "Sei Bakau",
+      "postal_code": "28914"
+    },
+    {
+      "id": "14.07.07.2003",
+      "name": "Raja Bejamu",
+      "postal_code": "28914"
+    },
+    {
+      "id": "14.07.07.2004",
+      "name": "Sungai Nyamuk",
+      "postal_code": "28914"
+    },
+    {
+      "id": "14.07.07.2006",
+      "name": "Darussalam",
+      "postal_code": "28914"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

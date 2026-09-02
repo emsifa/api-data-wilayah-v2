@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "93.03.13.2001",
+      "name": "Yeloba",
+      "postal_code": "99851"
+    },
+    {
+      "id": "93.03.13.2002",
+      "name": "Konebi",
+      "postal_code": "99851"
+    },
+    {
+      "id": "93.03.13.2003",
+      "name": "Sibi",
+      "postal_code": "99851"
+    },
+    {
+      "id": "93.03.13.2004",
+      "name": "Tagaimon Sino",
+      "postal_code": "99851"
+    },
+    {
+      "id": "93.03.13.2005",
+      "name": "Tagaimon Karome",
+      "postal_code": "99851"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

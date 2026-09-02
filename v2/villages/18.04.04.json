@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "18.04.04.1001",
+      "name": "Pasar Liwa",
+      "postal_code": "34814"
+    },
+    {
+      "id": "18.04.04.1003",
+      "name": "Way Mengaku",
+      "postal_code": "34812"
+    },
+    {
+      "id": "18.04.04.2002",
+      "name": "Kubu Perahu",
+      "postal_code": "34813"
+    },
+    {
+      "id": "18.04.04.2004",
+      "name": "Padang Cahya",
+      "postal_code": "34811"
+    },
+    {
+      "id": "18.04.04.2005",
+      "name": "Sebarus",
+      "postal_code": "34815"
+    },
+    {
+      "id": "18.04.04.2006",
+      "name": "Way Empulau Ulu",
+      "postal_code": "34811"
+    },
+    {
+      "id": "18.04.04.2007",
+      "name": "Gunung Sugih",
+      "postal_code": "34816"
+    },
+    {
+      "id": "18.04.04.2008",
+      "name": "Wates",
+      "postal_code": "34817"
+    },
+    {
+      "id": "18.04.04.2009",
+      "name": "Padang Dalom",
+      "postal_code": "34818"
+    },
+    {
+      "id": "18.04.04.2010",
+      "name": "Sukarame",
+      "postal_code": "34811"
+    },
+    {
+      "id": "18.04.04.2011",
+      "name": "Bahway",
+      "postal_code": "34811"
+    },
+    {
+      "id": "18.04.04.2012",
+      "name": "Sedampah Indah",
+      "postal_code": "34811"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

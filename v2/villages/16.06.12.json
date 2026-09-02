@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "16.06.12.2001",
+      "name": "Peninggalan",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2002",
+      "name": "Suka Damai",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2003",
+      "name": "Berlian Jaya",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2004",
+      "name": "Simpang Tungkal",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2005",
+      "name": "Pangkalan Tungkal",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2006",
+      "name": "Sumber Harum",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2007",
+      "name": "Sumber Sari",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2008",
+      "name": "Sinar Harapan",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2009",
+      "name": "Banjar Jaya",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2010",
+      "name": "Beji Mulyo",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2011",
+      "name": "Bero Jaya Timur",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2012",
+      "name": "Pandan Sari",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2013",
+      "name": "Margo Mulyo",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2014",
+      "name": "Sri Mulyo",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2015",
+      "name": "Sido Mulyo",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.12.2016",
+      "name": "Sinar Tungkal",
+      "postal_code": "30756"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

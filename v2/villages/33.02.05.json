@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "33.02.05.2001",
+      "name": "Adisana",
+      "postal_code": "53172"
+    },
+    {
+      "id": "33.02.05.2002",
+      "name": "Bangsa",
+      "postal_code": "53172"
+    },
+    {
+      "id": "33.02.05.2003",
+      "name": "Karangsari",
+      "postal_code": "53172"
+    },
+    {
+      "id": "33.02.05.2004",
+      "name": "Randegan",
+      "postal_code": "53172"
+    },
+    {
+      "id": "33.02.05.2005",
+      "name": "Kaliwedi",
+      "postal_code": "53172"
+    },
+    {
+      "id": "33.02.05.2006",
+      "name": "Sawangan",
+      "postal_code": "53172"
+    },
+    {
+      "id": "33.02.05.2007",
+      "name": "Kalisalak",
+      "postal_code": "53172"
+    },
+    {
+      "id": "33.02.05.2008",
+      "name": "Cindaga",
+      "postal_code": "53172"
+    },
+    {
+      "id": "33.02.05.2009",
+      "name": "Kebasen",
+      "postal_code": "53172"
+    },
+    {
+      "id": "33.02.05.2010",
+      "name": "Gambarsari",
+      "postal_code": "53172"
+    },
+    {
+      "id": "33.02.05.2011",
+      "name": "Tumiyang",
+      "postal_code": "53172"
+    },
+    {
+      "id": "33.02.05.2012",
+      "name": "Mandirancan",
+      "postal_code": "53172"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

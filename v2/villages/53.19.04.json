@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "53.19.04.1009",
+      "name": "Pota",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.04.1011",
+      "name": "Nanga Baras",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.04.1018",
+      "name": "Ulung Baras",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.04.1020",
+      "name": "Golo Wangkung Utara",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.04.2001",
+      "name": "Nanga Mbaur",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.04.2002",
+      "name": "Nanga Mbaling",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.04.2007",
+      "name": "Lada Mese",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.04.2012",
+      "name": "Nampar Sepang",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.04.2013",
+      "name": "Kembang Mekar",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.04.2014",
+      "name": "Wela Lada",
+      "postal_code": "86584"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

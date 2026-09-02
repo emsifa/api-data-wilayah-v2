@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "82.05.07.2001",
+      "name": "Waiboga",
+      "postal_code": "97799"
+    },
+    {
+      "id": "82.05.07.2002",
+      "name": "Soamole",
+      "postal_code": "97799"
+    },
+    {
+      "id": "82.05.07.2003",
+      "name": "Waiman",
+      "postal_code": "97799"
+    },
+    {
+      "id": "82.05.07.2004",
+      "name": "Fat Iba",
+      "postal_code": "97799"
+    },
+    {
+      "id": "82.05.07.2005",
+      "name": "Bega",
+      "postal_code": "97799"
+    },
+    {
+      "id": "82.05.07.2006",
+      "name": "Manaf",
+      "postal_code": "97799"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

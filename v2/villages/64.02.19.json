@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "64.02.19.2001",
+      "name": "Kedang Ipil",
+      "postal_code": "75561"
+    },
+    {
+      "id": "64.02.19.2002",
+      "name": "Sedulang",
+      "postal_code": "75561"
+    },
+    {
+      "id": "64.02.19.2003",
+      "name": "Benua Baru",
+      "postal_code": "75561"
+    },
+    {
+      "id": "64.02.19.2004",
+      "name": "Kota Bangun I",
+      "postal_code": "75561"
+    },
+    {
+      "id": "64.02.19.2005",
+      "name": "Kota Bangun II",
+      "postal_code": "75561"
+    },
+    {
+      "id": "64.02.19.2006",
+      "name": "Kota Bangun III",
+      "postal_code": "75561"
+    },
+    {
+      "id": "64.02.19.2007",
+      "name": "Sumber Sari",
+      "postal_code": "75561"
+    },
+    {
+      "id": "64.02.19.2008",
+      "name": "Sari Nadi",
+      "postal_code": "75561"
+    },
+    {
+      "id": "64.02.19.2009",
+      "name": "Suka Bumi",
+      "postal_code": "75561"
+    },
+    {
+      "id": "64.02.19.2010",
+      "name": "Wonosari",
+      "postal_code": "75561"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

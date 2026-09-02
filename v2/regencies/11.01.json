@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "11.01",
+    "name": "Kabupaten Aceh Selatan",
+    "capital": "Tapak Tuan",
+    "lat": 3.2548016392931354,
+    "lng": 97.17411233973566,
+    "elv": 19,
+    "tz": 7,
+    "population": 239629,
+    "total_area": 4174.211,
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

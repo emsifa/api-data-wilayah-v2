@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.07.02.2001",
+      "name": "Guguak VIII Koto",
+      "postal_code": "26253"
+    },
+    {
+      "id": "13.07.02.2002",
+      "name": "VII Koto Talago",
+      "postal_code": "26253"
+    },
+    {
+      "id": "13.07.02.2003",
+      "name": "Sungai Talang",
+      "postal_code": "26253"
+    },
+    {
+      "id": "13.07.02.2004",
+      "name": "Kubang",
+      "postal_code": "26253"
+    },
+    {
+      "id": "13.07.02.2005",
+      "name": "Simpang Sugiran",
+      "postal_code": "26253"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

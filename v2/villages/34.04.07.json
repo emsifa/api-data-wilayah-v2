@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "34.04.07.2001",
+      "name": "Caturtunggal",
+      "postal_code": "55281"
+    },
+    {
+      "id": "34.04.07.2002",
+      "name": "Maguwoharjo",
+      "postal_code": "55282"
+    },
+    {
+      "id": "34.04.07.2003",
+      "name": "Condongcatur",
+      "postal_code": "55283"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

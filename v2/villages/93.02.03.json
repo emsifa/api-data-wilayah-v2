@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "93.02.03.2001",
+      "name": "Woropko",
+      "postal_code": "99684"
+    },
+    {
+      "id": "93.02.03.2002",
+      "name": "Winiktit",
+      "postal_code": "99684"
+    },
+    {
+      "id": "93.02.03.2003",
+      "name": "Kanggewot",
+      "postal_code": "99684"
+    },
+    {
+      "id": "93.02.03.2005",
+      "name": "Inggembit",
+      "postal_code": "99684"
+    },
+    {
+      "id": "93.02.03.2006",
+      "name": "Wametkapa",
+      "postal_code": "99684"
+    },
+    {
+      "id": "93.02.03.2007",
+      "name": "Wombon",
+      "postal_code": "99664"
+    },
+    {
+      "id": "93.02.03.2008",
+      "name": "Upkim",
+      "postal_code": "99664"
+    },
+    {
+      "id": "93.02.03.2009",
+      "name": "Ikcan",
+      "postal_code": "99684"
+    },
+    {
+      "id": "93.02.03.2010",
+      "name": "Upyetetko",
+      "postal_code": "99664"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

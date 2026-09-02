@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.12.21.2001",
+      "name": "Lumban Rau Tengah",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.21.2002",
+      "name": "Lumban Rau Timur",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.21.2003",
+      "name": "Lumban Rau Utara",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.21.2004",
+      "name": "Sipagabu",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.21.2005",
+      "name": "Napajoring",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.21.2006",
+      "name": "Liat Tondung",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.21.2007",
+      "name": "Batu Manumpak",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.21.2008",
+      "name": "Lumban Rau Tenggara",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.21.2009",
+      "name": "Cinta Damai",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.21.2010",
+      "name": "Siantarasa",
+      "postal_code": "22383"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

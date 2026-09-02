@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "73.15.10.1001",
+      "name": "Lanrisang",
+      "postal_code": "91272"
+    },
+    {
+      "id": "73.15.10.2002",
+      "name": "Samaulue",
+      "postal_code": "91272"
+    },
+    {
+      "id": "73.15.10.2003",
+      "name": "Mallongi-longi",
+      "postal_code": "91272"
+    },
+    {
+      "id": "73.15.10.2004",
+      "name": "Amassangang",
+      "postal_code": "91272"
+    },
+    {
+      "id": "73.15.10.2005",
+      "name": "Barang Palie",
+      "postal_code": "91272"
+    },
+    {
+      "id": "73.15.10.2006",
+      "name": "Waetuoe",
+      "postal_code": "91272"
+    },
+    {
+      "id": "73.15.10.2007",
+      "name": "Lerang",
+      "postal_code": "91272"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

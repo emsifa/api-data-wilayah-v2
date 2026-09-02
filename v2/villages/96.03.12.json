@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "96.03.12.2001",
+      "name": "Fafanlap",
+      "postal_code": "98492"
+    },
+    {
+      "id": "96.03.12.2002",
+      "name": "Yellu",
+      "postal_code": "98492"
+    },
+    {
+      "id": "96.03.12.2003",
+      "name": "Harapan Jaya",
+      "postal_code": "98492"
+    },
+    {
+      "id": "96.03.12.2004",
+      "name": "Kareyepop",
+      "postal_code": "98492"
+    },
+    {
+      "id": "96.03.12.2005",
+      "name": "Dabatan",
+      "postal_code": "98492"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

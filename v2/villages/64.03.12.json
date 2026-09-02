@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "64.03.12.2001",
+      "name": "Tembudan",
+      "postal_code": "77372"
+    },
+    {
+      "id": "64.03.12.2002",
+      "name": "Kayu Indah",
+      "postal_code": "77372"
+    },
+    {
+      "id": "64.03.12.2003",
+      "name": "Batu Putih",
+      "postal_code": "77373"
+    },
+    {
+      "id": "64.03.12.2004",
+      "name": "Lobang Kelatak",
+      "postal_code": "77373"
+    },
+    {
+      "id": "64.03.12.2005",
+      "name": "Ampen Medang",
+      "postal_code": "77373"
+    },
+    {
+      "id": "64.03.12.2006",
+      "name": "Balikukup",
+      "postal_code": "77373"
+    },
+    {
+      "id": "64.03.12.2007",
+      "name": "Sumber Agung",
+      "postal_code": "77372"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

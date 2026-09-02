@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "13.73",
+    "name": "Kota Sawahlunto",
+    "capital": "Sawahlunto",
+    "lat": -0.6750372451200484,
+    "lng": 100.76750125689844,
+    "elv": 358,
+    "tz": 7,
+    "population": 68559,
+    "total_area": 231.945,
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "75.71.04.1001",
+      "name": "Huangobotu",
+      "postal_code": "96138"
+    },
+    {
+      "id": "75.71.04.1002",
+      "name": "Libuo",
+      "postal_code": "96135"
+    },
+    {
+      "id": "75.71.04.1003",
+      "name": "Tomulabutao",
+      "postal_code": "96139"
+    },
+    {
+      "id": "75.71.04.1004",
+      "name": "Tuladenggi",
+      "postal_code": "96137"
+    },
+    {
+      "id": "75.71.04.1005",
+      "name": "Tomulabutao Selatan",
+      "postal_code": "96139"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "52.06.08",
+    "name": "Donggo",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.06",
+      "name": "Kabupaten Bima"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

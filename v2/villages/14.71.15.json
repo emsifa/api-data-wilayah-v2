@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "14.71.15.1001",
+      "name": "Tebing Tinggi Okura",
+      "postal_code": "28287"
+    },
+    {
+      "id": "14.71.15.1002",
+      "name": "Sungaiukai",
+      "postal_code": "28287"
+    },
+    {
+      "id": "14.71.15.1003",
+      "name": "Sungaiambang",
+      "postal_code": "28262"
+    },
+    {
+      "id": "14.71.15.1004",
+      "name": "Lembah Sari",
+      "postal_code": "28262"
+    },
+    {
+      "id": "14.71.15.1005",
+      "name": "Limbungan",
+      "postal_code": "28261"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

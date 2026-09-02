@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "id": "12.12.04.1009",
+      "name": "Parsoburan Tengah",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2002",
+      "name": "Lumban Rau Selatan",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2004",
+      "name": "Lumban Rau Barat",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2006",
+      "name": "Lumban Balik",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2007",
+      "name": "Panamparan",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2008",
+      "name": "Lumban Pinasa",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2010",
+      "name": "Parsoburan Barat",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2011",
+      "name": "Lumban Ruhap",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2012",
+      "name": "Lumban Pea",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2014",
+      "name": "Hitetano",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2017",
+      "name": "Lobu Hole",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2018",
+      "name": "Batu Nabolon",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2019",
+      "name": "Lumban Gaol",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2020",
+      "name": "Tornagodang",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2021",
+      "name": "Taon Marisi",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2022",
+      "name": "Pagar Batu",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2023",
+      "name": "Sibuntuon",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2024",
+      "name": "Pararungan",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2025",
+      "name": "Lumban Lintong",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2026",
+      "name": "Pangunjungan",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2027",
+      "name": "Lumban Pinasa Saroha",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.04.2028",
+      "name": "Aek Ulok",
+      "postal_code": "22383"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

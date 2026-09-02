@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "35.23.05.2001",
+      "name": "Medalem",
+      "postal_code": "62365"
+    },
+    {
+      "id": "35.23.05.2002",
+      "name": "Jatisari",
+      "postal_code": "62365"
+    },
+    {
+      "id": "35.23.05.2003",
+      "name": "Kaligede",
+      "postal_code": "62365"
+    },
+    {
+      "id": "35.23.05.2004",
+      "name": "Banyuurip",
+      "postal_code": "62365"
+    },
+    {
+      "id": "35.23.05.2005",
+      "name": "Leran",
+      "postal_code": "62365"
+    },
+    {
+      "id": "35.23.05.2006",
+      "name": "Wonosari",
+      "postal_code": "62365"
+    },
+    {
+      "id": "35.23.05.2007",
+      "name": "Sendang",
+      "postal_code": "62365"
+    },
+    {
+      "id": "35.23.05.2008",
+      "name": "Wanglukulon",
+      "postal_code": "62365"
+    },
+    {
+      "id": "35.23.05.2009",
+      "name": "Wangluwetan",
+      "postal_code": "62365"
+    },
+    {
+      "id": "35.23.05.2010",
+      "name": "Sidoharjo",
+      "postal_code": "62365"
+    },
+    {
+      "id": "35.23.05.2011",
+      "name": "Rayung",
+      "postal_code": "62365"
+    },
+    {
+      "id": "35.23.05.2012",
+      "name": "Katerban",
+      "postal_code": "62365"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

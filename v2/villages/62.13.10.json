@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "62.13.10.2001",
+      "name": "Dayu",
+      "postal_code": "73650"
+    },
+    {
+      "id": "62.13.10.2002",
+      "name": "Wuran",
+      "postal_code": "73650"
+    },
+    {
+      "id": "62.13.10.2003",
+      "name": "Ipu Mea",
+      "postal_code": "73650"
+    },
+    {
+      "id": "62.13.10.2004",
+      "name": "Lagan",
+      "postal_code": "73650"
+    },
+    {
+      "id": "62.13.10.2005",
+      "name": "Putut Tawuluh",
+      "postal_code": "73650"
+    },
+    {
+      "id": "62.13.10.2006",
+      "name": "Simpang Naneng",
+      "postal_code": "73650"
+    },
+    {
+      "id": "62.13.10.2007",
+      "name": "Kandris",
+      "postal_code": "73650"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

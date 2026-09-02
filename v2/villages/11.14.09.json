@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "11.14.09.2001",
+      "name": "Pulo Tinggi",
+      "postal_code": "23653"
+    },
+    {
+      "id": "11.14.09.2002",
+      "name": "Alue Krueng",
+      "postal_code": "23653"
+    },
+    {
+      "id": "11.14.09.2003",
+      "name": "Pasi Teubee",
+      "postal_code": "23653"
+    },
+    {
+      "id": "11.14.09.2004",
+      "name": "Timpleung",
+      "postal_code": "23653"
+    },
+    {
+      "id": "11.14.09.2005",
+      "name": "Krueng Beukah",
+      "postal_code": "23653"
+    },
+    {
+      "id": "11.14.09.2006",
+      "name": "Tuwi Kareung",
+      "postal_code": "23653"
+    },
+    {
+      "id": "11.14.09.2007",
+      "name": "Lhok Guci",
+      "postal_code": "23653"
+    },
+    {
+      "id": "11.14.09.2008",
+      "name": "Tuwi Peuriya",
+      "postal_code": "23653"
+    },
+    {
+      "id": "11.14.09.2009",
+      "name": "Sarah Raya",
+      "postal_code": "23653"
+    },
+    {
+      "id": "11.14.09.2010",
+      "name": "Alue Jang",
+      "postal_code": "23653"
+    },
+    {
+      "id": "11.14.09.2011",
+      "name": "Ceuraceu",
+      "postal_code": "23653"
+    },
+    {
+      "id": "11.14.09.2012",
+      "name": "Alue Punti",
+      "postal_code": "23653"
+    },
+    {
+      "id": "11.14.09.2013",
+      "name": "Bintah",
+      "postal_code": "23653"
+    },
+    {
+      "id": "11.14.09.2014",
+      "name": "Buket Keumuneng",
+      "postal_code": "23653"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

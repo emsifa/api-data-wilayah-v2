@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.76.03.1001",
+      "name": "Pasir Putih",
+      "postal_code": "16519"
+    },
+    {
+      "id": "32.76.03.1002",
+      "name": "Bedahan",
+      "postal_code": "16519"
+    },
+    {
+      "id": "32.76.03.1003",
+      "name": "Pengasinan",
+      "postal_code": "16518"
+    },
+    {
+      "id": "32.76.03.1009",
+      "name": "Cinangka",
+      "postal_code": "16516"
+    },
+    {
+      "id": "32.76.03.1010",
+      "name": "Sawangan",
+      "postal_code": "16511"
+    },
+    {
+      "id": "32.76.03.1011",
+      "name": "Sawangan Baru",
+      "postal_code": "16511"
+    },
+    {
+      "id": "32.76.03.1012",
+      "name": "Kedaung",
+      "postal_code": "16516"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "52.07.01.2001",
+      "name": "Goa",
+      "postal_code": "84456"
+    },
+    {
+      "id": "52.07.01.2002",
+      "name": "Belo",
+      "postal_code": "84456"
+    },
+    {
+      "id": "52.07.01.2003",
+      "name": "Beru",
+      "postal_code": "84456"
+    },
+    {
+      "id": "52.07.01.2009",
+      "name": "Dasan Anyar",
+      "postal_code": "84456"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "72.12.06.2001",
+      "name": "Era",
+      "postal_code": "94964"
+    },
+    {
+      "id": "72.12.06.2002",
+      "name": "Peleru",
+      "postal_code": "94964"
+    },
+    {
+      "id": "72.12.06.2003",
+      "name": "Tamonjengi",
+      "postal_code": "94964"
+    },
+    {
+      "id": "72.12.06.2004",
+      "name": "Mayumba",
+      "postal_code": "94964"
+    },
+    {
+      "id": "72.12.06.2005",
+      "name": "Tiwa'a",
+      "postal_code": "94964"
+    },
+    {
+      "id": "72.12.06.2006",
+      "name": "Lembontonara",
+      "postal_code": "94964"
+    },
+    {
+      "id": "72.12.06.2007",
+      "name": "Tabarano",
+      "postal_code": "94964"
+    },
+    {
+      "id": "72.12.06.2008",
+      "name": "Wawondula",
+      "postal_code": "94964"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

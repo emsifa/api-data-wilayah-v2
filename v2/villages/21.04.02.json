@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "21.04.02.1010",
+      "name": "Daik",
+      "postal_code": "29872"
+    },
+    {
+      "id": "21.04.02.1020",
+      "name": "Daik Sepincan",
+      "postal_code": "29872"
+    },
+    {
+      "id": "21.04.02.2001",
+      "name": "Pekajang",
+      "postal_code": "29872"
+    },
+    {
+      "id": "21.04.02.2002",
+      "name": "Kelombok",
+      "postal_code": "29872"
+    },
+    {
+      "id": "21.04.02.2003",
+      "name": "Mepar",
+      "postal_code": "29872"
+    },
+    {
+      "id": "21.04.02.2006",
+      "name": "Kelumu",
+      "postal_code": "29872"
+    },
+    {
+      "id": "21.04.02.2007",
+      "name": "Mentuda",
+      "postal_code": "29872"
+    },
+    {
+      "id": "21.04.02.2008",
+      "name": "Merawang",
+      "postal_code": "29872"
+    },
+    {
+      "id": "21.04.02.2009",
+      "name": "Panggak Darat",
+      "postal_code": "29872"
+    },
+    {
+      "id": "21.04.02.2011",
+      "name": "Panggak Laut",
+      "postal_code": "29872"
+    },
+    {
+      "id": "21.04.02.2012",
+      "name": "Musai",
+      "postal_code": "29872"
+    },
+    {
+      "id": "21.04.02.2019",
+      "name": "Nerekeh",
+      "postal_code": "29872"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

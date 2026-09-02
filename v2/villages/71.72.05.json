@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "71.72.05.1001",
+      "name": "Tanjung Merah",
+      "postal_code": "95547"
+    },
+    {
+      "id": "71.72.05.1002",
+      "name": "Sagerat",
+      "postal_code": "95546"
+    },
+    {
+      "id": "71.72.05.1003",
+      "name": "Manembo-nembo Atas",
+      "postal_code": "95545"
+    },
+    {
+      "id": "71.72.05.1007",
+      "name": "Manembo-nembo",
+      "postal_code": "95545"
+    },
+    {
+      "id": "71.72.05.1011",
+      "name": "Sagerat Weru Satu",
+      "postal_code": "95546"
+    },
+    {
+      "id": "71.72.05.1012",
+      "name": "Sagerat Weru Dua",
+      "postal_code": "95546"
+    },
+    {
+      "id": "71.72.05.1013",
+      "name": "Manembo-nembo Tengah",
+      "postal_code": "95545"
+    },
+    {
+      "id": "71.72.05.1014",
+      "name": "Tendeki",
+      "postal_code": "95539"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

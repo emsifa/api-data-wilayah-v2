@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "36.04.19.2001",
+      "name": "Petir",
+      "postal_code": "42172"
+    },
+    {
+      "id": "36.04.19.2002",
+      "name": "Cirangkong",
+      "postal_code": "42172"
+    },
+    {
+      "id": "36.04.19.2003",
+      "name": "Tambiluk",
+      "postal_code": "42172"
+    },
+    {
+      "id": "36.04.19.2004",
+      "name": "Sindangsari",
+      "postal_code": "42172"
+    },
+    {
+      "id": "36.04.19.2005",
+      "name": "Padasuka",
+      "postal_code": "42172"
+    },
+    {
+      "id": "36.04.19.2006",
+      "name": "Seuat",
+      "postal_code": "42172"
+    },
+    {
+      "id": "36.04.19.2007",
+      "name": "Nagara Padang",
+      "postal_code": "42172"
+    },
+    {
+      "id": "36.04.19.2008",
+      "name": "Kadugenep",
+      "postal_code": "42172"
+    },
+    {
+      "id": "36.04.19.2009",
+      "name": "Cireundeu",
+      "postal_code": "42172"
+    },
+    {
+      "id": "36.04.19.2010",
+      "name": "Sanding",
+      "postal_code": "42172"
+    },
+    {
+      "id": "36.04.19.2011",
+      "name": "Kampung Baru",
+      "postal_code": "42172"
+    },
+    {
+      "id": "36.04.19.2012",
+      "name": "Mekar Baru",
+      "postal_code": "42172"
+    },
+    {
+      "id": "36.04.19.2013",
+      "name": "Seuat Jaya",
+      "postal_code": "42172"
+    },
+    {
+      "id": "36.04.19.2014",
+      "name": "Kubang Jaya",
+      "postal_code": "42172"
+    },
+    {
+      "id": "36.04.19.2015",
+      "name": "Bojong Nangka",
+      "postal_code": "42172"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

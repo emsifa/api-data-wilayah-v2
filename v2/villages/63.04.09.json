@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "63.04.09.2001",
+      "name": "Sungai Kambat",
+      "postal_code": "70571"
+    },
+    {
+      "id": "63.04.09.2002",
+      "name": "Sungai Rasau",
+      "postal_code": "70571"
+    },
+    {
+      "id": "63.04.09.2003",
+      "name": "Simpang Nungki",
+      "postal_code": "70571"
+    },
+    {
+      "id": "63.04.09.2004",
+      "name": "Sawahan",
+      "postal_code": "70571"
+    },
+    {
+      "id": "63.04.09.2005",
+      "name": "Bantuil",
+      "postal_code": "70571"
+    },
+    {
+      "id": "63.04.09.2006",
+      "name": "Badandan",
+      "postal_code": "70571"
+    },
+    {
+      "id": "63.04.09.2007",
+      "name": "Sei Tunjang",
+      "postal_code": "70571"
+    },
+    {
+      "id": "63.04.09.2008",
+      "name": "Sei Raya",
+      "postal_code": "70571"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

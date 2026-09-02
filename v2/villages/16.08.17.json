@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "16.08.17.2001",
+      "name": "Rejosari",
+      "postal_code": "32380"
+    },
+    {
+      "id": "16.08.17.2002",
+      "name": "Sido Rejo",
+      "postal_code": "32380"
+    },
+    {
+      "id": "16.08.17.2003",
+      "name": "Banjar Rejo",
+      "postal_code": "32380"
+    },
+    {
+      "id": "16.08.17.2004",
+      "name": "Panca Tunggal",
+      "postal_code": "32380"
+    },
+    {
+      "id": "16.08.17.2005",
+      "name": "Marga Koyo",
+      "postal_code": "32380"
+    },
+    {
+      "id": "16.08.17.2006",
+      "name": "Sumber Agung",
+      "postal_code": "32380"
+    },
+    {
+      "id": "16.08.17.2007",
+      "name": "Karsa Jaya",
+      "postal_code": "32380"
+    },
+    {
+      "id": "16.08.17.2008",
+      "name": "Windusari",
+      "postal_code": "32380"
+    },
+    {
+      "id": "16.08.17.2009",
+      "name": "Karya Makmur",
+      "postal_code": "32380"
+    },
+    {
+      "id": "16.08.17.2010",
+      "name": "Giri Mulyo",
+      "postal_code": "32380"
+    },
+    {
+      "id": "16.08.17.2011",
+      "name": "Madugondo",
+      "postal_code": "32380"
+    },
+    {
+      "id": "16.08.17.2012",
+      "name": "Argomulyo",
+      "postal_code": "32380"
+    },
+    {
+      "id": "16.08.17.2013",
+      "name": "Rejosari Jaya",
+      "postal_code": "32380"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

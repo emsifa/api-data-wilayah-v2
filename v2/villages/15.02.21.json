@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "15.02.21.2001",
+      "name": "Tanjung Rejo",
+      "postal_code": "37359"
+    },
+    {
+      "id": "15.02.21.2002",
+      "name": "Sumber Agung",
+      "postal_code": "37359"
+    },
+    {
+      "id": "15.02.21.2003",
+      "name": "Suko Rejo",
+      "postal_code": "37359"
+    },
+    {
+      "id": "15.02.21.2004",
+      "name": "Sido Rukun",
+      "postal_code": "37359"
+    },
+    {
+      "id": "15.02.21.2005",
+      "name": "Lubuk Bumbun",
+      "postal_code": "37359"
+    },
+    {
+      "id": "15.02.21.2006",
+      "name": "Tegal Rejo",
+      "postal_code": "37359"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

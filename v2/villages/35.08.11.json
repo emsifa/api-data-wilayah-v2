@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.08.11.2001",
+      "name": "Pasrujambe",
+      "postal_code": "67361"
+    },
+    {
+      "id": "35.08.11.2002",
+      "name": "Jambekumbu",
+      "postal_code": "67361"
+    },
+    {
+      "id": "35.08.11.2003",
+      "name": "Sukorejo",
+      "postal_code": "67361"
+    },
+    {
+      "id": "35.08.11.2004",
+      "name": "Jambearum",
+      "postal_code": "67361"
+    },
+    {
+      "id": "35.08.11.2005",
+      "name": "Kertosari",
+      "postal_code": "67361"
+    },
+    {
+      "id": "35.08.11.2006",
+      "name": "Pagowan",
+      "postal_code": "67361"
+    },
+    {
+      "id": "35.08.11.2007",
+      "name": "Karanganom",
+      "postal_code": "67361"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

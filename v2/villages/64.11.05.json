@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "64.11.05.2001",
+      "name": "Delang Kerohong",
+      "postal_code": "75768"
+    },
+    {
+      "id": "64.11.05.2002",
+      "name": "Long Pakaq",
+      "postal_code": "75768"
+    },
+    {
+      "id": "64.11.05.2003",
+      "name": "Long Lunuk",
+      "postal_code": "75768"
+    },
+    {
+      "id": "64.11.05.2004",
+      "name": "Long Isun",
+      "postal_code": "75768"
+    },
+    {
+      "id": "64.11.05.2005",
+      "name": "Naha Aru",
+      "postal_code": "75768"
+    },
+    {
+      "id": "64.11.05.2006",
+      "name": "Datah Naha",
+      "postal_code": "75768"
+    },
+    {
+      "id": "64.11.05.2007",
+      "name": "Lirung Ubing",
+      "postal_code": "75768"
+    },
+    {
+      "id": "64.11.05.2008",
+      "name": "Long Pahangai I",
+      "postal_code": "75768"
+    },
+    {
+      "id": "64.11.05.2009",
+      "name": "Long Pahangai II",
+      "postal_code": "75768"
+    },
+    {
+      "id": "64.11.05.2010",
+      "name": "Long Tuyoq",
+      "postal_code": "75768"
+    },
+    {
+      "id": "64.11.05.2011",
+      "name": "Liu Mulang",
+      "postal_code": "75768"
+    },
+    {
+      "id": "64.11.05.2012",
+      "name": "Long Pakaq Baru",
+      "postal_code": "75768"
+    },
+    {
+      "id": "64.11.05.2013",
+      "name": "Long Lunuk Baru",
+      "postal_code": "75768"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

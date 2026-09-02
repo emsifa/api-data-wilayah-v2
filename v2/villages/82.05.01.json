@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "82.05.01.2001",
+      "name": "Waitina",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.01.2006",
+      "name": "Kau",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.01.2007",
+      "name": "Waitamela",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.01.2013",
+      "name": "Karamat Titdoy",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.01.2016",
+      "name": "Naflo",
+      "postal_code": "97793"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

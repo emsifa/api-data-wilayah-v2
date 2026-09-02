@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "71.05.01",
+    "name": "Modoinding",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.05",
+      "name": "Kabupaten Minahasa Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

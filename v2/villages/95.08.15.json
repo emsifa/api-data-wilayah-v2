@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "95.08.15.2001",
+      "name": "Alama",
+      "postal_code": "99901"
+    },
+    {
+      "id": "95.08.15.2002",
+      "name": "Nolit",
+      "postal_code": "99901"
+    },
+    {
+      "id": "95.08.15.2003",
+      "name": "Gin",
+      "postal_code": "99901"
+    },
+    {
+      "id": "95.08.15.2004",
+      "name": "Kulesa",
+      "postal_code": "99901"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

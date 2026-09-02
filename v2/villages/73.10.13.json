@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "73.10.13.2001",
+      "name": "Mattiro Kanja",
+      "postal_code": "90670"
+    },
+    {
+      "id": "73.10.13.2002",
+      "name": "Mattiro Baji",
+      "postal_code": "90670"
+    },
+    {
+      "id": "73.10.13.2003",
+      "name": "Mattiro Bulu",
+      "postal_code": "90670"
+    },
+    {
+      "id": "73.10.13.2004",
+      "name": "Mattiro Bombang",
+      "postal_code": "90670"
+    },
+    {
+      "id": "73.10.13.2005",
+      "name": "Mattiro Labangeng",
+      "postal_code": "90670"
+    },
+    {
+      "id": "73.10.13.2006",
+      "name": "Mattiro Uleng",
+      "postal_code": "90670"
+    },
+    {
+      "id": "73.10.13.2007",
+      "name": "Mattiro Walie",
+      "postal_code": "90670"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

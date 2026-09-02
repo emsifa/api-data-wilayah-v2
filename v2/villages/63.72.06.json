@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "63.72.06.1001",
+      "name": "Landasan Ulin Barat",
+      "postal_code": "70722"
+    },
+    {
+      "id": "63.72.06.1002",
+      "name": "Landasan Ulin Tengah",
+      "postal_code": "70723"
+    },
+    {
+      "id": "63.72.06.1003",
+      "name": "Landasan Ulin Utara",
+      "postal_code": "70724"
+    },
+    {
+      "id": "63.72.06.1004",
+      "name": "Landasan Ulin Selatan",
+      "postal_code": "70724"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

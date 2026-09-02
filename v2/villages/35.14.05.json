@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "35.14.05.2001",
+      "name": "Ngantungan",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2002",
+      "name": "Galih",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2003",
+      "name": "Petung",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2004",
+      "name": "Klakah",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2005",
+      "name": "Sibon",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2006",
+      "name": "Mangguan",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2007",
+      "name": "Ampelsari",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2008",
+      "name": "Tempuran",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2009",
+      "name": "Sapulante",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2010",
+      "name": "Pohgedang",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2011",
+      "name": "Pasrepan",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2012",
+      "name": "Rejosalam",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2013",
+      "name": "Cengkrong",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2014",
+      "name": "Lemahbang",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2015",
+      "name": "Tambakrejo",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2016",
+      "name": "Pohgading",
+      "postal_code": "67175"
+    },
+    {
+      "id": "35.14.05.2017",
+      "name": "Jogorepuh",
+      "postal_code": "67175"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

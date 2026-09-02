@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "95.02.12.2001",
+      "name": "Bape",
+      "postal_code": "99414"
+    },
+    {
+      "id": "95.02.12.2002",
+      "name": "Masim",
+      "postal_code": "99414"
+    },
+    {
+      "id": "95.02.12.2003",
+      "name": "Akmer",
+      "postal_code": "99414"
+    },
+    {
+      "id": "95.02.12.2004",
+      "name": "Kasawi",
+      "postal_code": "99414"
+    },
+    {
+      "id": "95.02.12.2005",
+      "name": "Tapasik Dua Bapenka",
+      "postal_code": "99414"
+    },
+    {
+      "id": "95.02.12.2006",
+      "name": "Ibot",
+      "postal_code": "99414"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

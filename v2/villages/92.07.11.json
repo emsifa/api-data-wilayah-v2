@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "92.07.11.2001",
+      "name": "Waprak",
+      "postal_code": "98332"
+    },
+    {
+      "id": "92.07.11.2002",
+      "name": "Yomber",
+      "postal_code": "98332"
+    },
+    {
+      "id": "92.07.11.2003",
+      "name": "Syeiwar",
+      "postal_code": "98332"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

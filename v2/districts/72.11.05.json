@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "72.11.05",
+    "name": "Labobo",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.11",
+      "name": "Kabupaten Banggai Laut"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

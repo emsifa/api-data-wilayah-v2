@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "52.01.15.2001",
+      "name": "Kuripan",
+      "postal_code": "83360"
+    },
+    {
+      "id": "52.01.15.2002",
+      "name": "Jagaraga",
+      "postal_code": "83360"
+    },
+    {
+      "id": "52.01.15.2003",
+      "name": "Kuripan Utara",
+      "postal_code": "83360"
+    },
+    {
+      "id": "52.01.15.2004",
+      "name": "Kuripan Selatan",
+      "postal_code": "83360"
+    },
+    {
+      "id": "52.01.15.2005",
+      "name": "Kuripan Timur",
+      "postal_code": "83360"
+    },
+    {
+      "id": "52.01.15.2006",
+      "name": "Giri Sasak",
+      "postal_code": "83360"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

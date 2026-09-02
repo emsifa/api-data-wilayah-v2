@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "71.01.33",
+    "name": "Dumoga",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.01",
+      "name": "Kabupaten Bolaang Mongondow"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

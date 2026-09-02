@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "93.02.18.2001",
+      "name": "Sesnuk",
+      "postal_code": "99664"
+    },
+    {
+      "id": "93.02.18.2002",
+      "name": "Anggamburan",
+      "postal_code": "99664"
+    },
+    {
+      "id": "93.02.18.2003",
+      "name": "Kanggup",
+      "postal_code": "99664"
+    },
+    {
+      "id": "93.02.18.2004",
+      "name": "Yomkondo",
+      "postal_code": "99664"
+    },
+    {
+      "id": "93.02.18.2005",
+      "name": "Amboran",
+      "postal_code": "99664"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

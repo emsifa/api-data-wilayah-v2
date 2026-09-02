@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "63.05.04.1001",
+      "name": "Rangda Malingkung",
+      "postal_code": "71114"
+    },
+    {
+      "id": "63.05.04.1002",
+      "name": "Kupang",
+      "postal_code": "71113"
+    },
+    {
+      "id": "63.05.04.1003",
+      "name": "Rantau Kanan",
+      "postal_code": "71112"
+    },
+    {
+      "id": "63.05.04.1004",
+      "name": "Rantau Kiwa",
+      "postal_code": "71111"
+    },
+    {
+      "id": "63.05.04.2005",
+      "name": "Keramat",
+      "postal_code": "71114"
+    },
+    {
+      "id": "63.05.04.2006",
+      "name": "Antasari",
+      "postal_code": "71114"
+    },
+    {
+      "id": "63.05.04.2007",
+      "name": "Jingah Babaris",
+      "postal_code": "71114"
+    },
+    {
+      "id": "63.05.04.2008",
+      "name": "Banua Hanyar",
+      "postal_code": "71114"
+    },
+    {
+      "id": "63.05.04.2009",
+      "name": "Banua Halat Kiri",
+      "postal_code": "71114"
+    },
+    {
+      "id": "63.05.04.2010",
+      "name": "Banua Halat Kanan",
+      "postal_code": "71114"
+    },
+    {
+      "id": "63.05.04.2011",
+      "name": "Perintis Raya",
+      "postal_code": "71114"
+    },
+    {
+      "id": "63.05.04.2012",
+      "name": "Kakaran",
+      "postal_code": "71114"
+    },
+    {
+      "id": "63.05.04.2013",
+      "name": "Antasari Hilir",
+      "postal_code": "71114"
+    },
+    {
+      "id": "63.05.04.2014",
+      "name": "Lumbu Raya",
+      "postal_code": "71114"
+    },
+    {
+      "id": "63.05.04.2015",
+      "name": "Banua Hanyar Hulu",
+      "postal_code": "71114"
+    },
+    {
+      "id": "63.05.04.2016",
+      "name": "Badaun",
+      "postal_code": "71114"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

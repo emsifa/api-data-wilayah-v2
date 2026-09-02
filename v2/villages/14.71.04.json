@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "14.71.04.1001",
+      "name": "Rintis",
+      "postal_code": "28141"
+    },
+    {
+      "id": "14.71.04.1002",
+      "name": "Tanjung RHU",
+      "postal_code": "28143"
+    },
+    {
+      "id": "14.71.04.1003",
+      "name": "Pesisir",
+      "postal_code": "28144"
+    },
+    {
+      "id": "14.71.04.1004",
+      "name": "Sekip",
+      "postal_code": "28142"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

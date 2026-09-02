@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "71.71.04.1001",
+      "name": "Tikala Kumaraka",
+      "postal_code": "95124"
+    },
+    {
+      "id": "71.71.04.1002",
+      "name": "Mahakeret Timur",
+      "postal_code": "95112"
+    },
+    {
+      "id": "71.71.04.1003",
+      "name": "Mahakeret Barat",
+      "postal_code": "95112"
+    },
+    {
+      "id": "71.71.04.1004",
+      "name": "Teling Bawah",
+      "postal_code": "95119"
+    },
+    {
+      "id": "71.71.04.1005",
+      "name": "Wenang Utara",
+      "postal_code": "95111"
+    },
+    {
+      "id": "71.71.04.1006",
+      "name": "Wenang Selatan",
+      "postal_code": "95111"
+    },
+    {
+      "id": "71.71.04.1007",
+      "name": "Pinaesaan",
+      "postal_code": "95122"
+    },
+    {
+      "id": "71.71.04.1008",
+      "name": "Calaca",
+      "postal_code": "95121"
+    },
+    {
+      "id": "71.71.04.1009",
+      "name": "Istiqlal",
+      "postal_code": "95121"
+    },
+    {
+      "id": "71.71.04.1010",
+      "name": "Lawangirung",
+      "postal_code": "95123"
+    },
+    {
+      "id": "71.71.04.1011",
+      "name": "Komo Luar",
+      "postal_code": "95122"
+    },
+    {
+      "id": "71.71.04.1012",
+      "name": "Bumi Beringin",
+      "postal_code": "95113"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "63.06.09.2001",
+      "name": "Balimau",
+      "postal_code": "71262"
+    },
+    {
+      "id": "63.06.09.2002",
+      "name": "Karang Paci",
+      "postal_code": "71262"
+    },
+    {
+      "id": "63.06.09.2003",
+      "name": "Bago Tanggul",
+      "postal_code": "71262"
+    },
+    {
+      "id": "63.06.09.2004",
+      "name": "Karang Bulan",
+      "postal_code": "71262"
+    },
+    {
+      "id": "63.06.09.2005",
+      "name": "Balanti",
+      "postal_code": "71262"
+    },
+    {
+      "id": "63.06.09.2006",
+      "name": "Kalumpang",
+      "postal_code": "71262"
+    },
+    {
+      "id": "63.06.09.2007",
+      "name": "Tambingkar",
+      "postal_code": "71262"
+    },
+    {
+      "id": "63.06.09.2008",
+      "name": "Sirih",
+      "postal_code": "71262"
+    },
+    {
+      "id": "63.06.09.2009",
+      "name": "Sirih Hulu",
+      "postal_code": "71262"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

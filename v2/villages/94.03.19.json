@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "94.03.19.2001",
+      "name": "Nomouwodide",
+      "postal_code": "98735"
+    },
+    {
+      "id": "94.03.19.2002",
+      "name": "Pikokebo",
+      "postal_code": "98735"
+    },
+    {
+      "id": "94.03.19.2003",
+      "name": "Baya Biru",
+      "postal_code": "98735"
+    },
+    {
+      "id": "94.03.19.2004",
+      "name": "Jigitopa Timur",
+      "postal_code": "98735"
+    },
+    {
+      "id": "94.03.19.2005",
+      "name": "Maatadi",
+      "postal_code": "98735"
+    },
+    {
+      "id": "94.03.19.2006",
+      "name": "Pupekebo",
+      "postal_code": "98735"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "95.04.45.2001",
+      "name": "Biuk",
+      "postal_code": "99023"
+    },
+    {
+      "id": "95.04.45.2002",
+      "name": "Guburini",
+      "postal_code": "99023"
+    },
+    {
+      "id": "95.04.45.2003",
+      "name": "Yiluk/Kondenggun",
+      "postal_code": "99023"
+    },
+    {
+      "id": "95.04.45.2004",
+      "name": "Yugu Mabur",
+      "postal_code": "99023"
+    },
+    {
+      "id": "95.04.45.2005",
+      "name": "Tomagipura",
+      "postal_code": "99023"
+    },
+    {
+      "id": "95.04.45.2006",
+      "name": "Yiyogobak/Kibur",
+      "postal_code": "99023"
+    },
+    {
+      "id": "95.04.45.2007",
+      "name": "Galubup",
+      "postal_code": "99023"
+    },
+    {
+      "id": "95.04.45.2008",
+      "name": "Mbinime/Jinulira",
+      "postal_code": "99023"
+    },
+    {
+      "id": "95.04.45.2009",
+      "name": "Wonabu",
+      "postal_code": "99023"
+    },
+    {
+      "id": "95.04.45.2010",
+      "name": "Tomagi/Gubagi",
+      "postal_code": "99023"
+    },
+    {
+      "id": "95.04.45.2011",
+      "name": "Purugi",
+      "postal_code": "99023"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "16.10.07.1016",
+      "name": "Timbangan",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.07.2001",
+      "name": "Tanjung Pering",
+      "postal_code": "30813"
+    },
+    {
+      "id": "16.10.07.2002",
+      "name": "Bakung",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.07.2003",
+      "name": "Lorok",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.07.2004",
+      "name": "Parit",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.07.2005",
+      "name": "Payakabung",
+      "postal_code": "30812"
+    },
+    {
+      "id": "16.10.07.2006",
+      "name": "Sungai Rambutan",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.07.2007",
+      "name": "Purna Jaya",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.07.2008",
+      "name": "Soak Batok",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.07.2009",
+      "name": "Tanjung Baru",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.07.2010",
+      "name": "Tanjung Pule",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.07.2011",
+      "name": "Permata Baru",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.07.2012",
+      "name": "Suka Mulia",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.07.2013",
+      "name": "Pulau Kabai",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.07.2014",
+      "name": "Pulau Semambu",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.07.2015",
+      "name": "Palem Raya",
+      "postal_code": "30862"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

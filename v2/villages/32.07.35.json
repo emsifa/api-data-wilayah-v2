@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.07.35.2001",
+      "name": "Bantardawa",
+      "postal_code": "46380"
+    },
+    {
+      "id": "32.07.35.2002",
+      "name": "Purwadadi",
+      "postal_code": "46380"
+    },
+    {
+      "id": "32.07.35.2003",
+      "name": "Purwajaya",
+      "postal_code": "46380"
+    },
+    {
+      "id": "32.07.35.2004",
+      "name": "Karangpaningal",
+      "postal_code": "46380"
+    },
+    {
+      "id": "32.07.35.2005",
+      "name": "Sidarahayu",
+      "postal_code": "46380"
+    },
+    {
+      "id": "32.07.35.2006",
+      "name": "Padaringan",
+      "postal_code": "46380"
+    },
+    {
+      "id": "32.07.35.2007",
+      "name": "Pasirlawang",
+      "postal_code": "46380"
+    },
+    {
+      "id": "32.07.35.2008",
+      "name": "Kutawaringin",
+      "postal_code": "46380"
+    },
+    {
+      "id": "32.07.35.2009",
+      "name": "Sukamulya",
+      "postal_code": "46380"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

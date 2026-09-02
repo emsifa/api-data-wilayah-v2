@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "72.05.02.2009",
+      "name": "Tuinan",
+      "postal_code": "94573"
+    },
+    {
+      "id": "72.05.02.2010",
+      "name": "Lakea II",
+      "postal_code": "94573"
+    },
+    {
+      "id": "72.05.02.2011",
+      "name": "Lakea I",
+      "postal_code": "94573"
+    },
+    {
+      "id": "72.05.02.2012",
+      "name": "Lakuan Buol",
+      "postal_code": "94573"
+    },
+    {
+      "id": "72.05.02.2017",
+      "name": "Bukaan",
+      "postal_code": "94573"
+    },
+    {
+      "id": "72.05.02.2018",
+      "name": "Ngune",
+      "postal_code": "94573"
+    },
+    {
+      "id": "72.05.02.2019",
+      "name": "Ilambe",
+      "postal_code": "94573"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

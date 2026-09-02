@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "18.05.30.2001",
+      "name": "Lebuh Dalem",
+      "postal_code": "34615"
+    },
+    {
+      "id": "18.05.30.2002",
+      "name": "Menggala",
+      "postal_code": "34616"
+    },
+    {
+      "id": "18.05.30.2003",
+      "name": "Lingai",
+      "postal_code": "34619"
+    },
+    {
+      "id": "18.05.30.2004",
+      "name": "Kibang Pacing",
+      "postal_code": "34617"
+    },
+    {
+      "id": "18.05.30.2005",
+      "name": "Sungai Luar",
+      "postal_code": "34616"
+    },
+    {
+      "id": "18.05.30.2006",
+      "name": "Kahuripan Dalam",
+      "postal_code": "34619"
+    },
+    {
+      "id": "18.05.30.2007",
+      "name": "Cempaka Dalem",
+      "postal_code": "34619"
+    },
+    {
+      "id": "18.05.30.2008",
+      "name": "Bedaro Indah",
+      "postal_code": "34616"
+    },
+    {
+      "id": "18.05.30.2009",
+      "name": "Tri Makmur Jaya",
+      "postal_code": "34618"
+    },
+    {
+      "id": "18.05.30.2010",
+      "name": "Cempaka Jaya",
+      "postal_code": "34617"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

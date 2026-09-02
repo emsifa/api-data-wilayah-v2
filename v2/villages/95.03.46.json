@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.03.46.2001",
+      "name": "Silakma",
+      "postal_code": "99737"
+    },
+    {
+      "id": "95.03.46.2002",
+      "name": "Somarin",
+      "postal_code": "99737"
+    },
+    {
+      "id": "95.03.46.2003",
+      "name": "Kenkeni",
+      "postal_code": "99737"
+    },
+    {
+      "id": "95.03.46.2004",
+      "name": "Monin",
+      "postal_code": "99737"
+    },
+    {
+      "id": "95.03.46.2005",
+      "name": "Enggelasue",
+      "postal_code": "99737"
+    },
+    {
+      "id": "95.03.46.2006",
+      "name": "Oakbisik",
+      "postal_code": "99737"
+    },
+    {
+      "id": "95.03.46.2007",
+      "name": "Momenggama",
+      "postal_code": "99737"
+    },
+    {
+      "id": "95.03.46.2008",
+      "name": "Husmo",
+      "postal_code": "99737"
+    },
+    {
+      "id": "95.03.46.2009",
+      "name": "Karelma",
+      "postal_code": "99737"
+    },
+    {
+      "id": "95.03.46.2010",
+      "name": "Usabini",
+      "postal_code": "99737"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "71.02.08.2001",
+      "name": "Kasuratan",
+      "postal_code": "95681"
+    },
+    {
+      "id": "71.02.08.2002",
+      "name": "Parepei",
+      "postal_code": "95681"
+    },
+    {
+      "id": "71.02.08.2003",
+      "name": "Pulutan",
+      "postal_code": "95681"
+    },
+    {
+      "id": "71.02.08.2004",
+      "name": "Sinuian",
+      "postal_code": "95681"
+    },
+    {
+      "id": "71.02.08.2005",
+      "name": "Kaima",
+      "postal_code": "95681"
+    },
+    {
+      "id": "71.02.08.2006",
+      "name": "Sendangan",
+      "postal_code": "95681"
+    },
+    {
+      "id": "71.02.08.2007",
+      "name": "Timu",
+      "postal_code": "95681"
+    },
+    {
+      "id": "71.02.08.2008",
+      "name": "Talikuran",
+      "postal_code": "95681"
+    },
+    {
+      "id": "71.02.08.2009",
+      "name": "Tampusu",
+      "postal_code": "95681"
+    },
+    {
+      "id": "71.02.08.2010",
+      "name": "Paslaten",
+      "postal_code": "95681"
+    },
+    {
+      "id": "71.02.08.2011",
+      "name": "Leleko",
+      "postal_code": "95681"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

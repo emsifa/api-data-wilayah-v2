@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "72.71.06.1001",
+      "name": "Nunu",
+      "postal_code": "94222"
+    },
+    {
+      "id": "72.71.06.1002",
+      "name": "Palupi",
+      "postal_code": "94238"
+    },
+    {
+      "id": "72.71.06.1003",
+      "name": "Tawanjuka",
+      "postal_code": "94237"
+    },
+    {
+      "id": "72.71.06.1004",
+      "name": "Pengawu",
+      "postal_code": "94239"
+    },
+    {
+      "id": "72.71.06.1005",
+      "name": "Duyu",
+      "postal_code": "94225"
+    },
+    {
+      "id": "72.71.06.1006",
+      "name": "Boyaoge",
+      "postal_code": "94221"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

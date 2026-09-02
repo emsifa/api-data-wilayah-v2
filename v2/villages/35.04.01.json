@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "35.04.01.1001",
+      "name": "Kedungsoko",
+      "postal_code": "66215"
+    },
+    {
+      "id": "35.04.01.1002",
+      "name": "Tertek",
+      "postal_code": "66216"
+    },
+    {
+      "id": "35.04.01.1003",
+      "name": "Karangwaru",
+      "postal_code": "66217"
+    },
+    {
+      "id": "35.04.01.1004",
+      "name": "Tamanan",
+      "postal_code": "66217"
+    },
+    {
+      "id": "35.04.01.1005",
+      "name": "Jepun",
+      "postal_code": "66218"
+    },
+    {
+      "id": "35.04.01.1006",
+      "name": "Bago",
+      "postal_code": "66218"
+    },
+    {
+      "id": "35.04.01.1007",
+      "name": "Kepatihan",
+      "postal_code": "66219"
+    },
+    {
+      "id": "35.04.01.1008",
+      "name": "Kenayan",
+      "postal_code": "66212"
+    },
+    {
+      "id": "35.04.01.1009",
+      "name": "Kampungdalem",
+      "postal_code": "66212"
+    },
+    {
+      "id": "35.04.01.1010",
+      "name": "Kauman",
+      "postal_code": "66219"
+    },
+    {
+      "id": "35.04.01.1011",
+      "name": "Kutoanyar",
+      "postal_code": "66215"
+    },
+    {
+      "id": "35.04.01.1012",
+      "name": "Sembung",
+      "postal_code": "66219"
+    },
+    {
+      "id": "35.04.01.1013",
+      "name": "Panggungrejo",
+      "postal_code": "66214"
+    },
+    {
+      "id": "35.04.01.1014",
+      "name": "Botoran",
+      "postal_code": "66213"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

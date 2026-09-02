@@ -1,18 +1,68 @@
 {
-  "data": {
-    "id": "96.02",
-    "name": "Kabupaten Sorong Selatan",
-    "province": {
-      "id": "96",
-      "name": "Papua Barat Daya"
+  "data": [
+    {
+      "id": "96.02.01",
+      "name": "Teminabuan"
     },
-    "regency": {
-      "id": "96.02",
-      "name": "Kabupaten Sorong Selatan"
+    {
+      "id": "96.02.02",
+      "name": "Inanwatan"
+    },
+    {
+      "id": "96.02.03",
+      "name": "Sawiat"
+    },
+    {
+      "id": "96.02.04",
+      "name": "Kokoda"
+    },
+    {
+      "id": "96.02.05",
+      "name": "Moswaren"
+    },
+    {
+      "id": "96.02.06",
+      "name": "Seremuk"
+    },
+    {
+      "id": "96.02.07",
+      "name": "Wayer"
+    },
+    {
+      "id": "96.02.08",
+      "name": "Kais"
+    },
+    {
+      "id": "96.02.09",
+      "name": "Konda"
+    },
+    {
+      "id": "96.02.10",
+      "name": "Matemani"
+    },
+    {
+      "id": "96.02.11",
+      "name": "Kokoda Utara"
+    },
+    {
+      "id": "96.02.12",
+      "name": "Saifi"
+    },
+    {
+      "id": "96.02.13",
+      "name": "Fokour"
+    },
+    {
+      "id": "96.02.14",
+      "name": "Salkma"
+    },
+    {
+      "id": "96.02.15",
+      "name": "Kais Darat"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

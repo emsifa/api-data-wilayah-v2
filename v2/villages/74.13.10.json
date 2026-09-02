@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "74.13.10.1008",
+      "name": "Konawe",
+      "postal_code": "93655"
+    },
+    {
+      "id": "74.13.10.2001",
+      "name": "Lemoambo",
+      "postal_code": "93655"
+    },
+    {
+      "id": "74.13.10.2002",
+      "name": "Kasakamu",
+      "postal_code": "93655"
+    },
+    {
+      "id": "74.13.10.2003",
+      "name": "Tanjung Pinang",
+      "postal_code": "93655"
+    },
+    {
+      "id": "74.13.10.2004",
+      "name": "Sidamangura",
+      "postal_code": "93655"
+    },
+    {
+      "id": "74.13.10.2005",
+      "name": "Lakawoghe",
+      "postal_code": "93655"
+    },
+    {
+      "id": "74.13.10.2006",
+      "name": "Lapokainse",
+      "postal_code": "93655"
+    },
+    {
+      "id": "74.13.10.2007",
+      "name": "Guali",
+      "postal_code": "93655"
+    },
+    {
+      "id": "74.13.10.2009",
+      "name": "Kusambi",
+      "postal_code": "93655"
+    },
+    {
+      "id": "74.13.10.2010",
+      "name": "Bakeramba",
+      "postal_code": "93655"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

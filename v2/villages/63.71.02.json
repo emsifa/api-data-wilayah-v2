@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "63.71.02.1001",
+      "name": "Kuripan",
+      "postal_code": "70236"
+    },
+    {
+      "id": "63.71.02.1002",
+      "name": "Kebun Bunga",
+      "postal_code": "70235"
+    },
+    {
+      "id": "63.71.02.1003",
+      "name": "Karang Mekar",
+      "postal_code": "70234"
+    },
+    {
+      "id": "63.71.02.1004",
+      "name": "Sungai Bilu",
+      "postal_code": "70236"
+    },
+    {
+      "id": "63.71.02.1005",
+      "name": "Sungai Lulut",
+      "postal_code": "70238"
+    },
+    {
+      "id": "63.71.02.1006",
+      "name": "Banua Anyar",
+      "postal_code": "70239"
+    },
+    {
+      "id": "63.71.02.1007",
+      "name": "Pengambangan",
+      "postal_code": "70237"
+    },
+    {
+      "id": "63.71.02.1008",
+      "name": "Pekapuran Raya",
+      "postal_code": "70234"
+    },
+    {
+      "id": "63.71.02.1009",
+      "name": "Pemurus Luar",
+      "postal_code": "70236"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

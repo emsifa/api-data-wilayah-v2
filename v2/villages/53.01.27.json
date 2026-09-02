@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "53.01.27.2001",
+      "name": "Poto",
+      "postal_code": "85223"
+    },
+    {
+      "id": "53.01.27.2002",
+      "name": "Nuataus",
+      "postal_code": "85223"
+    },
+    {
+      "id": "53.01.27.2003",
+      "name": "Kalali",
+      "postal_code": "85223"
+    },
+    {
+      "id": "53.01.27.2004",
+      "name": "Tuakau",
+      "postal_code": "85223"
+    },
+    {
+      "id": "53.01.27.2005",
+      "name": "Naitae",
+      "postal_code": "85223"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "95.07.09.2001",
+      "name": "Kuyawage",
+      "postal_code": "99587"
+    },
+    {
+      "id": "95.07.09.2002",
+      "name": "Wupaga",
+      "postal_code": "99539"
+    },
+    {
+      "id": "95.07.09.2003",
+      "name": "Luarem",
+      "postal_code": "99539"
+    },
+    {
+      "id": "95.07.09.2004",
+      "name": "Tumbupur",
+      "postal_code": "99539"
+    },
+    {
+      "id": "95.07.09.2005",
+      "name": "Uwome",
+      "postal_code": "99587"
+    },
+    {
+      "id": "95.07.09.2006",
+      "name": "Tunikele",
+      "postal_code": "99539"
+    },
+    {
+      "id": "95.07.09.2007",
+      "name": "Peko",
+      "postal_code": "99539"
+    },
+    {
+      "id": "95.07.09.2008",
+      "name": "Yugunomba",
+      "postal_code": "99587"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

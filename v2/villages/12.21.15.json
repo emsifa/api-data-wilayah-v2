@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "12.21.15.2001",
+      "name": "Pasir Julu",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.15.2002",
+      "name": "Lumban Huayan",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.15.2003",
+      "name": "Siborna Bunut",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.15.2004",
+      "name": "Mananti Sosa Julu",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.15.2005",
+      "name": "Ampolu",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.15.2006",
+      "name": "Siginduang",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.15.2007",
+      "name": "Ramba",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.15.2008",
+      "name": "Roburan",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.15.2009",
+      "name": "Tanjung",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.15.2010",
+      "name": "Hurung Jilok",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.15.2011",
+      "name": "Pasir Jae",
+      "postal_code": "22765"
+    },
+    {
+      "id": "12.21.15.2012",
+      "name": "Sungai Jior",
+      "postal_code": "22765"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

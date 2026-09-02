@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "62.10.01.1001",
+      "name": "Sepang Simin",
+      "postal_code": "74570"
+    },
+    {
+      "id": "62.10.01.2002",
+      "name": "Sepang Kota",
+      "postal_code": "74570"
+    },
+    {
+      "id": "62.10.01.2003",
+      "name": "Tewai Baru",
+      "postal_code": "74570"
+    },
+    {
+      "id": "62.10.01.2004",
+      "name": "Tanjung Karitak",
+      "postal_code": "74570"
+    },
+    {
+      "id": "62.10.01.2011",
+      "name": "Pamatang Limau",
+      "postal_code": "74570"
+    },
+    {
+      "id": "62.10.01.2012",
+      "name": "Tampelas",
+      "postal_code": "74570"
+    },
+    {
+      "id": "62.10.01.2014",
+      "name": "Rabauh",
+      "postal_code": "74570"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

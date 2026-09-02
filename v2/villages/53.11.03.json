@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "53.11.03.1001",
+      "name": "Lewa Paku",
+      "postal_code": "87150"
+    },
+    {
+      "id": "53.11.03.2002",
+      "name": "Kambuhapang",
+      "postal_code": "87150"
+    },
+    {
+      "id": "53.11.03.2003",
+      "name": "Kambata Wundut",
+      "postal_code": "87150"
+    },
+    {
+      "id": "53.11.03.2004",
+      "name": "Kondamara",
+      "postal_code": "87150"
+    },
+    {
+      "id": "53.11.03.2005",
+      "name": "Matawai Pawali",
+      "postal_code": "87150"
+    },
+    {
+      "id": "53.11.03.2006",
+      "name": "Rakawatu",
+      "postal_code": "87150"
+    },
+    {
+      "id": "53.11.03.2007",
+      "name": "Tana Rara",
+      "postal_code": "87150"
+    },
+    {
+      "id": "53.11.03.2013",
+      "name": "Bidi Hunga",
+      "postal_code": "87150"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

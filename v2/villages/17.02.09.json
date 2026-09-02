@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "17.02.09.1012",
+      "name": "Dwi Tunggal",
+      "postal_code": "39112"
+    },
+    {
+      "id": "17.02.09.1013",
+      "name": "Air Putih Lama",
+      "postal_code": "39112"
+    },
+    {
+      "id": "17.02.09.1023",
+      "name": "Adirejo",
+      "postal_code": "39125"
+    },
+    {
+      "id": "17.02.09.1025",
+      "name": "Air Rambai",
+      "postal_code": "39111"
+    },
+    {
+      "id": "17.02.09.1026",
+      "name": "Pasar Baru",
+      "postal_code": "39113"
+    },
+    {
+      "id": "17.02.09.1027",
+      "name": "Pasar Tengah",
+      "postal_code": "39117"
+    },
+    {
+      "id": "17.02.09.1031",
+      "name": "Jalan Baru",
+      "postal_code": "39117"
+    },
+    {
+      "id": "17.02.09.1033",
+      "name": "Talang Benih",
+      "postal_code": "39118"
+    },
+    {
+      "id": "17.02.09.1047",
+      "name": "Timbul Rejo",
+      "postal_code": "39125"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

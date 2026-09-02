@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.05.28.2001",
+      "name": "Cisompet",
+      "postal_code": "44174"
+    },
+    {
+      "id": "32.05.28.2002",
+      "name": "Cihaurkuning",
+      "postal_code": "44174"
+    },
+    {
+      "id": "32.05.28.2003",
+      "name": "Margamulya",
+      "postal_code": "44174"
+    },
+    {
+      "id": "32.05.28.2004",
+      "name": "Sukamukti",
+      "postal_code": "44174"
+    },
+    {
+      "id": "32.05.28.2005",
+      "name": "Sukanagara",
+      "postal_code": "44174"
+    },
+    {
+      "id": "32.05.28.2006",
+      "name": "Cikondang",
+      "postal_code": "44174"
+    },
+    {
+      "id": "32.05.28.2007",
+      "name": "Depok",
+      "postal_code": "44174"
+    },
+    {
+      "id": "32.05.28.2008",
+      "name": "Panyindangan",
+      "postal_code": "44174"
+    },
+    {
+      "id": "32.05.28.2009",
+      "name": "Jatisari",
+      "postal_code": "44174"
+    },
+    {
+      "id": "32.05.28.2010",
+      "name": "Neglasari",
+      "postal_code": "44174"
+    },
+    {
+      "id": "32.05.28.2011",
+      "name": "Sindangsari",
+      "postal_code": "44174"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

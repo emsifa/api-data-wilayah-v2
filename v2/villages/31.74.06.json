@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "31.74.06.1001",
+      "name": "Cilandak Barat",
+      "postal_code": "12430"
+    },
+    {
+      "id": "31.74.06.1002",
+      "name": "Lebak Bulus",
+      "postal_code": "12440"
+    },
+    {
+      "id": "31.74.06.1003",
+      "name": "Pondok Labu",
+      "postal_code": "12450"
+    },
+    {
+      "id": "31.74.06.1004",
+      "name": "Gandaria Selatan",
+      "postal_code": "12420"
+    },
+    {
+      "id": "31.74.06.1005",
+      "name": "Cipete Selatan",
+      "postal_code": "12410"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

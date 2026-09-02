@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "31.71.02.1001",
+      "name": "Pasar Baru",
+      "postal_code": "10710"
+    },
+    {
+      "id": "31.71.02.1002",
+      "name": "Karang Anyar",
+      "postal_code": "10740"
+    },
+    {
+      "id": "31.71.02.1003",
+      "name": "Kartini",
+      "postal_code": "10750"
+    },
+    {
+      "id": "31.71.02.1004",
+      "name": "Gunung Sahari Utara",
+      "postal_code": "10720"
+    },
+    {
+      "id": "31.71.02.1005",
+      "name": "Mangga Dua Selatan",
+      "postal_code": "10730"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

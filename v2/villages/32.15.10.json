@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "32.15.10.2001",
+      "name": "Payungsari",
+      "postal_code": "41353"
+    },
+    {
+      "id": "32.15.10.2002",
+      "name": "Karangjaya",
+      "postal_code": "41353"
+    },
+    {
+      "id": "32.15.10.2003",
+      "name": "Kertaraharja",
+      "postal_code": "41353"
+    },
+    {
+      "id": "32.15.10.2005",
+      "name": "Sungaibuntu",
+      "postal_code": "41353"
+    },
+    {
+      "id": "32.15.10.2006",
+      "name": "Dongkal",
+      "postal_code": "41353"
+    },
+    {
+      "id": "32.15.10.2007",
+      "name": "Kertamulya",
+      "postal_code": "41353"
+    },
+    {
+      "id": "32.15.10.2008",
+      "name": "Puspasari",
+      "postal_code": "41353"
+    },
+    {
+      "id": "32.15.10.2010",
+      "name": "Labanjaya",
+      "postal_code": "41353"
+    },
+    {
+      "id": "32.15.10.2012",
+      "name": "Jatimulya",
+      "postal_code": "41353"
+    },
+    {
+      "id": "32.15.10.2016",
+      "name": "Rangdumulya",
+      "postal_code": "41353"
+    },
+    {
+      "id": "32.15.10.2017",
+      "name": "Kendaljaya",
+      "postal_code": "41353"
+    },
+    {
+      "id": "32.15.10.2018",
+      "name": "Malangsari",
+      "postal_code": "41353"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

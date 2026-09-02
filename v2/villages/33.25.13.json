@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "33.25.13.2001",
+      "name": "Tegalsari",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.13.2002",
+      "name": "Kandeman",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.13.2003",
+      "name": "Bakalan",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.13.2004",
+      "name": "Lawangaji",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.13.2005",
+      "name": "Depok",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.13.2006",
+      "name": "Tragung",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.13.2007",
+      "name": "Cempereng",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.13.2008",
+      "name": "Karanganom",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.13.2009",
+      "name": "Wonokerso",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.13.2010",
+      "name": "Ujungnegoro",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.13.2011",
+      "name": "Karanggeneng",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.13.2012",
+      "name": "Juragan",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.13.2013",
+      "name": "Botolambat",
+      "postal_code": "51261"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

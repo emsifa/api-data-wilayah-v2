@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "73.07.08.1001",
+      "name": "Mannanti",
+      "postal_code": "92681"
+    },
+    {
+      "id": "73.07.08.2002",
+      "name": "Saotengah",
+      "postal_code": "92681"
+    },
+    {
+      "id": "73.07.08.2003",
+      "name": "Kalobba",
+      "postal_code": "92681"
+    },
+    {
+      "id": "73.07.08.2004",
+      "name": "Tellu Limpoe",
+      "postal_code": "92681"
+    },
+    {
+      "id": "73.07.08.2005",
+      "name": "Massaile",
+      "postal_code": "92681"
+    },
+    {
+      "id": "73.07.08.2006",
+      "name": "Lembang Lohe",
+      "postal_code": "92681"
+    },
+    {
+      "id": "73.07.08.2007",
+      "name": "Pattongko",
+      "postal_code": "92681"
+    },
+    {
+      "id": "73.07.08.2008",
+      "name": "Bua",
+      "postal_code": "92681"
+    },
+    {
+      "id": "73.07.08.2009",
+      "name": "Suka Maju",
+      "postal_code": "92681"
+    },
+    {
+      "id": "73.07.08.2010",
+      "name": "Erabaru",
+      "postal_code": "92681"
+    },
+    {
+      "id": "73.07.08.2011",
+      "name": "Samaturue",
+      "postal_code": "92681"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

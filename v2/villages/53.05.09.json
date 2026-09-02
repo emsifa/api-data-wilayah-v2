@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "53.05.09.2002",
+      "name": "Baraler",
+      "postal_code": "85880"
+    },
+    {
+      "id": "53.05.09.2003",
+      "name": "Kalondama",
+      "postal_code": "85880"
+    },
+    {
+      "id": "53.05.09.2007",
+      "name": "Leer",
+      "postal_code": "85880"
+    },
+    {
+      "id": "53.05.09.2018",
+      "name": "Baranusa",
+      "postal_code": "85880"
+    },
+    {
+      "id": "53.05.09.2019",
+      "name": "Blang Merang",
+      "postal_code": "85880"
+    },
+    {
+      "id": "53.05.09.2020",
+      "name": "Illu",
+      "postal_code": "85880"
+    },
+    {
+      "id": "53.05.09.2024",
+      "name": "Piringsina",
+      "postal_code": "85880"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

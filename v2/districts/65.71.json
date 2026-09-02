@@ -1,18 +1,24 @@
 {
-  "data": {
-    "id": "65.71",
-    "name": "Kota Tarakan",
-    "province": {
-      "id": "65",
-      "name": "Kalimantan Utara"
+  "data": [
+    {
+      "id": "65.71.01",
+      "name": "Tarakan Barat"
     },
-    "regency": {
-      "id": "65.71",
-      "name": "Kota Tarakan"
+    {
+      "id": "65.71.02",
+      "name": "Tarakan Tengah"
+    },
+    {
+      "id": "65.71.03",
+      "name": "Tarakan Timur"
+    },
+    {
+      "id": "65.71.04",
+      "name": "Tarakan Utara"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "64.08.13.2001",
+      "name": "Teluk Pandan",
+      "postal_code": "75682"
+    },
+    {
+      "id": "64.08.13.2002",
+      "name": "Suka Rahmat",
+      "postal_code": "75682"
+    },
+    {
+      "id": "64.08.13.2003",
+      "name": "Suka Damai",
+      "postal_code": "75682"
+    },
+    {
+      "id": "64.08.13.2004",
+      "name": "Kandolo",
+      "postal_code": "75682"
+    },
+    {
+      "id": "64.08.13.2005",
+      "name": "Danau Redan",
+      "postal_code": "75682"
+    },
+    {
+      "id": "64.08.13.2006",
+      "name": "Martadinata",
+      "postal_code": "75682"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

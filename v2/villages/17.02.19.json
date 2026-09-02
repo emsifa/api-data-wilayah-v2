@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "17.02.19.1001",
+      "name": "Kepala Siring",
+      "postal_code": "39116"
+    },
+    {
+      "id": "17.02.19.1002",
+      "name": "Talang Rimbo Baru",
+      "postal_code": "39113"
+    },
+    {
+      "id": "17.02.19.1003",
+      "name": "Talang Rimbo Lama",
+      "postal_code": "39114"
+    },
+    {
+      "id": "17.02.19.1004",
+      "name": "Siderejo",
+      "postal_code": "39119"
+    },
+    {
+      "id": "17.02.19.1005",
+      "name": "Kampung Jawa",
+      "postal_code": "39115"
+    },
+    {
+      "id": "17.02.19.1006",
+      "name": "Air Bang",
+      "postal_code": "39125"
+    },
+    {
+      "id": "17.02.19.1007",
+      "name": "Pelabuhan Baru",
+      "postal_code": "39115"
+    },
+    {
+      "id": "17.02.19.1008",
+      "name": "Batu Galing",
+      "postal_code": "39125"
+    },
+    {
+      "id": "17.02.19.1009",
+      "name": "Banyu Mas",
+      "postal_code": "39125"
+    },
+    {
+      "id": "17.02.19.2010",
+      "name": "Air Merah",
+      "postal_code": "39125"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

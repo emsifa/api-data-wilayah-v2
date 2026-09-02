@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "13.01.10.2001",
+      "name": "Lunang",
+      "postal_code": "25674"
+    },
+    {
+      "id": "13.01.10.2003",
+      "name": "Lunang Utara",
+      "postal_code": "25674"
+    },
+    {
+      "id": "13.01.10.2004",
+      "name": "Lunang Selatan",
+      "postal_code": "25674"
+    },
+    {
+      "id": "13.01.10.2005",
+      "name": "Lunang Barat",
+      "postal_code": "25674"
+    },
+    {
+      "id": "13.01.10.2015",
+      "name": "Sindang Lunang",
+      "postal_code": "25674"
+    },
+    {
+      "id": "13.01.10.2016",
+      "name": "Pondok Parian Lunang",
+      "postal_code": "25674"
+    },
+    {
+      "id": "13.01.10.2017",
+      "name": "Lunang Tengah",
+      "postal_code": "25674"
+    },
+    {
+      "id": "13.01.10.2018",
+      "name": "Lunang Satu",
+      "postal_code": "25674"
+    },
+    {
+      "id": "13.01.10.2019",
+      "name": "Lunang Dua",
+      "postal_code": "25674"
+    },
+    {
+      "id": "13.01.10.2020",
+      "name": "Lunang Tiga",
+      "postal_code": "25674"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

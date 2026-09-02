@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "36.73.04.1001",
+      "name": "Curug",
+      "postal_code": "42171"
+    },
+    {
+      "id": "36.73.04.1002",
+      "name": "Tinggar",
+      "postal_code": "42171"
+    },
+    {
+      "id": "36.73.04.1003",
+      "name": "Kemanisan",
+      "postal_code": "42171"
+    },
+    {
+      "id": "36.73.04.1004",
+      "name": "Cipete",
+      "postal_code": "42171"
+    },
+    {
+      "id": "36.73.04.1005",
+      "name": "Cilaku",
+      "postal_code": "42171"
+    },
+    {
+      "id": "36.73.04.1006",
+      "name": "Pancalaksana",
+      "postal_code": "42171"
+    },
+    {
+      "id": "36.73.04.1007",
+      "name": "Sukawana",
+      "postal_code": "42171"
+    },
+    {
+      "id": "36.73.04.1008",
+      "name": "Sukalaksana",
+      "postal_code": "42171"
+    },
+    {
+      "id": "36.73.04.1009",
+      "name": "Curug Manis",
+      "postal_code": "42171"
+    },
+    {
+      "id": "36.73.04.1010",
+      "name": "Sukajaya",
+      "postal_code": "42171"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

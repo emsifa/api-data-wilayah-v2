@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "91.06.20",
+    "name": "Oridek",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.06",
+      "name": "Kabupaten Biak Numfor"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "id": "93.03.01.1013",
+      "name": "Kepi",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.01.2001",
+      "name": "Obaa",
+      "postal_code": "99870"
+    },
+    {
+      "id": "93.03.01.2002",
+      "name": "Dagimon",
+      "postal_code": "99870"
+    },
+    {
+      "id": "93.03.01.2003",
+      "name": "Rep",
+      "postal_code": "99870"
+    },
+    {
+      "id": "93.03.01.2004",
+      "name": "Mappi Bawah/Yamui",
+      "postal_code": "99870"
+    },
+    {
+      "id": "93.03.01.2005",
+      "name": "Wanggate",
+      "postal_code": "99870"
+    },
+    {
+      "id": "93.03.01.2006",
+      "name": "Piai",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.01.2007",
+      "name": "Muin",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.01.2008",
+      "name": "Gauda",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.01.2009",
+      "name": "Soba",
+      "postal_code": "99870"
+    },
+    {
+      "id": "93.03.01.2010",
+      "name": "Enem",
+      "postal_code": "99870"
+    },
+    {
+      "id": "93.03.01.2011",
+      "name": "Kogo",
+      "postal_code": "99870"
+    },
+    {
+      "id": "93.03.01.2012",
+      "name": "Kadam/Oyim",
+      "postal_code": "99870"
+    },
+    {
+      "id": "93.03.01.2014",
+      "name": "Tokhom",
+      "postal_code": "99870"
+    },
+    {
+      "id": "93.03.01.2015",
+      "name": "Emete",
+      "postal_code": "99870"
+    },
+    {
+      "id": "93.03.01.2016",
+      "name": "Wairu",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.01.2017",
+      "name": "Rayam",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.01.2018",
+      "name": "Harome",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.01.2019",
+      "name": "Metim",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.01.2020",
+      "name": "Masin",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.01.2021",
+      "name": "Madu",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.01.2022",
+      "name": "Yangpop",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.01.2023",
+      "name": "Paedam",
+      "postal_code": "99870"
+    },
+    {
+      "id": "93.03.01.2024",
+      "name": "Marbin",
+      "postal_code": "99870"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

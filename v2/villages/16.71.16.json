@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "16.71.16.1001",
+      "name": "Srimulya",
+      "postal_code": "30162"
+    },
+    {
+      "id": "16.71.16.1002",
+      "name": "Sukamulya",
+      "postal_code": "30161"
+    },
+    {
+      "id": "16.71.16.1003",
+      "name": "Lebung-Gajah",
+      "postal_code": "30161"
+    },
+    {
+      "id": "16.71.16.1005",
+      "name": "Karyamulya",
+      "postal_code": "30161"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

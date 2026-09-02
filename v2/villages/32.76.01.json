@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.76.01.1006",
+      "name": "Depok",
+      "postal_code": "16431"
+    },
+    {
+      "id": "32.76.01.1007",
+      "name": "Depok Jaya",
+      "postal_code": "16432"
+    },
+    {
+      "id": "32.76.01.1008",
+      "name": "Pancoran Mas",
+      "postal_code": "16436"
+    },
+    {
+      "id": "32.76.01.1009",
+      "name": "Mampang",
+      "postal_code": "16433"
+    },
+    {
+      "id": "32.76.01.1010",
+      "name": "Rangkapan Jaya Baru",
+      "postal_code": "16434"
+    },
+    {
+      "id": "32.76.01.1011",
+      "name": "Rangkapan Jaya",
+      "postal_code": "16435"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

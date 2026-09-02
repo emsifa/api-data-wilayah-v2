@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "76.04.13.1001",
+      "name": "Anreapi",
+      "postal_code": "91315"
+    },
+    {
+      "id": "76.04.13.2002",
+      "name": "Duampanua",
+      "postal_code": "91315"
+    },
+    {
+      "id": "76.04.13.2003",
+      "name": "Kelapa Dua",
+      "postal_code": "91315"
+    },
+    {
+      "id": "76.04.13.2004",
+      "name": "Pappandangan",
+      "postal_code": "91315"
+    },
+    {
+      "id": "76.04.13.2005",
+      "name": "Kunyi",
+      "postal_code": "91315"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

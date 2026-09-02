@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "51.05.01",
+    "name": "Nusa Penida",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.05",
+      "name": "Kabupaten Klungkung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

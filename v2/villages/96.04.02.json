@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "96.04.02.2001",
+      "name": "Siakwa",
+      "postal_code": "98476"
+    },
+    {
+      "id": "96.04.02.2002",
+      "name": "Aibogiar",
+      "postal_code": "98476"
+    },
+    {
+      "id": "96.04.02.2003",
+      "name": "Ayae",
+      "postal_code": "98476"
+    },
+    {
+      "id": "96.04.02.2004",
+      "name": "Ayawit",
+      "postal_code": "98476"
+    },
+    {
+      "id": "96.04.02.2005",
+      "name": "Aifair",
+      "postal_code": "98476"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

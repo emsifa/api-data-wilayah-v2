@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "74.71.05.1001",
+      "name": "Kemaraya",
+      "postal_code": "93121"
+    },
+    {
+      "id": "74.71.05.1002",
+      "name": "Watu-Watu",
+      "postal_code": "93121"
+    },
+    {
+      "id": "74.71.05.1003",
+      "name": "Tipulu",
+      "postal_code": "93122"
+    },
+    {
+      "id": "74.71.05.1004",
+      "name": "Punggaloba",
+      "postal_code": "93123"
+    },
+    {
+      "id": "74.71.05.1005",
+      "name": "Benu Benua",
+      "postal_code": "93123"
+    },
+    {
+      "id": "74.71.05.1006",
+      "name": "Sodohoa",
+      "postal_code": "93124"
+    },
+    {
+      "id": "74.71.05.1007",
+      "name": "Sanua",
+      "postal_code": "93127"
+    },
+    {
+      "id": "74.71.05.1008",
+      "name": "Dapu Dapura",
+      "postal_code": "93127"
+    },
+    {
+      "id": "74.71.05.1009",
+      "name": "Lahundape",
+      "postal_code": "93127"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "94.02.15.2001",
+      "name": "Lumo",
+      "postal_code": "98944"
+    },
+    {
+      "id": "94.02.15.2002",
+      "name": "Kililumo",
+      "postal_code": "98944"
+    },
+    {
+      "id": "94.02.15.2003",
+      "name": "Gilibe",
+      "postal_code": "98944"
+    },
+    {
+      "id": "94.02.15.2004",
+      "name": "Ninggineri",
+      "postal_code": "98944"
+    },
+    {
+      "id": "94.02.15.2005",
+      "name": "Wurabak",
+      "postal_code": "98944"
+    },
+    {
+      "id": "94.02.15.2006",
+      "name": "Wuluma",
+      "postal_code": "98944"
+    },
+    {
+      "id": "94.02.15.2007",
+      "name": "Tigir",
+      "postal_code": "98944"
+    },
+    {
+      "id": "94.02.15.2008",
+      "name": "Gililome",
+      "postal_code": "98944"
+    },
+    {
+      "id": "94.02.15.2009",
+      "name": "Wuramburu",
+      "postal_code": "98944"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

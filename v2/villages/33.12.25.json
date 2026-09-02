@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "33.12.25.1002",
+      "name": "Giriharjo",
+      "postal_code": "57698"
+    },
+    {
+      "id": "33.12.25.2001",
+      "name": "Puhpelem",
+      "postal_code": "57698"
+    },
+    {
+      "id": "33.12.25.2003",
+      "name": "Nguneng",
+      "postal_code": "57698"
+    },
+    {
+      "id": "33.12.25.2004",
+      "name": "Sukorejo",
+      "postal_code": "57698"
+    },
+    {
+      "id": "33.12.25.2005",
+      "name": "Tengger",
+      "postal_code": "57698"
+    },
+    {
+      "id": "33.12.25.2006",
+      "name": "Golo",
+      "postal_code": "57698"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

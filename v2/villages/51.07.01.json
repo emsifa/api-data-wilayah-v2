@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "51.07.01.2001",
+      "name": "Nongan",
+      "postal_code": "80863"
+    },
+    {
+      "id": "51.07.01.2002",
+      "name": "Rendang",
+      "postal_code": "80863"
+    },
+    {
+      "id": "51.07.01.2003",
+      "name": "Menanga",
+      "postal_code": "80863"
+    },
+    {
+      "id": "51.07.01.2004",
+      "name": "Besakih",
+      "postal_code": "80863"
+    },
+    {
+      "id": "51.07.01.2005",
+      "name": "Pempatan",
+      "postal_code": "80863"
+    },
+    {
+      "id": "51.07.01.2006",
+      "name": "Pesaban",
+      "postal_code": "80863"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

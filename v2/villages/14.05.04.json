@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "14.05.04.1001",
+      "name": "Pangkalan Lesung",
+      "postal_code": "28387"
+    },
+    {
+      "id": "14.05.04.2002",
+      "name": "Dusun Tua",
+      "postal_code": "28387"
+    },
+    {
+      "id": "14.05.04.2003",
+      "name": "Genduang",
+      "postal_code": "28387"
+    },
+    {
+      "id": "14.05.04.2004",
+      "name": "Mayang Sari",
+      "postal_code": "28387"
+    },
+    {
+      "id": "14.05.04.2005",
+      "name": "Rawang Sari",
+      "postal_code": "28387"
+    },
+    {
+      "id": "14.05.04.2006",
+      "name": "Mulya Subur",
+      "postal_code": "28387"
+    },
+    {
+      "id": "14.05.04.2007",
+      "name": "Sari Mulya",
+      "postal_code": "28387"
+    },
+    {
+      "id": "14.05.04.2008",
+      "name": "Sari Makmur",
+      "postal_code": "28387"
+    },
+    {
+      "id": "14.05.04.2009",
+      "name": "Tanjung Kuyo",
+      "postal_code": "28387"
+    },
+    {
+      "id": "14.05.04.2010",
+      "name": "Pesaguan",
+      "postal_code": "28387"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

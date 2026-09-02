@@ -1,21 +1,96 @@
 {
-  "data": {
-    "id": "94",
-    "name": "Papua Tengah",
-    "capital": "Nabira",
-    "lat": -3.363365864105701,
-    "lng": 135.50389107766932,
-    "elv": 13,
-    "tz": 9,
-    "population": 1369112,
-    "total_area": 61079.587,
-    "province": {
-      "id": "94",
-      "name": "Papua Tengah"
+  "data": [
+    {
+      "id": "94.01",
+      "name": "Kabupaten Nabire",
+      "capital": "Nabire",
+      "lat": -3.363365864105701,
+      "lng": 135.50389107766932,
+      "elv": 13,
+      "tz": 9,
+      "population": 179174,
+      "total_area": 11801.987
+    },
+    {
+      "id": "94.02",
+      "name": "Kabupaten Puncak Jaya",
+      "capital": "Mulia",
+      "lat": -3.716207542016092,
+      "lng": 137.98781735692376,
+      "elv": 2121,
+      "tz": 9,
+      "population": 220393,
+      "total_area": 5986.19
+    },
+    {
+      "id": "94.03",
+      "name": "Kabupaten Paniai",
+      "capital": "Enarotali",
+      "lat": -3.941435318407964,
+      "lng": 136.4216307854296,
+      "elv": 1778,
+      "tz": 9,
+      "population": 125763,
+      "total_area": 5306.871
+    },
+    {
+      "id": "94.04",
+      "name": "Kabupaten Mimika",
+      "capital": "Timika",
+      "lat": -4.4558567246897995,
+      "lng": 136.85372895723708,
+      "elv": 72,
+      "tz": 9,
+      "population": 318679,
+      "total_area": 18309.723
+    },
+    {
+      "id": "94.05",
+      "name": "Kabupaten Puncak",
+      "capital": "Ilaga",
+      "lat": -3.971608513617806,
+      "lng": 137.64179825141554,
+      "elv": 2314,
+      "tz": 9,
+      "population": 178072,
+      "total_area": 7701.031
+    },
+    {
+      "id": "94.06",
+      "name": "Kabupaten Dogiyai",
+      "capital": "Kigamani",
+      "lat": -4.004608084689695,
+      "lng": 136.0377620012195,
+      "elv": 1561,
+      "tz": 9,
+      "population": 116706,
+      "total_area": 3792.928
+    },
+    {
+      "id": "94.07",
+      "name": "Kabupaten Intan Jaya",
+      "capital": "Sugapa",
+      "lat": -3.7405289181387547,
+      "lng": 137.04395179418287,
+      "elv": 2107,
+      "tz": 9,
+      "population": 137696,
+      "total_area": 5334.445
+    },
+    {
+      "id": "94.08",
+      "name": "Kabupaten Deiyai",
+      "capital": "Tigi",
+      "lat": -4.032249309755539,
+      "lng": 136.29899153745475,
+      "elv": 1773,
+      "tz": 9,
+      "population": 92629,
+      "total_area": 2846.412
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:11Z",
+    "generated_at": "2026-09-02T03:39:51Z",
     "level": 2
   }
 }

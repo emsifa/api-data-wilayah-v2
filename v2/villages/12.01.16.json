@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "12.01.16.2001",
+      "name": "Suga Suga Hutagodang",
+      "postal_code": "22563"
+    },
+    {
+      "id": "12.01.16.2002",
+      "name": "Suka Maju",
+      "postal_code": "22563"
+    },
+    {
+      "id": "12.01.16.2003",
+      "name": "Makmur",
+      "postal_code": "22563"
+    },
+    {
+      "id": "12.01.16.2004",
+      "name": "Pasaribu Tobing",
+      "postal_code": "22563"
+    },
+    {
+      "id": "12.01.16.2005",
+      "name": "Aek Nadua",
+      "postal_code": "22563"
+    },
+    {
+      "id": "12.01.16.2006",
+      "name": "Simargarap",
+      "postal_code": "22563"
+    },
+    {
+      "id": "12.01.16.2007",
+      "name": "Sidaling",
+      "postal_code": "22563"
+    },
+    {
+      "id": "12.01.16.2008",
+      "name": "Sipakpahi",
+      "postal_code": "22563"
+    },
+    {
+      "id": "12.01.16.2009",
+      "name": "PO Simargarap",
+      "postal_code": "22563"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

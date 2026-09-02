@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "94.05.12.2001",
+      "name": "Erong Berong",
+      "postal_code": "98954"
+    },
+    {
+      "id": "94.05.12.2002",
+      "name": "Hikinat",
+      "postal_code": "98954"
+    },
+    {
+      "id": "94.05.12.2003",
+      "name": "Daung",
+      "postal_code": "98954"
+    },
+    {
+      "id": "94.05.12.2004",
+      "name": "Kombet",
+      "postal_code": "98954"
+    },
+    {
+      "id": "94.05.12.2005",
+      "name": "Onop",
+      "postal_code": "98954"
+    },
+    {
+      "id": "94.05.12.2006",
+      "name": "Kulamagom",
+      "postal_code": "98954"
+    },
+    {
+      "id": "94.05.12.2007",
+      "name": "Ogamanin",
+      "postal_code": "98954"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "34.04.08.2001",
+      "name": "Sendangtirto",
+      "postal_code": "55573"
+    },
+    {
+      "id": "34.04.08.2002",
+      "name": "Tegaltirto",
+      "postal_code": "55573"
+    },
+    {
+      "id": "34.04.08.2003",
+      "name": "Kalitirto",
+      "postal_code": "55573"
+    },
+    {
+      "id": "34.04.08.2004",
+      "name": "Jogotirto",
+      "postal_code": "55573"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

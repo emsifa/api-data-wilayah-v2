@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "18.04.10.2001",
+      "name": "Kembahang",
+      "postal_code": "34881"
+    },
+    {
+      "id": "18.04.10.2002",
+      "name": "Negeri Ratu",
+      "postal_code": "34881"
+    },
+    {
+      "id": "18.04.10.2003",
+      "name": "Kegeringan",
+      "postal_code": "34881"
+    },
+    {
+      "id": "18.04.10.2004",
+      "name": "Gunung Sugih",
+      "postal_code": "34881"
+    },
+    {
+      "id": "18.04.10.2005",
+      "name": "Pekon Balak",
+      "postal_code": "34881"
+    },
+    {
+      "id": "18.04.10.2006",
+      "name": "Sukabumi",
+      "postal_code": "34881"
+    },
+    {
+      "id": "18.04.10.2007",
+      "name": "Canggu",
+      "postal_code": "34881"
+    },
+    {
+      "id": "18.04.10.2008",
+      "name": "Kotabesi",
+      "postal_code": "34881"
+    },
+    {
+      "id": "18.04.10.2009",
+      "name": "Sukaraja",
+      "postal_code": "34881"
+    },
+    {
+      "id": "18.04.10.2010",
+      "name": "Kerang",
+      "postal_code": "34881"
+    },
+    {
+      "id": "18.04.10.2011",
+      "name": "Teba Liokh",
+      "postal_code": "34881"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

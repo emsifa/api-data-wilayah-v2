@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "74.71.08.1001",
+      "name": "Kadia",
+      "postal_code": "93117"
+    },
+    {
+      "id": "74.71.08.1002",
+      "name": "Bende",
+      "postal_code": "93118"
+    },
+    {
+      "id": "74.71.08.1003",
+      "name": "Pondambea",
+      "postal_code": "93117"
+    },
+    {
+      "id": "74.71.08.1004",
+      "name": "Wowawanggu",
+      "postal_code": "93117"
+    },
+    {
+      "id": "74.71.08.1005",
+      "name": "Anaiwoi",
+      "postal_code": "93118"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

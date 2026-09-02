@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "35.20.12.1005",
+      "name": "Mangge",
+      "postal_code": "63395"
+    },
+    {
+      "id": "35.20.12.1006",
+      "name": "Tebon",
+      "postal_code": "63395"
+    },
+    {
+      "id": "35.20.12.2001",
+      "name": "Bogorejo",
+      "postal_code": "63395"
+    },
+    {
+      "id": "35.20.12.2002",
+      "name": "Banjarejo",
+      "postal_code": "63137"
+    },
+    {
+      "id": "35.20.12.2003",
+      "name": "Karangsono",
+      "postal_code": "63395"
+    },
+    {
+      "id": "35.20.12.2004",
+      "name": "Purwodadi",
+      "postal_code": "63395"
+    },
+    {
+      "id": "35.20.12.2007",
+      "name": "Manjung",
+      "postal_code": "63395"
+    },
+    {
+      "id": "35.20.12.2008",
+      "name": "Ngumpul",
+      "postal_code": "63395"
+    },
+    {
+      "id": "35.20.12.2009",
+      "name": "Panggung",
+      "postal_code": "63395"
+    },
+    {
+      "id": "35.20.12.2010",
+      "name": "Blaran",
+      "postal_code": "63395"
+    },
+    {
+      "id": "35.20.12.2011",
+      "name": "Jonggrang",
+      "postal_code": "63395"
+    },
+    {
+      "id": "35.20.12.2012",
+      "name": "Rejomulyo",
+      "postal_code": "63395"
+    },
+    {
+      "id": "35.20.12.2013",
+      "name": "Bangunasri",
+      "postal_code": "63395"
+    },
+    {
+      "id": "35.20.12.2014",
+      "name": "Klagen",
+      "postal_code": "63395"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

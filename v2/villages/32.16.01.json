@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.16.01.1007",
+      "name": "Setia Asih",
+      "postal_code": "17215"
+    },
+    {
+      "id": "32.16.01.2001",
+      "name": "Sagara Makmur",
+      "postal_code": "17211"
+    },
+    {
+      "id": "32.16.01.2002",
+      "name": "Segarajaya",
+      "postal_code": "17218"
+    },
+    {
+      "id": "32.16.01.2003",
+      "name": "Pusaka Rakyat",
+      "postal_code": "17214"
+    },
+    {
+      "id": "32.16.01.2004",
+      "name": "Pahlawan Setia",
+      "postal_code": "17216"
+    },
+    {
+      "id": "32.16.01.2005",
+      "name": "Setia Mulya",
+      "postal_code": "17213"
+    },
+    {
+      "id": "32.16.01.2006",
+      "name": "Samudra Jaya",
+      "postal_code": "17217"
+    },
+    {
+      "id": "32.16.01.2008",
+      "name": "Pantai Makmur",
+      "postal_code": "17212"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

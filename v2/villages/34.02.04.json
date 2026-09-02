@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "34.02.04.2001",
+      "name": "Seloharjo",
+      "postal_code": "55771"
+    },
+    {
+      "id": "34.02.04.2002",
+      "name": "Panjangrejo",
+      "postal_code": "55771"
+    },
+    {
+      "id": "34.02.04.2003",
+      "name": "Srihardono",
+      "postal_code": "55771"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

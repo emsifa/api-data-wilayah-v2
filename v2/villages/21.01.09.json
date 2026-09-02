@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "21.01.09.1001",
+      "name": "Teluk Sekuni",
+      "postal_code": "29193"
+    },
+    {
+      "id": "21.01.09.2002",
+      "name": "Batu Lepuk",
+      "postal_code": "29193"
+    },
+    {
+      "id": "21.01.09.2003",
+      "name": "Kampung Hilir",
+      "postal_code": "29193"
+    },
+    {
+      "id": "21.01.09.2004",
+      "name": "Kampung Melayu",
+      "postal_code": "29193"
+    },
+    {
+      "id": "21.01.09.2005",
+      "name": "Pulau Mentebung",
+      "postal_code": "29193"
+    },
+    {
+      "id": "21.01.09.2006",
+      "name": "Pulau Pinang",
+      "postal_code": "29193"
+    },
+    {
+      "id": "21.01.09.2007",
+      "name": "Kukup",
+      "postal_code": "29193"
+    },
+    {
+      "id": "21.01.09.2008",
+      "name": "Pengikik",
+      "postal_code": "29193"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

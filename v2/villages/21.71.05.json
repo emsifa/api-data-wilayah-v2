@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "21.71.05.1001",
+      "name": "Bulang Lintang",
+      "postal_code": "29471"
+    },
+    {
+      "id": "21.71.05.1002",
+      "name": "Pulau Buluh",
+      "postal_code": "29472"
+    },
+    {
+      "id": "21.71.05.1003",
+      "name": "Temoyong",
+      "postal_code": "29475"
+    },
+    {
+      "id": "21.71.05.1004",
+      "name": "Batu Legong",
+      "postal_code": "29474"
+    },
+    {
+      "id": "21.71.05.1005",
+      "name": "Pantai Gelam",
+      "postal_code": "29473"
+    },
+    {
+      "id": "21.71.05.1006",
+      "name": "Pulau Setokok",
+      "postal_code": "29476"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

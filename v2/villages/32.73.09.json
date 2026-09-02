@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "32.73.09.1001",
+      "name": "Cihapit",
+      "postal_code": "40114"
+    },
+    {
+      "id": "32.73.09.1002",
+      "name": "Taman Sari",
+      "postal_code": "40116"
+    },
+    {
+      "id": "32.73.09.1003",
+      "name": "Citarum",
+      "postal_code": "40115"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

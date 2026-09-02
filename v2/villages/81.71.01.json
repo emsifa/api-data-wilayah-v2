@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "81.71.01.1006",
+      "name": "Nusaniwe",
+      "postal_code": "97117"
+    },
+    {
+      "id": "81.71.01.1007",
+      "name": "Wainitu",
+      "postal_code": "97115"
+    },
+    {
+      "id": "81.71.01.1008",
+      "name": "Benteng",
+      "postal_code": "97117"
+    },
+    {
+      "id": "81.71.01.1009",
+      "name": "Kudamati",
+      "postal_code": "97116"
+    },
+    {
+      "id": "81.71.01.1010",
+      "name": "Mangga Dua",
+      "postal_code": "97114"
+    },
+    {
+      "id": "81.71.01.1011",
+      "name": "Urimessing",
+      "postal_code": "97113"
+    },
+    {
+      "id": "81.71.01.1012",
+      "name": "Waihaong",
+      "postal_code": "97112"
+    },
+    {
+      "id": "81.71.01.1013",
+      "name": "Silale",
+      "postal_code": "97111"
+    },
+    {
+      "id": "81.71.01.2001",
+      "name": "Latuhalat",
+      "postal_code": "97118"
+    },
+    {
+      "id": "81.71.01.2002",
+      "name": "Seilale",
+      "postal_code": "97118"
+    },
+    {
+      "id": "81.71.01.2003",
+      "name": "Nusaniwe",
+      "postal_code": "97117"
+    },
+    {
+      "id": "81.71.01.2004",
+      "name": "Amahusu",
+      "postal_code": "97117"
+    },
+    {
+      "id": "81.71.01.2005",
+      "name": "Urimessing",
+      "postal_code": "97113"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

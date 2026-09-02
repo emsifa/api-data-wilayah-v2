@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "34.02.16.2001",
+      "name": "Bangunjiwo",
+      "postal_code": "55184"
+    },
+    {
+      "id": "34.02.16.2002",
+      "name": "Tirtonirmolo",
+      "postal_code": "55181"
+    },
+    {
+      "id": "34.02.16.2003",
+      "name": "Tamantirto",
+      "postal_code": "55183"
+    },
+    {
+      "id": "34.02.16.2004",
+      "name": "Ngestiharjo",
+      "postal_code": "55182"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

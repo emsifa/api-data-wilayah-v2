@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "13.04.02.2001",
+      "name": "Andaleh",
+      "postal_code": "27265"
+    },
+    {
+      "id": "13.04.02.2002",
+      "name": "Sabu",
+      "postal_code": "27265"
+    },
+    {
+      "id": "13.04.02.2003",
+      "name": "Batipuah Ateh",
+      "postal_code": "27265"
+    },
+    {
+      "id": "13.04.02.2004",
+      "name": "Batipuah Baruah",
+      "postal_code": "27265"
+    },
+    {
+      "id": "13.04.02.2005",
+      "name": "Gunuang Rajo",
+      "postal_code": "27265"
+    },
+    {
+      "id": "13.04.02.2006",
+      "name": "Pitalah",
+      "postal_code": "27265"
+    },
+    {
+      "id": "13.04.02.2007",
+      "name": "Tanjuang Barulak",
+      "postal_code": "27265"
+    },
+    {
+      "id": "13.04.02.2008",
+      "name": "Bungo Tanjuang",
+      "postal_code": "27265"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

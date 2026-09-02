@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.12.06.2008",
+      "name": "Mulyasari",
+      "postal_code": "45272"
+    },
+    {
+      "id": "32.12.06.2015",
+      "name": "Bangodua",
+      "postal_code": "45272"
+    },
+    {
+      "id": "32.12.06.2016",
+      "name": "Beduyut",
+      "postal_code": "45272"
+    },
+    {
+      "id": "32.12.06.2017",
+      "name": "Rancasari",
+      "postal_code": "45272"
+    },
+    {
+      "id": "32.12.06.2018",
+      "name": "Wanasari",
+      "postal_code": "45272"
+    },
+    {
+      "id": "32.12.06.2019",
+      "name": "Karanggetas",
+      "postal_code": "45272"
+    },
+    {
+      "id": "32.12.06.2020",
+      "name": "Tegalgirang",
+      "postal_code": "45272"
+    },
+    {
+      "id": "32.12.06.2021",
+      "name": "Malangsari",
+      "postal_code": "45272"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

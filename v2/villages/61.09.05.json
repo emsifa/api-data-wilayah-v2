@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "61.09.05.2001",
+      "name": "Sungai Ayak Satu",
+      "postal_code": "79586"
+    },
+    {
+      "id": "61.09.05.2002",
+      "name": "Sungai Ayak Dua",
+      "postal_code": "79586"
+    },
+    {
+      "id": "61.09.05.2003",
+      "name": "Entabuk",
+      "postal_code": "79586"
+    },
+    {
+      "id": "61.09.05.2004",
+      "name": "Tapang Pulau",
+      "postal_code": "79586"
+    },
+    {
+      "id": "61.09.05.2005",
+      "name": "Kumpang Bis",
+      "postal_code": "79586"
+    },
+    {
+      "id": "61.09.05.2006",
+      "name": "Menawai Tekam",
+      "postal_code": "79586"
+    },
+    {
+      "id": "61.09.05.2007",
+      "name": "Semadu",
+      "postal_code": "79586"
+    },
+    {
+      "id": "61.09.05.2008",
+      "name": "Merbang",
+      "postal_code": "79586"
+    },
+    {
+      "id": "61.09.05.2009",
+      "name": "Empajak",
+      "postal_code": "79586"
+    },
+    {
+      "id": "61.09.05.2010",
+      "name": "Sepantak",
+      "postal_code": "79586"
+    },
+    {
+      "id": "61.09.05.2011",
+      "name": "Melanjan Raya",
+      "postal_code": "79586"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

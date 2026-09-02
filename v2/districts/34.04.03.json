@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "34.04.03",
+    "name": "Moyudan",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.04",
+      "name": "Kabupaten Sleman"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

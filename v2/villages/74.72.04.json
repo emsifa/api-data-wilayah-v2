@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "74.72.04.1001",
+      "name": "Liabuku",
+      "postal_code": "93732"
+    },
+    {
+      "id": "74.72.04.1002",
+      "name": "Ngkaring Karing",
+      "postal_code": "93732"
+    },
+    {
+      "id": "74.72.04.1003",
+      "name": "Kampeonaho",
+      "postal_code": "93732"
+    },
+    {
+      "id": "74.72.04.1008",
+      "name": "Waliabuku",
+      "postal_code": "93732"
+    },
+    {
+      "id": "74.72.04.1010",
+      "name": "Tampuna",
+      "postal_code": "93732"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.12.05.2001",
+      "name": "Meranti Utara",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.05.2002",
+      "name": "Meranti Timur",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.05.2003",
+      "name": "Meranti Tengah",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.05.2007",
+      "name": "Pintu Pohan",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.05.2008",
+      "name": "Ambar Halim",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.05.2009",
+      "name": "Pintu Pohan Dolok",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.05.2010",
+      "name": "Halado",
+      "postal_code": "22384"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

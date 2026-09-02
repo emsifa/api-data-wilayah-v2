@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "81.71.02.1010",
+      "name": "Pandan Kasturi",
+      "postal_code": "97128"
+    },
+    {
+      "id": "81.71.02.1011",
+      "name": "Rijali",
+      "postal_code": "97123"
+    },
+    {
+      "id": "81.71.02.1012",
+      "name": "Amantelu",
+      "postal_code": "97122"
+    },
+    {
+      "id": "81.71.02.1013",
+      "name": "Karang Panjang",
+      "postal_code": "97121"
+    },
+    {
+      "id": "81.71.02.1014",
+      "name": "Waihoka",
+      "postal_code": "97129"
+    },
+    {
+      "id": "81.71.02.1015",
+      "name": "Batu Meja",
+      "postal_code": "97125"
+    },
+    {
+      "id": "81.71.02.1016",
+      "name": "Batu Gajah",
+      "postal_code": "97127"
+    },
+    {
+      "id": "81.71.02.1017",
+      "name": "Uritetu",
+      "postal_code": "97124"
+    },
+    {
+      "id": "81.71.02.1018",
+      "name": "Honipopu",
+      "postal_code": "97126"
+    },
+    {
+      "id": "81.71.02.1019",
+      "name": "Ahusen",
+      "postal_code": "97127"
+    },
+    {
+      "id": "81.71.02.2001",
+      "name": "Hative Kecil",
+      "postal_code": "97128"
+    },
+    {
+      "id": "81.71.02.2002",
+      "name": "Galala",
+      "postal_code": "97128"
+    },
+    {
+      "id": "81.71.02.2003",
+      "name": "Batu Merah",
+      "postal_code": "97128"
+    },
+    {
+      "id": "81.71.02.2009",
+      "name": "Soya",
+      "postal_code": "97129"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

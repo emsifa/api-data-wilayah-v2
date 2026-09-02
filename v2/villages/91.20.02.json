@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "91.20.02.2001",
+      "name": "Dabra",
+      "postal_code": "98694"
+    },
+    {
+      "id": "91.20.02.2002",
+      "name": "Taiyeve",
+      "postal_code": "98694"
+    },
+    {
+      "id": "91.20.02.2003",
+      "name": "Fuao",
+      "postal_code": "98694"
+    },
+    {
+      "id": "91.20.02.2004",
+      "name": "Papasena I",
+      "postal_code": "98694"
+    },
+    {
+      "id": "91.20.02.2005",
+      "name": "Papasena II",
+      "postal_code": "98694"
+    },
+    {
+      "id": "91.20.02.2006",
+      "name": "Dou",
+      "postal_code": "98694"
+    },
+    {
+      "id": "91.20.02.2008",
+      "name": "Fokri",
+      "postal_code": "98694"
+    },
+    {
+      "id": "91.20.02.2015",
+      "name": "Taria",
+      "postal_code": "98695"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

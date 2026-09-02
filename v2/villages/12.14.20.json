@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "12.14.20.2001",
+      "name": "Ehosakhozi",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2002",
+      "name": "Bawohosi",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2003",
+      "name": "Hilizoliga",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2004",
+      "name": "Olayama",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2005",
+      "name": "Sifaoroasi",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2006",
+      "name": "Sifalago",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2007",
+      "name": "Lalimanawa",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2008",
+      "name": "Tundrumbaho",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2009",
+      "name": "Hiliuso",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2010",
+      "name": "Sisarahili Huruna",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2011",
+      "name": "Tarewe",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2012",
+      "name": "Fadoro Tuhemberua",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2013",
+      "name": "Hilifalawu",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2014",
+      "name": "Luahamofakhe",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2015",
+      "name": "Sifaoroasi Huruna",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2016",
+      "name": "Hilimanawa",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.20.2017",
+      "name": "Mombawa Oladano",
+      "postal_code": "22867"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

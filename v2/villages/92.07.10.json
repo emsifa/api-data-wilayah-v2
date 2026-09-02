@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "92.07.10.2001",
+      "name": "Yende",
+      "postal_code": "98344"
+    },
+    {
+      "id": "92.07.10.2002",
+      "name": "Syabes",
+      "postal_code": "98344"
+    },
+    {
+      "id": "92.07.10.2003",
+      "name": "Menarbu",
+      "postal_code": "98344"
+    },
+    {
+      "id": "92.07.10.2004",
+      "name": "Niab",
+      "postal_code": "98344"
+    },
+    {
+      "id": "92.07.10.2005",
+      "name": "Inday",
+      "postal_code": "98344"
+    },
+    {
+      "id": "92.07.10.2006",
+      "name": "Sariay",
+      "postal_code": "98344"
+    },
+    {
+      "id": "92.07.10.2007",
+      "name": "Mena",
+      "postal_code": "98344"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

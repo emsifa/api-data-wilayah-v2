@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.09.25.2001",
+      "name": "Kalianyar",
+      "postal_code": "45163"
+    },
+    {
+      "id": "32.09.25.2002",
+      "name": "Pangurangan Kulon",
+      "postal_code": "45163"
+    },
+    {
+      "id": "32.09.25.2003",
+      "name": "Pangurangan Wetan",
+      "postal_code": "45163"
+    },
+    {
+      "id": "32.09.25.2004",
+      "name": "Pangurangan Lor",
+      "postal_code": "45163"
+    },
+    {
+      "id": "32.09.25.2005",
+      "name": "Pangurangan",
+      "postal_code": "45163"
+    },
+    {
+      "id": "32.09.25.2006",
+      "name": "Gujeg",
+      "postal_code": "45163"
+    },
+    {
+      "id": "32.09.25.2007",
+      "name": "Lemahtamba",
+      "postal_code": "45163"
+    },
+    {
+      "id": "32.09.25.2008",
+      "name": "Karanganyar",
+      "postal_code": "45163"
+    },
+    {
+      "id": "32.09.25.2009",
+      "name": "Kroya",
+      "postal_code": "45163"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

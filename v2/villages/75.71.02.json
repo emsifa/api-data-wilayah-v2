@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "75.71.02.1010",
+      "name": "Biawao",
+      "postal_code": "96111"
+    },
+    {
+      "id": "75.71.02.1012",
+      "name": "Biawu",
+      "postal_code": "96111"
+    },
+    {
+      "id": "75.71.02.1013",
+      "name": "Limba B",
+      "postal_code": "96115"
+    },
+    {
+      "id": "75.71.02.1019",
+      "name": "Limba U I",
+      "postal_code": "96115"
+    },
+    {
+      "id": "75.71.02.1020",
+      "name": "Limba U II",
+      "postal_code": "96115"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

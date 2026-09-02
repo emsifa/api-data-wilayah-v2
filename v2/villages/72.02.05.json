@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "72.02.05.2001",
+      "name": "Taripa",
+      "postal_code": "94666"
+    },
+    {
+      "id": "72.02.05.2002",
+      "name": "Tiu",
+      "postal_code": "94666"
+    },
+    {
+      "id": "72.02.05.2003",
+      "name": "Petiro",
+      "postal_code": "94666"
+    },
+    {
+      "id": "72.02.05.2004",
+      "name": "Pancasila",
+      "postal_code": "94666"
+    },
+    {
+      "id": "72.02.05.2005",
+      "name": "Olumokunde",
+      "postal_code": "94666"
+    },
+    {
+      "id": "72.02.05.2006",
+      "name": "Kamba",
+      "postal_code": "94666"
+    },
+    {
+      "id": "72.02.05.2007",
+      "name": "Didiri",
+      "postal_code": "94666"
+    },
+    {
+      "id": "72.02.05.2008",
+      "name": "Kelei",
+      "postal_code": "94666"
+    },
+    {
+      "id": "72.02.05.2009",
+      "name": "Poleganyara",
+      "postal_code": "94666"
+    },
+    {
+      "id": "72.02.05.2010",
+      "name": "Masewe",
+      "postal_code": "94666"
+    },
+    {
+      "id": "72.02.05.2011",
+      "name": "Matialemba",
+      "postal_code": "94666"
+    },
+    {
+      "id": "72.02.05.2012",
+      "name": "Kancuu",
+      "postal_code": "94666"
+    },
+    {
+      "id": "72.02.05.2013",
+      "name": "Magapu",
+      "postal_code": "94666"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

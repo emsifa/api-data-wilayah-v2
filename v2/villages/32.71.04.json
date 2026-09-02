@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "32.71.04.1001",
+      "name": "Menteng",
+      "postal_code": "16111"
+    },
+    {
+      "id": "32.71.04.1002",
+      "name": "Sindang Barang",
+      "postal_code": "16117"
+    },
+    {
+      "id": "32.71.04.1003",
+      "name": "Bubulak",
+      "postal_code": "16115"
+    },
+    {
+      "id": "32.71.04.1004",
+      "name": "Marga jaya",
+      "postal_code": "16116"
+    },
+    {
+      "id": "32.71.04.1005",
+      "name": "Balumbang Jaya",
+      "postal_code": "16116"
+    },
+    {
+      "id": "32.71.04.1006",
+      "name": "Situ Gede",
+      "postal_code": "16115"
+    },
+    {
+      "id": "32.71.04.1007",
+      "name": "Semplak",
+      "postal_code": "16114"
+    },
+    {
+      "id": "32.71.04.1008",
+      "name": "Cilendek Barat",
+      "postal_code": "16112"
+    },
+    {
+      "id": "32.71.04.1009",
+      "name": "Cilendek Timur",
+      "postal_code": "16112"
+    },
+    {
+      "id": "32.71.04.1010",
+      "name": "Curug Mekar",
+      "postal_code": "16113"
+    },
+    {
+      "id": "32.71.04.1011",
+      "name": "Curug",
+      "postal_code": "16113"
+    },
+    {
+      "id": "32.71.04.1012",
+      "name": "Pasir Jaya",
+      "postal_code": "16119"
+    },
+    {
+      "id": "32.71.04.1013",
+      "name": "Pasir Kuda",
+      "postal_code": "16119"
+    },
+    {
+      "id": "32.71.04.1014",
+      "name": "Pasir Mulya",
+      "postal_code": "16118"
+    },
+    {
+      "id": "32.71.04.1015",
+      "name": "Gunung Batu",
+      "postal_code": "16118"
+    },
+    {
+      "id": "32.71.04.1016",
+      "name": "Loji",
+      "postal_code": "16117"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

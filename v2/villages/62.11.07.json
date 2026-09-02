@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "62.11.07.2001",
+      "name": "Garung",
+      "postal_code": "74816"
+    },
+    {
+      "id": "62.11.07.2002",
+      "name": "Henda",
+      "postal_code": "74816"
+    },
+    {
+      "id": "62.11.07.2003",
+      "name": "Simpur",
+      "postal_code": "74816"
+    },
+    {
+      "id": "62.11.07.2004",
+      "name": "Sakakajang",
+      "postal_code": "74816"
+    },
+    {
+      "id": "62.11.07.2005",
+      "name": "Jabiren",
+      "postal_code": "74816"
+    },
+    {
+      "id": "62.11.07.2006",
+      "name": "Pilang",
+      "postal_code": "74816"
+    },
+    {
+      "id": "62.11.07.2007",
+      "name": "Tumbang Nusa",
+      "postal_code": "74816"
+    },
+    {
+      "id": "62.11.07.2008",
+      "name": "Tanjung Taruna",
+      "postal_code": "74816"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

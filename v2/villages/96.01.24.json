@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "96.01.24.2001",
+      "name": "Malasigit",
+      "postal_code": "98439"
+    },
+    {
+      "id": "96.01.24.2002",
+      "name": "Klagulu",
+      "postal_code": "98439"
+    },
+    {
+      "id": "96.01.24.2003",
+      "name": "Klamugun",
+      "postal_code": "98439"
+    },
+    {
+      "id": "96.01.24.2004",
+      "name": "Malajapa",
+      "postal_code": "98439"
+    },
+    {
+      "id": "96.01.24.2005",
+      "name": "Klasman",
+      "postal_code": "98439"
+    },
+    {
+      "id": "96.01.24.2006",
+      "name": "Malamoja",
+      "postal_code": "98439"
+    },
+    {
+      "id": "96.01.24.2007",
+      "name": "Magatarum",
+      "postal_code": "98439"
+    },
+    {
+      "id": "96.01.24.2008",
+      "name": "Tanah Tinggi",
+      "postal_code": "98439"
+    },
+    {
+      "id": "96.01.24.2009",
+      "name": "Marik May",
+      "postal_code": "98439"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

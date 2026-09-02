@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "52.06.16.2001",
+      "name": "Paradowane",
+      "postal_code": "84170"
+    },
+    {
+      "id": "52.06.16.2002",
+      "name": "Paradorato",
+      "postal_code": "84170"
+    },
+    {
+      "id": "52.06.16.2003",
+      "name": "Kuta",
+      "postal_code": "84170"
+    },
+    {
+      "id": "52.06.16.2004",
+      "name": "Kanca",
+      "postal_code": "84170"
+    },
+    {
+      "id": "52.06.16.2005",
+      "name": "Lere",
+      "postal_code": "84170"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

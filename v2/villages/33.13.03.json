@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "33.13.03.2001",
+      "name": "Paseban",
+      "postal_code": "57783"
+    },
+    {
+      "id": "33.13.03.2002",
+      "name": "Lemahbang",
+      "postal_code": "57783"
+    },
+    {
+      "id": "33.13.03.2003",
+      "name": "Jatirejo",
+      "postal_code": "57783"
+    },
+    {
+      "id": "33.13.03.2004",
+      "name": "Kwangsan",
+      "postal_code": "57783"
+    },
+    {
+      "id": "33.13.03.2005",
+      "name": "Karangbangun",
+      "postal_code": "57783"
+    },
+    {
+      "id": "33.13.03.2006",
+      "name": "Ploso",
+      "postal_code": "57783"
+    },
+    {
+      "id": "33.13.03.2007",
+      "name": "Giriwondo",
+      "postal_code": "57783"
+    },
+    {
+      "id": "33.13.03.2008",
+      "name": "Kadipiro",
+      "postal_code": "57716"
+    },
+    {
+      "id": "33.13.03.2009",
+      "name": "Jumantoro",
+      "postal_code": "57783"
+    },
+    {
+      "id": "33.13.03.2010",
+      "name": "Kedawung",
+      "postal_code": "57783"
+    },
+    {
+      "id": "33.13.03.2011",
+      "name": "Jumapolo",
+      "postal_code": "57783"
+    },
+    {
+      "id": "33.13.03.2012",
+      "name": "Bakalan",
+      "postal_code": "57783"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

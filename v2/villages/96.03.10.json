@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "96.03.10.2001",
+      "name": "Dibalal",
+      "postal_code": "98494"
+    },
+    {
+      "id": "96.03.10.2002",
+      "name": "Tolobi",
+      "postal_code": "98494"
+    },
+    {
+      "id": "96.03.10.2003",
+      "name": "Deer",
+      "postal_code": "98494"
+    },
+    {
+      "id": "96.03.10.2004",
+      "name": "Mikiran",
+      "postal_code": "98494"
+    },
+    {
+      "id": "96.03.10.2005",
+      "name": "Awat",
+      "postal_code": "98494"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

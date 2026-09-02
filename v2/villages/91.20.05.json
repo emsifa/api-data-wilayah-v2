@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "91.20.05.2001",
+      "name": "Baudi",
+      "postal_code": "98691"
+    },
+    {
+      "id": "91.20.05.2002",
+      "name": "Trimuris",
+      "postal_code": "98691"
+    },
+    {
+      "id": "91.20.05.2003",
+      "name": "Bagusa",
+      "postal_code": "98691"
+    },
+    {
+      "id": "91.20.05.2004",
+      "name": "Kapeso",
+      "postal_code": "98691"
+    },
+    {
+      "id": "91.20.05.2005",
+      "name": "Suaseso",
+      "postal_code": "98691"
+    },
+    {
+      "id": "91.20.05.2006",
+      "name": "Warembori",
+      "postal_code": "98691"
+    },
+    {
+      "id": "91.20.05.2007",
+      "name": "Yoke",
+      "postal_code": "98691"
+    },
+    {
+      "id": "91.20.05.2008",
+      "name": "Taya",
+      "postal_code": "98683"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

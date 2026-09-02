@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "94.05.08.2001",
+      "name": "Gome",
+      "postal_code": "98984"
+    },
+    {
+      "id": "94.05.08.2002",
+      "name": "Misimaga",
+      "postal_code": "98963"
+    },
+    {
+      "id": "94.05.08.2003",
+      "name": "Upaga",
+      "postal_code": "98984"
+    },
+    {
+      "id": "94.05.08.2004",
+      "name": "Agiyome",
+      "postal_code": "98963"
+    },
+    {
+      "id": "94.05.08.2005",
+      "name": "Yenggernok",
+      "postal_code": "98984"
+    },
+    {
+      "id": "94.05.08.2006",
+      "name": "Wako",
+      "postal_code": "98963"
+    },
+    {
+      "id": "94.05.08.2007",
+      "name": "Tegelobak",
+      "postal_code": "98963"
+    },
+    {
+      "id": "94.05.08.2008",
+      "name": "Ninggabuma",
+      "postal_code": "98963"
+    },
+    {
+      "id": "94.05.08.2009",
+      "name": "Kelanungin",
+      "postal_code": "98963"
+    },
+    {
+      "id": "94.05.08.2010",
+      "name": "Yonggolawi",
+      "postal_code": "98984"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "53.13.05.1001",
+      "name": "Lewoleba",
+      "postal_code": "86611"
+    },
+    {
+      "id": "53.13.05.1002",
+      "name": "Lewoleba Timur",
+      "postal_code": "86616"
+    },
+    {
+      "id": "53.13.05.1003",
+      "name": "Lewoleba Tengah",
+      "postal_code": "86615"
+    },
+    {
+      "id": "53.13.05.1004",
+      "name": "Lewoleba Utara",
+      "postal_code": "86612"
+    },
+    {
+      "id": "53.13.05.1015",
+      "name": "Selandoro",
+      "postal_code": "86682"
+    },
+    {
+      "id": "53.13.05.1016",
+      "name": "Lewoleba Selatan",
+      "postal_code": "86682"
+    },
+    {
+      "id": "53.13.05.1017",
+      "name": "Lewoleba Barat",
+      "postal_code": "86613"
+    },
+    {
+      "id": "53.13.05.2006",
+      "name": "Baolangu",
+      "postal_code": "86682"
+    },
+    {
+      "id": "53.13.05.2007",
+      "name": "Nubamado",
+      "postal_code": "86682"
+    },
+    {
+      "id": "53.13.05.2008",
+      "name": "Watokobu",
+      "postal_code": "86682"
+    },
+    {
+      "id": "53.13.05.2009",
+      "name": "Belobatang",
+      "postal_code": "86682"
+    },
+    {
+      "id": "53.13.05.2010",
+      "name": "Waijarang",
+      "postal_code": "86682"
+    },
+    {
+      "id": "53.13.05.2011",
+      "name": "Udak Melomata",
+      "postal_code": "86682"
+    },
+    {
+      "id": "53.13.05.2012",
+      "name": "Paubokol",
+      "postal_code": "86682"
+    },
+    {
+      "id": "53.13.05.2013",
+      "name": "Pada",
+      "postal_code": "86682"
+    },
+    {
+      "id": "53.13.05.2014",
+      "name": "Lite Ulumado",
+      "postal_code": "86616"
+    },
+    {
+      "id": "53.13.05.2018",
+      "name": "Bakalerek",
+      "postal_code": "86682"
+    },
+    {
+      "id": "53.13.05.2019",
+      "name": "Bour",
+      "postal_code": "86682"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

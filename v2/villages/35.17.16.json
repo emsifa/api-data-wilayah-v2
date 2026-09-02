@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "35.17.16.2001",
+      "name": "Marmoyo",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2002",
+      "name": "Tanjungwadung",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2003",
+      "name": "Mangunan",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2004",
+      "name": "Kabuh",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2005",
+      "name": "Kedungjati",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2006",
+      "name": "Banjardowo",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2007",
+      "name": "Karangpakis",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2008",
+      "name": "Sumberingin",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2009",
+      "name": "Sumbergondang",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2010",
+      "name": "Kauman",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2011",
+      "name": "Munungkerep",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2012",
+      "name": "Genenganjasem",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2013",
+      "name": "Manduro",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2014",
+      "name": "Sukodadi",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2015",
+      "name": "Pengampon",
+      "postal_code": "61455"
+    },
+    {
+      "id": "35.17.16.2016",
+      "name": "Sumberaji",
+      "postal_code": "61455"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "91.15.10.2001",
+      "name": "Dairi",
+      "postal_code": "98673"
+    },
+    {
+      "id": "91.15.10.2002",
+      "name": "Spoiri",
+      "postal_code": "98673"
+    },
+    {
+      "id": "91.15.10.2003",
+      "name": "Sooh",
+      "postal_code": "98673"
+    },
+    {
+      "id": "91.15.10.2004",
+      "name": "Dirou",
+      "postal_code": "98673"
+    },
+    {
+      "id": "91.15.10.2005",
+      "name": "Diwah",
+      "postal_code": "98673"
+    },
+    {
+      "id": "91.15.10.2006",
+      "name": "Kuaisa",
+      "postal_code": "98673"
+    },
+    {
+      "id": "91.15.10.2007",
+      "name": "Aru Antu",
+      "postal_code": "98673"
+    },
+    {
+      "id": "91.15.10.2008",
+      "name": "Foira",
+      "postal_code": "98673"
+    },
+    {
+      "id": "91.15.10.2009",
+      "name": "Kawari",
+      "postal_code": "98673"
+    },
+    {
+      "id": "91.15.10.2010",
+      "name": "Wafuka",
+      "postal_code": "98673"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "91.11.07.2001",
+      "name": "Towe Hitam",
+      "postal_code": "99466"
+    },
+    {
+      "id": "91.11.07.2002",
+      "name": "Towe Atas",
+      "postal_code": "99466"
+    },
+    {
+      "id": "91.11.07.2003",
+      "name": "Terfones",
+      "postal_code": "99466"
+    },
+    {
+      "id": "91.11.07.2004",
+      "name": "Tefalma",
+      "postal_code": "99466"
+    },
+    {
+      "id": "91.11.07.2005",
+      "name": "Bias",
+      "postal_code": "99466"
+    },
+    {
+      "id": "91.11.07.2006",
+      "name": "Milki",
+      "postal_code": "99466"
+    },
+    {
+      "id": "91.11.07.2007",
+      "name": "Lules",
+      "postal_code": "99466"
+    },
+    {
+      "id": "91.11.07.2009",
+      "name": "Jember",
+      "postal_code": "99466"
+    },
+    {
+      "id": "91.11.07.2010",
+      "name": "Niliti",
+      "postal_code": "99466"
+    },
+    {
+      "id": "91.11.07.2011",
+      "name": "Pris",
+      "postal_code": "99466"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

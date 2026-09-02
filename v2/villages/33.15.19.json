@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "33.15.19.2001",
+      "name": "Ringinpitu",
+      "postal_code": "58166"
+    },
+    {
+      "id": "33.15.19.2002",
+      "name": "Ngambakrejo",
+      "postal_code": "58166"
+    },
+    {
+      "id": "33.15.19.2003",
+      "name": "Kapung",
+      "postal_code": "58166"
+    },
+    {
+      "id": "33.15.19.2004",
+      "name": "Mrisi",
+      "postal_code": "58166"
+    },
+    {
+      "id": "33.15.19.2005",
+      "name": "Kaliwenang",
+      "postal_code": "58166"
+    },
+    {
+      "id": "33.15.19.2006",
+      "name": "Sugihmanik",
+      "postal_code": "58166"
+    },
+    {
+      "id": "33.15.19.2007",
+      "name": "Tanggungharjo",
+      "postal_code": "58166"
+    },
+    {
+      "id": "33.15.19.2008",
+      "name": "Brabo",
+      "postal_code": "58166"
+    },
+    {
+      "id": "33.15.19.2009",
+      "name": "Padang",
+      "postal_code": "58166"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "53.01.21.2001",
+      "name": "Manubelon",
+      "postal_code": "85364"
+    },
+    {
+      "id": "53.01.21.2002",
+      "name": "Letkole",
+      "postal_code": "85364"
+    },
+    {
+      "id": "53.01.21.2003",
+      "name": "Nefoneut",
+      "postal_code": "85364"
+    },
+    {
+      "id": "53.01.21.2004",
+      "name": "Bioba Baru",
+      "postal_code": "85364"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

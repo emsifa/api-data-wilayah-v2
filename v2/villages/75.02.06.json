@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "75.02.06.2001",
+      "name": "Tutulo",
+      "postal_code": "96264"
+    },
+    {
+      "id": "75.02.06.2002",
+      "name": "Hutamonu",
+      "postal_code": "96264"
+    },
+    {
+      "id": "75.02.06.2003",
+      "name": "Patoameme",
+      "postal_code": "96264"
+    },
+    {
+      "id": "75.02.06.2004",
+      "name": "Tapadaa",
+      "postal_code": "96264"
+    },
+    {
+      "id": "75.02.06.2005",
+      "name": "Potanga",
+      "postal_code": "96264"
+    },
+    {
+      "id": "75.02.06.2006",
+      "name": "Botumoito",
+      "postal_code": "96264"
+    },
+    {
+      "id": "75.02.06.2007",
+      "name": "Bolihutuo",
+      "postal_code": "96264"
+    },
+    {
+      "id": "75.02.06.2008",
+      "name": "Rumbia",
+      "postal_code": "96264"
+    },
+    {
+      "id": "75.02.06.2009",
+      "name": "Dulangeya",
+      "postal_code": "96264"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

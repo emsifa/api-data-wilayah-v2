@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "72.09.10.1001",
+      "name": "Uentanaga Bawah",
+      "postal_code": "94685"
+    },
+    {
+      "id": "72.09.10.1002",
+      "name": "Uentanaga Atas",
+      "postal_code": "94685"
+    },
+    {
+      "id": "72.09.10.1003",
+      "name": "Dondo",
+      "postal_code": "94685"
+    },
+    {
+      "id": "72.09.10.1007",
+      "name": "Uamalingku",
+      "postal_code": "94683"
+    },
+    {
+      "id": "72.09.10.1008",
+      "name": "Dondo Barat",
+      "postal_code": "94683"
+    },
+    {
+      "id": "72.09.10.1009",
+      "name": "Muara Toba",
+      "postal_code": "94683"
+    },
+    {
+      "id": "72.09.10.2004",
+      "name": "Sumoli",
+      "postal_code": "94685"
+    },
+    {
+      "id": "72.09.10.2005",
+      "name": "Sabulira Toba",
+      "postal_code": "94685"
+    },
+    {
+      "id": "72.09.10.2006",
+      "name": "Labuan",
+      "postal_code": "94685"
+    },
+    {
+      "id": "72.09.10.2010",
+      "name": "Patingko",
+      "postal_code": "94683"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

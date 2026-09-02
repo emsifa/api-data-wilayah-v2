@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "96.04.10.2001",
+      "name": "Saukorem",
+      "postal_code": "98371"
+    },
+    {
+      "id": "96.04.10.2002",
+      "name": "Wefiani",
+      "postal_code": "98371"
+    },
+    {
+      "id": "96.04.10.2003",
+      "name": "Wasarak",
+      "postal_code": "98371"
+    },
+    {
+      "id": "96.04.10.2004",
+      "name": "Binasi",
+      "postal_code": "98371"
+    },
+    {
+      "id": "96.04.10.2005",
+      "name": "Kabibwan",
+      "postal_code": "98371"
+    },
+    {
+      "id": "96.04.10.2006",
+      "name": "Binmaks",
+      "postal_code": "98371"
+    },
+    {
+      "id": "96.04.10.2007",
+      "name": "Manggapnut",
+      "postal_code": "98371"
+    },
+    {
+      "id": "96.04.10.2008",
+      "name": "Waramui",
+      "postal_code": "98371"
+    },
+    {
+      "id": "96.04.10.2009",
+      "name": "Warpaperi",
+      "postal_code": "98371"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

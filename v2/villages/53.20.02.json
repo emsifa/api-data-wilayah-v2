@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "53.20.02.2001",
+      "name": "Bebae",
+      "postal_code": "85392"
+    },
+    {
+      "id": "53.20.02.2002",
+      "name": "Tada",
+      "postal_code": "85392"
+    },
+    {
+      "id": "53.20.02.2003",
+      "name": "Matei",
+      "postal_code": "85392"
+    },
+    {
+      "id": "53.20.02.2004",
+      "name": "Loboaju",
+      "postal_code": "85392"
+    },
+    {
+      "id": "53.20.02.2005",
+      "name": "Eimadake",
+      "postal_code": "85392"
+    },
+    {
+      "id": "53.20.02.2006",
+      "name": "Jiwuwu",
+      "postal_code": "85392"
+    },
+    {
+      "id": "53.20.02.2007",
+      "name": "Eilode",
+      "postal_code": "85392"
+    },
+    {
+      "id": "53.20.02.2008",
+      "name": "Eimau",
+      "postal_code": "85392"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

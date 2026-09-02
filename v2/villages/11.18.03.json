@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "11.18.03.2001",
+      "name": "Meuko Jurong",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2002",
+      "name": "Kuta Baroh",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2003",
+      "name": "Meuko Meugit",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2004",
+      "name": "Kiran Dayah",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2005",
+      "name": "Kiran Baroh",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2006",
+      "name": "Keurisi Meunasah Raya",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2007",
+      "name": "Keurisi Meunasah Lueng",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2008",
+      "name": "Keurisi Meunasah Beurembang",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2009",
+      "name": "Meunasah Mee",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2010",
+      "name": "Meunasah Kumbang",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2011",
+      "name": "Kiran Krueng",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2012",
+      "name": "Buket Teungoh",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2013",
+      "name": "Reului Mangat",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2014",
+      "name": "Gampong Cot",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2015",
+      "name": "Jurong Binje",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2016",
+      "name": "Jurong Teungoh",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2017",
+      "name": "Jurong Ara",
+      "postal_code": "24186"
+    },
+    {
+      "id": "11.18.03.2018",
+      "name": "Keude Jangka Buya",
+      "postal_code": "24186"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

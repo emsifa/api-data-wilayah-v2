@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.07.11.2001",
+      "name": "Jopang Manganti",
+      "postal_code": "26254"
+    },
+    {
+      "id": "13.07.11.2002",
+      "name": "Simpang Kapuak",
+      "postal_code": "26254"
+    },
+    {
+      "id": "13.07.11.2003",
+      "name": "Mungka",
+      "postal_code": "26254"
+    },
+    {
+      "id": "13.07.11.2004",
+      "name": "Talang Maur",
+      "postal_code": "26254"
+    },
+    {
+      "id": "13.07.11.2005",
+      "name": "Sungai Antuan",
+      "postal_code": "26254"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

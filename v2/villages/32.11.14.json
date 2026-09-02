@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.11.14.2001",
+      "name": "Cimanggung",
+      "postal_code": "45364"
+    },
+    {
+      "id": "32.11.14.2002",
+      "name": "Sindangpakuon",
+      "postal_code": "45364"
+    },
+    {
+      "id": "32.11.14.2003",
+      "name": "Tegalmanggung",
+      "postal_code": "45364"
+    },
+    {
+      "id": "32.11.14.2004",
+      "name": "Sindulang",
+      "postal_code": "45364"
+    },
+    {
+      "id": "32.11.14.2005",
+      "name": "Sindanggalih",
+      "postal_code": "45364"
+    },
+    {
+      "id": "32.11.14.2006",
+      "name": "Sawahdadap",
+      "postal_code": "45364"
+    },
+    {
+      "id": "32.11.14.2007",
+      "name": "Cikahuripan",
+      "postal_code": "45364"
+    },
+    {
+      "id": "32.11.14.2008",
+      "name": "Sukadana",
+      "postal_code": "45364"
+    },
+    {
+      "id": "32.11.14.2009",
+      "name": "Mangunarga",
+      "postal_code": "45364"
+    },
+    {
+      "id": "32.11.14.2010",
+      "name": "Cihanjuang",
+      "postal_code": "45364"
+    },
+    {
+      "id": "32.11.14.2011",
+      "name": "Pasirnanjung",
+      "postal_code": "45364"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

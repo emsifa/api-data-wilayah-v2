@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "95.02.17.2001",
+      "name": "Arintap",
+      "postal_code": "99433"
+    },
+    {
+      "id": "95.02.17.2002",
+      "name": "Tarngop",
+      "postal_code": "99433"
+    },
+    {
+      "id": "95.02.17.2003",
+      "name": "Kawor",
+      "postal_code": "99433"
+    },
+    {
+      "id": "95.02.17.2004",
+      "name": "Sakup",
+      "postal_code": "99433"
+    },
+    {
+      "id": "95.02.17.2005",
+      "name": "Umding",
+      "postal_code": "99433"
+    },
+    {
+      "id": "95.02.17.2006",
+      "name": "Nanum",
+      "postal_code": "99433"
+    },
+    {
+      "id": "95.02.17.2007",
+      "name": "Ater",
+      "postal_code": "99433"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

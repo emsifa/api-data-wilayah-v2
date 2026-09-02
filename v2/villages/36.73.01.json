@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "36.73.01.1001",
+      "name": "Serang",
+      "postal_code": "42116"
+    },
+    {
+      "id": "36.73.01.1002",
+      "name": "Cipare",
+      "postal_code": "42117"
+    },
+    {
+      "id": "36.73.01.1003",
+      "name": "Sumur Pecung",
+      "postal_code": "42118"
+    },
+    {
+      "id": "36.73.01.1004",
+      "name": "Kota Baru",
+      "postal_code": "42112"
+    },
+    {
+      "id": "36.73.01.1005",
+      "name": "Lopang",
+      "postal_code": "42113"
+    },
+    {
+      "id": "36.73.01.1006",
+      "name": "Cimuncang",
+      "postal_code": "42111"
+    },
+    {
+      "id": "36.73.01.1007",
+      "name": "Unyur",
+      "postal_code": "42111"
+    },
+    {
+      "id": "36.73.01.1008",
+      "name": "Sukawana",
+      "postal_code": "42116"
+    },
+    {
+      "id": "36.73.01.1009",
+      "name": "Lontarbaru",
+      "postal_code": "42115"
+    },
+    {
+      "id": "36.73.01.1010",
+      "name": "Kaligandu",
+      "postal_code": "42116"
+    },
+    {
+      "id": "36.73.01.1011",
+      "name": "Terondol",
+      "postal_code": "42119"
+    },
+    {
+      "id": "36.73.01.1012",
+      "name": "Kagungan",
+      "postal_code": "42114"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

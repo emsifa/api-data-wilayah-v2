@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "91.03.19.2001",
+      "name": "Maruwai",
+      "postal_code": "99355"
+    },
+    {
+      "id": "91.03.19.2002",
+      "name": "Meukisi",
+      "postal_code": "99355"
+    },
+    {
+      "id": "91.03.19.2003",
+      "name": "Endokisi",
+      "postal_code": "99355"
+    },
+    {
+      "id": "91.03.19.2005",
+      "name": "Buseryo",
+      "postal_code": "99355"
+    },
+    {
+      "id": "91.03.19.2006",
+      "name": "Senamay",
+      "postal_code": "99355"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

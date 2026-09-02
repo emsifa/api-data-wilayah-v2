@@ -1,18 +1,32 @@
 {
-  "data": {
-    "id": "82.07",
-    "name": "Kabupaten Pulau Morotai",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
+  "data": [
+    {
+      "id": "82.07.01",
+      "name": "Morotai Selatan"
     },
-    "regency": {
-      "id": "82.07",
-      "name": "Kabupaten Pulau Morotai"
+    {
+      "id": "82.07.02",
+      "name": "Morotai Selatan Barat"
+    },
+    {
+      "id": "82.07.03",
+      "name": "Morotai Jaya"
+    },
+    {
+      "id": "82.07.04",
+      "name": "Morotai Utara"
+    },
+    {
+      "id": "82.07.05",
+      "name": "Morotai Timur"
+    },
+    {
+      "id": "82.07.06",
+      "name": "Pulau Rao"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "52.04.12.2003",
+      "name": "Lape",
+      "postal_code": "84382"
+    },
+    {
+      "id": "52.04.12.2005",
+      "name": "Labuhan Kuris",
+      "postal_code": "84382"
+    },
+    {
+      "id": "52.04.12.2006",
+      "name": "Dete",
+      "postal_code": "84382"
+    },
+    {
+      "id": "52.04.12.2009",
+      "name": "Hijrah",
+      "postal_code": "84382"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

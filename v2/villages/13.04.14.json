@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "13.04.14.2001",
+      "name": "Batu Taba",
+      "postal_code": "27266"
+    },
+    {
+      "id": "13.04.14.2002",
+      "name": "Sumpur",
+      "postal_code": "27266"
+    },
+    {
+      "id": "13.04.14.2003",
+      "name": "Padang Laweh Malalo",
+      "postal_code": "27266"
+    },
+    {
+      "id": "13.04.14.2004",
+      "name": "Guguak Malalo",
+      "postal_code": "27266"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

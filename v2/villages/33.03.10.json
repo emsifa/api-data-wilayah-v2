@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "33.03.10.2001",
+      "name": "Serang",
+      "postal_code": "53358"
+    },
+    {
+      "id": "33.03.10.2002",
+      "name": "Kutabawa",
+      "postal_code": "53358"
+    },
+    {
+      "id": "33.03.10.2003",
+      "name": "Siwarak",
+      "postal_code": "53358"
+    },
+    {
+      "id": "33.03.10.2004",
+      "name": "Tlahab Lor",
+      "postal_code": "53358"
+    },
+    {
+      "id": "33.03.10.2005",
+      "name": "Tlahab Kidul",
+      "postal_code": "53358"
+    },
+    {
+      "id": "33.03.10.2006",
+      "name": "Karangreja",
+      "postal_code": "53358"
+    },
+    {
+      "id": "33.03.10.2007",
+      "name": "Gondang",
+      "postal_code": "53358"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

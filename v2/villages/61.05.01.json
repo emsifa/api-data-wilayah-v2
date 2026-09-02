@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "id": "61.05.01.1001",
+      "name": "Ladang",
+      "postal_code": "78612"
+    },
+    {
+      "id": "61.05.01.1002",
+      "name": "Kapuas Kanan Hulu",
+      "postal_code": "78614"
+    },
+    {
+      "id": "61.05.01.1003",
+      "name": "Tanjung Puri",
+      "postal_code": "78611"
+    },
+    {
+      "id": "61.05.01.1004",
+      "name": "Kapuas Kanan Hilir",
+      "postal_code": "78613"
+    },
+    {
+      "id": "61.05.01.1005",
+      "name": "Kapuas Kiri Hilir",
+      "postal_code": "78615"
+    },
+    {
+      "id": "61.05.01.1006",
+      "name": "Kapuas Kiri Hulu",
+      "postal_code": "78616"
+    },
+    {
+      "id": "61.05.01.1016",
+      "name": "Akcaya",
+      "postal_code": "78611"
+    },
+    {
+      "id": "61.05.01.1017",
+      "name": "Alai",
+      "postal_code": "78611"
+    },
+    {
+      "id": "61.05.01.1018",
+      "name": "Rawa Mambok",
+      "postal_code": "78614"
+    },
+    {
+      "id": "61.05.01.1019",
+      "name": "Sengkuang",
+      "postal_code": "78614"
+    },
+    {
+      "id": "61.05.01.1020",
+      "name": "Mengkurai",
+      "postal_code": "78613"
+    },
+    {
+      "id": "61.05.01.1021",
+      "name": "Kedabang",
+      "postal_code": "78613"
+    },
+    {
+      "id": "61.05.01.1022",
+      "name": "Mekar Jaya",
+      "postal_code": "78615"
+    },
+    {
+      "id": "61.05.01.1023",
+      "name": "Batu Lalau",
+      "postal_code": "78615"
+    },
+    {
+      "id": "61.05.01.1024",
+      "name": "Menyumbung Tengah",
+      "postal_code": "78616"
+    },
+    {
+      "id": "61.05.01.1025",
+      "name": "Ulak Jaya",
+      "postal_code": "78616"
+    },
+    {
+      "id": "61.05.01.2007",
+      "name": "Baning Kota",
+      "postal_code": "78612"
+    },
+    {
+      "id": "61.05.01.2008",
+      "name": "Tertung",
+      "postal_code": "78616"
+    },
+    {
+      "id": "61.05.01.2009",
+      "name": "Mungguk Bantok",
+      "postal_code": "78616"
+    },
+    {
+      "id": "61.05.01.2010",
+      "name": "Teluk Kelansam",
+      "postal_code": "78616"
+    },
+    {
+      "id": "61.05.01.2011",
+      "name": "Sungai Ana",
+      "postal_code": "78619"
+    },
+    {
+      "id": "61.05.01.2012",
+      "name": "Merti Guna",
+      "postal_code": "78618"
+    },
+    {
+      "id": "61.05.01.2013",
+      "name": "Tanjung Kelansam",
+      "postal_code": "78611"
+    },
+    {
+      "id": "61.05.01.2014",
+      "name": "Anggah Jaya",
+      "postal_code": "78617"
+    },
+    {
+      "id": "61.05.01.2015",
+      "name": "Lalang Baru",
+      "postal_code": "78617"
+    },
+    {
+      "id": "61.05.01.2026",
+      "name": "Tebing Raya",
+      "postal_code": "78616"
+    },
+    {
+      "id": "61.05.01.2027",
+      "name": "Mail Jampong",
+      "postal_code": "78616"
+    },
+    {
+      "id": "61.05.01.2028",
+      "name": "Jerora Satu",
+      "postal_code": "78611"
+    },
+    {
+      "id": "61.05.01.2029",
+      "name": "Kebiau Baru",
+      "postal_code": "78611"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

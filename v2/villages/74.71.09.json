@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "74.71.09.1001",
+      "name": "Puuwatu",
+      "postal_code": "93114"
+    },
+    {
+      "id": "74.71.09.1002",
+      "name": "Watulondo",
+      "postal_code": "93114"
+    },
+    {
+      "id": "74.71.09.1003",
+      "name": "Punggolaka",
+      "postal_code": "93115"
+    },
+    {
+      "id": "74.71.09.1004",
+      "name": "Tobuuha",
+      "postal_code": "93115"
+    },
+    {
+      "id": "74.71.09.1005",
+      "name": "Abeli Dalam",
+      "postal_code": "93115"
+    },
+    {
+      "id": "74.71.09.1006",
+      "name": "Lalodati",
+      "postal_code": "93115"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

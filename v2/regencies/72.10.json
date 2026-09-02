@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "72.10",
+    "name": "Kabupaten Sigi",
+    "capital": "Sigi Biromaru",
+    "lat": -1.0473982691058936,
+    "lng": 119.95034087728645,
+    "elv": 152,
+    "tz": 8,
+    "population": 273460,
+    "total_area": 5225.435,
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

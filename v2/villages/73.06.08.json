@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "73.06.08.1001",
+      "name": "Sungguminasa",
+      "postal_code": "92111"
+    },
+    {
+      "id": "73.06.08.1002",
+      "name": "Bonto Bontoa",
+      "postal_code": "92111"
+    },
+    {
+      "id": "73.06.08.1003",
+      "name": "Batangkaluku",
+      "postal_code": "92117"
+    },
+    {
+      "id": "73.06.08.1004",
+      "name": "Tompobalang",
+      "postal_code": "92112"
+    },
+    {
+      "id": "73.06.08.1005",
+      "name": "Samata",
+      "postal_code": "92113"
+    },
+    {
+      "id": "73.06.08.1006",
+      "name": "Katangka",
+      "postal_code": "92114"
+    },
+    {
+      "id": "73.06.08.1007",
+      "name": "Pandang Pandang",
+      "postal_code": "92115"
+    },
+    {
+      "id": "73.06.08.1008",
+      "name": "Tombolo",
+      "postal_code": "92114"
+    },
+    {
+      "id": "73.06.08.1009",
+      "name": "Kalegowa",
+      "postal_code": "92116"
+    },
+    {
+      "id": "73.06.08.1010",
+      "name": "Romangpolong",
+      "postal_code": "92118"
+    },
+    {
+      "id": "73.06.08.1011",
+      "name": "Paccinongang",
+      "postal_code": "92113"
+    },
+    {
+      "id": "73.06.08.1012",
+      "name": "Tamarunang",
+      "postal_code": "92112"
+    },
+    {
+      "id": "73.06.08.1013",
+      "name": "Bontoramba",
+      "postal_code": "92119"
+    },
+    {
+      "id": "73.06.08.1014",
+      "name": "Mawang",
+      "postal_code": "92119"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

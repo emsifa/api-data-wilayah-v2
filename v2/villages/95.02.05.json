@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "95.02.05.2001",
+      "name": "Batom",
+      "postal_code": "99442"
+    },
+    {
+      "id": "95.02.05.2002",
+      "name": "Oksip",
+      "postal_code": "99576"
+    },
+    {
+      "id": "95.02.05.2003",
+      "name": "Mongham",
+      "postal_code": "99576"
+    },
+    {
+      "id": "95.02.05.2004",
+      "name": "Sabi",
+      "postal_code": "99576"
+    },
+    {
+      "id": "95.02.05.2005",
+      "name": "Neep",
+      "postal_code": "99576"
+    },
+    {
+      "id": "95.02.05.2006",
+      "name": "Muara",
+      "postal_code": "99442"
+    },
+    {
+      "id": "95.02.05.2007",
+      "name": "Batom Dua",
+      "postal_code": "99576"
+    },
+    {
+      "id": "95.02.05.2008",
+      "name": "Akyako",
+      "postal_code": "99576"
+    },
+    {
+      "id": "95.02.05.2009",
+      "name": "Peteng",
+      "postal_code": "99442"
+    },
+    {
+      "id": "95.02.05.2010",
+      "name": "Belomo",
+      "postal_code": "99576"
+    },
+    {
+      "id": "95.02.05.2011",
+      "name": "Abukerom",
+      "postal_code": "99442"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "35.15.05.2001",
+      "name": "Panggreh",
+      "postal_code": "61276"
+    },
+    {
+      "id": "35.15.05.2002",
+      "name": "Trompoasri",
+      "postal_code": "61276"
+    },
+    {
+      "id": "35.15.05.2003",
+      "name": "Kedungrejo",
+      "postal_code": "61276"
+    },
+    {
+      "id": "35.15.05.2004",
+      "name": "Semambung",
+      "postal_code": "61276"
+    },
+    {
+      "id": "35.15.05.2005",
+      "name": "Kedungpandan",
+      "postal_code": "61276"
+    },
+    {
+      "id": "35.15.05.2006",
+      "name": "Kupang",
+      "postal_code": "61276"
+    },
+    {
+      "id": "35.15.05.2007",
+      "name": "Tambakkalisogo",
+      "postal_code": "61276"
+    },
+    {
+      "id": "35.15.05.2008",
+      "name": "Balongtani",
+      "postal_code": "61276"
+    },
+    {
+      "id": "35.15.05.2009",
+      "name": "Jemirahan",
+      "postal_code": "61276"
+    },
+    {
+      "id": "35.15.05.2010",
+      "name": "Dukuhsari",
+      "postal_code": "61276"
+    },
+    {
+      "id": "35.15.05.2011",
+      "name": "Kedungcangkring",
+      "postal_code": "61276"
+    },
+    {
+      "id": "35.15.05.2014",
+      "name": "Keboguyang",
+      "postal_code": "61276"
+    },
+    {
+      "id": "35.15.05.2015",
+      "name": "Permisan",
+      "postal_code": "61276"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

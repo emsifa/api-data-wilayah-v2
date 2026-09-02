@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.76.09.1001",
+      "name": "Cinere",
+      "postal_code": "16514"
+    },
+    {
+      "id": "32.76.09.1002",
+      "name": "Gandul",
+      "postal_code": "16512"
+    },
+    {
+      "id": "32.76.09.1003",
+      "name": "Pangkalan Jati",
+      "postal_code": "16513"
+    },
+    {
+      "id": "32.76.09.1004",
+      "name": "Pangkalan Jati Baru",
+      "postal_code": "16513"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

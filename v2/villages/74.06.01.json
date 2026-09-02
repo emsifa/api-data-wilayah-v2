@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "74.06.01.1007",
+      "name": "Boeara",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.01.1008",
+      "name": "Kastarib",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.01.1010",
+      "name": "Boepinang",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.01.1015",
+      "name": "Boepinang Barat",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.01.1016",
+      "name": "Barangga",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.01.1017",
+      "name": "Kasabolo",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.01.2009",
+      "name": "Pokurumba",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.01.2011",
+      "name": "Pallimae",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.01.2018",
+      "name": "Salosa",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.01.2019",
+      "name": "Mattiro Walie",
+      "postal_code": "93772"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

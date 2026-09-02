@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "95.04.28.2001",
+      "name": "Onggokme",
+      "postal_code": "99441"
+    },
+    {
+      "id": "95.04.28.2002",
+      "name": "Kubur",
+      "postal_code": "99441"
+    },
+    {
+      "id": "95.04.28.2003",
+      "name": "Weu",
+      "postal_code": "99441"
+    },
+    {
+      "id": "95.04.28.2004",
+      "name": "Liwese",
+      "postal_code": "99441"
+    },
+    {
+      "id": "95.04.28.2005",
+      "name": "Wenduri",
+      "postal_code": "99441"
+    },
+    {
+      "id": "95.04.28.2006",
+      "name": "Tabo Wanimbo",
+      "postal_code": "99441"
+    },
+    {
+      "id": "95.04.28.2007",
+      "name": "Lenggup",
+      "postal_code": "99441"
+    },
+    {
+      "id": "95.04.28.2008",
+      "name": "Tinger",
+      "postal_code": "99441"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

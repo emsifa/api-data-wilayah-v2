@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.04.46.2001",
+      "name": "Jelegong",
+      "postal_code": "40911"
+    },
+    {
+      "id": "32.04.46.2002",
+      "name": "Jatisari",
+      "postal_code": "40911"
+    },
+    {
+      "id": "32.04.46.2003",
+      "name": "Pameuntasan",
+      "postal_code": "40911"
+    },
+    {
+      "id": "32.04.46.2004",
+      "name": "Kopo",
+      "postal_code": "40911"
+    },
+    {
+      "id": "32.04.46.2005",
+      "name": "Cibodas",
+      "postal_code": "40911"
+    },
+    {
+      "id": "32.04.46.2006",
+      "name": "Kutawaringin",
+      "postal_code": "40911"
+    },
+    {
+      "id": "32.04.46.2007",
+      "name": "Sukamulya",
+      "postal_code": "40911"
+    },
+    {
+      "id": "32.04.46.2008",
+      "name": "Padasuka",
+      "postal_code": "40911"
+    },
+    {
+      "id": "32.04.46.2009",
+      "name": "Buninagara",
+      "postal_code": "40911"
+    },
+    {
+      "id": "32.04.46.2010",
+      "name": "Gajah Mekar",
+      "postal_code": "40911"
+    },
+    {
+      "id": "32.04.46.2011",
+      "name": "Cilame",
+      "postal_code": "40911"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

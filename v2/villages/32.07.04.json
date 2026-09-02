@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.07.04.2001",
+      "name": "Gunungsari",
+      "postal_code": "46256"
+    },
+    {
+      "id": "32.07.04.2002",
+      "name": "Sadananya",
+      "postal_code": "46256"
+    },
+    {
+      "id": "32.07.04.2003",
+      "name": "Werasari",
+      "postal_code": "46256"
+    },
+    {
+      "id": "32.07.04.2004",
+      "name": "Mangkubumi",
+      "postal_code": "46256"
+    },
+    {
+      "id": "32.07.04.2005",
+      "name": "Tanjungsari",
+      "postal_code": "46256"
+    },
+    {
+      "id": "32.07.04.2006",
+      "name": "Bendasari",
+      "postal_code": "46256"
+    },
+    {
+      "id": "32.07.04.2007",
+      "name": "Sukajadi",
+      "postal_code": "46256"
+    },
+    {
+      "id": "32.07.04.2008",
+      "name": "Mekarjadi",
+      "postal_code": "46256"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

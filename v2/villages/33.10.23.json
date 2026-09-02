@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "33.10.23.2001",
+      "name": "Jimbung",
+      "postal_code": "57451"
+    },
+    {
+      "id": "33.10.23.2002",
+      "name": "Ngemplak",
+      "postal_code": "57451"
+    },
+    {
+      "id": "33.10.23.2003",
+      "name": "Kalikotes",
+      "postal_code": "57451"
+    },
+    {
+      "id": "33.10.23.2004",
+      "name": "Krajan",
+      "postal_code": "57451"
+    },
+    {
+      "id": "33.10.23.2005",
+      "name": "Tambongwetan",
+      "postal_code": "57451"
+    },
+    {
+      "id": "33.10.23.2006",
+      "name": "Jogosetran",
+      "postal_code": "57451"
+    },
+    {
+      "id": "33.10.23.2007",
+      "name": "Gemblegan",
+      "postal_code": "57451"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

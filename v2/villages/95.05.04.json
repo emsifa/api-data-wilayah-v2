@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "95.05.04.2001",
+      "name": "Megambilis",
+      "postal_code": "99075"
+    },
+    {
+      "id": "95.05.04.2002",
+      "name": "Tariko",
+      "postal_code": "99075"
+    },
+    {
+      "id": "95.05.04.2003",
+      "name": "Homasan",
+      "postal_code": "99075"
+    },
+    {
+      "id": "95.05.04.2004",
+      "name": "Higisyam",
+      "postal_code": "99075"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

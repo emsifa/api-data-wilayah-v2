@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "34.04.09.2001",
+      "name": "Sumberharjo",
+      "postal_code": "55572"
+    },
+    {
+      "id": "34.04.09.2002",
+      "name": "Wukirharjo",
+      "postal_code": "55572"
+    },
+    {
+      "id": "34.04.09.2003",
+      "name": "Gayamharjo",
+      "postal_code": "55572"
+    },
+    {
+      "id": "34.04.09.2004",
+      "name": "Sambirejo",
+      "postal_code": "55572"
+    },
+    {
+      "id": "34.04.09.2005",
+      "name": "Madurejo",
+      "postal_code": "55572"
+    },
+    {
+      "id": "34.04.09.2006",
+      "name": "Bokoharjo",
+      "postal_code": "55572"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

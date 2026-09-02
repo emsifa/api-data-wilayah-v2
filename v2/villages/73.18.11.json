@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.18.11.1003",
+      "name": "Tapparan",
+      "postal_code": "91863"
+    },
+    {
+      "id": "73.18.11.1012",
+      "name": "Rantetayo",
+      "postal_code": "91863"
+    },
+    {
+      "id": "73.18.11.1013",
+      "name": "Padangiring",
+      "postal_code": "91863"
+    },
+    {
+      "id": "73.18.11.2007",
+      "name": "Madandan",
+      "postal_code": "91863"
+    },
+    {
+      "id": "73.18.11.2011",
+      "name": "Tapparan Utara",
+      "postal_code": "91863"
+    },
+    {
+      "id": "73.18.11.2014",
+      "name": "Tonglo",
+      "postal_code": "91863"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

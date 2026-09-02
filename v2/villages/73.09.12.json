@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.09.12.1001",
+      "name": "Allepolea",
+      "postal_code": "90514"
+    },
+    {
+      "id": "73.09.12.1002",
+      "name": "Maccini Baji",
+      "postal_code": "90513"
+    },
+    {
+      "id": "73.09.12.1003",
+      "name": "Soreang",
+      "postal_code": "90513"
+    },
+    {
+      "id": "73.09.12.1004",
+      "name": "Mattirodeceng",
+      "postal_code": "90513"
+    },
+    {
+      "id": "73.09.12.2005",
+      "name": "Marannu",
+      "postal_code": "90513"
+    },
+    {
+      "id": "73.09.12.2006",
+      "name": "Tengkuru",
+      "postal_code": "90513"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

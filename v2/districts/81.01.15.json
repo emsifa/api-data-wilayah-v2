@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "81.01.15",
+    "name": "Leihitu",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.01",
+      "name": "Kabupaten Maluku Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "73.16.12.2001",
+      "name": "Baroko",
+      "postal_code": "91755"
+    },
+    {
+      "id": "73.16.12.2002",
+      "name": "Benteng Alla",
+      "postal_code": "91755"
+    },
+    {
+      "id": "73.16.12.2003",
+      "name": "Benteng Alla Utara",
+      "postal_code": "91755"
+    },
+    {
+      "id": "73.16.12.2004",
+      "name": "Tongko",
+      "postal_code": "91755"
+    },
+    {
+      "id": "73.16.12.2005",
+      "name": "Patongloan",
+      "postal_code": "91755"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

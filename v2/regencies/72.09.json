@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "72.09",
+    "name": "Kabupaten Tojo Una Una",
+    "capital": "Ampana",
+    "lat": -0.9146507390533831,
+    "lng": 121.588520770778,
+    "elv": 85,
+    "tz": 8,
+    "population": 173534,
+    "total_area": 5565.953,
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

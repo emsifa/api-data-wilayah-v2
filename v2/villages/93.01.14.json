@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "93.01.14.2001",
+      "name": "Kumbe",
+      "postal_code": "99647"
+    },
+    {
+      "id": "93.01.14.2002",
+      "name": "Onggari",
+      "postal_code": "99647"
+    },
+    {
+      "id": "93.01.14.2003",
+      "name": "Rawa Sari",
+      "postal_code": "99647"
+    },
+    {
+      "id": "93.01.14.2004",
+      "name": "Padang Raharja",
+      "postal_code": "99647"
+    },
+    {
+      "id": "93.01.14.2005",
+      "name": "Kaiburse",
+      "postal_code": "99647"
+    },
+    {
+      "id": "93.01.14.2006",
+      "name": "Domande",
+      "postal_code": "99647"
+    },
+    {
+      "id": "93.01.14.2007",
+      "name": "Suka Maju",
+      "postal_code": "99647"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

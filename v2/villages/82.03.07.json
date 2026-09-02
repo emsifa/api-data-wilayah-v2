@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "82.03.07.2001",
+      "name": "Kao",
+      "postal_code": "97764"
+    },
+    {
+      "id": "82.03.07.2002",
+      "name": "Jati",
+      "postal_code": "97764"
+    },
+    {
+      "id": "82.03.07.2003",
+      "name": "Kusu",
+      "postal_code": "97764"
+    },
+    {
+      "id": "82.03.07.2009",
+      "name": "Waringin Lelewi",
+      "postal_code": "97764"
+    },
+    {
+      "id": "82.03.07.2010",
+      "name": "Soa Sangaji Dim-Dim",
+      "postal_code": "97764"
+    },
+    {
+      "id": "82.03.07.2011",
+      "name": "Sasur",
+      "postal_code": "97764"
+    },
+    {
+      "id": "82.03.07.2012",
+      "name": "Popon",
+      "postal_code": "97764"
+    },
+    {
+      "id": "82.03.07.2036",
+      "name": "Biang",
+      "postal_code": "97764"
+    },
+    {
+      "id": "82.03.07.2037",
+      "name": "Patang",
+      "postal_code": "97764"
+    },
+    {
+      "id": "82.03.07.2038",
+      "name": "Kukumutuk",
+      "postal_code": "97764"
+    },
+    {
+      "id": "82.03.07.2039",
+      "name": "Waringin Lamo",
+      "postal_code": "97764"
+    },
+    {
+      "id": "82.03.07.2050",
+      "name": "Goruang",
+      "postal_code": "97764"
+    },
+    {
+      "id": "82.03.07.2051",
+      "name": "Kusu Lofra",
+      "postal_code": "97764"
+    },
+    {
+      "id": "82.03.07.2052",
+      "name": "Sumber Agung",
+      "postal_code": "97764"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "94.04.16.1002",
+      "name": "Kamoro Jaya",
+      "postal_code": "99963"
+    },
+    {
+      "id": "94.04.16.1003",
+      "name": "Wonosari Jaya",
+      "postal_code": "99963"
+    },
+    {
+      "id": "94.04.16.1005",
+      "name": "Inauga",
+      "postal_code": "99963"
+    },
+    {
+      "id": "94.04.16.2001",
+      "name": "Kadun Jaya",
+      "postal_code": "99963"
+    },
+    {
+      "id": "94.04.16.2004",
+      "name": "Nawaripi",
+      "postal_code": "99963"
+    },
+    {
+      "id": "94.04.16.2006",
+      "name": "Mawokau Jaya",
+      "postal_code": "99963"
+    },
+    {
+      "id": "94.04.16.2007",
+      "name": "Mandiri Jaya",
+      "postal_code": "99963"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

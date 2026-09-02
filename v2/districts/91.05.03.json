@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "91.05.03",
+    "name": "Yapen Timur",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.05",
+      "name": "Kabupaten Kepulauan Yapen"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

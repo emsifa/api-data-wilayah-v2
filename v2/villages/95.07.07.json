@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.07.07.2001",
+      "name": "Tima",
+      "postal_code": "99534"
+    },
+    {
+      "id": "95.07.07.2002",
+      "name": "Balime",
+      "postal_code": "99534"
+    },
+    {
+      "id": "95.07.07.2003",
+      "name": "Balingga",
+      "postal_code": "99534"
+    },
+    {
+      "id": "95.07.07.2004",
+      "name": "Gume",
+      "postal_code": "99534"
+    },
+    {
+      "id": "95.07.07.2005",
+      "name": "Timonikime",
+      "postal_code": "99534"
+    },
+    {
+      "id": "95.07.07.2006",
+      "name": "Binolanggen",
+      "postal_code": "99583"
+    },
+    {
+      "id": "95.07.07.2007",
+      "name": "Dewaka",
+      "postal_code": "99583"
+    },
+    {
+      "id": "95.07.07.2008",
+      "name": "Yialo",
+      "postal_code": "99583"
+    },
+    {
+      "id": "95.07.07.2009",
+      "name": "Towewak",
+      "postal_code": "99534"
+    },
+    {
+      "id": "95.07.07.2010",
+      "name": "Yumaneri",
+      "postal_code": "99583"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.07.35.2001",
+      "name": "Kelulome",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.07.35.2002",
+      "name": "Wiyagi",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.07.35.2003",
+      "name": "Talogi",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.07.35.2004",
+      "name": "Wiringgame",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.07.35.2005",
+      "name": "Wegenpura",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.07.35.2006",
+      "name": "Ilunggijime",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.07.35.2007",
+      "name": "Juyiga",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.07.35.2008",
+      "name": "Peragime",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.07.35.2009",
+      "name": "Muluneri",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.07.35.2010",
+      "name": "Lewinagi",
+      "postal_code": "99577"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

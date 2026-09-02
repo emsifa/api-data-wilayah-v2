@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "92.06.07.2001",
+      "name": "Wamesa I/Idoor",
+      "postal_code": "98146"
+    },
+    {
+      "id": "92.06.07.2002",
+      "name": "Wamesa II/Yakati",
+      "postal_code": "98146"
+    },
+    {
+      "id": "92.06.07.2003",
+      "name": "Yansei",
+      "postal_code": "98146"
+    },
+    {
+      "id": "92.06.07.2004",
+      "name": "Mamuranu",
+      "postal_code": "98146"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

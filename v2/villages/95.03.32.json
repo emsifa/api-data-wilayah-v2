@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "95.03.32.2001",
+      "name": "Kona",
+      "postal_code": "99721"
+    },
+    {
+      "id": "95.03.32.2002",
+      "name": "Kalpok",
+      "postal_code": "99721"
+    },
+    {
+      "id": "95.03.32.2003",
+      "name": "Seklak",
+      "postal_code": "99721"
+    },
+    {
+      "id": "95.03.32.2004",
+      "name": "Wetmuk",
+      "postal_code": "99721"
+    },
+    {
+      "id": "95.03.32.2005",
+      "name": "Kugun",
+      "postal_code": "99721"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

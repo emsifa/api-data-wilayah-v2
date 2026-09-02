@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "71.02.02.1001",
+      "name": "Luaan",
+      "postal_code": "95614"
+    },
+    {
+      "id": "71.02.02.1005",
+      "name": "Ranowangko",
+      "postal_code": "95613"
+    },
+    {
+      "id": "71.02.02.1006",
+      "name": "Wengkol",
+      "postal_code": "95613"
+    },
+    {
+      "id": "71.02.02.1007",
+      "name": "Kendis",
+      "postal_code": "95613"
+    },
+    {
+      "id": "71.02.02.1008",
+      "name": "Katinggolan",
+      "postal_code": "95612"
+    },
+    {
+      "id": "71.02.02.1009",
+      "name": "Liningaan",
+      "postal_code": "95612"
+    },
+    {
+      "id": "71.02.02.1010",
+      "name": "Taler",
+      "postal_code": "95611"
+    },
+    {
+      "id": "71.02.02.1011",
+      "name": "Kiniar",
+      "postal_code": "95611"
+    },
+    {
+      "id": "71.02.02.1012",
+      "name": "Touluor",
+      "postal_code": "95611"
+    },
+    {
+      "id": "71.02.02.1013",
+      "name": "Papakelan",
+      "postal_code": "95612"
+    },
+    {
+      "id": "71.02.02.1014",
+      "name": "Makalounsow",
+      "postal_code": "95612"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

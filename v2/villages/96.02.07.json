@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "96.02.07.2001",
+      "name": "Sungguer",
+      "postal_code": "98452"
+    },
+    {
+      "id": "96.02.07.2002",
+      "name": "Unggi",
+      "postal_code": "98452"
+    },
+    {
+      "id": "96.02.07.2003",
+      "name": "Boldon",
+      "postal_code": "98452"
+    },
+    {
+      "id": "96.02.07.2004",
+      "name": "Sesor",
+      "postal_code": "98452"
+    },
+    {
+      "id": "96.02.07.2005",
+      "name": "Waigo",
+      "postal_code": "98452"
+    },
+    {
+      "id": "96.02.07.2006",
+      "name": "Bagaraga",
+      "postal_code": "98452"
+    },
+    {
+      "id": "96.02.07.2007",
+      "name": "Wardik",
+      "postal_code": "98452"
+    },
+    {
+      "id": "96.02.07.2008",
+      "name": "Wayer",
+      "postal_code": "98452"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

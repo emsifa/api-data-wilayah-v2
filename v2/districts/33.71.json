@@ -1,18 +1,20 @@
 {
-  "data": {
-    "id": "33.71",
-    "name": "Kota Magelang",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
+  "data": [
+    {
+      "id": "33.71.01",
+      "name": "Magelang Selatan"
     },
-    "regency": {
-      "id": "33.71",
-      "name": "Kota Magelang"
+    {
+      "id": "33.71.02",
+      "name": "Magelang Utara"
+    },
+    {
+      "id": "33.71.03",
+      "name": "Magelang Tengah"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

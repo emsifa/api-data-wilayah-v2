@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "34.04.10.2001",
+      "name": "Purwomartani",
+      "postal_code": "55571"
+    },
+    {
+      "id": "34.04.10.2002",
+      "name": "Tirtomartani",
+      "postal_code": "55571"
+    },
+    {
+      "id": "34.04.10.2003",
+      "name": "Tamanmartani",
+      "postal_code": "55571"
+    },
+    {
+      "id": "34.04.10.2004",
+      "name": "Selomartani",
+      "postal_code": "55571"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "91.03.04.2001",
+      "name": "Dosay",
+      "postal_code": "99358"
+    },
+    {
+      "id": "91.03.04.2005",
+      "name": "Maribu",
+      "postal_code": "99358"
+    },
+    {
+      "id": "91.03.04.2008",
+      "name": "Sabron Sari",
+      "postal_code": "99358"
+    },
+    {
+      "id": "91.03.04.2011",
+      "name": "Sabro Yaru",
+      "postal_code": "99358"
+    },
+    {
+      "id": "91.03.04.3006",
+      "name": "Desa Adat Waibron Bano",
+      "postal_code": "99358"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

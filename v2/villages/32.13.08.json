@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.13.08.2001",
+      "name": "Cicadas",
+      "postal_code": "41253"
+    },
+    {
+      "id": "32.13.08.2002",
+      "name": "Kihiyang",
+      "postal_code": "41253"
+    },
+    {
+      "id": "32.13.08.2003",
+      "name": "Binong",
+      "postal_code": "41253"
+    },
+    {
+      "id": "32.13.08.2004",
+      "name": "Kediri",
+      "postal_code": "41253"
+    },
+    {
+      "id": "32.13.08.2010",
+      "name": "Citrajaya",
+      "postal_code": "41253"
+    },
+    {
+      "id": "32.13.08.2011",
+      "name": "Mulyasari",
+      "postal_code": "41253"
+    },
+    {
+      "id": "32.13.08.2014",
+      "name": "Karangsari",
+      "postal_code": "41253"
+    },
+    {
+      "id": "32.13.08.2016",
+      "name": "Karangwangi",
+      "postal_code": "41253"
+    },
+    {
+      "id": "32.13.08.2018",
+      "name": "Nanggerang",
+      "postal_code": "41253"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

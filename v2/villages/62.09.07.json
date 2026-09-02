@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "62.09.07.2001",
+      "name": "Nanga Belantikan",
+      "postal_code": "74663"
+    },
+    {
+      "id": "62.09.07.2002",
+      "name": "Sungai Buluh",
+      "postal_code": "74663"
+    },
+    {
+      "id": "62.09.07.2003",
+      "name": "Tangga Batu",
+      "postal_code": "74663"
+    },
+    {
+      "id": "62.09.07.2004",
+      "name": "Belibi",
+      "postal_code": "74663"
+    },
+    {
+      "id": "62.09.07.2005",
+      "name": "Bayat",
+      "postal_code": "74663"
+    },
+    {
+      "id": "62.09.07.2006",
+      "name": "Karang Besi",
+      "postal_code": "74663"
+    },
+    {
+      "id": "62.09.07.2007",
+      "name": "Benuatan",
+      "postal_code": "74663"
+    },
+    {
+      "id": "62.09.07.2008",
+      "name": "Kahingai",
+      "postal_code": "74663"
+    },
+    {
+      "id": "62.09.07.2009",
+      "name": "Nanga Matu",
+      "postal_code": "74663"
+    },
+    {
+      "id": "62.09.07.2010",
+      "name": "Bintang Mangalih",
+      "postal_code": "74663"
+    },
+    {
+      "id": "62.09.07.2011",
+      "name": "Petarikan",
+      "postal_code": "74663"
+    },
+    {
+      "id": "62.09.07.2012",
+      "name": "Sumber Cahaya",
+      "postal_code": "74663"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

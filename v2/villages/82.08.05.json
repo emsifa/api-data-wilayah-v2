@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "82.08.05.2001",
+      "name": "Penu",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.05.2002",
+      "name": "Parigi",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.05.2003",
+      "name": "Samuya",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.05.2004",
+      "name": "Tubang",
+      "postal_code": "97794"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

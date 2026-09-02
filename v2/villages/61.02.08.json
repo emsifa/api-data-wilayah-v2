@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "61.02.08.2001",
+      "name": "Wajok Hilir",
+      "postal_code": "78352"
+    },
+    {
+      "id": "61.02.08.2002",
+      "name": "Sungai Nipah",
+      "postal_code": "78352"
+    },
+    {
+      "id": "61.02.08.2006",
+      "name": "Peniti Luar",
+      "postal_code": "78352"
+    },
+    {
+      "id": "61.02.08.2009",
+      "name": "Wajok Hulu",
+      "postal_code": "78352"
+    },
+    {
+      "id": "61.02.08.2010",
+      "name": "Jungkat",
+      "postal_code": "78352"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

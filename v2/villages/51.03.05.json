@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "51.03.05.1004",
+      "name": "Benoa",
+      "postal_code": "80362"
+    },
+    {
+      "id": "51.03.05.1005",
+      "name": "Tanjung Benoa",
+      "postal_code": "80362"
+    },
+    {
+      "id": "51.03.05.1006",
+      "name": "Jimbaran",
+      "postal_code": "80362"
+    },
+    {
+      "id": "51.03.05.2001",
+      "name": "Pecatu",
+      "postal_code": "80362"
+    },
+    {
+      "id": "51.03.05.2002",
+      "name": "Ungasan",
+      "postal_code": "80362"
+    },
+    {
+      "id": "51.03.05.2003",
+      "name": "Kutuh",
+      "postal_code": "80362"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

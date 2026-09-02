@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "93.02.02.2001",
+      "name": "Mindiptana",
+      "postal_code": "99663"
+    },
+    {
+      "id": "93.02.02.2002",
+      "name": "Umap",
+      "postal_code": "99662"
+    },
+    {
+      "id": "93.02.02.2003",
+      "name": "Awayanka",
+      "postal_code": "99663"
+    },
+    {
+      "id": "93.02.02.2004",
+      "name": "Wanggatkibi",
+      "postal_code": "99662"
+    },
+    {
+      "id": "93.02.02.2005",
+      "name": "Epsembit",
+      "postal_code": "99663"
+    },
+    {
+      "id": "93.02.02.2006",
+      "name": "Andobit",
+      "postal_code": "99662"
+    },
+    {
+      "id": "93.02.02.2007",
+      "name": "Niyimbang",
+      "postal_code": "99662"
+    },
+    {
+      "id": "93.02.02.2008",
+      "name": "Anggumbit",
+      "postal_code": "99662"
+    },
+    {
+      "id": "93.02.02.2009",
+      "name": "Imko",
+      "postal_code": "99663"
+    },
+    {
+      "id": "93.02.02.2010",
+      "name": "Kamka",
+      "postal_code": "99662"
+    },
+    {
+      "id": "93.02.02.2011",
+      "name": "Osso",
+      "postal_code": "99662"
+    },
+    {
+      "id": "93.02.02.2012",
+      "name": "Tinggam",
+      "postal_code": "99663"
+    },
+    {
+      "id": "93.02.02.2013",
+      "name": "Kakuna",
+      "postal_code": "99663"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

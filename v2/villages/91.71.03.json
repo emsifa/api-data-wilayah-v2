@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "91.71.03.1002",
+      "name": "Asano",
+      "postal_code": "99322"
+    },
+    {
+      "id": "91.71.03.1008",
+      "name": "Awiyo",
+      "postal_code": "99323"
+    },
+    {
+      "id": "91.71.03.1010",
+      "name": "Yobe",
+      "postal_code": "99329"
+    },
+    {
+      "id": "91.71.03.1011",
+      "name": "Abepantai",
+      "postal_code": "99321"
+    },
+    {
+      "id": "91.71.03.1012",
+      "name": "Kota Baru",
+      "postal_code": "99325"
+    },
+    {
+      "id": "91.71.03.1014",
+      "name": "Vim",
+      "postal_code": "99225"
+    },
+    {
+      "id": "91.71.03.1015",
+      "name": "Wahno",
+      "postal_code": "99226"
+    },
+    {
+      "id": "91.71.03.1016",
+      "name": "Way Mhorock",
+      "postal_code": "99229"
+    },
+    {
+      "id": "91.71.03.2001",
+      "name": "Nafri",
+      "postal_code": "99327"
+    },
+    {
+      "id": "91.71.03.2004",
+      "name": "Enggros",
+      "postal_code": "99324"
+    },
+    {
+      "id": "91.71.03.2007",
+      "name": "Koya Koso",
+      "postal_code": "99326"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

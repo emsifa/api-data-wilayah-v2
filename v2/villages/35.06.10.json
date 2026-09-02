@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "id": "35.06.10.2001",
+      "name": "Nglumbang",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2002",
+      "name": "Blimbing",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2003",
+      "name": "Ngasem",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2004",
+      "name": "Bogem",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2005",
+      "name": "Kranggan",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2006",
+      "name": "Turus",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2007",
+      "name": "Gabru",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2008",
+      "name": "Wonojoyo",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2009",
+      "name": "Bangkok",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2010",
+      "name": "Gurah",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2011",
+      "name": "Banyuanyar",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2012",
+      "name": "Besuk",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2013",
+      "name": "Sumbercangkring",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2014",
+      "name": "Sukorejo",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2015",
+      "name": "Kerkep",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2016",
+      "name": "Gempolan",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2017",
+      "name": "Tambakrejo",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2018",
+      "name": "Tiru Kidul",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2019",
+      "name": "Tiru Lor",
+      "postal_code": "64181"
+    },
+    {
+      "id": "35.06.10.2020",
+      "name": "Gayam",
+      "postal_code": "64113"
+    },
+    {
+      "id": "35.06.10.2021",
+      "name": "Adan-adan",
+      "postal_code": "64181"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

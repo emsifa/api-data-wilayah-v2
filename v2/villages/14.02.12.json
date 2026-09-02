@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "14.02.12.2001",
+      "name": "Rimpian",
+      "postal_code": "29350"
+    },
+    {
+      "id": "14.02.12.2002",
+      "name": "Pondok Gelugur",
+      "postal_code": "29350"
+    },
+    {
+      "id": "14.02.12.2003",
+      "name": "Lubuk Batu Tinggal",
+      "postal_code": "29350"
+    },
+    {
+      "id": "14.02.12.2004",
+      "name": "Sungai Beras Hilir",
+      "postal_code": "29350"
+    },
+    {
+      "id": "14.02.12.2005",
+      "name": "Kulim Jaya",
+      "postal_code": "29350"
+    },
+    {
+      "id": "14.02.12.2006",
+      "name": "Sungai Beras Beras",
+      "postal_code": "29350"
+    },
+    {
+      "id": "14.02.12.2007",
+      "name": "Tasik Juang",
+      "postal_code": "29350"
+    },
+    {
+      "id": "14.02.12.2008",
+      "name": "Pontian Mekar",
+      "postal_code": "29350"
+    },
+    {
+      "id": "14.02.12.2009",
+      "name": "Air Putih",
+      "postal_code": "29350"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

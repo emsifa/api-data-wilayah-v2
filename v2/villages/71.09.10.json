@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "71.09.10.2001",
+      "name": "Humbia",
+      "postal_code": "95866"
+    },
+    {
+      "id": "71.09.10.2002",
+      "name": "Kisihang",
+      "postal_code": "95866"
+    },
+    {
+      "id": "71.09.10.2003",
+      "name": "Bira Kiama",
+      "postal_code": "95866"
+    },
+    {
+      "id": "71.09.10.2004",
+      "name": "Buha",
+      "postal_code": "95866"
+    },
+    {
+      "id": "71.09.10.2005",
+      "name": "Batumawira",
+      "postal_code": "95866"
+    },
+    {
+      "id": "71.09.10.2006",
+      "name": "Birarikei",
+      "postal_code": "95866"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

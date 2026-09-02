@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "64.71.01.1001",
+      "name": "Manggar",
+      "postal_code": "76116"
+    },
+    {
+      "id": "64.71.01.1002",
+      "name": "Lamaru",
+      "postal_code": "76117"
+    },
+    {
+      "id": "64.71.01.1003",
+      "name": "Teritip",
+      "postal_code": "76118"
+    },
+    {
+      "id": "64.71.01.1004",
+      "name": "Manggar Baru",
+      "postal_code": "76116"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "36.71.03.1001",
+      "name": "Batuceper",
+      "postal_code": "15122"
+    },
+    {
+      "id": "36.71.03.1002",
+      "name": "Batu Jaya",
+      "postal_code": "15121"
+    },
+    {
+      "id": "36.71.03.1003",
+      "name": "Poris Gaga",
+      "postal_code": "15122"
+    },
+    {
+      "id": "36.71.03.1004",
+      "name": "Poris Gaga Baru",
+      "postal_code": "15122"
+    },
+    {
+      "id": "36.71.03.1005",
+      "name": "Kebon Besar",
+      "postal_code": "15122"
+    },
+    {
+      "id": "36.71.03.1006",
+      "name": "Batu Sari",
+      "postal_code": "15121"
+    },
+    {
+      "id": "36.71.03.1007",
+      "name": "Poris Jaya",
+      "postal_code": "15122"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

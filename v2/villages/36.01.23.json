@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "36.01.23.2001",
+      "name": "Rawasari",
+      "postal_code": "42273"
+    },
+    {
+      "id": "36.01.23.2002",
+      "name": "Pasireurih",
+      "postal_code": "42273"
+    },
+    {
+      "id": "36.01.23.2003",
+      "name": "Kaduronyok",
+      "postal_code": "42273"
+    },
+    {
+      "id": "36.01.23.2004",
+      "name": "Cibarani",
+      "postal_code": "42273"
+    },
+    {
+      "id": "36.01.23.2005",
+      "name": "Cisereh",
+      "postal_code": "42273"
+    },
+    {
+      "id": "36.01.23.2006",
+      "name": "Kubangkondang",
+      "postal_code": "42273"
+    },
+    {
+      "id": "36.01.23.2007",
+      "name": "Kondangjaya",
+      "postal_code": "42273"
+    },
+    {
+      "id": "36.01.23.2008",
+      "name": "Ciherangjaya",
+      "postal_code": "42273"
+    },
+    {
+      "id": "36.01.23.2009",
+      "name": "Palembang",
+      "postal_code": "42273"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

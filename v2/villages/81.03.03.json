@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "81.03.03.2001",
+      "name": "Tumbur",
+      "postal_code": "97473"
+    },
+    {
+      "id": "81.03.03.2002",
+      "name": "Lorulun",
+      "postal_code": "97473"
+    },
+    {
+      "id": "81.03.03.2003",
+      "name": "Atubul Dol",
+      "postal_code": "97473"
+    },
+    {
+      "id": "81.03.03.2004",
+      "name": "Amdasa",
+      "postal_code": "97473"
+    },
+    {
+      "id": "81.03.03.2005",
+      "name": "Sangliat Krawain",
+      "postal_code": "97473"
+    },
+    {
+      "id": "81.03.03.2006",
+      "name": "Arui Bab",
+      "postal_code": "97473"
+    },
+    {
+      "id": "81.03.03.2007",
+      "name": "Arui Das",
+      "postal_code": "97473"
+    },
+    {
+      "id": "81.03.03.2008",
+      "name": "Sangliat Dol",
+      "postal_code": "97473"
+    },
+    {
+      "id": "81.03.03.2009",
+      "name": "Atubul Da",
+      "postal_code": "97473"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

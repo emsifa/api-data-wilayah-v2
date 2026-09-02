@@ -1,18 +1,36 @@
 {
-  "data": {
-    "id": "51.04",
-    "name": "Kabupaten Gianyar",
-    "province": {
-      "id": "51",
-      "name": "Bali"
+  "data": [
+    {
+      "id": "51.04.01",
+      "name": "Sukawati"
     },
-    "regency": {
-      "id": "51.04",
-      "name": "Kabupaten Gianyar"
+    {
+      "id": "51.04.02",
+      "name": "Blahbatuh"
+    },
+    {
+      "id": "51.04.03",
+      "name": "Gianyar"
+    },
+    {
+      "id": "51.04.04",
+      "name": "Tampaksiring"
+    },
+    {
+      "id": "51.04.05",
+      "name": "Ubud"
+    },
+    {
+      "id": "51.04.06",
+      "name": "Tegallalang"
+    },
+    {
+      "id": "51.04.07",
+      "name": "Payangan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.09.32.2001",
+      "name": "Tonjong",
+      "postal_code": "45187"
+    },
+    {
+      "id": "32.09.32.2002",
+      "name": "Tanjunganom",
+      "postal_code": "45187"
+    },
+    {
+      "id": "32.09.32.2003",
+      "name": "Cilengkrang Girang",
+      "postal_code": "45187"
+    },
+    {
+      "id": "32.09.32.2004",
+      "name": "Cilengkrang",
+      "postal_code": "45187"
+    },
+    {
+      "id": "32.09.32.2005",
+      "name": "Pasaleman",
+      "postal_code": "45187"
+    },
+    {
+      "id": "32.09.32.2006",
+      "name": "Cigobangwangi",
+      "postal_code": "45187"
+    },
+    {
+      "id": "32.09.32.2007",
+      "name": "Cigobang",
+      "postal_code": "45187"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "19.06.05.2001",
+      "name": "Air Kelik",
+      "postal_code": "33571"
+    },
+    {
+      "id": "19.06.05.2002",
+      "name": "Mempaya",
+      "postal_code": "33515"
+    },
+    {
+      "id": "19.06.05.2003",
+      "name": "Burong Mandi",
+      "postal_code": "33571"
+    },
+    {
+      "id": "19.06.05.2004",
+      "name": "Mengkubang",
+      "postal_code": "33514"
+    },
+    {
+      "id": "19.06.05.2005",
+      "name": "Sukamandi",
+      "postal_code": "33513"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "35.28.13.2001",
+      "name": "Sana Tengah",
+      "postal_code": "69356"
+    },
+    {
+      "id": "35.28.13.2002",
+      "name": "Sana Daja",
+      "postal_code": "69356"
+    },
+    {
+      "id": "35.28.13.2003",
+      "name": "Tagangser Daja",
+      "postal_code": "69356"
+    },
+    {
+      "id": "35.28.13.2004",
+      "name": "Sotabar",
+      "postal_code": "69356"
+    },
+    {
+      "id": "35.28.13.2005",
+      "name": "Tlonto Raja",
+      "postal_code": "69356"
+    },
+    {
+      "id": "35.28.13.2006",
+      "name": "Dempo Barat",
+      "postal_code": "69356"
+    },
+    {
+      "id": "35.28.13.2007",
+      "name": "Dempo Timur",
+      "postal_code": "69356"
+    },
+    {
+      "id": "35.28.13.2008",
+      "name": "Bindang",
+      "postal_code": "69356"
+    },
+    {
+      "id": "35.28.13.2009",
+      "name": "Batokerbuy",
+      "postal_code": "69356"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

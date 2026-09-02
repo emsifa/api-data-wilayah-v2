@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "34.03.01.2001",
+      "name": "Wonosari",
+      "postal_code": "55851"
+    },
+    {
+      "id": "34.03.01.2002",
+      "name": "Kepek",
+      "postal_code": "55813"
+    },
+    {
+      "id": "34.03.01.2003",
+      "name": "Piyaman",
+      "postal_code": "55851"
+    },
+    {
+      "id": "34.03.01.2004",
+      "name": "Gari",
+      "postal_code": "55851"
+    },
+    {
+      "id": "34.03.01.2005",
+      "name": "Karangtengah",
+      "postal_code": "55851"
+    },
+    {
+      "id": "34.03.01.2006",
+      "name": "Selang",
+      "postal_code": "55851"
+    },
+    {
+      "id": "34.03.01.2007",
+      "name": "Baleharjo",
+      "postal_code": "55811"
+    },
+    {
+      "id": "34.03.01.2008",
+      "name": "Siraman",
+      "postal_code": "55851"
+    },
+    {
+      "id": "34.03.01.2009",
+      "name": "Pulutan",
+      "postal_code": "55851"
+    },
+    {
+      "id": "34.03.01.2010",
+      "name": "Wareng",
+      "postal_code": "55851"
+    },
+    {
+      "id": "34.03.01.2011",
+      "name": "Duwet",
+      "postal_code": "55851"
+    },
+    {
+      "id": "34.03.01.2012",
+      "name": "Mulo",
+      "postal_code": "55851"
+    },
+    {
+      "id": "34.03.01.2013",
+      "name": "Wunung",
+      "postal_code": "55851"
+    },
+    {
+      "id": "34.03.01.2014",
+      "name": "Karangrejek",
+      "postal_code": "55851"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

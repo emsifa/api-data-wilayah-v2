@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.74.01.1001",
+      "name": "Kejaksan",
+      "postal_code": "45123"
+    },
+    {
+      "id": "32.74.01.1002",
+      "name": "Sukapura",
+      "postal_code": "45122"
+    },
+    {
+      "id": "32.74.01.1003",
+      "name": "Kesenden",
+      "postal_code": "45121"
+    },
+    {
+      "id": "32.74.01.1004",
+      "name": "Kebonbaru",
+      "postal_code": "45121"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

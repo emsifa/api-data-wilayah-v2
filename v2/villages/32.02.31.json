@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.02.31.2001",
+      "name": "Caringin Wetan",
+      "postal_code": "43154"
+    },
+    {
+      "id": "32.02.31.2002",
+      "name": "Sukamulya",
+      "postal_code": "43154"
+    },
+    {
+      "id": "32.02.31.2003",
+      "name": "Caringin Kulon",
+      "postal_code": "43154"
+    },
+    {
+      "id": "32.02.31.2004",
+      "name": "Seuseupan",
+      "postal_code": "43154"
+    },
+    {
+      "id": "32.02.31.2005",
+      "name": "Cijengkol",
+      "postal_code": "43154"
+    },
+    {
+      "id": "32.02.31.2006",
+      "name": "Mekarjaya",
+      "postal_code": "43154"
+    },
+    {
+      "id": "32.02.31.2007",
+      "name": "Talaga",
+      "postal_code": "43154"
+    },
+    {
+      "id": "32.02.31.2008",
+      "name": "Cikembang",
+      "postal_code": "43154"
+    },
+    {
+      "id": "32.02.31.2009",
+      "name": "Pasir Datar Indah",
+      "postal_code": "43154"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "12.14.19.2001",
+      "name": "Sambulu",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.19.2002",
+      "name": "Orahili Ulunoyo",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.19.2003",
+      "name": "Hiliwaebu",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.19.2004",
+      "name": "Amorosa",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.19.2005",
+      "name": "Marao",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.19.2006",
+      "name": "Borowosi",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.19.2007",
+      "name": "Hilimaera",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.19.2008",
+      "name": "Suka Maju",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.19.2009",
+      "name": "Loloana'a",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.19.2010",
+      "name": "Hilifakhe",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.19.2011",
+      "name": "Bawo Lolomatua",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.19.2012",
+      "name": "Ambukha I",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.19.2013",
+      "name": "Puncak Lolomatua",
+      "postal_code": "22867"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

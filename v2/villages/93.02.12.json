@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "93.02.12.2001",
+      "name": "Manggelum",
+      "postal_code": "99692"
+    },
+    {
+      "id": "93.02.12.2002",
+      "name": "Burunggop",
+      "postal_code": "99692"
+    },
+    {
+      "id": "93.02.12.2003",
+      "name": "Bayanggop",
+      "postal_code": "99692"
+    },
+    {
+      "id": "93.02.12.2004",
+      "name": "Gaguop",
+      "postal_code": "99692"
+    },
+    {
+      "id": "93.02.12.2005",
+      "name": "Kewam",
+      "postal_code": "99692"
+    },
+    {
+      "id": "93.02.12.2006",
+      "name": "Mangga Tiga",
+      "postal_code": "99692"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

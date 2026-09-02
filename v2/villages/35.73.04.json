@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "35.73.04.1001",
+      "name": "Ciptomulyo",
+      "postal_code": "65148"
+    },
+    {
+      "id": "35.73.04.1002",
+      "name": "Gadang",
+      "postal_code": "65149"
+    },
+    {
+      "id": "35.73.04.1003",
+      "name": "Kebonsari",
+      "postal_code": "65149"
+    },
+    {
+      "id": "35.73.04.1004",
+      "name": "Bandungrejosari",
+      "postal_code": "65148"
+    },
+    {
+      "id": "35.73.04.1005",
+      "name": "Sukun",
+      "postal_code": "65147"
+    },
+    {
+      "id": "35.73.04.1006",
+      "name": "Tanjungrejo",
+      "postal_code": "65147"
+    },
+    {
+      "id": "35.73.04.1007",
+      "name": "Pisangcandi",
+      "postal_code": "65146"
+    },
+    {
+      "id": "35.73.04.1008",
+      "name": "Bandulan",
+      "postal_code": "65146"
+    },
+    {
+      "id": "35.73.04.1009",
+      "name": "Karangbesuki",
+      "postal_code": "65149"
+    },
+    {
+      "id": "35.73.04.1010",
+      "name": "Mulyorejo",
+      "postal_code": "65147"
+    },
+    {
+      "id": "35.73.04.1011",
+      "name": "Bakalankrajan",
+      "postal_code": "65148"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

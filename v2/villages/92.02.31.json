@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "92.02.31.2001",
+      "name": "Kerenu",
+      "postal_code": "98356"
+    },
+    {
+      "id": "92.02.31.2002",
+      "name": "Wasegi Indah",
+      "postal_code": "98356"
+    },
+    {
+      "id": "92.02.31.2003",
+      "name": "Udapi Hilir",
+      "postal_code": "98356"
+    },
+    {
+      "id": "92.02.31.2004",
+      "name": "Waseki Pop",
+      "postal_code": "98356"
+    },
+    {
+      "id": "92.02.31.2005",
+      "name": "Uhyehebrig",
+      "postal_code": "98356"
+    },
+    {
+      "id": "92.02.31.2006",
+      "name": "Kali Amin",
+      "postal_code": "98356"
+    },
+    {
+      "id": "92.02.31.2007",
+      "name": "Bogor",
+      "postal_code": "98356"
+    },
+    {
+      "id": "92.02.31.2008",
+      "name": "Aimasi",
+      "postal_code": "98356"
+    },
+    {
+      "id": "92.02.31.2009",
+      "name": "Lismaungu",
+      "postal_code": "98356"
+    },
+    {
+      "id": "92.02.31.2010",
+      "name": "Bedip Matoa",
+      "postal_code": "98356"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

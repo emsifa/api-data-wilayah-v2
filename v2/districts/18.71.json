@@ -1,18 +1,88 @@
 {
-  "data": {
-    "id": "18.71",
-    "name": "Kota Bandar Lampung",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
+  "data": [
+    {
+      "id": "18.71.01",
+      "name": "Kedaton"
     },
-    "regency": {
-      "id": "18.71",
-      "name": "Kota Bandar Lampung"
+    {
+      "id": "18.71.02",
+      "name": "Sukarame"
+    },
+    {
+      "id": "18.71.03",
+      "name": "Tanjungkarang Barat"
+    },
+    {
+      "id": "18.71.04",
+      "name": "Panjang"
+    },
+    {
+      "id": "18.71.05",
+      "name": "Tanjungkarang Timur"
+    },
+    {
+      "id": "18.71.06",
+      "name": "Tanjungkarang Pusat"
+    },
+    {
+      "id": "18.71.07",
+      "name": "Telukbetung Selatan"
+    },
+    {
+      "id": "18.71.08",
+      "name": "Telukbetung Barat"
+    },
+    {
+      "id": "18.71.09",
+      "name": "Telukbetung Utara"
+    },
+    {
+      "id": "18.71.10",
+      "name": "Rajabasa"
+    },
+    {
+      "id": "18.71.11",
+      "name": "Tanjung Senang"
+    },
+    {
+      "id": "18.71.12",
+      "name": "Sukabumi"
+    },
+    {
+      "id": "18.71.13",
+      "name": "Kemiling"
+    },
+    {
+      "id": "18.71.14",
+      "name": "Labuhan Ratu"
+    },
+    {
+      "id": "18.71.15",
+      "name": "Way Halim"
+    },
+    {
+      "id": "18.71.16",
+      "name": "Langkapura"
+    },
+    {
+      "id": "18.71.17",
+      "name": "Enggal"
+    },
+    {
+      "id": "18.71.18",
+      "name": "Kedamaian"
+    },
+    {
+      "id": "18.71.19",
+      "name": "Telukbetung Timur"
+    },
+    {
+      "id": "18.71.20",
+      "name": "Bumi Waras"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

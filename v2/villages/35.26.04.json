@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "35.26.04.2001",
+      "name": "Kamal",
+      "postal_code": "69162"
+    },
+    {
+      "id": "35.26.04.2002",
+      "name": "Banyuajuh",
+      "postal_code": "69162"
+    },
+    {
+      "id": "35.26.04.2003",
+      "name": "Gili Barat",
+      "postal_code": "69162"
+    },
+    {
+      "id": "35.26.04.2004",
+      "name": "Gili Timur",
+      "postal_code": "69162"
+    },
+    {
+      "id": "35.26.04.2005",
+      "name": "Gili Anyar",
+      "postal_code": "69162"
+    },
+    {
+      "id": "35.26.04.2006",
+      "name": "Telang",
+      "postal_code": "69162"
+    },
+    {
+      "id": "35.26.04.2007",
+      "name": "Pendabah",
+      "postal_code": "69162"
+    },
+    {
+      "id": "35.26.04.2008",
+      "name": "Tajungan",
+      "postal_code": "69162"
+    },
+    {
+      "id": "35.26.04.2009",
+      "name": "Kebun",
+      "postal_code": "69162"
+    },
+    {
+      "id": "35.26.04.2010",
+      "name": "Tanjung Jati",
+      "postal_code": "69162"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

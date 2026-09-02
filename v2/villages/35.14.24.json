@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "35.14.24.2001",
+      "name": "Mororejo",
+      "postal_code": "67177"
+    },
+    {
+      "id": "35.14.24.2002",
+      "name": "Podokoyo",
+      "postal_code": "67177"
+    },
+    {
+      "id": "35.14.24.2003",
+      "name": "Ngadiwono",
+      "postal_code": "67177"
+    },
+    {
+      "id": "35.14.24.2004",
+      "name": "Tosari",
+      "postal_code": "67177"
+    },
+    {
+      "id": "35.14.24.2005",
+      "name": "Wonokitri",
+      "postal_code": "67177"
+    },
+    {
+      "id": "35.14.24.2006",
+      "name": "Baledono",
+      "postal_code": "67177"
+    },
+    {
+      "id": "35.14.24.2007",
+      "name": "Sedaeng",
+      "postal_code": "67177"
+    },
+    {
+      "id": "35.14.24.2008",
+      "name": "Kandangan",
+      "postal_code": "67177"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

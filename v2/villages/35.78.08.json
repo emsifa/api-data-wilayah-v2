@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.78.08.1001",
+      "name": "Gubeng",
+      "postal_code": "60281"
+    },
+    {
+      "id": "35.78.08.1002",
+      "name": "Mojo",
+      "postal_code": "60285"
+    },
+    {
+      "id": "35.78.08.1003",
+      "name": "Airlangga",
+      "postal_code": "60286"
+    },
+    {
+      "id": "35.78.08.1004",
+      "name": "Kertajaya",
+      "postal_code": "60282"
+    },
+    {
+      "id": "35.78.08.1005",
+      "name": "Baratajaya",
+      "postal_code": "60284"
+    },
+    {
+      "id": "35.78.08.1006",
+      "name": "Pucang Sewu",
+      "postal_code": "60283"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "92.11.05.2001",
+      "name": "Dembek",
+      "postal_code": "98322"
+    },
+    {
+      "id": "92.11.05.2002",
+      "name": "Nij",
+      "postal_code": "98322"
+    },
+    {
+      "id": "92.11.05.2003",
+      "name": "Siwi",
+      "postal_code": "98322"
+    },
+    {
+      "id": "92.11.05.2004",
+      "name": "Gaya Baru",
+      "postal_code": "98322"
+    },
+    {
+      "id": "92.11.05.2005",
+      "name": "Waren",
+      "postal_code": "98322"
+    },
+    {
+      "id": "92.11.05.2006",
+      "name": "Demini",
+      "postal_code": "98322"
+    },
+    {
+      "id": "92.11.05.2007",
+      "name": "Yekwandi",
+      "postal_code": "98322"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

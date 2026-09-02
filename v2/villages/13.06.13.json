@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "13.06.13.2001",
+      "name": "Batu Kambing",
+      "postal_code": "26161"
+    },
+    {
+      "id": "13.06.13.2002",
+      "name": "Sitalang",
+      "postal_code": "26161"
+    },
+    {
+      "id": "13.06.13.2003",
+      "name": "Bawan",
+      "postal_code": "26161"
+    },
+    {
+      "id": "13.06.13.2004",
+      "name": "Sitanang",
+      "postal_code": "26161"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

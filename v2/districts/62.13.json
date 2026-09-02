@@ -1,18 +1,48 @@
 {
-  "data": {
-    "id": "62.13",
-    "name": "Kabupaten Barito Timur",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
+  "data": [
+    {
+      "id": "62.13.01",
+      "name": "Dusun Timur"
     },
-    "regency": {
-      "id": "62.13",
-      "name": "Kabupaten Barito Timur"
+    {
+      "id": "62.13.02",
+      "name": "Banua Lima"
+    },
+    {
+      "id": "62.13.03",
+      "name": "Patangkep Tutui"
+    },
+    {
+      "id": "62.13.04",
+      "name": "Awang"
+    },
+    {
+      "id": "62.13.05",
+      "name": "Dusun Tengah"
+    },
+    {
+      "id": "62.13.06",
+      "name": "Pematang Karau"
+    },
+    {
+      "id": "62.13.07",
+      "name": "Paju Epat"
+    },
+    {
+      "id": "62.13.08",
+      "name": "Raren Batuah"
+    },
+    {
+      "id": "62.13.09",
+      "name": "Paku"
+    },
+    {
+      "id": "62.13.10",
+      "name": "Karusen Janang"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

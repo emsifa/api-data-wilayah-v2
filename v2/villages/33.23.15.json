@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "33.23.15.2001",
+      "name": "Selopampang",
+      "postal_code": "56262"
+    },
+    {
+      "id": "33.23.15.2002",
+      "name": "Tanggulanom",
+      "postal_code": "56262"
+    },
+    {
+      "id": "33.23.15.2003",
+      "name": "Jetis",
+      "postal_code": "56262"
+    },
+    {
+      "id": "33.23.15.2004",
+      "name": "Salamrejo",
+      "postal_code": "56262"
+    },
+    {
+      "id": "33.23.15.2005",
+      "name": "Ngaditirto",
+      "postal_code": "56262"
+    },
+    {
+      "id": "33.23.15.2006",
+      "name": "Bulan",
+      "postal_code": "56262"
+    },
+    {
+      "id": "33.23.15.2007",
+      "name": "Kacepit",
+      "postal_code": "56262"
+    },
+    {
+      "id": "33.23.15.2008",
+      "name": "Gambasan",
+      "postal_code": "56262"
+    },
+    {
+      "id": "33.23.15.2009",
+      "name": "Bumiayu",
+      "postal_code": "56262"
+    },
+    {
+      "id": "33.23.15.2010",
+      "name": "Kebonagung",
+      "postal_code": "56262"
+    },
+    {
+      "id": "33.23.15.2011",
+      "name": "Bagusan",
+      "postal_code": "56262"
+    },
+    {
+      "id": "33.23.15.2012",
+      "name": "Plumbon",
+      "postal_code": "56262"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

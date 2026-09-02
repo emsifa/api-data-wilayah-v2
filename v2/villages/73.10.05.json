@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "73.10.05.1001",
+      "name": "Balleangin",
+      "postal_code": "90661"
+    },
+    {
+      "id": "73.10.05.1002",
+      "name": "Balocci Baru",
+      "postal_code": "90661"
+    },
+    {
+      "id": "73.10.05.1003",
+      "name": "Kassi",
+      "postal_code": "90661"
+    },
+    {
+      "id": "73.10.05.1004",
+      "name": "Tonasa",
+      "postal_code": "90661"
+    },
+    {
+      "id": "73.10.05.2005",
+      "name": "Tompo Bulu",
+      "postal_code": "90661"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

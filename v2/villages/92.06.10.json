@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "92.06.10.2001",
+      "name": "Sarbe",
+      "postal_code": "98135"
+    },
+    {
+      "id": "92.06.10.2002",
+      "name": "Wagura",
+      "postal_code": "98135"
+    },
+    {
+      "id": "92.06.10.2003",
+      "name": "Refideso",
+      "postal_code": "98135"
+    },
+    {
+      "id": "92.06.10.2004",
+      "name": "Naramasa",
+      "postal_code": "98135"
+    },
+    {
+      "id": "92.06.10.2005",
+      "name": "Obo",
+      "postal_code": "98135"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

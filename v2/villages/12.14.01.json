@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "12.14.01.2002",
+      "name": "Hilisangowola",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.01.2005",
+      "name": "Hiliotalua",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.01.2006",
+      "name": "Koendrafo",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.01.2008",
+      "name": "Lawa-lawa Luo",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.01.2016",
+      "name": "Tuhemberua",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.01.2017",
+      "name": "Tesikhori",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.01.2021",
+      "name": "Tumari",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.01.2023",
+      "name": "Ewo",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.01.2024",
+      "name": "Ko'olotano",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.01.2026",
+      "name": "Botohilindruria",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.01.2027",
+      "name": "Caritas Sogawunasi",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.01.2028",
+      "name": "Orudua Lawa-lawa Luo",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.14.01.2029",
+      "name": "Hilifaondrato",
+      "postal_code": "22867"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

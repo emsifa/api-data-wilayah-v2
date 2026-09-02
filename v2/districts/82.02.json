@@ -1,18 +1,48 @@
 {
-  "data": {
-    "id": "82.02",
-    "name": "Kabupaten Halmahera Tengah",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
+  "data": [
+    {
+      "id": "82.02.01",
+      "name": "Weda"
     },
-    "regency": {
-      "id": "82.02",
-      "name": "Kabupaten Halmahera Tengah"
+    {
+      "id": "82.02.02",
+      "name": "Patani"
+    },
+    {
+      "id": "82.02.03",
+      "name": "Pulau Gebe"
+    },
+    {
+      "id": "82.02.04",
+      "name": "Weda Utara"
+    },
+    {
+      "id": "82.02.05",
+      "name": "Weda Selatan"
+    },
+    {
+      "id": "82.02.06",
+      "name": "Patani Utara"
+    },
+    {
+      "id": "82.02.07",
+      "name": "Weda Tengah"
+    },
+    {
+      "id": "82.02.08",
+      "name": "Patani Barat"
+    },
+    {
+      "id": "82.02.09",
+      "name": "Weda Timur"
+    },
+    {
+      "id": "82.02.10",
+      "name": "Patani Timur"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

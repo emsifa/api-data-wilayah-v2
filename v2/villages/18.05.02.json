@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "18.05.02.1008",
+      "name": "Menggala Selatan",
+      "postal_code": "34611"
+    },
+    {
+      "id": "18.05.02.1009",
+      "name": "Ujung Gunung",
+      "postal_code": "34611"
+    },
+    {
+      "id": "18.05.02.1010",
+      "name": "Menggala Tengah",
+      "postal_code": "34611"
+    },
+    {
+      "id": "18.05.02.1011",
+      "name": "Menggala Kota",
+      "postal_code": "34611"
+    },
+    {
+      "id": "18.05.02.2001",
+      "name": "Bujung Tenuk",
+      "postal_code": "34613"
+    },
+    {
+      "id": "18.05.02.2002",
+      "name": "Ujung Gunung Ilir",
+      "postal_code": "34614"
+    },
+    {
+      "id": "18.05.02.2007",
+      "name": "Astra Ksetra",
+      "postal_code": "34613"
+    },
+    {
+      "id": "18.05.02.2013",
+      "name": "Kagungan Rahayu",
+      "postal_code": "34613"
+    },
+    {
+      "id": "18.05.02.2014",
+      "name": "Tiuh Tohou",
+      "postal_code": "34611"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

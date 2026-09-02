@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "91.11.11.2001",
+      "name": "Kaisenar",
+      "postal_code": "99465"
+    },
+    {
+      "id": "91.11.11.2002",
+      "name": "Kiambra",
+      "postal_code": "99465"
+    },
+    {
+      "id": "91.11.11.2003",
+      "name": "Liket",
+      "postal_code": "99465"
+    },
+    {
+      "id": "91.11.11.2004",
+      "name": "Onam",
+      "postal_code": "99465"
+    },
+    {
+      "id": "91.11.11.2005",
+      "name": "Tefanma Satu",
+      "postal_code": "99465"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

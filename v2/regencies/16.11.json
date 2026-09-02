@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "16.11",
+    "name": "Kabupaten Empat Lawang",
+    "capital": "Tebing Tinggi",
+    "lat": -3.609843671060275,
+    "lng": 103.10276373795163,
+    "elv": 177,
+    "tz": 7,
+    "population": 336783,
+    "total_area": 2234.097,
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

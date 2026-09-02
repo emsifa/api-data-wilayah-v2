@@ -1,21 +1,118 @@
 {
-  "data": {
-    "id": "52",
-    "name": "Nusa Tenggara Barat",
-    "capital": "Mataram",
-    "lat": -8.581476167133006,
-    "lng": 116.10975172538652,
-    "elv": 24,
-    "tz": 8,
-    "population": 5751295,
-    "total_area": 19631.991,
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
+  "data": [
+    {
+      "id": "52.01",
+      "name": "Kabupaten Lombok Barat",
+      "capital": "Gerung",
+      "lat": -8.681396051887829,
+      "lng": 116.13670528305914,
+      "elv": 23,
+      "tz": 8,
+      "population": 762757,
+      "total_area": 919.44
+    },
+    {
+      "id": "52.02",
+      "name": "Kabupaten Lombok Tengah",
+      "capital": "Praya",
+      "lat": -8.706131863466181,
+      "lng": 116.27003418305937,
+      "elv": 107,
+      "tz": 8,
+      "population": 1128716,
+      "total_area": 1167.029
+    },
+    {
+      "id": "52.03",
+      "name": "Kabupaten Lombok Timur",
+      "capital": "Selong",
+      "lat": -8.650938604217814,
+      "lng": 116.52965363887955,
+      "elv": 161,
+      "tz": 8,
+      "population": 1457591,
+      "total_area": 1602.377
+    },
+    {
+      "id": "52.04",
+      "name": "Kabupaten Sumbawa",
+      "capital": "Sumbawa Besar",
+      "lat": -8.489511525311054,
+      "lng": 117.4196890006745,
+      "elv": 14,
+      "tz": 8,
+      "population": 527715,
+      "total_area": 6645.723
+    },
+    {
+      "id": "52.05",
+      "name": "Kabupaten Dompu",
+      "capital": "Dompu",
+      "lat": -8.534112083030623,
+      "lng": 118.46474902538593,
+      "elv": 32,
+      "tz": 8,
+      "population": 277837,
+      "total_area": 2270.36
+    },
+    {
+      "id": "52.06",
+      "name": "Kabupaten Bima",
+      "capital": "Woha",
+      "lat": -8.556532639441706,
+      "lng": 118.67015779690297,
+      "elv": 3,
+      "tz": 8,
+      "population": 543582,
+      "total_area": 4208.861
+    },
+    {
+      "id": "52.07",
+      "name": "Kabupaten Sumbawa Barat",
+      "capital": "Taliwang",
+      "lat": -8.753910149465758,
+      "lng": 116.85426539840077,
+      "elv": 11,
+      "tz": 8,
+      "population": 156059,
+      "total_area": 1739.564
+    },
+    {
+      "id": "52.08",
+      "name": "Kabupaten Lombok Utara",
+      "capital": "Tanjung",
+      "lat": -8.35633546555901,
+      "lng": 116.15926985422034,
+      "elv": 12,
+      "tz": 8,
+      "population": 269989,
+      "total_area": 810.185
+    },
+    {
+      "id": "52.71",
+      "name": "Kota Mataram",
+      "capital": "Mataram",
+      "lat": -8.582728859362096,
+      "lng": 116.10813842538651,
+      "elv": 27,
+      "tz": 8,
+      "population": 461936,
+      "total_area": 60.063
+    },
+    {
+      "id": "52.72",
+      "name": "Kota Bima",
+      "capital": "Bima",
+      "lat": -8.461655165060522,
+      "lng": 118.74871988305718,
+      "elv": 21,
+      "tz": 8,
+      "population": 165113,
+      "total_area": 208.389
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:11Z",
+    "generated_at": "2026-09-02T03:39:51Z",
     "level": 2
   }
 }

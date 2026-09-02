@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "75.01.22.2001",
+      "name": "Hutadaa",
+      "postal_code": "96184"
+    },
+    {
+      "id": "75.01.22.2002",
+      "name": "Buhu",
+      "postal_code": "96184"
+    },
+    {
+      "id": "75.01.22.2003",
+      "name": "Luwoo",
+      "postal_code": "96184"
+    },
+    {
+      "id": "75.01.22.2004",
+      "name": "Bunggalo",
+      "postal_code": "96184"
+    },
+    {
+      "id": "75.01.22.2005",
+      "name": "Bulota",
+      "postal_code": "96184"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

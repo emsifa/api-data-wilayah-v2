@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.17.15.2001",
+      "name": "Ilan Batu",
+      "postal_code": "91951"
+    },
+    {
+      "id": "73.17.15.2002",
+      "name": "Ilan Batu Uru",
+      "postal_code": "91951"
+    },
+    {
+      "id": "73.17.15.2003",
+      "name": "Lempe Pasang",
+      "postal_code": "91952"
+    },
+    {
+      "id": "73.17.15.2004",
+      "name": "Lamasi Hulu",
+      "postal_code": "91952"
+    },
+    {
+      "id": "73.17.15.2005",
+      "name": "Lempe",
+      "postal_code": "91952"
+    },
+    {
+      "id": "73.17.15.2006",
+      "name": "Lewandi",
+      "postal_code": "91952"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

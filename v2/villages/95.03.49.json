@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "95.03.49.2001",
+      "name": "Yogosem",
+      "postal_code": "99720"
+    },
+    {
+      "id": "95.03.49.2002",
+      "name": "Kiroma",
+      "postal_code": "99720"
+    },
+    {
+      "id": "95.03.49.2003",
+      "name": "Sogasio",
+      "postal_code": "99720"
+    },
+    {
+      "id": "95.03.49.2004",
+      "name": "Saikama",
+      "postal_code": "99720"
+    },
+    {
+      "id": "95.03.49.2005",
+      "name": "Hokolekma",
+      "postal_code": "99720"
+    },
+    {
+      "id": "95.03.49.2006",
+      "name": "Esahapuk",
+      "postal_code": "99720"
+    },
+    {
+      "id": "95.03.49.2007",
+      "name": "Mesahaput",
+      "postal_code": "99720"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

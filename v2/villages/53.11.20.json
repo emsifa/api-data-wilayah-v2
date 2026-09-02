@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "53.11.20.1001",
+      "name": "Temu",
+      "postal_code": "87154"
+    },
+    {
+      "id": "53.11.20.2002",
+      "name": "Kuta",
+      "postal_code": "87154"
+    },
+    {
+      "id": "53.11.20.2003",
+      "name": "Hambapraing",
+      "postal_code": "87154"
+    },
+    {
+      "id": "53.11.20.2004",
+      "name": "Mondu",
+      "postal_code": "87154"
+    },
+    {
+      "id": "53.11.20.2005",
+      "name": "Ndapayami",
+      "postal_code": "87154"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "73.18.37.2001",
+      "name": "Rano",
+      "postal_code": "91875"
+    },
+    {
+      "id": "73.18.37.2002",
+      "name": "Rano Utara",
+      "postal_code": "91875"
+    },
+    {
+      "id": "73.18.37.2003",
+      "name": "Rumandan",
+      "postal_code": "91875"
+    },
+    {
+      "id": "73.18.37.2004",
+      "name": "Rano Tengah",
+      "postal_code": "91875"
+    },
+    {
+      "id": "73.18.37.2005",
+      "name": "Rano Timur",
+      "postal_code": "91875"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

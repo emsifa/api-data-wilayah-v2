@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "61.07.06.2001",
+      "name": "Lembang",
+      "postal_code": "79284"
+    },
+    {
+      "id": "61.07.06.2002",
+      "name": "Gua",
+      "postal_code": "79284"
+    },
+    {
+      "id": "61.07.06.2003",
+      "name": "Bange",
+      "postal_code": "79284"
+    },
+    {
+      "id": "61.07.06.2004",
+      "name": "Danti",
+      "postal_code": "79284"
+    },
+    {
+      "id": "61.07.06.2005",
+      "name": "Sango",
+      "postal_code": "79284"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

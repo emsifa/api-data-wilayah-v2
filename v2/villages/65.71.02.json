@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "65.71.02.1001",
+      "name": "Kampung I Skip",
+      "postal_code": "77113"
+    },
+    {
+      "id": "65.71.02.1002",
+      "name": "Pamusian",
+      "postal_code": "77113"
+    },
+    {
+      "id": "65.71.02.1003",
+      "name": "Sebengkok",
+      "postal_code": "77114"
+    },
+    {
+      "id": "65.71.02.1004",
+      "name": "Selumit",
+      "postal_code": "77113"
+    },
+    {
+      "id": "65.71.02.1005",
+      "name": "Selumit Pantai",
+      "postal_code": "77113"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,18 +1,32 @@
 {
-  "data": {
-    "id": "61.11",
-    "name": "Kabupaten Kayong Utara",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
+  "data": [
+    {
+      "id": "61.11.01",
+      "name": "Sukadana"
     },
-    "regency": {
-      "id": "61.11",
-      "name": "Kabupaten Kayong Utara"
+    {
+      "id": "61.11.02",
+      "name": "Simpang Hilir"
+    },
+    {
+      "id": "61.11.03",
+      "name": "Teluk Batang"
+    },
+    {
+      "id": "61.11.04",
+      "name": "Pulau Maya"
+    },
+    {
+      "id": "61.11.05",
+      "name": "Seponti"
+    },
+    {
+      "id": "61.11.06",
+      "name": "Kepulauan Karimata"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

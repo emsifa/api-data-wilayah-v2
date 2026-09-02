@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "82.71.05.1001",
+      "name": "Mayau",
+      "postal_code": "97743"
+    },
+    {
+      "id": "82.71.05.1002",
+      "name": "Tifure",
+      "postal_code": "97743"
+    },
+    {
+      "id": "82.71.05.1003",
+      "name": "Lelewi",
+      "postal_code": "97743"
+    },
+    {
+      "id": "82.71.05.1004",
+      "name": "Bido",
+      "postal_code": "97743"
+    },
+    {
+      "id": "82.71.05.1005",
+      "name": "Pantai Sagu",
+      "postal_code": "97743"
+    },
+    {
+      "id": "82.71.05.1006",
+      "name": "Perum Bersatu",
+      "postal_code": "97743"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

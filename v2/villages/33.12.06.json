@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "33.12.06.1004",
+      "name": "Kedungrejo",
+      "postal_code": "57671"
+    },
+    {
+      "id": "33.12.06.1008",
+      "name": "Beji",
+      "postal_code": "57671"
+    },
+    {
+      "id": "33.12.06.2001",
+      "name": "Wonoharjo",
+      "postal_code": "57671"
+    },
+    {
+      "id": "33.12.06.2002",
+      "name": "Bulurejo",
+      "postal_code": "57671"
+    },
+    {
+      "id": "33.12.06.2003",
+      "name": "Kulurejo",
+      "postal_code": "57671"
+    },
+    {
+      "id": "33.12.06.2005",
+      "name": "Semin",
+      "postal_code": "57671"
+    },
+    {
+      "id": "33.12.06.2006",
+      "name": "Bumiharjo",
+      "postal_code": "57671"
+    },
+    {
+      "id": "33.12.06.2007",
+      "name": "Gebang",
+      "postal_code": "57671"
+    },
+    {
+      "id": "33.12.06.2009",
+      "name": "Pondoksari",
+      "postal_code": "57671"
+    },
+    {
+      "id": "33.12.06.2010",
+      "name": "Ngadiroyo",
+      "postal_code": "57671"
+    },
+    {
+      "id": "33.12.06.2011",
+      "name": "Ngadipiro",
+      "postal_code": "57671"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "31.71.01.1001",
+      "name": "Gambir",
+      "postal_code": "10110"
+    },
+    {
+      "id": "31.71.01.1002",
+      "name": "Cideng",
+      "postal_code": "10150"
+    },
+    {
+      "id": "31.71.01.1003",
+      "name": "Petojo Utara",
+      "postal_code": "10130"
+    },
+    {
+      "id": "31.71.01.1004",
+      "name": "Petojo Selatan",
+      "postal_code": "10160"
+    },
+    {
+      "id": "31.71.01.1005",
+      "name": "Kebon Kelapa",
+      "postal_code": "10120"
+    },
+    {
+      "id": "31.71.01.1006",
+      "name": "Duri Pulo",
+      "postal_code": "10140"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

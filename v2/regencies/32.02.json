@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "32.02",
+    "name": "Kabupaten Sukabumi",
+    "capital": "Palabuhanratu",
+    "lat": -6.989164614549726,
+    "lng": 106.55022261003006,
+    "elv": 16,
+    "tz": 7,
+    "population": 2868943,
+    "total_area": 4163.824,
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

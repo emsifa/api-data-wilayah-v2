@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "36.71.07.1001",
+      "name": "Karawaci",
+      "postal_code": "15115"
+    },
+    {
+      "id": "36.71.07.1002",
+      "name": "Bojong Jaya",
+      "postal_code": "15115"
+    },
+    {
+      "id": "36.71.07.1003",
+      "name": "Karawaci Baru",
+      "postal_code": "15116"
+    },
+    {
+      "id": "36.71.07.1004",
+      "name": "Nusa Jaya",
+      "postal_code": "15116"
+    },
+    {
+      "id": "36.71.07.1005",
+      "name": "Cimone",
+      "postal_code": "15114"
+    },
+    {
+      "id": "36.71.07.1006",
+      "name": "Cimone Jaya",
+      "postal_code": "15116"
+    },
+    {
+      "id": "36.71.07.1007",
+      "name": "Pabuaran",
+      "postal_code": "15114"
+    },
+    {
+      "id": "36.71.07.1008",
+      "name": "Sumur Pacing",
+      "postal_code": "15114"
+    },
+    {
+      "id": "36.71.07.1009",
+      "name": "Bugel",
+      "postal_code": "15113"
+    },
+    {
+      "id": "36.71.07.1010",
+      "name": "Marga Sari",
+      "postal_code": "15113"
+    },
+    {
+      "id": "36.71.07.1011",
+      "name": "Pabuaran Tumpeng",
+      "postal_code": "15112"
+    },
+    {
+      "id": "36.71.07.1012",
+      "name": "Nambo Jaya",
+      "postal_code": "15112"
+    },
+    {
+      "id": "36.71.07.1013",
+      "name": "Gerendeng",
+      "postal_code": "15113"
+    },
+    {
+      "id": "36.71.07.1014",
+      "name": "Sukajadi",
+      "postal_code": "15113"
+    },
+    {
+      "id": "36.71.07.1015",
+      "name": "Pasar Baru",
+      "postal_code": "15112"
+    },
+    {
+      "id": "36.71.07.1016",
+      "name": "Koang Jaya",
+      "postal_code": "15112"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.02.04.2001",
+      "name": "Iwur",
+      "postal_code": "99432"
+    },
+    {
+      "id": "95.02.04.2002",
+      "name": "Kurumklin",
+      "postal_code": "99432"
+    },
+    {
+      "id": "95.02.04.2003",
+      "name": "Walapkubun",
+      "postal_code": "99432"
+    },
+    {
+      "id": "95.02.04.2004",
+      "name": "Dinmot Arim",
+      "postal_code": "99575"
+    },
+    {
+      "id": "95.02.04.2005",
+      "name": "Ewenkatop",
+      "postal_code": "99575"
+    },
+    {
+      "id": "95.02.04.2006",
+      "name": "Ulkubi",
+      "postal_code": "99575"
+    },
+    {
+      "id": "95.02.04.2007",
+      "name": "Dipol",
+      "postal_code": "99575"
+    },
+    {
+      "id": "95.02.04.2008",
+      "name": "Nenginum",
+      "postal_code": "99432"
+    },
+    {
+      "id": "95.02.04.2009",
+      "name": "Narnger",
+      "postal_code": "99575"
+    },
+    {
+      "id": "95.02.04.2010",
+      "name": "Kamyoim",
+      "postal_code": "99575"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

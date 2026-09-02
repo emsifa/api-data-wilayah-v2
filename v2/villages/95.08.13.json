@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "95.08.13.2001",
+      "name": "Yenggelo",
+      "postal_code": "99918"
+    },
+    {
+      "id": "95.08.13.2002",
+      "name": "Maima",
+      "postal_code": "99918"
+    },
+    {
+      "id": "95.08.13.2003",
+      "name": "Nolo",
+      "postal_code": "99918"
+    },
+    {
+      "id": "95.08.13.2004",
+      "name": "Wuarem",
+      "postal_code": "99918"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "74.13.02.2001",
+      "name": "Wuna",
+      "postal_code": "93650"
+    },
+    {
+      "id": "74.13.02.2002",
+      "name": "Lafinde",
+      "postal_code": "93650"
+    },
+    {
+      "id": "74.13.02.2003",
+      "name": "Waulai",
+      "postal_code": "93650"
+    },
+    {
+      "id": "74.13.02.2004",
+      "name": "Walelei",
+      "postal_code": "93650"
+    },
+    {
+      "id": "74.13.02.2005",
+      "name": "Sawerigadi",
+      "postal_code": "93650"
+    },
+    {
+      "id": "74.13.02.2006",
+      "name": "Bungkolo",
+      "postal_code": "93650"
+    },
+    {
+      "id": "74.13.02.2007",
+      "name": "Barangka",
+      "postal_code": "93650"
+    },
+    {
+      "id": "74.13.02.2008",
+      "name": "Lapolea",
+      "postal_code": "93650"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

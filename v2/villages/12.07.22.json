@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "12.07.22.1004",
+      "name": "Deli Tua",
+      "postal_code": "20355"
+    },
+    {
+      "id": "12.07.22.1005",
+      "name": "Deli Tua Timur",
+      "postal_code": "20355"
+    },
+    {
+      "id": "12.07.22.1006",
+      "name": "Deli Tua Barat",
+      "postal_code": "20355"
+    },
+    {
+      "id": "12.07.22.2001",
+      "name": "Kedai Durian",
+      "postal_code": "20355"
+    },
+    {
+      "id": "12.07.22.2002",
+      "name": "Suka Makmur",
+      "postal_code": "20355"
+    },
+    {
+      "id": "12.07.22.2003",
+      "name": "Mekar Sari",
+      "postal_code": "20355"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

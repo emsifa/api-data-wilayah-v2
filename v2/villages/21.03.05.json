@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "21.03.05.1008",
+      "name": "Sedanau",
+      "postal_code": "29782"
+    },
+    {
+      "id": "21.03.05.2007",
+      "name": "Mekar Jaya",
+      "postal_code": "29782"
+    },
+    {
+      "id": "21.03.05.2012",
+      "name": "Binjai",
+      "postal_code": "29782"
+    },
+    {
+      "id": "21.03.05.2013",
+      "name": "Piantengah",
+      "postal_code": "29782"
+    },
+    {
+      "id": "21.03.05.2015",
+      "name": "Selaut",
+      "postal_code": "29782"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

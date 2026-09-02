@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.10.07.2001",
+      "name": "Sibargot",
+      "postal_code": "21411"
+    },
+    {
+      "id": "12.10.07.2002",
+      "name": "Bandar Kumbul",
+      "postal_code": "21411"
+    },
+    {
+      "id": "12.10.07.2003",
+      "name": "Tanjung Medan",
+      "postal_code": "21411"
+    },
+    {
+      "id": "12.10.07.2004",
+      "name": "Janji",
+      "postal_code": "21411"
+    },
+    {
+      "id": "12.10.07.2005",
+      "name": "Tebing Linggahara",
+      "postal_code": "21411"
+    },
+    {
+      "id": "12.10.07.2006",
+      "name": "AFD.I Rantauprapat",
+      "postal_code": "21411"
+    },
+    {
+      "id": "12.10.07.2007",
+      "name": "AFD.II Rantauprapat",
+      "postal_code": "21411"
+    },
+    {
+      "id": "12.10.07.2008",
+      "name": "Aek Buru Selatan",
+      "postal_code": "21411"
+    },
+    {
+      "id": "12.10.07.2009",
+      "name": "Kampung Baru",
+      "postal_code": "21415"
+    },
+    {
+      "id": "12.10.07.2010",
+      "name": "Tebing Linggahara Baru",
+      "postal_code": "21411"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

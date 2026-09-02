@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "95.02.20.2001",
+      "name": "Okelwel",
+      "postal_code": "99424"
+    },
+    {
+      "id": "95.02.20.2002",
+      "name": "Kotyobakon",
+      "postal_code": "99424"
+    },
+    {
+      "id": "95.02.20.2003",
+      "name": "Okteneng",
+      "postal_code": "99424"
+    },
+    {
+      "id": "95.02.20.2004",
+      "name": "Tengnong",
+      "postal_code": "99424"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

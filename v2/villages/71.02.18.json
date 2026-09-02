@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "71.02.18.1001",
+      "name": "Urongo",
+      "postal_code": "95619"
+    },
+    {
+      "id": "71.02.18.1002",
+      "name": "Tounsaru",
+      "postal_code": "95619"
+    },
+    {
+      "id": "71.02.18.1003",
+      "name": "Tataaran II",
+      "postal_code": "95618"
+    },
+    {
+      "id": "71.02.18.1004",
+      "name": "Tataaran I",
+      "postal_code": "95618"
+    },
+    {
+      "id": "71.02.18.1005",
+      "name": "Koya",
+      "postal_code": "95618"
+    },
+    {
+      "id": "71.02.18.1006",
+      "name": "Paleloan",
+      "postal_code": "95619"
+    },
+    {
+      "id": "71.02.18.1007",
+      "name": "Tataaran Patar",
+      "postal_code": "95619"
+    },
+    {
+      "id": "71.02.18.1008",
+      "name": "Maesa Unima",
+      "postal_code": "95618"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "72.06.15.2001",
+      "name": "Puungkeu",
+      "postal_code": "94981"
+    },
+    {
+      "id": "72.06.15.2002",
+      "name": "Tangofa",
+      "postal_code": "94981"
+    },
+    {
+      "id": "72.06.15.2003",
+      "name": "One Ete",
+      "postal_code": "94981"
+    },
+    {
+      "id": "72.06.15.2004",
+      "name": "Tandaoleo",
+      "postal_code": "94981"
+    },
+    {
+      "id": "72.06.15.2005",
+      "name": "Lafeu",
+      "postal_code": "94981"
+    },
+    {
+      "id": "72.06.15.2006",
+      "name": "Torete",
+      "postal_code": "94981"
+    },
+    {
+      "id": "72.06.15.2007",
+      "name": "Buleleng",
+      "postal_code": "94981"
+    },
+    {
+      "id": "72.06.15.2008",
+      "name": "Laroenai",
+      "postal_code": "94981"
+    },
+    {
+      "id": "72.06.15.2009",
+      "name": "Sambalagi",
+      "postal_code": "94981"
+    },
+    {
+      "id": "72.06.15.2010",
+      "name": "Were'a",
+      "postal_code": "94981"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

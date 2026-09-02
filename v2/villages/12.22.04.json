@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "12.22.04.1001",
+      "name": "Langga Payung",
+      "postal_code": "21465"
+    },
+    {
+      "id": "12.22.04.2002",
+      "name": "Batang Nadenggan",
+      "postal_code": "21465"
+    },
+    {
+      "id": "12.22.04.2003",
+      "name": "Sabungan",
+      "postal_code": "21465"
+    },
+    {
+      "id": "12.22.04.2004",
+      "name": "Hajoran",
+      "postal_code": "21465"
+    },
+    {
+      "id": "12.22.04.2005",
+      "name": "Ujung Gading",
+      "postal_code": "21465"
+    },
+    {
+      "id": "12.22.04.2006",
+      "name": "Huta Godang",
+      "postal_code": "21465"
+    },
+    {
+      "id": "12.22.04.2007",
+      "name": "Parimburan",
+      "postal_code": "21465"
+    },
+    {
+      "id": "12.22.04.2008",
+      "name": "Sampean",
+      "postal_code": "21465"
+    },
+    {
+      "id": "12.22.04.2009",
+      "name": "Marsonja",
+      "postal_code": "21465"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

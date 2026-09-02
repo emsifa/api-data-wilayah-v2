@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "96.01.29.2001",
+      "name": "Klafluk",
+      "postal_code": "98433"
+    },
+    {
+      "id": "96.01.29.2002",
+      "name": "Mamsit",
+      "postal_code": "98433"
+    },
+    {
+      "id": "96.01.29.2003",
+      "name": "Sabake",
+      "postal_code": "98433"
+    },
+    {
+      "id": "96.01.29.2004",
+      "name": "Klayastani",
+      "postal_code": "98433"
+    },
+    {
+      "id": "96.01.29.2005",
+      "name": "Botain",
+      "postal_code": "98433"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

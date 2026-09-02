@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "14.02.10.2001",
+      "name": "Tambak",
+      "postal_code": "29335"
+    },
+    {
+      "id": "14.02.10.2002",
+      "name": "Kuala Cenaku",
+      "postal_code": "29335"
+    },
+    {
+      "id": "14.02.10.2003",
+      "name": "Pulau Gelang",
+      "postal_code": "29335"
+    },
+    {
+      "id": "14.02.10.2004",
+      "name": "Kuala Mulya",
+      "postal_code": "29335"
+    },
+    {
+      "id": "14.02.10.2005",
+      "name": "Tanjung Sari",
+      "postal_code": "29335"
+    },
+    {
+      "id": "14.02.10.2006",
+      "name": "Rawa Sekip",
+      "postal_code": "29335"
+    },
+    {
+      "id": "14.02.10.2007",
+      "name": "Rawa Asri",
+      "postal_code": "29335"
+    },
+    {
+      "id": "14.02.10.2008",
+      "name": "Suka Jadi",
+      "postal_code": "29335"
+    },
+    {
+      "id": "14.02.10.2009",
+      "name": "Teluk Sungkai",
+      "postal_code": "29335"
+    },
+    {
+      "id": "14.02.10.2010",
+      "name": "Pulau Jum'at",
+      "postal_code": "29335"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

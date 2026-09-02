@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "53.14.03.1001",
+      "name": "Namodale",
+      "postal_code": "85918"
+    },
+    {
+      "id": "53.14.03.1009",
+      "name": "Mokdale",
+      "postal_code": "85914"
+    },
+    {
+      "id": "53.14.03.1011",
+      "name": "Metina",
+      "postal_code": "85918"
+    },
+    {
+      "id": "53.14.03.2002",
+      "name": "Kuli",
+      "postal_code": "85918"
+    },
+    {
+      "id": "53.14.03.2003",
+      "name": "Bebalain",
+      "postal_code": "85918"
+    },
+    {
+      "id": "53.14.03.2004",
+      "name": "Kolobolon",
+      "postal_code": "85918"
+    },
+    {
+      "id": "53.14.03.2005",
+      "name": "Helebeik",
+      "postal_code": "85918"
+    },
+    {
+      "id": "53.14.03.2006",
+      "name": "Sanggaoen",
+      "postal_code": "85916"
+    },
+    {
+      "id": "53.14.03.2007",
+      "name": "Holoama",
+      "postal_code": "85918"
+    },
+    {
+      "id": "53.14.03.2008",
+      "name": "Tuanatuk",
+      "postal_code": "85913"
+    },
+    {
+      "id": "53.14.03.2010",
+      "name": "Oelunggu",
+      "postal_code": "85917"
+    },
+    {
+      "id": "53.14.03.2012",
+      "name": "Oematamboli",
+      "postal_code": "85918"
+    },
+    {
+      "id": "53.14.03.2013",
+      "name": "Suelain",
+      "postal_code": "85918"
+    },
+    {
+      "id": "53.14.03.2014",
+      "name": "Baadale",
+      "postal_code": "85912"
+    },
+    {
+      "id": "53.14.03.2015",
+      "name": "Lekunik",
+      "postal_code": "85916"
+    },
+    {
+      "id": "53.14.03.2016",
+      "name": "Loleoen",
+      "postal_code": "85918"
+    },
+    {
+      "id": "53.14.03.2017",
+      "name": "Kuli Aisele",
+      "postal_code": "85918"
+    },
+    {
+      "id": "53.14.03.2018",
+      "name": "Oeleka",
+      "postal_code": "85917"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

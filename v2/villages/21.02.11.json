@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "21.02.11.1001",
+      "name": "Alai",
+      "postal_code": "29669"
+    },
+    {
+      "id": "21.02.11.2002",
+      "name": "Batu Limau",
+      "postal_code": "29669"
+    },
+    {
+      "id": "21.02.11.2003",
+      "name": "Ngal",
+      "postal_code": "29669"
+    },
+    {
+      "id": "21.02.11.2004",
+      "name": "Sungai Buluh",
+      "postal_code": "29669"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "95.06.01",
+    "name": "Elelim",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.06",
+      "name": "Kabupaten Yalimo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "18.01.07.2001",
+      "name": "Bandar Dalam",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2002",
+      "name": "Campang Tiga",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2003",
+      "name": "Talang Baru",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2004",
+      "name": "Suka Banjar",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2005",
+      "name": "Kota Dalam",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2006",
+      "name": "Budidaya",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2007",
+      "name": "Siring Jaha",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2008",
+      "name": "Suak",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2009",
+      "name": "Sukamaju",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2010",
+      "name": "Sukamarga",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2011",
+      "name": "Seloretno",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2012",
+      "name": "Sidodadi",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2013",
+      "name": "Sidorejo",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2014",
+      "name": "Sidomulyo",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2015",
+      "name": "Sidowaluyo",
+      "postal_code": "35352"
+    },
+    {
+      "id": "18.01.07.2020",
+      "name": "Banjar Suri",
+      "postal_code": "35352"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

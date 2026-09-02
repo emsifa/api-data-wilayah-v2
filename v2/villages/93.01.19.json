@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "93.01.19.2001",
+      "name": "Konorau",
+      "postal_code": "99643"
+    },
+    {
+      "id": "93.01.19.2002",
+      "name": "Waan",
+      "postal_code": "99643"
+    },
+    {
+      "id": "93.01.19.2003",
+      "name": "Toor",
+      "postal_code": "99643"
+    },
+    {
+      "id": "93.01.19.2004",
+      "name": "Kladar",
+      "postal_code": "99643"
+    },
+    {
+      "id": "93.01.19.2005",
+      "name": "Sabon",
+      "postal_code": "99643"
+    },
+    {
+      "id": "93.01.19.2006",
+      "name": "Dafnawanga",
+      "postal_code": "99643"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

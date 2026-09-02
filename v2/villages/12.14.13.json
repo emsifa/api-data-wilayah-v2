@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.14.13.2001",
+      "name": "Hilizalo'otano",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.13.2002",
+      "name": "Hilinawalo Mazino",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.13.2003",
+      "name": "Lawindra",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.13.2004",
+      "name": "Bawolahusa",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.13.2005",
+      "name": "Hilizoroi Lawa",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.13.2006",
+      "name": "Hilizalo'otano Laowo",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.13.2007",
+      "name": "Hilizalo'otano Larono",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.13.2008",
+      "name": "Hililaza Hilinawalo Mazino",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.13.2009",
+      "name": "Hilifondege Hilizoroilawa",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.13.2010",
+      "name": "Lolomboli",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.13.2011",
+      "name": "Bawolahusa Doli-doli",
+      "postal_code": "22865"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

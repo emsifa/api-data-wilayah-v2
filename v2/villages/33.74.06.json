@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "33.74.06.1001",
+      "name": "Penggaron Kidul",
+      "postal_code": "50194"
+    },
+    {
+      "id": "33.74.06.1002",
+      "name": "Tlogomulyo",
+      "postal_code": "50113"
+    },
+    {
+      "id": "33.74.06.1003",
+      "name": "Tlogosari Wetan",
+      "postal_code": "50196"
+    },
+    {
+      "id": "33.74.06.1004",
+      "name": "Tlogosari Kulon",
+      "postal_code": "50196"
+    },
+    {
+      "id": "33.74.06.1005",
+      "name": "Muktiharjo Kidul",
+      "postal_code": "50197"
+    },
+    {
+      "id": "33.74.06.1006",
+      "name": "Plamongansari",
+      "postal_code": "50199"
+    },
+    {
+      "id": "33.74.06.1007",
+      "name": "Gemah",
+      "postal_code": "50246"
+    },
+    {
+      "id": "33.74.06.1008",
+      "name": "Pedurungan Kidul",
+      "postal_code": "50192"
+    },
+    {
+      "id": "33.74.06.1009",
+      "name": "Pedurungan Lor",
+      "postal_code": "50192"
+    },
+    {
+      "id": "33.74.06.1010",
+      "name": "Pedurungan Tengah",
+      "postal_code": "50192"
+    },
+    {
+      "id": "33.74.06.1011",
+      "name": "Palebon",
+      "postal_code": "50246"
+    },
+    {
+      "id": "33.74.06.1012",
+      "name": "Kalicari",
+      "postal_code": "50198"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

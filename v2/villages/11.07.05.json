@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "11.07.05.2001",
+      "name": "Bangkeh",
+      "postal_code": "24167"
+    },
+    {
+      "id": "11.07.05.2002",
+      "name": "Pucok",
+      "postal_code": "24167"
+    },
+    {
+      "id": "11.07.05.2004",
+      "name": "Leupu",
+      "postal_code": "24167"
+    },
+    {
+      "id": "11.07.05.2005",
+      "name": "Pulo Lhoih",
+      "postal_code": "24167"
+    },
+    {
+      "id": "11.07.05.2006",
+      "name": "Keune",
+      "postal_code": "24167"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

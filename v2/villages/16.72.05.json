@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "16.72.05.1001",
+      "name": "Karang Dalo",
+      "postal_code": "31520"
+    },
+    {
+      "id": "16.72.05.1003",
+      "name": "Pelang Kenidai",
+      "postal_code": "31520"
+    },
+    {
+      "id": "16.72.05.1008",
+      "name": "Jokoh",
+      "postal_code": "31520"
+    },
+    {
+      "id": "16.72.05.1011",
+      "name": "Padang Temu",
+      "postal_code": "31520"
+    },
+    {
+      "id": "16.72.05.1012",
+      "name": "Candi Jaya",
+      "postal_code": "31520"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

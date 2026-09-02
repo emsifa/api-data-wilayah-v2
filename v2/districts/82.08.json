@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "82.08",
-    "name": "Kabupaten Pulau Taliabu",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
+  "data": [
+    {
+      "id": "82.08.01",
+      "name": "Taliabu Barat"
     },
-    "regency": {
-      "id": "82.08",
-      "name": "Kabupaten Pulau Taliabu"
+    {
+      "id": "82.08.02",
+      "name": "Taliabu Barat Laut"
+    },
+    {
+      "id": "82.08.03",
+      "name": "Lede"
+    },
+    {
+      "id": "82.08.04",
+      "name": "Taliabu Utara"
+    },
+    {
+      "id": "82.08.05",
+      "name": "Taliabu Timur"
+    },
+    {
+      "id": "82.08.06",
+      "name": "Taliabu Timur Selatan"
+    },
+    {
+      "id": "82.08.07",
+      "name": "Taliabu Selatan"
+    },
+    {
+      "id": "82.08.08",
+      "name": "Tabona"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

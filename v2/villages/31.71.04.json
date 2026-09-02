@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "31.71.04.1001",
+      "name": "Senen",
+      "postal_code": "10410"
+    },
+    {
+      "id": "31.71.04.1002",
+      "name": "Kenari",
+      "postal_code": "10430"
+    },
+    {
+      "id": "31.71.04.1003",
+      "name": "Paseban",
+      "postal_code": "10440"
+    },
+    {
+      "id": "31.71.04.1004",
+      "name": "Kramat",
+      "postal_code": "10450"
+    },
+    {
+      "id": "31.71.04.1005",
+      "name": "Kwitang",
+      "postal_code": "10420"
+    },
+    {
+      "id": "31.71.04.1006",
+      "name": "Bungur",
+      "postal_code": "10460"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

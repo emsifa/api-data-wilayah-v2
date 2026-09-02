@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.78.03.1001",
+      "name": "Kalirungkut",
+      "postal_code": "60293"
+    },
+    {
+      "id": "35.78.03.1002",
+      "name": "Rungkut Kidul",
+      "postal_code": "60293"
+    },
+    {
+      "id": "35.78.03.1003",
+      "name": "Kedung Baruk",
+      "postal_code": "60298"
+    },
+    {
+      "id": "35.78.03.1004",
+      "name": "Penjaringansari",
+      "postal_code": "60297"
+    },
+    {
+      "id": "35.78.03.1005",
+      "name": "Wonorejo",
+      "postal_code": "60296"
+    },
+    {
+      "id": "35.78.03.1006",
+      "name": "Medokan Ayu",
+      "postal_code": "60295"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

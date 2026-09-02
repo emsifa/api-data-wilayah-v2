@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "74.02.33.1001",
+      "name": "Kapoiala",
+      "postal_code": "93454"
+    },
+    {
+      "id": "74.02.33.2002",
+      "name": "Lalimbue Jaya",
+      "postal_code": "93454"
+    },
+    {
+      "id": "74.02.33.2003",
+      "name": "Labotoy",
+      "postal_code": "93454"
+    },
+    {
+      "id": "74.02.33.2004",
+      "name": "Muara Sampara",
+      "postal_code": "93454"
+    },
+    {
+      "id": "74.02.33.2005",
+      "name": "Sambaraasi",
+      "postal_code": "93454"
+    },
+    {
+      "id": "74.02.33.2006",
+      "name": "Lamendora",
+      "postal_code": "93454"
+    },
+    {
+      "id": "74.02.33.2007",
+      "name": "Tani Indah",
+      "postal_code": "93454"
+    },
+    {
+      "id": "74.02.33.2008",
+      "name": "Pereoa",
+      "postal_code": "93454"
+    },
+    {
+      "id": "74.02.33.2009",
+      "name": "Ulu Lalimbue",
+      "postal_code": "93454"
+    },
+    {
+      "id": "74.02.33.2010",
+      "name": "Lalimbue",
+      "postal_code": "93454"
+    },
+    {
+      "id": "74.02.33.2011",
+      "name": "Tombawatu",
+      "postal_code": "93454"
+    },
+    {
+      "id": "74.02.33.2012",
+      "name": "Lalonggombuno",
+      "postal_code": "93454"
+    },
+    {
+      "id": "74.02.33.2013",
+      "name": "Kapoiala Baru",
+      "postal_code": "93454"
+    },
+    {
+      "id": "74.02.33.2014",
+      "name": "Labotoy Jaya",
+      "postal_code": "93454"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

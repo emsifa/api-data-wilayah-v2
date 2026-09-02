@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "72.02.07.2001",
+      "name": "Dodolo",
+      "postal_code": "94658"
+    },
+    {
+      "id": "72.02.07.2006",
+      "name": "Kaduwaa",
+      "postal_code": "94658"
+    },
+    {
+      "id": "72.02.07.2007",
+      "name": "Watumaeta",
+      "postal_code": "94658"
+    },
+    {
+      "id": "72.02.07.2008",
+      "name": "Sedoa",
+      "postal_code": "94658"
+    },
+    {
+      "id": "72.02.07.2009",
+      "name": "Alitupu",
+      "postal_code": "94658"
+    },
+    {
+      "id": "72.02.07.2014",
+      "name": "Wuasa",
+      "postal_code": "94658"
+    },
+    {
+      "id": "72.02.07.2016",
+      "name": "Bumi Banyusari",
+      "postal_code": "94658"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

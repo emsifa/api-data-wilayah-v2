@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "73.02.02.1001",
+      "name": "Tanah Kongkong",
+      "postal_code": "92513"
+    },
+    {
+      "id": "73.02.02.1002",
+      "name": "Bentengnge",
+      "postal_code": "92511"
+    },
+    {
+      "id": "73.02.02.1003",
+      "name": "Terang Terang",
+      "postal_code": "92511"
+    },
+    {
+      "id": "73.02.02.1004",
+      "name": "Kalumeme",
+      "postal_code": "92518"
+    },
+    {
+      "id": "73.02.02.1005",
+      "name": "Bintarore",
+      "postal_code": "92514"
+    },
+    {
+      "id": "73.02.02.1006",
+      "name": "Kasimpureng",
+      "postal_code": "92511"
+    },
+    {
+      "id": "73.02.02.1007",
+      "name": "Caile",
+      "postal_code": "92517"
+    },
+    {
+      "id": "73.02.02.1008",
+      "name": "Loka",
+      "postal_code": "92511"
+    },
+    {
+      "id": "73.02.02.1009",
+      "name": "Ela Ela",
+      "postal_code": "92511"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

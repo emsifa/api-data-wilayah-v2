@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "74.71.06.1001",
+      "name": "Puday",
+      "postal_code": "93234"
+    },
+    {
+      "id": "74.71.06.1002",
+      "name": "Lapulu",
+      "postal_code": "93234"
+    },
+    {
+      "id": "74.71.06.1003",
+      "name": "Abeli",
+      "postal_code": "93234"
+    },
+    {
+      "id": "74.71.06.1004",
+      "name": "Benuanirae",
+      "postal_code": "93234"
+    },
+    {
+      "id": "74.71.06.1006",
+      "name": "Anggalomelai",
+      "postal_code": "93234"
+    },
+    {
+      "id": "74.71.06.1007",
+      "name": "Talia",
+      "postal_code": "93235"
+    },
+    {
+      "id": "74.71.06.1008",
+      "name": "Poasia",
+      "postal_code": "93235"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

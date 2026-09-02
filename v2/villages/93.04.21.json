@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "93.04.21.2001",
+      "name": "Piramat",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.21.2002",
+      "name": "Bawos",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.21.2003",
+      "name": "Akan Tapak",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.21.2004",
+      "name": "Tauro",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.21.2005",
+      "name": "Bagair",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.21.2006",
+      "name": "Wiyar",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.21.2007",
+      "name": "Kagas",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.21.2008",
+      "name": "Mapane",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.21.2009",
+      "name": "Ainamsato",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.21.2010",
+      "name": "Amaita",
+      "postal_code": "99782"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

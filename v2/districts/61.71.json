@@ -1,18 +1,32 @@
 {
-  "data": {
-    "id": "61.71",
-    "name": "Kota Pontianak",
-    "province": {
-      "id": "61",
-      "name": "Kalimantan Barat"
+  "data": [
+    {
+      "id": "61.71.01",
+      "name": "Pontianak Selatan"
     },
-    "regency": {
-      "id": "61.71",
-      "name": "Kota Pontianak"
+    {
+      "id": "61.71.02",
+      "name": "Pontianak Timur"
+    },
+    {
+      "id": "61.71.03",
+      "name": "Pontianak Barat"
+    },
+    {
+      "id": "61.71.04",
+      "name": "Pontianak Utara"
+    },
+    {
+      "id": "61.71.05",
+      "name": "Pontianak Kota"
+    },
+    {
+      "id": "61.71.06",
+      "name": "Pontianak Tenggara"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

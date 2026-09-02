@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "65.02.05.2001",
+      "name": "Long Nawang",
+      "postal_code": "77572"
+    },
+    {
+      "id": "65.02.05.2002",
+      "name": "Nawang Baru",
+      "postal_code": "77572"
+    },
+    {
+      "id": "65.02.05.2003",
+      "name": "Long Temuyat",
+      "postal_code": "77572"
+    },
+    {
+      "id": "65.02.05.2004",
+      "name": "Long Betaoh",
+      "postal_code": "77572"
+    },
+    {
+      "id": "65.02.05.2005",
+      "name": "Long Payau",
+      "postal_code": "77572"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

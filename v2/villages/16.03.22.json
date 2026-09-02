@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "16.03.22.2001",
+      "name": "Gedung Buruk",
+      "postal_code": "31178"
+    },
+    {
+      "id": "16.03.22.2002",
+      "name": "Arisan Musi",
+      "postal_code": "31178"
+    },
+    {
+      "id": "16.03.22.2003",
+      "name": "Harapan Mulia",
+      "postal_code": "31178"
+    },
+    {
+      "id": "16.03.22.2004",
+      "name": "Mulia Abadi",
+      "postal_code": "31178"
+    },
+    {
+      "id": "16.03.22.2005",
+      "name": "Arisan Musi Timur",
+      "postal_code": "31178"
+    },
+    {
+      "id": "16.03.22.2006",
+      "name": "Patra Tani",
+      "postal_code": "31178"
+    },
+    {
+      "id": "16.03.22.2007",
+      "name": "Tanjung Baru",
+      "postal_code": "31178"
+    },
+    {
+      "id": "16.03.22.2008",
+      "name": "Kayu Ara Batu",
+      "postal_code": "31178"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

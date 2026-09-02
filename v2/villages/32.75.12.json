@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.75.12.1001",
+      "name": "Jatirahayu",
+      "postal_code": "17414"
+    },
+    {
+      "id": "32.75.12.1002",
+      "name": "Jatiwarna",
+      "postal_code": "17415"
+    },
+    {
+      "id": "32.75.12.1003",
+      "name": "Jatimelati",
+      "postal_code": "17414"
+    },
+    {
+      "id": "32.75.12.1004",
+      "name": "Jatimurni",
+      "postal_code": "17431"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

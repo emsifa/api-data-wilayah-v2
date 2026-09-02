@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "52.07.04.2001",
+      "name": "Sekongkang Atas",
+      "postal_code": "84457"
+    },
+    {
+      "id": "52.07.04.2002",
+      "name": "Sekongkang Bawah",
+      "postal_code": "84457"
+    },
+    {
+      "id": "52.07.04.2003",
+      "name": "Tongo",
+      "postal_code": "84457"
+    },
+    {
+      "id": "52.07.04.2004",
+      "name": "Ai Kangkung",
+      "postal_code": "84457"
+    },
+    {
+      "id": "52.07.04.2005",
+      "name": "Tatar",
+      "postal_code": "84457"
+    },
+    {
+      "id": "52.07.04.2006",
+      "name": "Talonang Baru",
+      "postal_code": "84457"
+    },
+    {
+      "id": "52.07.04.2007",
+      "name": "Kemuning",
+      "postal_code": "84457"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

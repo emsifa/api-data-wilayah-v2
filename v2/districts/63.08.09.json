@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "63.08.09",
+    "name": "Paminggir",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.08",
+      "name": "Kabupaten Hulu Sungai Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

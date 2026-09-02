@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "73.73.07.1001",
+      "name": "Mawa",
+      "postal_code": "91925"
+    },
+    {
+      "id": "73.73.07.1002",
+      "name": "Purangi",
+      "postal_code": "91959"
+    },
+    {
+      "id": "73.73.07.1003",
+      "name": "Peta",
+      "postal_code": "91959"
+    },
+    {
+      "id": "73.73.07.1004",
+      "name": "Sendana",
+      "postal_code": "91959"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

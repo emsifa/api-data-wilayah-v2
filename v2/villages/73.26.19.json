@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "73.26.19.2001",
+      "name": "Suloara'",
+      "postal_code": "91845"
+    },
+    {
+      "id": "73.26.19.2002",
+      "name": "Sesean Matallo",
+      "postal_code": "91845"
+    },
+    {
+      "id": "73.26.19.2003",
+      "name": "Landorundun",
+      "postal_code": "91845"
+    },
+    {
+      "id": "73.26.19.2004",
+      "name": "Tonga Riu",
+      "postal_code": "91845"
+    },
+    {
+      "id": "73.26.19.2005",
+      "name": "Lempo",
+      "postal_code": "91845"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

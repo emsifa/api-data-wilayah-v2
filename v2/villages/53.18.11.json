@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "53.18.11.2001",
+      "name": "Wailangira",
+      "postal_code": "87262"
+    },
+    {
+      "id": "53.18.11.2002",
+      "name": "Kahale",
+      "postal_code": "87262"
+    },
+    {
+      "id": "53.18.11.2003",
+      "name": "Waikarara",
+      "postal_code": "87262"
+    },
+    {
+      "id": "53.18.11.2004",
+      "name": "Panenggo Ede",
+      "postal_code": "87262"
+    },
+    {
+      "id": "53.18.11.2005",
+      "name": "Waiha",
+      "postal_code": "87262"
+    },
+    {
+      "id": "53.18.11.2006",
+      "name": "Wainyapu",
+      "postal_code": "87262"
+    },
+    {
+      "id": "53.18.11.2007",
+      "name": "Loko Tali",
+      "postal_code": "87262"
+    },
+    {
+      "id": "53.18.11.2008",
+      "name": "Waipakolo",
+      "postal_code": "87262"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

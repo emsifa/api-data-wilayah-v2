@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "53.01.26.2001",
+      "name": "Nunuanah",
+      "postal_code": "85375"
+    },
+    {
+      "id": "53.01.26.2002",
+      "name": "Kifu",
+      "postal_code": "85375"
+    },
+    {
+      "id": "53.01.26.2003",
+      "name": "Netemnanu Selatan",
+      "postal_code": "85375"
+    },
+    {
+      "id": "53.01.26.2004",
+      "name": "Netemnanu Utara",
+      "postal_code": "85375"
+    },
+    {
+      "id": "53.01.26.2005",
+      "name": "Netemnanu",
+      "postal_code": "85375"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

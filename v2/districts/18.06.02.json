@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "18.06.02",
+    "name": "Talang Padang",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.06",
+      "name": "Kabupaten Tanggamus"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

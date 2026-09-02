@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "14.09.07.2001",
+      "name": "Pulaumungkur",
+      "postal_code": "29565"
+    },
+    {
+      "id": "14.09.07.2002",
+      "name": "Telukberingin",
+      "postal_code": "29565"
+    },
+    {
+      "id": "14.09.07.2003",
+      "name": "Pulaurumput",
+      "postal_code": "29565"
+    },
+    {
+      "id": "14.09.07.2004",
+      "name": "Seberang Gunung",
+      "postal_code": "29565"
+    },
+    {
+      "id": "14.09.07.2005",
+      "name": "Teberau Panjang",
+      "postal_code": "29565"
+    },
+    {
+      "id": "14.09.07.2006",
+      "name": "Koto Gunung",
+      "postal_code": "29565"
+    },
+    {
+      "id": "14.09.07.2007",
+      "name": "Gunung",
+      "postal_code": "29565"
+    },
+    {
+      "id": "14.09.07.2008",
+      "name": "Toar",
+      "postal_code": "29565"
+    },
+    {
+      "id": "14.09.07.2009",
+      "name": "Petapahan",
+      "postal_code": "29565"
+    },
+    {
+      "id": "14.09.07.2010",
+      "name": "Kampung Baru",
+      "postal_code": "29565"
+    },
+    {
+      "id": "14.09.07.2011",
+      "name": "Pisang Berebus",
+      "postal_code": "29565"
+    },
+    {
+      "id": "14.09.07.2012",
+      "name": "Lubuk Terentang",
+      "postal_code": "29565"
+    },
+    {
+      "id": "14.09.07.2013",
+      "name": "Siberobah",
+      "postal_code": "29565"
+    },
+    {
+      "id": "14.09.07.2014",
+      "name": "Seberang Sungai",
+      "postal_code": "29565"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

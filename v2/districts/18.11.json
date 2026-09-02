@@ -1,18 +1,36 @@
 {
-  "data": {
-    "id": "18.11",
-    "name": "Kabupaten Mesuji",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
+  "data": [
+    {
+      "id": "18.11.01",
+      "name": "Mesuji"
     },
-    "regency": {
-      "id": "18.11",
-      "name": "Kabupaten Mesuji"
+    {
+      "id": "18.11.02",
+      "name": "Mesuji Timur"
+    },
+    {
+      "id": "18.11.03",
+      "name": "Rawa Jitu Utara"
+    },
+    {
+      "id": "18.11.04",
+      "name": "Way Serdang"
+    },
+    {
+      "id": "18.11.05",
+      "name": "Simpang Pematang"
+    },
+    {
+      "id": "18.11.06",
+      "name": "Panca Jaya"
+    },
+    {
+      "id": "18.11.07",
+      "name": "Tanjung Raya"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

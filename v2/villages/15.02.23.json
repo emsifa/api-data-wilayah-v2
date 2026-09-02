@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "15.02.23.2001",
+      "name": "Muara Kibul",
+      "postal_code": "37356"
+    },
+    {
+      "id": "15.02.23.2002",
+      "name": "Tanjung Putus",
+      "postal_code": "37356"
+    },
+    {
+      "id": "15.02.23.2003",
+      "name": "Pulau Tebakar",
+      "postal_code": "37356"
+    },
+    {
+      "id": "15.02.23.2004",
+      "name": "Batang Kibul",
+      "postal_code": "37356"
+    },
+    {
+      "id": "15.02.23.2005",
+      "name": "Sungai Tabir",
+      "postal_code": "37356"
+    },
+    {
+      "id": "15.02.23.2006",
+      "name": "Telentam",
+      "postal_code": "37356"
+    },
+    {
+      "id": "15.02.23.2007",
+      "name": "Ngaol",
+      "postal_code": "37356"
+    },
+    {
+      "id": "15.02.23.2008",
+      "name": "Air Liki",
+      "postal_code": "37356"
+    },
+    {
+      "id": "15.02.23.2009",
+      "name": "Pulau Lebar",
+      "postal_code": "37356"
+    },
+    {
+      "id": "15.02.23.2010",
+      "name": "Muara Langeh",
+      "postal_code": "37356"
+    },
+    {
+      "id": "15.02.23.2011",
+      "name": "Tanjung Beringin",
+      "postal_code": "37356"
+    },
+    {
+      "id": "15.02.23.2012",
+      "name": "Baru Kibul",
+      "postal_code": "37356"
+    },
+    {
+      "id": "15.02.23.2013",
+      "name": "Ngaol Ilir",
+      "postal_code": "37356"
+    },
+    {
+      "id": "15.02.23.2014",
+      "name": "Air Liki Baru",
+      "postal_code": "37356"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

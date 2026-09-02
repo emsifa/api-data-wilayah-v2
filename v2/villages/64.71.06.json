@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "64.71.06.1001",
+      "name": "Prapatan",
+      "postal_code": "76111"
+    },
+    {
+      "id": "64.71.06.1002",
+      "name": "Telaga Sari",
+      "postal_code": "76111"
+    },
+    {
+      "id": "64.71.06.1003",
+      "name": "Klandasan Ulu",
+      "postal_code": "76112"
+    },
+    {
+      "id": "64.71.06.1004",
+      "name": "Klandasan Ilir",
+      "postal_code": "76113"
+    },
+    {
+      "id": "64.71.06.1005",
+      "name": "Damai",
+      "postal_code": "76114"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

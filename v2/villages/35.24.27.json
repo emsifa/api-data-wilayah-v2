@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "35.24.27.2001",
+      "name": "Kedungkumpul",
+      "postal_code": "62281"
+    },
+    {
+      "id": "35.24.27.2002",
+      "name": "Dermolemahbang",
+      "postal_code": "62281"
+    },
+    {
+      "id": "35.24.27.2003",
+      "name": "Simbatan",
+      "postal_code": "62281"
+    },
+    {
+      "id": "35.24.27.2004",
+      "name": "Sumberjo",
+      "postal_code": "62281"
+    },
+    {
+      "id": "35.24.27.2005",
+      "name": "Canggah",
+      "postal_code": "62281"
+    },
+    {
+      "id": "35.24.27.2006",
+      "name": "Beru",
+      "postal_code": "62281"
+    },
+    {
+      "id": "35.24.27.2007",
+      "name": "Tambakmenjangan",
+      "postal_code": "62281"
+    },
+    {
+      "id": "35.24.27.2008",
+      "name": "Gempoltukmloko",
+      "postal_code": "62281"
+    },
+    {
+      "id": "35.24.27.2009",
+      "name": "Sarirejo",
+      "postal_code": "62281"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

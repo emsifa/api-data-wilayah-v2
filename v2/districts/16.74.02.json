@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "16.74.02",
+    "name": "Prabumulih Timur",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.74",
+      "name": "Kota Prabumulih"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "19.01",
+    "name": "Kabupaten Bangka",
+    "capital": "Sungai Liat",
+    "lat": -1.8873108002346788,
+    "lng": 106.10482719651391,
+    "elv": 26,
+    "tz": 7,
+    "population": 337755,
+    "total_area": 3011.435,
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

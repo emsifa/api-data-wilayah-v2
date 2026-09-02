@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "82.04.08.2001",
+      "name": "Labuha",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.08.2002",
+      "name": "Amasing Kota",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.08.2003",
+      "name": "Amasing Kali",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.08.2004",
+      "name": "Tomori",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.08.2009",
+      "name": "Indomut",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.08.2010",
+      "name": "Belang Belang",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.08.2026",
+      "name": "Sumae",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.08.2027",
+      "name": "Kaputusan",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.08.2030",
+      "name": "Amasing Kota Barat",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.08.2031",
+      "name": "Amasing Kota Utara",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.08.2032",
+      "name": "Awanggoa",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.08.2036",
+      "name": "Suma Tinggi",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.08.2040",
+      "name": "Hidayat",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.08.2041",
+      "name": "Marabose",
+      "postal_code": "97791"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

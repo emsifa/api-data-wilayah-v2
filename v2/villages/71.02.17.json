@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "71.02.17.2001",
+      "name": "Palamba",
+      "postal_code": "95695"
+    },
+    {
+      "id": "71.02.17.2002",
+      "name": "Atep",
+      "postal_code": "95695"
+    },
+    {
+      "id": "71.02.17.2003",
+      "name": "Manembo",
+      "postal_code": "95695"
+    },
+    {
+      "id": "71.02.17.2004",
+      "name": "Temboan",
+      "postal_code": "95695"
+    },
+    {
+      "id": "71.02.17.2005",
+      "name": "Rumbia",
+      "postal_code": "95695"
+    },
+    {
+      "id": "71.02.17.2006",
+      "name": "Winebetan",
+      "postal_code": "95695"
+    },
+    {
+      "id": "71.02.17.2007",
+      "name": "Kaayuran Atas",
+      "postal_code": "95695"
+    },
+    {
+      "id": "71.02.17.2008",
+      "name": "Kaayuran Bawah",
+      "postal_code": "95695"
+    },
+    {
+      "id": "71.02.17.2009",
+      "name": "Kawatak",
+      "postal_code": "95695"
+    },
+    {
+      "id": "71.02.17.2010",
+      "name": "Atep Satu",
+      "postal_code": "95695"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

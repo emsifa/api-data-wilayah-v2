@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "95.08.05.2001",
+      "name": "Geselma",
+      "postal_code": "99903"
+    },
+    {
+      "id": "95.08.05.2002",
+      "name": "Talem",
+      "postal_code": "99545"
+    },
+    {
+      "id": "95.08.05.2003",
+      "name": "Kosolpem",
+      "postal_code": "99545"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

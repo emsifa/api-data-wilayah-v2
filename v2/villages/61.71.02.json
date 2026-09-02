@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "61.71.02.1001",
+      "name": "Paritmayor",
+      "postal_code": "78231"
+    },
+    {
+      "id": "61.71.02.1002",
+      "name": "Banjar Serasan",
+      "postal_code": "78233"
+    },
+    {
+      "id": "61.71.02.1003",
+      "name": "Saigon",
+      "postal_code": "78132"
+    },
+    {
+      "id": "61.71.02.1004",
+      "name": "Tanjung Hulu",
+      "postal_code": "78137"
+    },
+    {
+      "id": "61.71.02.1005",
+      "name": "Tanjung Hilir",
+      "postal_code": "78236"
+    },
+    {
+      "id": "61.71.02.1006",
+      "name": "Dalambugis",
+      "postal_code": "78235"
+    },
+    {
+      "id": "61.71.02.1007",
+      "name": "Tambelansampit",
+      "postal_code": "78234"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

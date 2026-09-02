@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "61.01.14.2001",
+      "name": "Jirak",
+      "postal_code": "79462"
+    },
+    {
+      "id": "61.01.14.2002",
+      "name": "Tengguli",
+      "postal_code": "79462"
+    },
+    {
+      "id": "61.01.14.2003",
+      "name": "Mekar Jaya",
+      "postal_code": "79462"
+    },
+    {
+      "id": "61.01.14.2004",
+      "name": "Beringin",
+      "postal_code": "79462"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

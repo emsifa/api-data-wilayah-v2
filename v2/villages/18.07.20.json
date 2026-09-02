@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "18.07.20.2001",
+      "name": "Sumberejo",
+      "postal_code": "34376"
+    },
+    {
+      "id": "18.07.20.2002",
+      "name": "Ngesti Karya",
+      "postal_code": "34376"
+    },
+    {
+      "id": "18.07.20.2003",
+      "name": "Tri Tunggal",
+      "postal_code": "34376"
+    },
+    {
+      "id": "18.07.20.2004",
+      "name": "Sidorahayu",
+      "postal_code": "34376"
+    },
+    {
+      "id": "18.07.20.2005",
+      "name": "Jembrana",
+      "postal_code": "34376"
+    },
+    {
+      "id": "18.07.20.2006",
+      "name": "Tanjung Wangi",
+      "postal_code": "34376"
+    },
+    {
+      "id": "18.07.20.2007",
+      "name": "Marga Batin",
+      "postal_code": "34376"
+    },
+    {
+      "id": "18.07.20.2008",
+      "name": "Mekar Karya",
+      "postal_code": "34376"
+    },
+    {
+      "id": "18.07.20.2009",
+      "name": "Sumber Jaya",
+      "postal_code": "34376"
+    },
+    {
+      "id": "18.07.20.2010",
+      "name": "Karang Anom",
+      "postal_code": "34376"
+    },
+    {
+      "id": "18.07.20.2011",
+      "name": "Karya Basuki",
+      "postal_code": "34376"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

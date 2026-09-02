@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "52.03.07.1001",
+      "name": "Pancor",
+      "postal_code": "83611"
+    },
+    {
+      "id": "52.03.07.1002",
+      "name": "Selong",
+      "postal_code": "83619"
+    },
+    {
+      "id": "52.03.07.1003",
+      "name": "Kelayu Selatan",
+      "postal_code": "83613"
+    },
+    {
+      "id": "52.03.07.1004",
+      "name": "Denggen",
+      "postal_code": "83618"
+    },
+    {
+      "id": "52.03.07.1005",
+      "name": "Sekarteja",
+      "postal_code": "83611"
+    },
+    {
+      "id": "52.03.07.1006",
+      "name": "Majidi",
+      "postal_code": "83619"
+    },
+    {
+      "id": "52.03.07.1007",
+      "name": "Rakam",
+      "postal_code": "83619"
+    },
+    {
+      "id": "52.03.07.1008",
+      "name": "Sandu Baya",
+      "postal_code": "83612"
+    },
+    {
+      "id": "52.03.07.1009",
+      "name": "Kembang Sari",
+      "postal_code": "83618"
+    },
+    {
+      "id": "52.03.07.1010",
+      "name": "Kelayu Utara",
+      "postal_code": "83619"
+    },
+    {
+      "id": "52.03.07.1011",
+      "name": "Kelaju Jorong",
+      "postal_code": "83617"
+    },
+    {
+      "id": "52.03.07.2012",
+      "name": "Danggen Timur",
+      "postal_code": "83618"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

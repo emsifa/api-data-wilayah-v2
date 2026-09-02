@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.76.02.1004",
+      "name": "Rantau Laban",
+      "postal_code": "20614"
+    },
+    {
+      "id": "12.76.02.1007",
+      "name": "Karya Jaya",
+      "postal_code": "20611"
+    },
+    {
+      "id": "12.76.02.1009",
+      "name": "Lalang",
+      "postal_code": "20614"
+    },
+    {
+      "id": "12.76.02.1010",
+      "name": "Tanjung Marulak",
+      "postal_code": "20616"
+    },
+    {
+      "id": "12.76.02.1011",
+      "name": "Sri Padang",
+      "postal_code": "20616"
+    },
+    {
+      "id": "12.76.02.1012",
+      "name": "Tanjung Marulak Hilir",
+      "postal_code": "20616"
+    },
+    {
+      "id": "12.76.02.1013",
+      "name": "Mekar Sentosa",
+      "postal_code": "20616"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

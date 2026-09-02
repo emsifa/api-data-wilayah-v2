@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.19.06.1001",
+      "name": "Tanjung Tiram",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.06.1022",
+      "name": "Bagan Arya",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.06.2002",
+      "name": "Guntung",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.06.2004",
+      "name": "Bagan Dalam",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.06.2005",
+      "name": "Bogak",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.06.2006",
+      "name": "Suka Maju",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.06.2016",
+      "name": "Suka Jaya",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.06.2017",
+      "name": "Pahlawan",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.06.2018",
+      "name": "Bandar Rahmat",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.06.2019",
+      "name": "Kampung Lalang",
+      "postal_code": "21253"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

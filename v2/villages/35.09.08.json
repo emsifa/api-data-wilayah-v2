@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "35.09.08.2001",
+      "name": "Mlokorejo",
+      "postal_code": "68164"
+    },
+    {
+      "id": "35.09.08.2002",
+      "name": "Mojomulyo",
+      "postal_code": "68164"
+    },
+    {
+      "id": "35.09.08.2003",
+      "name": "Mojosari",
+      "postal_code": "68164"
+    },
+    {
+      "id": "35.09.08.2004",
+      "name": "Pugerkulon",
+      "postal_code": "68164"
+    },
+    {
+      "id": "35.09.08.2005",
+      "name": "Wringintelu",
+      "postal_code": "68164"
+    },
+    {
+      "id": "35.09.08.2006",
+      "name": "Kasiyan",
+      "postal_code": "68164"
+    },
+    {
+      "id": "35.09.08.2007",
+      "name": "Bagon",
+      "postal_code": "68164"
+    },
+    {
+      "id": "35.09.08.2008",
+      "name": "Kasiyan Timur",
+      "postal_code": "68164"
+    },
+    {
+      "id": "35.09.08.2009",
+      "name": "Wonosari",
+      "postal_code": "68164"
+    },
+    {
+      "id": "35.09.08.2010",
+      "name": "Jambearum",
+      "postal_code": "68164"
+    },
+    {
+      "id": "35.09.08.2011",
+      "name": "Grenden",
+      "postal_code": "68164"
+    },
+    {
+      "id": "35.09.08.2012",
+      "name": "Pugerwetan",
+      "postal_code": "68164"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

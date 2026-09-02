@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "75.05.06.2001",
+      "name": "Gentuma",
+      "postal_code": "96513"
+    },
+    {
+      "id": "75.05.06.2002",
+      "name": "Dumolodo",
+      "postal_code": "96513"
+    },
+    {
+      "id": "75.05.06.2003",
+      "name": "Molonggota",
+      "postal_code": "96513"
+    },
+    {
+      "id": "75.05.06.2004",
+      "name": "Ipilo",
+      "postal_code": "96513"
+    },
+    {
+      "id": "75.05.06.2005",
+      "name": "Langke",
+      "postal_code": "96513"
+    },
+    {
+      "id": "75.05.06.2006",
+      "name": "Pasalae",
+      "postal_code": "96513"
+    },
+    {
+      "id": "75.05.06.2007",
+      "name": "Nanati Jaya",
+      "postal_code": "96513"
+    },
+    {
+      "id": "75.05.06.2008",
+      "name": "Ketapang",
+      "postal_code": "96513"
+    },
+    {
+      "id": "75.05.06.2009",
+      "name": "Motomingo",
+      "postal_code": "96513"
+    },
+    {
+      "id": "75.05.06.2010",
+      "name": "Durian",
+      "postal_code": "96513"
+    },
+    {
+      "id": "75.05.06.2011",
+      "name": "Bohusami",
+      "postal_code": "96513"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

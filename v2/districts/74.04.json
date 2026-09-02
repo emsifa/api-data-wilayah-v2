@@ -1,18 +1,36 @@
 {
-  "data": {
-    "id": "74.04",
-    "name": "Kabupaten Buton",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
+  "data": [
+    {
+      "id": "74.04.11",
+      "name": "Pasarwajo"
     },
-    "regency": {
-      "id": "74.04",
-      "name": "Kabupaten Buton"
+    {
+      "id": "74.04.22",
+      "name": "Kapontori"
+    },
+    {
+      "id": "74.04.23",
+      "name": "Lasalimu"
+    },
+    {
+      "id": "74.04.24",
+      "name": "Lasalimu Selatan"
+    },
+    {
+      "id": "74.04.27",
+      "name": "Siotapina"
+    },
+    {
+      "id": "74.04.28",
+      "name": "Wolowa"
+    },
+    {
+      "id": "74.04.29",
+      "name": "Wabula"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

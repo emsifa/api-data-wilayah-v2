@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.14.27.2001",
+      "name": "Sifalago Gomo",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.27.2002",
+      "name": "Balohili Gomo",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.27.2003",
+      "name": "Bohalu",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.27.2004",
+      "name": "Orsedes",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.27.2005",
+      "name": "Sinar Helaowo",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.27.2006",
+      "name": "Siholi",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.27.2007",
+      "name": "Tuhegafoa",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.27.2008",
+      "name": "Perjuangan",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.27.2009",
+      "name": "Lewa-lewa",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.27.2010",
+      "name": "Siraha",
+      "postal_code": "22873"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

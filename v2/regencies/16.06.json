@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "16.06",
+    "name": "Kabupaten Musi Banyuasin",
+    "capital": "Sekayu",
+    "lat": -2.8888428202148733,
+    "lng": 103.84022898155693,
+    "elv": 14,
+    "tz": 7,
+    "population": 736897,
+    "total_area": 14550.788,
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

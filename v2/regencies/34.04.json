@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "34.04",
+    "name": "Kabupaten Sleman",
+    "capital": "Sleman",
+    "lat": -7.71654673418279,
+    "lng": 110.35577266770737,
+    "elv": 207,
+    "tz": 7,
+    "population": 1125571,
+    "total_area": 573.749,
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

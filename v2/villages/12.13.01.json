@@ -1,0 +1,203 @@
+{
+  "data": [
+    {
+      "id": "12.13.01.1011",
+      "name": "Kota Siantar",
+      "postal_code": "22919"
+    },
+    {
+      "id": "12.13.01.1014",
+      "name": "Kayu Jati",
+      "postal_code": "22919"
+    },
+    {
+      "id": "12.13.01.1022",
+      "name": "Pasar Hilir",
+      "postal_code": "22916"
+    },
+    {
+      "id": "12.13.01.1023",
+      "name": "Pidoli Dolok",
+      "postal_code": "22915"
+    },
+    {
+      "id": "12.13.01.1031",
+      "name": "Panyabungan II",
+      "postal_code": "22913"
+    },
+    {
+      "id": "12.13.01.1032",
+      "name": "Panyabungan III",
+      "postal_code": "22911"
+    },
+    {
+      "id": "12.13.01.1033",
+      "name": "Panyabungan I",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.1035",
+      "name": "Sipolu-Polu",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.1036",
+      "name": "Dalan Lidang",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2001",
+      "name": "Adian Jior",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2002",
+      "name": "Aek Banir",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2003",
+      "name": "Aek Mata",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2004",
+      "name": "Darussalam",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2005",
+      "name": "Gunung Barani",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2006",
+      "name": "Gunung Manaon",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2007",
+      "name": "Gunung Tua Jae",
+      "postal_code": "22918"
+    },
+    {
+      "id": "12.13.01.2008",
+      "name": "Gunung Tua Julu",
+      "postal_code": "22918"
+    },
+    {
+      "id": "12.13.01.2009",
+      "name": "Gunung Tua Tonga",
+      "postal_code": "22918"
+    },
+    {
+      "id": "12.13.01.2010",
+      "name": "Huta Lombang Lubis",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2012",
+      "name": "Ipar Bondar",
+      "postal_code": "22918"
+    },
+    {
+      "id": "12.13.01.2013",
+      "name": "Kampung Padang",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2015",
+      "name": "Lumban Pasir",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2016",
+      "name": "Manyabar",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2017",
+      "name": "Pagaran Tonga",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2018",
+      "name": "Panyabungan Jae",
+      "postal_code": "22917"
+    },
+    {
+      "id": "12.13.01.2019",
+      "name": "Panyabungan Julu",
+      "postal_code": "22916"
+    },
+    {
+      "id": "12.13.01.2020",
+      "name": "Panyabungan Tonga",
+      "postal_code": "22916"
+    },
+    {
+      "id": "12.13.01.2021",
+      "name": "Perbangunan",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2024",
+      "name": "Pidoli Lombang",
+      "postal_code": "22915"
+    },
+    {
+      "id": "12.13.01.2025",
+      "name": "Salam Bue",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2026",
+      "name": "Sarak Matua",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2027",
+      "name": "Sigalapang Julu",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2028",
+      "name": "Siobon Julu",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2029",
+      "name": "Sipapaga",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2030",
+      "name": "Sopobatu",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2037",
+      "name": "Siobon Jae",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2038",
+      "name": "Panggorengan",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2039",
+      "name": "Saba Jambu",
+      "postal_code": "22912"
+    },
+    {
+      "id": "12.13.01.2040",
+      "name": "Manyabar Jae",
+      "postal_code": "22912"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "14.04.10.1001",
+      "name": "Kuala Enok",
+      "postal_code": "29271"
+    },
+    {
+      "id": "14.04.10.2002",
+      "name": "Selatnama",
+      "postal_code": "29271"
+    },
+    {
+      "id": "14.04.10.2003",
+      "name": "Sungainyiur",
+      "postal_code": "29271"
+    },
+    {
+      "id": "14.04.10.2004",
+      "name": "Tanjungbaru",
+      "postal_code": "29271"
+    },
+    {
+      "id": "14.04.10.2005",
+      "name": "Tekulai Hilir",
+      "postal_code": "29271"
+    },
+    {
+      "id": "14.04.10.2006",
+      "name": "Tekulai Hulu",
+      "postal_code": "29271"
+    },
+    {
+      "id": "14.04.10.2007",
+      "name": "Tekulai Bugis",
+      "postal_code": "29271"
+    },
+    {
+      "id": "14.04.10.2008",
+      "name": "Tanjungpasir",
+      "postal_code": "29271"
+    },
+    {
+      "id": "14.04.10.2009",
+      "name": "Tanah Merah",
+      "postal_code": "29271"
+    },
+    {
+      "id": "14.04.10.2010",
+      "name": "Sungailaut",
+      "postal_code": "29271"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

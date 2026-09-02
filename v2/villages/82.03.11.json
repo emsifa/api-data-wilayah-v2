@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "82.03.11.2001",
+      "name": "Upa",
+      "postal_code": "97768"
+    },
+    {
+      "id": "82.03.11.2002",
+      "name": "Pitu",
+      "postal_code": "97768"
+    },
+    {
+      "id": "82.03.11.2003",
+      "name": "Wosia",
+      "postal_code": "97768"
+    },
+    {
+      "id": "82.03.11.2004",
+      "name": "WKO",
+      "postal_code": "97768"
+    },
+    {
+      "id": "82.03.11.2005",
+      "name": "Kalipitu",
+      "postal_code": "97768"
+    },
+    {
+      "id": "82.03.11.2006",
+      "name": "Kali Upa",
+      "postal_code": "97768"
+    },
+    {
+      "id": "82.03.11.2007",
+      "name": "Lina Ino",
+      "postal_code": "97768"
+    },
+    {
+      "id": "82.03.11.2008",
+      "name": "Mahia (Wosia Tengah)",
+      "postal_code": "97768"
+    },
+    {
+      "id": "82.03.11.2009",
+      "name": "Tanjung Niara (Wosia Selatan)",
+      "postal_code": "97768"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

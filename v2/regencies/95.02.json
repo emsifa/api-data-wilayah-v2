@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "95.02",
+    "name": "Kabupaten Pegunungan Bintang",
+    "capital": "Oksibil",
+    "lat": -4.890902753435135,
+    "lng": 140.6399248830013,
+    "elv": 1458,
+    "tz": 9,
+    "population": 114581,
+    "total_area": 13751.915,
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

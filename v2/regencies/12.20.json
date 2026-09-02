@@ -1,0 +1,20 @@
+{
+  "data": {
+    "id": "12.20",
+    "name": "Kabupaten Padang Lawas Utara",
+    "capital": "Gunung Tua",
+    "lat": 1.4945493942995707,
+    "lng": 99.61970881122626,
+    "elv": 102,
+    "tz": 7,
+    "population": 273586,
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

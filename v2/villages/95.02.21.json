@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "95.02.21.2001",
+      "name": "Okma",
+      "postal_code": "99426"
+    },
+    {
+      "id": "95.02.21.2002",
+      "name": "Oktae",
+      "postal_code": "99426"
+    },
+    {
+      "id": "95.02.21.2003",
+      "name": "Tinibil",
+      "postal_code": "99426"
+    },
+    {
+      "id": "95.02.21.2004",
+      "name": "Okdilam",
+      "postal_code": "99426"
+    },
+    {
+      "id": "95.02.21.2005",
+      "name": "Autpahik",
+      "postal_code": "99426"
+    },
+    {
+      "id": "95.02.21.2006",
+      "name": "Tomka",
+      "postal_code": "99426"
+    },
+    {
+      "id": "95.02.21.2007",
+      "name": "Okpa",
+      "postal_code": "99426"
+    },
+    {
+      "id": "95.02.21.2008",
+      "name": "Okhaka",
+      "postal_code": "99426"
+    },
+    {
+      "id": "95.02.21.2009",
+      "name": "Honkuding",
+      "postal_code": "99426"
+    },
+    {
+      "id": "95.02.21.2010",
+      "name": "Bomding",
+      "postal_code": "99426"
+    },
+    {
+      "id": "95.02.21.2011",
+      "name": "Okdunam",
+      "postal_code": "99426"
+    },
+    {
+      "id": "95.02.21.2012",
+      "name": "Paune",
+      "postal_code": "99426"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

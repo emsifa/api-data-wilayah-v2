@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "13.74.01.1001",
+      "name": "Ganting",
+      "postal_code": "27127"
+    },
+    {
+      "id": "13.74.01.1002",
+      "name": "Sigando",
+      "postal_code": "27126"
+    },
+    {
+      "id": "13.74.01.1003",
+      "name": "Ekor Lubuk",
+      "postal_code": "27125"
+    },
+    {
+      "id": "13.74.01.1004",
+      "name": "Ngalau",
+      "postal_code": "27124"
+    },
+    {
+      "id": "13.74.01.1005",
+      "name": "Guguk Malintang",
+      "postal_code": "27128"
+    },
+    {
+      "id": "13.74.01.1006",
+      "name": "Koto Panjang",
+      "postal_code": "27122"
+    },
+    {
+      "id": "13.74.01.1007",
+      "name": "Koto Katik",
+      "postal_code": "27123"
+    },
+    {
+      "id": "13.74.01.1008",
+      "name": "Tanah Pak Lambik",
+      "postal_code": "27121"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

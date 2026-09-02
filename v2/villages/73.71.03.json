@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "73.71.03.1001",
+      "name": "Maricaya",
+      "postal_code": "90142"
+    },
+    {
+      "id": "73.71.03.1002",
+      "name": "Bara Baraya",
+      "postal_code": "90143"
+    },
+    {
+      "id": "73.71.03.1003",
+      "name": "Maradekaya",
+      "postal_code": "90141"
+    },
+    {
+      "id": "73.71.03.1004",
+      "name": "Lariangbangi",
+      "postal_code": "90141"
+    },
+    {
+      "id": "73.71.03.1005",
+      "name": "Maccini",
+      "postal_code": "90144"
+    },
+    {
+      "id": "73.71.03.1006",
+      "name": "Maricaya Baru",
+      "postal_code": "90142"
+    },
+    {
+      "id": "73.71.03.1007",
+      "name": "Bara Baraya Timur",
+      "postal_code": "90143"
+    },
+    {
+      "id": "73.71.03.1008",
+      "name": "Bara Baraya Selatan",
+      "postal_code": "90143"
+    },
+    {
+      "id": "73.71.03.1009",
+      "name": "Maradekaya Selatan",
+      "postal_code": "90141"
+    },
+    {
+      "id": "73.71.03.1010",
+      "name": "Barana",
+      "postal_code": "90145"
+    },
+    {
+      "id": "73.71.03.1011",
+      "name": "Maccini Parang",
+      "postal_code": "90144"
+    },
+    {
+      "id": "73.71.03.1012",
+      "name": "Maccini Gusung",
+      "postal_code": "90144"
+    },
+    {
+      "id": "73.71.03.1013",
+      "name": "Maradekaya Utara",
+      "postal_code": "90141"
+    },
+    {
+      "id": "73.71.03.1014",
+      "name": "Bara Baraya Utara",
+      "postal_code": "90143"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

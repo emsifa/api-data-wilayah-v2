@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "73.22.14.2001",
+      "name": "Lara",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.14.2002",
+      "name": "Marannu",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.14.2003",
+      "name": "Beringin Jaya",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.14.2004",
+      "name": "Mukti Jaya",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.14.2005",
+      "name": "Mekarsari Jaya",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.14.2006",
+      "name": "Mukti Tama",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.14.2007",
+      "name": "Lembang-lembang",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.14.2008",
+      "name": "Lawewe",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.14.2009",
+      "name": "Polewali",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.14.2010",
+      "name": "Sumpira",
+      "postal_code": "92965"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

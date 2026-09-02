@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.14.23.2001",
+      "name": "Maluo",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.23.2002",
+      "name": "Hiliadulo",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.23.2003",
+      "name": "Umbuasi",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.23.2004",
+      "name": "Sisobahili Siwalawa",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.23.2005",
+      "name": "Manawadano",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.23.2006",
+      "name": "Talio",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.23.2007",
+      "name": "Anaoma",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.23.2008",
+      "name": "Berua Siwalawa",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.23.2009",
+      "name": "Umbuasi Barat",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.23.2010",
+      "name": "Hiligodu",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.23.2011",
+      "name": "Bukit Burasi",
+      "postal_code": "22864"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

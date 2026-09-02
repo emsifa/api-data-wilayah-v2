@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "32.71",
+    "name": "Kota Bogor",
+    "capital": "Bogor",
+    "lat": -6.595057464978462,
+    "lng": 106.79411231002724,
+    "elv": 260,
+    "tz": 7,
+    "population": 1144108,
+    "total_area": 111.366,
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

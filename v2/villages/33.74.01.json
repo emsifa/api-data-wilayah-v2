@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "33.74.01.1001",
+      "name": "Miroto",
+      "postal_code": "50134"
+    },
+    {
+      "id": "33.74.01.1002",
+      "name": "Brumbungan",
+      "postal_code": "50135"
+    },
+    {
+      "id": "33.74.01.1003",
+      "name": "Jagalan",
+      "postal_code": "50613"
+    },
+    {
+      "id": "33.74.01.1004",
+      "name": "Kranggan",
+      "postal_code": "50139"
+    },
+    {
+      "id": "33.74.01.1005",
+      "name": "Gabahan",
+      "postal_code": "50135"
+    },
+    {
+      "id": "33.74.01.1006",
+      "name": "Kembangsari",
+      "postal_code": "50133"
+    },
+    {
+      "id": "33.74.01.1007",
+      "name": "Sekayu",
+      "postal_code": "50132"
+    },
+    {
+      "id": "33.74.01.1008",
+      "name": "Pandansari",
+      "postal_code": "50139"
+    },
+    {
+      "id": "33.74.01.1009",
+      "name": "Bangunharjo",
+      "postal_code": "50138"
+    },
+    {
+      "id": "33.74.01.1010",
+      "name": "Kauman",
+      "postal_code": "50188"
+    },
+    {
+      "id": "33.74.01.1011",
+      "name": "Purwodinatan",
+      "postal_code": "50137"
+    },
+    {
+      "id": "33.74.01.1012",
+      "name": "Karang Kidul",
+      "postal_code": "50241"
+    },
+    {
+      "id": "33.74.01.1013",
+      "name": "Pekunden",
+      "postal_code": "50241"
+    },
+    {
+      "id": "33.74.01.1014",
+      "name": "Pindrikan Kidul",
+      "postal_code": "50131"
+    },
+    {
+      "id": "33.74.01.1015",
+      "name": "Pindrikan Lor",
+      "postal_code": "50131"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

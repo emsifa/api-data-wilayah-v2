@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "71.05.22.2001",
+      "name": "Karimbow",
+      "postal_code": "95943"
+    },
+    {
+      "id": "71.05.22.2002",
+      "name": "Karimbow Talikuran",
+      "postal_code": "95943"
+    },
+    {
+      "id": "71.05.22.2003",
+      "name": "Tokin",
+      "postal_code": "95943"
+    },
+    {
+      "id": "71.05.22.2004",
+      "name": "Tokin Baru",
+      "postal_code": "95943"
+    },
+    {
+      "id": "71.05.22.2005",
+      "name": "Wanga Amongena",
+      "postal_code": "95943"
+    },
+    {
+      "id": "71.05.22.2006",
+      "name": "Wanga",
+      "postal_code": "95943"
+    },
+    {
+      "id": "71.05.22.2007",
+      "name": "Picuan",
+      "postal_code": "95943"
+    },
+    {
+      "id": "71.05.22.2008",
+      "name": "Picuan Satu",
+      "postal_code": "95943"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

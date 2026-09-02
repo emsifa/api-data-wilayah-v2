@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "52.05",
-    "name": "Kabupaten Dompu",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
+  "data": [
+    {
+      "id": "52.05.01",
+      "name": "Dompu"
     },
-    "regency": {
-      "id": "52.05",
-      "name": "Kabupaten Dompu"
+    {
+      "id": "52.05.02",
+      "name": "Kempo"
+    },
+    {
+      "id": "52.05.03",
+      "name": "Hu'u"
+    },
+    {
+      "id": "52.05.04",
+      "name": "Kilo"
+    },
+    {
+      "id": "52.05.05",
+      "name": "Woja"
+    },
+    {
+      "id": "52.05.06",
+      "name": "Pekat"
+    },
+    {
+      "id": "52.05.07",
+      "name": "Manggalewa"
+    },
+    {
+      "id": "52.05.08",
+      "name": "Pajo"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

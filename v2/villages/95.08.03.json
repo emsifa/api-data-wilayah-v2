@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "95.08.03.2001",
+      "name": "Yigi",
+      "postal_code": "99919"
+    },
+    {
+      "id": "95.08.03.2002",
+      "name": "Ekilapo",
+      "postal_code": "99543"
+    },
+    {
+      "id": "95.08.03.2003",
+      "name": "Suwenem",
+      "postal_code": "99543"
+    },
+    {
+      "id": "95.08.03.2004",
+      "name": "Karunggame",
+      "postal_code": "99919"
+    },
+    {
+      "id": "95.08.03.2005",
+      "name": "Sirit",
+      "postal_code": "99543"
+    },
+    {
+      "id": "95.08.03.2006",
+      "name": "Disendobo",
+      "postal_code": "99543"
+    },
+    {
+      "id": "95.08.03.2007",
+      "name": "Sumbo",
+      "postal_code": "99543"
+    },
+    {
+      "id": "95.08.03.2008",
+      "name": "Yebadolma",
+      "postal_code": "99543"
+    },
+    {
+      "id": "95.08.03.2009",
+      "name": "Lumbukdumu",
+      "postal_code": "99919"
+    },
+    {
+      "id": "95.08.03.2010",
+      "name": "Wiritlak",
+      "postal_code": "99919"
+    },
+    {
+      "id": "95.08.03.2011",
+      "name": "Delsa",
+      "postal_code": "99919"
+    },
+    {
+      "id": "95.08.03.2012",
+      "name": "Borot",
+      "postal_code": "99919"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "19.71.02.1001",
+      "name": "Opas Indah",
+      "postal_code": "33121"
+    },
+    {
+      "id": "19.71.02.1002",
+      "name": "Gedung Nasional",
+      "postal_code": "33127"
+    },
+    {
+      "id": "19.71.02.1003",
+      "name": "Batin Tikal",
+      "postal_code": "33121"
+    },
+    {
+      "id": "19.71.02.1004",
+      "name": "Rawa Bangun",
+      "postal_code": "33121"
+    },
+    {
+      "id": "19.71.02.1005",
+      "name": "Kejaksaan",
+      "postal_code": "33123"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

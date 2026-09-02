@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "33.73.04.1001",
+      "name": "Kecandran",
+      "postal_code": "50723"
+    },
+    {
+      "id": "33.73.04.1002",
+      "name": "Dukuh",
+      "postal_code": "50722"
+    },
+    {
+      "id": "33.73.04.1003",
+      "name": "Mangunsari",
+      "postal_code": "50721"
+    },
+    {
+      "id": "33.73.04.1004",
+      "name": "Kalicacing",
+      "postal_code": "50724"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

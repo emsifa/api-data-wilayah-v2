@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "21.02.09.2002",
+      "name": "Sanglar",
+      "postal_code": "29665"
+    },
+    {
+      "id": "21.02.09.2003",
+      "name": "Tanjung Kilang",
+      "postal_code": "29665"
+    },
+    {
+      "id": "21.02.09.2004",
+      "name": "Semembang",
+      "postal_code": "29665"
+    },
+    {
+      "id": "21.02.09.2005",
+      "name": "Telaga Tujuh",
+      "postal_code": "29665"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

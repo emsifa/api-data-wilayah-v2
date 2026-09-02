@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "16.71.06.1005",
+      "name": "Lima Ilir",
+      "postal_code": "30115"
+    },
+    {
+      "id": "16.71.06.1006",
+      "name": "Tiga Ilir",
+      "postal_code": "30116"
+    },
+    {
+      "id": "16.71.06.1007",
+      "name": "Satu Ilir",
+      "postal_code": "30117"
+    },
+    {
+      "id": "16.71.06.1008",
+      "name": "Dua Ilir",
+      "postal_code": "30118"
+    },
+    {
+      "id": "16.71.06.1009",
+      "name": "Lawangkidul",
+      "postal_code": "30111"
+    },
+    {
+      "id": "16.71.06.1012",
+      "name": "Sungaibuah",
+      "postal_code": "30111"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

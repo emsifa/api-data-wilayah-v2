@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.21.16.2001",
+      "name": "Gading",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.16.2002",
+      "name": "Huta Ruhom",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.16.2003",
+      "name": "Aek Siala",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.16.2004",
+      "name": "Bire",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.16.2005",
+      "name": "Sibontar",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.16.2006",
+      "name": "Para Napa Jae",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.16.2007",
+      "name": "Para Napa Dolok",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.16.2008",
+      "name": "Batusundung",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.16.2009",
+      "name": "Sidongdong",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.16.2010",
+      "name": "Sisalean",
+      "postal_code": "22755"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

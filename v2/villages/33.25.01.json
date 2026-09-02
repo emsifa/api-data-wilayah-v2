@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "33.25.01.2001",
+      "name": "Silurah",
+      "postal_code": "51253"
+    },
+    {
+      "id": "33.25.01.2002",
+      "name": "Sodong",
+      "postal_code": "51253"
+    },
+    {
+      "id": "33.25.01.2003",
+      "name": "Gringgingsari",
+      "postal_code": "51253"
+    },
+    {
+      "id": "33.25.01.2004",
+      "name": "Kedungmalang",
+      "postal_code": "51253"
+    },
+    {
+      "id": "33.25.01.2005",
+      "name": "Sendang",
+      "postal_code": "51253"
+    },
+    {
+      "id": "33.25.01.2006",
+      "name": "Wonotunggal",
+      "postal_code": "51253"
+    },
+    {
+      "id": "33.25.01.2007",
+      "name": "Brokoh",
+      "postal_code": "51253"
+    },
+    {
+      "id": "33.25.01.2008",
+      "name": "Wates",
+      "postal_code": "51253"
+    },
+    {
+      "id": "33.25.01.2009",
+      "name": "Brayo",
+      "postal_code": "51253"
+    },
+    {
+      "id": "33.25.01.2010",
+      "name": "Kemligi",
+      "postal_code": "51253"
+    },
+    {
+      "id": "33.25.01.2011",
+      "name": "Sigayam",
+      "postal_code": "51253"
+    },
+    {
+      "id": "33.25.01.2012",
+      "name": "Kreyo",
+      "postal_code": "51253"
+    },
+    {
+      "id": "33.25.01.2013",
+      "name": "Siwatu",
+      "postal_code": "51253"
+    },
+    {
+      "id": "33.25.01.2014",
+      "name": "Dringo",
+      "postal_code": "51253"
+    },
+    {
+      "id": "33.25.01.2015",
+      "name": "Penangkan",
+      "postal_code": "51253"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

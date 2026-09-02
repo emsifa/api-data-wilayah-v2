@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "63.10.12.2001",
+      "name": "Teluk Kepayang",
+      "postal_code": "72270"
+    },
+    {
+      "id": "63.10.12.2002",
+      "name": "Guntung",
+      "postal_code": "72270"
+    },
+    {
+      "id": "63.10.12.2003",
+      "name": "Mangkalapi",
+      "postal_code": "72270"
+    },
+    {
+      "id": "63.10.12.2004",
+      "name": "Tibarau Panjang",
+      "postal_code": "72270"
+    },
+    {
+      "id": "63.10.12.2005",
+      "name": "Darasan Binjai",
+      "postal_code": "72270"
+    },
+    {
+      "id": "63.10.12.2006",
+      "name": "Tapus",
+      "postal_code": "72270"
+    },
+    {
+      "id": "63.10.12.2007",
+      "name": "Hati'if",
+      "postal_code": "72270"
+    },
+    {
+      "id": "63.10.12.2008",
+      "name": "Batu Bulan",
+      "postal_code": "72270"
+    },
+    {
+      "id": "63.10.12.2009",
+      "name": "Tamunih",
+      "postal_code": "72270"
+    },
+    {
+      "id": "63.10.12.2010",
+      "name": "Dadap Kusan Raya",
+      "postal_code": "72270"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

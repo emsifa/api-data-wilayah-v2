@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "73.09.04.1001",
+      "name": "Baji Pa'mai",
+      "postal_code": "90516"
+    },
+    {
+      "id": "73.09.04.1002",
+      "name": "Pallantikang",
+      "postal_code": "90516"
+    },
+    {
+      "id": "73.09.04.1003",
+      "name": "Baju Bodoa",
+      "postal_code": "90515"
+    },
+    {
+      "id": "73.09.04.2004",
+      "name": "Borikamase",
+      "postal_code": "90512"
+    },
+    {
+      "id": "73.09.04.2005",
+      "name": "Mattirotasi",
+      "postal_code": "90511"
+    },
+    {
+      "id": "73.09.04.2006",
+      "name": "Majannang",
+      "postal_code": "90511"
+    },
+    {
+      "id": "73.09.04.2007",
+      "name": "Borimasunggu",
+      "postal_code": "90511"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "35.78.13.1001",
+      "name": "Alun-alun Contong",
+      "postal_code": "60174"
+    },
+    {
+      "id": "35.78.13.1002",
+      "name": "Bubutan",
+      "postal_code": "60174"
+    },
+    {
+      "id": "35.78.13.1003",
+      "name": "Gundih",
+      "postal_code": "60172"
+    },
+    {
+      "id": "35.78.13.1004",
+      "name": "Jepara",
+      "postal_code": "60171"
+    },
+    {
+      "id": "35.78.13.1005",
+      "name": "Tembok Dukuh",
+      "postal_code": "60173"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

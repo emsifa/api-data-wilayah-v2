@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "62.05.01.1001",
+      "name": "Montallat I",
+      "postal_code": "73861"
+    },
+    {
+      "id": "62.05.01.1002",
+      "name": "Montallat II",
+      "postal_code": "73861"
+    },
+    {
+      "id": "62.05.01.1003",
+      "name": "Tumpung Laung I",
+      "postal_code": "73861"
+    },
+    {
+      "id": "62.05.01.1004",
+      "name": "Tumpung Laung II",
+      "postal_code": "73861"
+    },
+    {
+      "id": "62.05.01.2005",
+      "name": "Sikan",
+      "postal_code": "73861"
+    },
+    {
+      "id": "62.05.01.2006",
+      "name": "Rubei",
+      "postal_code": "73861"
+    },
+    {
+      "id": "62.05.01.2007",
+      "name": "Pepas",
+      "postal_code": "73861"
+    },
+    {
+      "id": "62.05.01.2008",
+      "name": "Ruji",
+      "postal_code": "73861"
+    },
+    {
+      "id": "62.05.01.2009",
+      "name": "Paring Lahung",
+      "postal_code": "73861"
+    },
+    {
+      "id": "62.05.01.2010",
+      "name": "Kamawen",
+      "postal_code": "73861"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

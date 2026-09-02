@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "73.08.27.2001",
+      "name": "Patimpeng",
+      "postal_code": "92768"
+    },
+    {
+      "id": "73.08.27.2002",
+      "name": "Latellang",
+      "postal_code": "92768"
+    },
+    {
+      "id": "73.08.27.2003",
+      "name": "Maddenreng Pulu",
+      "postal_code": "92768"
+    },
+    {
+      "id": "73.08.27.2004",
+      "name": "Masago",
+      "postal_code": "92768"
+    },
+    {
+      "id": "73.08.27.2005",
+      "name": "Batu Lappa",
+      "postal_code": "92768"
+    },
+    {
+      "id": "73.08.27.2006",
+      "name": "Paccing",
+      "postal_code": "92768"
+    },
+    {
+      "id": "73.08.27.2007",
+      "name": "Massila",
+      "postal_code": "92768"
+    },
+    {
+      "id": "73.08.27.2008",
+      "name": "Talabangi",
+      "postal_code": "92768"
+    },
+    {
+      "id": "73.08.27.2009",
+      "name": "Pationgi",
+      "postal_code": "92768"
+    },
+    {
+      "id": "73.08.27.2010",
+      "name": "Bulu Ulaweng",
+      "postal_code": "92768"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "95.01.02.2001",
+      "name": "Jiwika",
+      "postal_code": "99521"
+    },
+    {
+      "id": "95.01.02.2002",
+      "name": "Mulima",
+      "postal_code": "99512"
+    },
+    {
+      "id": "95.01.02.2003",
+      "name": "Waga-Waga",
+      "postal_code": "99512"
+    },
+    {
+      "id": "95.01.02.2004",
+      "name": "Abusa",
+      "postal_code": "99512"
+    },
+    {
+      "id": "95.01.02.2005",
+      "name": "Eragama",
+      "postal_code": "99512"
+    },
+    {
+      "id": "95.01.02.2006",
+      "name": "Kumima",
+      "postal_code": "99521"
+    },
+    {
+      "id": "95.01.02.2007",
+      "name": "Menagaima",
+      "postal_code": "99521"
+    },
+    {
+      "id": "95.01.02.2008",
+      "name": "Iyantik",
+      "postal_code": "99512"
+    },
+    {
+      "id": "95.01.02.2009",
+      "name": "Umpagalo",
+      "postal_code": "99521"
+    },
+    {
+      "id": "95.01.02.2010",
+      "name": "Hopama",
+      "postal_code": "99512"
+    },
+    {
+      "id": "95.01.02.2011",
+      "name": "Obya",
+      "postal_code": "99521"
+    },
+    {
+      "id": "95.01.02.2012",
+      "name": "Utkolo Satu",
+      "postal_code": "99512"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

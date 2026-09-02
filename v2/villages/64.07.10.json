@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "64.07.10.2015",
+      "name": "Jerang Dayak",
+      "postal_code": "75774"
+    },
+    {
+      "id": "64.07.10.2016",
+      "name": "Mendung",
+      "postal_code": "75774"
+    },
+    {
+      "id": "64.07.10.2017",
+      "name": "Jerang Melayu",
+      "postal_code": "75774"
+    },
+    {
+      "id": "64.07.10.2018",
+      "name": "Dasaq",
+      "postal_code": "75774"
+    },
+    {
+      "id": "64.07.10.2020",
+      "name": "Tepian Ulaq",
+      "postal_code": "75774"
+    },
+    {
+      "id": "64.07.10.2021",
+      "name": "Sebelang",
+      "postal_code": "75774"
+    },
+    {
+      "id": "64.07.10.2022",
+      "name": "Muara Baroh",
+      "postal_code": "75774"
+    },
+    {
+      "id": "64.07.10.2023",
+      "name": "Teluk Tempudau",
+      "postal_code": "75774"
+    },
+    {
+      "id": "64.07.10.2024",
+      "name": "Tanjung Laong",
+      "postal_code": "75774"
+    },
+    {
+      "id": "64.07.10.2025",
+      "name": "Tanjung Pagar",
+      "postal_code": "75774"
+    },
+    {
+      "id": "64.07.10.2029",
+      "name": "Gunung Bayan",
+      "postal_code": "75774"
+    },
+    {
+      "id": "64.07.10.2030",
+      "name": "Muara Beloan",
+      "postal_code": "75774"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "11.74.02.2005",
+      "name": "Lhok Banie",
+      "postal_code": "24415"
+    },
+    {
+      "id": "11.74.02.2006",
+      "name": "PB. Teungoh",
+      "postal_code": "24415"
+    },
+    {
+      "id": "11.74.02.2007",
+      "name": "PB. Beuramo",
+      "postal_code": "24414"
+    },
+    {
+      "id": "11.74.02.2008",
+      "name": "Simpang Lhee",
+      "postal_code": "24451"
+    },
+    {
+      "id": "11.74.02.2009",
+      "name": "Seuriget",
+      "postal_code": "24415"
+    },
+    {
+      "id": "11.74.02.2015",
+      "name": "Matang Seulimeng",
+      "postal_code": "24413"
+    },
+    {
+      "id": "11.74.02.2016",
+      "name": "Sungai Pauh",
+      "postal_code": "24410"
+    },
+    {
+      "id": "11.74.02.2017",
+      "name": "Kuala Langsa",
+      "postal_code": "24410"
+    },
+    {
+      "id": "11.74.02.2018",
+      "name": "Teulaga Tujuh",
+      "postal_code": "24410"
+    },
+    {
+      "id": "11.74.02.2019",
+      "name": "Serambi Indah",
+      "postal_code": "24410"
+    },
+    {
+      "id": "11.74.02.2020",
+      "name": "Sungai Pauh Pusaka",
+      "postal_code": "24410"
+    },
+    {
+      "id": "11.74.02.2021",
+      "name": "Sungai Pauh Tanjong",
+      "postal_code": "24410"
+    },
+    {
+      "id": "11.74.02.2022",
+      "name": "Sungai Pauh Firdaus",
+      "postal_code": "24410"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

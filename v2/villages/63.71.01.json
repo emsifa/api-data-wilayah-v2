@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "63.71.01.1001",
+      "name": "Mantuil",
+      "postal_code": "70244"
+    },
+    {
+      "id": "63.71.01.1002",
+      "name": "Kelayan Selatan",
+      "postal_code": "70246"
+    },
+    {
+      "id": "63.71.01.1003",
+      "name": "Pekauman",
+      "postal_code": "70243"
+    },
+    {
+      "id": "63.71.01.1004",
+      "name": "Kelayan Barat",
+      "postal_code": "70241"
+    },
+    {
+      "id": "63.71.01.1005",
+      "name": "Kelayan Tengah",
+      "postal_code": "70242"
+    },
+    {
+      "id": "63.71.01.1006",
+      "name": "Kelayan Dalam",
+      "postal_code": "70242"
+    },
+    {
+      "id": "63.71.01.1007",
+      "name": "Murung Raya",
+      "postal_code": "70247"
+    },
+    {
+      "id": "63.71.01.1008",
+      "name": "Kelayan Timur",
+      "postal_code": "70247"
+    },
+    {
+      "id": "63.71.01.1009",
+      "name": "Tanjung Pagar",
+      "postal_code": "70247"
+    },
+    {
+      "id": "63.71.01.1010",
+      "name": "Pemurus Dalam",
+      "postal_code": "70248"
+    },
+    {
+      "id": "63.71.01.1011",
+      "name": "Pemurus Baru",
+      "postal_code": "70249"
+    },
+    {
+      "id": "63.71.01.1012",
+      "name": "Basirih Selatan",
+      "postal_code": "70245"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

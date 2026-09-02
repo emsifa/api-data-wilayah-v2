@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "35.14",
+    "name": "Kabupaten Pasuruan",
+    "capital": "Bangil",
+    "lat": -7.64901246028997,
+    "lng": 112.90515909654273,
+    "elv": 12,
+    "tz": 7,
+    "population": 1665922,
+    "total_area": 1493.161,
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

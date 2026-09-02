@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "32.18.07.2001",
+      "name": "Panyutran",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.18.07.2002",
+      "name": "Ciganjeng",
+      "postal_code": "46372"
+    },
+    {
+      "id": "32.18.07.2003",
+      "name": "Karangsari",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.18.07.2004",
+      "name": "Sukanagara",
+      "postal_code": "46267"
+    },
+    {
+      "id": "32.18.07.2005",
+      "name": "Paledah",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.18.07.2006",
+      "name": "Karangpawitan",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.18.07.2007",
+      "name": "Padaherang",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.18.07.2008",
+      "name": "Kedungwuluh",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.18.07.2009",
+      "name": "Cibogo",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.18.07.2010",
+      "name": "Pasirgeulis",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.18.07.2011",
+      "name": "Bojongsari",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.18.07.2012",
+      "name": "Sindangwangi",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.18.07.2013",
+      "name": "Maruyungsari",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.18.07.2014",
+      "name": "Karangmulya",
+      "postal_code": "46384"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

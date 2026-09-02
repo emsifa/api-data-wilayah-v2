@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "61.01.13.2001",
+      "name": "Singaraya",
+      "postal_code": "79457"
+    },
+    {
+      "id": "61.01.13.2002",
+      "name": "Semparuk",
+      "postal_code": "79457"
+    },
+    {
+      "id": "61.01.13.2003",
+      "name": "Sepinggan",
+      "postal_code": "79457"
+    },
+    {
+      "id": "61.01.13.2004",
+      "name": "Sepadu",
+      "postal_code": "79457"
+    },
+    {
+      "id": "61.01.13.2005",
+      "name": "Seburing",
+      "postal_code": "79457"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

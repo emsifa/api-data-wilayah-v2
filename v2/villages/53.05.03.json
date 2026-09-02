@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "53.05.03.1001",
+      "name": "Moru",
+      "postal_code": "85861"
+    },
+    {
+      "id": "53.05.03.2002",
+      "name": "Probur",
+      "postal_code": "85861"
+    },
+    {
+      "id": "53.05.03.2007",
+      "name": "Morba",
+      "postal_code": "85861"
+    },
+    {
+      "id": "53.05.03.2008",
+      "name": "Pintumas",
+      "postal_code": "85861"
+    },
+    {
+      "id": "53.05.03.2009",
+      "name": "Wolwal",
+      "postal_code": "85861"
+    },
+    {
+      "id": "53.05.03.2010",
+      "name": "Halerman",
+      "postal_code": "85861"
+    },
+    {
+      "id": "53.05.03.2013",
+      "name": "Kafelulang",
+      "postal_code": "85861"
+    },
+    {
+      "id": "53.05.03.2014",
+      "name": "Moramam",
+      "postal_code": "85861"
+    },
+    {
+      "id": "53.05.03.2015",
+      "name": "Pailelang",
+      "postal_code": "85861"
+    },
+    {
+      "id": "53.05.03.2016",
+      "name": "Wolwal Barat",
+      "postal_code": "85861"
+    },
+    {
+      "id": "53.05.03.2017",
+      "name": "Wolwal Tengah",
+      "postal_code": "85861"
+    },
+    {
+      "id": "53.05.03.2018",
+      "name": "Wolwal Selatan",
+      "postal_code": "85861"
+    },
+    {
+      "id": "53.05.03.2019",
+      "name": "Probur Utara",
+      "postal_code": "85861"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

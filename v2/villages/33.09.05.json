@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "33.09.05.1001",
+      "name": "Pulisen",
+      "postal_code": "57316"
+    },
+    {
+      "id": "33.09.05.1002",
+      "name": "Siswodipuran",
+      "postal_code": "57311"
+    },
+    {
+      "id": "33.09.05.1004",
+      "name": "Banaran",
+      "postal_code": "57313"
+    },
+    {
+      "id": "33.09.05.2003",
+      "name": "Karanggeneng",
+      "postal_code": "57312"
+    },
+    {
+      "id": "33.09.05.2005",
+      "name": "Winong",
+      "postal_code": "57315"
+    },
+    {
+      "id": "33.09.05.2006",
+      "name": "Penggung",
+      "postal_code": "57316"
+    },
+    {
+      "id": "33.09.05.2007",
+      "name": "Kiringan",
+      "postal_code": "57314"
+    },
+    {
+      "id": "33.09.05.2008",
+      "name": "Mudal",
+      "postal_code": "57316"
+    },
+    {
+      "id": "33.09.05.2009",
+      "name": "Kebonbimo",
+      "postal_code": "57316"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

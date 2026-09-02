@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "12.11.13.2001",
+      "name": "Sambaliang",
+      "postal_code": "22251"
+    },
+    {
+      "id": "12.11.13.2002",
+      "name": "Pasi",
+      "postal_code": "22251"
+    },
+    {
+      "id": "12.11.13.2003",
+      "name": "Banjar Toba",
+      "postal_code": "22251"
+    },
+    {
+      "id": "12.11.13.2004",
+      "name": "Berampu",
+      "postal_code": "22251"
+    },
+    {
+      "id": "12.11.13.2005",
+      "name": "Karing",
+      "postal_code": "22251"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

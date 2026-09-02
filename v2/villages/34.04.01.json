@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "34.04.01.2001",
+      "name": "Balecatur",
+      "postal_code": "55295"
+    },
+    {
+      "id": "34.04.01.2002",
+      "name": "Ambarketawang",
+      "postal_code": "55294"
+    },
+    {
+      "id": "34.04.01.2003",
+      "name": "Banyuraden",
+      "postal_code": "55293"
+    },
+    {
+      "id": "34.04.01.2004",
+      "name": "Nogotirto",
+      "postal_code": "55592"
+    },
+    {
+      "id": "34.04.01.2005",
+      "name": "Trihanggo",
+      "postal_code": "55291"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

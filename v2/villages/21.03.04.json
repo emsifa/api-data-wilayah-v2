@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "21.03.04.1003",
+      "name": "Sabang Barat",
+      "postal_code": "29784"
+    },
+    {
+      "id": "21.03.04.2001",
+      "name": "Sebelat",
+      "postal_code": "29784"
+    },
+    {
+      "id": "21.03.04.2005",
+      "name": "Air Putih",
+      "postal_code": "29784"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

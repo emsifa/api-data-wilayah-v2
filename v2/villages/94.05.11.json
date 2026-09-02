@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "94.05.11.2001",
+      "name": "Puluk",
+      "postal_code": "98953"
+    },
+    {
+      "id": "94.05.11.2002",
+      "name": "Kelandiruma",
+      "postal_code": "98953"
+    },
+    {
+      "id": "94.05.11.2003",
+      "name": "Pupet",
+      "postal_code": "98953"
+    },
+    {
+      "id": "94.05.11.2004",
+      "name": "Pilokoma",
+      "postal_code": "98953"
+    },
+    {
+      "id": "94.05.11.2005",
+      "name": "Gimurik",
+      "postal_code": "98953"
+    },
+    {
+      "id": "94.05.11.2006",
+      "name": "Wandibet",
+      "postal_code": "98953"
+    },
+    {
+      "id": "94.05.11.2007",
+      "name": "Meningimte",
+      "postal_code": "98953"
+    },
+    {
+      "id": "94.05.11.2008",
+      "name": "Bungok",
+      "postal_code": "98953"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

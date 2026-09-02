@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "73.09.13.2001",
+      "name": "Moncongloe",
+      "postal_code": "90564"
+    },
+    {
+      "id": "73.09.13.2002",
+      "name": "Moncongloe Bulu",
+      "postal_code": "90564"
+    },
+    {
+      "id": "73.09.13.2003",
+      "name": "Moncongloe Lappara",
+      "postal_code": "90564"
+    },
+    {
+      "id": "73.09.13.2004",
+      "name": "Bonto Bunga",
+      "postal_code": "90564"
+    },
+    {
+      "id": "73.09.13.2005",
+      "name": "Bonto Marannu",
+      "postal_code": "90564"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

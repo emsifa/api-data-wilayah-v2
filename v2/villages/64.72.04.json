@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "64.72.04.1001",
+      "name": "Selili",
+      "postal_code": "75114"
+    },
+    {
+      "id": "64.72.04.1002",
+      "name": "Sungai Dama",
+      "postal_code": "75115"
+    },
+    {
+      "id": "64.72.04.1003",
+      "name": "Sidomulyo",
+      "postal_code": "75116"
+    },
+    {
+      "id": "64.72.04.1013",
+      "name": "Sidodamai",
+      "postal_code": "75116"
+    },
+    {
+      "id": "64.72.04.1014",
+      "name": "Pelita",
+      "postal_code": "75117"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

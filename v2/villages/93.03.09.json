@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "93.03.09.2001",
+      "name": "Kabe",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.09.2002",
+      "name": "Kaumi",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.09.2003",
+      "name": "Kayagai",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.09.2004",
+      "name": "Ati",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.09.2005",
+      "name": "Upin",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.09.2006",
+      "name": "Taragai",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.09.2007",
+      "name": "Sene",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.09.2008",
+      "name": "Komru",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.09.2009",
+      "name": "Kofar",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.09.2010",
+      "name": "Sumuraman",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.09.2011",
+      "name": "Pano",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.09.2012",
+      "name": "Kogir",
+      "postal_code": "99872"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "11.08",
+    "name": "Kabupaten Aceh Utara",
+    "capital": "Lhoksukon",
+    "lat": 5.07571569194339,
+    "lng": 97.30262386768965,
+    "elv": 7,
+    "tz": 7,
+    "population": 641007,
+    "total_area": 2705.045,
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

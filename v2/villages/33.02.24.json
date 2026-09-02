@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "33.02.24.1001",
+      "name": "Karangklesem",
+      "postal_code": "53144"
+    },
+    {
+      "id": "33.02.24.1002",
+      "name": "Teluk",
+      "postal_code": "53145"
+    },
+    {
+      "id": "33.02.24.1003",
+      "name": "Berkoh",
+      "postal_code": "53146"
+    },
+    {
+      "id": "33.02.24.1004",
+      "name": "Purwokerto Kidul",
+      "postal_code": "53147"
+    },
+    {
+      "id": "33.02.24.1005",
+      "name": "Purwokerto Kulon",
+      "postal_code": "53141"
+    },
+    {
+      "id": "33.02.24.1006",
+      "name": "Karangpucung",
+      "postal_code": "53142"
+    },
+    {
+      "id": "33.02.24.1007",
+      "name": "Tanjung",
+      "postal_code": "53144"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

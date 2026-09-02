@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "21.05.09",
+    "name": "Jemaja Barat",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.05",
+      "name": "Kabupaten Kepulauan Anambas"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

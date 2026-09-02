@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.75.09.1001",
+      "name": "Jatimekar",
+      "postal_code": "17422"
+    },
+    {
+      "id": "32.75.09.1002",
+      "name": "Jatiasih",
+      "postal_code": "17423"
+    },
+    {
+      "id": "32.75.09.1003",
+      "name": "Jatikramat",
+      "postal_code": "17421"
+    },
+    {
+      "id": "32.75.09.1004",
+      "name": "Jatirasa",
+      "postal_code": "17424"
+    },
+    {
+      "id": "32.75.09.1005",
+      "name": "Jatiluhur",
+      "postal_code": "17425"
+    },
+    {
+      "id": "32.75.09.1006",
+      "name": "Jatisari",
+      "postal_code": "17426"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

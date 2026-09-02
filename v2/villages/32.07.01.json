@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "32.07.01.1001",
+      "name": "Ciamis",
+      "postal_code": "46211"
+    },
+    {
+      "id": "32.07.01.1002",
+      "name": "Kertasari",
+      "postal_code": "46213"
+    },
+    {
+      "id": "32.07.01.1003",
+      "name": "Maleber",
+      "postal_code": "46214"
+    },
+    {
+      "id": "32.07.01.1004",
+      "name": "Cigembor",
+      "postal_code": "46212"
+    },
+    {
+      "id": "32.07.01.1005",
+      "name": "Benteng",
+      "postal_code": "46217"
+    },
+    {
+      "id": "32.07.01.1006",
+      "name": "Linggasari",
+      "postal_code": "46216"
+    },
+    {
+      "id": "32.07.01.1007",
+      "name": "Sindangrasa",
+      "postal_code": "46215"
+    },
+    {
+      "id": "32.07.01.2008",
+      "name": "Pawindan",
+      "postal_code": "46218"
+    },
+    {
+      "id": "32.07.01.2009",
+      "name": "Cisadap",
+      "postal_code": "46215"
+    },
+    {
+      "id": "32.07.01.2010",
+      "name": "Imbanagara",
+      "postal_code": "46219"
+    },
+    {
+      "id": "32.07.01.2011",
+      "name": "Imbanagara Raya",
+      "postal_code": "46219"
+    },
+    {
+      "id": "32.07.01.2012",
+      "name": "Panyingkiran",
+      "postal_code": "46211"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

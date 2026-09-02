@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "61.09.07.2001",
+      "name": "Nanga Ansar",
+      "postal_code": "79588"
+    },
+    {
+      "id": "61.09.07.2002",
+      "name": "Padak",
+      "postal_code": "79588"
+    },
+    {
+      "id": "61.09.07.2003",
+      "name": "Setuntung",
+      "postal_code": "79588"
+    },
+    {
+      "id": "61.09.07.2004",
+      "name": "Belitang Satu",
+      "postal_code": "79588"
+    },
+    {
+      "id": "61.09.07.2005",
+      "name": "Belitang Dua",
+      "postal_code": "79588"
+    },
+    {
+      "id": "61.09.07.2006",
+      "name": "Menua Prama",
+      "postal_code": "79588"
+    },
+    {
+      "id": "61.09.07.2007",
+      "name": "Maboh Permai",
+      "postal_code": "79588"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

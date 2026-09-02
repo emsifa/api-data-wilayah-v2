@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "74.71.02.1009",
+      "name": "Kandai",
+      "postal_code": "93127"
+    },
+    {
+      "id": "74.71.02.1010",
+      "name": "Gunung Jati",
+      "postal_code": "93125"
+    },
+    {
+      "id": "74.71.02.1011",
+      "name": "Kampung Salo",
+      "postal_code": "93121"
+    },
+    {
+      "id": "74.71.02.1012",
+      "name": "Mangga Dua",
+      "postal_code": "93128"
+    },
+    {
+      "id": "74.71.02.1013",
+      "name": "Kendari Caddi",
+      "postal_code": "93126"
+    },
+    {
+      "id": "74.71.02.1014",
+      "name": "Kassilampe",
+      "postal_code": "93121"
+    },
+    {
+      "id": "74.71.02.1015",
+      "name": "Mata",
+      "postal_code": "93129"
+    },
+    {
+      "id": "74.71.02.1016",
+      "name": "Purirano",
+      "postal_code": "93121"
+    },
+    {
+      "id": "74.71.02.1017",
+      "name": "Jati Mekar",
+      "postal_code": "93121"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

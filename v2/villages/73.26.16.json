@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "73.26.16.2001",
+      "name": "Tondon Langi'",
+      "postal_code": "91857"
+    },
+    {
+      "id": "73.26.16.2002",
+      "name": "Tondon",
+      "postal_code": "91857"
+    },
+    {
+      "id": "73.26.16.2003",
+      "name": "Tondon Sibata",
+      "postal_code": "91857"
+    },
+    {
+      "id": "73.26.16.2004",
+      "name": "Tondon Matallo",
+      "postal_code": "91857"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

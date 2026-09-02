@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "34.02.10.2001",
+      "name": "Selopamioro",
+      "postal_code": "55782"
+    },
+    {
+      "id": "34.02.10.2002",
+      "name": "Sriharjo",
+      "postal_code": "55782"
+    },
+    {
+      "id": "34.02.10.2003",
+      "name": "Wukirsari",
+      "postal_code": "55782"
+    },
+    {
+      "id": "34.02.10.2004",
+      "name": "Kebonagung",
+      "postal_code": "55782"
+    },
+    {
+      "id": "34.02.10.2005",
+      "name": "Karangtengah",
+      "postal_code": "55782"
+    },
+    {
+      "id": "34.02.10.2006",
+      "name": "Girirejo",
+      "postal_code": "55782"
+    },
+    {
+      "id": "34.02.10.2007",
+      "name": "Karangtalun",
+      "postal_code": "55782"
+    },
+    {
+      "id": "34.02.10.2008",
+      "name": "Imogiri",
+      "postal_code": "55782"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

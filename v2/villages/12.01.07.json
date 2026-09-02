@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "12.01.07.1001",
+      "name": "Tapian Nauli II",
+      "postal_code": "22618"
+    },
+    {
+      "id": "12.01.07.2002",
+      "name": "Tapian Nauli I",
+      "postal_code": "22618"
+    },
+    {
+      "id": "12.01.07.2003",
+      "name": "Tapian Nauli III",
+      "postal_code": "22618"
+    },
+    {
+      "id": "12.01.07.2004",
+      "name": "Tapian Nauli IV",
+      "postal_code": "22618"
+    },
+    {
+      "id": "12.01.07.2005",
+      "name": "Aloban Bair",
+      "postal_code": "22618"
+    },
+    {
+      "id": "12.01.07.2006",
+      "name": "Mela Dolok",
+      "postal_code": "22618"
+    },
+    {
+      "id": "12.01.07.2007",
+      "name": "Mela I",
+      "postal_code": "22618"
+    },
+    {
+      "id": "12.01.07.2008",
+      "name": "Mela II",
+      "postal_code": "22618"
+    },
+    {
+      "id": "12.01.07.2009",
+      "name": "Bair",
+      "postal_code": "22618"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

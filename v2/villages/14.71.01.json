@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "14.71.01.1002",
+      "name": "Jadirejo",
+      "postal_code": "28126"
+    },
+    {
+      "id": "14.71.01.1003",
+      "name": "Kampung Tengah",
+      "postal_code": "28128"
+    },
+    {
+      "id": "14.71.01.1004",
+      "name": "Kampung Melayu",
+      "postal_code": "28124"
+    },
+    {
+      "id": "14.71.01.1005",
+      "name": "Kedung Sari",
+      "postal_code": "28123"
+    },
+    {
+      "id": "14.71.01.1006",
+      "name": "Harjosari",
+      "postal_code": "28122"
+    },
+    {
+      "id": "14.71.01.1007",
+      "name": "Sukajadi",
+      "postal_code": "28121"
+    },
+    {
+      "id": "14.71.01.1008",
+      "name": "Pulau Karomah",
+      "postal_code": "28127"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

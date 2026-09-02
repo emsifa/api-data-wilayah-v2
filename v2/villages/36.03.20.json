@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "36.03.20.1011",
+      "name": "Babakan",
+      "postal_code": "15820"
+    },
+    {
+      "id": "36.03.20.2002",
+      "name": "Caringin",
+      "postal_code": "15820"
+    },
+    {
+      "id": "36.03.20.2003",
+      "name": "Serdang Wetan",
+      "postal_code": "15820"
+    },
+    {
+      "id": "36.03.20.2004",
+      "name": "Babat",
+      "postal_code": "15820"
+    },
+    {
+      "id": "36.03.20.2005",
+      "name": "Ciangir",
+      "postal_code": "15820"
+    },
+    {
+      "id": "36.03.20.2006",
+      "name": "Legok",
+      "postal_code": "15820"
+    },
+    {
+      "id": "36.03.20.2007",
+      "name": "Palasari",
+      "postal_code": "15820"
+    },
+    {
+      "id": "36.03.20.2008",
+      "name": "Bojongkamal",
+      "postal_code": "15820"
+    },
+    {
+      "id": "36.03.20.2009",
+      "name": "Rancagong",
+      "postal_code": "15820"
+    },
+    {
+      "id": "36.03.20.2010",
+      "name": "Kemuning",
+      "postal_code": "15820"
+    },
+    {
+      "id": "36.03.20.2012",
+      "name": "Cirarab",
+      "postal_code": "15820"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

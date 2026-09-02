@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "73.05.06.1004",
+      "name": "Bontolebang",
+      "postal_code": "92255"
+    },
+    {
+      "id": "73.05.06.2001",
+      "name": "Pakkabba",
+      "postal_code": "92255"
+    },
+    {
+      "id": "73.05.06.2002",
+      "name": "Bontolanra",
+      "postal_code": "92255"
+    },
+    {
+      "id": "73.05.06.2003",
+      "name": "Aeng Batu Batu",
+      "postal_code": "92255"
+    },
+    {
+      "id": "73.05.06.2005",
+      "name": "Tamalate",
+      "postal_code": "92255"
+    },
+    {
+      "id": "73.05.06.2006",
+      "name": "Tamasaju",
+      "postal_code": "92255"
+    },
+    {
+      "id": "73.05.06.2007",
+      "name": "Bontosunggu",
+      "postal_code": "92255"
+    },
+    {
+      "id": "73.05.06.2010",
+      "name": "Aeng Towa",
+      "postal_code": "92255"
+    },
+    {
+      "id": "73.05.06.2011",
+      "name": "Bontokaddopepe",
+      "postal_code": "92255"
+    },
+    {
+      "id": "73.05.06.2012",
+      "name": "Sampulungan",
+      "postal_code": "92255"
+    },
+    {
+      "id": "73.05.06.2013",
+      "name": "Maccini Sombala",
+      "postal_code": "92255"
+    },
+    {
+      "id": "73.05.06.2014",
+      "name": "Sawakung Beba",
+      "postal_code": "92255"
+    },
+    {
+      "id": "73.05.06.2015",
+      "name": "Biring Kassi",
+      "postal_code": "92255"
+    },
+    {
+      "id": "73.05.06.2016",
+      "name": "Kaballokang Pakkabba",
+      "postal_code": "92255"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

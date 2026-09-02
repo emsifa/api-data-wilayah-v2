@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "51.71.02.1003",
+      "name": "Kesiman",
+      "postal_code": "80237"
+    },
+    {
+      "id": "51.71.02.1006",
+      "name": "Sumerta",
+      "postal_code": "80235"
+    },
+    {
+      "id": "51.71.02.1010",
+      "name": "Dangin Puri",
+      "postal_code": "80232"
+    },
+    {
+      "id": "51.71.02.1014",
+      "name": "Penatih",
+      "postal_code": "80238"
+    },
+    {
+      "id": "51.71.02.2001",
+      "name": "Dangin Puri Kelod",
+      "postal_code": "80234"
+    },
+    {
+      "id": "51.71.02.2002",
+      "name": "Sumerta Kelod",
+      "postal_code": "80239"
+    },
+    {
+      "id": "51.71.02.2004",
+      "name": "Kesiman Petilan",
+      "postal_code": "80237"
+    },
+    {
+      "id": "51.71.02.2005",
+      "name": "Kesiman Kertalangu",
+      "postal_code": "80237"
+    },
+    {
+      "id": "51.71.02.2007",
+      "name": "Sumerta Kaja",
+      "postal_code": "80236"
+    },
+    {
+      "id": "51.71.02.2008",
+      "name": "Sumerta Kauh",
+      "postal_code": "80236"
+    },
+    {
+      "id": "51.71.02.2015",
+      "name": "Penatih Dangin Puri",
+      "postal_code": "80238"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

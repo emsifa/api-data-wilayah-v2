@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "33.20.15.2001",
+      "name": "Lebak",
+      "postal_code": "59450"
+    },
+    {
+      "id": "33.20.15.2002",
+      "name": "Bulungan",
+      "postal_code": "59450"
+    },
+    {
+      "id": "33.20.15.2003",
+      "name": "Suwawal Timur",
+      "postal_code": "59450"
+    },
+    {
+      "id": "33.20.15.2004",
+      "name": "Kawak",
+      "postal_code": "59450"
+    },
+    {
+      "id": "33.20.15.2005",
+      "name": "Tanjung",
+      "postal_code": "59450"
+    },
+    {
+      "id": "33.20.15.2006",
+      "name": "Plajan",
+      "postal_code": "59450"
+    },
+    {
+      "id": "33.20.15.2007",
+      "name": "Slagi",
+      "postal_code": "59450"
+    },
+    {
+      "id": "33.20.15.2008",
+      "name": "Mambak",
+      "postal_code": "59450"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

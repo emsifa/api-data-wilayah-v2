@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "73.17.11.1001",
+      "name": "Padang Subur",
+      "postal_code": "91999"
+    },
+    {
+      "id": "73.17.11.1004",
+      "name": "Padang Sappa",
+      "postal_code": "91999"
+    },
+    {
+      "id": "73.17.11.2005",
+      "name": "Tirowali",
+      "postal_code": "91999"
+    },
+    {
+      "id": "73.17.11.2006",
+      "name": "Mario",
+      "postal_code": "91999"
+    },
+    {
+      "id": "73.17.11.2007",
+      "name": "Muladimeng",
+      "postal_code": "91999"
+    },
+    {
+      "id": "73.17.11.2013",
+      "name": "Buntu Kamiri",
+      "postal_code": "91999"
+    },
+    {
+      "id": "73.17.11.2014",
+      "name": "Tumale",
+      "postal_code": "91999"
+    },
+    {
+      "id": "73.17.11.2016",
+      "name": "Buntu Nanna",
+      "postal_code": "91999"
+    },
+    {
+      "id": "73.17.11.2017",
+      "name": "Tampa",
+      "postal_code": "91999"
+    },
+    {
+      "id": "73.17.11.2019",
+      "name": "Parekaju",
+      "postal_code": "91999"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

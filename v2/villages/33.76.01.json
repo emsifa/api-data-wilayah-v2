@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "33.76.01.1001",
+      "name": "Pesurungan Kidul",
+      "postal_code": "52117"
+    },
+    {
+      "id": "33.76.01.1002",
+      "name": "Debong Lor",
+      "postal_code": "52115"
+    },
+    {
+      "id": "33.76.01.1003",
+      "name": "Kemandungan",
+      "postal_code": "52114"
+    },
+    {
+      "id": "33.76.01.1004",
+      "name": "Pekauman",
+      "postal_code": "52125"
+    },
+    {
+      "id": "33.76.01.1005",
+      "name": "Kraton",
+      "postal_code": "52112"
+    },
+    {
+      "id": "33.76.01.1006",
+      "name": "Tegalsari",
+      "postal_code": "52111"
+    },
+    {
+      "id": "33.76.01.1007",
+      "name": "Muarareja",
+      "postal_code": "52117"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "74.08.01.1001",
+      "name": "Lasusua",
+      "postal_code": "93911"
+    },
+    {
+      "id": "74.08.01.2002",
+      "name": "Pitulua",
+      "postal_code": "93915"
+    },
+    {
+      "id": "74.08.01.2003",
+      "name": "Rante Limbong",
+      "postal_code": "93916"
+    },
+    {
+      "id": "74.08.01.2006",
+      "name": "Totallang",
+      "postal_code": "93916"
+    },
+    {
+      "id": "74.08.01.2007",
+      "name": "Tojabi",
+      "postal_code": "93916"
+    },
+    {
+      "id": "74.08.01.2008",
+      "name": "Ponggiha",
+      "postal_code": "93912"
+    },
+    {
+      "id": "74.08.01.2009",
+      "name": "Watuliwu",
+      "postal_code": "93916"
+    },
+    {
+      "id": "74.08.01.2010",
+      "name": "Sulaho",
+      "postal_code": "93916"
+    },
+    {
+      "id": "74.08.01.2015",
+      "name": "Patowonua",
+      "postal_code": "93916"
+    },
+    {
+      "id": "74.08.01.2016",
+      "name": "Babussalam",
+      "postal_code": "93916"
+    },
+    {
+      "id": "74.08.01.2017",
+      "name": "Batu Ganda Permai",
+      "postal_code": "93916"
+    },
+    {
+      "id": "74.08.01.2018",
+      "name": "Puncak Monapa",
+      "postal_code": "93916"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

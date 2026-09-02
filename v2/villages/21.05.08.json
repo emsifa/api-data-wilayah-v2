@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "21.05.08.2001",
+      "name": "Mubur",
+      "postal_code": "29796"
+    },
+    {
+      "id": "21.05.08.2002",
+      "name": "Piasan",
+      "postal_code": "29796"
+    },
+    {
+      "id": "21.05.08.2003",
+      "name": "Bayat",
+      "postal_code": "29796"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

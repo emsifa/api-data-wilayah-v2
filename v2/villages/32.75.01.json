@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.75.01.1001",
+      "name": "Bekasijaya",
+      "postal_code": "17112"
+    },
+    {
+      "id": "32.75.01.1002",
+      "name": "Margahayu",
+      "postal_code": "17113"
+    },
+    {
+      "id": "32.75.01.1003",
+      "name": "Durenjaya",
+      "postal_code": "17111"
+    },
+    {
+      "id": "32.75.01.1004",
+      "name": "Arenjaya",
+      "postal_code": "17111"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

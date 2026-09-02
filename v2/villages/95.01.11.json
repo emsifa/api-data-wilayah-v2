@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "95.01.11.2001",
+      "name": "Yalengga",
+      "postal_code": "99549"
+    },
+    {
+      "id": "95.01.11.2002",
+      "name": "Taganik",
+      "postal_code": "99549"
+    },
+    {
+      "id": "95.01.11.2003",
+      "name": "Wananuk",
+      "postal_code": "99518"
+    },
+    {
+      "id": "95.01.11.2004",
+      "name": "Pilimo",
+      "postal_code": "99549"
+    },
+    {
+      "id": "95.01.11.2005",
+      "name": "Tumun",
+      "postal_code": "99518"
+    },
+    {
+      "id": "95.01.11.2006",
+      "name": "Akorek",
+      "postal_code": "99549"
+    },
+    {
+      "id": "95.01.11.2007",
+      "name": "Manili",
+      "postal_code": "99549"
+    },
+    {
+      "id": "95.01.11.2008",
+      "name": "Aipakma",
+      "postal_code": "99549"
+    },
+    {
+      "id": "95.01.11.2009",
+      "name": "Wugurima",
+      "postal_code": "99549"
+    },
+    {
+      "id": "95.01.11.2010",
+      "name": "Bitti",
+      "postal_code": "99549"
+    },
+    {
+      "id": "95.01.11.2011",
+      "name": "Wamanuk Dua",
+      "postal_code": "99518"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

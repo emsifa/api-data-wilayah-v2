@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "53.07.03.2001",
+      "name": "Lela",
+      "postal_code": "86161"
+    },
+    {
+      "id": "53.07.03.2002",
+      "name": "Watutedang",
+      "postal_code": "86161"
+    },
+    {
+      "id": "53.07.03.2003",
+      "name": "Korowuwu",
+      "postal_code": "86161"
+    },
+    {
+      "id": "53.07.03.2004",
+      "name": "Kolidetung",
+      "postal_code": "86161"
+    },
+    {
+      "id": "53.07.03.2005",
+      "name": "Sikka",
+      "postal_code": "86161"
+    },
+    {
+      "id": "53.07.03.2006",
+      "name": "Iligai",
+      "postal_code": "86161"
+    },
+    {
+      "id": "53.07.03.2007",
+      "name": "Hepang",
+      "postal_code": "86161"
+    },
+    {
+      "id": "53.07.03.2008",
+      "name": "Baopaat",
+      "postal_code": "86161"
+    },
+    {
+      "id": "53.07.03.2009",
+      "name": "Du",
+      "postal_code": "86161"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

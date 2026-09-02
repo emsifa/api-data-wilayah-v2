@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "73.71.07.1001",
+      "name": "Pannampu",
+      "postal_code": "90213"
+    },
+    {
+      "id": "73.71.07.1002",
+      "name": "Kalukuang",
+      "postal_code": "90214"
+    },
+    {
+      "id": "73.71.07.1003",
+      "name": "Kaluku Bodoa",
+      "postal_code": "90215"
+    },
+    {
+      "id": "73.71.07.1004",
+      "name": "Rappojawa",
+      "postal_code": "90215"
+    },
+    {
+      "id": "73.71.07.1005",
+      "name": "Rappokalling",
+      "postal_code": "90216"
+    },
+    {
+      "id": "73.71.07.1006",
+      "name": "Lakkang",
+      "postal_code": "90211"
+    },
+    {
+      "id": "73.71.07.1007",
+      "name": "Tallo",
+      "postal_code": "90212"
+    },
+    {
+      "id": "73.71.07.1008",
+      "name": "La'latang",
+      "postal_code": "90211"
+    },
+    {
+      "id": "73.71.07.1009",
+      "name": "Wala-Walaya",
+      "postal_code": "90217"
+    },
+    {
+      "id": "73.71.07.1010",
+      "name": "Tammua",
+      "postal_code": "90216"
+    },
+    {
+      "id": "73.71.07.1011",
+      "name": "Buloa",
+      "postal_code": "90212"
+    },
+    {
+      "id": "73.71.07.1012",
+      "name": "Suangga",
+      "postal_code": "90211"
+    },
+    {
+      "id": "73.71.07.1013",
+      "name": "Ujung Pandang Baru",
+      "postal_code": "90217"
+    },
+    {
+      "id": "73.71.07.1014",
+      "name": "Lembo",
+      "postal_code": "90213"
+    },
+    {
+      "id": "73.71.07.1015",
+      "name": "Bunga Eja Beru",
+      "postal_code": "90211"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

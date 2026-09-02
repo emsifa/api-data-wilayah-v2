@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "16.09.02.2012",
+      "name": "Tanjung Bulan",
+      "postal_code": "32273"
+    },
+    {
+      "id": "16.09.02.2013",
+      "name": "Pulau Beringin",
+      "postal_code": "32273"
+    },
+    {
+      "id": "16.09.02.2014",
+      "name": "Aromantai",
+      "postal_code": "32273"
+    },
+    {
+      "id": "16.09.02.2015",
+      "name": "Tanjung Kari",
+      "postal_code": "32273"
+    },
+    {
+      "id": "16.09.02.2016",
+      "name": "Simpang Pancur",
+      "postal_code": "32273"
+    },
+    {
+      "id": "16.09.02.2017",
+      "name": "Pagar Agung",
+      "postal_code": "32273"
+    },
+    {
+      "id": "16.09.02.2018",
+      "name": "Gunung Batu",
+      "postal_code": "32273"
+    },
+    {
+      "id": "16.09.02.2019",
+      "name": "Kemu",
+      "postal_code": "32273"
+    },
+    {
+      "id": "16.09.02.2020",
+      "name": "Anugerah Kemu",
+      "postal_code": "32273"
+    },
+    {
+      "id": "16.09.02.2021",
+      "name": "Kemu Ulu",
+      "postal_code": "32273"
+    },
+    {
+      "id": "16.09.02.2022",
+      "name": "Pematang Obar",
+      "postal_code": "32273"
+    },
+    {
+      "id": "16.09.02.2023",
+      "name": "Tanjung Bulan Ulu",
+      "postal_code": "32273"
+    },
+    {
+      "id": "16.09.02.2024",
+      "name": "Pulau Beringin Utara",
+      "postal_code": "32273"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

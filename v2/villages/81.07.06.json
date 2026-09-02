@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "81.07.06.2002",
+      "name": "Waifual",
+      "postal_code": "97664"
+    },
+    {
+      "id": "81.07.06.2003",
+      "name": "Wafan",
+      "postal_code": "97664"
+    },
+    {
+      "id": "81.07.06.2004",
+      "name": "Langhalau",
+      "postal_code": "97664"
+    },
+    {
+      "id": "81.07.06.2005",
+      "name": "Gomsey",
+      "postal_code": "97664"
+    },
+    {
+      "id": "81.07.06.2006",
+      "name": "Leiting",
+      "postal_code": "97664"
+    },
+    {
+      "id": "81.07.06.2007",
+      "name": "Bardefan",
+      "postal_code": "97664"
+    },
+    {
+      "id": "81.07.06.2008",
+      "name": "Mohongsel",
+      "postal_code": "97664"
+    },
+    {
+      "id": "81.07.06.2009",
+      "name": "Kolaha",
+      "postal_code": "97664"
+    },
+    {
+      "id": "81.07.06.2010",
+      "name": "Goda-Goda",
+      "postal_code": "97664"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

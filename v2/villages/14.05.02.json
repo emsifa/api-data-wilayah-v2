@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "14.05.02.1007",
+      "name": "Pangkalan Kerinci Barat",
+      "postal_code": "28381"
+    },
+    {
+      "id": "14.05.02.1008",
+      "name": "Pangkalan Kerinci Kota",
+      "postal_code": "28381"
+    },
+    {
+      "id": "14.05.02.1009",
+      "name": "Pangkalan Kerinci Timur",
+      "postal_code": "28381"
+    },
+    {
+      "id": "14.05.02.2001",
+      "name": "Mekar Jaya",
+      "postal_code": "28381"
+    },
+    {
+      "id": "14.05.02.2002",
+      "name": "Kuala Terusan",
+      "postal_code": "28381"
+    },
+    {
+      "id": "14.05.02.2003",
+      "name": "Makmur",
+      "postal_code": "28381"
+    },
+    {
+      "id": "14.05.02.2005",
+      "name": "Rantau Baru",
+      "postal_code": "28381"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

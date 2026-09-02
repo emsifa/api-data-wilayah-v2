@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "33.22.15.1004",
+      "name": "Pringapus",
+      "postal_code": "50214"
+    },
+    {
+      "id": "33.22.15.2001",
+      "name": "Klepu",
+      "postal_code": "50552"
+    },
+    {
+      "id": "33.22.15.2002",
+      "name": "Derekan",
+      "postal_code": "50214"
+    },
+    {
+      "id": "33.22.15.2003",
+      "name": "Jatirunggo",
+      "postal_code": "50214"
+    },
+    {
+      "id": "33.22.15.2005",
+      "name": "Pringsari",
+      "postal_code": "50214"
+    },
+    {
+      "id": "33.22.15.2006",
+      "name": "Wonorejo",
+      "postal_code": "50212"
+    },
+    {
+      "id": "33.22.15.2007",
+      "name": "Wonoyoso",
+      "postal_code": "50214"
+    },
+    {
+      "id": "33.22.15.2008",
+      "name": "Candirejo",
+      "postal_code": "50214"
+    },
+    {
+      "id": "33.22.15.2009",
+      "name": "Penawangan",
+      "postal_code": "50513"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

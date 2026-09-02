@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "14.09.03.1003",
+      "name": "Muara Lembu",
+      "postal_code": "29563"
+    },
+    {
+      "id": "14.09.03.2001",
+      "name": "Pangkalan Indarung",
+      "postal_code": "29563"
+    },
+    {
+      "id": "14.09.03.2002",
+      "name": "Pulaupadang",
+      "postal_code": "29563"
+    },
+    {
+      "id": "14.09.03.2004",
+      "name": "Logas",
+      "postal_code": "29563"
+    },
+    {
+      "id": "14.09.03.2005",
+      "name": "Kebun Lado",
+      "postal_code": "29563"
+    },
+    {
+      "id": "14.09.03.2006",
+      "name": "Sungaikuning",
+      "postal_code": "29563"
+    },
+    {
+      "id": "14.09.03.2007",
+      "name": "Sungaisirih",
+      "postal_code": "29563"
+    },
+    {
+      "id": "14.09.03.2008",
+      "name": "Sungaibawang",
+      "postal_code": "29563"
+    },
+    {
+      "id": "14.09.03.2009",
+      "name": "Air Emas",
+      "postal_code": "29563"
+    },
+    {
+      "id": "14.09.03.2010",
+      "name": "Pasir Emas",
+      "postal_code": "29563"
+    },
+    {
+      "id": "14.09.03.2011",
+      "name": "Petai Baru",
+      "postal_code": "29563"
+    },
+    {
+      "id": "14.09.03.2012",
+      "name": "Sungaikeranji",
+      "postal_code": "29563"
+    },
+    {
+      "id": "14.09.03.2013",
+      "name": "Sumber Datar",
+      "postal_code": "29563"
+    },
+    {
+      "id": "14.09.03.2014",
+      "name": "Logas Hilir",
+      "postal_code": "29563"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

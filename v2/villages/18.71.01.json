@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "18.71.01.1003",
+      "name": "Kedaton",
+      "postal_code": "35141"
+    },
+    {
+      "id": "18.71.01.1004",
+      "name": "Surabaya",
+      "postal_code": "35148"
+    },
+    {
+      "id": "18.71.01.1005",
+      "name": "Sukamenanti",
+      "postal_code": "35146"
+    },
+    {
+      "id": "18.71.01.1006",
+      "name": "Sidodadi",
+      "postal_code": "35147"
+    },
+    {
+      "id": "18.71.01.1009",
+      "name": "Sukamenanti Baru",
+      "postal_code": "35146"
+    },
+    {
+      "id": "18.71.01.1010",
+      "name": "Penengahan",
+      "postal_code": "35112"
+    },
+    {
+      "id": "18.71.01.1012",
+      "name": "Penengahan Raya",
+      "postal_code": "35112"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

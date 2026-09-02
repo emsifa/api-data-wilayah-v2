@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "61.06.04.2001",
+      "name": "Banua Martinus",
+      "postal_code": "78755"
+    },
+    {
+      "id": "61.06.04.2002",
+      "name": "Menua Sadap",
+      "postal_code": "78755"
+    },
+    {
+      "id": "61.06.04.2003",
+      "name": "Pulau Manak",
+      "postal_code": "78755"
+    },
+    {
+      "id": "61.06.04.2004",
+      "name": "Banua Ujung",
+      "postal_code": "78755"
+    },
+    {
+      "id": "61.06.04.2005",
+      "name": "Saujung Giling Manik",
+      "postal_code": "78755"
+    },
+    {
+      "id": "61.06.04.2006",
+      "name": "Ulak Pauk",
+      "postal_code": "78755"
+    },
+    {
+      "id": "61.06.04.2007",
+      "name": "Langan Baru",
+      "postal_code": "78755"
+    },
+    {
+      "id": "61.06.04.2008",
+      "name": "Batu Lintang",
+      "postal_code": "78755"
+    },
+    {
+      "id": "61.06.04.2009",
+      "name": "Rantau Prapat",
+      "postal_code": "78755"
+    },
+    {
+      "id": "61.06.04.2010",
+      "name": "Tamao",
+      "postal_code": "78755"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

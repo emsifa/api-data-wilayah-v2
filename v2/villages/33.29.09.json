@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "id": "33.29.09.1002",
+      "name": "Brebes",
+      "postal_code": "52212"
+    },
+    {
+      "id": "33.29.09.1003",
+      "name": "Gandasuli",
+      "postal_code": "52215"
+    },
+    {
+      "id": "33.29.09.1011",
+      "name": "Limbangan Kulon",
+      "postal_code": "52219"
+    },
+    {
+      "id": "33.29.09.1012",
+      "name": "Limbangan Wetan",
+      "postal_code": "52218"
+    },
+    {
+      "id": "33.29.09.1015",
+      "name": "Pasarbatang",
+      "postal_code": "52211"
+    },
+    {
+      "id": "33.29.09.2001",
+      "name": "Banjaranyar",
+      "postal_code": "52216"
+    },
+    {
+      "id": "33.29.09.2004",
+      "name": "Kaligangsa Kulon",
+      "postal_code": "52217"
+    },
+    {
+      "id": "33.29.09.2005",
+      "name": "Kaligangsa Wetan",
+      "postal_code": "52217"
+    },
+    {
+      "id": "33.29.09.2006",
+      "name": "Kalimati",
+      "postal_code": "52219"
+    },
+    {
+      "id": "33.29.09.2007",
+      "name": "Kaliwlingi",
+      "postal_code": "52219"
+    },
+    {
+      "id": "33.29.09.2008",
+      "name": "Kedunguter",
+      "postal_code": "52219"
+    },
+    {
+      "id": "33.29.09.2009",
+      "name": "Krasak",
+      "postal_code": "52219"
+    },
+    {
+      "id": "33.29.09.2010",
+      "name": "Lembarawa",
+      "postal_code": "52219"
+    },
+    {
+      "id": "33.29.09.2013",
+      "name": "Padasugih",
+      "postal_code": "52214"
+    },
+    {
+      "id": "33.29.09.2014",
+      "name": "Pagejugan",
+      "postal_code": "52219"
+    },
+    {
+      "id": "33.29.09.2016",
+      "name": "Pemaron",
+      "postal_code": "52219"
+    },
+    {
+      "id": "33.29.09.2017",
+      "name": "Pulosari",
+      "postal_code": "52213"
+    },
+    {
+      "id": "33.29.09.2018",
+      "name": "Randusanga Kulon",
+      "postal_code": "52219"
+    },
+    {
+      "id": "33.29.09.2019",
+      "name": "Randusanga Wetan",
+      "postal_code": "52219"
+    },
+    {
+      "id": "33.29.09.2020",
+      "name": "Sigambir",
+      "postal_code": "52219"
+    },
+    {
+      "id": "33.29.09.2021",
+      "name": "Tengki",
+      "postal_code": "52219"
+    },
+    {
+      "id": "33.29.09.2022",
+      "name": "Terlangu",
+      "postal_code": "52219"
+    },
+    {
+      "id": "33.29.09.2023",
+      "name": "Wangandalem",
+      "postal_code": "52214"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

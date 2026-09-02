@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "82.04.22.2001",
+      "name": "Wayatim",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.22.2002",
+      "name": "Tomara",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.22.2003",
+      "name": "Tutupa",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.22.2004",
+      "name": "Tabapoma",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.22.2005",
+      "name": "Bibinoi",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.22.2006",
+      "name": "Songa",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.22.2007",
+      "name": "Tawa",
+      "postal_code": "97791"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

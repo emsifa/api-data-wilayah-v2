@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "id": "33.27.05.2001",
+      "name": "Longkeyang",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2002",
+      "name": "Jatingarang",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2003",
+      "name": "Gunungbatu",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2004",
+      "name": "Pasir",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2005",
+      "name": "Kwasen",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2006",
+      "name": "Jatiroyom",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2007",
+      "name": "Parunggalih",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2008",
+      "name": "Payung",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2009",
+      "name": "Cangak",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2010",
+      "name": "Kebandungan",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2011",
+      "name": "Kesesirejo",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2012",
+      "name": "Babakan",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2013",
+      "name": "Karangbrai",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2014",
+      "name": "Jraganan",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2015",
+      "name": "Kebandaran",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2016",
+      "name": "Bodeh",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2017",
+      "name": "Muncang",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2018",
+      "name": "Kelangdepok",
+      "postal_code": "52365"
+    },
+    {
+      "id": "33.27.05.2019",
+      "name": "Pendowo",
+      "postal_code": "52365"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "32.79.03",
+    "name": "Purwaharja",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.79",
+      "name": "Kota Banjar"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

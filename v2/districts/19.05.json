@@ -1,18 +1,32 @@
 {
-  "data": {
-    "id": "19.05",
-    "name": "Kabupaten Bangka Barat",
-    "province": {
-      "id": "19",
-      "name": "Kepulauan Bangka Belitung"
+  "data": [
+    {
+      "id": "19.05.01",
+      "name": "Mentok"
     },
-    "regency": {
-      "id": "19.05",
-      "name": "Kabupaten Bangka Barat"
+    {
+      "id": "19.05.02",
+      "name": "Simpang Teritip"
+    },
+    {
+      "id": "19.05.03",
+      "name": "Jebus"
+    },
+    {
+      "id": "19.05.04",
+      "name": "Kelapa"
+    },
+    {
+      "id": "19.05.05",
+      "name": "Tempilang"
+    },
+    {
+      "id": "19.05.06",
+      "name": "Parittiga"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

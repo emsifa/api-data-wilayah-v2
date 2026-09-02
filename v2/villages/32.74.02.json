@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.74.02.1001",
+      "name": "Pegambiran",
+      "postal_code": "45113"
+    },
+    {
+      "id": "32.74.02.1002",
+      "name": "Lemahwungkuk",
+      "postal_code": "45111"
+    },
+    {
+      "id": "32.74.02.1003",
+      "name": "Kesepuhan",
+      "postal_code": "45114"
+    },
+    {
+      "id": "32.74.02.1004",
+      "name": "Panjunan",
+      "postal_code": "45112"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

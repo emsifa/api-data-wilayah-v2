@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "35.78.23.1001",
+      "name": "Jambangan",
+      "postal_code": "60232"
+    },
+    {
+      "id": "35.78.23.1002",
+      "name": "Karah",
+      "postal_code": "60232"
+    },
+    {
+      "id": "35.78.23.1003",
+      "name": "Kebonsari",
+      "postal_code": "60233"
+    },
+    {
+      "id": "35.78.23.1004",
+      "name": "Pagesangan",
+      "postal_code": "60233"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

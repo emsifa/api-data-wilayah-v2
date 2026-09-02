@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "33.02.20.2001",
+      "name": "Ledug",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2002",
+      "name": "Pliken",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2003",
+      "name": "Purwodadi",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2004",
+      "name": "Karang Tengah",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2005",
+      "name": "Kramat",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2006",
+      "name": "Sambeng Wetan",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2007",
+      "name": "Sambeng Kulon",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2008",
+      "name": "Purbadana",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2009",
+      "name": "Kembaran",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2010",
+      "name": "Bojongsari",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2011",
+      "name": "Karangsoka",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2012",
+      "name": "Dukuhwaluh",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2013",
+      "name": "Tambaksari Kidul",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2014",
+      "name": "Bantarwuni",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2015",
+      "name": "Karangsari",
+      "postal_code": "53182"
+    },
+    {
+      "id": "33.02.20.2016",
+      "name": "Linggasari",
+      "postal_code": "53182"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

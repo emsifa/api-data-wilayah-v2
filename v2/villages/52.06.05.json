@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "52.06.05.2001",
+      "name": "Tarlawi",
+      "postal_code": "84184"
+    },
+    {
+      "id": "52.06.05.2005",
+      "name": "Ntori",
+      "postal_code": "84184"
+    },
+    {
+      "id": "52.06.05.2006",
+      "name": "Maria",
+      "postal_code": "84184"
+    },
+    {
+      "id": "52.06.05.2007",
+      "name": "Pesa",
+      "postal_code": "84184"
+    },
+    {
+      "id": "52.06.05.2008",
+      "name": "Raba",
+      "postal_code": "84184"
+    },
+    {
+      "id": "52.06.05.2011",
+      "name": "Kambilo",
+      "postal_code": "84184"
+    },
+    {
+      "id": "52.06.05.2012",
+      "name": "Maria Utara",
+      "postal_code": "84184"
+    },
+    {
+      "id": "52.06.05.2013",
+      "name": "Kombo",
+      "postal_code": "84184"
+    },
+    {
+      "id": "52.06.05.2014",
+      "name": "Riamau",
+      "postal_code": "84184"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

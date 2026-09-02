@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.18.06.2001",
+      "name": "Sukamaju",
+      "postal_code": "46371"
+    },
+    {
+      "id": "32.18.06.2002",
+      "name": "Kertajaya",
+      "postal_code": "46371"
+    },
+    {
+      "id": "32.18.06.2003",
+      "name": "Mangunjaya",
+      "postal_code": "46371"
+    },
+    {
+      "id": "32.18.06.2004",
+      "name": "Sindangjaya",
+      "postal_code": "46371"
+    },
+    {
+      "id": "32.18.06.2005",
+      "name": "Jangraga",
+      "postal_code": "46371"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

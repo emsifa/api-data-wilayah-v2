@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "21.01.04.1005",
+      "name": "Kawal",
+      "postal_code": "29155"
+    },
+    {
+      "id": "21.01.04.2001",
+      "name": "Gunung Kijang",
+      "postal_code": "29155"
+    },
+    {
+      "id": "21.01.04.2002",
+      "name": "Malang Rapat",
+      "postal_code": "29155"
+    },
+    {
+      "id": "21.01.04.2003",
+      "name": "Teluk Bakau",
+      "postal_code": "29155"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

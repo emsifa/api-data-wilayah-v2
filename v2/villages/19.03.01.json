@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "19.03.01.1001",
+      "name": "Toboali",
+      "postal_code": "33783"
+    },
+    {
+      "id": "19.03.01.1002",
+      "name": "Teladan",
+      "postal_code": "33783"
+    },
+    {
+      "id": "19.03.01.1003",
+      "name": "Tanjung Ketapang",
+      "postal_code": "33783"
+    },
+    {
+      "id": "19.03.01.2004",
+      "name": "Serdang",
+      "postal_code": "33783"
+    },
+    {
+      "id": "19.03.01.2005",
+      "name": "Jeriji",
+      "postal_code": "33783"
+    },
+    {
+      "id": "19.03.01.2006",
+      "name": "Bikang",
+      "postal_code": "33783"
+    },
+    {
+      "id": "19.03.01.2007",
+      "name": "Gadung",
+      "postal_code": "33783"
+    },
+    {
+      "id": "19.03.01.2008",
+      "name": "Rias",
+      "postal_code": "33783"
+    },
+    {
+      "id": "19.03.01.2010",
+      "name": "Kepoh",
+      "postal_code": "33783"
+    },
+    {
+      "id": "19.03.01.2012",
+      "name": "Keposang",
+      "postal_code": "33783"
+    },
+    {
+      "id": "19.03.01.2013",
+      "name": "Rindik",
+      "postal_code": "33783"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "12.12.06.2001",
+      "name": "Natumingka",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.06.2002",
+      "name": "Pangururan",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.06.2003",
+      "name": "Pardomuan Nauli",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.06.2004",
+      "name": "Lintong",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.06.2005",
+      "name": "Rianiate",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.06.2006",
+      "name": "Aek Unsim",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.06.2007",
+      "name": "Purba Tua",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.06.2008",
+      "name": "Janji Maria",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.06.2009",
+      "name": "Pangururan II",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.06.2010",
+      "name": "Pangururan III",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.06.2011",
+      "name": "Hutagurgur",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.06.2012",
+      "name": "Simare",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.06.2013",
+      "name": "Lumban Sewa",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.06.2014",
+      "name": "Riganjang",
+      "postal_code": "22383"
+    },
+    {
+      "id": "12.12.06.2015",
+      "name": "Pasar Borbor",
+      "postal_code": "22383"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

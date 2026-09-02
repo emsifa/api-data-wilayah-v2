@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "75.04.11.2001",
+      "name": "Wonggarasi Timur",
+      "postal_code": "96465"
+    },
+    {
+      "id": "75.04.11.2002",
+      "name": "Bukit Harapan",
+      "postal_code": "96465"
+    },
+    {
+      "id": "75.04.11.2003",
+      "name": "Bohusami",
+      "postal_code": "96465"
+    },
+    {
+      "id": "75.04.11.2004",
+      "name": "Lembah Permai",
+      "postal_code": "96465"
+    },
+    {
+      "id": "75.04.11.2005",
+      "name": "Limbula",
+      "postal_code": "96469"
+    },
+    {
+      "id": "75.04.11.2006",
+      "name": "Yipilo",
+      "postal_code": "96469"
+    },
+    {
+      "id": "75.04.11.2007",
+      "name": "Tuweya",
+      "postal_code": "96469"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

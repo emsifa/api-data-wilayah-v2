@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "62.02.02.2004",
+      "name": "Rubung Buyung",
+      "postal_code": "74354"
+    },
+    {
+      "id": "62.02.02.2005",
+      "name": "Patai",
+      "postal_code": "74354"
+    },
+    {
+      "id": "62.02.02.2006",
+      "name": "Luwuk Ranggan",
+      "postal_code": "74354"
+    },
+    {
+      "id": "62.02.02.2007",
+      "name": "Jemaras",
+      "postal_code": "74354"
+    },
+    {
+      "id": "62.02.02.2008",
+      "name": "Cempaka Mulia Timur",
+      "postal_code": "74354"
+    },
+    {
+      "id": "62.02.02.2009",
+      "name": "Cempaka Mulia Barat",
+      "postal_code": "74354"
+    },
+    {
+      "id": "62.02.02.2010",
+      "name": "Luwuk Bunter",
+      "postal_code": "74354"
+    },
+    {
+      "id": "62.02.02.2011",
+      "name": "Sungai Paring",
+      "postal_code": "74354"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

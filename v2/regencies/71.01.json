@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "71.01",
+    "name": "Kabupaten Bolaang Mongondow",
+    "capital": "Lolak",
+    "lat": 0.8706059890875782,
+    "lng": 124.02440439997804,
+    "elv": 15,
+    "tz": 8,
+    "population": 257378,
+    "total_area": 3291.237,
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

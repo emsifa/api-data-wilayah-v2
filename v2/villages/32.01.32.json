@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.01.32.2001",
+      "name": "Klapanunggal",
+      "postal_code": "16710"
+    },
+    {
+      "id": "32.01.32.2002",
+      "name": "Bojong",
+      "postal_code": "16710"
+    },
+    {
+      "id": "32.01.32.2003",
+      "name": "Nambo",
+      "postal_code": "16710"
+    },
+    {
+      "id": "32.01.32.2004",
+      "name": "Lulut",
+      "postal_code": "16710"
+    },
+    {
+      "id": "32.01.32.2005",
+      "name": "Cikahuripan",
+      "postal_code": "16710"
+    },
+    {
+      "id": "32.01.32.2006",
+      "name": "Kembangkuning",
+      "postal_code": "16710"
+    },
+    {
+      "id": "32.01.32.2007",
+      "name": "Bantarjati",
+      "postal_code": "16710"
+    },
+    {
+      "id": "32.01.32.2008",
+      "name": "Leuwikaret",
+      "postal_code": "16710"
+    },
+    {
+      "id": "32.01.32.2009",
+      "name": "Ligarmukti",
+      "postal_code": "16710"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

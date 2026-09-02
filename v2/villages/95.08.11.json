@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "95.08.11.2001",
+      "name": "Paro",
+      "postal_code": "99916"
+    },
+    {
+      "id": "95.08.11.2002",
+      "name": "Lombrik",
+      "postal_code": "99916"
+    },
+    {
+      "id": "95.08.11.2003",
+      "name": "Animarem",
+      "postal_code": "99916"
+    },
+    {
+      "id": "95.08.11.2004",
+      "name": "Tawelma",
+      "postal_code": "99916"
+    },
+    {
+      "id": "95.08.11.2005",
+      "name": "Loaraba",
+      "postal_code": "99916"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

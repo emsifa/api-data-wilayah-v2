@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "21.72.02.1001",
+      "name": "Melayu Kota Piring",
+      "postal_code": "29123"
+    },
+    {
+      "id": "21.72.02.1002",
+      "name": "Kampung Bulang",
+      "postal_code": "29122"
+    },
+    {
+      "id": "21.72.02.1003",
+      "name": "Air Raja",
+      "postal_code": "29122"
+    },
+    {
+      "id": "21.72.02.1004",
+      "name": "Batu IX",
+      "postal_code": "29125"
+    },
+    {
+      "id": "21.72.02.1005",
+      "name": "Pinang Kencana",
+      "postal_code": "29122"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

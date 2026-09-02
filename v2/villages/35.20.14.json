@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "35.20.14.2001",
+      "name": "Karas",
+      "postal_code": "63393"
+    },
+    {
+      "id": "35.20.14.2002",
+      "name": "Sobontoro",
+      "postal_code": "63393"
+    },
+    {
+      "id": "35.20.14.2003",
+      "name": "Sumursongo",
+      "postal_code": "63393"
+    },
+    {
+      "id": "35.20.14.2004",
+      "name": "Taji",
+      "postal_code": "63393"
+    },
+    {
+      "id": "35.20.14.2005",
+      "name": "Kuwon",
+      "postal_code": "63393"
+    },
+    {
+      "id": "35.20.14.2006",
+      "name": "Jungke",
+      "postal_code": "63393"
+    },
+    {
+      "id": "35.20.14.2007",
+      "name": "Temboro",
+      "postal_code": "63393"
+    },
+    {
+      "id": "35.20.14.2008",
+      "name": "Temenggungan",
+      "postal_code": "63393"
+    },
+    {
+      "id": "35.20.14.2009",
+      "name": "Geplak",
+      "postal_code": "63393"
+    },
+    {
+      "id": "35.20.14.2010",
+      "name": "Botok",
+      "postal_code": "63393"
+    },
+    {
+      "id": "35.20.14.2011",
+      "name": "Ginuk",
+      "postal_code": "63393"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

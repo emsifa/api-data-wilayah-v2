@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "35.09.13.2001",
+      "name": "Nogosari",
+      "postal_code": "68152"
+    },
+    {
+      "id": "35.09.13.2002",
+      "name": "Curahmalang",
+      "postal_code": "68152"
+    },
+    {
+      "id": "35.09.13.2003",
+      "name": "Rowotamtu",
+      "postal_code": "68152"
+    },
+    {
+      "id": "35.09.13.2004",
+      "name": "Kaliwining",
+      "postal_code": "68152"
+    },
+    {
+      "id": "35.09.13.2005",
+      "name": "Pecoro",
+      "postal_code": "68152"
+    },
+    {
+      "id": "35.09.13.2006",
+      "name": "Rambipuji",
+      "postal_code": "68152"
+    },
+    {
+      "id": "35.09.13.2007",
+      "name": "Gugut",
+      "postal_code": "68152"
+    },
+    {
+      "id": "35.09.13.2008",
+      "name": "Rambigundam",
+      "postal_code": "68152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

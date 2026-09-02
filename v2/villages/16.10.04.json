@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": "16.10.04.1030",
+      "name": "Indralaya Raya",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.1031",
+      "name": "Indralaya Indah",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.1032",
+      "name": "Indralaya Mulia",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.2005",
+      "name": "Lubuk Sakti",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.2006",
+      "name": "Tanjung Gelam",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.2007",
+      "name": "Tanjung Agung",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.2008",
+      "name": "Tanjung Sejaro",
+      "postal_code": "30815"
+    },
+    {
+      "id": "16.10.04.2009",
+      "name": "Sakatiga Seberang",
+      "postal_code": "30814"
+    },
+    {
+      "id": "16.10.04.2010",
+      "name": "Muara P. Ulu",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.2012",
+      "name": "Tanjung Seteko",
+      "postal_code": "30817"
+    },
+    {
+      "id": "16.10.04.2013",
+      "name": "Saka Tiga",
+      "postal_code": "30816"
+    },
+    {
+      "id": "16.10.04.2014",
+      "name": "Ulak Banding",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.2015",
+      "name": "Muara P. Ilir",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.2016",
+      "name": "Talang Aur",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.2017",
+      "name": "Ulak Bedil",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.2018",
+      "name": "Penyandingan",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.2019",
+      "name": "Sudimampir",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.2027",
+      "name": "Ulak Segelung",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.2028",
+      "name": "Sejaro Sakti",
+      "postal_code": "30862"
+    },
+    {
+      "id": "16.10.04.2029",
+      "name": "Tunas Aur",
+      "postal_code": "30862"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

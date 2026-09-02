@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "34.02.15.2001",
+      "name": "Pendowoharjo",
+      "postal_code": "55185"
+    },
+    {
+      "id": "34.02.15.2002",
+      "name": "Timbulharjo",
+      "postal_code": "55186"
+    },
+    {
+      "id": "34.02.15.2003",
+      "name": "Bangunharjo",
+      "postal_code": "55188"
+    },
+    {
+      "id": "34.02.15.2004",
+      "name": "Panggungharjo",
+      "postal_code": "55188"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

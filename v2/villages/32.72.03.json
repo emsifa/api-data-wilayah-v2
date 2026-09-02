@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.72.03.1001",
+      "name": "Citamiang",
+      "postal_code": "43143"
+    },
+    {
+      "id": "32.72.03.1002",
+      "name": "Tipar",
+      "postal_code": "43141"
+    },
+    {
+      "id": "32.72.03.1003",
+      "name": "Nanggeleng",
+      "postal_code": "43145"
+    },
+    {
+      "id": "32.72.03.1004",
+      "name": "Gedong Panjang",
+      "postal_code": "43144"
+    },
+    {
+      "id": "32.72.03.1005",
+      "name": "Cikondang",
+      "postal_code": "43142"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

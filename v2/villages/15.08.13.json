@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "15.08.13.1001",
+      "name": "Pasir Putih",
+      "postal_code": "37215"
+    },
+    {
+      "id": "15.08.13.1002",
+      "name": "Cadika",
+      "postal_code": "37215"
+    },
+    {
+      "id": "15.08.13.2003",
+      "name": "Sungai Mengkuang",
+      "postal_code": "37215"
+    },
+    {
+      "id": "15.08.13.2004",
+      "name": "Sungai Buluh",
+      "postal_code": "37215"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

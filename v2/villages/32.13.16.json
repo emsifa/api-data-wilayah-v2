@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.13.16.2001",
+      "name": "Rancabango",
+      "postal_code": "41263"
+    },
+    {
+      "id": "32.13.16.2002",
+      "name": "Tanjungrasa",
+      "postal_code": "41263"
+    },
+    {
+      "id": "32.13.16.2003",
+      "name": "Ciberes",
+      "postal_code": "41263"
+    },
+    {
+      "id": "32.13.16.2004",
+      "name": "Jatiragas Hilir",
+      "postal_code": "41263"
+    },
+    {
+      "id": "32.13.16.2005",
+      "name": "Tambakjati",
+      "postal_code": "41263"
+    },
+    {
+      "id": "32.13.16.2006",
+      "name": "Rancajaya",
+      "postal_code": "41263"
+    },
+    {
+      "id": "32.13.16.2007",
+      "name": "Gempolsari",
+      "postal_code": "41263"
+    },
+    {
+      "id": "32.13.16.2008",
+      "name": "Tanjungrasa Kidul",
+      "postal_code": "41263"
+    },
+    {
+      "id": "32.13.16.2009",
+      "name": "Rancaasih",
+      "postal_code": "41263"
+    },
+    {
+      "id": "32.13.16.2010",
+      "name": "Rancamulya",
+      "postal_code": "41263"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

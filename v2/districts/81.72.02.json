@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "81.72.02",
+    "name": "Pulau Dullah Selatan",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.72",
+      "name": "Kota Tual"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

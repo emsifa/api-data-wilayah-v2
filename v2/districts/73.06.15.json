@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "73.06.15",
+    "name": "Bontolempangang",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.06",
+      "name": "Kabupaten Gowa"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

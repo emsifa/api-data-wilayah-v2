@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "72.05.09.2001",
+      "name": "Lokodidi",
+      "postal_code": "94568"
+    },
+    {
+      "id": "72.05.09.2002",
+      "name": "Matinan",
+      "postal_code": "94568"
+    },
+    {
+      "id": "72.05.09.2003",
+      "name": "Taat",
+      "postal_code": "94568"
+    },
+    {
+      "id": "72.05.09.2004",
+      "name": "Lokodoka",
+      "postal_code": "94568"
+    },
+    {
+      "id": "72.05.09.2005",
+      "name": "Labuton",
+      "postal_code": "94568"
+    },
+    {
+      "id": "72.05.09.2006",
+      "name": "Bulagidun",
+      "postal_code": "94568"
+    },
+    {
+      "id": "72.05.09.2007",
+      "name": "Diapati",
+      "postal_code": "94568"
+    },
+    {
+      "id": "72.05.09.2008",
+      "name": "Nandu",
+      "postal_code": "94568"
+    },
+    {
+      "id": "72.05.09.2009",
+      "name": "Lipubogu",
+      "postal_code": "94568"
+    },
+    {
+      "id": "72.05.09.2010",
+      "name": "Bulogidon Tanjung",
+      "postal_code": "94568"
+    },
+    {
+      "id": "72.05.09.2011",
+      "name": "Pandangan",
+      "postal_code": "94568"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

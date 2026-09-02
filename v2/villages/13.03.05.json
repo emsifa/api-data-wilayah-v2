@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.03.05.2001",
+      "name": "Palangki",
+      "postal_code": "27561"
+    },
+    {
+      "id": "13.03.05.2002",
+      "name": "Koto Baru",
+      "postal_code": "27561"
+    },
+    {
+      "id": "13.03.05.2003",
+      "name": "Muaro Bodi",
+      "postal_code": "27561"
+    },
+    {
+      "id": "13.03.05.2004",
+      "name": "Mundam Sakti",
+      "postal_code": "27561"
+    },
+    {
+      "id": "13.03.05.2005",
+      "name": "Koto Tuo",
+      "postal_code": "27561"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

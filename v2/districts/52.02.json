@@ -1,18 +1,56 @@
 {
-  "data": {
-    "id": "52.02",
-    "name": "Kabupaten Lombok Tengah",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
+  "data": [
+    {
+      "id": "52.02.01",
+      "name": "Praya"
     },
-    "regency": {
-      "id": "52.02",
-      "name": "Kabupaten Lombok Tengah"
+    {
+      "id": "52.02.02",
+      "name": "Jonggat"
+    },
+    {
+      "id": "52.02.03",
+      "name": "Batukliang"
+    },
+    {
+      "id": "52.02.04",
+      "name": "Pujut"
+    },
+    {
+      "id": "52.02.05",
+      "name": "Praya Barat"
+    },
+    {
+      "id": "52.02.06",
+      "name": "Praya Timur"
+    },
+    {
+      "id": "52.02.07",
+      "name": "Janapria"
+    },
+    {
+      "id": "52.02.08",
+      "name": "Pringgarata"
+    },
+    {
+      "id": "52.02.09",
+      "name": "Kopang"
+    },
+    {
+      "id": "52.02.10",
+      "name": "Praya Tengah"
+    },
+    {
+      "id": "52.02.11",
+      "name": "Praya Barat Daya"
+    },
+    {
+      "id": "52.02.12",
+      "name": "Batukliang Utara"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

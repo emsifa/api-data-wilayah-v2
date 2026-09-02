@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "73.15.03",
+    "name": "Mattiro Bulu",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.15",
+      "name": "Kabupaten Pinrang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

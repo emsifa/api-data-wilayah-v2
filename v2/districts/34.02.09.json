@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "34.02.09",
+    "name": "Jetis",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.02",
+      "name": "Kabupaten Bantul"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

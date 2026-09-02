@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "65.03.20.2001",
+      "name": "Sumentobol",
+      "postal_code": "77450"
+    },
+    {
+      "id": "65.03.20.2002",
+      "name": "Nantukidan",
+      "postal_code": "77450"
+    },
+    {
+      "id": "65.03.20.2003",
+      "name": "Labang",
+      "postal_code": "77450"
+    },
+    {
+      "id": "65.03.20.2004",
+      "name": "Sumantipal",
+      "postal_code": "77450"
+    },
+    {
+      "id": "65.03.20.2005",
+      "name": "Ngawol",
+      "postal_code": "77450"
+    },
+    {
+      "id": "65.03.20.2006",
+      "name": "Bululaun Hilir",
+      "postal_code": "77450"
+    },
+    {
+      "id": "65.03.20.2007",
+      "name": "Lagas",
+      "postal_code": "77450"
+    },
+    {
+      "id": "65.03.20.2008",
+      "name": "Panas",
+      "postal_code": "77450"
+    },
+    {
+      "id": "65.03.20.2009",
+      "name": "Langgason",
+      "postal_code": "77450"
+    },
+    {
+      "id": "65.03.20.2010",
+      "name": "Tantalujuk",
+      "postal_code": "77450"
+    },
+    {
+      "id": "65.03.20.2011",
+      "name": "Tambalang Hulu",
+      "postal_code": "77450"
+    },
+    {
+      "id": "65.03.20.2012",
+      "name": "Kuyo",
+      "postal_code": "77450"
+    },
+    {
+      "id": "65.03.20.2013",
+      "name": "Bokok",
+      "postal_code": "77450"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

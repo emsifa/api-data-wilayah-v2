@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.76.07.1001",
+      "name": "Cipayung",
+      "postal_code": "16437"
+    },
+    {
+      "id": "32.76.07.1002",
+      "name": "Cipayung Jaya",
+      "postal_code": "16437"
+    },
+    {
+      "id": "32.76.07.1003",
+      "name": "Ratu Jaya",
+      "postal_code": "16439"
+    },
+    {
+      "id": "32.76.07.1004",
+      "name": "Bojong Pondok Terong",
+      "postal_code": "16436"
+    },
+    {
+      "id": "32.76.07.1005",
+      "name": "Pondok Jaya",
+      "postal_code": "16438"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

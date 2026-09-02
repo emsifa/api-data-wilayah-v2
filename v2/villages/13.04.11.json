@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "13.04.11.2001",
+      "name": "Atar",
+      "postal_code": "27282"
+    },
+    {
+      "id": "13.04.11.2002",
+      "name": "Padang Ganting",
+      "postal_code": "27282"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

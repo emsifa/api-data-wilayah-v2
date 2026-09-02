@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "36.02.28.2001",
+      "name": "Peucangpari",
+      "postal_code": "42395"
+    },
+    {
+      "id": "36.02.28.2002",
+      "name": "Cibungur",
+      "postal_code": "42395"
+    },
+    {
+      "id": "36.02.28.2003",
+      "name": "Mugijaya",
+      "postal_code": "42395"
+    },
+    {
+      "id": "36.02.28.2004",
+      "name": "Cikate",
+      "postal_code": "42395"
+    },
+    {
+      "id": "36.02.28.2005",
+      "name": "Cigemblong",
+      "postal_code": "42395"
+    },
+    {
+      "id": "36.02.28.2006",
+      "name": "Cikadongdong",
+      "postal_code": "42395"
+    },
+    {
+      "id": "36.02.28.2007",
+      "name": "Cikaret",
+      "postal_code": "42395"
+    },
+    {
+      "id": "36.02.28.2008",
+      "name": "Wangunjaya",
+      "postal_code": "42395"
+    },
+    {
+      "id": "36.02.28.2009",
+      "name": "Cikaratuan",
+      "postal_code": "42395"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

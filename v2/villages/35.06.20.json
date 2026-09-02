@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "35.06.20.2001",
+      "name": "Kalirong",
+      "postal_code": "64152"
+    },
+    {
+      "id": "35.06.20.2002",
+      "name": "Kaliboto",
+      "postal_code": "64152"
+    },
+    {
+      "id": "35.06.20.2003",
+      "name": "Bulusari",
+      "postal_code": "64152"
+    },
+    {
+      "id": "35.06.20.2004",
+      "name": "Tarokan",
+      "postal_code": "64152"
+    },
+    {
+      "id": "35.06.20.2005",
+      "name": "Kedungsari",
+      "postal_code": "64152"
+    },
+    {
+      "id": "35.06.20.2006",
+      "name": "Sumberduren",
+      "postal_code": "64152"
+    },
+    {
+      "id": "35.06.20.2007",
+      "name": "Kerep",
+      "postal_code": "64152"
+    },
+    {
+      "id": "35.06.20.2008",
+      "name": "Blimbing",
+      "postal_code": "64152"
+    },
+    {
+      "id": "35.06.20.2009",
+      "name": "Jati",
+      "postal_code": "64152"
+    },
+    {
+      "id": "35.06.20.2010",
+      "name": "Cengkok",
+      "postal_code": "64152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

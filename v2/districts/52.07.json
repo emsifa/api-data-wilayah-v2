@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "52.07",
-    "name": "Kabupaten Sumbawa Barat",
-    "province": {
-      "id": "52",
-      "name": "Nusa Tenggara Barat"
+  "data": [
+    {
+      "id": "52.07.01",
+      "name": "Jereweh"
     },
-    "regency": {
-      "id": "52.07",
-      "name": "Kabupaten Sumbawa Barat"
+    {
+      "id": "52.07.02",
+      "name": "Taliwang"
+    },
+    {
+      "id": "52.07.03",
+      "name": "Seteluk"
+    },
+    {
+      "id": "52.07.04",
+      "name": "Sekongkang"
+    },
+    {
+      "id": "52.07.05",
+      "name": "Brang Rea"
+    },
+    {
+      "id": "52.07.06",
+      "name": "Poto Tano"
+    },
+    {
+      "id": "52.07.07",
+      "name": "Brang Ene"
+    },
+    {
+      "id": "52.07.08",
+      "name": "Maluk"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

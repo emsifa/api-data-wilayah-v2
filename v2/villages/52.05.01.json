@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "52.05.01.1001",
+      "name": "Bada",
+      "postal_code": "84211"
+    },
+    {
+      "id": "52.05.01.1002",
+      "name": "Bali",
+      "postal_code": "84213"
+    },
+    {
+      "id": "52.05.01.1003",
+      "name": "Potu",
+      "postal_code": "84214"
+    },
+    {
+      "id": "52.05.01.1004",
+      "name": "Karijawa",
+      "postal_code": "84217"
+    },
+    {
+      "id": "52.05.01.1005",
+      "name": "Dora Tangga",
+      "postal_code": "84219"
+    },
+    {
+      "id": "52.05.01.1006",
+      "name": "Kandai I",
+      "postal_code": "84219"
+    },
+    {
+      "id": "52.05.01.2007",
+      "name": "O'o",
+      "postal_code": "84219"
+    },
+    {
+      "id": "52.05.01.2008",
+      "name": "Katua",
+      "postal_code": "84219"
+    },
+    {
+      "id": "52.05.01.2009",
+      "name": "Karamabura",
+      "postal_code": "84219"
+    },
+    {
+      "id": "52.05.01.2010",
+      "name": "Mbawi",
+      "postal_code": "84219"
+    },
+    {
+      "id": "52.05.01.2011",
+      "name": "Dore Bara",
+      "postal_code": "84212"
+    },
+    {
+      "id": "52.05.01.2012",
+      "name": "Kareke",
+      "postal_code": "84219"
+    },
+    {
+      "id": "52.05.01.2013",
+      "name": "Mangge Nae",
+      "postal_code": "84219"
+    },
+    {
+      "id": "52.05.01.2014",
+      "name": "Manggeasi",
+      "postal_code": "84219"
+    },
+    {
+      "id": "52.05.01.2015",
+      "name": "Sori Sakolo",
+      "postal_code": "84213"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

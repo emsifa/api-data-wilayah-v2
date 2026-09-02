@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.06.06.2001",
+      "name": "Cisempur",
+      "postal_code": "46185"
+    },
+    {
+      "id": "32.06.06.2002",
+      "name": "Setiawaras",
+      "postal_code": "46185"
+    },
+    {
+      "id": "32.06.06.2003",
+      "name": "Eureunpalay",
+      "postal_code": "46185"
+    },
+    {
+      "id": "32.06.06.2004",
+      "name": "Cibalong",
+      "postal_code": "46185"
+    },
+    {
+      "id": "32.06.06.2005",
+      "name": "Singajaya",
+      "postal_code": "46185"
+    },
+    {
+      "id": "32.06.06.2006",
+      "name": "Parung",
+      "postal_code": "46185"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

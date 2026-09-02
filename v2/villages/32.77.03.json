@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.77.03.1001",
+      "name": "Pasirkaliki",
+      "postal_code": "40514"
+    },
+    {
+      "id": "32.77.03.1002",
+      "name": "Cibabat",
+      "postal_code": "40513"
+    },
+    {
+      "id": "32.77.03.1003",
+      "name": "Citeureup",
+      "postal_code": "40512"
+    },
+    {
+      "id": "32.77.03.1004",
+      "name": "Cipageran",
+      "postal_code": "40511"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

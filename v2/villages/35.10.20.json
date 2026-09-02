@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.10.20.2001",
+      "name": "Sempu",
+      "postal_code": "68468"
+    },
+    {
+      "id": "35.10.20.2002",
+      "name": "Jambewangi",
+      "postal_code": "68468"
+    },
+    {
+      "id": "35.10.20.2003",
+      "name": "Karangsari",
+      "postal_code": "68468"
+    },
+    {
+      "id": "35.10.20.2004",
+      "name": "Temuguruh",
+      "postal_code": "68468"
+    },
+    {
+      "id": "35.10.20.2005",
+      "name": "Gendoh",
+      "postal_code": "68468"
+    },
+    {
+      "id": "35.10.20.2006",
+      "name": "Temuasri",
+      "postal_code": "68468"
+    },
+    {
+      "id": "35.10.20.2007",
+      "name": "Tegalarum",
+      "postal_code": "68468"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

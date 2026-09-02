@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "95.03.45",
+    "name": "Kwelamdua",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.03",
+      "name": "Kabupaten Yahukimo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

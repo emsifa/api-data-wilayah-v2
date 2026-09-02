@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "53.19.12.1001",
+      "name": "Golo Wangkung",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.12.1007",
+      "name": "Golo Wangkung Barat",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.12.2002",
+      "name": "Buti",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.12.2003",
+      "name": "Golo Ngawan",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.12.2004",
+      "name": "Satar Nawang",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.12.2005",
+      "name": "Rana Mese",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.12.2006",
+      "name": "Compang Congkar",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.12.2008",
+      "name": "Compang Lawi",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.12.2009",
+      "name": "Golo Pari",
+      "postal_code": "86584"
+    },
+    {
+      "id": "53.19.12.2010",
+      "name": "Wea",
+      "postal_code": "86584"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

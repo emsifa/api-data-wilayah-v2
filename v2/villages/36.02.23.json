@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "36.02.23.2001",
+      "name": "Guradog",
+      "postal_code": "42381"
+    },
+    {
+      "id": "36.02.23.2002",
+      "name": "Curugbitung",
+      "postal_code": "42381"
+    },
+    {
+      "id": "36.02.23.2003",
+      "name": "Candi",
+      "postal_code": "42381"
+    },
+    {
+      "id": "36.02.23.2004",
+      "name": "Mayak",
+      "postal_code": "42381"
+    },
+    {
+      "id": "36.02.23.2005",
+      "name": "Cipining",
+      "postal_code": "42381"
+    },
+    {
+      "id": "36.02.23.2006",
+      "name": "Cilayang",
+      "postal_code": "42381"
+    },
+    {
+      "id": "36.02.23.2007",
+      "name": "Ciburuy",
+      "postal_code": "42381"
+    },
+    {
+      "id": "36.02.23.2008",
+      "name": "Sekarwangi",
+      "postal_code": "42381"
+    },
+    {
+      "id": "36.02.23.2009",
+      "name": "Cidadap",
+      "postal_code": "42381"
+    },
+    {
+      "id": "36.02.23.2010",
+      "name": "Lebakasih",
+      "postal_code": "42381"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

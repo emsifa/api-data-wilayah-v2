@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "96.71.02.1001",
+      "name": "Klawalu",
+      "postal_code": "98418"
+    },
+    {
+      "id": "96.71.02.1002",
+      "name": "Klamana",
+      "postal_code": "98418"
+    },
+    {
+      "id": "96.71.02.1003",
+      "name": "Klawuyuk",
+      "postal_code": "98418"
+    },
+    {
+      "id": "96.71.02.1004",
+      "name": "Kladufu",
+      "postal_code": "98418"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

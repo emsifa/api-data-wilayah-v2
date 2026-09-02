@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "13.71.11",
+    "name": "Koto Tangah",
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    },
+    "regency": {
+      "id": "13.71",
+      "name": "Kota Padang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "18.11",
+    "name": "Kabupaten Mesuji",
+    "capital": "Mesuji",
+    "lat": -3.873162785665348,
+    "lng": 105.42787851469521,
+    "elv": 17,
+    "tz": 7,
+    "population": 241280,
+    "total_area": 2200.414,
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

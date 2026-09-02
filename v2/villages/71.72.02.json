@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "71.72.02.1001",
+      "name": "Wangurer Barat",
+      "postal_code": "95541"
+    },
+    {
+      "id": "71.72.02.1002",
+      "name": "Paceda",
+      "postal_code": "95541"
+    },
+    {
+      "id": "71.72.02.1003",
+      "name": "Madidir Ure",
+      "postal_code": "95515"
+    },
+    {
+      "id": "71.72.02.1004",
+      "name": "Kadoodan",
+      "postal_code": "95513"
+    },
+    {
+      "id": "71.72.02.1006",
+      "name": "Madidir Weru",
+      "postal_code": "95514"
+    },
+    {
+      "id": "71.72.02.1007",
+      "name": "Madidir Unet",
+      "postal_code": "95516"
+    },
+    {
+      "id": "71.72.02.1009",
+      "name": "Wangurer timur",
+      "postal_code": "95541"
+    },
+    {
+      "id": "71.72.02.1011",
+      "name": "Wangurer Utara",
+      "postal_code": "95541"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

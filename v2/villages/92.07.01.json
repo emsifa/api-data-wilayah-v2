@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "92.07.01.1001",
+      "name": "Wasior I",
+      "postal_code": "98346"
+    },
+    {
+      "id": "92.07.01.2002",
+      "name": "Rado",
+      "postal_code": "98346"
+    },
+    {
+      "id": "92.07.01.2003",
+      "name": "Dotir",
+      "postal_code": "98346"
+    },
+    {
+      "id": "92.07.01.2004",
+      "name": "Maniwak",
+      "postal_code": "98346"
+    },
+    {
+      "id": "92.07.01.2005",
+      "name": "Wasior II",
+      "postal_code": "98346"
+    },
+    {
+      "id": "92.07.01.2006",
+      "name": "Maimari",
+      "postal_code": "98346"
+    },
+    {
+      "id": "92.07.01.2007",
+      "name": "Moru",
+      "postal_code": "98346"
+    },
+    {
+      "id": "92.07.01.2009",
+      "name": "Manopi",
+      "postal_code": "98346"
+    },
+    {
+      "id": "92.07.01.2010",
+      "name": "Ramiki",
+      "postal_code": "98346"
+    },
+    {
+      "id": "92.07.01.2011",
+      "name": "Iriati",
+      "postal_code": "98346"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

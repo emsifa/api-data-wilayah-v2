@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "95.08.01.2001",
+      "name": "Kenyam",
+      "postal_code": "99922"
+    },
+    {
+      "id": "95.08.01.2002",
+      "name": "Kemali",
+      "postal_code": "99541"
+    },
+    {
+      "id": "95.08.01.2003",
+      "name": "Sralala",
+      "postal_code": "99541"
+    },
+    {
+      "id": "95.08.01.2004",
+      "name": "Delpel",
+      "postal_code": "99541"
+    },
+    {
+      "id": "95.08.01.2005",
+      "name": "Yike",
+      "postal_code": "99541"
+    },
+    {
+      "id": "95.08.01.2006",
+      "name": "Yunat",
+      "postal_code": "99541"
+    },
+    {
+      "id": "95.08.01.2007",
+      "name": "Dim",
+      "postal_code": "99541"
+    },
+    {
+      "id": "95.08.01.2008",
+      "name": "Ulunmu",
+      "postal_code": "99922"
+    },
+    {
+      "id": "95.08.01.2009",
+      "name": "Bombam",
+      "postal_code": "99541"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

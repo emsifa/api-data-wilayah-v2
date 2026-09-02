@@ -1,18 +1,48 @@
 {
-  "data": {
-    "id": "71.06",
-    "name": "Kabupaten Minahasa Utara",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
+  "data": [
+    {
+      "id": "71.06.01",
+      "name": "Kema"
     },
-    "regency": {
-      "id": "71.06",
-      "name": "Kabupaten Minahasa Utara"
+    {
+      "id": "71.06.02",
+      "name": "Kauditan"
+    },
+    {
+      "id": "71.06.03",
+      "name": "Airmadidi"
+    },
+    {
+      "id": "71.06.04",
+      "name": "Wori"
+    },
+    {
+      "id": "71.06.05",
+      "name": "Dimembe"
+    },
+    {
+      "id": "71.06.06",
+      "name": "Likupang Barat"
+    },
+    {
+      "id": "71.06.07",
+      "name": "Likupang Timur"
+    },
+    {
+      "id": "71.06.08",
+      "name": "Kalawat"
+    },
+    {
+      "id": "71.06.09",
+      "name": "Talawaan"
+    },
+    {
+      "id": "71.06.10",
+      "name": "Likupang Selatan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

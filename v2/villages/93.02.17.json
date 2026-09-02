@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "93.02.17.2001",
+      "name": "Ninati",
+      "postal_code": "99683"
+    },
+    {
+      "id": "93.02.17.2003",
+      "name": "Kawaktembut",
+      "postal_code": "99683"
+    },
+    {
+      "id": "93.02.17.2004",
+      "name": "Tembutka",
+      "postal_code": "99683"
+    },
+    {
+      "id": "93.02.17.2005",
+      "name": "Timka",
+      "postal_code": "99683"
+    },
+    {
+      "id": "93.02.17.2006",
+      "name": "Yetetko",
+      "postal_code": "99664"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

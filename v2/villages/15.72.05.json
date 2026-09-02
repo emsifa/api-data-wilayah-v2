@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "15.72.05.2001",
+      "name": "Kumun Hilir",
+      "postal_code": "37111"
+    },
+    {
+      "id": "15.72.05.2002",
+      "name": "Kumun Mudik",
+      "postal_code": "37111"
+    },
+    {
+      "id": "15.72.05.2003",
+      "name": "Air Teluh",
+      "postal_code": "37111"
+    },
+    {
+      "id": "15.72.05.2004",
+      "name": "Sandaran Galeh",
+      "postal_code": "37111"
+    },
+    {
+      "id": "15.72.05.2005",
+      "name": "Debai",
+      "postal_code": "37111"
+    },
+    {
+      "id": "15.72.05.2006",
+      "name": "Pinggir Air",
+      "postal_code": "37111"
+    },
+    {
+      "id": "15.72.05.2007",
+      "name": "Renah Kayu Embun",
+      "postal_code": "37111"
+    },
+    {
+      "id": "15.72.05.2008",
+      "name": "Ulu Air",
+      "postal_code": "37111"
+    },
+    {
+      "id": "15.72.05.2009",
+      "name": "Muara Jaya",
+      "postal_code": "37111"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

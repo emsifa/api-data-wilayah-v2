@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.07.30.2001",
+      "name": "Cisaga",
+      "postal_code": "46386"
+    },
+    {
+      "id": "32.07.30.2002",
+      "name": "Sidamulya",
+      "postal_code": "46386"
+    },
+    {
+      "id": "32.07.30.2003",
+      "name": "Kepel",
+      "postal_code": "46386"
+    },
+    {
+      "id": "32.07.30.2004",
+      "name": "Wangunjaya",
+      "postal_code": "46386"
+    },
+    {
+      "id": "32.07.30.2005",
+      "name": "Sukahurip",
+      "postal_code": "46386"
+    },
+    {
+      "id": "32.07.30.2006",
+      "name": "Bangunharja",
+      "postal_code": "46386"
+    },
+    {
+      "id": "32.07.30.2007",
+      "name": "Tanjungjaya",
+      "postal_code": "46386"
+    },
+    {
+      "id": "32.07.30.2008",
+      "name": "Mekarmukti",
+      "postal_code": "46386"
+    },
+    {
+      "id": "32.07.30.2009",
+      "name": "Danasari",
+      "postal_code": "46386"
+    },
+    {
+      "id": "32.07.30.2010",
+      "name": "Girimukti",
+      "postal_code": "46386"
+    },
+    {
+      "id": "32.07.30.2011",
+      "name": "Karyamulya",
+      "postal_code": "46386"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

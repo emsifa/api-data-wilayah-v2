@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "36.71.10.1001",
+      "name": "Neglasari",
+      "postal_code": "15129"
+    },
+    {
+      "id": "36.71.10.1002",
+      "name": "Karang Sari",
+      "postal_code": "15121"
+    },
+    {
+      "id": "36.71.10.1003",
+      "name": "Selapajang Jaya",
+      "postal_code": "15127"
+    },
+    {
+      "id": "36.71.10.1004",
+      "name": "Kedaung Wetan",
+      "postal_code": "15128"
+    },
+    {
+      "id": "36.71.10.1005",
+      "name": "Mekar Sari",
+      "postal_code": "15129"
+    },
+    {
+      "id": "36.71.10.1006",
+      "name": "Karang Anyar",
+      "postal_code": "15121"
+    },
+    {
+      "id": "36.71.10.1007",
+      "name": "Kedaung Baru",
+      "postal_code": "15128"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

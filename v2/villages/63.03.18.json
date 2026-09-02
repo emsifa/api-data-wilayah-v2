@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "63.03.18.2001",
+      "name": "Rantau Bujur",
+      "postal_code": "70673"
+    },
+    {
+      "id": "63.03.18.2002",
+      "name": "Lok Tanah",
+      "postal_code": "70673"
+    },
+    {
+      "id": "63.03.18.2003",
+      "name": "Telaga Baru",
+      "postal_code": "70673"
+    },
+    {
+      "id": "63.03.18.2004",
+      "name": "Rampah",
+      "postal_code": "70673"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

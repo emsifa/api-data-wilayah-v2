@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "52.02.05.2001",
+      "name": "Bonder",
+      "postal_code": "83572"
+    },
+    {
+      "id": "52.02.05.2002",
+      "name": "Banyu Urip",
+      "postal_code": "83572"
+    },
+    {
+      "id": "52.02.05.2003",
+      "name": "Mangkung",
+      "postal_code": "83572"
+    },
+    {
+      "id": "52.02.05.2004",
+      "name": "Kateng",
+      "postal_code": "83572"
+    },
+    {
+      "id": "52.02.05.2005",
+      "name": "Setanggor",
+      "postal_code": "83572"
+    },
+    {
+      "id": "52.02.05.2006",
+      "name": "Penujak",
+      "postal_code": "83572"
+    },
+    {
+      "id": "52.02.05.2007",
+      "name": "Selong Belanak",
+      "postal_code": "83572"
+    },
+    {
+      "id": "52.02.05.2008",
+      "name": "Mekar Sari",
+      "postal_code": "83572"
+    },
+    {
+      "id": "52.02.05.2009",
+      "name": "Batujai",
+      "postal_code": "83572"
+    },
+    {
+      "id": "52.02.05.2010",
+      "name": "Tanak Rarang",
+      "postal_code": "83572"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

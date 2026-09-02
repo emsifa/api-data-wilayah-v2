@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "35.20.09.1009",
+      "name": "Tinap",
+      "postal_code": "63391"
+    },
+    {
+      "id": "35.20.09.2001",
+      "name": "Kalangketi",
+      "postal_code": "63391"
+    },
+    {
+      "id": "35.20.09.2002",
+      "name": "Tamanan",
+      "postal_code": "63391"
+    },
+    {
+      "id": "35.20.09.2003",
+      "name": "Tambakmas",
+      "postal_code": "63391"
+    },
+    {
+      "id": "35.20.09.2004",
+      "name": "Bandar",
+      "postal_code": "63391"
+    },
+    {
+      "id": "35.20.09.2005",
+      "name": "Bibis",
+      "postal_code": "63391"
+    },
+    {
+      "id": "35.20.09.2006",
+      "name": "Sukomoro",
+      "postal_code": "63391"
+    },
+    {
+      "id": "35.20.09.2007",
+      "name": "Bulu",
+      "postal_code": "63391"
+    },
+    {
+      "id": "35.20.09.2008",
+      "name": "Pojoksari",
+      "postal_code": "63391"
+    },
+    {
+      "id": "35.20.09.2010",
+      "name": "Kedungguwo",
+      "postal_code": "63391"
+    },
+    {
+      "id": "35.20.09.2011",
+      "name": "Kembangan",
+      "postal_code": "63391"
+    },
+    {
+      "id": "35.20.09.2012",
+      "name": "Kentangan",
+      "postal_code": "63391"
+    },
+    {
+      "id": "35.20.09.2013",
+      "name": "Bogem",
+      "postal_code": "63391"
+    },
+    {
+      "id": "35.20.09.2014",
+      "name": "Truneng",
+      "postal_code": "63391"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

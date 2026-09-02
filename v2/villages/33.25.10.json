@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "33.25.10.2001",
+      "name": "Wringingintung",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.10.2002",
+      "name": "Sembojo",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.10.2003",
+      "name": "Posong",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.10.2004",
+      "name": "Kaliboyo",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.10.2005",
+      "name": "Simbangdesa",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.10.2006",
+      "name": "Beji",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.10.2007",
+      "name": "Tulis",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.10.2017",
+      "name": "Simbangjati",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.10.2018",
+      "name": "Kedungsegog",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.10.2019",
+      "name": "Kenconorejo",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.10.2020",
+      "name": "Ponowareng",
+      "postal_code": "51261"
+    },
+    {
+      "id": "33.25.10.2024",
+      "name": "Siberuk",
+      "postal_code": "51263"
+    },
+    {
+      "id": "33.25.10.2025",
+      "name": "Kebumen",
+      "postal_code": "51263"
+    },
+    {
+      "id": "33.25.10.2026",
+      "name": "Cluwuk",
+      "postal_code": "51263"
+    },
+    {
+      "id": "33.25.10.2027",
+      "name": "Jrakahpayung",
+      "postal_code": "51263"
+    },
+    {
+      "id": "33.25.10.2028",
+      "name": "Jolosekti",
+      "postal_code": "51263"
+    },
+    {
+      "id": "33.25.10.2029",
+      "name": "Manggis",
+      "postal_code": "51254"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "65.01.10.2001",
+      "name": "Bunyu Barat",
+      "postal_code": "77281"
+    },
+    {
+      "id": "65.01.10.2002",
+      "name": "Bunyu Selatan",
+      "postal_code": "77281"
+    },
+    {
+      "id": "65.01.10.2003",
+      "name": "Bunyu Timur",
+      "postal_code": "77281"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "63.09.09.2001",
+      "name": "Pugaan",
+      "postal_code": "71554"
+    },
+    {
+      "id": "63.09.09.2002",
+      "name": "Pampanan",
+      "postal_code": "71554"
+    },
+    {
+      "id": "63.09.09.2003",
+      "name": "Sungai Rukam II",
+      "postal_code": "71554"
+    },
+    {
+      "id": "63.09.09.2004",
+      "name": "Sungai Rukam I",
+      "postal_code": "71554"
+    },
+    {
+      "id": "63.09.09.2005",
+      "name": "Jirak",
+      "postal_code": "71554"
+    },
+    {
+      "id": "63.09.09.2006",
+      "name": "Halangan",
+      "postal_code": "71554"
+    },
+    {
+      "id": "63.09.09.2007",
+      "name": "Tamunti",
+      "postal_code": "71554"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "18.09.10.2001",
+      "name": "Batu Menyan",
+      "postal_code": "35450"
+    },
+    {
+      "id": "18.09.10.2002",
+      "name": "Cilimus",
+      "postal_code": "35450"
+    },
+    {
+      "id": "18.09.10.2003",
+      "name": "Gebang",
+      "postal_code": "35450"
+    },
+    {
+      "id": "18.09.10.2004",
+      "name": "Hanura",
+      "postal_code": "35450"
+    },
+    {
+      "id": "18.09.10.2005",
+      "name": "Hurun",
+      "postal_code": "35450"
+    },
+    {
+      "id": "18.09.10.2006",
+      "name": "Munca",
+      "postal_code": "35450"
+    },
+    {
+      "id": "18.09.10.2007",
+      "name": "Sidodadi",
+      "postal_code": "35450"
+    },
+    {
+      "id": "18.09.10.2008",
+      "name": "Sukajaya Lempasing",
+      "postal_code": "35450"
+    },
+    {
+      "id": "18.09.10.2009",
+      "name": "Talang Mulya",
+      "postal_code": "35450"
+    },
+    {
+      "id": "18.09.10.2010",
+      "name": "Tanjung Agung",
+      "postal_code": "35450"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

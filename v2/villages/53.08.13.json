@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "53.08.13.2001",
+      "name": "Kotabaru",
+      "postal_code": "86111"
+    },
+    {
+      "id": "53.08.13.2002",
+      "name": "Tou",
+      "postal_code": "86111"
+    },
+    {
+      "id": "53.08.13.2003",
+      "name": "Tou Timur",
+      "postal_code": "86111"
+    },
+    {
+      "id": "53.08.13.2004",
+      "name": "Loboniki",
+      "postal_code": "86111"
+    },
+    {
+      "id": "53.08.13.2005",
+      "name": "Ndondo",
+      "postal_code": "86111"
+    },
+    {
+      "id": "53.08.13.2006",
+      "name": "Niopanda",
+      "postal_code": "86111"
+    },
+    {
+      "id": "53.08.13.2007",
+      "name": "Hangalande",
+      "postal_code": "86111"
+    },
+    {
+      "id": "53.08.13.2012",
+      "name": "Tou Barat",
+      "postal_code": "86111"
+    },
+    {
+      "id": "53.08.13.2013",
+      "name": "Liselande",
+      "postal_code": "86111"
+    },
+    {
+      "id": "53.08.13.2014",
+      "name": "Rangalaka",
+      "postal_code": "86111"
+    },
+    {
+      "id": "53.08.13.2015",
+      "name": "Pise",
+      "postal_code": "86111"
+    },
+    {
+      "id": "53.08.13.2016",
+      "name": "Neotonda",
+      "postal_code": "86111"
+    },
+    {
+      "id": "53.08.13.2017",
+      "name": "Nuanaga",
+      "postal_code": "86111"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

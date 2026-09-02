@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "33.74.12.1001",
+      "name": "Pakintelan",
+      "postal_code": "50227"
+    },
+    {
+      "id": "33.74.12.1002",
+      "name": "Mangunsari",
+      "postal_code": "50227"
+    },
+    {
+      "id": "33.74.12.1003",
+      "name": "Plalangan",
+      "postal_code": "50225"
+    },
+    {
+      "id": "33.74.12.1004",
+      "name": "Gunungpati",
+      "postal_code": "50229"
+    },
+    {
+      "id": "33.74.12.1005",
+      "name": "Nongkosawit",
+      "postal_code": "50224"
+    },
+    {
+      "id": "33.74.12.1006",
+      "name": "Pongangan",
+      "postal_code": "50229"
+    },
+    {
+      "id": "33.74.12.1007",
+      "name": "Ngijo",
+      "postal_code": "50228"
+    },
+    {
+      "id": "33.74.12.1008",
+      "name": "Patemon",
+      "postal_code": "50228"
+    },
+    {
+      "id": "33.74.12.1009",
+      "name": "Sekaran",
+      "postal_code": "50229"
+    },
+    {
+      "id": "33.74.12.1010",
+      "name": "Sukorejo",
+      "postal_code": "50221"
+    },
+    {
+      "id": "33.74.12.1011",
+      "name": "Sadeng",
+      "postal_code": "50222"
+    },
+    {
+      "id": "33.74.12.1012",
+      "name": "Cepoko",
+      "postal_code": "50223"
+    },
+    {
+      "id": "33.74.12.1013",
+      "name": "Jatirejo",
+      "postal_code": "50223"
+    },
+    {
+      "id": "33.74.12.1014",
+      "name": "Sumurrejo",
+      "postal_code": "50226"
+    },
+    {
+      "id": "33.74.12.1015",
+      "name": "Kalisegoro",
+      "postal_code": "50229"
+    },
+    {
+      "id": "33.74.12.1016",
+      "name": "Kandri",
+      "postal_code": "50222"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

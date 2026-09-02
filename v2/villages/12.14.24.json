@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "12.14.24.2001",
+      "name": "Fondrakoraya",
+      "postal_code": "22866"
+    },
+    {
+      "id": "12.14.24.2002",
+      "name": "Orudua Sibohou",
+      "postal_code": "22866"
+    },
+    {
+      "id": "12.14.24.2003",
+      "name": "Sisarahili Susua",
+      "postal_code": "22866"
+    },
+    {
+      "id": "12.14.24.2004",
+      "name": "Susua",
+      "postal_code": "22866"
+    },
+    {
+      "id": "12.14.24.2005",
+      "name": "Lahusa Susua",
+      "postal_code": "22866"
+    },
+    {
+      "id": "12.14.24.2006",
+      "name": "Ramba-ramba",
+      "postal_code": "22866"
+    },
+    {
+      "id": "12.14.24.2007",
+      "name": "Hilinifaoso",
+      "postal_code": "22866"
+    },
+    {
+      "id": "12.14.24.2008",
+      "name": "Sifaoroasi",
+      "postal_code": "22866"
+    },
+    {
+      "id": "12.14.24.2009",
+      "name": "Amandraya",
+      "postal_code": "22866"
+    },
+    {
+      "id": "12.14.24.2010",
+      "name": "Foikhu Fondrako",
+      "postal_code": "22866"
+    },
+    {
+      "id": "12.14.24.2011",
+      "name": "Hiliwosi",
+      "postal_code": "22866"
+    },
+    {
+      "id": "12.14.24.2012",
+      "name": "Orahili Fondrako",
+      "postal_code": "22866"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

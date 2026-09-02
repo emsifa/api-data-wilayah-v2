@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "95.08.32.2001",
+      "name": "Mandala",
+      "postal_code": "99927"
+    },
+    {
+      "id": "95.08.32.2002",
+      "name": "Trim",
+      "postal_code": "99927"
+    },
+    {
+      "id": "95.08.32.2003",
+      "name": "Benggem",
+      "postal_code": "99927"
+    },
+    {
+      "id": "95.08.32.2004",
+      "name": "Pasir Putih",
+      "postal_code": "99927"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

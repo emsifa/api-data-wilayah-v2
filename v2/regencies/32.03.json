@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "32.03",
+    "name": "Kabupaten Cianjur",
+    "capital": "Cianjur",
+    "lat": -6.822746173673224,
+    "lng": 107.1394835830441,
+    "elv": 456,
+    "tz": 7,
+    "population": 2638825,
+    "total_area": 3631.969,
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

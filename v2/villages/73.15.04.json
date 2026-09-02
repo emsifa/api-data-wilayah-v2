@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.15.04.1001",
+      "name": "Jaya",
+      "postal_code": "91213"
+    },
+    {
+      "id": "73.15.04.1002",
+      "name": "Sawitto",
+      "postal_code": "91211"
+    },
+    {
+      "id": "73.15.04.1003",
+      "name": "Macorawalie",
+      "postal_code": "91212"
+    },
+    {
+      "id": "73.15.04.1004",
+      "name": "Penrang",
+      "postal_code": "91219"
+    },
+    {
+      "id": "73.15.04.1005",
+      "name": "Salo",
+      "postal_code": "91216"
+    },
+    {
+      "id": "73.15.04.1006",
+      "name": "Bentengnge",
+      "postal_code": "91221"
+    },
+    {
+      "id": "73.15.04.1007",
+      "name": "Sipatokkong",
+      "postal_code": "91218"
+    },
+    {
+      "id": "73.15.04.1008",
+      "name": "Siparappe",
+      "postal_code": "91217"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

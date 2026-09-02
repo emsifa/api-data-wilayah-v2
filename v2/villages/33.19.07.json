@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "33.19.07.2001",
+      "name": "Dersalam",
+      "postal_code": "59321"
+    },
+    {
+      "id": "33.19.07.2002",
+      "name": "Ngembalrejo",
+      "postal_code": "59322"
+    },
+    {
+      "id": "33.19.07.2003",
+      "name": "Karangbener",
+      "postal_code": "59323"
+    },
+    {
+      "id": "33.19.07.2004",
+      "name": "Gondangmanis",
+      "postal_code": "59327"
+    },
+    {
+      "id": "33.19.07.2005",
+      "name": "Pedawang",
+      "postal_code": "59324"
+    },
+    {
+      "id": "33.19.07.2006",
+      "name": "Bacin",
+      "postal_code": "59325"
+    },
+    {
+      "id": "33.19.07.2007",
+      "name": "Panjang",
+      "postal_code": "59326"
+    },
+    {
+      "id": "33.19.07.2008",
+      "name": "Peganjaran",
+      "postal_code": "59327"
+    },
+    {
+      "id": "33.19.07.2009",
+      "name": "Purworejo",
+      "postal_code": "59327"
+    },
+    {
+      "id": "33.19.07.2010",
+      "name": "Bae",
+      "postal_code": "59327"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

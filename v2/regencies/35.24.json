@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "35.24",
+    "name": "Kabupaten Lamongan",
+    "capital": "Lamongan",
+    "lat": -7.1210348508171615,
+    "lng": 112.41543434071801,
+    "elv": 9,
+    "tz": 7,
+    "population": 1367503,
+    "total_area": 1752.989,
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

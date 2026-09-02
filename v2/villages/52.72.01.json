@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "52.72.01.1001",
+      "name": "Paruga",
+      "postal_code": "84111"
+    },
+    {
+      "id": "52.72.01.1002",
+      "name": "Nae",
+      "postal_code": "84116"
+    },
+    {
+      "id": "52.72.01.1003",
+      "name": "Sarae",
+      "postal_code": "84117"
+    },
+    {
+      "id": "52.72.01.1004",
+      "name": "Tanjung",
+      "postal_code": "84118"
+    },
+    {
+      "id": "52.72.01.1013",
+      "name": "Pane",
+      "postal_code": "84119"
+    },
+    {
+      "id": "52.72.01.1014",
+      "name": "Dara",
+      "postal_code": "84119"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "35.10",
+    "name": "Kabupaten Banyuwangi",
+    "capital": "Banyuwangi",
+    "lat": -8.223037204830721,
+    "lng": 114.36643523941463,
+    "elv": 20,
+    "tz": 7,
+    "population": 1791789,
+    "total_area": 3593.849,
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

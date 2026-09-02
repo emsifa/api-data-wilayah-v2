@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "21.71.10.1001",
+      "name": "Baloi Permai",
+      "postal_code": "29431"
+    },
+    {
+      "id": "21.71.10.1002",
+      "name": "Taman Baloi",
+      "postal_code": "29432"
+    },
+    {
+      "id": "21.71.10.1003",
+      "name": "Teluk Tering",
+      "postal_code": "29461"
+    },
+    {
+      "id": "21.71.10.1004",
+      "name": "Belian",
+      "postal_code": "29464"
+    },
+    {
+      "id": "21.71.10.1005",
+      "name": "Sukajadi",
+      "postal_code": "29432"
+    },
+    {
+      "id": "21.71.10.1006",
+      "name": "Sungai Panas",
+      "postal_code": "29433"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

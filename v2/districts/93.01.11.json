@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "93.01.11",
+    "name": "Kurik",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.01",
+      "name": "Kabupaten Merauke"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

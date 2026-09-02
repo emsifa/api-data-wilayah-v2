@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "82.04.17.2001",
+      "name": "Kampung Makian",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.17.2002",
+      "name": "Mandaong",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.17.2003",
+      "name": "Kupal",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.17.2004",
+      "name": "Gandasuli",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.17.2005",
+      "name": "Sawadai",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.17.2006",
+      "name": "Tuokona",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.17.2007",
+      "name": "Papaloang",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.17.2008",
+      "name": "Tembal",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.17.2009",
+      "name": "Kubung",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.17.2010",
+      "name": "Panamboang",
+      "postal_code": "97791"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

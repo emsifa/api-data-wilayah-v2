@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "74.13.04.2001",
+      "name": "Lailangga",
+      "postal_code": "93652"
+    },
+    {
+      "id": "74.13.04.2002",
+      "name": "Lasosodo",
+      "postal_code": "93652"
+    },
+    {
+      "id": "74.13.04.2003",
+      "name": "Wakontu",
+      "postal_code": "93652"
+    },
+    {
+      "id": "74.13.04.2004",
+      "name": "Lakanaha",
+      "postal_code": "93652"
+    },
+    {
+      "id": "74.13.04.2005",
+      "name": "Katobu",
+      "postal_code": "93652"
+    },
+    {
+      "id": "74.13.04.2006",
+      "name": "Lindo",
+      "postal_code": "93652"
+    },
+    {
+      "id": "74.13.04.2007",
+      "name": "Kampani",
+      "postal_code": "93652"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

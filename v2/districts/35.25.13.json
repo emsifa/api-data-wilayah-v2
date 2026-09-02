@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "35.25.13",
+    "name": "Menganti",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.25",
+      "name": "Kabupaten Gresik"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

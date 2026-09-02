@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "16.04.20.2001",
+      "name": "Sukajadi",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.20.2002",
+      "name": "Tanjung Agung",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.20.2003",
+      "name": "Penandingan",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.20.2004",
+      "name": "Talang Tinggi",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.20.2005",
+      "name": "Batu Niding",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.20.2006",
+      "name": "Tanjung Raya",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.20.2007",
+      "name": "Lubuk Mabar",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.20.2008",
+      "name": "Pagar Agung",
+      "postal_code": "31417"
+    },
+    {
+      "id": "16.04.20.2009",
+      "name": "Lubuk Tuba",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.20.2010",
+      "name": "Lubuk Atung",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.20.2011",
+      "name": "Muara Cawang",
+      "postal_code": "31419"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

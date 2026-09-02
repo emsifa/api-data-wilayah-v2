@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "18.05.06.2001",
+      "name": "Aji Jaya KNPI",
+      "postal_code": "34681"
+    },
+    {
+      "id": "18.05.06.2002",
+      "name": "Kecubung Jaya",
+      "postal_code": "34681"
+    },
+    {
+      "id": "18.05.06.2008",
+      "name": "Kecubung Mulya",
+      "postal_code": "34681"
+    },
+    {
+      "id": "18.05.06.2015",
+      "name": "Gedung Aji",
+      "postal_code": "34681"
+    },
+    {
+      "id": "18.05.06.2016",
+      "name": "Penawar",
+      "postal_code": "34681"
+    },
+    {
+      "id": "18.05.06.2022",
+      "name": "Penawar Baru",
+      "postal_code": "34681"
+    },
+    {
+      "id": "18.05.06.2023",
+      "name": "Aji Murni Jaya",
+      "postal_code": "34681"
+    },
+    {
+      "id": "18.05.06.2024",
+      "name": "Aji Mesir",
+      "postal_code": "34681"
+    },
+    {
+      "id": "18.05.06.2025",
+      "name": "Aji Permai Talang Buah",
+      "postal_code": "34681"
+    },
+    {
+      "id": "18.05.06.2026",
+      "name": "Bandar Aji Jaya",
+      "postal_code": "34681"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

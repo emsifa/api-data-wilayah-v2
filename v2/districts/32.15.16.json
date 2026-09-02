@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "32.15.16",
+    "name": "Tirtamulya",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.15",
+      "name": "Kabupaten Karawang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

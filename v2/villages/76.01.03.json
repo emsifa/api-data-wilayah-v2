@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "76.01.03.1001",
+      "name": "Baras",
+      "postal_code": "91572"
+    },
+    {
+      "id": "76.01.03.2002",
+      "name": "Balanti",
+      "postal_code": "91572"
+    },
+    {
+      "id": "76.01.03.2003",
+      "name": "Motu",
+      "postal_code": "91572"
+    },
+    {
+      "id": "76.01.03.2012",
+      "name": "Bulu Parigi",
+      "postal_code": "91572"
+    },
+    {
+      "id": "76.01.03.2013",
+      "name": "Towoni",
+      "postal_code": "91572"
+    },
+    {
+      "id": "76.01.03.2016",
+      "name": "Kasano",
+      "postal_code": "91572"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

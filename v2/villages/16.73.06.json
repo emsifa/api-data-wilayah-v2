@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "16.73.06.1001",
+      "name": "Sidorejo",
+      "postal_code": "31616"
+    },
+    {
+      "id": "16.73.06.1002",
+      "name": "Ulak Lebar",
+      "postal_code": "31611"
+    },
+    {
+      "id": "16.73.06.1003",
+      "name": "Tapak Lebar",
+      "postal_code": "31611"
+    },
+    {
+      "id": "16.73.06.1004",
+      "name": "Bandung Kanan",
+      "postal_code": "31611"
+    },
+    {
+      "id": "16.73.06.1005",
+      "name": "Keputraan",
+      "postal_code": "31611"
+    },
+    {
+      "id": "16.73.06.1006",
+      "name": "Lubuklinggau Ilir",
+      "postal_code": "31611"
+    },
+    {
+      "id": "16.73.06.1007",
+      "name": "Lubuklinggau Ulu",
+      "postal_code": "31611"
+    },
+    {
+      "id": "16.73.06.1008",
+      "name": "Pasar Permiri",
+      "postal_code": "31611"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

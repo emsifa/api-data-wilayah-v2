@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "35.18",
+    "name": "Kabupaten Nganjuk",
+    "capital": "Nganjuk",
+    "lat": -7.601982862041979,
+    "lng": 111.90189545421411,
+    "elv": 60,
+    "tz": 7,
+    "population": 1152575,
+    "total_area": 1289.067,
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

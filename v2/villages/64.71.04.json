@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "64.71.04.1001",
+      "name": "Gunung Sari Ulu",
+      "postal_code": "76122"
+    },
+    {
+      "id": "64.71.04.1002",
+      "name": "Gunung Sari Ilir",
+      "postal_code": "76121"
+    },
+    {
+      "id": "64.71.04.1003",
+      "name": "Karang Rejo",
+      "postal_code": "76124"
+    },
+    {
+      "id": "64.71.04.1004",
+      "name": "Karang Jati",
+      "postal_code": "76123"
+    },
+    {
+      "id": "64.71.04.1005",
+      "name": "Mekar Sari",
+      "postal_code": "76122"
+    },
+    {
+      "id": "64.71.04.1006",
+      "name": "Sumber Rejo",
+      "postal_code": "76124"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

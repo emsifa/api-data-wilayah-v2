@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "76.06.01.2001",
+      "name": "Mahahe",
+      "postal_code": "91463"
+    },
+    {
+      "id": "76.06.01.2002",
+      "name": "Salobaja",
+      "postal_code": "91463"
+    },
+    {
+      "id": "76.06.01.2003",
+      "name": "Tobadak",
+      "postal_code": "91463"
+    },
+    {
+      "id": "76.06.01.2004",
+      "name": "Palongaan",
+      "postal_code": "91463"
+    },
+    {
+      "id": "76.06.01.2005",
+      "name": "Batu Parigi",
+      "postal_code": "91463"
+    },
+    {
+      "id": "76.06.01.2006",
+      "name": "Bambadaru",
+      "postal_code": "91463"
+    },
+    {
+      "id": "76.06.01.2007",
+      "name": "Sejati",
+      "postal_code": "91463"
+    },
+    {
+      "id": "76.06.01.2008",
+      "name": "Saloadak",
+      "postal_code": "91463"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

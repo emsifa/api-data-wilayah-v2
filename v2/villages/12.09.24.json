@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "12.09.24.2001",
+      "name": "Sei Nangka",
+      "postal_code": "21382"
+    },
+    {
+      "id": "12.09.24.2002",
+      "name": "Sei Jawi-Jawi",
+      "postal_code": "21382"
+    },
+    {
+      "id": "12.09.24.2003",
+      "name": "Sei Serindan",
+      "postal_code": "21382"
+    },
+    {
+      "id": "12.09.24.2004",
+      "name": "Sei Tualang Pandau",
+      "postal_code": "21382"
+    },
+    {
+      "id": "12.09.24.2005",
+      "name": "Sei Lendir",
+      "postal_code": "21382"
+    },
+    {
+      "id": "12.09.24.2006",
+      "name": "Sei Kepayang Kiri",
+      "postal_code": "21382"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

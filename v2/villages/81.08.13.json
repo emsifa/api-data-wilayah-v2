@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "81.08.13.2001",
+      "name": "Nabar",
+      "postal_code": "97449"
+    },
+    {
+      "id": "81.08.13.2002",
+      "name": "Elsulith",
+      "postal_code": "97449"
+    },
+    {
+      "id": "81.08.13.2003",
+      "name": "Naumatang",
+      "postal_code": "97449"
+    },
+    {
+      "id": "81.08.13.2004",
+      "name": "Lurang",
+      "postal_code": "97449"
+    },
+    {
+      "id": "81.08.13.2005",
+      "name": "Uhak",
+      "postal_code": "97449"
+    },
+    {
+      "id": "81.08.13.2006",
+      "name": "Eray",
+      "postal_code": "97449"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

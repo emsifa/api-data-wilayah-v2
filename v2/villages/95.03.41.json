@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "95.03.41.2001",
+      "name": "Suntamon",
+      "postal_code": "99744"
+    },
+    {
+      "id": "95.03.41.2002",
+      "name": "Tapasik",
+      "postal_code": "99744"
+    },
+    {
+      "id": "95.03.41.2003",
+      "name": "Bulbul",
+      "postal_code": "99744"
+    },
+    {
+      "id": "95.03.41.2004",
+      "name": "Dirik",
+      "postal_code": "99744"
+    },
+    {
+      "id": "95.03.41.2005",
+      "name": "Yup",
+      "postal_code": "99744"
+    },
+    {
+      "id": "95.03.41.2006",
+      "name": "Bongkok",
+      "postal_code": "99744"
+    },
+    {
+      "id": "95.03.41.2007",
+      "name": "Masumkon",
+      "postal_code": "99744"
+    },
+    {
+      "id": "95.03.41.2008",
+      "name": "Binalkon",
+      "postal_code": "99744"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

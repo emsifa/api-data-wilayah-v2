@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "73.22.11.1005",
+      "name": "Salassa",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.11.2002",
+      "name": "Salulemo",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.11.2003",
+      "name": "Radda",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.11.2004",
+      "name": "Baebunta",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.11.2007",
+      "name": "Tarobok",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.11.2008",
+      "name": "Mario",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.11.2009",
+      "name": "Sassa",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.11.2010",
+      "name": "Kariango",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.11.2011",
+      "name": "Meli",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.11.2013",
+      "name": "Palandan",
+      "postal_code": "92965"
+    },
+    {
+      "id": "73.22.11.2015",
+      "name": "Bumi Harapan",
+      "postal_code": "92965"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

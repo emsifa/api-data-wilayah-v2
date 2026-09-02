@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "75.71.08.1001",
+      "name": "Leato Utara",
+      "postal_code": "96119"
+    },
+    {
+      "id": "75.71.08.1002",
+      "name": "Leato Selatan",
+      "postal_code": "96119"
+    },
+    {
+      "id": "75.71.08.1003",
+      "name": "Talumolo",
+      "postal_code": "96118"
+    },
+    {
+      "id": "75.71.08.1004",
+      "name": "Botu",
+      "postal_code": "96118"
+    },
+    {
+      "id": "75.71.08.1005",
+      "name": "Bugis",
+      "postal_code": "96112"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

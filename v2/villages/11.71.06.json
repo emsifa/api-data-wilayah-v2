@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "11.71.06.2001",
+      "name": "Keudah",
+      "postal_code": "23129"
+    },
+    {
+      "id": "11.71.06.2002",
+      "name": "Peulanggahan",
+      "postal_code": "23129"
+    },
+    {
+      "id": "11.71.06.2003",
+      "name": "Merduati",
+      "postal_code": "23242"
+    },
+    {
+      "id": "11.71.06.2004",
+      "name": "Lampaseh Kota",
+      "postal_code": "23231"
+    },
+    {
+      "id": "11.71.06.2005",
+      "name": "Gampong Pande",
+      "postal_code": "23128"
+    },
+    {
+      "id": "11.71.06.2006",
+      "name": "Gampong Jawa",
+      "postal_code": "23128"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

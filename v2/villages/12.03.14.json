@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.03.14.1039",
+      "name": "Arse",
+      "postal_code": "22748"
+    },
+    {
+      "id": "12.03.14.1040",
+      "name": "Lancat",
+      "postal_code": "22748"
+    },
+    {
+      "id": "12.03.14.2028",
+      "name": "Sipogu",
+      "postal_code": "22748"
+    },
+    {
+      "id": "12.03.14.2032",
+      "name": "Pinagar",
+      "postal_code": "22748"
+    },
+    {
+      "id": "12.03.14.2033",
+      "name": "Pardomuan",
+      "postal_code": "22748"
+    },
+    {
+      "id": "12.03.14.2034",
+      "name": "Aek Haminjon",
+      "postal_code": "22748"
+    },
+    {
+      "id": "12.03.14.2035",
+      "name": "Nanggar Jati Huta Padang",
+      "postal_code": "22748"
+    },
+    {
+      "id": "12.03.14.2036",
+      "name": "Nanggar Jati",
+      "postal_code": "22748"
+    },
+    {
+      "id": "12.03.14.2037",
+      "name": "Natambang Roncitan",
+      "postal_code": "22748"
+    },
+    {
+      "id": "12.03.14.2038",
+      "name": "Dalihan Natolu",
+      "postal_code": "22748"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

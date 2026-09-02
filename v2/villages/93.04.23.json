@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "93.04.23.2001",
+      "name": "Mabul",
+      "postal_code": "99791"
+    },
+    {
+      "id": "93.04.23.2002",
+      "name": "Banum",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.23.2003",
+      "name": "Ayak",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.23.2004",
+      "name": "Amakot",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.23.2005",
+      "name": "Nagatun",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.23.2006",
+      "name": "Ujung Batu",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.23.2007",
+      "name": "Kapayap Tiga",
+      "postal_code": "99792"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

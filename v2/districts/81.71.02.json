@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "81.71.02",
+    "name": "Sirimau",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.71",
+      "name": "Kota Ambon"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

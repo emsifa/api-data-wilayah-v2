@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "53.03.04.2001",
+      "name": "Bijeli",
+      "postal_code": "85664"
+    },
+    {
+      "id": "53.03.04.2002",
+      "name": "Noebaun",
+      "postal_code": "85664"
+    },
+    {
+      "id": "53.03.04.2003",
+      "name": "Seo",
+      "postal_code": "85664"
+    },
+    {
+      "id": "53.03.04.2004",
+      "name": "Popnam",
+      "postal_code": "85664"
+    },
+    {
+      "id": "53.03.04.2009",
+      "name": "Nibaaf",
+      "postal_code": "85664"
+    },
+    {
+      "id": "53.03.04.2010",
+      "name": "Banfanu",
+      "postal_code": "85664"
+    },
+    {
+      "id": "53.03.04.2011",
+      "name": "Oenak",
+      "postal_code": "85663"
+    },
+    {
+      "id": "53.03.04.2012",
+      "name": "Nifuboke",
+      "postal_code": "85663"
+    },
+    {
+      "id": "53.03.04.2013",
+      "name": "Noemuti",
+      "postal_code": "85663"
+    },
+    {
+      "id": "53.03.04.2014",
+      "name": "Fatumuti",
+      "postal_code": "85663"
+    },
+    {
+      "id": "53.03.04.2015",
+      "name": "Kiuola",
+      "postal_code": "85663"
+    },
+    {
+      "id": "53.03.04.2016",
+      "name": "Oeperigi",
+      "postal_code": "85664"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "35.03.08.2001",
+      "name": "Karanggandu",
+      "postal_code": "66382"
+    },
+    {
+      "id": "35.03.08.2002",
+      "name": "Sawahan",
+      "postal_code": "66382"
+    },
+    {
+      "id": "35.03.08.2003",
+      "name": "Dukuh",
+      "postal_code": "66382"
+    },
+    {
+      "id": "35.03.08.2004",
+      "name": "Pakel",
+      "postal_code": "66382"
+    },
+    {
+      "id": "35.03.08.2005",
+      "name": "Margomulyo",
+      "postal_code": "66382"
+    },
+    {
+      "id": "35.03.08.2006",
+      "name": "Ngembel",
+      "postal_code": "66382"
+    },
+    {
+      "id": "35.03.08.2007",
+      "name": "Slawe",
+      "postal_code": "66382"
+    },
+    {
+      "id": "35.03.08.2008",
+      "name": "Gemaharjo",
+      "postal_code": "66382"
+    },
+    {
+      "id": "35.03.08.2009",
+      "name": "Watulimo",
+      "postal_code": "66382"
+    },
+    {
+      "id": "35.03.08.2010",
+      "name": "Watuagung",
+      "postal_code": "66382"
+    },
+    {
+      "id": "35.03.08.2011",
+      "name": "Prigi",
+      "postal_code": "66382"
+    },
+    {
+      "id": "35.03.08.2012",
+      "name": "Tasikmadu",
+      "postal_code": "66382"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

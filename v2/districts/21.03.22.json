@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "21.03.22",
+    "name": "Suak Midai",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.03",
+      "name": "Kabupaten Natuna"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

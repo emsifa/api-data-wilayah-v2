@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "18.07.19.2001",
+      "name": "Pasir Sakti",
+      "postal_code": "34387"
+    },
+    {
+      "id": "18.07.19.2002",
+      "name": "Mulyo Sari",
+      "postal_code": "34387"
+    },
+    {
+      "id": "18.07.19.2003",
+      "name": "Purworejo",
+      "postal_code": "34387"
+    },
+    {
+      "id": "18.07.19.2004",
+      "name": "Rejo Mulyo",
+      "postal_code": "34387"
+    },
+    {
+      "id": "18.07.19.2005",
+      "name": "Kedung Ringin",
+      "postal_code": "34387"
+    },
+    {
+      "id": "18.07.19.2006",
+      "name": "Labuhan Ratu",
+      "postal_code": "34387"
+    },
+    {
+      "id": "18.07.19.2007",
+      "name": "Sumur Kucing",
+      "postal_code": "34387"
+    },
+    {
+      "id": "18.07.19.2008",
+      "name": "Mekar Sari",
+      "postal_code": "34387"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

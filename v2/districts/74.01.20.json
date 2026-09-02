@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "74.01.20",
+    "name": "Samaturu",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.01",
+      "name": "Kabupaten Kolaka"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

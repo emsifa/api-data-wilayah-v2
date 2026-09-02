@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": "73.08.02.1001",
+      "name": "Palattae",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2002",
+      "name": "Nusa",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2003",
+      "name": "Pasaka",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2004",
+      "name": "Labuaja",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2005",
+      "name": "Cakkela",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2006",
+      "name": "Balle",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2007",
+      "name": "Matajang",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2008",
+      "name": "Cenrana",
+      "postal_code": "92754"
+    },
+    {
+      "id": "73.08.02.2009",
+      "name": "Sanrego",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2010",
+      "name": "Biru",
+      "postal_code": "92714"
+    },
+    {
+      "id": "73.08.02.2011",
+      "name": "Palakka",
+      "postal_code": "92761"
+    },
+    {
+      "id": "73.08.02.2012",
+      "name": "Tompong Patu",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2013",
+      "name": "Hulo",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2014",
+      "name": "Cammilo",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2015",
+      "name": "Carima",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2016",
+      "name": "Mattoanging",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2017",
+      "name": "Arallae",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2018",
+      "name": "Bonto Padang",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2019",
+      "name": "Lalepo",
+      "postal_code": "92767"
+    },
+    {
+      "id": "73.08.02.2020",
+      "name": "Maggenrang",
+      "postal_code": "92767"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

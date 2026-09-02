@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "91.05.03.2004",
+      "name": "Korombobi",
+      "postal_code": "98644"
+    },
+    {
+      "id": "91.05.03.2005",
+      "name": "Dawai",
+      "postal_code": "98644"
+    },
+    {
+      "id": "91.05.03.2010",
+      "name": "Wabo",
+      "postal_code": "98644"
+    },
+    {
+      "id": "91.05.03.2014",
+      "name": "Nunsembai",
+      "postal_code": "98644"
+    },
+    {
+      "id": "91.05.03.2015",
+      "name": "Nunsiari",
+      "postal_code": "98644"
+    },
+    {
+      "id": "91.05.03.2023",
+      "name": "Woinsupi",
+      "postal_code": "98644"
+    },
+    {
+      "id": "91.05.03.2024",
+      "name": "Awunawai",
+      "postal_code": "98644"
+    },
+    {
+      "id": "91.05.03.2025",
+      "name": "Mareruni",
+      "postal_code": "98644"
+    },
+    {
+      "id": "91.05.03.2031",
+      "name": "Wabompi",
+      "postal_code": "98644"
+    },
+    {
+      "id": "91.05.03.2036",
+      "name": "Duai",
+      "postal_code": "98644"
+    },
+    {
+      "id": "91.05.03.2037",
+      "name": "Sere Sere",
+      "postal_code": "98644"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

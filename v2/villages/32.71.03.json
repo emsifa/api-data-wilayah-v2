@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.71.03.1001",
+      "name": "Gudang",
+      "postal_code": "16123"
+    },
+    {
+      "id": "32.71.03.1002",
+      "name": "Paledang",
+      "postal_code": "16122"
+    },
+    {
+      "id": "32.71.03.1003",
+      "name": "Pabaton",
+      "postal_code": "16121"
+    },
+    {
+      "id": "32.71.03.1004",
+      "name": "Cibogor",
+      "postal_code": "16124"
+    },
+    {
+      "id": "32.71.03.1005",
+      "name": "Babakan",
+      "postal_code": "16128"
+    },
+    {
+      "id": "32.71.03.1006",
+      "name": "Sempur",
+      "postal_code": "16129"
+    },
+    {
+      "id": "32.71.03.1007",
+      "name": "Tegallega",
+      "postal_code": "16129"
+    },
+    {
+      "id": "32.71.03.1008",
+      "name": "Babakan Pasar",
+      "postal_code": "16126"
+    },
+    {
+      "id": "32.71.03.1009",
+      "name": "Panaragan",
+      "postal_code": "16125"
+    },
+    {
+      "id": "32.71.03.1010",
+      "name": "Ciwaringin",
+      "postal_code": "16124"
+    },
+    {
+      "id": "32.71.03.1011",
+      "name": "Kebon Kalapa",
+      "postal_code": "16125"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

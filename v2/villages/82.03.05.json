@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "82.03.05.2004",
+      "name": "Gamsungi",
+      "postal_code": "97762"
+    },
+    {
+      "id": "82.03.05.2005",
+      "name": "Gura",
+      "postal_code": "97762"
+    },
+    {
+      "id": "82.03.05.2006",
+      "name": "Wari",
+      "postal_code": "97762"
+    },
+    {
+      "id": "82.03.05.2012",
+      "name": "Kakara",
+      "postal_code": "97762"
+    },
+    {
+      "id": "82.03.05.2013",
+      "name": "Kumo",
+      "postal_code": "97762"
+    },
+    {
+      "id": "82.03.05.2014",
+      "name": "Gosoma",
+      "postal_code": "97762"
+    },
+    {
+      "id": "82.03.05.2015",
+      "name": "Rawajaya",
+      "postal_code": "97762"
+    },
+    {
+      "id": "82.03.05.2018",
+      "name": "MKCM",
+      "postal_code": "97762"
+    },
+    {
+      "id": "82.03.05.2024",
+      "name": "Tagalaya",
+      "postal_code": "97762"
+    },
+    {
+      "id": "82.03.05.2025",
+      "name": "Wari Ino",
+      "postal_code": "97762"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

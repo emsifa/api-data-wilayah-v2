@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "94.06.03.2001",
+      "name": "Apogomakida",
+      "postal_code": "98874"
+    },
+    {
+      "id": "94.06.03.2002",
+      "name": "Deneiode",
+      "postal_code": "98874"
+    },
+    {
+      "id": "94.06.03.2003",
+      "name": "Yegiyepa",
+      "postal_code": "98874"
+    },
+    {
+      "id": "94.06.03.2004",
+      "name": "Ideduwa",
+      "postal_code": "98874"
+    },
+    {
+      "id": "94.06.03.2005",
+      "name": "Kegata",
+      "postal_code": "98874"
+    },
+    {
+      "id": "94.06.03.2006",
+      "name": "Egipa",
+      "postal_code": "98874"
+    },
+    {
+      "id": "94.06.03.2007",
+      "name": "Ukagu",
+      "postal_code": "98874"
+    },
+    {
+      "id": "94.06.03.2008",
+      "name": "Tibaugi",
+      "postal_code": "98874"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

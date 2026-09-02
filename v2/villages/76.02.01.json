@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "76.02.01.1002",
+      "name": "Binanga",
+      "postal_code": "91511"
+    },
+    {
+      "id": "76.02.01.1003",
+      "name": "Mamunyu",
+      "postal_code": "91511"
+    },
+    {
+      "id": "76.02.01.1012",
+      "name": "Karema",
+      "postal_code": "91515"
+    },
+    {
+      "id": "76.02.01.1013",
+      "name": "Rimuku",
+      "postal_code": "91515"
+    },
+    {
+      "id": "76.02.01.2005",
+      "name": "Bambu",
+      "postal_code": "91514"
+    },
+    {
+      "id": "76.02.01.2006",
+      "name": "Karampuang",
+      "postal_code": "91515"
+    },
+    {
+      "id": "76.02.01.2010",
+      "name": "Tadui",
+      "postal_code": "91511"
+    },
+    {
+      "id": "76.02.01.2014",
+      "name": "Batu Pannu",
+      "postal_code": "91511"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

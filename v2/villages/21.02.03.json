@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "21.02.03.1001",
+      "name": "Tanjung Balai",
+      "postal_code": "29661"
+    },
+    {
+      "id": "21.02.03.1002",
+      "name": "Teluk Air",
+      "postal_code": "29661"
+    },
+    {
+      "id": "21.02.03.1003",
+      "name": "Sungai Lakam Timur",
+      "postal_code": "29661"
+    },
+    {
+      "id": "21.02.03.1006",
+      "name": "Lubuk Semut",
+      "postal_code": "29661"
+    },
+    {
+      "id": "21.02.03.1007",
+      "name": "Tanjung Balai Kota",
+      "postal_code": "29661"
+    },
+    {
+      "id": "21.02.03.1008",
+      "name": "Sungai Lakam Barat",
+      "postal_code": "29661"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

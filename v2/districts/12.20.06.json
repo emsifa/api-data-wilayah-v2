@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "12.20.06",
+    "name": "Portibi",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.20",
+      "name": "Kabupaten Padang Lawas Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

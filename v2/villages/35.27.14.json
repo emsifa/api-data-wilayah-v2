@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.27.14.2001",
+      "name": "Blu uran",
+      "postal_code": "69254"
+    },
+    {
+      "id": "35.27.14.2002",
+      "name": "Tlambah",
+      "postal_code": "69254"
+    },
+    {
+      "id": "35.27.14.2003",
+      "name": "Bulmatet",
+      "postal_code": "69254"
+    },
+    {
+      "id": "35.27.14.2004",
+      "name": "Poreh",
+      "postal_code": "69254"
+    },
+    {
+      "id": "35.27.14.2005",
+      "name": "Karangpenang Oloh",
+      "postal_code": "69254"
+    },
+    {
+      "id": "35.27.14.2006",
+      "name": "Karangpenang Onjur",
+      "postal_code": "69254"
+    },
+    {
+      "id": "35.27.14.2007",
+      "name": "Gunung Kesan",
+      "postal_code": "69254"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

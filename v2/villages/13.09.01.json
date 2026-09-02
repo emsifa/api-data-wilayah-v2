@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "13.09.01.2007",
+      "name": "Betumonga",
+      "postal_code": "25390"
+    },
+    {
+      "id": "13.09.01.2008",
+      "name": "Silabu",
+      "postal_code": "25390"
+    },
+    {
+      "id": "13.09.01.2009",
+      "name": "Saumanganya",
+      "postal_code": "25390"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

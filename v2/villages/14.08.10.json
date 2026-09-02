@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "14.08.10.1001",
+      "name": "Simpang Belutu",
+      "postal_code": "28686"
+    },
+    {
+      "id": "14.08.10.1002",
+      "name": "Telaga Sam-sam",
+      "postal_code": "28686"
+    },
+    {
+      "id": "14.08.10.1003",
+      "name": "Kandis Kota",
+      "postal_code": "28686"
+    },
+    {
+      "id": "14.08.10.2004",
+      "name": "Belutu",
+      "postal_code": "28686"
+    },
+    {
+      "id": "14.08.10.2005",
+      "name": "Kandis",
+      "postal_code": "28686"
+    },
+    {
+      "id": "14.08.10.2006",
+      "name": "Sam-Sam",
+      "postal_code": "28686"
+    },
+    {
+      "id": "14.08.10.2007",
+      "name": "Bekalar",
+      "postal_code": "28686"
+    },
+    {
+      "id": "14.08.10.2008",
+      "name": "Jambai Makmur",
+      "postal_code": "28686"
+    },
+    {
+      "id": "14.08.10.2009",
+      "name": "Sungai Gondang",
+      "postal_code": "28686"
+    },
+    {
+      "id": "14.08.10.2010",
+      "name": "Pencing Bekulo",
+      "postal_code": "28686"
+    },
+    {
+      "id": "14.08.10.2011",
+      "name": "Libo Jaya",
+      "postal_code": "28686"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

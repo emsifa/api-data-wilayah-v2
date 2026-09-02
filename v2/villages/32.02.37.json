@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.02.37.2001",
+      "name": "Pabuaran",
+      "postal_code": "43173"
+    },
+    {
+      "id": "32.02.37.2002",
+      "name": "Ciwalat",
+      "postal_code": "43173"
+    },
+    {
+      "id": "32.02.37.2003",
+      "name": "Sirnasari",
+      "postal_code": "43173"
+    },
+    {
+      "id": "32.02.37.2004",
+      "name": "Bantarsari",
+      "postal_code": "43173"
+    },
+    {
+      "id": "32.02.37.2005",
+      "name": "Sukajaya",
+      "postal_code": "43173"
+    },
+    {
+      "id": "32.02.37.2006",
+      "name": "Cibadak",
+      "postal_code": "43173"
+    },
+    {
+      "id": "32.02.37.2007",
+      "name": "Lembur Sawah",
+      "postal_code": "43173"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

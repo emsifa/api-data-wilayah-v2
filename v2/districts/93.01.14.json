@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "93.01.14",
+    "name": "Malind",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.01",
+      "name": "Kabupaten Merauke"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

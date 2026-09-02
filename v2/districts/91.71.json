@@ -1,18 +1,28 @@
 {
-  "data": {
-    "id": "91.71",
-    "name": "Kota Jayapura",
-    "province": {
-      "id": "91",
-      "name": "Papua"
+  "data": [
+    {
+      "id": "91.71.01",
+      "name": "Jayapura Utara"
     },
-    "regency": {
-      "id": "91.71",
-      "name": "Kota Jayapura"
+    {
+      "id": "91.71.02",
+      "name": "Jayapura Selatan"
+    },
+    {
+      "id": "91.71.03",
+      "name": "Abepura"
+    },
+    {
+      "id": "91.71.04",
+      "name": "Muara Tami"
+    },
+    {
+      "id": "91.71.05",
+      "name": "Heram"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

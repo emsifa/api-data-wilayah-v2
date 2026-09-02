@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "53.12.15",
+    "name": "Kota Waikabubak",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.12",
+      "name": "Kabupaten Sumba Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

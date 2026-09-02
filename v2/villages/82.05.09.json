@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "82.05.09.2001",
+      "name": "Waigai",
+      "postal_code": "97798"
+    },
+    {
+      "id": "82.05.09.2002",
+      "name": "Fuata",
+      "postal_code": "97798"
+    },
+    {
+      "id": "82.05.09.2003",
+      "name": "Wainib",
+      "postal_code": "97798"
+    },
+    {
+      "id": "82.05.09.2004",
+      "name": "Skom",
+      "postal_code": "97798"
+    },
+    {
+      "id": "82.05.09.2005",
+      "name": "Wai Tamua",
+      "postal_code": "97798"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

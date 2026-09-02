@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "31.73.07.1001",
+      "name": "Palmerah",
+      "postal_code": "11480"
+    },
+    {
+      "id": "31.73.07.1002",
+      "name": "Slipi",
+      "postal_code": "11410"
+    },
+    {
+      "id": "31.73.07.1003",
+      "name": "Kota Bambu Utara",
+      "postal_code": "11420"
+    },
+    {
+      "id": "31.73.07.1004",
+      "name": "Jatipulo",
+      "postal_code": "11430"
+    },
+    {
+      "id": "31.73.07.1005",
+      "name": "Kemanggisan",
+      "postal_code": "11480"
+    },
+    {
+      "id": "31.73.07.1006",
+      "name": "Kota Bambu Selatan",
+      "postal_code": "11420"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

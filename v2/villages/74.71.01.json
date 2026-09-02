@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "74.71.01.1005",
+      "name": "Mandonga",
+      "postal_code": "93111"
+    },
+    {
+      "id": "74.71.01.1006",
+      "name": "Korumba",
+      "postal_code": "93111"
+    },
+    {
+      "id": "74.71.01.1007",
+      "name": "Labibia",
+      "postal_code": "93113"
+    },
+    {
+      "id": "74.71.01.1008",
+      "name": "Wawombalata",
+      "postal_code": "93113"
+    },
+    {
+      "id": "74.71.01.1009",
+      "name": "Alolama",
+      "postal_code": "93112"
+    },
+    {
+      "id": "74.71.01.1010",
+      "name": "Anggilowu",
+      "postal_code": "93111"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

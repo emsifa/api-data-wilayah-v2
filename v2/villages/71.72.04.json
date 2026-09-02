@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "71.72.04.1003",
+      "name": "Pateten Satu",
+      "postal_code": "95524"
+    },
+    {
+      "id": "71.72.04.1004",
+      "name": "Winenet Satu",
+      "postal_code": "95525"
+    },
+    {
+      "id": "71.72.04.1005",
+      "name": "Aertembaga Satu",
+      "postal_code": "95526"
+    },
+    {
+      "id": "71.72.04.1006",
+      "name": "Tandurusa",
+      "postal_code": "95527"
+    },
+    {
+      "id": "71.72.04.1007",
+      "name": "Makawidey",
+      "postal_code": "95528"
+    },
+    {
+      "id": "71.72.04.1008",
+      "name": "Pinangunian",
+      "postal_code": "95529"
+    },
+    {
+      "id": "71.72.04.1011",
+      "name": "Pateten Dua",
+      "postal_code": "95524"
+    },
+    {
+      "id": "71.72.04.1012",
+      "name": "Winenet Dua",
+      "postal_code": "95525"
+    },
+    {
+      "id": "71.72.04.1013",
+      "name": "Kasawari",
+      "postal_code": "95521"
+    },
+    {
+      "id": "71.72.04.1014",
+      "name": "Aertembaga Dua",
+      "postal_code": "95526"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "61.04.17.2001",
+      "name": "Sungai Awan Kanan",
+      "postal_code": "78810"
+    },
+    {
+      "id": "61.04.17.2002",
+      "name": "Sungai Awan Kiri",
+      "postal_code": "78810"
+    },
+    {
+      "id": "61.04.17.2003",
+      "name": "Tempurukan",
+      "postal_code": "78810"
+    },
+    {
+      "id": "61.04.17.2004",
+      "name": "Ulak Medang",
+      "postal_code": "78810"
+    },
+    {
+      "id": "61.04.17.2005",
+      "name": "Tanjung Pura",
+      "postal_code": "78810"
+    },
+    {
+      "id": "61.04.17.2006",
+      "name": "Mayak",
+      "postal_code": "78810"
+    },
+    {
+      "id": "61.04.17.2007",
+      "name": "Tanjung Pasar",
+      "postal_code": "78810"
+    },
+    {
+      "id": "61.04.17.2008",
+      "name": "Suka Maju",
+      "postal_code": "78810"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

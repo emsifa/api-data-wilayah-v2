@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.09.35.2001",
+      "name": "Palir",
+      "postal_code": "45168"
+    },
+    {
+      "id": "32.09.35.2002",
+      "name": "Astapada",
+      "postal_code": "45168"
+    },
+    {
+      "id": "32.09.35.2003",
+      "name": "Gesik",
+      "postal_code": "45168"
+    },
+    {
+      "id": "32.09.35.2004",
+      "name": "Kemlakagede",
+      "postal_code": "45168"
+    },
+    {
+      "id": "32.09.35.2005",
+      "name": "Dawuan",
+      "postal_code": "45168"
+    },
+    {
+      "id": "32.09.35.2006",
+      "name": "Battembat",
+      "postal_code": "45168"
+    },
+    {
+      "id": "32.09.35.2007",
+      "name": "Kalibaru",
+      "postal_code": "45168"
+    },
+    {
+      "id": "32.09.35.2008",
+      "name": "Kalitengah",
+      "postal_code": "45168"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

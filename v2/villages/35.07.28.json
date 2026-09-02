@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.07.28.2001",
+      "name": "Pondokagung",
+      "postal_code": "65393"
+    },
+    {
+      "id": "35.07.28.2002",
+      "name": "Bayem",
+      "postal_code": "65393"
+    },
+    {
+      "id": "35.07.28.2003",
+      "name": "Pait",
+      "postal_code": "65393"
+    },
+    {
+      "id": "35.07.28.2004",
+      "name": "Wonoagung",
+      "postal_code": "65393"
+    },
+    {
+      "id": "35.07.28.2005",
+      "name": "Kasembon",
+      "postal_code": "65393"
+    },
+    {
+      "id": "35.07.28.2006",
+      "name": "Sukosari",
+      "postal_code": "65393"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

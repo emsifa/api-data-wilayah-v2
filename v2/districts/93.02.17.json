@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "93.02.17",
+    "name": "Ninati",
+    "province": {
+      "id": "93",
+      "name": "Papua Selatan"
+    },
+    "regency": {
+      "id": "93.02",
+      "name": "Kabupaten Boven Digoel"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

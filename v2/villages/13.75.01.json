@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "13.75.01.1001",
+      "name": "Tarok Dipo",
+      "postal_code": "26117"
+    },
+    {
+      "id": "13.75.01.1002",
+      "name": "Bukit Cangang Kayu Ramang",
+      "postal_code": "26116"
+    },
+    {
+      "id": "13.75.01.1003",
+      "name": "Pakan Kurai",
+      "postal_code": "26112"
+    },
+    {
+      "id": "13.75.01.1004",
+      "name": "Aur Tajungkang Tangah Sawah",
+      "postal_code": "26111"
+    },
+    {
+      "id": "13.75.01.1005",
+      "name": "Benteng Pasar Atas",
+      "postal_code": "26113"
+    },
+    {
+      "id": "13.75.01.1006",
+      "name": "Kayu Kubu",
+      "postal_code": "26115"
+    },
+    {
+      "id": "13.75.01.1007",
+      "name": "Bukik Apik Puhun",
+      "postal_code": "26114"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "95.04.06.2001",
+      "name": "Wurineri",
+      "postal_code": "99036"
+    },
+    {
+      "id": "95.04.06.2002",
+      "name": "Pokegi",
+      "postal_code": "99416"
+    },
+    {
+      "id": "95.04.06.2003",
+      "name": "Arombok",
+      "postal_code": "99036"
+    },
+    {
+      "id": "95.04.06.2004",
+      "name": "Enanagi",
+      "postal_code": "99036"
+    },
+    {
+      "id": "95.04.06.2005",
+      "name": "Pindak",
+      "postal_code": "99416"
+    },
+    {
+      "id": "95.04.06.2006",
+      "name": "Gilopaga",
+      "postal_code": "99416"
+    },
+    {
+      "id": "95.04.06.2007",
+      "name": "Keribaga",
+      "postal_code": "99416"
+    },
+    {
+      "id": "95.04.06.2008",
+      "name": "Wona",
+      "postal_code": "99416"
+    },
+    {
+      "id": "95.04.06.2009",
+      "name": "Numbuboton",
+      "postal_code": "99416"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.08.17.2001",
+      "name": "Banyuputih Kidul",
+      "postal_code": "67355"
+    },
+    {
+      "id": "35.08.17.2002",
+      "name": "Rojopolo",
+      "postal_code": "67355"
+    },
+    {
+      "id": "35.08.17.2003",
+      "name": "Kaliboto Kidul",
+      "postal_code": "67355"
+    },
+    {
+      "id": "35.08.17.2004",
+      "name": "Kaliboto Lor",
+      "postal_code": "67355"
+    },
+    {
+      "id": "35.08.17.2005",
+      "name": "Sukosari",
+      "postal_code": "67355"
+    },
+    {
+      "id": "35.08.17.2006",
+      "name": "Jatiroto",
+      "postal_code": "67355"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

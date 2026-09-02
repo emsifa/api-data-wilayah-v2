@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "36.01.08.2001",
+      "name": "Pasanggrahan",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.08.2002",
+      "name": "Sukasaba",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.08.2005",
+      "name": "Gunungbatu",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.08.2006",
+      "name": "Panacaran",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.08.2007",
+      "name": "Curuglanglang",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.08.2008",
+      "name": "Munjul",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.08.2009",
+      "name": "Cibitung",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.08.2011",
+      "name": "Kotadukuh",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.08.2018",
+      "name": "Lebak",
+      "postal_code": "42275"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

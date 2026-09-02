@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "21.72.04.1001",
+      "name": "Tanjung Pinang Timur",
+      "postal_code": "29122"
+    },
+    {
+      "id": "21.72.04.1002",
+      "name": "Dompak",
+      "postal_code": "29124"
+    },
+    {
+      "id": "21.72.04.1003",
+      "name": "Tanjung Ayun Sakti",
+      "postal_code": "29124"
+    },
+    {
+      "id": "21.72.04.1004",
+      "name": "Sei Jang",
+      "postal_code": "29124"
+    },
+    {
+      "id": "21.72.04.1005",
+      "name": "Tanjung Unggat",
+      "postal_code": "29122"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

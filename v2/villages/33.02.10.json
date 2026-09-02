@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "33.02.10.2001",
+      "name": "Srowot",
+      "postal_code": "53191"
+    },
+    {
+      "id": "33.02.10.2002",
+      "name": "Suro",
+      "postal_code": "53191"
+    },
+    {
+      "id": "33.02.10.2003",
+      "name": "Kaliori",
+      "postal_code": "53191"
+    },
+    {
+      "id": "33.02.10.2004",
+      "name": "Wlahar Wetan",
+      "postal_code": "53191"
+    },
+    {
+      "id": "33.02.10.2005",
+      "name": "Pekaja",
+      "postal_code": "53191"
+    },
+    {
+      "id": "33.02.10.2006",
+      "name": "Karangdadap",
+      "postal_code": "53191"
+    },
+    {
+      "id": "33.02.10.2007",
+      "name": "Kalibagor",
+      "postal_code": "53191"
+    },
+    {
+      "id": "33.02.10.2008",
+      "name": "Pajerukan",
+      "postal_code": "53191"
+    },
+    {
+      "id": "33.02.10.2009",
+      "name": "Petir",
+      "postal_code": "53191"
+    },
+    {
+      "id": "33.02.10.2010",
+      "name": "Kalicupak Kidul",
+      "postal_code": "53191"
+    },
+    {
+      "id": "33.02.10.2011",
+      "name": "Kalicupak Lor",
+      "postal_code": "53191"
+    },
+    {
+      "id": "33.02.10.2012",
+      "name": "Kalisogra Wetan",
+      "postal_code": "53191"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

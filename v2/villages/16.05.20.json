@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "16.05.20.2001",
+      "name": "Banpres",
+      "postal_code": "31664"
+    },
+    {
+      "id": "16.05.20.2002",
+      "name": "Jaya Tunggal",
+      "postal_code": "31664"
+    },
+    {
+      "id": "16.05.20.2003",
+      "name": "Sukamulya",
+      "postal_code": "31664"
+    },
+    {
+      "id": "16.05.20.2004",
+      "name": "Darma Sakti",
+      "postal_code": "31664"
+    },
+    {
+      "id": "16.05.20.2005",
+      "name": "Jaya Bhakti",
+      "postal_code": "31664"
+    },
+    {
+      "id": "16.05.20.2006",
+      "name": "Remayu",
+      "postal_code": "31664"
+    },
+    {
+      "id": "16.05.20.2007",
+      "name": "Petunang",
+      "postal_code": "31664"
+    },
+    {
+      "id": "16.05.20.2008",
+      "name": "Lubuk Rumbai",
+      "postal_code": "31664"
+    },
+    {
+      "id": "16.05.20.2009",
+      "name": "Air Beliti",
+      "postal_code": "31664"
+    },
+    {
+      "id": "16.05.20.2010",
+      "name": "Leban Jaya",
+      "postal_code": "31664"
+    },
+    {
+      "id": "16.05.20.2011",
+      "name": "Bamasco",
+      "postal_code": "31664"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

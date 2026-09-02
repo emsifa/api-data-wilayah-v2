@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "94.02",
+    "name": "Kabupaten Puncak Jaya",
+    "capital": "Mulia",
+    "lat": -3.716207542016092,
+    "lng": 137.98781735692376,
+    "elv": 2121,
+    "tz": 9,
+    "population": 220393,
+    "total_area": 5986.19,
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

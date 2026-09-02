@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "52.71.03.1004",
+      "name": "Cakranegara Selatan",
+      "postal_code": "83239"
+    },
+    {
+      "id": "52.71.03.1005",
+      "name": "Cakranegara Barat",
+      "postal_code": "83239"
+    },
+    {
+      "id": "52.71.03.1006",
+      "name": "Cakranegara Timur",
+      "postal_code": "83239"
+    },
+    {
+      "id": "52.71.03.1007",
+      "name": "Cakranegara Utara",
+      "postal_code": "83239"
+    },
+    {
+      "id": "52.71.03.1009",
+      "name": "Sayang-sayang",
+      "postal_code": "83239"
+    },
+    {
+      "id": "52.71.03.1010",
+      "name": "Cakranegara Selatan Baru",
+      "postal_code": "83239"
+    },
+    {
+      "id": "52.71.03.1011",
+      "name": "Sapta Marga",
+      "postal_code": "83238"
+    },
+    {
+      "id": "52.71.03.1012",
+      "name": "Cilinaya",
+      "postal_code": "83238"
+    },
+    {
+      "id": "52.71.03.1013",
+      "name": "Mayura",
+      "postal_code": "83238"
+    },
+    {
+      "id": "52.71.03.1014",
+      "name": "Karang Taliwang",
+      "postal_code": "83238"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "96.04.15.2001",
+      "name": "Ases",
+      "postal_code": "98475"
+    },
+    {
+      "id": "96.04.15.2002",
+      "name": "Asuon",
+      "postal_code": "98475"
+    },
+    {
+      "id": "96.04.15.2003",
+      "name": "Safotiek",
+      "postal_code": "98475"
+    },
+    {
+      "id": "96.04.15.2004",
+      "name": "Frasayoah",
+      "postal_code": "98475"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

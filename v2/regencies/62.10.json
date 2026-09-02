@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "62.10",
+    "name": "Kabupaten Gunung Mas",
+    "capital": "Kuala Kurun",
+    "lat": -1.1272585021152817,
+    "lng": 113.8438717306911,
+    "elv": 90,
+    "tz": 7,
+    "population": 134482,
+    "total_area": 9305.756,
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

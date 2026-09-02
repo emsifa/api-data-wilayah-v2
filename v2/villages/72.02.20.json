@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "72.02.20.2001",
+      "name": "Taipa",
+      "postal_code": "94662"
+    },
+    {
+      "id": "72.02.20.2002",
+      "name": "Meko",
+      "postal_code": "94662"
+    },
+    {
+      "id": "72.02.20.2003",
+      "name": "Toinasa",
+      "postal_code": "94662"
+    },
+    {
+      "id": "72.02.20.2004",
+      "name": "Salukaia",
+      "postal_code": "94662"
+    },
+    {
+      "id": "72.02.20.2005",
+      "name": "Uranosari",
+      "postal_code": "94662"
+    },
+    {
+      "id": "72.02.20.2006",
+      "name": "Owini",
+      "postal_code": "94662"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

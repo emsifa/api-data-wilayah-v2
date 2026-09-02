@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "12.13.02.1012",
+      "name": "Mompang Jae",
+      "postal_code": "22979"
+    },
+    {
+      "id": "12.13.02.2002",
+      "name": "Beringin Jaya",
+      "postal_code": "22979"
+    },
+    {
+      "id": "12.13.02.2007",
+      "name": "Huta damai",
+      "postal_code": "22979"
+    },
+    {
+      "id": "12.13.02.2008",
+      "name": "Jambur Padang Matinggi",
+      "postal_code": "22979"
+    },
+    {
+      "id": "12.13.02.2009",
+      "name": "Kampung Baru",
+      "postal_code": "22979"
+    },
+    {
+      "id": "12.13.02.2010",
+      "name": "Mompang Julu",
+      "postal_code": "22979"
+    },
+    {
+      "id": "12.13.02.2014",
+      "name": "Rumbio",
+      "postal_code": "22979"
+    },
+    {
+      "id": "12.13.02.2015",
+      "name": "Suka Ramai",
+      "postal_code": "22979"
+    },
+    {
+      "id": "12.13.02.2017",
+      "name": "Sopo Sorik",
+      "postal_code": "22979"
+    },
+    {
+      "id": "12.13.02.2018",
+      "name": "Simanondong",
+      "postal_code": "22979"
+    },
+    {
+      "id": "12.13.02.2019",
+      "name": "Torbanua Raja",
+      "postal_code": "22979"
+    },
+    {
+      "id": "12.13.02.2020",
+      "name": "Tanjung Mompang",
+      "postal_code": "22979"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

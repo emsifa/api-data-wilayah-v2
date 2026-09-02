@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "63.04",
+    "name": "Kabupaten Barito Kuala",
+    "capital": "Marabahan",
+    "lat": -2.9783388223443703,
+    "lng": 114.76579532814996,
+    "elv": 7,
+    "tz": 8,
+    "population": 329799,
+    "total_area": 2425.829,
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

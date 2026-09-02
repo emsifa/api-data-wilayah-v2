@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "14.08.11",
+    "name": "Lubuk Dalam",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.08",
+      "name": "Kabupaten Siak"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

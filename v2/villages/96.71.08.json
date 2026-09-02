@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "96.71.08.1001",
+      "name": "Klasuat",
+      "postal_code": "98418"
+    },
+    {
+      "id": "96.71.08.1002",
+      "name": "Klablim",
+      "postal_code": "98418"
+    },
+    {
+      "id": "96.71.08.1003",
+      "name": "Klasaman",
+      "postal_code": "98418"
+    },
+    {
+      "id": "96.71.08.1004",
+      "name": "Giwu",
+      "postal_code": "98418"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

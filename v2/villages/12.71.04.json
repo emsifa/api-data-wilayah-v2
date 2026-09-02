@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "12.71.04.1001",
+      "name": "Tegal S Mandala I",
+      "postal_code": "20226"
+    },
+    {
+      "id": "12.71.04.1002",
+      "name": "Tegal S Mandala II",
+      "postal_code": "20226"
+    },
+    {
+      "id": "12.71.04.1003",
+      "name": "Tegal S Mandala III",
+      "postal_code": "20226"
+    },
+    {
+      "id": "12.71.04.1004",
+      "name": "Denai",
+      "postal_code": "20227"
+    },
+    {
+      "id": "12.71.04.1005",
+      "name": "Binjai",
+      "postal_code": "20228"
+    },
+    {
+      "id": "12.71.04.1006",
+      "name": "Medan Tenggara",
+      "postal_code": "20228"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

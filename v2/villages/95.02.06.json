@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "95.02.06.2001",
+      "name": "Borme",
+      "postal_code": "99452"
+    },
+    {
+      "id": "95.02.06.2002",
+      "name": "Omban",
+      "postal_code": "99452"
+    },
+    {
+      "id": "95.02.06.2003",
+      "name": "Sikibur",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.02.06.2004",
+      "name": "Onya",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.02.06.2005",
+      "name": "Arina",
+      "postal_code": "99452"
+    },
+    {
+      "id": "95.02.06.2006",
+      "name": "Bordamban",
+      "postal_code": "99452"
+    },
+    {
+      "id": "95.02.06.2007",
+      "name": "Aringgon",
+      "postal_code": "99452"
+    },
+    {
+      "id": "95.02.06.2008",
+      "name": "Bukam",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.02.06.2009",
+      "name": "Kwime",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.02.06.2010",
+      "name": "Kolgir",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.02.06.2011",
+      "name": "Cangdamban",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.02.06.2012",
+      "name": "Laydamban",
+      "postal_code": "99577"
+    },
+    {
+      "id": "95.02.06.2013",
+      "name": "Seban",
+      "postal_code": "99577"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

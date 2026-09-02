@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.03.31.2001",
+      "name": "Haurwangi",
+      "postal_code": "43280"
+    },
+    {
+      "id": "32.03.31.2002",
+      "name": "Cihea",
+      "postal_code": "43280"
+    },
+    {
+      "id": "32.03.31.2003",
+      "name": "Ramasari",
+      "postal_code": "43280"
+    },
+    {
+      "id": "32.03.31.2004",
+      "name": "Mekarwangi/Sukatani",
+      "postal_code": "43280"
+    },
+    {
+      "id": "32.03.31.2005",
+      "name": "Mekarwangi",
+      "postal_code": "43280"
+    },
+    {
+      "id": "32.03.31.2006",
+      "name": "Kertasari",
+      "postal_code": "43280"
+    },
+    {
+      "id": "32.03.31.2007",
+      "name": "Cipeuyeum",
+      "postal_code": "43280"
+    },
+    {
+      "id": "32.03.31.2008",
+      "name": "Kertamukti",
+      "postal_code": "43280"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

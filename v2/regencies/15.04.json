@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "15.04",
+    "name": "Kabupaten Batanghari",
+    "capital": "Muara Bulian",
+    "lat": -1.6936093136328045,
+    "lng": 103.27299563039578,
+    "elv": 17,
+    "tz": 7,
+    "population": 307361,
+    "total_area": 5453.689,
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

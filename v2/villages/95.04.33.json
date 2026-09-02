@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "95.04.33.2001",
+      "name": "Wama",
+      "postal_code": "99047"
+    },
+    {
+      "id": "95.04.33.2002",
+      "name": "Wonitu",
+      "postal_code": "99047"
+    },
+    {
+      "id": "95.04.33.2003",
+      "name": "Kumbur",
+      "postal_code": "99047"
+    },
+    {
+      "id": "95.04.33.2004",
+      "name": "Kwarini",
+      "postal_code": "99047"
+    },
+    {
+      "id": "95.04.33.2005",
+      "name": "Weyage",
+      "postal_code": "99047"
+    },
+    {
+      "id": "95.04.33.2006",
+      "name": "Timer",
+      "postal_code": "99047"
+    },
+    {
+      "id": "95.04.33.2007",
+      "name": "Gulak",
+      "postal_code": "99047"
+    },
+    {
+      "id": "95.04.33.2008",
+      "name": "Nowo",
+      "postal_code": "99047"
+    },
+    {
+      "id": "95.04.33.2009",
+      "name": "Gunalo",
+      "postal_code": "99047"
+    },
+    {
+      "id": "95.04.33.2010",
+      "name": "Korlo",
+      "postal_code": "99047"
+    },
+    {
+      "id": "95.04.33.2011",
+      "name": "Towolome",
+      "postal_code": "99047"
+    },
+    {
+      "id": "95.04.33.2012",
+      "name": "Golena",
+      "postal_code": "99047"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "id": "33.06.06.1007",
+      "name": "Cangkrepkidul",
+      "postal_code": "54117"
+    },
+    {
+      "id": "33.06.06.1008",
+      "name": "Cangkreplor",
+      "postal_code": "54117"
+    },
+    {
+      "id": "33.06.06.1010",
+      "name": "Tambakrejo",
+      "postal_code": "54118"
+    },
+    {
+      "id": "33.06.06.1011",
+      "name": "Kedungsari",
+      "postal_code": "54119"
+    },
+    {
+      "id": "33.06.06.1012",
+      "name": "Pangenrejo",
+      "postal_code": "54115"
+    },
+    {
+      "id": "33.06.06.1013",
+      "name": "Pangenjurutengah",
+      "postal_code": "54114"
+    },
+    {
+      "id": "33.06.06.1014",
+      "name": "Doplang",
+      "postal_code": "54114"
+    },
+    {
+      "id": "33.06.06.1015",
+      "name": "Sindurjan",
+      "postal_code": "54113"
+    },
+    {
+      "id": "33.06.06.1016",
+      "name": "Paduroso",
+      "postal_code": "54112"
+    },
+    {
+      "id": "33.06.06.1017",
+      "name": "Purworejo",
+      "postal_code": "54151"
+    },
+    {
+      "id": "33.06.06.1018",
+      "name": "Mranti",
+      "postal_code": "54112"
+    },
+    {
+      "id": "33.06.06.1019",
+      "name": "Mudal",
+      "postal_code": "54119"
+    },
+    {
+      "id": "33.06.06.1020",
+      "name": "Keseneng",
+      "postal_code": "54119"
+    },
+    {
+      "id": "33.06.06.1021",
+      "name": "Baledono",
+      "postal_code": "54118"
+    },
+    {
+      "id": "33.06.06.2001",
+      "name": "Pacekelan",
+      "postal_code": "54119"
+    },
+    {
+      "id": "33.06.06.2002",
+      "name": "Plipir",
+      "postal_code": "54119"
+    },
+    {
+      "id": "33.06.06.2003",
+      "name": "Brenggong",
+      "postal_code": "54119"
+    },
+    {
+      "id": "33.06.06.2004",
+      "name": "Ganggeng",
+      "postal_code": "54119"
+    },
+    {
+      "id": "33.06.06.2005",
+      "name": "Semawung",
+      "postal_code": "54119"
+    },
+    {
+      "id": "33.06.06.2006",
+      "name": "Wonoroto",
+      "postal_code": "54119"
+    },
+    {
+      "id": "33.06.06.2009",
+      "name": "Sidorejo",
+      "postal_code": "54119"
+    },
+    {
+      "id": "33.06.06.2022",
+      "name": "Wonotulus",
+      "postal_code": "54119"
+    },
+    {
+      "id": "33.06.06.2023",
+      "name": "Sidomulyo",
+      "postal_code": "54119"
+    },
+    {
+      "id": "33.06.06.2024",
+      "name": "Sudimoro",
+      "postal_code": "54119"
+    },
+    {
+      "id": "33.06.06.2025",
+      "name": "Donorati",
+      "postal_code": "54119"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

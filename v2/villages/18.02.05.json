@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "18.02.05.1003",
+      "name": "Adi Puro",
+      "postal_code": "34172"
+    },
+    {
+      "id": "18.02.05.1004",
+      "name": "Trimurjo",
+      "postal_code": "34172"
+    },
+    {
+      "id": "18.02.05.1007",
+      "name": "Simbar Waringin",
+      "postal_code": "34171"
+    },
+    {
+      "id": "18.02.05.2001",
+      "name": "Depok Rejo",
+      "postal_code": "34172"
+    },
+    {
+      "id": "18.02.05.2002",
+      "name": "Liman Benawi",
+      "postal_code": "34172"
+    },
+    {
+      "id": "18.02.05.2005",
+      "name": "Noto Harjo",
+      "postal_code": "34172"
+    },
+    {
+      "id": "18.02.05.2006",
+      "name": "Purwodadi",
+      "postal_code": "34172"
+    },
+    {
+      "id": "18.02.05.2008",
+      "name": "Tempuran",
+      "postal_code": "34172"
+    },
+    {
+      "id": "18.02.05.2009",
+      "name": "Purwo Adi",
+      "postal_code": "34172"
+    },
+    {
+      "id": "18.02.05.2010",
+      "name": "Pujo Dadi",
+      "postal_code": "34172"
+    },
+    {
+      "id": "18.02.05.2011",
+      "name": "Pujo Kerto",
+      "postal_code": "34172"
+    },
+    {
+      "id": "18.02.05.2012",
+      "name": "Untoro",
+      "postal_code": "34172"
+    },
+    {
+      "id": "18.02.05.2013",
+      "name": "Pujo Asri",
+      "postal_code": "34172"
+    },
+    {
+      "id": "18.02.05.2014",
+      "name": "Pujo Basuki",
+      "postal_code": "34172"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

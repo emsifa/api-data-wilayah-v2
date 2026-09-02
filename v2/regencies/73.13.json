@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "73.13",
+    "name": "Kabupaten Wajo",
+    "capital": "Sengkang",
+    "lat": -4.1120716633903855,
+    "lng": 120.02715621245426,
+    "elv": 40,
+    "tz": 8,
+    "population": 400699,
+    "total_area": 2505.492,
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

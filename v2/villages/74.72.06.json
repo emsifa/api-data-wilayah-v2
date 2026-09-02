@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "74.72.06.1007",
+      "name": "Wajo",
+      "postal_code": "93726"
+    },
+    {
+      "id": "74.72.06.1008",
+      "name": "Lamangga",
+      "postal_code": "93725"
+    },
+    {
+      "id": "74.72.06.1009",
+      "name": "Melai",
+      "postal_code": "93727"
+    },
+    {
+      "id": "74.72.06.1010",
+      "name": "Baadia",
+      "postal_code": "93727"
+    },
+    {
+      "id": "74.72.06.1011",
+      "name": "Tanganapada",
+      "postal_code": "93721"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

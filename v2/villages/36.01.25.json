@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "36.01.25.1001",
+      "name": "Kadumerak",
+      "postal_code": "42213"
+    },
+    {
+      "id": "36.01.25.1002",
+      "name": "Cigadung",
+      "postal_code": "42213"
+    },
+    {
+      "id": "36.01.25.1003",
+      "name": "Pagadungan",
+      "postal_code": "42213"
+    },
+    {
+      "id": "36.01.25.1014",
+      "name": "Juhut",
+      "postal_code": "42213"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

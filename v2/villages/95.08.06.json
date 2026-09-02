@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "95.08.06.2001",
+      "name": "Mugi",
+      "postal_code": "99913"
+    },
+    {
+      "id": "95.08.06.2002",
+      "name": "Dondoklema",
+      "postal_code": "99546"
+    },
+    {
+      "id": "95.08.06.2003",
+      "name": "Dobopem",
+      "postal_code": "99546"
+    },
+    {
+      "id": "95.08.06.2004",
+      "name": "Paru",
+      "postal_code": "99546"
+    },
+    {
+      "id": "95.08.06.2005",
+      "name": "Wundui",
+      "postal_code": "99913"
+    },
+    {
+      "id": "95.08.06.2006",
+      "name": "Kemamburu",
+      "postal_code": "99913"
+    },
+    {
+      "id": "95.08.06.2007",
+      "name": "Womsit",
+      "postal_code": "99913"
+    },
+    {
+      "id": "95.08.06.2008",
+      "name": "Delit",
+      "postal_code": "99913"
+    },
+    {
+      "id": "95.08.06.2009",
+      "name": "Keret Anggoma",
+      "postal_code": "99913"
+    },
+    {
+      "id": "95.08.06.2010",
+      "name": "Manet",
+      "postal_code": "99913"
+    },
+    {
+      "id": "95.08.06.2011",
+      "name": "Miri",
+      "postal_code": "99913"
+    },
+    {
+      "id": "95.08.06.2012",
+      "name": "Yelsengge",
+      "postal_code": "99913"
+    },
+    {
+      "id": "95.08.06.2013",
+      "name": "Sarit",
+      "postal_code": "99913"
+    },
+    {
+      "id": "95.08.06.2014",
+      "name": "Unue",
+      "postal_code": "99913"
+    },
+    {
+      "id": "95.08.06.2015",
+      "name": "Mirikil",
+      "postal_code": "99913"
+    },
+    {
+      "id": "95.08.06.2016",
+      "name": "Sambua",
+      "postal_code": "99546"
+    },
+    {
+      "id": "95.08.06.2017",
+      "name": "Gisarok",
+      "postal_code": "99546"
+    },
+    {
+      "id": "95.08.06.2018",
+      "name": "Isiklak",
+      "postal_code": "99546"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

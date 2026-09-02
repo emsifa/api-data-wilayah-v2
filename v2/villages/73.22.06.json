@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "73.22.06.2001",
+      "name": "Lampuawa",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.06.2002",
+      "name": "Ketulungan",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.06.2003",
+      "name": "Salulemo",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.06.2004",
+      "name": "Kaluku",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.06.2005",
+      "name": "Sukamaju",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.06.2006",
+      "name": "Sukadamai",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.06.2010",
+      "name": "Tamboke",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.06.2013",
+      "name": "Tolangi",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.06.2014",
+      "name": "Tulung Indah",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.06.2019",
+      "name": "Minanga Tallu",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.06.2020",
+      "name": "Wonosari",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.06.2021",
+      "name": "Mulyasari",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.06.2022",
+      "name": "Saptamarga",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.06.2024",
+      "name": "Tulung Sari",
+      "postal_code": "92963"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

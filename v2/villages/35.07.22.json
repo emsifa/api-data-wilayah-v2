@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "35.07.22.2001",
+      "name": "Kucur",
+      "postal_code": "65151"
+    },
+    {
+      "id": "35.07.22.2002",
+      "name": "Kalisongo",
+      "postal_code": "65151"
+    },
+    {
+      "id": "35.07.22.2003",
+      "name": "Karangwidoro",
+      "postal_code": "65151"
+    },
+    {
+      "id": "35.07.22.2004",
+      "name": "Petungsewu",
+      "postal_code": "65151"
+    },
+    {
+      "id": "35.07.22.2005",
+      "name": "Selorejo",
+      "postal_code": "65151"
+    },
+    {
+      "id": "35.07.22.2006",
+      "name": "Tegalweru",
+      "postal_code": "65151"
+    },
+    {
+      "id": "35.07.22.2007",
+      "name": "Landungsari",
+      "postal_code": "65151"
+    },
+    {
+      "id": "35.07.22.2008",
+      "name": "Mulyoagung",
+      "postal_code": "65151"
+    },
+    {
+      "id": "35.07.22.2009",
+      "name": "Gadingkulon",
+      "postal_code": "65151"
+    },
+    {
+      "id": "35.07.22.2010",
+      "name": "Sumbersekar",
+      "postal_code": "65151"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

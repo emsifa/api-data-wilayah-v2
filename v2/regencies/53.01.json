@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "53.01",
+    "name": "Kabupaten Kupang",
+    "capital": "Oelamasi",
+    "lat": -10.072767460089674,
+    "lng": 123.86446322540102,
+    "elv": 27,
+    "tz": 8,
+    "population": 391539,
+    "total_area": 5130.659,
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

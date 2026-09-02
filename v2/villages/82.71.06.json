@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "82.71.06.1001",
+      "name": "Takoma",
+      "postal_code": "97714"
+    },
+    {
+      "id": "82.71.06.1002",
+      "name": "Tanah Raja",
+      "postal_code": "97713"
+    },
+    {
+      "id": "82.71.06.1003",
+      "name": "Muhajirin",
+      "postal_code": "97713"
+    },
+    {
+      "id": "82.71.06.1004",
+      "name": "Stadion",
+      "postal_code": "97712"
+    },
+    {
+      "id": "82.71.06.1005",
+      "name": "Maliaro",
+      "postal_code": "97711"
+    },
+    {
+      "id": "82.71.06.1006",
+      "name": "Kampung Pisang",
+      "postal_code": "97712"
+    },
+    {
+      "id": "82.71.06.1007",
+      "name": "Marikurubu",
+      "postal_code": "97711"
+    },
+    {
+      "id": "82.71.06.1008",
+      "name": "Kota Baru",
+      "postal_code": "97731"
+    },
+    {
+      "id": "82.71.06.1009",
+      "name": "Gamalama",
+      "postal_code": "97721"
+    },
+    {
+      "id": "82.71.06.1010",
+      "name": "Kalumpang",
+      "postal_code": "97722"
+    },
+    {
+      "id": "82.71.06.1011",
+      "name": "Moya",
+      "postal_code": "97723"
+    },
+    {
+      "id": "82.71.06.1012",
+      "name": "Santiong",
+      "postal_code": "97722"
+    },
+    {
+      "id": "82.71.06.1013",
+      "name": "Makassar Barat",
+      "postal_code": "97724"
+    },
+    {
+      "id": "82.71.06.1014",
+      "name": "Makassar Timur",
+      "postal_code": "97724"
+    },
+    {
+      "id": "82.71.06.1015",
+      "name": "Salahuddin",
+      "postal_code": "97732"
+    },
+    {
+      "id": "82.71.06.1016",
+      "name": "Tongole",
+      "postal_code": "97711"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

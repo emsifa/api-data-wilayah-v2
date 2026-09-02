@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "33.01.21.1001",
+      "name": "Sidakaya",
+      "postal_code": "53212"
+    },
+    {
+      "id": "33.01.21.1002",
+      "name": "Cilacap",
+      "postal_code": "53211"
+    },
+    {
+      "id": "33.01.21.1003",
+      "name": "Tambakreja",
+      "postal_code": "53213"
+    },
+    {
+      "id": "33.01.21.1004",
+      "name": "Tegalkamulyan",
+      "postal_code": "53215"
+    },
+    {
+      "id": "33.01.21.1005",
+      "name": "Tegalreja",
+      "postal_code": "53215"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

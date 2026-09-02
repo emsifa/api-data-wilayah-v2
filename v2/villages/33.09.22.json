@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "33.09.22.2001",
+      "name": "Ngablak",
+      "postal_code": "57382"
+    },
+    {
+      "id": "33.09.22.2002",
+      "name": "Kedungpilang",
+      "postal_code": "57382"
+    },
+    {
+      "id": "33.09.22.2003",
+      "name": "Kalinanas",
+      "postal_code": "57382"
+    },
+    {
+      "id": "33.09.22.2004",
+      "name": "Gilirejo",
+      "postal_code": "57382"
+    },
+    {
+      "id": "33.09.22.2005",
+      "name": "Jatilawang",
+      "postal_code": "57382"
+    },
+    {
+      "id": "33.09.22.2006",
+      "name": "Garangan",
+      "postal_code": "57382"
+    },
+    {
+      "id": "33.09.22.2007",
+      "name": "Bercak",
+      "postal_code": "57382"
+    },
+    {
+      "id": "33.09.22.2008",
+      "name": "Bengle",
+      "postal_code": "57382"
+    },
+    {
+      "id": "33.09.22.2009",
+      "name": "Gunungsari",
+      "postal_code": "57382"
+    },
+    {
+      "id": "33.09.22.2010",
+      "name": "Repaking",
+      "postal_code": "57382"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

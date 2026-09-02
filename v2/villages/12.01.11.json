@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "12.01.11.1001",
+      "name": "Bajamas",
+      "postal_code": "22566"
+    },
+    {
+      "id": "12.01.11.2002",
+      "name": "Sampang Maruhur",
+      "postal_code": "22566"
+    },
+    {
+      "id": "12.01.11.2003",
+      "name": "Siordang",
+      "postal_code": "22566"
+    },
+    {
+      "id": "12.01.11.2004",
+      "name": "Pardomuan",
+      "postal_code": "22566"
+    },
+    {
+      "id": "12.01.11.2005",
+      "name": "Simpang III Lae Bingke",
+      "postal_code": "22566"
+    },
+    {
+      "id": "12.01.11.2006",
+      "name": "Sigodung",
+      "postal_code": "22566"
+    },
+    {
+      "id": "12.01.11.2007",
+      "name": "Masnauli",
+      "postal_code": "22566"
+    },
+    {
+      "id": "12.01.11.2008",
+      "name": "Muara Ode",
+      "postal_code": "22566"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

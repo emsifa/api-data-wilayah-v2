@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "96.03.21.2001",
+      "name": "Kalobo",
+      "postal_code": "98496"
+    },
+    {
+      "id": "96.03.21.2002",
+      "name": "Sakabu",
+      "postal_code": "98496"
+    },
+    {
+      "id": "96.03.21.2003",
+      "name": "Waibu",
+      "postal_code": "98496"
+    },
+    {
+      "id": "96.03.21.2004",
+      "name": "Waijan",
+      "postal_code": "98496"
+    },
+    {
+      "id": "96.03.21.2005",
+      "name": "Waimeci",
+      "postal_code": "98496"
+    },
+    {
+      "id": "96.03.21.2006",
+      "name": "Wailabu",
+      "postal_code": "98496"
+    },
+    {
+      "id": "96.03.21.2007",
+      "name": "Wailen",
+      "postal_code": "98496"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "74.71.10.1001",
+      "name": "Kambu",
+      "postal_code": "93231"
+    },
+    {
+      "id": "74.71.10.1002",
+      "name": "Mokoau",
+      "postal_code": "93231"
+    },
+    {
+      "id": "74.71.10.1003",
+      "name": "Padaleu",
+      "postal_code": "93231"
+    },
+    {
+      "id": "74.71.10.1004",
+      "name": "Lalolara",
+      "postal_code": "93231"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

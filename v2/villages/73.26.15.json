@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "73.26.15.1003",
+      "name": "Ba'tan",
+      "postal_code": "91852"
+    },
+    {
+      "id": "73.26.15.1004",
+      "name": "Pantanakan Lolo",
+      "postal_code": "91852"
+    },
+    {
+      "id": "73.26.15.2001",
+      "name": "Tallu Lolo",
+      "postal_code": "91852"
+    },
+    {
+      "id": "73.26.15.2002",
+      "name": "Rinding Batu",
+      "postal_code": "91852"
+    },
+    {
+      "id": "73.26.15.2005",
+      "name": "Angin-angin",
+      "postal_code": "91852"
+    },
+    {
+      "id": "73.26.15.2006",
+      "name": "Sangbua'",
+      "postal_code": "91852"
+    },
+    {
+      "id": "73.26.15.2007",
+      "name": "Tadongkon",
+      "postal_code": "91852"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "91.15.15.2001",
+      "name": "Mambai",
+      "postal_code": "98675"
+    },
+    {
+      "id": "91.15.15.2002",
+      "name": "Soyoi",
+      "postal_code": "98675"
+    },
+    {
+      "id": "91.15.15.2003",
+      "name": "Daimboa",
+      "postal_code": "98675"
+    },
+    {
+      "id": "91.15.15.2004",
+      "name": "Napani",
+      "postal_code": "98675"
+    },
+    {
+      "id": "91.15.15.2005",
+      "name": "Segha",
+      "postal_code": "98675"
+    },
+    {
+      "id": "91.15.15.2006",
+      "name": "Wainarisi",
+      "postal_code": "98675"
+    },
+    {
+      "id": "91.15.15.2007",
+      "name": "Fafarui",
+      "postal_code": "98675"
+    },
+    {
+      "id": "91.15.15.2008",
+      "name": "Dawoa",
+      "postal_code": "98675"
+    },
+    {
+      "id": "91.15.15.2009",
+      "name": "Sinabo",
+      "postal_code": "98675"
+    },
+    {
+      "id": "91.15.15.2010",
+      "name": "Woinui",
+      "postal_code": "98675"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

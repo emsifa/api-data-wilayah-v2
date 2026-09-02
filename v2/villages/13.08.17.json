@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "13.08.17.2001",
+      "name": "Padang Gelugur",
+      "postal_code": "26352"
+    },
+    {
+      "id": "13.08.17.2002",
+      "name": "Sontang Cubadak",
+      "postal_code": "26352"
+    },
+    {
+      "id": "13.08.17.2003",
+      "name": "Sitombol Padang Gelugua",
+      "postal_code": "26352"
+    },
+    {
+      "id": "13.08.17.2004",
+      "name": "Bahagia Padang Gelugua",
+      "postal_code": "26352"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

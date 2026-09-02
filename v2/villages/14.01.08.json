@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "14.01.08.1001",
+      "name": "Sungai Pagar",
+      "postal_code": "28473"
+    },
+    {
+      "id": "14.01.08.2002",
+      "name": "Mentulik",
+      "postal_code": "28473"
+    },
+    {
+      "id": "14.01.08.2003",
+      "name": "Sungai Simpang Dua",
+      "postal_code": "28473"
+    },
+    {
+      "id": "14.01.08.2004",
+      "name": "Sungai Bungo",
+      "postal_code": "28473"
+    },
+    {
+      "id": "14.01.08.2005",
+      "name": "Rantau Kasih",
+      "postal_code": "28473"
+    },
+    {
+      "id": "14.01.08.2006",
+      "name": "Sungai Petai",
+      "postal_code": "28473"
+    },
+    {
+      "id": "14.01.08.2007",
+      "name": "Gading Permai",
+      "postal_code": "28473"
+    },
+    {
+      "id": "14.01.08.2008",
+      "name": "Bangun Sari",
+      "postal_code": "28473"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

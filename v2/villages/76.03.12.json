@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "76.03.12.2001",
+      "name": "Balla",
+      "postal_code": "91366"
+    },
+    {
+      "id": "76.03.12.2002",
+      "name": "Balla Barat",
+      "postal_code": "91366"
+    },
+    {
+      "id": "76.03.12.2003",
+      "name": "Balla Satanetean",
+      "postal_code": "91366"
+    },
+    {
+      "id": "76.03.12.2004",
+      "name": "Balla Tumuka",
+      "postal_code": "91366"
+    },
+    {
+      "id": "76.03.12.2005",
+      "name": "Sepakuan",
+      "postal_code": "91366"
+    },
+    {
+      "id": "76.03.12.2006",
+      "name": "Pidara",
+      "postal_code": "91366"
+    },
+    {
+      "id": "76.03.12.2007",
+      "name": "Bambapuang",
+      "postal_code": "91366"
+    },
+    {
+      "id": "76.03.12.2008",
+      "name": "Balla Timur",
+      "postal_code": "91366"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

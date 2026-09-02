@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "62.10.06.1001",
+      "name": "Tumbang Talaken",
+      "postal_code": "74562"
+    },
+    {
+      "id": "62.10.06.2002",
+      "name": "Tumbang Sepan",
+      "postal_code": "74562"
+    },
+    {
+      "id": "62.10.06.2003",
+      "name": "Tangki Dahuyan",
+      "postal_code": "74562"
+    },
+    {
+      "id": "62.10.06.2004",
+      "name": "Bereng Balawan",
+      "postal_code": "74562"
+    },
+    {
+      "id": "62.10.06.2005",
+      "name": "Bereng Jun",
+      "postal_code": "74562"
+    },
+    {
+      "id": "62.10.06.2006",
+      "name": "Takaras",
+      "postal_code": "74562"
+    },
+    {
+      "id": "62.10.06.2012",
+      "name": "Belawan Mulia",
+      "postal_code": "74562"
+    },
+    {
+      "id": "62.10.06.2013",
+      "name": "Taringen",
+      "postal_code": "74562"
+    },
+    {
+      "id": "62.10.06.2014",
+      "name": "Bangun Sari",
+      "postal_code": "74562"
+    },
+    {
+      "id": "62.10.06.2015",
+      "name": "Fajar Harapan",
+      "postal_code": "74562"
+    },
+    {
+      "id": "62.10.06.2017",
+      "name": "Gohong",
+      "postal_code": "74562"
+    },
+    {
+      "id": "62.10.06.2018",
+      "name": "Tumbang Jalemu",
+      "postal_code": "74562"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

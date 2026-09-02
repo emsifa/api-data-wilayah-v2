@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "93.03.03.2001",
+      "name": "Bidnew",
+      "postal_code": "99875"
+    },
+    {
+      "id": "93.03.03.2002",
+      "name": "Senggo",
+      "postal_code": "99875"
+    },
+    {
+      "id": "93.03.03.2003",
+      "name": "Kumasma",
+      "postal_code": "99875"
+    },
+    {
+      "id": "93.03.03.2004",
+      "name": "Womin",
+      "postal_code": "99875"
+    },
+    {
+      "id": "93.03.03.2005",
+      "name": "Tamanin",
+      "postal_code": "99875"
+    },
+    {
+      "id": "93.03.03.2006",
+      "name": "Epem",
+      "postal_code": "99875"
+    },
+    {
+      "id": "93.03.03.2007",
+      "name": "Abau",
+      "postal_code": "99875"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

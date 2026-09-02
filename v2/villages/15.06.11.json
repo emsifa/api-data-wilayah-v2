@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "15.06.11.1001",
+      "name": "Bram Itam Kiri",
+      "postal_code": "36514"
+    },
+    {
+      "id": "15.06.11.2002",
+      "name": "Bram Itam Kanan",
+      "postal_code": "36514"
+    },
+    {
+      "id": "15.06.11.2003",
+      "name": "Tanjung Senjulang",
+      "postal_code": "36514"
+    },
+    {
+      "id": "15.06.11.2004",
+      "name": "Pembengis",
+      "postal_code": "36514"
+    },
+    {
+      "id": "15.06.11.2005",
+      "name": "Bram Itam Raya",
+      "postal_code": "36514"
+    },
+    {
+      "id": "15.06.11.2006",
+      "name": "Pantai Gading",
+      "postal_code": "36514"
+    },
+    {
+      "id": "15.06.11.2007",
+      "name": "Jati Emas",
+      "postal_code": "36514"
+    },
+    {
+      "id": "15.06.11.2008",
+      "name": "Kemuning",
+      "postal_code": "36514"
+    },
+    {
+      "id": "15.06.11.2009",
+      "name": "Mekar Tanjung",
+      "postal_code": "36514"
+    },
+    {
+      "id": "15.06.11.2010",
+      "name": "Semau",
+      "postal_code": "36514"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "53.03.23.2001",
+      "name": "Tunbes",
+      "postal_code": "85681"
+    },
+    {
+      "id": "53.03.23.2002",
+      "name": "Luniup",
+      "postal_code": "85681"
+    },
+    {
+      "id": "53.03.23.2003",
+      "name": "Matabesi",
+      "postal_code": "85681"
+    },
+    {
+      "id": "53.03.23.2004",
+      "name": "Oepuah",
+      "postal_code": "85681"
+    },
+    {
+      "id": "53.03.23.2005",
+      "name": "Kaubele",
+      "postal_code": "85681"
+    },
+    {
+      "id": "53.03.23.2006",
+      "name": "Oepuah Utara",
+      "postal_code": "85681"
+    },
+    {
+      "id": "53.03.23.2007",
+      "name": "Oepuah Selatan",
+      "postal_code": "85681"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

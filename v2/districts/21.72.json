@@ -1,18 +1,24 @@
 {
-  "data": {
-    "id": "21.72",
-    "name": "Kota Tanjung Pinang",
-    "province": {
-      "id": "21",
-      "name": "Kepulauan Riau"
+  "data": [
+    {
+      "id": "21.72.01",
+      "name": "Tanjung Pinang Barat"
     },
-    "regency": {
-      "id": "21.72",
-      "name": "Kota Tanjung Pinang"
+    {
+      "id": "21.72.02",
+      "name": "Tanjung Pinang Timur"
+    },
+    {
+      "id": "21.72.03",
+      "name": "Tanjung Pinang Kota"
+    },
+    {
+      "id": "21.72.04",
+      "name": "Bukit Bestari"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

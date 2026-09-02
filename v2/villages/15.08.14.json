@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "15.08.14.2001",
+      "name": "Muara Buat",
+      "postal_code": "37260"
+    },
+    {
+      "id": "15.08.14.2002",
+      "name": "Buat",
+      "postal_code": "37260"
+    },
+    {
+      "id": "15.08.14.2003",
+      "name": "Laman Panjang",
+      "postal_code": "37260"
+    },
+    {
+      "id": "15.08.14.2004",
+      "name": "Karak Apung",
+      "postal_code": "37260"
+    },
+    {
+      "id": "15.08.14.2005",
+      "name": "Timbolasi",
+      "postal_code": "37260"
+    },
+    {
+      "id": "15.08.14.2006",
+      "name": "Senamat Ulu",
+      "postal_code": "37260"
+    },
+    {
+      "id": "15.08.14.2007",
+      "name": "Aur Cino",
+      "postal_code": "37260"
+    },
+    {
+      "id": "15.08.14.2008",
+      "name": "Lubuk Beringin",
+      "postal_code": "37260"
+    },
+    {
+      "id": "15.08.14.2009",
+      "name": "Sungai Telang",
+      "postal_code": "37260"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

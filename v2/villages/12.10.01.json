@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.10.01.1001",
+      "name": "Padang Matinggi",
+      "postal_code": "21411"
+    },
+    {
+      "id": "12.10.01.1002",
+      "name": "Siringo-Ringo",
+      "postal_code": "21413"
+    },
+    {
+      "id": "12.10.01.1003",
+      "name": "Sirandorung",
+      "postal_code": "21414"
+    },
+    {
+      "id": "12.10.01.1004",
+      "name": "Rantauprapat",
+      "postal_code": "21412"
+    },
+    {
+      "id": "12.10.01.1005",
+      "name": "Kartini",
+      "postal_code": "21418"
+    },
+    {
+      "id": "12.10.01.1006",
+      "name": "Cendana",
+      "postal_code": "21417"
+    },
+    {
+      "id": "12.10.01.1007",
+      "name": "Binaraga",
+      "postal_code": "21416"
+    },
+    {
+      "id": "12.10.01.1008",
+      "name": "Pulo Padang",
+      "postal_code": "21419"
+    },
+    {
+      "id": "12.10.01.1009",
+      "name": "Padang Bulan",
+      "postal_code": "21414"
+    },
+    {
+      "id": "12.10.01.1010",
+      "name": "Aek Paing",
+      "postal_code": "21419"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

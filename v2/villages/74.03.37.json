@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "74.03.37.2001",
+      "name": "Wangkolabu",
+      "postal_code": "93623"
+    },
+    {
+      "id": "74.03.37.2002",
+      "name": "Lakarama",
+      "postal_code": "93623"
+    },
+    {
+      "id": "74.03.37.2003",
+      "name": "Moasi",
+      "postal_code": "93623"
+    },
+    {
+      "id": "74.03.37.2004",
+      "name": "Renda",
+      "postal_code": "93623"
+    },
+    {
+      "id": "74.03.37.2005",
+      "name": "Bhontu-Bhontu",
+      "postal_code": "93623"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

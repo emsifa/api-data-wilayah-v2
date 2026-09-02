@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "53.11.21.2001",
+      "name": "Praiwitu",
+      "postal_code": "87172"
+    },
+    {
+      "id": "53.11.21.2002",
+      "name": "Kakaha",
+      "postal_code": "87172"
+    },
+    {
+      "id": "53.11.21.2003",
+      "name": "Hambawutang",
+      "postal_code": "87172"
+    },
+    {
+      "id": "53.11.21.2004",
+      "name": "Kabanda",
+      "postal_code": "87172"
+    },
+    {
+      "id": "53.11.21.2005",
+      "name": "Prauraming",
+      "postal_code": "87172"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

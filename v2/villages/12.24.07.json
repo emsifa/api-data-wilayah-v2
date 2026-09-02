@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "12.24.07.2001",
+      "name": "Bitaya",
+      "postal_code": "22861"
+    },
+    {
+      "id": "12.24.07.2002",
+      "name": "Lahemboho",
+      "postal_code": "22861"
+    },
+    {
+      "id": "12.24.07.2003",
+      "name": "Anaoma",
+      "postal_code": "22861"
+    },
+    {
+      "id": "12.24.07.2004",
+      "name": "Dahana Tugala Oyo",
+      "postal_code": "22861"
+    },
+    {
+      "id": "12.24.07.2005",
+      "name": "Fulolo",
+      "postal_code": "22861"
+    },
+    {
+      "id": "12.24.07.2006",
+      "name": "Hiligawoni",
+      "postal_code": "22861"
+    },
+    {
+      "id": "12.24.07.2007",
+      "name": "Ononamolo Tumula",
+      "postal_code": "22861"
+    },
+    {
+      "id": "12.24.07.2008",
+      "name": "Banua Sibohou I",
+      "postal_code": "22861"
+    },
+    {
+      "id": "12.24.07.2009",
+      "name": "Ombolata",
+      "postal_code": "22861"
+    },
+    {
+      "id": "12.24.07.2010",
+      "name": "Banua Sibohou II",
+      "postal_code": "22861"
+    },
+    {
+      "id": "12.24.07.2011",
+      "name": "Dahana Alasa",
+      "postal_code": "22861"
+    },
+    {
+      "id": "12.24.07.2012",
+      "name": "Ononamolo Alasa",
+      "postal_code": "22861"
+    },
+    {
+      "id": "12.24.07.2013",
+      "name": "Loloana'a",
+      "postal_code": "22861"
+    },
+    {
+      "id": "12.24.07.2014",
+      "name": "Hilisebua Siwalubanua",
+      "postal_code": "22861"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

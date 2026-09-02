@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "53.03.14.2001",
+      "name": "Oelami",
+      "postal_code": "85652"
+    },
+    {
+      "id": "53.03.14.2002",
+      "name": "Kiusili",
+      "postal_code": "85650"
+    },
+    {
+      "id": "53.03.14.2003",
+      "name": "Naiola",
+      "postal_code": "85650"
+    },
+    {
+      "id": "53.03.14.2004",
+      "name": "Maurisu",
+      "postal_code": "85650"
+    },
+    {
+      "id": "53.03.14.2005",
+      "name": "Oetalus",
+      "postal_code": "85650"
+    },
+    {
+      "id": "53.03.14.2006",
+      "name": "Tublopo",
+      "postal_code": "85652"
+    },
+    {
+      "id": "53.03.14.2007",
+      "name": "Maurisu Utara",
+      "postal_code": "85650"
+    },
+    {
+      "id": "53.03.14.2008",
+      "name": "Maurisu Selatan",
+      "postal_code": "85650"
+    },
+    {
+      "id": "53.03.14.2009",
+      "name": "Maurisu Tengah",
+      "postal_code": "85650"
+    },
+    {
+      "id": "53.03.14.2010",
+      "name": "Naiola Timur",
+      "postal_code": "85650"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

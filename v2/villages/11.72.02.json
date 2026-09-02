@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "11.72.02.2004",
+      "name": "Jaboi",
+      "postal_code": "23526"
+    },
+    {
+      "id": "11.72.02.2005",
+      "name": "Balohan",
+      "postal_code": "23525"
+    },
+    {
+      "id": "11.72.02.2006",
+      "name": "Cot Abeuk",
+      "postal_code": "23523"
+    },
+    {
+      "id": "11.72.02.2007",
+      "name": "Cot Ba U",
+      "postal_code": "23522"
+    },
+    {
+      "id": "11.72.02.2008",
+      "name": "Ie Meulee",
+      "postal_code": "23521"
+    },
+    {
+      "id": "11.72.02.2009",
+      "name": "Ujoeng Kareung",
+      "postal_code": "23521"
+    },
+    {
+      "id": "11.72.02.2010",
+      "name": "Anoe Itam",
+      "postal_code": "23524"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

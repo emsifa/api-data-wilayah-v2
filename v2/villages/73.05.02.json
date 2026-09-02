@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.05.02.1002",
+      "name": "Mangadu",
+      "postal_code": "92261"
+    },
+    {
+      "id": "73.05.02.2001",
+      "name": "Lengkese",
+      "postal_code": "92261"
+    },
+    {
+      "id": "73.05.02.2003",
+      "name": "Topejawa",
+      "postal_code": "92261"
+    },
+    {
+      "id": "73.05.02.2004",
+      "name": "Lakatong",
+      "postal_code": "92261"
+    },
+    {
+      "id": "73.05.02.2007",
+      "name": "Banggae",
+      "postal_code": "92261"
+    },
+    {
+      "id": "73.05.02.2008",
+      "name": "Bontomanai",
+      "postal_code": "92261"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

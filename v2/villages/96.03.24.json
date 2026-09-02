@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "96.03.24.2001",
+      "name": "Yenanas",
+      "postal_code": "98498"
+    },
+    {
+      "id": "96.03.24.2002",
+      "name": "Amdui",
+      "postal_code": "98498"
+    },
+    {
+      "id": "96.03.24.2003",
+      "name": "Wailebet",
+      "postal_code": "98498"
+    },
+    {
+      "id": "96.03.24.2004",
+      "name": "Waiman",
+      "postal_code": "98498"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

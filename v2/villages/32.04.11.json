@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.04.11.2001",
+      "name": "Sangkanhurip",
+      "postal_code": "40921"
+    },
+    {
+      "id": "32.04.11.2002",
+      "name": "Katapang",
+      "postal_code": "40921"
+    },
+    {
+      "id": "32.04.11.2004",
+      "name": "Gandasari",
+      "postal_code": "40921"
+    },
+    {
+      "id": "32.04.11.2006",
+      "name": "Sukamukti",
+      "postal_code": "40921"
+    },
+    {
+      "id": "32.04.11.2007",
+      "name": "Cilampeni",
+      "postal_code": "40921"
+    },
+    {
+      "id": "32.04.11.2008",
+      "name": "Pangauban",
+      "postal_code": "40921"
+    },
+    {
+      "id": "32.04.11.2009",
+      "name": "Banyusari",
+      "postal_code": "40921"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

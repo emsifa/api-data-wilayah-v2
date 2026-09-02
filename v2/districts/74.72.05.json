@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "74.72.05",
+    "name": "Kokalukuna",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.72",
+      "name": "Kota Bau Bau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

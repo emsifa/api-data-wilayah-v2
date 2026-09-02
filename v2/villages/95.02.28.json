@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "95.02.28.2001",
+      "name": "Bias",
+      "postal_code": "99444"
+    },
+    {
+      "id": "95.02.28.2002",
+      "name": "Bumi",
+      "postal_code": "99444"
+    },
+    {
+      "id": "95.02.28.2003",
+      "name": "Tero",
+      "postal_code": "99444"
+    },
+    {
+      "id": "95.02.28.2004",
+      "name": "Delemo",
+      "postal_code": "99444"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

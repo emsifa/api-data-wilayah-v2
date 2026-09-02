@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "53.11.12.2001",
+      "name": "Kananggar",
+      "postal_code": "87175"
+    },
+    {
+      "id": "53.11.12.2002",
+      "name": "Mehang Mata",
+      "postal_code": "87175"
+    },
+    {
+      "id": "53.11.12.2003",
+      "name": "Karera Jangga",
+      "postal_code": "87175"
+    },
+    {
+      "id": "53.11.12.2004",
+      "name": "Praimbana",
+      "postal_code": "87175"
+    },
+    {
+      "id": "53.11.12.2005",
+      "name": "Pabera Manera",
+      "postal_code": "87175"
+    },
+    {
+      "id": "53.11.12.2010",
+      "name": "Winumuru",
+      "postal_code": "87175"
+    },
+    {
+      "id": "53.11.12.2011",
+      "name": "Laitaku",
+      "postal_code": "87175"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

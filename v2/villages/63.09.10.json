@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "63.09.10.2001",
+      "name": "Bilas",
+      "postal_code": "71575"
+    },
+    {
+      "id": "63.09.10.2002",
+      "name": "Kaong",
+      "postal_code": "71575"
+    },
+    {
+      "id": "63.09.10.2003",
+      "name": "Pangelak",
+      "postal_code": "71575"
+    },
+    {
+      "id": "63.09.10.2004",
+      "name": "Kinarum",
+      "postal_code": "71575"
+    },
+    {
+      "id": "63.09.10.2005",
+      "name": "Masingai II",
+      "postal_code": "71575"
+    },
+    {
+      "id": "63.09.10.2006",
+      "name": "Masingai I",
+      "postal_code": "71575"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

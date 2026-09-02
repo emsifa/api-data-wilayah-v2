@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "18.12.09.2001",
+      "name": "Panca Marga",
+      "postal_code": "34785"
+    },
+    {
+      "id": "18.12.09.2002",
+      "name": "Sido Makmur",
+      "postal_code": "34785"
+    },
+    {
+      "id": "18.12.09.2003",
+      "name": "Sakti Jaya",
+      "postal_code": "34785"
+    },
+    {
+      "id": "18.12.09.2004",
+      "name": "Margo Mulya",
+      "postal_code": "34785"
+    },
+    {
+      "id": "18.12.09.2005",
+      "name": "Margo Dadi",
+      "postal_code": "34785"
+    },
+    {
+      "id": "18.12.09.2006",
+      "name": "Marga Sari",
+      "postal_code": "34785"
+    },
+    {
+      "id": "18.12.09.2007",
+      "name": "Mulyo Sari",
+      "postal_code": "34785"
+    },
+    {
+      "id": "18.12.09.2008",
+      "name": "Toto Katon",
+      "postal_code": "34785"
+    },
+    {
+      "id": "18.12.09.2009",
+      "name": "Toto Makmur",
+      "postal_code": "34785"
+    },
+    {
+      "id": "18.12.09.2010",
+      "name": "Toto Wonodadi",
+      "postal_code": "34785"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

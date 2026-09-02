@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "18.72",
+    "name": "Kota Metro",
+    "capital": "Metro",
+    "lat": -5.113688728188825,
+    "lng": 105.30690431111174,
+    "elv": 62,
+    "tz": 7,
+    "population": 182293,
+    "total_area": 73.214,
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

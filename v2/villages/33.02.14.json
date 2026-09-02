@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "33.02.14.2001",
+      "name": "Darmakradenan",
+      "postal_code": "53163"
+    },
+    {
+      "id": "33.02.14.2002",
+      "name": "Tipar Kidul",
+      "postal_code": "53163"
+    },
+    {
+      "id": "33.02.14.2003",
+      "name": "Sawangan",
+      "postal_code": "53163"
+    },
+    {
+      "id": "33.02.14.2004",
+      "name": "Jingkang",
+      "postal_code": "53163"
+    },
+    {
+      "id": "33.02.14.2005",
+      "name": "Banjarsari",
+      "postal_code": "53163"
+    },
+    {
+      "id": "33.02.14.2006",
+      "name": "Kalibenda",
+      "postal_code": "53163"
+    },
+    {
+      "id": "33.02.14.2007",
+      "name": "Pancurendang",
+      "postal_code": "53163"
+    },
+    {
+      "id": "33.02.14.2008",
+      "name": "Pancasan",
+      "postal_code": "53163"
+    },
+    {
+      "id": "33.02.14.2009",
+      "name": "Karangbawang",
+      "postal_code": "53163"
+    },
+    {
+      "id": "33.02.14.2010",
+      "name": "Kracak",
+      "postal_code": "53163"
+    },
+    {
+      "id": "33.02.14.2011",
+      "name": "Ajibarang Kulon",
+      "postal_code": "53163"
+    },
+    {
+      "id": "33.02.14.2012",
+      "name": "Ajibarang Wetan",
+      "postal_code": "53163"
+    },
+    {
+      "id": "33.02.14.2013",
+      "name": "Lesmana",
+      "postal_code": "53163"
+    },
+    {
+      "id": "33.02.14.2014",
+      "name": "Pandansari",
+      "postal_code": "53163"
+    },
+    {
+      "id": "33.02.14.2015",
+      "name": "Ciberung",
+      "postal_code": "53163"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

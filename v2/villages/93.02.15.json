@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "93.02.15.2001",
+      "name": "Subur",
+      "postal_code": "99653"
+    },
+    {
+      "id": "93.02.15.2002",
+      "name": "Kaisa",
+      "postal_code": "99653"
+    },
+    {
+      "id": "93.02.15.2003",
+      "name": "Wagai",
+      "postal_code": "99653"
+    },
+    {
+      "id": "93.02.15.2004",
+      "name": "Aiwat",
+      "postal_code": "99653"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

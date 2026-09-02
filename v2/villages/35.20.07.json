@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "35.20.07.1011",
+      "name": "Plaosan",
+      "postal_code": "63361"
+    },
+    {
+      "id": "35.20.07.1013",
+      "name": "Sarangan",
+      "postal_code": "63361"
+    },
+    {
+      "id": "35.20.07.2001",
+      "name": "Ngancar",
+      "postal_code": "63361"
+    },
+    {
+      "id": "35.20.07.2002",
+      "name": "Plumpung",
+      "postal_code": "63361"
+    },
+    {
+      "id": "35.20.07.2003",
+      "name": "Puntukdoro",
+      "postal_code": "63361"
+    },
+    {
+      "id": "35.20.07.2004",
+      "name": "Bulugunung",
+      "postal_code": "63361"
+    },
+    {
+      "id": "35.20.07.2005",
+      "name": "Bogoarum",
+      "postal_code": "63361"
+    },
+    {
+      "id": "35.20.07.2006",
+      "name": "Randugede",
+      "postal_code": "63361"
+    },
+    {
+      "id": "35.20.07.2007",
+      "name": "Sumberagung",
+      "postal_code": "63361"
+    },
+    {
+      "id": "35.20.07.2008",
+      "name": "Nitikan",
+      "postal_code": "63361"
+    },
+    {
+      "id": "35.20.07.2009",
+      "name": "Sidomukti",
+      "postal_code": "63361"
+    },
+    {
+      "id": "35.20.07.2010",
+      "name": "Buluharjo",
+      "postal_code": "63361"
+    },
+    {
+      "id": "35.20.07.2012",
+      "name": "Dadi",
+      "postal_code": "63361"
+    },
+    {
+      "id": "35.20.07.2014",
+      "name": "Pacalan",
+      "postal_code": "63361"
+    },
+    {
+      "id": "35.20.07.2015",
+      "name": "Sendangagung",
+      "postal_code": "63361"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.08.32.2001",
+      "name": "Bunigeulis",
+      "postal_code": "45556"
+    },
+    {
+      "id": "32.08.32.2002",
+      "name": "Jambugeulis",
+      "postal_code": "45556"
+    },
+    {
+      "id": "32.08.32.2003",
+      "name": "Koreak",
+      "postal_code": "45556"
+    },
+    {
+      "id": "32.08.32.2004",
+      "name": "Karangmuncang",
+      "postal_code": "45556"
+    },
+    {
+      "id": "32.08.32.2005",
+      "name": "Sangkanurip",
+      "postal_code": "45556"
+    },
+    {
+      "id": "32.08.32.2006",
+      "name": "Panawuan",
+      "postal_code": "45556"
+    },
+    {
+      "id": "32.08.32.2007",
+      "name": "Timbang",
+      "postal_code": "45556"
+    },
+    {
+      "id": "32.08.32.2008",
+      "name": "Babakanjati",
+      "postal_code": "45556"
+    },
+    {
+      "id": "32.08.32.2009",
+      "name": "Indapatra",
+      "postal_code": "45556"
+    },
+    {
+      "id": "32.08.32.2010",
+      "name": "Cibuntu",
+      "postal_code": "45556"
+    },
+    {
+      "id": "32.08.32.2011",
+      "name": "Sangkanmulya",
+      "postal_code": "45556"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

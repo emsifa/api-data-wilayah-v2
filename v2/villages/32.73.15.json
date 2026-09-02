@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.73.15.1001",
+      "name": "Cijerah",
+      "postal_code": "40213"
+    },
+    {
+      "id": "32.73.15.1002",
+      "name": "Cibuntu",
+      "postal_code": "40212"
+    },
+    {
+      "id": "32.73.15.1003",
+      "name": "Warung Muncang",
+      "postal_code": "40211"
+    },
+    {
+      "id": "32.73.15.1004",
+      "name": "Caringin",
+      "postal_code": "40212"
+    },
+    {
+      "id": "32.73.15.1005",
+      "name": "Cigondewah Kaler",
+      "postal_code": "40214"
+    },
+    {
+      "id": "32.73.15.1006",
+      "name": "Gempol Sari",
+      "postal_code": "40215"
+    },
+    {
+      "id": "32.73.15.1007",
+      "name": "Cigondewah Rahayu",
+      "postal_code": "40215"
+    },
+    {
+      "id": "32.73.15.1008",
+      "name": "Cigondewah Kidul",
+      "postal_code": "40214"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

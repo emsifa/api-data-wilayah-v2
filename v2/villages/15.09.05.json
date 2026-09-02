@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "15.09.05.2001",
+      "name": "Teluk Singkawang",
+      "postal_code": "37573"
+    },
+    {
+      "id": "15.09.05.2002",
+      "name": "Lembak Bungur",
+      "postal_code": "37573"
+    },
+    {
+      "id": "15.09.05.2003",
+      "name": "Teluk Langkap",
+      "postal_code": "37573"
+    },
+    {
+      "id": "15.09.05.2004",
+      "name": "Tambun Arang",
+      "postal_code": "37573"
+    },
+    {
+      "id": "15.09.05.2005",
+      "name": "Punti Kalo",
+      "postal_code": "37573"
+    },
+    {
+      "id": "15.09.05.2006",
+      "name": "Jati Belarik",
+      "postal_code": "37573"
+    },
+    {
+      "id": "15.09.05.2007",
+      "name": "Tuo Sumay",
+      "postal_code": "37573"
+    },
+    {
+      "id": "15.09.05.2008",
+      "name": "Teriti",
+      "postal_code": "37573"
+    },
+    {
+      "id": "15.09.05.2009",
+      "name": "Suo-Suo",
+      "postal_code": "37573"
+    },
+    {
+      "id": "15.09.05.2010",
+      "name": "Muara Sekalo",
+      "postal_code": "37573"
+    },
+    {
+      "id": "15.09.05.2011",
+      "name": "Semambu",
+      "postal_code": "37573"
+    },
+    {
+      "id": "15.09.05.2012",
+      "name": "Pemayungan",
+      "postal_code": "37573"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

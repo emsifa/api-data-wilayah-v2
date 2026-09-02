@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "15.09.06.2001",
+      "name": "Tanjung Pucuk Jambi",
+      "postal_code": "37561"
+    },
+    {
+      "id": "15.09.06.2002",
+      "name": "Kuamang",
+      "postal_code": "37561"
+    },
+    {
+      "id": "15.09.06.2003",
+      "name": "Teluk Kayu Putih",
+      "postal_code": "37561"
+    },
+    {
+      "id": "15.09.06.2004",
+      "name": "Sungai Abang",
+      "postal_code": "37561"
+    },
+    {
+      "id": "15.09.06.2005",
+      "name": "Aur Cino",
+      "postal_code": "37561"
+    },
+    {
+      "id": "15.09.06.2007",
+      "name": "Muara Niro",
+      "postal_code": "37561"
+    },
+    {
+      "id": "15.09.06.2013",
+      "name": "Teluk Lancang",
+      "postal_code": "37561"
+    },
+    {
+      "id": "15.09.06.2014",
+      "name": "Dusun Baru",
+      "postal_code": "37561"
+    },
+    {
+      "id": "15.09.06.2015",
+      "name": "Tabun",
+      "postal_code": "37561"
+    },
+    {
+      "id": "15.09.06.2016",
+      "name": "Muara Tabun",
+      "postal_code": "37561"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

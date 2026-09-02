@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "13.08.19.2001",
+      "name": "Lansek Kadok",
+      "postal_code": "26356"
+    },
+    {
+      "id": "13.08.19.2002",
+      "name": "Lubuak Layang",
+      "postal_code": "26356"
+    },
+    {
+      "id": "13.08.19.2003",
+      "name": "Tanjung Betung",
+      "postal_code": "26356"
+    },
+    {
+      "id": "13.08.19.2004",
+      "name": "Lansek Kadok Barat",
+      "postal_code": "26356"
+    },
+    {
+      "id": "13.08.19.2005",
+      "name": "Tanjung Betung Utara",
+      "postal_code": "26356"
+    },
+    {
+      "id": "13.08.19.2006",
+      "name": "Tanjung Betung Timur",
+      "postal_code": "26356"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

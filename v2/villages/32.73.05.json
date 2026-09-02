@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.73.05.1001",
+      "name": "Maleber",
+      "postal_code": "40184"
+    },
+    {
+      "id": "32.73.05.1002",
+      "name": "Dungus Cariang",
+      "postal_code": "40183"
+    },
+    {
+      "id": "32.73.05.1003",
+      "name": "Ciroyom",
+      "postal_code": "40182"
+    },
+    {
+      "id": "32.73.05.1004",
+      "name": "Kebon Jeruk",
+      "postal_code": "40181"
+    },
+    {
+      "id": "32.73.05.1005",
+      "name": "Garuda",
+      "postal_code": "40184"
+    },
+    {
+      "id": "32.73.05.1006",
+      "name": "Campaka",
+      "postal_code": "40184"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

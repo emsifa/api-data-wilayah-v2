@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.78.09.1001",
+      "name": "Keputih",
+      "postal_code": "60111"
+    },
+    {
+      "id": "35.78.09.1002",
+      "name": "Gebang Putih",
+      "postal_code": "60117"
+    },
+    {
+      "id": "35.78.09.1003",
+      "name": "Klampis Ngasem",
+      "postal_code": "60117"
+    },
+    {
+      "id": "35.78.09.1004",
+      "name": "Menur Pumpungan",
+      "postal_code": "60118"
+    },
+    {
+      "id": "35.78.09.1005",
+      "name": "Nginden Jangkungan",
+      "postal_code": "60118"
+    },
+    {
+      "id": "35.78.09.1006",
+      "name": "Semolowaru",
+      "postal_code": "60119"
+    },
+    {
+      "id": "35.78.09.1007",
+      "name": "Medokan Semampir",
+      "postal_code": "60119"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

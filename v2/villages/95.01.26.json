@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "95.01.26.2001",
+      "name": "Koragi",
+      "postal_code": "99544"
+    },
+    {
+      "id": "95.01.26.2002",
+      "name": "Telegai",
+      "postal_code": "99544"
+    },
+    {
+      "id": "95.01.26.2003",
+      "name": "Kumudiluk",
+      "postal_code": "99544"
+    },
+    {
+      "id": "95.01.26.2004",
+      "name": "Tagibaga",
+      "postal_code": "99544"
+    },
+    {
+      "id": "95.01.26.2005",
+      "name": "Tenondek",
+      "postal_code": "99544"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

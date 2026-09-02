@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "31.73.08.1001",
+      "name": "Kembangan Utara",
+      "postal_code": "11610"
+    },
+    {
+      "id": "31.73.08.1002",
+      "name": "Meruya Utara",
+      "postal_code": "11620"
+    },
+    {
+      "id": "31.73.08.1003",
+      "name": "Meruya Selatan",
+      "postal_code": "11650"
+    },
+    {
+      "id": "31.73.08.1004",
+      "name": "Srengseng",
+      "postal_code": "11630"
+    },
+    {
+      "id": "31.73.08.1005",
+      "name": "Joglo",
+      "postal_code": "11640"
+    },
+    {
+      "id": "31.73.08.1006",
+      "name": "Kembangan Selatan",
+      "postal_code": "11610"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

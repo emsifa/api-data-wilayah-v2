@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "94.02.19.2001",
+      "name": "Wanuwi",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2002",
+      "name": "Nenegame",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2003",
+      "name": "Bime",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2004",
+      "name": "Anggege",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2005",
+      "name": "Pernaluk",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2006",
+      "name": "Kiburu",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2007",
+      "name": "Nuwi",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2008",
+      "name": "Ponggoname",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2009",
+      "name": "Gibume",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2010",
+      "name": "Naburage",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2011",
+      "name": "Yunggwi",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2012",
+      "name": "Anggagalo",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2013",
+      "name": "Anggalo",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2014",
+      "name": "Wiyage",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2015",
+      "name": "Piyabigimbut",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2016",
+      "name": "Bunaluk",
+      "postal_code": "98923"
+    },
+    {
+      "id": "94.02.19.2017",
+      "name": "Gereja Lama",
+      "postal_code": "98923"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.78.09.1001",
+      "name": "Sukamulya",
+      "postal_code": "46151"
+    },
+    {
+      "id": "32.78.09.1002",
+      "name": "Sukarindik",
+      "postal_code": "46151"
+    },
+    {
+      "id": "32.78.09.1003",
+      "name": "Bungursari",
+      "postal_code": "46151"
+    },
+    {
+      "id": "32.78.09.1004",
+      "name": "Sukajaya",
+      "postal_code": "46151"
+    },
+    {
+      "id": "32.78.09.1005",
+      "name": "Cibunigeulis",
+      "postal_code": "46151"
+    },
+    {
+      "id": "32.78.09.1006",
+      "name": "Bantarsari",
+      "postal_code": "46151"
+    },
+    {
+      "id": "32.78.09.1007",
+      "name": "Sukalaksana",
+      "postal_code": "46151"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

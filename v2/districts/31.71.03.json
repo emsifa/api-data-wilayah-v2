@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "31.71.03",
+    "name": "Kemayoran",
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    },
+    "regency": {
+      "id": "31.71",
+      "name": "Kota Administrasi Jakarta Pusat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

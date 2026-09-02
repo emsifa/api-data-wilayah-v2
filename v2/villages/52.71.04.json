@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "52.71.04.1001",
+      "name": "Karang Pule",
+      "postal_code": "83116"
+    },
+    {
+      "id": "52.71.04.1002",
+      "name": "Tanjung Karang",
+      "postal_code": "83115"
+    },
+    {
+      "id": "52.71.04.1003",
+      "name": "Jempong Baru",
+      "postal_code": "83116"
+    },
+    {
+      "id": "52.71.04.1004",
+      "name": "Tanjung Karang Permai",
+      "postal_code": "83116"
+    },
+    {
+      "id": "52.71.04.1005",
+      "name": "Kekalik Jaya",
+      "postal_code": "83116"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

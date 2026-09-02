@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "92.03.10.1001",
+      "name": "Wagom",
+      "postal_code": "98013"
+    },
+    {
+      "id": "92.03.10.1002",
+      "name": "Wagom Utara",
+      "postal_code": "98013"
+    },
+    {
+      "id": "92.03.10.1003",
+      "name": "Dulanpokpok",
+      "postal_code": "98013"
+    },
+    {
+      "id": "92.03.10.2004",
+      "name": "Tanama",
+      "postal_code": "98013"
+    },
+    {
+      "id": "92.03.10.2005",
+      "name": "Kapaurtutin",
+      "postal_code": "98013"
+    },
+    {
+      "id": "92.03.10.2006",
+      "name": "Sekban",
+      "postal_code": "98013"
+    },
+    {
+      "id": "92.03.10.2007",
+      "name": "Torea",
+      "postal_code": "98013"
+    },
+    {
+      "id": "92.03.10.2008",
+      "name": "Sekru",
+      "postal_code": "98013"
+    },
+    {
+      "id": "92.03.10.2009",
+      "name": "Sukuru Tuare",
+      "postal_code": "98013"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

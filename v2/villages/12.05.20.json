@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.05.20.1001",
+      "name": "Sawit Seberang",
+      "postal_code": "20811"
+    },
+    {
+      "id": "12.05.20.2002",
+      "name": "Alur Gadung",
+      "postal_code": "20811"
+    },
+    {
+      "id": "12.05.20.2003",
+      "name": "Simpang Tiga",
+      "postal_code": "20811"
+    },
+    {
+      "id": "12.05.20.2004",
+      "name": "Sei Litur Tasik",
+      "postal_code": "20811"
+    },
+    {
+      "id": "12.05.20.2005",
+      "name": "Sawit Hulu",
+      "postal_code": "20811"
+    },
+    {
+      "id": "12.05.20.2006",
+      "name": "Mekar Sawit",
+      "postal_code": "20811"
+    },
+    {
+      "id": "12.05.20.2007",
+      "name": "Alur Melati",
+      "postal_code": "20811"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

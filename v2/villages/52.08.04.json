@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "52.08.04.2001",
+      "name": "Bayan",
+      "postal_code": "83354"
+    },
+    {
+      "id": "52.08.04.2002",
+      "name": "Loloan",
+      "postal_code": "83354"
+    },
+    {
+      "id": "52.08.04.2003",
+      "name": "Anyar",
+      "postal_code": "83354"
+    },
+    {
+      "id": "52.08.04.2004",
+      "name": "Sukadana",
+      "postal_code": "83354"
+    },
+    {
+      "id": "52.08.04.2005",
+      "name": "Akar Akar",
+      "postal_code": "83354"
+    },
+    {
+      "id": "52.08.04.2006",
+      "name": "Senaru",
+      "postal_code": "83354"
+    },
+    {
+      "id": "52.08.04.2007",
+      "name": "Mumbul Sari",
+      "postal_code": "83354"
+    },
+    {
+      "id": "52.08.04.2008",
+      "name": "Sambik Elen",
+      "postal_code": "83354"
+    },
+    {
+      "id": "52.08.04.2009",
+      "name": "Karang Bajo",
+      "postal_code": "83354"
+    },
+    {
+      "id": "52.08.04.2010",
+      "name": "Gunjan Asri",
+      "postal_code": "83354"
+    },
+    {
+      "id": "52.08.04.2011",
+      "name": "Andalan",
+      "postal_code": "83354"
+    },
+    {
+      "id": "52.08.04.2012",
+      "name": "Batu Rakit",
+      "postal_code": "83354"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

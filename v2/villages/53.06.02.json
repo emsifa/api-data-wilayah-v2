@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "53.06.02.2001",
+      "name": "Kobasoma",
+      "postal_code": "86255"
+    },
+    {
+      "id": "53.06.02.2002",
+      "name": "Lewolaga",
+      "postal_code": "86255"
+    },
+    {
+      "id": "53.06.02.2003",
+      "name": "Lewoingu",
+      "postal_code": "86255"
+    },
+    {
+      "id": "53.06.02.2004",
+      "name": "Tuakepa",
+      "postal_code": "86255"
+    },
+    {
+      "id": "53.06.02.2005",
+      "name": "Tenawahang",
+      "postal_code": "86255"
+    },
+    {
+      "id": "53.06.02.2006",
+      "name": "Leraboleng",
+      "postal_code": "86255"
+    },
+    {
+      "id": "53.06.02.2007",
+      "name": "Serinuho",
+      "postal_code": "86255"
+    },
+    {
+      "id": "53.06.02.2008",
+      "name": "Watowara",
+      "postal_code": "86255"
+    },
+    {
+      "id": "53.06.02.2009",
+      "name": "Konga",
+      "postal_code": "86255"
+    },
+    {
+      "id": "53.06.02.2010",
+      "name": "Ile Gerong",
+      "postal_code": "86255"
+    },
+    {
+      "id": "53.06.02.2011",
+      "name": "Adabang",
+      "postal_code": "86255"
+    },
+    {
+      "id": "53.06.02.2012",
+      "name": "Dun Tana Lewoingu",
+      "postal_code": "86255"
+    },
+    {
+      "id": "53.06.02.2013",
+      "name": "Duli Jaya",
+      "postal_code": "86255"
+    },
+    {
+      "id": "53.06.02.2014",
+      "name": "Bokang Wolomatang",
+      "postal_code": "86255"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

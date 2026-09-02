@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "81.07.09.2001",
+      "name": "Meror",
+      "postal_code": "97666"
+    },
+    {
+      "id": "81.07.09.2002",
+      "name": "Dosimar",
+      "postal_code": "97666"
+    },
+    {
+      "id": "81.07.09.2003",
+      "name": "Batugoyang",
+      "postal_code": "97666"
+    },
+    {
+      "id": "81.07.09.2004",
+      "name": "Salarem",
+      "postal_code": "97666"
+    },
+    {
+      "id": "81.07.09.2005",
+      "name": "Siya",
+      "postal_code": "97666"
+    },
+    {
+      "id": "81.07.09.2006",
+      "name": "Beltubur",
+      "postal_code": "97666"
+    },
+    {
+      "id": "81.07.09.2007",
+      "name": "Karey",
+      "postal_code": "97666"
+    },
+    {
+      "id": "81.07.09.2008",
+      "name": "Jorang",
+      "postal_code": "97666"
+    },
+    {
+      "id": "81.07.09.2009",
+      "name": "Gomar Sungai",
+      "postal_code": "97666"
+    },
+    {
+      "id": "81.07.09.2010",
+      "name": "Gomar Meti",
+      "postal_code": "97666"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

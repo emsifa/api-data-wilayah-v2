@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "73.07.06.2001",
+      "name": "Lamatti Riattang",
+      "postal_code": "92654"
+    },
+    {
+      "id": "73.07.06.2002",
+      "name": "Lamatti Riaja",
+      "postal_code": "92654"
+    },
+    {
+      "id": "73.07.06.2003",
+      "name": "Bulu Tellue",
+      "postal_code": "92654"
+    },
+    {
+      "id": "73.07.06.2004",
+      "name": "Duampanuae",
+      "postal_code": "92654"
+    },
+    {
+      "id": "73.07.06.2005",
+      "name": "Tompobulu",
+      "postal_code": "92654"
+    },
+    {
+      "id": "73.07.06.2006",
+      "name": "Lamatti Riawang",
+      "postal_code": "92654"
+    },
+    {
+      "id": "73.07.06.2007",
+      "name": "Lappacinrana",
+      "postal_code": "92654"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

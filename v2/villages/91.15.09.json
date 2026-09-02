@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "91.15.09.2002",
+      "name": "Somiangga",
+      "postal_code": "98661"
+    },
+    {
+      "id": "91.15.09.2004",
+      "name": "Toire",
+      "postal_code": "98661"
+    },
+    {
+      "id": "91.15.09.2005",
+      "name": "Harapan Jaya",
+      "postal_code": "98661"
+    },
+    {
+      "id": "91.15.09.2006",
+      "name": "Demisa",
+      "postal_code": "98661"
+    },
+    {
+      "id": "91.15.09.2008",
+      "name": "Otodemo",
+      "postal_code": "98661"
+    },
+    {
+      "id": "91.15.09.2011",
+      "name": "Awaso",
+      "postal_code": "98661"
+    },
+    {
+      "id": "91.15.09.2012",
+      "name": "Firo",
+      "postal_code": "98661"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

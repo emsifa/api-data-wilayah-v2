@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.25.01.2001",
+      "name": "Sisobaoho",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.25.01.2002",
+      "name": "Bawozamaiwo",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.25.01.2003",
+      "name": "Sitolubanua",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.25.01.2004",
+      "name": "Lologundre",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.25.01.2005",
+      "name": "Iraonogaila",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.25.01.2006",
+      "name": "Tigaserangkai",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.25.01.2007",
+      "name": "Onowaembo",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.25.01.2008",
+      "name": "Onolimbu",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.25.01.2009",
+      "name": "Haliadulo",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.25.01.2010",
+      "name": "Sisobambowo",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.25.01.2011",
+      "name": "Lolowau",
+      "postal_code": "22864"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

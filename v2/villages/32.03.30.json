@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "32.03.30.2001",
+      "name": "Pusakasari",
+      "postal_code": "43273"
+    },
+    {
+      "id": "32.03.30.2002",
+      "name": "Walahir",
+      "postal_code": "43273"
+    },
+    {
+      "id": "32.03.30.2003",
+      "name": "Purabaya",
+      "postal_code": "43273"
+    },
+    {
+      "id": "32.03.30.2004",
+      "name": "Puncakwangi",
+      "postal_code": "43273"
+    },
+    {
+      "id": "32.03.30.2005",
+      "name": "Sukajaya",
+      "postal_code": "43273"
+    },
+    {
+      "id": "32.03.30.2006",
+      "name": "Nagasari",
+      "postal_code": "43273"
+    },
+    {
+      "id": "32.03.30.2007",
+      "name": "Sukasirna",
+      "postal_code": "43273"
+    },
+    {
+      "id": "32.03.30.2008",
+      "name": "Sukamulya",
+      "postal_code": "43273"
+    },
+    {
+      "id": "32.03.30.2009",
+      "name": "Sirnasari",
+      "postal_code": "43273"
+    },
+    {
+      "id": "32.03.30.2010",
+      "name": "Karyamukti",
+      "postal_code": "43273"
+    },
+    {
+      "id": "32.03.30.2011",
+      "name": "Mandalawangi",
+      "postal_code": "43273"
+    },
+    {
+      "id": "32.03.30.2012",
+      "name": "Sindangsari",
+      "postal_code": "43273"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

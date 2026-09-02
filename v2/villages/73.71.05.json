@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.71.05.1001",
+      "name": "Pattunuang",
+      "postal_code": "90174"
+    },
+    {
+      "id": "73.71.05.1002",
+      "name": "Melayu",
+      "postal_code": "90171"
+    },
+    {
+      "id": "73.71.05.1003",
+      "name": "Butung",
+      "postal_code": "90173"
+    },
+    {
+      "id": "73.71.05.1004",
+      "name": "Malimongan Tua",
+      "postal_code": "90172"
+    },
+    {
+      "id": "73.71.05.1005",
+      "name": "Ende",
+      "postal_code": "90174"
+    },
+    {
+      "id": "73.71.05.1006",
+      "name": "Mampu",
+      "postal_code": "90173"
+    },
+    {
+      "id": "73.71.05.1007",
+      "name": "Malimongan",
+      "postal_code": "90172"
+    },
+    {
+      "id": "73.71.05.1008",
+      "name": "Melayu Baru",
+      "postal_code": "90171"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

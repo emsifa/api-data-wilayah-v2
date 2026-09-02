@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "id": "35.01.04.1001",
+      "name": "Sidoharjo",
+      "postal_code": "63514"
+    },
+    {
+      "id": "35.01.04.1002",
+      "name": "Ploso",
+      "postal_code": "63515"
+    },
+    {
+      "id": "35.01.04.1008",
+      "name": "Baleharjo",
+      "postal_code": "63511"
+    },
+    {
+      "id": "35.01.04.1012",
+      "name": "Pucangsewu",
+      "postal_code": "63513"
+    },
+    {
+      "id": "35.01.04.1013",
+      "name": "Pacitan",
+      "postal_code": "63512"
+    },
+    {
+      "id": "35.01.04.2003",
+      "name": "Kembang",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2004",
+      "name": "Sukoharjo",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2005",
+      "name": "Kayen",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2006",
+      "name": "Sirnoboyo",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2007",
+      "name": "Arjowinangun",
+      "postal_code": "63516"
+    },
+    {
+      "id": "35.01.04.2009",
+      "name": "Bangunsari",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2010",
+      "name": "Sedeng",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2011",
+      "name": "Sumberharjo",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2014",
+      "name": "Tanjungsari",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2015",
+      "name": "Menadi",
+      "postal_code": "63517"
+    },
+    {
+      "id": "35.01.04.2016",
+      "name": "Mentoro",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2017",
+      "name": "Purworejo",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2018",
+      "name": "Nanggungan",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2019",
+      "name": "Widoro",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2020",
+      "name": "Semanten",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2021",
+      "name": "Sambong",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2022",
+      "name": "Banjarsari",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2023",
+      "name": "Bolosingo",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2024",
+      "name": "Ponggok",
+      "postal_code": "63518"
+    },
+    {
+      "id": "35.01.04.2025",
+      "name": "Tambakrejo",
+      "postal_code": "63518"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

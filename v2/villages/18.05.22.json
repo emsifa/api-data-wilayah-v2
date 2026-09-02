@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "18.05.22.2001",
+      "name": "Sumber Agung",
+      "postal_code": "34594"
+    },
+    {
+      "id": "18.05.22.2002",
+      "name": "Batang Hari",
+      "postal_code": "34594"
+    },
+    {
+      "id": "18.05.22.2003",
+      "name": "Panggung Mulyo",
+      "postal_code": "34594"
+    },
+    {
+      "id": "18.05.22.2004",
+      "name": "Duto Yoso Mulyo",
+      "postal_code": "34594"
+    },
+    {
+      "id": "18.05.22.2005",
+      "name": "Andalas Cermin",
+      "postal_code": "34594"
+    },
+    {
+      "id": "18.05.22.2006",
+      "name": "Rawa Ragil",
+      "postal_code": "34594"
+    },
+    {
+      "id": "18.05.22.2007",
+      "name": "Gedung Jaya",
+      "postal_code": "34594"
+    },
+    {
+      "id": "18.05.22.2008",
+      "name": "Bumi Sari",
+      "postal_code": "34594"
+    },
+    {
+      "id": "18.05.22.2009",
+      "name": "Mulyo Dadi",
+      "postal_code": "34594"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

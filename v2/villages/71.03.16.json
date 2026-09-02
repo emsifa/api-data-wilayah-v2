@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "71.03.16.2001",
+      "name": "Kendahe I",
+      "postal_code": "95852"
+    },
+    {
+      "id": "71.03.16.2002",
+      "name": "Kendahe II",
+      "postal_code": "95852"
+    },
+    {
+      "id": "71.03.16.2003",
+      "name": "Talawid",
+      "postal_code": "95852"
+    },
+    {
+      "id": "71.03.16.2004",
+      "name": "Tariang Lama",
+      "postal_code": "95852"
+    },
+    {
+      "id": "71.03.16.2005",
+      "name": "Pempalaraeng",
+      "postal_code": "95852"
+    },
+    {
+      "id": "71.03.16.2006",
+      "name": "Mohong Sawang",
+      "postal_code": "95852"
+    },
+    {
+      "id": "71.03.16.2007",
+      "name": "Lipang",
+      "postal_code": "95852"
+    },
+    {
+      "id": "71.03.16.2008",
+      "name": "Kawaluso",
+      "postal_code": "95852"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

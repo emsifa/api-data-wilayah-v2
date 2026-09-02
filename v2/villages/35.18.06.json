@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "35.18.06.2001",
+      "name": "Gondanglegi",
+      "postal_code": "64484"
+    },
+    {
+      "id": "35.18.06.2002",
+      "name": "Singkalanyar",
+      "postal_code": "64484"
+    },
+    {
+      "id": "35.18.06.2003",
+      "name": "Mojoagung",
+      "postal_code": "64484"
+    },
+    {
+      "id": "35.18.06.2004",
+      "name": "Bandung",
+      "postal_code": "64484"
+    },
+    {
+      "id": "35.18.06.2005",
+      "name": "Nglawak",
+      "postal_code": "64484"
+    },
+    {
+      "id": "35.18.06.2006",
+      "name": "Baleturi",
+      "postal_code": "64484"
+    },
+    {
+      "id": "35.18.06.2007",
+      "name": "Tegaron",
+      "postal_code": "64484"
+    },
+    {
+      "id": "35.18.06.2008",
+      "name": "Tanjungtani",
+      "postal_code": "64484"
+    },
+    {
+      "id": "35.18.06.2009",
+      "name": "Sanggrahan",
+      "postal_code": "64484"
+    },
+    {
+      "id": "35.18.06.2010",
+      "name": "Rowoharjo",
+      "postal_code": "64484"
+    },
+    {
+      "id": "35.18.06.2011",
+      "name": "Sugihwaras",
+      "postal_code": "64484"
+    },
+    {
+      "id": "35.18.06.2012",
+      "name": "Watudandang",
+      "postal_code": "64484"
+    },
+    {
+      "id": "35.18.06.2013",
+      "name": "Sono Ageng",
+      "postal_code": "64484"
+    },
+    {
+      "id": "35.18.06.2014",
+      "name": "Kurungrejo",
+      "postal_code": "64484"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "32.11.18.1001",
+      "name": "Kota Kaler",
+      "postal_code": "45322"
+    },
+    {
+      "id": "32.11.18.1002",
+      "name": "Situ",
+      "postal_code": "45323"
+    },
+    {
+      "id": "32.11.18.1003",
+      "name": "Talun",
+      "postal_code": "45321"
+    },
+    {
+      "id": "32.11.18.2004",
+      "name": "Padasuka",
+      "postal_code": "45321"
+    },
+    {
+      "id": "32.11.18.2005",
+      "name": "Mulyasari",
+      "postal_code": "45321"
+    },
+    {
+      "id": "32.11.18.2006",
+      "name": "Girimukti",
+      "postal_code": "45321"
+    },
+    {
+      "id": "32.11.18.2007",
+      "name": "Mekarjaya",
+      "postal_code": "45321"
+    },
+    {
+      "id": "32.11.18.2008",
+      "name": "Margamukti",
+      "postal_code": "45321"
+    },
+    {
+      "id": "32.11.18.2009",
+      "name": "Sirnamulya",
+      "postal_code": "45321"
+    },
+    {
+      "id": "32.11.18.2010",
+      "name": "Kebonjati",
+      "postal_code": "45321"
+    },
+    {
+      "id": "32.11.18.2011",
+      "name": "Jatihurip",
+      "postal_code": "45321"
+    },
+    {
+      "id": "32.11.18.2012",
+      "name": "Jatimulya",
+      "postal_code": "45321"
+    },
+    {
+      "id": "32.11.18.2013",
+      "name": "Rancamulya",
+      "postal_code": "45321"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

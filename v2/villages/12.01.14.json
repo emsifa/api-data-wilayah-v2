@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "12.01.14.1001",
+      "name": "Tukka",
+      "postal_code": "22617"
+    },
+    {
+      "id": "12.01.14.1002",
+      "name": "Bona Lumban",
+      "postal_code": "22617"
+    },
+    {
+      "id": "12.01.14.1003",
+      "name": "Huta Nabolon",
+      "postal_code": "22617"
+    },
+    {
+      "id": "12.01.14.1007",
+      "name": "Sipange",
+      "postal_code": "22617"
+    },
+    {
+      "id": "12.01.14.1009",
+      "name": "Aek Tolang Induk",
+      "postal_code": "22617"
+    },
+    {
+      "id": "12.01.14.2004",
+      "name": "Sigiring Giring",
+      "postal_code": "22617"
+    },
+    {
+      "id": "12.01.14.2005",
+      "name": "Tapian Nauli/ Saurmanggita",
+      "postal_code": "22617"
+    },
+    {
+      "id": "12.01.14.2006",
+      "name": "Sait Kalangan II",
+      "postal_code": "22618"
+    },
+    {
+      "id": "12.01.14.2008",
+      "name": "Aek Bottar",
+      "postal_code": "22617"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

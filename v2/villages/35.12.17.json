@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.12.17.2001",
+      "name": "Patemon",
+      "postal_code": "68358"
+    },
+    {
+      "id": "35.12.17.2002",
+      "name": "Sumbertengah",
+      "postal_code": "68358"
+    },
+    {
+      "id": "35.12.17.2003",
+      "name": "Selowogo",
+      "postal_code": "68358"
+    },
+    {
+      "id": "35.12.17.2004",
+      "name": "Mlandingan Wetan",
+      "postal_code": "68358"
+    },
+    {
+      "id": "35.12.17.2005",
+      "name": "Bungatan",
+      "postal_code": "68358"
+    },
+    {
+      "id": "35.12.17.2006",
+      "name": "Bletok",
+      "postal_code": "68358"
+    },
+    {
+      "id": "35.12.17.2007",
+      "name": "Pasir Putih",
+      "postal_code": "68358"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

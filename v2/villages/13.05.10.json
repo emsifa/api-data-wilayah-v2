@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "13.05.10.2001",
+      "name": "Tapakih",
+      "postal_code": "25572"
+    },
+    {
+      "id": "13.05.10.2002",
+      "name": "Ulakan",
+      "postal_code": "25572"
+    },
+    {
+      "id": "13.05.10.2003",
+      "name": "Padang Toboh Ulakan",
+      "postal_code": "25572"
+    },
+    {
+      "id": "13.05.10.2004",
+      "name": "Sungai Gimba Ulakan",
+      "postal_code": "25572"
+    },
+    {
+      "id": "13.05.10.2005",
+      "name": "Seulayat Ulakan",
+      "postal_code": "25572"
+    },
+    {
+      "id": "13.05.10.2006",
+      "name": "Manggopoh Palak Gadang Ulakan",
+      "postal_code": "25572"
+    },
+    {
+      "id": "13.05.10.2007",
+      "name": "Sandi Ulakan",
+      "postal_code": "25572"
+    },
+    {
+      "id": "13.05.10.2008",
+      "name": "Kampuang Gelapuang Ulakan",
+      "postal_code": "25572"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

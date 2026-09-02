@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.74.04.1001",
+      "name": "Jagasatru",
+      "postal_code": "45115"
+    },
+    {
+      "id": "32.74.04.1002",
+      "name": "Pekalipan",
+      "postal_code": "45117"
+    },
+    {
+      "id": "32.74.04.1003",
+      "name": "Pulasaren",
+      "postal_code": "45116"
+    },
+    {
+      "id": "32.74.04.1004",
+      "name": "Pekalangan",
+      "postal_code": "45118"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

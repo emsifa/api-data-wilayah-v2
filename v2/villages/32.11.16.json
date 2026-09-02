@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.11.16.2001",
+      "name": "Nagarawangi",
+      "postal_code": "45361"
+    },
+    {
+      "id": "32.11.16.2002",
+      "name": "Cibunar",
+      "postal_code": "45361"
+    },
+    {
+      "id": "32.11.16.2003",
+      "name": "Pangadegan",
+      "postal_code": "45361"
+    },
+    {
+      "id": "32.11.16.2004",
+      "name": "Sukahayu",
+      "postal_code": "45361"
+    },
+    {
+      "id": "32.11.16.2005",
+      "name": "Sukamaju",
+      "postal_code": "45361"
+    },
+    {
+      "id": "32.11.16.2006",
+      "name": "Pamekaran",
+      "postal_code": "45361"
+    },
+    {
+      "id": "32.11.16.2007",
+      "name": "Rancakalong",
+      "postal_code": "45361"
+    },
+    {
+      "id": "32.11.16.2008",
+      "name": "Sukasirnarasa",
+      "postal_code": "45361"
+    },
+    {
+      "id": "32.11.16.2009",
+      "name": "Cibungur",
+      "postal_code": "45361"
+    },
+    {
+      "id": "32.11.16.2010",
+      "name": "Pasirbiru",
+      "postal_code": "45361"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

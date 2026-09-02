@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "21.04.12.2001",
+      "name": "Temiang",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.12.2002",
+      "name": "Tajur Biru",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.12.2003",
+      "name": "Pulau Batang",
+      "postal_code": "29873"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

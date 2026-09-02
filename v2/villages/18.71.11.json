@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "18.71.11.1001",
+      "name": "Tanjung Senang",
+      "postal_code": "35141"
+    },
+    {
+      "id": "18.71.11.1002",
+      "name": "Way Kandis",
+      "postal_code": "35143"
+    },
+    {
+      "id": "18.71.11.1003",
+      "name": "Labuhan Dalam",
+      "postal_code": "35142"
+    },
+    {
+      "id": "18.71.11.1004",
+      "name": "Perumnas Way Kandis",
+      "postal_code": "35141"
+    },
+    {
+      "id": "18.71.11.1005",
+      "name": "Pematang Wangi",
+      "postal_code": "35141"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

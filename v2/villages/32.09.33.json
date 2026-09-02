@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.09.33.2001",
+      "name": "Sukadana",
+      "postal_code": "45194"
+    },
+    {
+      "id": "32.09.33.2002",
+      "name": "Pabuaran Kidul",
+      "postal_code": "45194"
+    },
+    {
+      "id": "32.09.33.2003",
+      "name": "Pabuaran Wetan",
+      "postal_code": "45194"
+    },
+    {
+      "id": "32.09.33.2004",
+      "name": "Pabuaran Lor",
+      "postal_code": "45194"
+    },
+    {
+      "id": "32.09.33.2005",
+      "name": "Jatirenggang",
+      "postal_code": "45194"
+    },
+    {
+      "id": "32.09.33.2006",
+      "name": "Hulubanteng",
+      "postal_code": "45194"
+    },
+    {
+      "id": "32.09.33.2007",
+      "name": "Hulubanteng Lor",
+      "postal_code": "45194"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

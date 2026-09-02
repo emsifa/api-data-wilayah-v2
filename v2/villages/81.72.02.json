@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "81.72.02.1003",
+      "name": "Ketsoblak",
+      "postal_code": "97611"
+    },
+    {
+      "id": "81.72.02.1004",
+      "name": "Masrum",
+      "postal_code": "97611"
+    },
+    {
+      "id": "81.72.02.1005",
+      "name": "Lodar El",
+      "postal_code": "97611"
+    },
+    {
+      "id": "81.72.02.2001",
+      "name": "Tual",
+      "postal_code": "97611"
+    },
+    {
+      "id": "81.72.02.2002",
+      "name": "Taar",
+      "postal_code": "97611"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

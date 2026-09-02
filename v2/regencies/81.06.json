@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "81.06",
+    "name": "Kabupaten Seram Bagian Barat",
+    "capital": "Piru",
+    "lat": -3.066663330229327,
+    "lng": 128.23003905355495,
+    "elv": 86,
+    "tz": 9,
+    "population": 217389,
+    "total_area": 5014.238,
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

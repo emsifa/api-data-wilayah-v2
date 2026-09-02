@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "35.01.07",
+    "name": "Nawangan",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.01",
+      "name": "Kabupaten Pacitan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

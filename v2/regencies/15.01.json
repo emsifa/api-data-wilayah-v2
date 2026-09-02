@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "15.01",
+    "name": "Kabupaten Kerinci",
+    "capital": "Siulak",
+    "lat": -2.057362540443507,
+    "lng": 101.3884655651427,
+    "elv": 841,
+    "tz": 7,
+    "population": 268951,
+    "total_area": 3445.196,
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

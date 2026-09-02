@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "35.21.05.2005",
+      "name": "Keraswetan",
+      "postal_code": "63271"
+    },
+    {
+      "id": "35.21.05.2006",
+      "name": "Keniten",
+      "postal_code": "63271"
+    },
+    {
+      "id": "35.21.05.2007",
+      "name": "Tambakromo",
+      "postal_code": "63271"
+    },
+    {
+      "id": "35.21.05.2009",
+      "name": "Tepas",
+      "postal_code": "63271"
+    },
+    {
+      "id": "35.21.05.2010",
+      "name": "Geneng",
+      "postal_code": "63271"
+    },
+    {
+      "id": "35.21.05.2011",
+      "name": "Sidorejo",
+      "postal_code": "63271"
+    },
+    {
+      "id": "35.21.05.2012",
+      "name": "Baderan",
+      "postal_code": "63271"
+    },
+    {
+      "id": "35.21.05.2013",
+      "name": "Kasreman",
+      "postal_code": "63271"
+    },
+    {
+      "id": "35.21.05.2014",
+      "name": "Kersikan",
+      "postal_code": "63271"
+    },
+    {
+      "id": "35.21.05.2015",
+      "name": "Dempel",
+      "postal_code": "63271"
+    },
+    {
+      "id": "35.21.05.2016",
+      "name": "Klitik",
+      "postal_code": "63271"
+    },
+    {
+      "id": "35.21.05.2017",
+      "name": "Kersoharjo",
+      "postal_code": "63271"
+    },
+    {
+      "id": "35.21.05.2018",
+      "name": "Klampisan",
+      "postal_code": "63271"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

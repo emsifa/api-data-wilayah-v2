@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "74.15.05.2001",
+      "name": "Molona",
+      "postal_code": "93744"
+    },
+    {
+      "id": "74.15.05.2002",
+      "name": "Mbanua",
+      "postal_code": "93744"
+    },
+    {
+      "id": "74.15.05.2003",
+      "name": "Lalole",
+      "postal_code": "93744"
+    },
+    {
+      "id": "74.15.05.2004",
+      "name": "Watuampara",
+      "postal_code": "93744"
+    },
+    {
+      "id": "74.15.05.2005",
+      "name": "Katampe",
+      "postal_code": "93744"
+    },
+    {
+      "id": "74.15.05.2006",
+      "name": "Lamaninggara",
+      "postal_code": "93744"
+    },
+    {
+      "id": "74.15.05.2007",
+      "name": "Kamoali",
+      "postal_code": "93744"
+    },
+    {
+      "id": "74.15.05.2008",
+      "name": "Mokobeau",
+      "postal_code": "93744"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "91.11.09.2001",
+      "name": "Yamara",
+      "postal_code": "99468"
+    },
+    {
+      "id": "91.11.09.2002",
+      "name": "Wembi",
+      "postal_code": "99468"
+    },
+    {
+      "id": "91.11.09.2003",
+      "name": "Wonorejo",
+      "postal_code": "99468"
+    },
+    {
+      "id": "91.11.09.2004",
+      "name": "Pyawi",
+      "postal_code": "99468"
+    },
+    {
+      "id": "91.11.09.2005",
+      "name": "Sawyatami",
+      "postal_code": "99468"
+    },
+    {
+      "id": "91.11.09.2006",
+      "name": "Wambes",
+      "postal_code": "99468"
+    },
+    {
+      "id": "91.11.09.2007",
+      "name": "Uskwar",
+      "postal_code": "99468"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

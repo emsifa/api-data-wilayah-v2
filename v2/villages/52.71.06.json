@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "52.71.06.1001",
+      "name": "Dasan Cermen",
+      "postal_code": "83232"
+    },
+    {
+      "id": "52.71.06.1002",
+      "name": "Babakan",
+      "postal_code": "83233"
+    },
+    {
+      "id": "52.71.06.1003",
+      "name": "Bertais",
+      "postal_code": "83236"
+    },
+    {
+      "id": "52.71.06.1004",
+      "name": "Selagalas",
+      "postal_code": "83237"
+    },
+    {
+      "id": "52.71.06.1005",
+      "name": "Abian Tubuh Baru",
+      "postal_code": "83237"
+    },
+    {
+      "id": "52.71.06.1006",
+      "name": "Turida",
+      "postal_code": "83237"
+    },
+    {
+      "id": "52.71.06.1007",
+      "name": "Mandalika",
+      "postal_code": "83237"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "16.09.19.2001",
+      "name": "Rantau Panjang",
+      "postal_code": "32211"
+    },
+    {
+      "id": "16.09.19.2002",
+      "name": "Sukajaya",
+      "postal_code": "32211"
+    },
+    {
+      "id": "16.09.19.2003",
+      "name": "Banjar Agung",
+      "postal_code": "32211"
+    },
+    {
+      "id": "16.09.19.2004",
+      "name": "Ruos",
+      "postal_code": "32211"
+    },
+    {
+      "id": "16.09.19.2005",
+      "name": "Gunung Cahya",
+      "postal_code": "32211"
+    },
+    {
+      "id": "16.09.19.2006",
+      "name": "Bumi Jaya",
+      "postal_code": "32211"
+    },
+    {
+      "id": "16.09.19.2007",
+      "name": "Bendi",
+      "postal_code": "32211"
+    },
+    {
+      "id": "16.09.19.2008",
+      "name": "Pekuolan",
+      "postal_code": "32211"
+    },
+    {
+      "id": "16.09.19.2009",
+      "name": "Pelawi",
+      "postal_code": "32211"
+    },
+    {
+      "id": "16.09.19.2011",
+      "name": "Majar",
+      "postal_code": "32211"
+    },
+    {
+      "id": "16.09.19.2012",
+      "name": "Bumi Agung Jaya",
+      "postal_code": "32211"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

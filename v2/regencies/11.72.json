@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "11.72",
+    "name": "Kota Sabang",
+    "capital": "Sabang",
+    "lat": 5.892656382959924,
+    "lng": 95.32111719653021,
+    "elv": 38,
+    "tz": 7,
+    "population": 42793,
+    "total_area": 121.867,
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

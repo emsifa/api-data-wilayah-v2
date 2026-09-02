@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "62.07",
+    "name": "Kabupaten Seruyan",
+    "capital": "Kuala Pembuang",
+    "lat": -3.4138432398482084,
+    "lng": 112.54170361471685,
+    "elv": 9,
+    "tz": 7,
+    "population": 159849,
+    "total_area": 15211.714,
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

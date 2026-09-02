@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "71.02.16.1001",
+      "name": "Sumalangka",
+      "postal_code": "95615"
+    },
+    {
+      "id": "71.02.16.1002",
+      "name": "Sasaran",
+      "postal_code": "95615"
+    },
+    {
+      "id": "71.02.16.1003",
+      "name": "Kampung Jawa",
+      "postal_code": "95614"
+    },
+    {
+      "id": "71.02.16.1004",
+      "name": "Wulauan",
+      "postal_code": "95614"
+    },
+    {
+      "id": "71.02.16.1005",
+      "name": "Marawas",
+      "postal_code": "95614"
+    },
+    {
+      "id": "71.02.16.2006",
+      "name": "Tonsea Lama",
+      "postal_code": "95610"
+    },
+    {
+      "id": "71.02.16.2007",
+      "name": "Kembuan",
+      "postal_code": "95615"
+    },
+    {
+      "id": "71.02.16.2008",
+      "name": "Kembuan Satu",
+      "postal_code": "95615"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

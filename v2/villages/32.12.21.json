@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "32.12.21.2001",
+      "name": "Curug",
+      "postal_code": "45254"
+    },
+    {
+      "id": "32.12.21.2002",
+      "name": "Pranti",
+      "postal_code": "45254"
+    },
+    {
+      "id": "32.12.21.2003",
+      "name": "Wirakanan",
+      "postal_code": "45254"
+    },
+    {
+      "id": "32.12.21.2004",
+      "name": "Karangmulya",
+      "postal_code": "45254"
+    },
+    {
+      "id": "32.12.21.2005",
+      "name": "Karanganyar",
+      "postal_code": "45213"
+    },
+    {
+      "id": "32.12.21.2006",
+      "name": "Wirapanjunan",
+      "postal_code": "45254"
+    },
+    {
+      "id": "32.12.21.2007",
+      "name": "Pareangirang",
+      "postal_code": "45254"
+    },
+    {
+      "id": "32.12.21.2008",
+      "name": "Bulak",
+      "postal_code": "45254"
+    },
+    {
+      "id": "32.12.21.2009",
+      "name": "Ilir",
+      "postal_code": "45254"
+    },
+    {
+      "id": "32.12.21.2010",
+      "name": "Soge",
+      "postal_code": "45254"
+    },
+    {
+      "id": "32.12.21.2011",
+      "name": "Eretan Wetan",
+      "postal_code": "45254"
+    },
+    {
+      "id": "32.12.21.2012",
+      "name": "Eretan Kulon",
+      "postal_code": "45254"
+    },
+    {
+      "id": "32.12.21.2013",
+      "name": "Kertawinangun",
+      "postal_code": "45254"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

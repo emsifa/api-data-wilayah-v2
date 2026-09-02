@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "18.08.01.1005",
+      "name": "Blambangan Umpu",
+      "postal_code": "34764"
+    },
+    {
+      "id": "18.08.01.2006",
+      "name": "Lembasung",
+      "postal_code": "34764"
+    },
+    {
+      "id": "18.08.01.2009",
+      "name": "Gunung Sangkaran",
+      "postal_code": "34764"
+    },
+    {
+      "id": "18.08.01.2010",
+      "name": "Tanjung Raja Giham",
+      "postal_code": "34764"
+    },
+    {
+      "id": "18.08.01.2011",
+      "name": "Segara Mider",
+      "postal_code": "34764"
+    },
+    {
+      "id": "18.08.01.2012",
+      "name": "Umpu Bhakti",
+      "postal_code": "34764"
+    },
+    {
+      "id": "18.08.01.2013",
+      "name": "Sangkaran Bhakti",
+      "postal_code": "34764"
+    },
+    {
+      "id": "18.08.01.2014",
+      "name": "Bumi Baru",
+      "postal_code": "34764"
+    },
+    {
+      "id": "18.08.01.2015",
+      "name": "Tanjung Sari",
+      "postal_code": "34764"
+    },
+    {
+      "id": "18.08.01.2016",
+      "name": "Sri Rejeki",
+      "postal_code": "34764"
+    },
+    {
+      "id": "18.08.01.2017",
+      "name": "Karang Umpu",
+      "postal_code": "34764"
+    },
+    {
+      "id": "18.08.01.2018",
+      "name": "Umpu Kencana",
+      "postal_code": "34764"
+    },
+    {
+      "id": "18.08.01.2022",
+      "name": "Tanjung Raja Sakti",
+      "postal_code": "34764"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

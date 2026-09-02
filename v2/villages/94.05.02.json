@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "94.05.02.2001",
+      "name": "Wangbe",
+      "postal_code": "98955"
+    },
+    {
+      "id": "94.05.02.2002",
+      "name": "Jindak",
+      "postal_code": "98983"
+    },
+    {
+      "id": "94.05.02.2003",
+      "name": "Pungki",
+      "postal_code": "98955"
+    },
+    {
+      "id": "94.05.02.2004",
+      "name": "Wonalbe",
+      "postal_code": "98955"
+    },
+    {
+      "id": "94.05.02.2005",
+      "name": "Ulipia",
+      "postal_code": "98955"
+    },
+    {
+      "id": "94.05.02.2006",
+      "name": "Marilaukin",
+      "postal_code": "98983"
+    },
+    {
+      "id": "94.05.02.2007",
+      "name": "Ailpailin",
+      "postal_code": "98983"
+    },
+    {
+      "id": "94.05.02.2008",
+      "name": "Wungbet",
+      "postal_code": "98955"
+    },
+    {
+      "id": "94.05.02.2009",
+      "name": "Nagaljagama",
+      "postal_code": "98955"
+    },
+    {
+      "id": "94.05.02.2010",
+      "name": "Mongkoihol",
+      "postal_code": "98955"
+    },
+    {
+      "id": "94.05.02.2011",
+      "name": "Nangi",
+      "postal_code": "98983"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

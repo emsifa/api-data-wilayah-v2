@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "19.71.03.1004",
+      "name": "Pasir Garam",
+      "postal_code": "33115"
+    },
+    {
+      "id": "19.71.03.1005",
+      "name": "Lontong Pancur",
+      "postal_code": "33115"
+    },
+    {
+      "id": "19.71.03.1006",
+      "name": "Ketapang",
+      "postal_code": "33111"
+    },
+    {
+      "id": "19.71.03.1007",
+      "name": "Ampui",
+      "postal_code": "33113"
+    },
+    {
+      "id": "19.71.03.1008",
+      "name": "Rejosari",
+      "postal_code": "33111"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

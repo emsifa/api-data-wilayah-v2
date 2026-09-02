@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "33.02.09.2001",
+      "name": "Tanggeran",
+      "postal_code": "53193"
+    },
+    {
+      "id": "33.02.09.2002",
+      "name": "Sokawera",
+      "postal_code": "53193"
+    },
+    {
+      "id": "33.02.09.2003",
+      "name": "Somagede",
+      "postal_code": "53193"
+    },
+    {
+      "id": "33.02.09.2004",
+      "name": "Klinting",
+      "postal_code": "53193"
+    },
+    {
+      "id": "33.02.09.2005",
+      "name": "Kemawi",
+      "postal_code": "53193"
+    },
+    {
+      "id": "33.02.09.2006",
+      "name": "Piasa Kulon",
+      "postal_code": "53193"
+    },
+    {
+      "id": "33.02.09.2007",
+      "name": "Kanding",
+      "postal_code": "53193"
+    },
+    {
+      "id": "33.02.09.2008",
+      "name": "Somakaton",
+      "postal_code": "53193"
+    },
+    {
+      "id": "33.02.09.2009",
+      "name": "Plana",
+      "postal_code": "53193"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

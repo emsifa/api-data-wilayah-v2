@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "62.11",
-    "name": "Kabupaten Pulang Pisau",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
+  "data": [
+    {
+      "id": "62.11.01",
+      "name": "Pandih Batu"
     },
-    "regency": {
-      "id": "62.11",
-      "name": "Kabupaten Pulang Pisau"
+    {
+      "id": "62.11.02",
+      "name": "Kahayan Kuala"
+    },
+    {
+      "id": "62.11.03",
+      "name": "Kahayan Tengah"
+    },
+    {
+      "id": "62.11.04",
+      "name": "Banama Tingang"
+    },
+    {
+      "id": "62.11.05",
+      "name": "Kahayan Hilir"
+    },
+    {
+      "id": "62.11.06",
+      "name": "Maliku"
+    },
+    {
+      "id": "62.11.07",
+      "name": "Jabiren Raya"
+    },
+    {
+      "id": "62.11.08",
+      "name": "Sebangau Kuala"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

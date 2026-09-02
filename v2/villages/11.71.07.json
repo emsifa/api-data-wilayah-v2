@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "11.71.07.2001",
+      "name": "Geuceu Komplek",
+      "postal_code": "23239"
+    },
+    {
+      "id": "11.71.07.2002",
+      "name": "Lamlagang",
+      "postal_code": "23239"
+    },
+    {
+      "id": "11.71.07.2003",
+      "name": "Geuceu Iniem",
+      "postal_code": "23239"
+    },
+    {
+      "id": "11.71.07.2004",
+      "name": "Geuceu Kayee Jato",
+      "postal_code": "23239"
+    },
+    {
+      "id": "11.71.07.2005",
+      "name": "Lam Ara",
+      "postal_code": "23238"
+    },
+    {
+      "id": "11.71.07.2006",
+      "name": "Lhong Raya",
+      "postal_code": "23238"
+    },
+    {
+      "id": "11.71.07.2007",
+      "name": "Mibo",
+      "postal_code": "23238"
+    },
+    {
+      "id": "11.71.07.2008",
+      "name": "Peunyerat",
+      "postal_code": "23238"
+    },
+    {
+      "id": "11.71.07.2009",
+      "name": "Lhong Cut",
+      "postal_code": "23238"
+    },
+    {
+      "id": "11.71.07.2010",
+      "name": "Lampeuot",
+      "postal_code": "23238"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "16.71.13.1001",
+      "name": "Kemasrindo",
+      "postal_code": "30258"
+    },
+    {
+      "id": "16.71.13.1002",
+      "name": "Kemangagung",
+      "postal_code": "30258"
+    },
+    {
+      "id": "16.71.13.1003",
+      "name": "Keramasan",
+      "postal_code": "30259"
+    },
+    {
+      "id": "16.71.13.1004",
+      "name": "Kertapati",
+      "postal_code": "30258"
+    },
+    {
+      "id": "16.71.13.1005",
+      "name": "Karyajaya",
+      "postal_code": "30259"
+    },
+    {
+      "id": "16.71.13.1006",
+      "name": "Oganbaru",
+      "postal_code": "30258"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

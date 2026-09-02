@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "12.73.04.1001",
+      "name": "Pancuran Kerambil",
+      "postal_code": "22531"
+    },
+    {
+      "id": "12.73.04.1002",
+      "name": "Pancuran Dewa",
+      "postal_code": "22532"
+    },
+    {
+      "id": "12.73.04.1003",
+      "name": "Pancuran Pinang",
+      "postal_code": "22534"
+    },
+    {
+      "id": "12.73.04.1004",
+      "name": "Pancuran Bambu",
+      "postal_code": "22535"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

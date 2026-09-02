@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "35.07.04.2001",
+      "name": "Tambakasri",
+      "postal_code": "65176"
+    },
+    {
+      "id": "35.07.04.2002",
+      "name": "Tegalrejo",
+      "postal_code": "65176"
+    },
+    {
+      "id": "35.07.04.2003",
+      "name": "Sekarbanyu",
+      "postal_code": "65176"
+    },
+    {
+      "id": "35.07.04.2004",
+      "name": "Klepu",
+      "postal_code": "65176"
+    },
+    {
+      "id": "35.07.04.2005",
+      "name": "Ringinkembar",
+      "postal_code": "65176"
+    },
+    {
+      "id": "35.07.04.2006",
+      "name": "Kedungbanteng",
+      "postal_code": "65176"
+    },
+    {
+      "id": "35.07.04.2007",
+      "name": "Sitiarjo",
+      "postal_code": "65176"
+    },
+    {
+      "id": "35.07.04.2008",
+      "name": "Sumberagung",
+      "postal_code": "65176"
+    },
+    {
+      "id": "35.07.04.2009",
+      "name": "Argotirto",
+      "postal_code": "65176"
+    },
+    {
+      "id": "35.07.04.2010",
+      "name": "Harjokuncaran",
+      "postal_code": "65176"
+    },
+    {
+      "id": "35.07.04.2011",
+      "name": "Sumbermanjing Wetan",
+      "postal_code": "65176"
+    },
+    {
+      "id": "35.07.04.2012",
+      "name": "Ringinsari",
+      "postal_code": "65176"
+    },
+    {
+      "id": "35.07.04.2013",
+      "name": "Druju",
+      "postal_code": "65176"
+    },
+    {
+      "id": "35.07.04.2014",
+      "name": "Tambakrejo",
+      "postal_code": "65176"
+    },
+    {
+      "id": "35.07.04.2015",
+      "name": "Sidoasri",
+      "postal_code": "65176"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

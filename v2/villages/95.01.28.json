@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "95.01.28.2001",
+      "name": "Tanahmerah",
+      "postal_code": "99545"
+    },
+    {
+      "id": "95.01.28.2002",
+      "name": "Towagame",
+      "postal_code": "99545"
+    },
+    {
+      "id": "95.01.28.2003",
+      "name": "Molagalome",
+      "postal_code": "99545"
+    },
+    {
+      "id": "95.01.28.2004",
+      "name": "Kwigiluk",
+      "postal_code": "99545"
+    },
+    {
+      "id": "95.01.28.2005",
+      "name": "Mebunukme",
+      "postal_code": "99545"
+    },
+    {
+      "id": "95.01.28.2006",
+      "name": "Okwa",
+      "postal_code": "99545"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

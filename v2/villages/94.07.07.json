@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "94.07.07.2001",
+      "name": "Ugimba",
+      "postal_code": "98794"
+    },
+    {
+      "id": "94.07.07.2002",
+      "name": "Bunaopa",
+      "postal_code": "98794"
+    },
+    {
+      "id": "94.07.07.2003",
+      "name": "Pigabu",
+      "postal_code": "98794"
+    },
+    {
+      "id": "94.07.07.2004",
+      "name": "Teteopa",
+      "postal_code": "98794"
+    },
+    {
+      "id": "94.07.07.2005",
+      "name": "Dukendopa",
+      "postal_code": "98794"
+    },
+    {
+      "id": "94.07.07.2006",
+      "name": "Nggamagae",
+      "postal_code": "98794"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

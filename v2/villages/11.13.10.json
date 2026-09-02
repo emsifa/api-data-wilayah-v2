@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "11.13.10.2001",
+      "name": "Perlak",
+      "postal_code": "24657"
+    },
+    {
+      "id": "11.13.10.2002",
+      "name": "Rerebe",
+      "postal_code": "24657"
+    },
+    {
+      "id": "11.13.10.2003",
+      "name": "Pasir",
+      "postal_code": "24657"
+    },
+    {
+      "id": "11.13.10.2004",
+      "name": "Setul",
+      "postal_code": "24657"
+    },
+    {
+      "id": "11.13.10.2005",
+      "name": "UPT Paya Kumer",
+      "postal_code": "24657"
+    },
+    {
+      "id": "11.13.10.2006",
+      "name": "UPT Pantan Kela",
+      "postal_code": "24657"
+    },
+    {
+      "id": "11.13.10.2007",
+      "name": "Buntul Musara",
+      "postal_code": "24657"
+    },
+    {
+      "id": "11.13.10.2008",
+      "name": "Kuala Jernih",
+      "postal_code": "24657"
+    },
+    {
+      "id": "11.13.10.2009",
+      "name": "Uyem Beriring",
+      "postal_code": "24657"
+    },
+    {
+      "id": "11.13.10.2010",
+      "name": "Pulo Gelime",
+      "postal_code": "24657"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "72.71.08.1001",
+      "name": "Layana Indah",
+      "postal_code": "94111"
+    },
+    {
+      "id": "72.71.08.1002",
+      "name": "Tondo",
+      "postal_code": "94119"
+    },
+    {
+      "id": "72.71.08.1003",
+      "name": "Talise",
+      "postal_code": "94118"
+    },
+    {
+      "id": "72.71.08.1004",
+      "name": "Tanamodindi",
+      "postal_code": "94234"
+    },
+    {
+      "id": "72.71.08.1005",
+      "name": "Lasoani",
+      "postal_code": "94116"
+    },
+    {
+      "id": "72.71.08.1006",
+      "name": "Poboya",
+      "postal_code": "94115"
+    },
+    {
+      "id": "72.71.08.1007",
+      "name": "Kawatuna",
+      "postal_code": "94233"
+    },
+    {
+      "id": "72.71.08.1008",
+      "name": "Talise Valangguni",
+      "postal_code": "94118"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

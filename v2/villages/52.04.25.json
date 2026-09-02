@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "52.04.25.2001",
+      "name": "Bantulanteh",
+      "postal_code": "84385"
+    },
+    {
+      "id": "52.04.25.2002",
+      "name": "Labuhan Bontong",
+      "postal_code": "84385"
+    },
+    {
+      "id": "52.04.25.2003",
+      "name": "Labuhan Aji",
+      "postal_code": "84385"
+    },
+    {
+      "id": "52.04.25.2004",
+      "name": "Labuhan Jambu",
+      "postal_code": "84385"
+    },
+    {
+      "id": "52.04.25.2005",
+      "name": "Mata",
+      "postal_code": "84385"
+    },
+    {
+      "id": "52.04.25.2006",
+      "name": "Tolo' Oi",
+      "postal_code": "84385"
+    },
+    {
+      "id": "52.04.25.2007",
+      "name": "Banda",
+      "postal_code": "84385"
+    },
+    {
+      "id": "52.04.25.2008",
+      "name": "Labuhan Pidang",
+      "postal_code": "84385"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

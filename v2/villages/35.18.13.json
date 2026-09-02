@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "35.18.13.1001",
+      "name": "Jatirejo",
+      "postal_code": "64416"
+    },
+    {
+      "id": "35.18.13.1002",
+      "name": "Ploso",
+      "postal_code": "64417"
+    },
+    {
+      "id": "35.18.13.1003",
+      "name": "Payaman",
+      "postal_code": "64418"
+    },
+    {
+      "id": "35.18.13.1004",
+      "name": "Kramat",
+      "postal_code": "64419"
+    },
+    {
+      "id": "35.18.13.1005",
+      "name": "Ganung Kidul",
+      "postal_code": "64419"
+    },
+    {
+      "id": "35.18.13.1006",
+      "name": "Werungotok",
+      "postal_code": "64419"
+    },
+    {
+      "id": "35.18.13.1007",
+      "name": "Mangundikaran",
+      "postal_code": "64419"
+    },
+    {
+      "id": "35.18.13.1008",
+      "name": "Kauman",
+      "postal_code": "64411"
+    },
+    {
+      "id": "35.18.13.1009",
+      "name": "Kartoharjo",
+      "postal_code": "64416"
+    },
+    {
+      "id": "35.18.13.1010",
+      "name": "Cangkringan",
+      "postal_code": "64415"
+    },
+    {
+      "id": "35.18.13.1011",
+      "name": "Bogo",
+      "postal_code": "64415"
+    },
+    {
+      "id": "35.18.13.1012",
+      "name": "Ringinanom",
+      "postal_code": "64419"
+    },
+    {
+      "id": "35.18.13.1013",
+      "name": "Begadung",
+      "postal_code": "64413"
+    },
+    {
+      "id": "35.18.13.2014",
+      "name": "Kedungdowo",
+      "postal_code": "64419"
+    },
+    {
+      "id": "35.18.13.2015",
+      "name": "Balongpacul",
+      "postal_code": "64419"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

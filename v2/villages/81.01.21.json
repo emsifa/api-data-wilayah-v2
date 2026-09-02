@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "81.01.21.2001",
+      "name": "Waraka",
+      "postal_code": "97517"
+    },
+    {
+      "id": "81.01.21.2002",
+      "name": "Tananahu",
+      "postal_code": "97517"
+    },
+    {
+      "id": "81.01.21.2003",
+      "name": "Liang",
+      "postal_code": "97517"
+    },
+    {
+      "id": "81.01.21.2004",
+      "name": "Sahulauw",
+      "postal_code": "97517"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

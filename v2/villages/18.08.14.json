@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "18.08.14.2001",
+      "name": "Pisang Baru",
+      "postal_code": "34760"
+    },
+    {
+      "id": "18.08.14.2002",
+      "name": "Pisang Indah",
+      "postal_code": "34760"
+    },
+    {
+      "id": "18.08.14.2003",
+      "name": "Srinumpi",
+      "postal_code": "34760"
+    },
+    {
+      "id": "18.08.14.2004",
+      "name": "Mulyoharjo",
+      "postal_code": "34760"
+    },
+    {
+      "id": "18.08.14.2005",
+      "name": "Bumi Agung",
+      "postal_code": "34760"
+    },
+    {
+      "id": "18.08.14.2006",
+      "name": "Karangan",
+      "postal_code": "34760"
+    },
+    {
+      "id": "18.08.14.2007",
+      "name": "Wonoharjo",
+      "postal_code": "34760"
+    },
+    {
+      "id": "18.08.14.2008",
+      "name": "Sukamaju",
+      "postal_code": "34760"
+    },
+    {
+      "id": "18.08.14.2009",
+      "name": "Tanjung Dalam",
+      "postal_code": "34760"
+    },
+    {
+      "id": "18.08.14.2010",
+      "name": "Bumi Say Agung",
+      "postal_code": "34760"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "72.10.03.2001",
+      "name": "Kamarora A",
+      "postal_code": "94365"
+    },
+    {
+      "id": "72.10.03.2002",
+      "name": "Kamarora B",
+      "postal_code": "94365"
+    },
+    {
+      "id": "72.10.03.2003",
+      "name": "Kadidia",
+      "postal_code": "94365"
+    },
+    {
+      "id": "72.10.03.2004",
+      "name": "Sopu",
+      "postal_code": "94365"
+    },
+    {
+      "id": "72.10.03.2005",
+      "name": "Bulili",
+      "postal_code": "94365"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "13.71.11.1001",
+      "name": "Balai Gadang",
+      "postal_code": "25171"
+    },
+    {
+      "id": "13.71.11.1002",
+      "name": "Lubuk Minturun",
+      "postal_code": "25175"
+    },
+    {
+      "id": "13.71.11.1003",
+      "name": "Aie Pacah",
+      "postal_code": "25176"
+    },
+    {
+      "id": "13.71.11.1004",
+      "name": "Dadok Tunggul Hitam",
+      "postal_code": "25176"
+    },
+    {
+      "id": "13.71.11.1005",
+      "name": "Koto Panjang Ikua Koto",
+      "postal_code": "25175"
+    },
+    {
+      "id": "13.71.11.1006",
+      "name": "Koto Pulai",
+      "postal_code": "25171"
+    },
+    {
+      "id": "13.71.11.1007",
+      "name": "Batipuh Panjang",
+      "postal_code": "25171"
+    },
+    {
+      "id": "13.71.11.1008",
+      "name": "Padang Sarai",
+      "postal_code": "25173"
+    },
+    {
+      "id": "13.71.11.1009",
+      "name": "Lubuk Buaya",
+      "postal_code": "25173"
+    },
+    {
+      "id": "13.71.11.1010",
+      "name": "Batang Kabung Ganting",
+      "postal_code": "25172"
+    },
+    {
+      "id": "13.71.11.1011",
+      "name": "Bungo Pasang",
+      "postal_code": "25171"
+    },
+    {
+      "id": "13.71.11.1012",
+      "name": "Parupuk Tabing",
+      "postal_code": "25171"
+    },
+    {
+      "id": "13.71.11.1013",
+      "name": "Pasie Nan Tigo",
+      "postal_code": "25171"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

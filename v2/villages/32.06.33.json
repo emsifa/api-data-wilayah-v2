@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.06.33.2001",
+      "name": "Banyurasa",
+      "postal_code": "46155"
+    },
+    {
+      "id": "32.06.33.2002",
+      "name": "Calingcing",
+      "postal_code": "46155"
+    },
+    {
+      "id": "32.06.33.2003",
+      "name": "Sukahening",
+      "postal_code": "46155"
+    },
+    {
+      "id": "32.06.33.2004",
+      "name": "Kiarajangkung",
+      "postal_code": "46155"
+    },
+    {
+      "id": "32.06.33.2005",
+      "name": "Kudadepa",
+      "postal_code": "46155"
+    },
+    {
+      "id": "32.06.33.2006",
+      "name": "Banyuresmi",
+      "postal_code": "46155"
+    },
+    {
+      "id": "32.06.33.2007",
+      "name": "Sundakerta",
+      "postal_code": "46155"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

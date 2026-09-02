@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "61.12.04.2002",
+      "name": "Teluk Empening",
+      "postal_code": "78392"
+    },
+    {
+      "id": "61.12.04.2003",
+      "name": "Terentang Hilir",
+      "postal_code": "78392"
+    },
+    {
+      "id": "61.12.04.2004",
+      "name": "Terentang Hulu",
+      "postal_code": "78392"
+    },
+    {
+      "id": "61.12.04.2005",
+      "name": "Permata",
+      "postal_code": "78392"
+    },
+    {
+      "id": "61.12.04.2006",
+      "name": "Betuah",
+      "postal_code": "78392"
+    },
+    {
+      "id": "61.12.04.2007",
+      "name": "Sungai Radak Satu",
+      "postal_code": "78392"
+    },
+    {
+      "id": "61.12.04.2008",
+      "name": "Sungai Radak Dua",
+      "postal_code": "78392"
+    },
+    {
+      "id": "61.12.04.2009",
+      "name": "Sungai Dungun",
+      "postal_code": "78392"
+    },
+    {
+      "id": "61.12.04.2010",
+      "name": "Teluk Bayur",
+      "postal_code": "78392"
+    },
+    {
+      "id": "61.12.04.2011",
+      "name": "Radak Baru",
+      "postal_code": "78392"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

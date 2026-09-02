@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "34.71.11.1001",
+      "name": "Purwokinanti",
+      "postal_code": "55112"
+    },
+    {
+      "id": "34.71.11.1002",
+      "name": "Gunungketur",
+      "postal_code": "55111"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

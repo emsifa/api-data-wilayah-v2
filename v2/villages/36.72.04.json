@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "36.72.04.1001",
+      "name": "Banjar Negara",
+      "postal_code": "42441"
+    },
+    {
+      "id": "36.72.04.1002",
+      "name": "Tegal Ratu",
+      "postal_code": "42445"
+    },
+    {
+      "id": "36.72.04.1003",
+      "name": "Kubangsari",
+      "postal_code": "42445"
+    },
+    {
+      "id": "36.72.04.1004",
+      "name": "Gunung Sugih",
+      "postal_code": "42447"
+    },
+    {
+      "id": "36.72.04.1005",
+      "name": "Kepuh",
+      "postal_code": "42446"
+    },
+    {
+      "id": "36.72.04.1006",
+      "name": "Randakari",
+      "postal_code": "42446"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

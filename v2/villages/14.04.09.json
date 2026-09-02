@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "14.04.09.1003",
+      "name": "Kota Baru Reteh",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2001",
+      "name": "Pebenaan",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2002",
+      "name": "Seberang Pebenaan",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2004",
+      "name": "Nusantara Jaya",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2005",
+      "name": "Kota Baru Seberida",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2006",
+      "name": "Kembang Mekarsari",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2007",
+      "name": "Pasar Kembang",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2008",
+      "name": "Kuala Keritang",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2009",
+      "name": "Kuala Lemang",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2010",
+      "name": "Telukkelasa",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2011",
+      "name": "Pengalihan",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2012",
+      "name": "Pancur",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2013",
+      "name": "Sencalang",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2014",
+      "name": "Petalongan",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2015",
+      "name": "Nyiur Permai",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2016",
+      "name": "Lintas Utara",
+      "postal_code": "29275"
+    },
+    {
+      "id": "14.04.09.2017",
+      "name": "Kayu Raja",
+      "postal_code": "29275"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

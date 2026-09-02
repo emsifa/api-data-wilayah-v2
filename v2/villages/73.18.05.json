@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "73.18.05.1003",
+      "name": "Bombongan",
+      "postal_code": "91811"
+    },
+    {
+      "id": "73.18.05.1005",
+      "name": "Batupapan",
+      "postal_code": "91813"
+    },
+    {
+      "id": "73.18.05.1006",
+      "name": "Tarongko",
+      "postal_code": "91811"
+    },
+    {
+      "id": "73.18.05.1007",
+      "name": "Lamunan",
+      "postal_code": "91811"
+    },
+    {
+      "id": "73.18.05.1009",
+      "name": "Manggau",
+      "postal_code": "91814"
+    },
+    {
+      "id": "73.18.05.1014",
+      "name": "Tondon Mamullu",
+      "postal_code": "91817"
+    },
+    {
+      "id": "73.18.05.1015",
+      "name": "Pantan",
+      "postal_code": "91811"
+    },
+    {
+      "id": "73.18.05.1016",
+      "name": "Buntu Burake",
+      "postal_code": "91817"
+    },
+    {
+      "id": "73.18.05.1017",
+      "name": "Kamali Pentalluan",
+      "postal_code": "91817"
+    },
+    {
+      "id": "73.18.05.1018",
+      "name": "Rante",
+      "postal_code": "91817"
+    },
+    {
+      "id": "73.18.05.1019",
+      "name": "Lapandan",
+      "postal_code": "91817"
+    },
+    {
+      "id": "73.18.05.1020",
+      "name": "Tampo Makale",
+      "postal_code": "91817"
+    },
+    {
+      "id": "73.18.05.1021",
+      "name": "Ariang",
+      "postal_code": "91811"
+    },
+    {
+      "id": "73.18.05.1022",
+      "name": "Botang",
+      "postal_code": "91817"
+    },
+    {
+      "id": "73.18.05.2023",
+      "name": "Lea",
+      "postal_code": "91817"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "33.74.13.1001",
+      "name": "Ngemplak Simongan",
+      "postal_code": "50148"
+    },
+    {
+      "id": "33.74.13.1002",
+      "name": "Manyaran",
+      "postal_code": "50147"
+    },
+    {
+      "id": "33.74.13.1003",
+      "name": "Krapyak",
+      "postal_code": "50146"
+    },
+    {
+      "id": "33.74.13.1004",
+      "name": "Tambakharjo",
+      "postal_code": "50149"
+    },
+    {
+      "id": "33.74.13.1005",
+      "name": "Kalibanteng Kulon",
+      "postal_code": "50145"
+    },
+    {
+      "id": "33.74.13.1006",
+      "name": "Kalibanteng Kidul",
+      "postal_code": "50149"
+    },
+    {
+      "id": "33.74.13.1007",
+      "name": "Gisikdrono",
+      "postal_code": "50149"
+    },
+    {
+      "id": "33.74.13.1008",
+      "name": "Bongsari",
+      "postal_code": "50148"
+    },
+    {
+      "id": "33.74.13.1009",
+      "name": "Bojongsalaman",
+      "postal_code": "50141"
+    },
+    {
+      "id": "33.74.13.1010",
+      "name": "Salamanmloyo",
+      "postal_code": "50149"
+    },
+    {
+      "id": "33.74.13.1011",
+      "name": "Cabean",
+      "postal_code": "50141"
+    },
+    {
+      "id": "33.74.13.1012",
+      "name": "Karangayu",
+      "postal_code": "50149"
+    },
+    {
+      "id": "33.74.13.1013",
+      "name": "Krobokan",
+      "postal_code": "50141"
+    },
+    {
+      "id": "33.74.13.1014",
+      "name": "Tawangsari",
+      "postal_code": "50144"
+    },
+    {
+      "id": "33.74.13.1015",
+      "name": "Tawangmas",
+      "postal_code": "50144"
+    },
+    {
+      "id": "33.74.13.1016",
+      "name": "Kembangarum",
+      "postal_code": "50183"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

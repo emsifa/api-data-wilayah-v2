@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "82.04.16.2001",
+      "name": "Loleo Jaya",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.16.2002",
+      "name": "Tawa",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.16.2003",
+      "name": "Marituso",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.16.2004",
+      "name": "Kou Balabala",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.16.2005",
+      "name": "Loleo Mekar",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.16.2006",
+      "name": "Tutuhu",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.16.2007",
+      "name": "Jeret",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.16.2008",
+      "name": "Kasiruta Dalam",
+      "postal_code": "97790"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

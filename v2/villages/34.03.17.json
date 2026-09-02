@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "34.03.17.2001",
+      "name": "Hargosari",
+      "postal_code": "55881"
+    },
+    {
+      "id": "34.03.17.2002",
+      "name": "Kemiri",
+      "postal_code": "55881"
+    },
+    {
+      "id": "34.03.17.2003",
+      "name": "Kemadang",
+      "postal_code": "55881"
+    },
+    {
+      "id": "34.03.17.2004",
+      "name": "Banjarejo",
+      "postal_code": "55881"
+    },
+    {
+      "id": "34.03.17.2005",
+      "name": "Ngestirejo",
+      "postal_code": "55881"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

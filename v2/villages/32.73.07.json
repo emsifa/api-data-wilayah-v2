@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.73.07.1001",
+      "name": "Pasteur",
+      "postal_code": "40161"
+    },
+    {
+      "id": "32.73.07.1002",
+      "name": "Cipedes",
+      "postal_code": "40162"
+    },
+    {
+      "id": "32.73.07.1003",
+      "name": "Sukawarna",
+      "postal_code": "40164"
+    },
+    {
+      "id": "32.73.07.1004",
+      "name": "Sukagalih",
+      "postal_code": "40163"
+    },
+    {
+      "id": "32.73.07.1005",
+      "name": "Sukabungah",
+      "postal_code": "40162"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

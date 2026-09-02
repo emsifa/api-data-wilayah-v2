@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "65.04.04.2001",
+      "name": "Buong Baru",
+      "postal_code": "77152"
+    },
+    {
+      "id": "65.04.04.2002",
+      "name": "Bebakung",
+      "postal_code": "77152"
+    },
+    {
+      "id": "65.04.04.2003",
+      "name": "Kujau",
+      "postal_code": "77152"
+    },
+    {
+      "id": "65.04.04.2004",
+      "name": "Mendupo",
+      "postal_code": "77152"
+    },
+    {
+      "id": "65.04.04.2005",
+      "name": "Maning",
+      "postal_code": "77152"
+    },
+    {
+      "id": "65.04.04.2006",
+      "name": "Periuk",
+      "postal_code": "77152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

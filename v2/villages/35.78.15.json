@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "35.78.15.1001",
+      "name": "Krembangan Selatan",
+      "postal_code": "60175"
+    },
+    {
+      "id": "35.78.15.1002",
+      "name": "Kemayoran",
+      "postal_code": "60176"
+    },
+    {
+      "id": "35.78.15.1003",
+      "name": "Perak Barat",
+      "postal_code": "60177"
+    },
+    {
+      "id": "35.78.15.1004",
+      "name": "Dupak",
+      "postal_code": "60179"
+    },
+    {
+      "id": "35.78.15.1005",
+      "name": "Morokrembangan",
+      "postal_code": "60178"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

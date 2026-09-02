@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "76.05.08.1001",
+      "name": "Baurung",
+      "postal_code": "91412"
+    },
+    {
+      "id": "76.05.08.1002",
+      "name": "Baruga",
+      "postal_code": "91414"
+    },
+    {
+      "id": "76.05.08.1003",
+      "name": "Baruga Dhua",
+      "postal_code": "91411"
+    },
+    {
+      "id": "76.05.08.1004",
+      "name": "Labuang",
+      "postal_code": "91412"
+    },
+    {
+      "id": "76.05.08.1005",
+      "name": "Tande",
+      "postal_code": "91413"
+    },
+    {
+      "id": "76.05.08.1006",
+      "name": "Lembang",
+      "postal_code": "91413"
+    },
+    {
+      "id": "76.05.08.1007",
+      "name": "Labuang Utara",
+      "postal_code": "91413"
+    },
+    {
+      "id": "76.05.08.1008",
+      "name": "Tande Timur",
+      "postal_code": "91413"
+    },
+    {
+      "id": "76.05.08.2009",
+      "name": "Buttu Baruga",
+      "postal_code": "91413"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

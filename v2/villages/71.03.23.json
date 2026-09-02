@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "71.03.23.1001",
+      "name": "Pananekeng",
+      "postal_code": "95811"
+    },
+    {
+      "id": "71.03.23.1002",
+      "name": "Angges",
+      "postal_code": "95817"
+    },
+    {
+      "id": "71.03.23.1003",
+      "name": "Kolongan Mitung",
+      "postal_code": "95817"
+    },
+    {
+      "id": "71.03.23.1004",
+      "name": "Kolongan Beha",
+      "postal_code": "95818"
+    },
+    {
+      "id": "71.03.23.1005",
+      "name": "Kolongan Beha Baru",
+      "postal_code": "95815"
+    },
+    {
+      "id": "71.03.23.1006",
+      "name": "Kolongan Akembawi",
+      "postal_code": "95818"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

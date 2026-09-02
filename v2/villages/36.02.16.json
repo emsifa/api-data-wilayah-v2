@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "36.02.16.2004",
+      "name": "Mekarjaya",
+      "postal_code": "42397"
+    },
+    {
+      "id": "36.02.16.2006",
+      "name": "Cipalabuh",
+      "postal_code": "42397"
+    },
+    {
+      "id": "36.02.16.2007",
+      "name": "Cijaku",
+      "postal_code": "42397"
+    },
+    {
+      "id": "36.02.16.2008",
+      "name": "Cibeureum",
+      "postal_code": "42397"
+    },
+    {
+      "id": "36.02.16.2012",
+      "name": "Ciapus",
+      "postal_code": "42397"
+    },
+    {
+      "id": "36.02.16.2013",
+      "name": "Kandangsapi",
+      "postal_code": "42397"
+    },
+    {
+      "id": "36.02.16.2014",
+      "name": "Cihujan",
+      "postal_code": "42397"
+    },
+    {
+      "id": "36.02.16.2015",
+      "name": "Cimenga",
+      "postal_code": "42397"
+    },
+    {
+      "id": "36.02.16.2016",
+      "name": "Kapunduhan",
+      "postal_code": "42397"
+    },
+    {
+      "id": "36.02.16.2017",
+      "name": "Sukasenang",
+      "postal_code": "42397"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "12.19.12.2001",
+      "name": "Sentang",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.12.2002",
+      "name": "Tanjung Mulia",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.12.2003",
+      "name": "Jati Mulia",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.12.2004",
+      "name": "Lima Laras",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.12.2005",
+      "name": "Mekar Laras",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.12.2006",
+      "name": "Bandar Sono",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.12.2007",
+      "name": "Ujung Kubu",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.12.2008",
+      "name": "Sei Mentaram",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.12.2009",
+      "name": "Pematang Rambai",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.12.2010",
+      "name": "Tali Air Permai",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.12.2011",
+      "name": "Bagan Baru",
+      "postal_code": "21253"
+    },
+    {
+      "id": "12.19.12.2012",
+      "name": "Kapal Merah",
+      "postal_code": "21253"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

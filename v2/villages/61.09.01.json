@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": "61.09.01.2001",
+      "name": "Sungai Ringin",
+      "postal_code": "79582"
+    },
+    {
+      "id": "61.09.01.2002",
+      "name": "Mungguk",
+      "postal_code": "79511"
+    },
+    {
+      "id": "61.09.01.2003",
+      "name": "Tanjung",
+      "postal_code": "79511"
+    },
+    {
+      "id": "61.09.01.2004",
+      "name": "Merapi",
+      "postal_code": "79512"
+    },
+    {
+      "id": "61.09.01.2005",
+      "name": "Seraras",
+      "postal_code": "79512"
+    },
+    {
+      "id": "61.09.01.2006",
+      "name": "Semabi",
+      "postal_code": "79515"
+    },
+    {
+      "id": "61.09.01.2007",
+      "name": "Seberang Kapuas",
+      "postal_code": "79515"
+    },
+    {
+      "id": "61.09.01.2008",
+      "name": "Landau Kodah",
+      "postal_code": "79514"
+    },
+    {
+      "id": "61.09.01.2009",
+      "name": "Timpuk",
+      "postal_code": "79514"
+    },
+    {
+      "id": "61.09.01.2010",
+      "name": "Sungai Kunyit",
+      "postal_code": "79516"
+    },
+    {
+      "id": "61.09.01.2011",
+      "name": "Peniti",
+      "postal_code": "79516"
+    },
+    {
+      "id": "61.09.01.2012",
+      "name": "Gonis Tekam",
+      "postal_code": "79582"
+    },
+    {
+      "id": "61.09.01.2013",
+      "name": "Tapang Semadak",
+      "postal_code": "79513"
+    },
+    {
+      "id": "61.09.01.2014",
+      "name": "Engkersik",
+      "postal_code": "79513"
+    },
+    {
+      "id": "61.09.01.2015",
+      "name": "Ensalang",
+      "postal_code": "79516"
+    },
+    {
+      "id": "61.09.01.2016",
+      "name": "Bokak Sebumbun",
+      "postal_code": "79582"
+    },
+    {
+      "id": "61.09.01.2017",
+      "name": "Selalong",
+      "postal_code": "79582"
+    },
+    {
+      "id": "61.09.01.2018",
+      "name": "Sempulau Indah",
+      "postal_code": "79514"
+    },
+    {
+      "id": "61.09.01.2019",
+      "name": "Tigur Jaya",
+      "postal_code": "79514"
+    },
+    {
+      "id": "61.09.01.2020",
+      "name": "Beringkai Raya",
+      "postal_code": "79514"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

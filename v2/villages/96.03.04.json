@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "96.03.04.2001",
+      "name": "Samate",
+      "postal_code": "98497"
+    },
+    {
+      "id": "96.03.04.2002",
+      "name": "Kapatlap",
+      "postal_code": "98497"
+    },
+    {
+      "id": "96.03.04.2003",
+      "name": "Jefman Barat",
+      "postal_code": "98497"
+    },
+    {
+      "id": "96.03.04.2004",
+      "name": "Wamega",
+      "postal_code": "98497"
+    },
+    {
+      "id": "96.03.04.2005",
+      "name": "Jefman Timur",
+      "postal_code": "98497"
+    },
+    {
+      "id": "96.03.04.2006",
+      "name": "Waidim",
+      "postal_code": "98497"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

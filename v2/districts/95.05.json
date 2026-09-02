@@ -1,18 +1,28 @@
 {
-  "data": {
-    "id": "95.05",
-    "name": "Kabupaten Mamberamo Tengah",
-    "province": {
-      "id": "95",
-      "name": "Papua Pegunungan"
+  "data": [
+    {
+      "id": "95.05.01",
+      "name": "Kobakma"
     },
-    "regency": {
-      "id": "95.05",
-      "name": "Kabupaten Mamberamo Tengah"
+    {
+      "id": "95.05.02",
+      "name": "Kelila"
+    },
+    {
+      "id": "95.05.03",
+      "name": "Eragayam"
+    },
+    {
+      "id": "95.05.04",
+      "name": "Megambilis"
+    },
+    {
+      "id": "95.05.05",
+      "name": "Ilugwa"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

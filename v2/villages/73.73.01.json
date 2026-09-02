@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.73.01.1001",
+      "name": "Tompotikka",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.73.01.1002",
+      "name": "Boting",
+      "postal_code": "91923"
+    },
+    {
+      "id": "73.73.01.1003",
+      "name": "Ammasangan",
+      "postal_code": "91922"
+    },
+    {
+      "id": "73.73.01.1005",
+      "name": "Lagaligo",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.73.01.1011",
+      "name": "Dangerakko",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.73.01.1012",
+      "name": "Pajalesang",
+      "postal_code": "91921"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

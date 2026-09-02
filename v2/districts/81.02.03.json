@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "81.02.03",
+    "name": "Kei Besar",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.02",
+      "name": "Kabupaten Maluku Tenggara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

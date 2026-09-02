@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "73.13.14.1001",
+      "name": "Ballaere",
+      "postal_code": "90993"
+    },
+    {
+      "id": "73.13.14.2002",
+      "name": "Awota",
+      "postal_code": "90993"
+    },
+    {
+      "id": "73.13.14.2003",
+      "name": "Keera",
+      "postal_code": "90993"
+    },
+    {
+      "id": "73.13.14.2004",
+      "name": "Lalliseng",
+      "postal_code": "90993"
+    },
+    {
+      "id": "73.13.14.2005",
+      "name": "Paojepe",
+      "postal_code": "90993"
+    },
+    {
+      "id": "73.13.14.2006",
+      "name": "Inrello",
+      "postal_code": "90993"
+    },
+    {
+      "id": "73.13.14.2007",
+      "name": "Pattirolokka",
+      "postal_code": "90993"
+    },
+    {
+      "id": "73.13.14.2008",
+      "name": "Awo",
+      "postal_code": "90993"
+    },
+    {
+      "id": "73.13.14.2009",
+      "name": "Ciromanie",
+      "postal_code": "90993"
+    },
+    {
+      "id": "73.13.14.2010",
+      "name": "Labawang",
+      "postal_code": "90993"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

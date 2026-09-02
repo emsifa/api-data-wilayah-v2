@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.11.01.1005",
+      "name": "Kuta Gambir",
+      "postal_code": "22214"
+    },
+    {
+      "id": "12.11.01.1007",
+      "name": "Sidiangkat",
+      "postal_code": "22216"
+    },
+    {
+      "id": "12.11.01.1009",
+      "name": "Batang Beruh",
+      "postal_code": "22212"
+    },
+    {
+      "id": "12.11.01.1010",
+      "name": "Sidikalang",
+      "postal_code": "22211"
+    },
+    {
+      "id": "12.11.01.1015",
+      "name": "Bintang Hulu",
+      "postal_code": "22217"
+    },
+    {
+      "id": "12.11.01.2008",
+      "name": "Belang Malum",
+      "postal_code": "22215"
+    },
+    {
+      "id": "12.11.01.2011",
+      "name": "Huta Rakyat",
+      "postal_code": "22211"
+    },
+    {
+      "id": "12.11.01.2012",
+      "name": "Kalang",
+      "postal_code": "22213"
+    },
+    {
+      "id": "12.11.01.2013",
+      "name": "Bintang",
+      "postal_code": "22219"
+    },
+    {
+      "id": "12.11.01.2014",
+      "name": "Kalang Simbara",
+      "postal_code": "22218"
+    },
+    {
+      "id": "12.11.01.2017",
+      "name": "Bintang Mersada",
+      "postal_code": "22210"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

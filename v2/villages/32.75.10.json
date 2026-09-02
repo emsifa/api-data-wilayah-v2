@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.75.10.1001",
+      "name": "Jatisampurna",
+      "postal_code": "17433"
+    },
+    {
+      "id": "32.75.10.1002",
+      "name": "Jatikarya",
+      "postal_code": "17435"
+    },
+    {
+      "id": "32.75.10.1003",
+      "name": "Jatiranggon",
+      "postal_code": "17432"
+    },
+    {
+      "id": "32.75.10.1004",
+      "name": "Jatirangga",
+      "postal_code": "17434"
+    },
+    {
+      "id": "32.75.10.1005",
+      "name": "Jatiraden",
+      "postal_code": "17433"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

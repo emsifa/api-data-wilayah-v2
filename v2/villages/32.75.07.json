@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.75.07.1003",
+      "name": "Bantargebang",
+      "postal_code": "17151"
+    },
+    {
+      "id": "32.75.07.1004",
+      "name": "Cikiwul",
+      "postal_code": "17152"
+    },
+    {
+      "id": "32.75.07.1007",
+      "name": "Ciketingudik",
+      "postal_code": "17153"
+    },
+    {
+      "id": "32.75.07.1008",
+      "name": "Sumurbatu",
+      "postal_code": "17154"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

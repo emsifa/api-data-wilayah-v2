@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "21.05.04.2001",
+      "name": "Kiabu",
+      "postal_code": "29790"
+    },
+    {
+      "id": "21.05.04.2002",
+      "name": "Telaga",
+      "postal_code": "29790"
+    },
+    {
+      "id": "21.05.04.2003",
+      "name": "Mengkait",
+      "postal_code": "29790"
+    },
+    {
+      "id": "21.05.04.2004",
+      "name": "Tiangau",
+      "postal_code": "29790"
+    },
+    {
+      "id": "21.05.04.2005",
+      "name": "Telaga Kecil",
+      "postal_code": "29790"
+    },
+    {
+      "id": "21.05.04.2006",
+      "name": "Lingai",
+      "postal_code": "29790"
+    },
+    {
+      "id": "21.05.04.2007",
+      "name": "Air Bini",
+      "postal_code": "29790"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

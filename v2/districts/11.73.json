@@ -1,18 +1,24 @@
 {
-  "data": {
-    "id": "11.73",
-    "name": "Kota Lhokseumawe",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
+  "data": [
+    {
+      "id": "11.73.01",
+      "name": "Muara Dua"
     },
-    "regency": {
-      "id": "11.73",
-      "name": "Kota Lhokseumawe"
+    {
+      "id": "11.73.02",
+      "name": "Banda Sakti"
+    },
+    {
+      "id": "11.73.03",
+      "name": "Blang Mangat"
+    },
+    {
+      "id": "11.73.04",
+      "name": "Muara Satu"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

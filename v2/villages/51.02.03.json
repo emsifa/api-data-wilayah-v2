@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "51.02.03.2001",
+      "name": "Mundeh",
+      "postal_code": "82162"
+    },
+    {
+      "id": "51.02.03.2002",
+      "name": "Mundeh Kangin",
+      "postal_code": "82162"
+    },
+    {
+      "id": "51.02.03.2003",
+      "name": "Lalanglinggah",
+      "postal_code": "82162"
+    },
+    {
+      "id": "51.02.03.2004",
+      "name": "Antosari",
+      "postal_code": "82162"
+    },
+    {
+      "id": "51.02.03.2005",
+      "name": "Lumbung",
+      "postal_code": "82162"
+    },
+    {
+      "id": "51.02.03.2006",
+      "name": "Lumbung Kauh",
+      "postal_code": "82162"
+    },
+    {
+      "id": "51.02.03.2007",
+      "name": "Tiying Gading",
+      "postal_code": "82162"
+    },
+    {
+      "id": "51.02.03.2008",
+      "name": "Mundeh Kauh",
+      "postal_code": "82162"
+    },
+    {
+      "id": "51.02.03.2009",
+      "name": "Angkah",
+      "postal_code": "82162"
+    },
+    {
+      "id": "51.02.03.2010",
+      "name": "Selabih",
+      "postal_code": "82162"
+    },
+    {
+      "id": "51.02.03.2011",
+      "name": "Bengkel Sari",
+      "postal_code": "82162"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

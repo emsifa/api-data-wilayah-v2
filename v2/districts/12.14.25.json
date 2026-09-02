@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "12.14.25",
+    "name": "Sidua'ori",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.14",
+      "name": "Kabupaten Nias Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

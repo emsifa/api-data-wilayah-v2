@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "96.03.15.2001",
+      "name": "Lilinta",
+      "postal_code": "98491"
+    },
+    {
+      "id": "96.03.15.2002",
+      "name": "Gamta",
+      "postal_code": "98491"
+    },
+    {
+      "id": "96.03.15.2003",
+      "name": "Biga",
+      "postal_code": "98491"
+    },
+    {
+      "id": "96.03.15.2004",
+      "name": "Kapatcol",
+      "postal_code": "98491"
+    },
+    {
+      "id": "96.03.15.2005",
+      "name": "Magey",
+      "postal_code": "98491"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

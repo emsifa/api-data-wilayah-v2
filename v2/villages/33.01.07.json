@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "33.01.07.2001",
+      "name": "Karangkemiri",
+      "postal_code": "53272"
+    },
+    {
+      "id": "33.01.07.2002",
+      "name": "Karangrena",
+      "postal_code": "53272"
+    },
+    {
+      "id": "33.01.07.2003",
+      "name": "Maos Kidul",
+      "postal_code": "53272"
+    },
+    {
+      "id": "33.01.07.2004",
+      "name": "Maos Lor",
+      "postal_code": "53272"
+    },
+    {
+      "id": "33.01.07.2005",
+      "name": "Kalijaran",
+      "postal_code": "53272"
+    },
+    {
+      "id": "33.01.07.2006",
+      "name": "Mernek",
+      "postal_code": "53272"
+    },
+    {
+      "id": "33.01.07.2007",
+      "name": "Panisihan",
+      "postal_code": "53272"
+    },
+    {
+      "id": "33.01.07.2008",
+      "name": "Glempang",
+      "postal_code": "53272"
+    },
+    {
+      "id": "33.01.07.2009",
+      "name": "Karangreja",
+      "postal_code": "53272"
+    },
+    {
+      "id": "33.01.07.2010",
+      "name": "Klapagada",
+      "postal_code": "53272"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

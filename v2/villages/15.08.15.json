@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "15.08.15.2001",
+      "name": "Pelayang",
+      "postal_code": "37254"
+    },
+    {
+      "id": "15.08.15.2002",
+      "name": "Peninjau",
+      "postal_code": "37254"
+    },
+    {
+      "id": "15.08.15.2003",
+      "name": "Talang Silungko",
+      "postal_code": "37254"
+    },
+    {
+      "id": "15.08.15.2004",
+      "name": "Pulau Kerakap",
+      "postal_code": "37254"
+    },
+    {
+      "id": "15.08.15.2005",
+      "name": "Seberang Jaya",
+      "postal_code": "37254"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

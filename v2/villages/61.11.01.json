@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "61.11.01.2001",
+      "name": "Sutera",
+      "postal_code": "78852"
+    },
+    {
+      "id": "61.11.01.2002",
+      "name": "Pangkalan Buton",
+      "postal_code": "78852"
+    },
+    {
+      "id": "61.11.01.2003",
+      "name": "Sejahtera",
+      "postal_code": "78852"
+    },
+    {
+      "id": "61.11.01.2004",
+      "name": "Simpang Tiga",
+      "postal_code": "78852"
+    },
+    {
+      "id": "61.11.01.2005",
+      "name": "Benawai Agung",
+      "postal_code": "78852"
+    },
+    {
+      "id": "61.11.01.2006",
+      "name": "Harapan Mulia",
+      "postal_code": "78852"
+    },
+    {
+      "id": "61.11.01.2007",
+      "name": "Pampang Harapan",
+      "postal_code": "78852"
+    },
+    {
+      "id": "61.11.01.2008",
+      "name": "Sedahan Jaya",
+      "postal_code": "78852"
+    },
+    {
+      "id": "61.11.01.2009",
+      "name": "Gunungsembilan",
+      "postal_code": "78852"
+    },
+    {
+      "id": "61.11.01.2010",
+      "name": "Riam Berasap Jaya",
+      "postal_code": "78852"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

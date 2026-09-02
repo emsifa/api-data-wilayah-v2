@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "91.06.17.2001",
+      "name": "Yenbeba",
+      "postal_code": "98565"
+    },
+    {
+      "id": "91.06.17.2002",
+      "name": "Yenbepon",
+      "postal_code": "98565"
+    },
+    {
+      "id": "91.06.17.2003",
+      "name": "Saribi",
+      "postal_code": "98565"
+    },
+    {
+      "id": "91.06.17.2004",
+      "name": "Sub Mander",
+      "postal_code": "98565"
+    },
+    {
+      "id": "91.06.17.2005",
+      "name": "Rawar",
+      "postal_code": "98565"
+    },
+    {
+      "id": "91.06.17.2006",
+      "name": "Pakreki",
+      "postal_code": "98565"
+    },
+    {
+      "id": "91.06.17.2007",
+      "name": "Masyarah",
+      "postal_code": "98565"
+    },
+    {
+      "id": "91.06.17.2008",
+      "name": "Wansra",
+      "postal_code": "98565"
+    },
+    {
+      "id": "91.06.17.2009",
+      "name": "Manwor Indah",
+      "postal_code": "98565"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

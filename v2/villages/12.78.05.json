@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "12.78.05.2001",
+      "name": "Nazalou Alo'oa",
+      "postal_code": "22851"
+    },
+    {
+      "id": "12.78.05.2002",
+      "name": "Niko'otano Dao",
+      "postal_code": "22851"
+    },
+    {
+      "id": "12.78.05.2003",
+      "name": "Iraonolase",
+      "postal_code": "22851"
+    },
+    {
+      "id": "12.78.05.2004",
+      "name": "Orahili Tanose'o",
+      "postal_code": "22851"
+    },
+    {
+      "id": "12.78.05.2005",
+      "name": "Tarakhaini",
+      "postal_code": "22851"
+    },
+    {
+      "id": "12.78.05.2006",
+      "name": "Fadoro Hilimbowo",
+      "postal_code": "22851"
+    },
+    {
+      "id": "12.78.05.2007",
+      "name": "Fadoro You",
+      "postal_code": "22851"
+    },
+    {
+      "id": "12.78.05.2008",
+      "name": "Lololawa",
+      "postal_code": "22851"
+    },
+    {
+      "id": "12.78.05.2009",
+      "name": "Nazalou Lolowua",
+      "postal_code": "22851"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

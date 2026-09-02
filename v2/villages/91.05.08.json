@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "91.05.08.2001",
+      "name": "Waindu",
+      "postal_code": "98641"
+    },
+    {
+      "id": "91.05.08.2008",
+      "name": "Barawai",
+      "postal_code": "98641"
+    },
+    {
+      "id": "91.05.08.2009",
+      "name": "Woda",
+      "postal_code": "98641"
+    },
+    {
+      "id": "91.05.08.2010",
+      "name": "Kororompui",
+      "postal_code": "98641"
+    },
+    {
+      "id": "91.05.08.2011",
+      "name": "Aisau",
+      "postal_code": "98641"
+    },
+    {
+      "id": "91.05.08.2012",
+      "name": "Sewenui",
+      "postal_code": "98641"
+    },
+    {
+      "id": "91.05.08.2013",
+      "name": "Sawendui",
+      "postal_code": "98641"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

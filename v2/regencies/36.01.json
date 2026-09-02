@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "36.01",
+    "name": "Kabupaten Pandeglang",
+    "capital": "Pandeglang",
+    "lat": -6.316855430513631,
+    "lng": 106.11479446982028,
+    "elv": 187,
+    "tz": 7,
+    "population": 1437046,
+    "total_area": 2771.488,
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

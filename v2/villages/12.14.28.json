@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "12.14.28.2001",
+      "name": "Gobo",
+      "postal_code": "22886"
+    },
+    {
+      "id": "12.14.28.2002",
+      "name": "Silina",
+      "postal_code": "22886"
+    },
+    {
+      "id": "12.14.28.2003",
+      "name": "Maufa",
+      "postal_code": "22886"
+    },
+    {
+      "id": "12.14.28.2004",
+      "name": "Gondia",
+      "postal_code": "22886"
+    },
+    {
+      "id": "12.14.28.2005",
+      "name": "Gobo Baru",
+      "postal_code": "22886"
+    },
+    {
+      "id": "12.14.28.2006",
+      "name": "Silina Baru",
+      "postal_code": "22886"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

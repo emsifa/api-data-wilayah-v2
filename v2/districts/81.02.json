@@ -1,18 +1,52 @@
 {
-  "data": {
-    "id": "81.02",
-    "name": "Kabupaten Maluku Tenggara",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
+  "data": [
+    {
+      "id": "81.02.01",
+      "name": "Kei Kecil"
     },
-    "regency": {
-      "id": "81.02",
-      "name": "Kabupaten Maluku Tenggara"
+    {
+      "id": "81.02.03",
+      "name": "Kei Besar"
+    },
+    {
+      "id": "81.02.04",
+      "name": "Kei Besar Selatan"
+    },
+    {
+      "id": "81.02.05",
+      "name": "Kei Besar Utara Timur"
+    },
+    {
+      "id": "81.02.13",
+      "name": "Kei Kecil Timur"
+    },
+    {
+      "id": "81.02.14",
+      "name": "Kei Kecil Barat"
+    },
+    {
+      "id": "81.02.15",
+      "name": "Manyeuw"
+    },
+    {
+      "id": "81.02.16",
+      "name": "Hoat Sorbay"
+    },
+    {
+      "id": "81.02.17",
+      "name": "Kei Besar Utara Barat"
+    },
+    {
+      "id": "81.02.18",
+      "name": "Kei Besar Selatan Barat"
+    },
+    {
+      "id": "81.02.19",
+      "name": "Kei Kecil Timur Selatan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

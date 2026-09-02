@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "74.09.12.2001",
+      "name": "Boenaga",
+      "postal_code": "93341"
+    },
+    {
+      "id": "74.09.12.2002",
+      "name": "Waturambaha",
+      "postal_code": "93341"
+    },
+    {
+      "id": "74.09.12.2003",
+      "name": "Labengki",
+      "postal_code": "93341"
+    },
+    {
+      "id": "74.09.12.2004",
+      "name": "Morombo",
+      "postal_code": "93341"
+    },
+    {
+      "id": "74.09.12.2005",
+      "name": "Tapunopaka",
+      "postal_code": "93341"
+    },
+    {
+      "id": "74.09.12.2006",
+      "name": "Boedingi",
+      "postal_code": "93341"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

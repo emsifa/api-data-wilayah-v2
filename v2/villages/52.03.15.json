@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "52.03.15.2001",
+      "name": "Sembalun Bumbung",
+      "postal_code": "83657"
+    },
+    {
+      "id": "52.03.15.2002",
+      "name": "Sembalun Lawang",
+      "postal_code": "83657"
+    },
+    {
+      "id": "52.03.15.2003",
+      "name": "Sajang",
+      "postal_code": "83657"
+    },
+    {
+      "id": "52.03.15.2004",
+      "name": "Bilok Petung",
+      "postal_code": "83657"
+    },
+    {
+      "id": "52.03.15.2005",
+      "name": "Sembalun",
+      "postal_code": "83657"
+    },
+    {
+      "id": "52.03.15.2006",
+      "name": "Sembalun Timba Gading",
+      "postal_code": "83657"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

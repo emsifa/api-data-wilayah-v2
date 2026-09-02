@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.06.19.2001",
+      "name": "Kaputihan",
+      "postal_code": "46180"
+    },
+    {
+      "id": "32.06.19.2002",
+      "name": "Setiawangi",
+      "postal_code": "46180"
+    },
+    {
+      "id": "32.06.19.2003",
+      "name": "Sukakerta",
+      "postal_code": "46180"
+    },
+    {
+      "id": "32.06.19.2004",
+      "name": "Neglasari",
+      "postal_code": "46180"
+    },
+    {
+      "id": "32.06.19.2005",
+      "name": "Jatiwaras",
+      "postal_code": "46180"
+    },
+    {
+      "id": "32.06.19.2006",
+      "name": "Papayan",
+      "postal_code": "46180"
+    },
+    {
+      "id": "32.06.19.2007",
+      "name": "Ciwarak",
+      "postal_code": "46180"
+    },
+    {
+      "id": "32.06.19.2008",
+      "name": "Kersagalih",
+      "postal_code": "46180"
+    },
+    {
+      "id": "32.06.19.2009",
+      "name": "Mandalamekar",
+      "postal_code": "46180"
+    },
+    {
+      "id": "32.06.19.2010",
+      "name": "Kertarahayu",
+      "postal_code": "46180"
+    },
+    {
+      "id": "32.06.19.2011",
+      "name": "Mandalahurip",
+      "postal_code": "46180"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

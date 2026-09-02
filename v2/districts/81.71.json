@@ -1,18 +1,28 @@
 {
-  "data": {
-    "id": "81.71",
-    "name": "Kota Ambon",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
+  "data": [
+    {
+      "id": "81.71.01",
+      "name": "Nusaniwe"
     },
-    "regency": {
-      "id": "81.71",
-      "name": "Kota Ambon"
+    {
+      "id": "81.71.02",
+      "name": "Sirimau"
+    },
+    {
+      "id": "81.71.03",
+      "name": "Baguala"
+    },
+    {
+      "id": "81.71.04",
+      "name": "Teluk Ambon"
+    },
+    {
+      "id": "81.71.05",
+      "name": "Leitimur Selatan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

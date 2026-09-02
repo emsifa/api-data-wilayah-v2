@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "35.10.19.2001",
+      "name": "Songgon",
+      "postal_code": "68463"
+    },
+    {
+      "id": "35.10.19.2002",
+      "name": "Balak",
+      "postal_code": "68463"
+    },
+    {
+      "id": "35.10.19.2003",
+      "name": "Sragi",
+      "postal_code": "68463"
+    },
+    {
+      "id": "35.10.19.2004",
+      "name": "Parangharjo",
+      "postal_code": "68463"
+    },
+    {
+      "id": "35.10.19.2005",
+      "name": "Bedewang",
+      "postal_code": "68463"
+    },
+    {
+      "id": "35.10.19.2006",
+      "name": "Bayu",
+      "postal_code": "68463"
+    },
+    {
+      "id": "35.10.19.2007",
+      "name": "Sumberarum",
+      "postal_code": "68463"
+    },
+    {
+      "id": "35.10.19.2008",
+      "name": "Sumberbulu",
+      "postal_code": "68463"
+    },
+    {
+      "id": "35.10.19.2009",
+      "name": "Bangunsari",
+      "postal_code": "68463"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

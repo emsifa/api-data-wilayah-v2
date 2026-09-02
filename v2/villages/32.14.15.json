@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.14.15.2001",
+      "name": "Kutamanah",
+      "postal_code": "41116"
+    },
+    {
+      "id": "32.14.15.2002",
+      "name": "Kertamanah",
+      "postal_code": "41116"
+    },
+    {
+      "id": "32.14.15.2003",
+      "name": "Ciririp",
+      "postal_code": "41116"
+    },
+    {
+      "id": "32.14.15.2004",
+      "name": "Sukasari",
+      "postal_code": "41116"
+    },
+    {
+      "id": "32.14.15.2005",
+      "name": "Parungbanteng",
+      "postal_code": "41116"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

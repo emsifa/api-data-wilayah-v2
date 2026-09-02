@@ -1,18 +1,20 @@
 {
-  "data": {
-    "id": "32.77",
-    "name": "Kota Cimahi",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
+  "data": [
+    {
+      "id": "32.77.01",
+      "name": "Cimahi Selatan"
     },
-    "regency": {
-      "id": "32.77",
-      "name": "Kota Cimahi"
+    {
+      "id": "32.77.02",
+      "name": "Cimahi Tengah"
+    },
+    {
+      "id": "32.77.03",
+      "name": "Cimahi Utara"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

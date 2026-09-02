@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.72.01.1001",
+      "name": "Gunung Puyuh",
+      "postal_code": "43123"
+    },
+    {
+      "id": "32.72.01.1002",
+      "name": "Karamat",
+      "postal_code": "43122"
+    },
+    {
+      "id": "32.72.01.1003",
+      "name": "Sriwidari",
+      "postal_code": "43121"
+    },
+    {
+      "id": "32.72.01.1004",
+      "name": "Karang Tengah",
+      "postal_code": "43121"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

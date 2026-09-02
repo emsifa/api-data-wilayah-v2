@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.05.42.2001",
+      "name": "Sadang",
+      "postal_code": "44115"
+    },
+    {
+      "id": "32.05.42.2002",
+      "name": "Sukaratu",
+      "postal_code": "44115"
+    },
+    {
+      "id": "32.05.42.2003",
+      "name": "Tenjonagara",
+      "postal_code": "44115"
+    },
+    {
+      "id": "32.05.42.2004",
+      "name": "Tegalpanjang",
+      "postal_code": "44115"
+    },
+    {
+      "id": "32.05.42.2005",
+      "name": "Cigadog",
+      "postal_code": "44115"
+    },
+    {
+      "id": "32.05.42.2006",
+      "name": "Linggamukti",
+      "postal_code": "44115"
+    },
+    {
+      "id": "32.05.42.2007",
+      "name": "Sukalaksana",
+      "postal_code": "44115"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

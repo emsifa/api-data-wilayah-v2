@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "53.11.13.2001",
+      "name": "Nggongi",
+      "postal_code": "87172"
+    },
+    {
+      "id": "53.11.13.2002",
+      "name": "Praimadita",
+      "postal_code": "87172"
+    },
+    {
+      "id": "53.11.13.2003",
+      "name": "Praisalura",
+      "postal_code": "87172"
+    },
+    {
+      "id": "53.11.13.2004",
+      "name": "Tandula Jangga",
+      "postal_code": "87172"
+    },
+    {
+      "id": "53.11.13.2005",
+      "name": "Nangga",
+      "postal_code": "87172"
+    },
+    {
+      "id": "53.11.13.2006",
+      "name": "Janggamangu",
+      "postal_code": "87172"
+    },
+    {
+      "id": "53.11.13.2011",
+      "name": "Ananjaki",
+      "postal_code": "87172"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

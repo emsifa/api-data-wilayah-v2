@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.09.01.1001",
+      "name": "Hasanuddin",
+      "postal_code": "90552"
+    },
+    {
+      "id": "73.09.01.1002",
+      "name": "Bontoa",
+      "postal_code": "90552"
+    },
+    {
+      "id": "73.09.01.2003",
+      "name": "Tenrigangkae",
+      "postal_code": "90552"
+    },
+    {
+      "id": "73.09.01.2004",
+      "name": "Pattontongang",
+      "postal_code": "90552"
+    },
+    {
+      "id": "73.09.01.2005",
+      "name": "Bonto Mate'ne",
+      "postal_code": "90552"
+    },
+    {
+      "id": "73.09.01.2006",
+      "name": "Baji Mangngai",
+      "postal_code": "90552"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

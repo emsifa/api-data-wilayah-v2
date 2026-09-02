@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "12.74.02.1001",
+      "name": "Tanjungbalai Kota III",
+      "postal_code": "21321"
+    },
+    {
+      "id": "12.74.02.1002",
+      "name": "Tanjungbalai Kota IV",
+      "postal_code": "21322"
+    },
+    {
+      "id": "12.74.02.1003",
+      "name": "Sejahtera",
+      "postal_code": "21323"
+    },
+    {
+      "id": "12.74.02.1004",
+      "name": "Kuala Silo Bestari",
+      "postal_code": "21324"
+    },
+    {
+      "id": "12.74.02.1005",
+      "name": "Matahalasan",
+      "postal_code": "21325"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

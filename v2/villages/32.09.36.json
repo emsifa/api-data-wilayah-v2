@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.09.36.2001",
+      "name": "Tegalsari",
+      "postal_code": "45154"
+    },
+    {
+      "id": "32.09.36.2002",
+      "name": "Kaliwulu",
+      "postal_code": "45154"
+    },
+    {
+      "id": "32.09.36.2003",
+      "name": "Panembahan",
+      "postal_code": "45154"
+    },
+    {
+      "id": "32.09.36.2004",
+      "name": "Trusmi Wetan",
+      "postal_code": "45154"
+    },
+    {
+      "id": "32.09.36.2005",
+      "name": "Trusmi Kulon",
+      "postal_code": "45154"
+    },
+    {
+      "id": "32.09.36.2006",
+      "name": "Wotgali",
+      "postal_code": "45154"
+    },
+    {
+      "id": "32.09.36.2007",
+      "name": "Gamel",
+      "postal_code": "45154"
+    },
+    {
+      "id": "32.09.36.2008",
+      "name": "Sarabau",
+      "postal_code": "45154"
+    },
+    {
+      "id": "32.09.36.2009",
+      "name": "Cangkring",
+      "postal_code": "45154"
+    },
+    {
+      "id": "32.09.36.2010",
+      "name": "Pangkalan",
+      "postal_code": "45154"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "76.05",
-    "name": "Kabupaten Majene",
-    "province": {
-      "id": "76",
-      "name": "Sulawesi Barat"
+  "data": [
+    {
+      "id": "76.05.01",
+      "name": "Banggae"
     },
-    "regency": {
-      "id": "76.05",
-      "name": "Kabupaten Majene"
+    {
+      "id": "76.05.02",
+      "name": "Pamboang"
+    },
+    {
+      "id": "76.05.03",
+      "name": "Sendana"
+    },
+    {
+      "id": "76.05.04",
+      "name": "Malunda"
+    },
+    {
+      "id": "76.05.05",
+      "name": "Ulumanda"
+    },
+    {
+      "id": "76.05.06",
+      "name": "Tammerodo Sendana"
+    },
+    {
+      "id": "76.05.07",
+      "name": "Tubo Sendana"
+    },
+    {
+      "id": "76.05.08",
+      "name": "Banggae Timur"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.79.04.1004",
+      "name": "Muktisari",
+      "postal_code": "46343"
+    },
+    {
+      "id": "32.79.04.1005",
+      "name": "Bojongkantong",
+      "postal_code": "46325"
+    },
+    {
+      "id": "32.79.04.2001",
+      "name": "Langensari",
+      "postal_code": "46324"
+    },
+    {
+      "id": "32.79.04.2002",
+      "name": "Rejasari",
+      "postal_code": "46344"
+    },
+    {
+      "id": "32.79.04.2003",
+      "name": "Waringinsari",
+      "postal_code": "46342"
+    },
+    {
+      "id": "32.79.04.2006",
+      "name": "Kujangsari",
+      "postal_code": "46324"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

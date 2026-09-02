@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.02.43.2001",
+      "name": "Cidolog",
+      "postal_code": "43184"
+    },
+    {
+      "id": "32.02.43.2002",
+      "name": "Cipamingkis",
+      "postal_code": "43184"
+    },
+    {
+      "id": "32.02.43.2003",
+      "name": "Cikarang",
+      "postal_code": "43184"
+    },
+    {
+      "id": "32.02.43.2004",
+      "name": "Tegallega",
+      "postal_code": "43184"
+    },
+    {
+      "id": "32.02.43.2005",
+      "name": "Mekarjaya",
+      "postal_code": "43184"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

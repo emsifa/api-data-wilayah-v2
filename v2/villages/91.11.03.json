@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "91.11.03.2001",
+      "name": "Molof",
+      "postal_code": "99464"
+    },
+    {
+      "id": "91.11.03.2002",
+      "name": "Senggi",
+      "postal_code": "99464"
+    },
+    {
+      "id": "91.11.03.2003",
+      "name": "Warlef",
+      "postal_code": "99464"
+    },
+    {
+      "id": "91.11.03.2005",
+      "name": "Usku",
+      "postal_code": "99464"
+    },
+    {
+      "id": "91.11.03.2006",
+      "name": "Woslay",
+      "postal_code": "99464"
+    },
+    {
+      "id": "91.11.03.2010",
+      "name": "Namla",
+      "postal_code": "99464"
+    },
+    {
+      "id": "91.11.03.2011",
+      "name": "Waley",
+      "postal_code": "99464"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

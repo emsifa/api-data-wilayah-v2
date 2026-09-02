@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "18.03.21.2001",
+      "name": "Sinar Harapan",
+      "postal_code": "34552"
+    },
+    {
+      "id": "18.03.21.2002",
+      "name": "Kubu Hitu",
+      "postal_code": "34552"
+    },
+    {
+      "id": "18.03.21.2003",
+      "name": "Negeri Sakti",
+      "postal_code": "34552"
+    },
+    {
+      "id": "18.03.21.2004",
+      "name": "Tanjung Jaya",
+      "postal_code": "34552"
+    },
+    {
+      "id": "18.03.21.2005",
+      "name": "Gunung Raja",
+      "postal_code": "34552"
+    },
+    {
+      "id": "18.03.21.2006",
+      "name": "Cahaya Mas",
+      "postal_code": "34552"
+    },
+    {
+      "id": "18.03.21.2007",
+      "name": "Comok Sinar Jaya",
+      "postal_code": "34552"
+    },
+    {
+      "id": "18.03.21.2008",
+      "name": "Way Isem",
+      "postal_code": "34552"
+    },
+    {
+      "id": "18.03.21.2009",
+      "name": "Gunung Maknibai",
+      "postal_code": "34552"
+    },
+    {
+      "id": "18.03.21.2010",
+      "name": "Negeri Batin Jaya",
+      "postal_code": "34552"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

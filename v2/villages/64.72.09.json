@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "64.72.09.1001",
+      "name": "Karang Mumus",
+      "postal_code": "75113"
+    },
+    {
+      "id": "64.72.09.1002",
+      "name": "Pelabuhan",
+      "postal_code": "75112"
+    },
+    {
+      "id": "64.72.09.1003",
+      "name": "Pasar Pagi",
+      "postal_code": "75111"
+    },
+    {
+      "id": "64.72.09.1004",
+      "name": "Bugis",
+      "postal_code": "75121"
+    },
+    {
+      "id": "64.72.09.1005",
+      "name": "Sungai Pinang Luar",
+      "postal_code": "75117"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

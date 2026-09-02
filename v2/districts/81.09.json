@@ -1,18 +1,32 @@
 {
-  "data": {
-    "id": "81.09",
-    "name": "Kabupaten Buru Selatan",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
+  "data": [
+    {
+      "id": "81.09.01",
+      "name": "Namrole"
     },
-    "regency": {
-      "id": "81.09",
-      "name": "Kabupaten Buru Selatan"
+    {
+      "id": "81.09.02",
+      "name": "Waesama"
+    },
+    {
+      "id": "81.09.03",
+      "name": "Ambalau"
+    },
+    {
+      "id": "81.09.04",
+      "name": "Kepala Madan"
+    },
+    {
+      "id": "81.09.05",
+      "name": "Leksula"
+    },
+    {
+      "id": "81.09.06",
+      "name": "Fena Fafan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

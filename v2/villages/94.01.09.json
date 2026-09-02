@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "94.01.09.2001",
+      "name": "Samabusa",
+      "postal_code": "98834"
+    },
+    {
+      "id": "94.01.09.2002",
+      "name": "Waharia",
+      "postal_code": "98835"
+    },
+    {
+      "id": "94.01.09.2003",
+      "name": "Kimi",
+      "postal_code": "98832"
+    },
+    {
+      "id": "94.01.09.2004",
+      "name": "Lani",
+      "postal_code": "98833"
+    },
+    {
+      "id": "94.01.09.2005",
+      "name": "Air Mandidi",
+      "postal_code": "98831"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

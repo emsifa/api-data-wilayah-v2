@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "14.03.10",
+    "name": "Rupat",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.03",
+      "name": "Kabupaten Bengkalis"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

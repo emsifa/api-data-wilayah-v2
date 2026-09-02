@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "36.71.05.1001",
+      "name": "Cipondoh",
+      "postal_code": "15148"
+    },
+    {
+      "id": "36.71.05.1002",
+      "name": "Cipondoh Makmur",
+      "postal_code": "15148"
+    },
+    {
+      "id": "36.71.05.1003",
+      "name": "Cipondoh Indah",
+      "postal_code": "15148"
+    },
+    {
+      "id": "36.71.05.1004",
+      "name": "Gondrong",
+      "postal_code": "15146"
+    },
+    {
+      "id": "36.71.05.1005",
+      "name": "Kenanga",
+      "postal_code": "15146"
+    },
+    {
+      "id": "36.71.05.1006",
+      "name": "Petir",
+      "postal_code": "15147"
+    },
+    {
+      "id": "36.71.05.1007",
+      "name": "Ketapang",
+      "postal_code": "15147"
+    },
+    {
+      "id": "36.71.05.1008",
+      "name": "Poris Plawad",
+      "postal_code": "15141"
+    },
+    {
+      "id": "36.71.05.1009",
+      "name": "Poris Plawad Utara",
+      "postal_code": "15141"
+    },
+    {
+      "id": "36.71.05.1010",
+      "name": "Poris Plawad Indah",
+      "postal_code": "15141"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

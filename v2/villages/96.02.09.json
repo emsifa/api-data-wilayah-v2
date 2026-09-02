@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "96.02.09.2001",
+      "name": "Konda",
+      "postal_code": "98458"
+    },
+    {
+      "id": "96.02.09.2002",
+      "name": "Wamargege",
+      "postal_code": "98458"
+    },
+    {
+      "id": "96.02.09.2003",
+      "name": "Bariat",
+      "postal_code": "98458"
+    },
+    {
+      "id": "96.02.09.2004",
+      "name": "Manelek",
+      "postal_code": "98458"
+    },
+    {
+      "id": "96.02.09.2005",
+      "name": "Nagna",
+      "postal_code": "98458"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

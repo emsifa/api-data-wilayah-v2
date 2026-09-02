@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "21.02.06.1001",
+      "name": "Buru",
+      "postal_code": "29664"
+    },
+    {
+      "id": "21.02.06.1002",
+      "name": "Lubuk Puding",
+      "postal_code": "29664"
+    },
+    {
+      "id": "21.02.06.2003",
+      "name": "Tanjung Hutan",
+      "postal_code": "29664"
+    },
+    {
+      "id": "21.02.06.2004",
+      "name": "Tanjung Batu Kecil",
+      "postal_code": "29664"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

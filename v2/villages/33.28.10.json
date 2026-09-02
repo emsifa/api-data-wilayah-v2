@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "33.28.10.1006",
+      "name": "Pakembaran",
+      "postal_code": "52415"
+    },
+    {
+      "id": "33.28.10.1007",
+      "name": "Kagok",
+      "postal_code": "52411"
+    },
+    {
+      "id": "33.28.10.1008",
+      "name": "Procot",
+      "postal_code": "52412"
+    },
+    {
+      "id": "33.28.10.1009",
+      "name": "Kudaile",
+      "postal_code": "52413"
+    },
+    {
+      "id": "33.28.10.1010",
+      "name": "Slawi Wetan",
+      "postal_code": "52411"
+    },
+    {
+      "id": "33.28.10.2001",
+      "name": "Kalisapu",
+      "postal_code": "52416"
+    },
+    {
+      "id": "33.28.10.2002",
+      "name": "Dukuhwringin",
+      "postal_code": "52419"
+    },
+    {
+      "id": "33.28.10.2003",
+      "name": "Dukuhsalam",
+      "postal_code": "52418"
+    },
+    {
+      "id": "33.28.10.2004",
+      "name": "Slawi Kulon",
+      "postal_code": "52419"
+    },
+    {
+      "id": "33.28.10.2005",
+      "name": "Trayeman",
+      "postal_code": "52414"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

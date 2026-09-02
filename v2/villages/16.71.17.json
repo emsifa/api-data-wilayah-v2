@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "16.71.17.1001",
+      "name": "Delapan Ulu",
+      "postal_code": "30252"
+    },
+    {
+      "id": "16.71.17.1002",
+      "name": "Sembilan Sepuluh Ulu",
+      "postal_code": "30251"
+    },
+    {
+      "id": "16.71.17.1003",
+      "name": "Lima-belas Ulu",
+      "postal_code": "30257"
+    },
+    {
+      "id": "16.71.17.1004",
+      "name": "Silaberanti",
+      "postal_code": "30251"
+    },
+    {
+      "id": "16.71.17.1005",
+      "name": "Tuankentang",
+      "postal_code": "30251"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

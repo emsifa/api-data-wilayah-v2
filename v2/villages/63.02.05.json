@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "63.02.05.2001",
+      "name": "Sekapung",
+      "postal_code": "72155"
+    },
+    {
+      "id": "63.02.05.2002",
+      "name": "Kanibungan",
+      "postal_code": "72155"
+    },
+    {
+      "id": "63.02.05.2003",
+      "name": "Mandin",
+      "postal_code": "72155"
+    },
+    {
+      "id": "63.02.05.2004",
+      "name": "Serakaman",
+      "postal_code": "72155"
+    },
+    {
+      "id": "63.02.05.2005",
+      "name": "Sungai Bali",
+      "postal_code": "72155"
+    },
+    {
+      "id": "63.02.05.2006",
+      "name": "Balambus",
+      "postal_code": "72155"
+    },
+    {
+      "id": "63.02.05.2007",
+      "name": "Rampa",
+      "postal_code": "72155"
+    },
+    {
+      "id": "63.02.05.2008",
+      "name": "Ujung",
+      "postal_code": "72155"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "12.71.02.1001",
+      "name": "Lalang",
+      "postal_code": "20127"
+    },
+    {
+      "id": "12.71.02.1002",
+      "name": "Sei Sikambing B",
+      "postal_code": "20122"
+    },
+    {
+      "id": "12.71.02.1003",
+      "name": "Sunggal",
+      "postal_code": "20128"
+    },
+    {
+      "id": "12.71.02.1004",
+      "name": "Babura Sunggal",
+      "postal_code": "20121"
+    },
+    {
+      "id": "12.71.02.1005",
+      "name": "Tanjung Rejo",
+      "postal_code": "20122"
+    },
+    {
+      "id": "12.71.02.1006",
+      "name": "Simpang Tanjung",
+      "postal_code": "20122"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

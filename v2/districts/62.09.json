@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "62.09",
-    "name": "Kabupaten Lamandau",
-    "province": {
-      "id": "62",
-      "name": "Kalimantan Tengah"
+  "data": [
+    {
+      "id": "62.09.01",
+      "name": "Lamandau"
     },
-    "regency": {
-      "id": "62.09",
-      "name": "Kabupaten Lamandau"
+    {
+      "id": "62.09.02",
+      "name": "Delang"
+    },
+    {
+      "id": "62.09.03",
+      "name": "Bulik"
+    },
+    {
+      "id": "62.09.04",
+      "name": "Bulik Timur"
+    },
+    {
+      "id": "62.09.05",
+      "name": "Menthobi Raya"
+    },
+    {
+      "id": "62.09.06",
+      "name": "Sematu Jaya"
+    },
+    {
+      "id": "62.09.07",
+      "name": "Belantikan Raya"
+    },
+    {
+      "id": "62.09.08",
+      "name": "Batang Kawa"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

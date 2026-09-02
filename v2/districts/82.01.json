@@ -1,18 +1,44 @@
 {
-  "data": {
-    "id": "82.01",
-    "name": "Kabupaten Halmahera Barat",
-    "province": {
-      "id": "82",
-      "name": "Maluku Utara"
+  "data": [
+    {
+      "id": "82.01.01",
+      "name": "Jailolo"
     },
-    "regency": {
-      "id": "82.01",
-      "name": "Kabupaten Halmahera Barat"
+    {
+      "id": "82.01.02",
+      "name": "Loloda"
+    },
+    {
+      "id": "82.01.03",
+      "name": "Ibu"
+    },
+    {
+      "id": "82.01.04",
+      "name": "Sahu"
+    },
+    {
+      "id": "82.01.05",
+      "name": "Jailolo Selatan"
+    },
+    {
+      "id": "82.01.07",
+      "name": "Ibu Utara"
+    },
+    {
+      "id": "82.01.08",
+      "name": "Ibu Selatan"
+    },
+    {
+      "id": "82.01.09",
+      "name": "Sahu Timur"
+    },
+    {
+      "id": "82.01.10",
+      "name": "Loloda Tengah"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

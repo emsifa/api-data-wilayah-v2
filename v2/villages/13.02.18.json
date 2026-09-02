@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.02.18.2001",
+      "name": "Rangkiang Luluih",
+      "postal_code": "27374"
+    },
+    {
+      "id": "13.02.18.2002",
+      "name": "Batu Bajanjang",
+      "postal_code": "27374"
+    },
+    {
+      "id": "13.02.18.2003",
+      "name": "Garabak Data",
+      "postal_code": "27374"
+    },
+    {
+      "id": "13.02.18.2004",
+      "name": "Tanjung Balik Sumiso",
+      "postal_code": "27374"
+    },
+    {
+      "id": "13.02.18.2005",
+      "name": "Simanau",
+      "postal_code": "27374"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

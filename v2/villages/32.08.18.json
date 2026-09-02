@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.08.18.1001",
+      "name": "Cigugur",
+      "postal_code": "45552"
+    },
+    {
+      "id": "32.08.18.1002",
+      "name": "Cigadung",
+      "postal_code": "45552"
+    },
+    {
+      "id": "32.08.18.1003",
+      "name": "Winduherang",
+      "postal_code": "45552"
+    },
+    {
+      "id": "32.08.18.1004",
+      "name": "Sukamulya",
+      "postal_code": "45552"
+    },
+    {
+      "id": "32.08.18.1005",
+      "name": "Cipari",
+      "postal_code": "45552"
+    },
+    {
+      "id": "32.08.18.2006",
+      "name": "Cileuleuy",
+      "postal_code": "45552"
+    },
+    {
+      "id": "32.08.18.2007",
+      "name": "Puncak",
+      "postal_code": "45552"
+    },
+    {
+      "id": "32.08.18.2008",
+      "name": "Gunungkeling",
+      "postal_code": "45552"
+    },
+    {
+      "id": "32.08.18.2009",
+      "name": "Cisantana",
+      "postal_code": "45552"
+    },
+    {
+      "id": "32.08.18.2010",
+      "name": "Babakanmulya",
+      "postal_code": "45552"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

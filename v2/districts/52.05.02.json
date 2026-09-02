@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "52.05.02",
+    "name": "Kempo",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.05",
+      "name": "Kabupaten Dompu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

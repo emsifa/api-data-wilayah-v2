@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "74.14.02.2001",
+      "name": "Bonemarambe",
+      "postal_code": "93765"
+    },
+    {
+      "id": "74.14.02.2002",
+      "name": "Wambuloli",
+      "postal_code": "93765"
+    },
+    {
+      "id": "74.14.02.2003",
+      "name": "Lagili",
+      "postal_code": "93765"
+    },
+    {
+      "id": "74.14.02.2004",
+      "name": "Bungi",
+      "postal_code": "93765"
+    },
+    {
+      "id": "74.14.02.2005",
+      "name": "Wantopi",
+      "postal_code": "93765"
+    },
+    {
+      "id": "74.14.02.2006",
+      "name": "Inulu",
+      "postal_code": "93765"
+    },
+    {
+      "id": "74.14.02.2007",
+      "name": "Lasori",
+      "postal_code": "93765"
+    },
+    {
+      "id": "74.14.02.2008",
+      "name": "Batubanawa",
+      "postal_code": "93765"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

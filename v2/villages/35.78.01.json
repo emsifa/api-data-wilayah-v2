@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "35.78.01.1001",
+      "name": "Karang Pilang",
+      "postal_code": "60221"
+    },
+    {
+      "id": "35.78.01.1002",
+      "name": "Kebraon",
+      "postal_code": "60222"
+    },
+    {
+      "id": "35.78.01.1003",
+      "name": "Kedurus",
+      "postal_code": "60223"
+    },
+    {
+      "id": "35.78.01.1004",
+      "name": "Waru Gunung",
+      "postal_code": "60221"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

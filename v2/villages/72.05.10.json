@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "72.05.10.2001",
+      "name": "Mokupo",
+      "postal_code": "94572"
+    },
+    {
+      "id": "72.05.10.2002",
+      "name": "Mendaan",
+      "postal_code": "94572"
+    },
+    {
+      "id": "72.05.10.2003",
+      "name": "Baruga",
+      "postal_code": "94572"
+    },
+    {
+      "id": "72.05.10.2004",
+      "name": "Monano",
+      "postal_code": "94572"
+    },
+    {
+      "id": "72.05.10.2005",
+      "name": "Busak I",
+      "postal_code": "94572"
+    },
+    {
+      "id": "72.05.10.2006",
+      "name": "Busak II",
+      "postal_code": "94572"
+    },
+    {
+      "id": "72.05.10.2007",
+      "name": "Lamakan",
+      "postal_code": "94572"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

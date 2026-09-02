@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "95.08.07.2001",
+      "name": "Mbuwa",
+      "postal_code": "99910"
+    },
+    {
+      "id": "95.08.07.2002",
+      "name": "Otalama",
+      "postal_code": "99547"
+    },
+    {
+      "id": "95.08.07.2003",
+      "name": "Arugia",
+      "postal_code": "99547"
+    },
+    {
+      "id": "95.08.07.2004",
+      "name": "Opmu",
+      "postal_code": "99547"
+    },
+    {
+      "id": "95.08.07.2005",
+      "name": "Digilimu",
+      "postal_code": "99910"
+    },
+    {
+      "id": "95.08.07.2006",
+      "name": "Kogomaru",
+      "postal_code": "99910"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "35.07.10.2001",
+      "name": "Putat Kidul",
+      "postal_code": "65174"
+    },
+    {
+      "id": "35.07.10.2002",
+      "name": "Gondanglegi Kulon",
+      "postal_code": "65174"
+    },
+    {
+      "id": "35.07.10.2003",
+      "name": "Sukosari",
+      "postal_code": "65174"
+    },
+    {
+      "id": "35.07.10.2004",
+      "name": "Gondanglegi Wetan",
+      "postal_code": "65174"
+    },
+    {
+      "id": "35.07.10.2005",
+      "name": "Sukorejo",
+      "postal_code": "65174"
+    },
+    {
+      "id": "35.07.10.2006",
+      "name": "Bulupitu",
+      "postal_code": "65174"
+    },
+    {
+      "id": "35.07.10.2007",
+      "name": "Panggungrejo",
+      "postal_code": "65174"
+    },
+    {
+      "id": "35.07.10.2008",
+      "name": "Ganjaran",
+      "postal_code": "65174"
+    },
+    {
+      "id": "35.07.10.2009",
+      "name": "Putat Lor",
+      "postal_code": "65174"
+    },
+    {
+      "id": "35.07.10.2010",
+      "name": "Urek-Urek",
+      "postal_code": "65174"
+    },
+    {
+      "id": "35.07.10.2011",
+      "name": "Ketawang",
+      "postal_code": "65174"
+    },
+    {
+      "id": "35.07.10.2012",
+      "name": "Putukrejo",
+      "postal_code": "65174"
+    },
+    {
+      "id": "35.07.10.2013",
+      "name": "Sumberjaya",
+      "postal_code": "65174"
+    },
+    {
+      "id": "35.07.10.2014",
+      "name": "Sepanjang",
+      "postal_code": "65174"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

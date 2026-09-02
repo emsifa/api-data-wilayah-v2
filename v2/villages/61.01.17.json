@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "61.01.17.2001",
+      "name": "Tangaran",
+      "postal_code": "79465"
+    },
+    {
+      "id": "61.01.17.2002",
+      "name": "Simpang Empat",
+      "postal_code": "79465"
+    },
+    {
+      "id": "61.01.17.2003",
+      "name": "Merabuan",
+      "postal_code": "79465"
+    },
+    {
+      "id": "61.01.17.2004",
+      "name": "Semata",
+      "postal_code": "79465"
+    },
+    {
+      "id": "61.01.17.2005",
+      "name": "Merpati",
+      "postal_code": "79465"
+    },
+    {
+      "id": "61.01.17.2006",
+      "name": "Pancur",
+      "postal_code": "79465"
+    },
+    {
+      "id": "61.01.17.2007",
+      "name": "Arung Parak",
+      "postal_code": "79465"
+    },
+    {
+      "id": "61.01.17.2008",
+      "name": "Arung Medang",
+      "postal_code": "79465"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

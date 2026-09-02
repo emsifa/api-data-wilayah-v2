@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "35.23.11",
+    "name": "Soko",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.23",
+      "name": "Kabupaten Tuban"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

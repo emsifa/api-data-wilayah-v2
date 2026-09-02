@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "53.07.14.1001",
+      "name": "Hewuli",
+      "postal_code": "86115"
+    },
+    {
+      "id": "53.07.14.1002",
+      "name": "Wailiti",
+      "postal_code": "86114"
+    },
+    {
+      "id": "53.07.14.1003",
+      "name": "Wolomarang",
+      "postal_code": "86114"
+    },
+    {
+      "id": "53.07.14.1004",
+      "name": "Wuring",
+      "postal_code": "86115"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

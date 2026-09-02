@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "91.15.14",
+    "name": "Wonti",
+    "province": {
+      "id": "91",
+      "name": "Papua"
+    },
+    "regency": {
+      "id": "91.15",
+      "name": "Kabupaten Waropen"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

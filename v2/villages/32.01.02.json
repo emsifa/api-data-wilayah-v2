@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.01.02.2001",
+      "name": "Wanaherang",
+      "postal_code": "16965"
+    },
+    {
+      "id": "32.01.02.2002",
+      "name": "Bojongkulur",
+      "postal_code": "16969"
+    },
+    {
+      "id": "32.01.02.2003",
+      "name": "Ciangsana",
+      "postal_code": "16968"
+    },
+    {
+      "id": "32.01.02.2004",
+      "name": "Gunungputri",
+      "postal_code": "16961"
+    },
+    {
+      "id": "32.01.02.2005",
+      "name": "Bojongnangka",
+      "postal_code": "16963"
+    },
+    {
+      "id": "32.01.02.2006",
+      "name": "Tlajung Udik",
+      "postal_code": "16962"
+    },
+    {
+      "id": "32.01.02.2007",
+      "name": "Cicadas",
+      "postal_code": "16964"
+    },
+    {
+      "id": "32.01.02.2008",
+      "name": "Cikeas Udik",
+      "postal_code": "16966"
+    },
+    {
+      "id": "32.01.02.2009",
+      "name": "Nagrak",
+      "postal_code": "16967"
+    },
+    {
+      "id": "32.01.02.2010",
+      "name": "Karanggan",
+      "postal_code": "16960"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

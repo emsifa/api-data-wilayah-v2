@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "31.75.09.1001",
+      "name": "Ciracas",
+      "postal_code": "13740"
+    },
+    {
+      "id": "31.75.09.1002",
+      "name": "Cibubur",
+      "postal_code": "13720"
+    },
+    {
+      "id": "31.75.09.1003",
+      "name": "Kelapa Dua Wetan",
+      "postal_code": "13730"
+    },
+    {
+      "id": "31.75.09.1004",
+      "name": "Susukan",
+      "postal_code": "13750"
+    },
+    {
+      "id": "31.75.09.1005",
+      "name": "Rambutan",
+      "postal_code": "13830"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

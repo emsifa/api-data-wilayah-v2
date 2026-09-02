@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "62.13.01.1012",
+      "name": "Tamiang Layang",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.01.2003",
+      "name": "Pulau Patai",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.01.2004",
+      "name": "Sarapat",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.01.2005",
+      "name": "Magantis",
+      "postal_code": "73612"
+    },
+    {
+      "id": "62.13.01.2006",
+      "name": "Jaar",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.01.2007",
+      "name": "Matabu",
+      "postal_code": "73613"
+    },
+    {
+      "id": "62.13.01.2008",
+      "name": "Dorong",
+      "postal_code": "73614"
+    },
+    {
+      "id": "62.13.01.2009",
+      "name": "Didi",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.01.2010",
+      "name": "Karang Langit",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.01.2011",
+      "name": "Haringen",
+      "postal_code": "73615"
+    },
+    {
+      "id": "62.13.01.2018",
+      "name": "Jaweten",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.01.2019",
+      "name": "Matarah",
+      "postal_code": "73618"
+    },
+    {
+      "id": "62.13.01.2020",
+      "name": "Maragut",
+      "postal_code": "73618"
+    },
+    {
+      "id": "62.13.01.2021",
+      "name": "Mangkarap",
+      "postal_code": "73618"
+    },
+    {
+      "id": "62.13.01.2022",
+      "name": "Gumpa",
+      "postal_code": "73618"
+    },
+    {
+      "id": "62.13.01.2023",
+      "name": "Sumur",
+      "postal_code": "73618"
+    },
+    {
+      "id": "62.13.01.2024",
+      "name": "Harara",
+      "postal_code": "73618"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

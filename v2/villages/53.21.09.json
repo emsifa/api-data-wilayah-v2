@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "53.21.09.2001",
+      "name": "Raiulun",
+      "postal_code": "85761"
+    },
+    {
+      "id": "53.21.09.2002",
+      "name": "Wemeda",
+      "postal_code": "85761"
+    },
+    {
+      "id": "53.21.09.2003",
+      "name": "Kusa",
+      "postal_code": "85761"
+    },
+    {
+      "id": "53.21.09.2004",
+      "name": "Numponi",
+      "postal_code": "85761"
+    },
+    {
+      "id": "53.21.09.2005",
+      "name": "Dirma",
+      "postal_code": "85761"
+    },
+    {
+      "id": "53.21.09.2006",
+      "name": "Sanleo",
+      "postal_code": "85761"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

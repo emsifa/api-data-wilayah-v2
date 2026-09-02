@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.02.46.2001",
+      "name": "Cimanggu",
+      "postal_code": "43178"
+    },
+    {
+      "id": "32.02.46.2002",
+      "name": "Sukamaju",
+      "postal_code": "43178"
+    },
+    {
+      "id": "32.02.46.2003",
+      "name": "Sukajadi",
+      "postal_code": "43178"
+    },
+    {
+      "id": "32.02.46.2004",
+      "name": "Karangmekar",
+      "postal_code": "43178"
+    },
+    {
+      "id": "32.02.46.2005",
+      "name": "Boregahindah",
+      "postal_code": "43178"
+    },
+    {
+      "id": "32.02.46.2006",
+      "name": "Sukamanah",
+      "postal_code": "43178"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

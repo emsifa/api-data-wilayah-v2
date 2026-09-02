@@ -1,18 +1,44 @@
 {
-  "data": {
-    "id": "53.13",
-    "name": "Kabupaten Lembata",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
+  "data": [
+    {
+      "id": "53.13.01",
+      "name": "Naga Wutung"
     },
-    "regency": {
-      "id": "53.13",
-      "name": "Kabupaten Lembata"
+    {
+      "id": "53.13.02",
+      "name": "Atadei"
+    },
+    {
+      "id": "53.13.03",
+      "name": "Ile Ape"
+    },
+    {
+      "id": "53.13.04",
+      "name": "Lebatukan"
+    },
+    {
+      "id": "53.13.05",
+      "name": "Nubatukan"
+    },
+    {
+      "id": "53.13.06",
+      "name": "Omesuri"
+    },
+    {
+      "id": "53.13.07",
+      "name": "Buyasuri"
+    },
+    {
+      "id": "53.13.08",
+      "name": "Wulandoni"
+    },
+    {
+      "id": "53.13.09",
+      "name": "Ile Ape Timur"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

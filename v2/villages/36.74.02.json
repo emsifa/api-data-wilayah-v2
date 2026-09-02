@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "36.74.02.1001",
+      "name": "Pakulonan",
+      "postal_code": "15325"
+    },
+    {
+      "id": "36.74.02.1002",
+      "name": "Pakualam",
+      "postal_code": "15320"
+    },
+    {
+      "id": "36.74.02.1003",
+      "name": "Pakujaya",
+      "postal_code": "15324"
+    },
+    {
+      "id": "36.74.02.1004",
+      "name": "Pondok Jagung",
+      "postal_code": "15326"
+    },
+    {
+      "id": "36.74.02.1005",
+      "name": "Pondok Jagung Timur",
+      "postal_code": "15326"
+    },
+    {
+      "id": "36.74.02.1006",
+      "name": "Jelupang",
+      "postal_code": "15323"
+    },
+    {
+      "id": "36.74.02.1007",
+      "name": "Lengkong Karya",
+      "postal_code": "15320"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

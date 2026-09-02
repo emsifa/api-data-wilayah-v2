@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "18.02.09.2001",
+      "name": "Teluk Dalem Ilir",
+      "postal_code": "34154"
+    },
+    {
+      "id": "18.02.09.2002",
+      "name": "Rekso Binangun",
+      "postal_code": "34154"
+    },
+    {
+      "id": "18.02.09.2003",
+      "name": "Rukti Basuki",
+      "postal_code": "34154"
+    },
+    {
+      "id": "18.02.09.2004",
+      "name": "Restu Baru",
+      "postal_code": "34154"
+    },
+    {
+      "id": "18.02.09.2005",
+      "name": "Restu Buana",
+      "postal_code": "34154"
+    },
+    {
+      "id": "18.02.09.2006",
+      "name": "Reno Basuki",
+      "postal_code": "34154"
+    },
+    {
+      "id": "18.02.09.2013",
+      "name": "Bina Karya Putra",
+      "postal_code": "34154"
+    },
+    {
+      "id": "18.02.09.2014",
+      "name": "Bina Karya Buana",
+      "postal_code": "34154"
+    },
+    {
+      "id": "18.02.09.2015",
+      "name": "Bina Karya mandiri",
+      "postal_code": "34154"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

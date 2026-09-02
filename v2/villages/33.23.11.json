@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "33.23.11.2001",
+      "name": "Tretep",
+      "postal_code": "56259"
+    },
+    {
+      "id": "33.23.11.2002",
+      "name": "Donorojo",
+      "postal_code": "56259"
+    },
+    {
+      "id": "33.23.11.2003",
+      "name": "Nglarangan",
+      "postal_code": "56259"
+    },
+    {
+      "id": "33.23.11.2004",
+      "name": "Sigedong",
+      "postal_code": "56259"
+    },
+    {
+      "id": "33.23.11.2005",
+      "name": "Bonjor",
+      "postal_code": "56259"
+    },
+    {
+      "id": "33.23.11.2006",
+      "name": "Tempelsari",
+      "postal_code": "56259"
+    },
+    {
+      "id": "33.23.11.2007",
+      "name": "Campurejo",
+      "postal_code": "56259"
+    },
+    {
+      "id": "33.23.11.2008",
+      "name": "Bojong",
+      "postal_code": "56259"
+    },
+    {
+      "id": "33.23.11.2009",
+      "name": "Bendungan",
+      "postal_code": "56259"
+    },
+    {
+      "id": "33.23.11.2010",
+      "name": "Simpar",
+      "postal_code": "56259"
+    },
+    {
+      "id": "33.23.11.2011",
+      "name": "Tlogo",
+      "postal_code": "56259"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

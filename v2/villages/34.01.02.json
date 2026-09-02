@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "34.01.02.1008",
+      "name": "Wates",
+      "postal_code": "55651"
+    },
+    {
+      "id": "34.01.02.2001",
+      "name": "Karangwuni",
+      "postal_code": "55651"
+    },
+    {
+      "id": "34.01.02.2002",
+      "name": "Sogan",
+      "postal_code": "55651"
+    },
+    {
+      "id": "34.01.02.2003",
+      "name": "Kulwaru",
+      "postal_code": "55651"
+    },
+    {
+      "id": "34.01.02.2004",
+      "name": "Ngestiharjo",
+      "postal_code": "55651"
+    },
+    {
+      "id": "34.01.02.2005",
+      "name": "Bendungan",
+      "postal_code": "55651"
+    },
+    {
+      "id": "34.01.02.2006",
+      "name": "Triharjo",
+      "postal_code": "55651"
+    },
+    {
+      "id": "34.01.02.2007",
+      "name": "Giripeni",
+      "postal_code": "55651"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

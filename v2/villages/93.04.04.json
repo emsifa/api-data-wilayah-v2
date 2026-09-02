@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "93.04.04.2001",
+      "name": "Ayam",
+      "postal_code": "99779"
+    },
+    {
+      "id": "93.04.04.2006",
+      "name": "Waw",
+      "postal_code": "99779"
+    },
+    {
+      "id": "93.04.04.2007",
+      "name": "Bayiw Pinam",
+      "postal_code": "99779"
+    },
+    {
+      "id": "93.04.04.2008",
+      "name": "Cumnew",
+      "postal_code": "99779"
+    },
+    {
+      "id": "93.04.04.2009",
+      "name": "Jewes",
+      "postal_code": "99779"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "82.04.14.2001",
+      "name": "Sidopo",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.14.2002",
+      "name": "Lolarogurua",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.14.2003",
+      "name": "Nusa Babullah",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.14.2004",
+      "name": "Jojame",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.14.2005",
+      "name": "Yaba",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.14.2006",
+      "name": "Geti Lama",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.14.2007",
+      "name": "Geti Baru",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.14.2008",
+      "name": "Gilalang",
+      "postal_code": "97791"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

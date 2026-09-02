@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "61.04.18.1001",
+      "name": "Kauman",
+      "postal_code": "78821"
+    },
+    {
+      "id": "61.04.18.1002",
+      "name": "Mulia Kerta",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.18.1004",
+      "name": "Tuan-Tuan",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.18.1009",
+      "name": "Banjar",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.18.2003",
+      "name": "Padang",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.18.2005",
+      "name": "Sungai Kinjil",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.18.2006",
+      "name": "Suka Baru",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.18.2007",
+      "name": "Baru",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.18.2008",
+      "name": "Negeri Baru",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.18.2010",
+      "name": "Mekar Sari",
+      "postal_code": "78822"
+    },
+    {
+      "id": "61.04.18.2011",
+      "name": "Kinjil Pesisir",
+      "postal_code": "78822"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

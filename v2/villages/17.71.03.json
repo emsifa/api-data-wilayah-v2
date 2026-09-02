@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "17.71.03.1001",
+      "name": "Berkas",
+      "postal_code": "38114"
+    },
+    {
+      "id": "17.71.03.1002",
+      "name": "Pasar Baru",
+      "postal_code": "38114"
+    },
+    {
+      "id": "17.71.03.1003",
+      "name": "Jitra",
+      "postal_code": "38119"
+    },
+    {
+      "id": "17.71.03.1004",
+      "name": "Pasar Melintang",
+      "postal_code": "38115"
+    },
+    {
+      "id": "17.71.03.1005",
+      "name": "Kebun Roos",
+      "postal_code": "38117"
+    },
+    {
+      "id": "17.71.03.1007",
+      "name": "Tengah Padang",
+      "postal_code": "38118"
+    },
+    {
+      "id": "17.71.03.1008",
+      "name": "Bajak",
+      "postal_code": "38118"
+    },
+    {
+      "id": "17.71.03.1010",
+      "name": "Pondok Besi",
+      "postal_code": "38117"
+    },
+    {
+      "id": "17.71.03.1011",
+      "name": "Kebun Keling",
+      "postal_code": "38116"
+    },
+    {
+      "id": "17.71.03.1013",
+      "name": "Sumur Meleleh",
+      "postal_code": "38113"
+    },
+    {
+      "id": "17.71.03.1014",
+      "name": "Malabero",
+      "postal_code": "38119"
+    },
+    {
+      "id": "17.71.03.1018",
+      "name": "Pintu Batu",
+      "postal_code": "38115"
+    },
+    {
+      "id": "17.71.03.1019",
+      "name": "Kampung Bali",
+      "postal_code": "38119"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

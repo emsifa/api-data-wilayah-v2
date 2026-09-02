@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.13.23.2001",
+      "name": "Cijengkol",
+      "postal_code": "41288"
+    },
+    {
+      "id": "32.13.23.2002",
+      "name": "Talagasari",
+      "postal_code": "41288"
+    },
+    {
+      "id": "32.13.23.2003",
+      "name": "Cintamekar",
+      "postal_code": "41288"
+    },
+    {
+      "id": "32.13.23.2004",
+      "name": "Ponggang",
+      "postal_code": "41288"
+    },
+    {
+      "id": "32.13.23.2005",
+      "name": "Cikujang",
+      "postal_code": "41288"
+    },
+    {
+      "id": "32.13.23.2006",
+      "name": "Cipancar",
+      "postal_code": "41288"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

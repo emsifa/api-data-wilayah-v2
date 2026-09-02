@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "13.71.07.1001",
+      "name": "Indarung",
+      "postal_code": "25237"
+    },
+    {
+      "id": "13.71.07.1002",
+      "name": "Padang Besi",
+      "postal_code": "25233"
+    },
+    {
+      "id": "13.71.07.1003",
+      "name": "Batu Gadang",
+      "postal_code": "25236"
+    },
+    {
+      "id": "13.71.07.1004",
+      "name": "Banda Buek",
+      "postal_code": "25231"
+    },
+    {
+      "id": "13.71.07.1005",
+      "name": "Koto Lalang",
+      "postal_code": "25232"
+    },
+    {
+      "id": "13.71.07.1006",
+      "name": "Baringin",
+      "postal_code": "25235"
+    },
+    {
+      "id": "13.71.07.1007",
+      "name": "Tarantang",
+      "postal_code": "25234"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

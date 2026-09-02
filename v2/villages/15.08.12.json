@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "15.08.12.1001",
+      "name": "Sungai Pinang",
+      "postal_code": "37212"
+    },
+    {
+      "id": "15.08.12.1002",
+      "name": "Sungai Kerjan",
+      "postal_code": "37212"
+    },
+    {
+      "id": "15.08.12.2003",
+      "name": "Talang Pantai",
+      "postal_code": "37212"
+    },
+    {
+      "id": "15.08.12.2004",
+      "name": "Sungai Arang",
+      "postal_code": "37212"
+    },
+    {
+      "id": "15.08.12.2005",
+      "name": "Pulau Pekan",
+      "postal_code": "37212"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

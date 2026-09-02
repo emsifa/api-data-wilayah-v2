@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "71.03.11.2001",
+      "name": "Kalama",
+      "postal_code": "95851"
+    },
+    {
+      "id": "71.03.11.2002",
+      "name": "Kahakitang",
+      "postal_code": "95851"
+    },
+    {
+      "id": "71.03.11.2003",
+      "name": "Mahengetang",
+      "postal_code": "95851"
+    },
+    {
+      "id": "71.03.11.2004",
+      "name": "Para",
+      "postal_code": "95851"
+    },
+    {
+      "id": "71.03.11.2005",
+      "name": "Dalako Bembanehe",
+      "postal_code": "95851"
+    },
+    {
+      "id": "71.03.11.2006",
+      "name": "Taleko Batusaiki",
+      "postal_code": "95851"
+    },
+    {
+      "id": "71.03.11.2007",
+      "name": "Para I",
+      "postal_code": "95851"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "12.21.17.2001",
+      "name": "Tanjung Ale",
+      "postal_code": "22776"
+    },
+    {
+      "id": "12.21.17.2002",
+      "name": "Sigala-Gala",
+      "postal_code": "22776"
+    },
+    {
+      "id": "12.21.17.2003",
+      "name": "Simangambat",
+      "postal_code": "22776"
+    },
+    {
+      "id": "12.21.17.2004",
+      "name": "Pir Trans Sosa I B",
+      "postal_code": "22776"
+    },
+    {
+      "id": "12.21.17.2005",
+      "name": "Pir Trans Sosa I A",
+      "postal_code": "22776"
+    },
+    {
+      "id": "12.21.17.2006",
+      "name": "Gunung Manaon",
+      "postal_code": "22742"
+    },
+    {
+      "id": "12.21.17.2007",
+      "name": "Muara Tige",
+      "postal_code": "22742"
+    },
+    {
+      "id": "12.21.17.2008",
+      "name": "Sibodak Papaso",
+      "postal_code": "22742"
+    },
+    {
+      "id": "12.21.17.2009",
+      "name": "Gunung Inten",
+      "postal_code": "22742"
+    },
+    {
+      "id": "12.21.17.2010",
+      "name": "Pagaran Baringin",
+      "postal_code": "22742"
+    },
+    {
+      "id": "12.21.17.2011",
+      "name": "Salambue",
+      "postal_code": "22742"
+    },
+    {
+      "id": "12.21.17.2012",
+      "name": "Papaso",
+      "postal_code": "22742"
+    },
+    {
+      "id": "12.21.17.2013",
+      "name": "Rombayan",
+      "postal_code": "22742"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

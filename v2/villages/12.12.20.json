@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "12.12.20.2001",
+      "name": "Narumonda I",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.20.2002",
+      "name": "Narumonda II",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.20.2003",
+      "name": "Narumonda III",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.20.2004",
+      "name": "Narumonda IV",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.20.2005",
+      "name": "Narumonda V",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.20.2006",
+      "name": "Narumonda VI",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.20.2007",
+      "name": "Narumonda VII",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.20.2008",
+      "name": "Narumonda VIII",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.20.2009",
+      "name": "Siantar Sitio Tio",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.20.2010",
+      "name": "Siantar Dangsina",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.20.2011",
+      "name": "Siantar Tonga-tonga I",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.20.2012",
+      "name": "Siantar Tonga-Tonga II",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.20.2013",
+      "name": "Siantar Sigordang",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.20.2014",
+      "name": "Siantar Tonga-Tonga III",
+      "postal_code": "22384"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

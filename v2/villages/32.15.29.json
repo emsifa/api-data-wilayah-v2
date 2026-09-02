@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.15.29.2001",
+      "name": "Darawolong",
+      "postal_code": "41377"
+    },
+    {
+      "id": "32.15.29.2002",
+      "name": "Tegalsari",
+      "postal_code": "41377"
+    },
+    {
+      "id": "32.15.29.2003",
+      "name": "Purwasari",
+      "postal_code": "41377"
+    },
+    {
+      "id": "32.15.29.2004",
+      "name": "Mekarjaya",
+      "postal_code": "41377"
+    },
+    {
+      "id": "32.15.29.2005",
+      "name": "Tamelang",
+      "postal_code": "41377"
+    },
+    {
+      "id": "32.15.29.2006",
+      "name": "Cengkong",
+      "postal_code": "41377"
+    },
+    {
+      "id": "32.15.29.2007",
+      "name": "Sukasari",
+      "postal_code": "41377"
+    },
+    {
+      "id": "32.15.29.2008",
+      "name": "Karangsari",
+      "postal_code": "41377"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

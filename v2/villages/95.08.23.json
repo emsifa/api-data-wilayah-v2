@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "95.08.23.2001",
+      "name": "Paris",
+      "postal_code": "99925"
+    },
+    {
+      "id": "95.08.23.2002",
+      "name": "Simie",
+      "postal_code": "99925"
+    },
+    {
+      "id": "95.08.23.2003",
+      "name": "Urugi",
+      "postal_code": "99925"
+    },
+    {
+      "id": "95.08.23.2004",
+      "name": "Pirim-Pirim",
+      "postal_code": "99925"
+    },
+    {
+      "id": "95.08.23.2005",
+      "name": "Tombisik",
+      "postal_code": "99925"
+    },
+    {
+      "id": "95.08.23.2006",
+      "name": "Yepma",
+      "postal_code": "99925"
+    },
+    {
+      "id": "95.08.23.2007",
+      "name": "Sokore",
+      "postal_code": "99925"
+    },
+    {
+      "id": "95.08.23.2008",
+      "name": "Tobonggom",
+      "postal_code": "99925"
+    },
+    {
+      "id": "95.08.23.2009",
+      "name": "Rapa",
+      "postal_code": "99925"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "12.05.23.2001",
+      "name": "Pematang Tengah",
+      "postal_code": "20858"
+    },
+    {
+      "id": "12.05.23.2002",
+      "name": "Damar Condong",
+      "postal_code": "20858"
+    },
+    {
+      "id": "12.05.23.2003",
+      "name": "Perkebunan Damar Condong",
+      "postal_code": "20858"
+    },
+    {
+      "id": "12.05.23.2004",
+      "name": "Perkebunan Perapen",
+      "postal_code": "20858"
+    },
+    {
+      "id": "12.05.23.2005",
+      "name": "Limau Mungkur",
+      "postal_code": "20858"
+    },
+    {
+      "id": "12.05.23.2006",
+      "name": "Serang Jaya Hilir",
+      "postal_code": "20859"
+    },
+    {
+      "id": "12.05.23.2007",
+      "name": "Serang Jaya",
+      "postal_code": "20859"
+    },
+    {
+      "id": "12.05.23.2008",
+      "name": "Sala Haji",
+      "postal_code": "20859"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

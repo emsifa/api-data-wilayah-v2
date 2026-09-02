@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "73.18.01.1009",
+      "name": "Pattan Ulusalu",
+      "postal_code": "91864"
+    },
+    {
+      "id": "73.18.01.2010",
+      "name": "Salutandung",
+      "postal_code": "91864"
+    },
+    {
+      "id": "73.18.01.2011",
+      "name": "Rea Tulak Langi",
+      "postal_code": "91864"
+    },
+    {
+      "id": "73.18.01.2012",
+      "name": "Ratte Talonge",
+      "postal_code": "91864"
+    },
+    {
+      "id": "73.18.01.2013",
+      "name": "Sa'tandung",
+      "postal_code": "91864"
+    },
+    {
+      "id": "73.18.01.2014",
+      "name": "Ra'bung",
+      "postal_code": "91864"
+    },
+    {
+      "id": "73.18.01.2015",
+      "name": "Salutapokko",
+      "postal_code": "91864"
+    },
+    {
+      "id": "73.18.01.2016",
+      "name": "Salu Boronan",
+      "postal_code": "91864"
+    },
+    {
+      "id": "73.18.01.2017",
+      "name": "Batu Tiakka",
+      "postal_code": "91864"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

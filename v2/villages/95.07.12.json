@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "95.07.12.2001",
+      "name": "Yirene",
+      "postal_code": "99592"
+    },
+    {
+      "id": "95.07.12.2002",
+      "name": "Yogobak",
+      "postal_code": "99592"
+    },
+    {
+      "id": "95.07.12.2003",
+      "name": "Kwenukwi",
+      "postal_code": "99592"
+    },
+    {
+      "id": "95.07.12.2004",
+      "name": "Libungga",
+      "postal_code": "99592"
+    },
+    {
+      "id": "95.07.12.2005",
+      "name": "Unom",
+      "postal_code": "99592"
+    },
+    {
+      "id": "95.07.12.2006",
+      "name": "Wimolome",
+      "postal_code": "99592"
+    },
+    {
+      "id": "95.07.12.2007",
+      "name": "Weneogun",
+      "postal_code": "99592"
+    },
+    {
+      "id": "95.07.12.2008",
+      "name": "Berangwi",
+      "postal_code": "99592"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

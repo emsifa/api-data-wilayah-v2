@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "11.13.08.2001",
+      "name": "Pangur",
+      "postal_code": "24652"
+    },
+    {
+      "id": "11.13.08.2002",
+      "name": "Badak",
+      "postal_code": "24652"
+    },
+    {
+      "id": "11.13.08.2003",
+      "name": "Kendawi",
+      "postal_code": "24652"
+    },
+    {
+      "id": "11.13.08.2004",
+      "name": "Sangir",
+      "postal_code": "24652"
+    },
+    {
+      "id": "11.13.08.2005",
+      "name": "Panglima Linting",
+      "postal_code": "24652"
+    },
+    {
+      "id": "11.13.08.2006",
+      "name": "Blangtemung",
+      "postal_code": "24652"
+    },
+    {
+      "id": "11.13.08.2007",
+      "name": "Rerebe",
+      "postal_code": "24652"
+    },
+    {
+      "id": "11.13.08.2008",
+      "name": "Uning Gelung",
+      "postal_code": "24652"
+    },
+    {
+      "id": "11.13.08.2009",
+      "name": "Uning Sepakat",
+      "postal_code": "24652"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

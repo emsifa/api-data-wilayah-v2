@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "51.71.01.1001",
+      "name": "Serangan",
+      "postal_code": "80229"
+    },
+    {
+      "id": "51.71.01.1002",
+      "name": "Pedungan",
+      "postal_code": "80222"
+    },
+    {
+      "id": "51.71.01.1003",
+      "name": "Sesetan",
+      "postal_code": "80223"
+    },
+    {
+      "id": "51.71.01.1004",
+      "name": "Panjer",
+      "postal_code": "80225"
+    },
+    {
+      "id": "51.71.01.1005",
+      "name": "Renon",
+      "postal_code": "80226"
+    },
+    {
+      "id": "51.71.01.1006",
+      "name": "Sanur",
+      "postal_code": "80228"
+    },
+    {
+      "id": "51.71.01.2007",
+      "name": "Sidakarya",
+      "postal_code": "80224"
+    },
+    {
+      "id": "51.71.01.2008",
+      "name": "Pemogan",
+      "postal_code": "80221"
+    },
+    {
+      "id": "51.71.01.2009",
+      "name": "Sanur Kaja",
+      "postal_code": "80227"
+    },
+    {
+      "id": "51.71.01.2010",
+      "name": "Sanur Kauh",
+      "postal_code": "80227"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

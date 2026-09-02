@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "71.03.24.1001",
+      "name": "Lesa",
+      "postal_code": "95812"
+    },
+    {
+      "id": "71.03.24.1002",
+      "name": "Enengpahembang",
+      "postal_code": "95815"
+    },
+    {
+      "id": "71.03.24.1003",
+      "name": "Tapuang",
+      "postal_code": "95815"
+    },
+    {
+      "id": "71.03.24.1004",
+      "name": "Tidore",
+      "postal_code": "95814"
+    },
+    {
+      "id": "71.03.24.1005",
+      "name": "Tona I",
+      "postal_code": "95815"
+    },
+    {
+      "id": "71.03.24.1006",
+      "name": "Tona II",
+      "postal_code": "95815"
+    },
+    {
+      "id": "71.03.24.1007",
+      "name": "Dumuhung",
+      "postal_code": "95816"
+    },
+    {
+      "id": "71.03.24.1008",
+      "name": "Batulewehe",
+      "postal_code": "95814"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

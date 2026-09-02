@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "72.04.06.2001",
+      "name": "Janja",
+      "postal_code": "94518"
+    },
+    {
+      "id": "72.04.06.2002",
+      "name": "Oyom",
+      "postal_code": "94518"
+    },
+    {
+      "id": "72.04.06.2003",
+      "name": "Salugan",
+      "postal_code": "94518"
+    },
+    {
+      "id": "72.04.06.2004",
+      "name": "Lampasio",
+      "postal_code": "94517"
+    },
+    {
+      "id": "72.04.06.2005",
+      "name": "Tinading",
+      "postal_code": "94517"
+    },
+    {
+      "id": "72.04.06.2006",
+      "name": "Sibea",
+      "postal_code": "94518"
+    },
+    {
+      "id": "72.04.06.2007",
+      "name": "Maibua",
+      "postal_code": "94518"
+    },
+    {
+      "id": "72.04.06.2008",
+      "name": "Mulya Sari",
+      "postal_code": "94518"
+    },
+    {
+      "id": "72.04.06.2009",
+      "name": "Ogomatanang",
+      "postal_code": "94517"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

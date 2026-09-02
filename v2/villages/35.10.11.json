@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.10.11.2001",
+      "name": "Kalibarukulon",
+      "postal_code": "68467"
+    },
+    {
+      "id": "35.10.11.2002",
+      "name": "Kalibarumanis",
+      "postal_code": "68467"
+    },
+    {
+      "id": "35.10.11.2003",
+      "name": "Kalibaruwetan",
+      "postal_code": "68467"
+    },
+    {
+      "id": "35.10.11.2004",
+      "name": "Kajarharjo",
+      "postal_code": "68467"
+    },
+    {
+      "id": "35.10.11.2005",
+      "name": "Banyuanyar",
+      "postal_code": "68467"
+    },
+    {
+      "id": "35.10.11.2006",
+      "name": "Kebonrejo",
+      "postal_code": "68467"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "35.02.15.2001",
+      "name": "Sukorejo",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2002",
+      "name": "Bangunrejo",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2003",
+      "name": "Sidorejo",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2004",
+      "name": "Nambangrejo",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2005",
+      "name": "Lengkong",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2006",
+      "name": "Gelang Lor",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2007",
+      "name": "Serangan",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2008",
+      "name": "Nampan",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2009",
+      "name": "Kranggan",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2010",
+      "name": "Golan",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2011",
+      "name": "Prajegan",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2012",
+      "name": "Kedungbanteng",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2013",
+      "name": "Karanglo Lor",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2014",
+      "name": "Gegeran",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2015",
+      "name": "Gandukepuh",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2016",
+      "name": "Kalimalang",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2017",
+      "name": "Sragi",
+      "postal_code": "63453"
+    },
+    {
+      "id": "35.02.15.2018",
+      "name": "Morosari",
+      "postal_code": "63453"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

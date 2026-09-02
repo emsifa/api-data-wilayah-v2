@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "19.03.06",
+    "name": "Tukak Sadai",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.03",
+      "name": "Kabupaten Bangka Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

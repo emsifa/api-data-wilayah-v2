@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "53.01.24.2001",
+      "name": "Oeltuah",
+      "postal_code": "85360"
+    },
+    {
+      "id": "53.01.24.2002",
+      "name": "Baumata",
+      "postal_code": "85360"
+    },
+    {
+      "id": "53.01.24.2003",
+      "name": "Kuaklalo",
+      "postal_code": "85360"
+    },
+    {
+      "id": "53.01.24.2004",
+      "name": "Oeletsala",
+      "postal_code": "85360"
+    },
+    {
+      "id": "53.01.24.2005",
+      "name": "Bokong",
+      "postal_code": "85360"
+    },
+    {
+      "id": "53.01.24.2006",
+      "name": "Baumata Utara",
+      "postal_code": "85360"
+    },
+    {
+      "id": "53.01.24.2007",
+      "name": "Baumata Timur",
+      "postal_code": "85360"
+    },
+    {
+      "id": "53.01.24.2008",
+      "name": "Baumata Barat",
+      "postal_code": "85360"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

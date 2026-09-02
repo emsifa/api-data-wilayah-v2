@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "95.04.09.2001",
+      "name": "Panaga",
+      "postal_code": "99057"
+    },
+    {
+      "id": "95.04.09.2002",
+      "name": "Ibunuh",
+      "postal_code": "99419"
+    },
+    {
+      "id": "95.04.09.2003",
+      "name": "Saksi Maler",
+      "postal_code": "99419"
+    },
+    {
+      "id": "95.04.09.2004",
+      "name": "Kutiom",
+      "postal_code": "99057"
+    },
+    {
+      "id": "95.04.09.2005",
+      "name": "Eragani",
+      "postal_code": "99419"
+    },
+    {
+      "id": "95.04.09.2006",
+      "name": "Pindanggun",
+      "postal_code": "99419"
+    },
+    {
+      "id": "95.04.09.2007",
+      "name": "Siak",
+      "postal_code": "99419"
+    },
+    {
+      "id": "95.04.09.2008",
+      "name": "Yandono",
+      "postal_code": "99419"
+    },
+    {
+      "id": "95.04.09.2009",
+      "name": "Paido",
+      "postal_code": "99419"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "95.07.02.2001",
+      "name": "Umbanume",
+      "postal_code": "99537"
+    },
+    {
+      "id": "95.07.02.2002",
+      "name": "Wenam",
+      "postal_code": "99581"
+    },
+    {
+      "id": "95.07.02.2003",
+      "name": "Yalipak",
+      "postal_code": "99537"
+    },
+    {
+      "id": "95.07.02.2004",
+      "name": "Ekanom",
+      "postal_code": "99537"
+    },
+    {
+      "id": "95.07.02.2005",
+      "name": "Yugumbinik",
+      "postal_code": "99537"
+    },
+    {
+      "id": "95.07.02.2006",
+      "name": "Amberingime",
+      "postal_code": "99537"
+    },
+    {
+      "id": "95.07.02.2007",
+      "name": "Aniwo",
+      "postal_code": "99537"
+    },
+    {
+      "id": "95.07.02.2008",
+      "name": "Bugumbak",
+      "postal_code": "99581"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

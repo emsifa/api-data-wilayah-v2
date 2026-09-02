@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "35.04",
+    "name": "Kabupaten Tulungagung",
+    "capital": "Tulungagung",
+    "lat": -8.064364715839401,
+    "lng": 111.90068000547873,
+    "elv": 90,
+    "tz": 7,
+    "population": 1139224,
+    "total_area": 1144.856,
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

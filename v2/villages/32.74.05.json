@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.74.05.1001",
+      "name": "Pekiringan",
+      "postal_code": "45131"
+    },
+    {
+      "id": "32.74.05.1002",
+      "name": "Sunyaragi",
+      "postal_code": "45132"
+    },
+    {
+      "id": "32.74.05.1003",
+      "name": "Kesambi",
+      "postal_code": "45134"
+    },
+    {
+      "id": "32.74.05.1004",
+      "name": "Drajat",
+      "postal_code": "45133"
+    },
+    {
+      "id": "32.74.05.1005",
+      "name": "Karyamulya",
+      "postal_code": "45131"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

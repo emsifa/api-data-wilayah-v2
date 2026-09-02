@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "51.08.07.2001",
+      "name": "Lemukih",
+      "postal_code": "81171"
+    },
+    {
+      "id": "51.08.07.2002",
+      "name": "Galungan",
+      "postal_code": "81171"
+    },
+    {
+      "id": "51.08.07.2003",
+      "name": "Sekumpul",
+      "postal_code": "81171"
+    },
+    {
+      "id": "51.08.07.2004",
+      "name": "Bebetin",
+      "postal_code": "81171"
+    },
+    {
+      "id": "51.08.07.2005",
+      "name": "Sudaji",
+      "postal_code": "81171"
+    },
+    {
+      "id": "51.08.07.2006",
+      "name": "Sawan",
+      "postal_code": "81171"
+    },
+    {
+      "id": "51.08.07.2007",
+      "name": "Menyali",
+      "postal_code": "81171"
+    },
+    {
+      "id": "51.08.07.2008",
+      "name": "Suwug",
+      "postal_code": "81171"
+    },
+    {
+      "id": "51.08.07.2009",
+      "name": "Jagaraga",
+      "postal_code": "81171"
+    },
+    {
+      "id": "51.08.07.2010",
+      "name": "Sinabun",
+      "postal_code": "81171"
+    },
+    {
+      "id": "51.08.07.2011",
+      "name": "Kerobokan",
+      "postal_code": "81171"
+    },
+    {
+      "id": "51.08.07.2012",
+      "name": "Sangsit",
+      "postal_code": "81171"
+    },
+    {
+      "id": "51.08.07.2013",
+      "name": "Bungkulan",
+      "postal_code": "81171"
+    },
+    {
+      "id": "51.08.07.2014",
+      "name": "Giri Emas",
+      "postal_code": "81171"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

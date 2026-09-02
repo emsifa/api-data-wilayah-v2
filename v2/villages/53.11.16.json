@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "53.11.16.1001",
+      "name": "Wangga",
+      "postal_code": "87116"
+    },
+    {
+      "id": "53.11.16.1002",
+      "name": "Prailiu",
+      "postal_code": "87113"
+    },
+    {
+      "id": "53.11.16.1003",
+      "name": "Kambaniru",
+      "postal_code": "87114"
+    },
+    {
+      "id": "53.11.16.1004",
+      "name": "Mauliru",
+      "postal_code": "87116"
+    },
+    {
+      "id": "53.11.16.1005",
+      "name": "Mau Hau",
+      "postal_code": "87116"
+    },
+    {
+      "id": "53.11.16.1006",
+      "name": "Malumbi",
+      "postal_code": "87116"
+    },
+    {
+      "id": "53.11.16.1007",
+      "name": "Lambanapu",
+      "postal_code": "87115"
+    },
+    {
+      "id": "53.11.16.2008",
+      "name": "Kiritana",
+      "postal_code": "87114"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

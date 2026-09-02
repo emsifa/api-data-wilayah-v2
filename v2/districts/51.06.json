@@ -1,18 +1,24 @@
 {
-  "data": {
-    "id": "51.06",
-    "name": "Kabupaten Bangli",
-    "province": {
-      "id": "51",
-      "name": "Bali"
+  "data": [
+    {
+      "id": "51.06.01",
+      "name": "Susut"
     },
-    "regency": {
-      "id": "51.06",
-      "name": "Kabupaten Bangli"
+    {
+      "id": "51.06.02",
+      "name": "Bangli"
+    },
+    {
+      "id": "51.06.03",
+      "name": "Tembuku"
+    },
+    {
+      "id": "51.06.04",
+      "name": "Kintamani"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

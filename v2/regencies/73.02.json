@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "73.02",
+    "name": "Kabupaten Bulukumba",
+    "capital": "Bulukumba",
+    "lat": -5.558243996799272,
+    "lng": 120.19308054104557,
+    "elv": 9,
+    "tz": 8,
+    "population": 480672,
+    "total_area": 1175.562,
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

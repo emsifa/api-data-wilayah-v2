@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "72.04.09.2005",
+      "name": "Santigi",
+      "postal_code": "94560"
+    },
+    {
+      "id": "72.04.09.2006",
+      "name": "Laulalang",
+      "postal_code": "94560"
+    },
+    {
+      "id": "72.04.09.2007",
+      "name": "Salumpaga",
+      "postal_code": "94560"
+    },
+    {
+      "id": "72.04.09.2008",
+      "name": "Diule",
+      "postal_code": "94560"
+    },
+    {
+      "id": "72.04.09.2009",
+      "name": "Pinjan",
+      "postal_code": "94560"
+    },
+    {
+      "id": "72.04.09.2010",
+      "name": "Binontoan",
+      "postal_code": "94560"
+    },
+    {
+      "id": "72.04.09.2011",
+      "name": "Lakuan Tolitoli",
+      "postal_code": "94560"
+    },
+    {
+      "id": "72.04.09.2012",
+      "name": "Timbolo",
+      "postal_code": "94560"
+    },
+    {
+      "id": "72.04.09.2013",
+      "name": "Teluk Jaya",
+      "postal_code": "94560"
+    },
+    {
+      "id": "72.04.09.2014",
+      "name": "Gio",
+      "postal_code": "94560"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

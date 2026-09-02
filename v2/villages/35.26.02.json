@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "35.26.02.2001",
+      "name": "Socah",
+      "postal_code": "69161"
+    },
+    {
+      "id": "35.26.02.2002",
+      "name": "Keleyan",
+      "postal_code": "69161"
+    },
+    {
+      "id": "35.26.02.2003",
+      "name": "Bilaporah",
+      "postal_code": "69161"
+    },
+    {
+      "id": "35.26.02.2004",
+      "name": "Parseh",
+      "postal_code": "69161"
+    },
+    {
+      "id": "35.26.02.2005",
+      "name": "Jaddih",
+      "postal_code": "69161"
+    },
+    {
+      "id": "35.26.02.2006",
+      "name": "Buluh",
+      "postal_code": "69161"
+    },
+    {
+      "id": "35.26.02.2007",
+      "name": "Junganyar",
+      "postal_code": "69161"
+    },
+    {
+      "id": "35.26.02.2008",
+      "name": "Dakiring",
+      "postal_code": "69161"
+    },
+    {
+      "id": "35.26.02.2009",
+      "name": "Petaonan",
+      "postal_code": "69161"
+    },
+    {
+      "id": "35.26.02.2010",
+      "name": "Pernajuh",
+      "postal_code": "69161"
+    },
+    {
+      "id": "35.26.02.2011",
+      "name": "Sanggra Agung",
+      "postal_code": "69161"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "11.13.07.2001",
+      "name": "Gumpang",
+      "postal_code": "24658"
+    },
+    {
+      "id": "11.13.07.2002",
+      "name": "Marpunge",
+      "postal_code": "24658"
+    },
+    {
+      "id": "11.13.07.2003",
+      "name": "Ramung Musara",
+      "postal_code": "24658"
+    },
+    {
+      "id": "11.13.07.2004",
+      "name": "Meloak Sepakat",
+      "postal_code": "24658"
+    },
+    {
+      "id": "11.13.07.2005",
+      "name": "Kutelengat Sepakat",
+      "postal_code": "24658"
+    },
+    {
+      "id": "11.13.07.2006",
+      "name": "Singah Mulo",
+      "postal_code": "24658"
+    },
+    {
+      "id": "11.13.07.2007",
+      "name": "Uning Pune",
+      "postal_code": "24658"
+    },
+    {
+      "id": "11.13.07.2008",
+      "name": "Gumpang Lempuh",
+      "postal_code": "24658"
+    },
+    {
+      "id": "11.13.07.2009",
+      "name": "Putri Betung",
+      "postal_code": "24658"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

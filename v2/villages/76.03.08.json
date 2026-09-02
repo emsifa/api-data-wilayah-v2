@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "76.03.08.2002",
+      "name": "Orobua",
+      "postal_code": "91365"
+    },
+    {
+      "id": "76.03.08.2003",
+      "name": "Paladan",
+      "postal_code": "91365"
+    },
+    {
+      "id": "76.03.08.2004",
+      "name": "Orobua Timur",
+      "postal_code": "91365"
+    },
+    {
+      "id": "76.03.08.2006",
+      "name": "Rante Puang",
+      "postal_code": "91365"
+    },
+    {
+      "id": "76.03.08.2007",
+      "name": "Satenetean",
+      "postal_code": "91365"
+    },
+    {
+      "id": "76.03.08.2008",
+      "name": "Lisuan Ada",
+      "postal_code": "91365"
+    },
+    {
+      "id": "76.03.08.2010",
+      "name": "Orobua Selatan",
+      "postal_code": "91365"
+    },
+    {
+      "id": "76.03.08.2012",
+      "name": "Malangkena Padang",
+      "postal_code": "91365"
+    },
+    {
+      "id": "76.03.08.2013",
+      "name": "Malimbong",
+      "postal_code": "91365"
+    },
+    {
+      "id": "76.03.08.2014",
+      "name": "Marampan Orobua",
+      "postal_code": "91365"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

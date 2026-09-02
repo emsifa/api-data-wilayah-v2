@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "94.03.24.2001",
+      "name": "Yabomaida",
+      "postal_code": "98732"
+    },
+    {
+      "id": "94.03.24.2002",
+      "name": "Akoubaida",
+      "postal_code": "98732"
+    },
+    {
+      "id": "94.03.24.2003",
+      "name": "Dauwagu",
+      "postal_code": "98731"
+    },
+    {
+      "id": "94.03.24.2004",
+      "name": "Ganeyetaka",
+      "postal_code": "98731"
+    },
+    {
+      "id": "94.03.24.2005",
+      "name": "Yabomaida II",
+      "postal_code": "98732"
+    },
+    {
+      "id": "94.03.24.2006",
+      "name": "Bodatadi",
+      "postal_code": "98731"
+    },
+    {
+      "id": "94.03.24.2007",
+      "name": "Ibouwagu",
+      "postal_code": "98731"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

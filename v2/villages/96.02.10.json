@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "96.02.10.2001",
+      "name": "Mugim",
+      "postal_code": "98463"
+    },
+    {
+      "id": "96.02.10.2002",
+      "name": "Nusa",
+      "postal_code": "98463"
+    },
+    {
+      "id": "96.02.10.2003",
+      "name": "Saga",
+      "postal_code": "98463"
+    },
+    {
+      "id": "96.02.10.2004",
+      "name": "Puragi",
+      "postal_code": "98463"
+    },
+    {
+      "id": "96.02.10.2005",
+      "name": "Tawanggire",
+      "postal_code": "98463"
+    },
+    {
+      "id": "96.02.10.2006",
+      "name": "Bedare",
+      "postal_code": "98463"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

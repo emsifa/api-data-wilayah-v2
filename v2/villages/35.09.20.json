@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "35.09.20.1001",
+      "name": "Banjarsengon",
+      "postal_code": "68118"
+    },
+    {
+      "id": "35.09.20.1002",
+      "name": "Jumerto",
+      "postal_code": "68114"
+    },
+    {
+      "id": "35.09.20.1003",
+      "name": "Gebang",
+      "postal_code": "68117"
+    },
+    {
+      "id": "35.09.20.1004",
+      "name": "Slawu",
+      "postal_code": "68116"
+    },
+    {
+      "id": "35.09.20.1005",
+      "name": "Bintoro",
+      "postal_code": "68113"
+    },
+    {
+      "id": "35.09.20.1006",
+      "name": "Jemberlor",
+      "postal_code": "68118"
+    },
+    {
+      "id": "35.09.20.1007",
+      "name": "Patrang",
+      "postal_code": "68111"
+    },
+    {
+      "id": "35.09.20.1008",
+      "name": "Baratan",
+      "postal_code": "68112"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

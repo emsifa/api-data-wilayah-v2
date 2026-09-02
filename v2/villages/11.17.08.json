@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "11.17.08.2001",
+      "name": "Bandar Jaya",
+      "postal_code": "24583"
+    },
+    {
+      "id": "11.17.08.2002",
+      "name": "Jongok Meluem",
+      "postal_code": "24583"
+    },
+    {
+      "id": "11.17.08.2003",
+      "name": "Suku Bener",
+      "postal_code": "24583"
+    },
+    {
+      "id": "11.17.08.2004",
+      "name": "Bener Lukup II",
+      "postal_code": "24583"
+    },
+    {
+      "id": "11.17.08.2005",
+      "name": "Gunung Musara",
+      "postal_code": "24583"
+    },
+    {
+      "id": "11.17.08.2006",
+      "name": "Bener Kelipah Selatan",
+      "postal_code": "24583"
+    },
+    {
+      "id": "11.17.08.2007",
+      "name": "Bintang Musara",
+      "postal_code": "24583"
+    },
+    {
+      "id": "11.17.08.2008",
+      "name": "Kala Tenang",
+      "postal_code": "24583"
+    },
+    {
+      "id": "11.17.08.2009",
+      "name": "Bener Kelipah Utara",
+      "postal_code": "24583"
+    },
+    {
+      "id": "11.17.08.2010",
+      "name": "Lot Bener Kelipah",
+      "postal_code": "24583"
+    },
+    {
+      "id": "11.17.08.2011",
+      "name": "Nosar Tawar Jaya",
+      "postal_code": "24583"
+    },
+    {
+      "id": "11.17.08.2012",
+      "name": "Nosar Baru",
+      "postal_code": "24583"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

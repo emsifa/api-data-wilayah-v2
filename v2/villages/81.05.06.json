@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "81.05.06.2001",
+      "name": "Danama",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.06.2002",
+      "name": "Kilmoy",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.06.2003",
+      "name": "Kilbat",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.06.2004",
+      "name": "Sesar",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.06.2005",
+      "name": "Airkasar",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.06.2006",
+      "name": "Waras-Waras",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.06.2007",
+      "name": "Gah",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.06.2008",
+      "name": "Walang Tenga",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.06.2009",
+      "name": "Bati Kilwouw",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.06.2010",
+      "name": "Taruy",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.06.2011",
+      "name": "Kufar",
+      "postal_code": "97594"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

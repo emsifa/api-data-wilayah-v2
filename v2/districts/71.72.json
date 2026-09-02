@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "71.72",
-    "name": "Kota Bitung",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
+  "data": [
+    {
+      "id": "71.72.01",
+      "name": "Lembeh Selatan"
     },
-    "regency": {
-      "id": "71.72",
-      "name": "Kota Bitung"
+    {
+      "id": "71.72.02",
+      "name": "Madidir"
+    },
+    {
+      "id": "71.72.03",
+      "name": "Ranowulu"
+    },
+    {
+      "id": "71.72.04",
+      "name": "Aertembaga"
+    },
+    {
+      "id": "71.72.05",
+      "name": "Matuari"
+    },
+    {
+      "id": "71.72.06",
+      "name": "Girian"
+    },
+    {
+      "id": "71.72.07",
+      "name": "Maesa"
+    },
+    {
+      "id": "71.72.08",
+      "name": "Lembeh Utara"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

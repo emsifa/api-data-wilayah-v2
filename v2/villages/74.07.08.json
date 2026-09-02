@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "74.07.08.1003",
+      "name": "Sowa",
+      "postal_code": "93796"
+    },
+    {
+      "id": "74.07.08.1004",
+      "name": "Popalia",
+      "postal_code": "93796"
+    },
+    {
+      "id": "74.07.08.2001",
+      "name": "Waloindi",
+      "postal_code": "93796"
+    },
+    {
+      "id": "74.07.08.2002",
+      "name": "Oihu",
+      "postal_code": "93796"
+    },
+    {
+      "id": "74.07.08.2005",
+      "name": "Haka",
+      "postal_code": "93796"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

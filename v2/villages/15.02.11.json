@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "15.02.11.2001",
+      "name": "Sungai Ulak",
+      "postal_code": "37317"
+    },
+    {
+      "id": "15.02.11.2002",
+      "name": "Aur Berduri",
+      "postal_code": "37317"
+    },
+    {
+      "id": "15.02.11.2003",
+      "name": "Telun",
+      "postal_code": "37317"
+    },
+    {
+      "id": "15.02.11.2004",
+      "name": "Nalo Gedang",
+      "postal_code": "37317"
+    },
+    {
+      "id": "15.02.11.2005",
+      "name": "Baru Nalo",
+      "postal_code": "37317"
+    },
+    {
+      "id": "15.02.11.2006",
+      "name": "Mentawak",
+      "postal_code": "37317"
+    },
+    {
+      "id": "15.02.11.2007",
+      "name": "Danau",
+      "postal_code": "37317"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

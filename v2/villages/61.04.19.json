@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "61.04.19.2001",
+      "name": "Menyumbung",
+      "postal_code": "78871"
+    },
+    {
+      "id": "61.04.19.2002",
+      "name": "Senduruhan",
+      "postal_code": "78871"
+    },
+    {
+      "id": "61.04.19.2003",
+      "name": "Cinta Manis",
+      "postal_code": "78871"
+    },
+    {
+      "id": "61.04.19.2004",
+      "name": "Beginci Darat",
+      "postal_code": "78871"
+    },
+    {
+      "id": "61.04.19.2005",
+      "name": "Benua Krio",
+      "postal_code": "78871"
+    },
+    {
+      "id": "61.04.19.2006",
+      "name": "Riam Dadap",
+      "postal_code": "78871"
+    },
+    {
+      "id": "61.04.19.2007",
+      "name": "Sekukun",
+      "postal_code": "78871"
+    },
+    {
+      "id": "61.04.19.2008",
+      "name": "Batu Lapis",
+      "postal_code": "78871"
+    },
+    {
+      "id": "61.04.19.2009",
+      "name": "Krio Hulu",
+      "postal_code": "78871"
+    },
+    {
+      "id": "61.04.19.2010",
+      "name": "Kenyabur",
+      "postal_code": "78871"
+    },
+    {
+      "id": "61.04.19.2011",
+      "name": "Sunge Bengaras",
+      "postal_code": "78871"
+    },
+    {
+      "id": "61.04.19.2012",
+      "name": "Lubuk Kakap",
+      "postal_code": "78871"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

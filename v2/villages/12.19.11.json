@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.19.11.2001",
+      "name": "Sumber Tani",
+      "postal_code": "21254"
+    },
+    {
+      "id": "12.19.11.2002",
+      "name": "Sei Muka",
+      "postal_code": "21254"
+    },
+    {
+      "id": "12.19.11.2003",
+      "name": "Perkebunan Tanah Datar",
+      "postal_code": "21254"
+    },
+    {
+      "id": "12.19.11.2004",
+      "name": "Binjai Baru",
+      "postal_code": "21254"
+    },
+    {
+      "id": "12.19.11.2005",
+      "name": "Bangun Sari",
+      "postal_code": "21254"
+    },
+    {
+      "id": "12.19.11.2006",
+      "name": "Karang Baru",
+      "postal_code": "21254"
+    },
+    {
+      "id": "12.19.11.2007",
+      "name": "Perkebunan Petatal",
+      "postal_code": "21254"
+    },
+    {
+      "id": "12.19.11.2008",
+      "name": "Mekar Baru",
+      "postal_code": "21254"
+    },
+    {
+      "id": "12.19.11.2009",
+      "name": "Petatal",
+      "postal_code": "21254"
+    },
+    {
+      "id": "12.19.11.2010",
+      "name": "Glugur Makmur",
+      "postal_code": "21254"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

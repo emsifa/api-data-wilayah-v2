@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "91.06.10.2001",
+      "name": "Pai",
+      "postal_code": "98556"
+    },
+    {
+      "id": "91.06.10.2002",
+      "name": "Auki",
+      "postal_code": "98556"
+    },
+    {
+      "id": "91.06.10.2003",
+      "name": "Wundi",
+      "postal_code": "98556"
+    },
+    {
+      "id": "91.06.10.2004",
+      "name": "Nusi Babaruk",
+      "postal_code": "98556"
+    },
+    {
+      "id": "91.06.10.2005",
+      "name": "Nusi",
+      "postal_code": "98556"
+    },
+    {
+      "id": "91.06.10.2014",
+      "name": "Inbeyomi",
+      "postal_code": "98556"
+    },
+    {
+      "id": "91.06.10.2015",
+      "name": "Sorina",
+      "postal_code": "98556"
+    },
+    {
+      "id": "91.06.10.2016",
+      "name": "Sandidori",
+      "postal_code": "98556"
+    },
+    {
+      "id": "91.06.10.2020",
+      "name": "Paidori",
+      "postal_code": "98556"
+    },
+    {
+      "id": "91.06.10.2021",
+      "name": "Kanai",
+      "postal_code": "98556"
+    },
+    {
+      "id": "91.06.10.2022",
+      "name": "Sokani",
+      "postal_code": "98556"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

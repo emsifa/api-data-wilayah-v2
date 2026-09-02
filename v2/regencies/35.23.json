@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "35.23",
+    "name": "Kabupaten Tuban",
+    "capital": "Tuban",
+    "lat": -6.8961044097904685,
+    "lng": 112.06506272537278,
+    "elv": 6,
+    "tz": 7,
+    "population": 1266396,
+    "total_area": 1973.515,
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

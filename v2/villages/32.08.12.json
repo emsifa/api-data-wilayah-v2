@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "32.08.12.2001",
+      "name": "Sukamukti",
+      "postal_code": "45554"
+    },
+    {
+      "id": "32.08.12.2002",
+      "name": "Sidamulya",
+      "postal_code": "45554"
+    },
+    {
+      "id": "32.08.12.2003",
+      "name": "Jalaksana",
+      "postal_code": "45554"
+    },
+    {
+      "id": "32.08.12.2004",
+      "name": "Sangkanerang",
+      "postal_code": "45554"
+    },
+    {
+      "id": "32.08.12.2005",
+      "name": "Sayana",
+      "postal_code": "45554"
+    },
+    {
+      "id": "32.08.12.2006",
+      "name": "Peusing",
+      "postal_code": "45554"
+    },
+    {
+      "id": "32.08.12.2007",
+      "name": "Sembawa",
+      "postal_code": "45554"
+    },
+    {
+      "id": "32.08.12.2008",
+      "name": "Sadamantra",
+      "postal_code": "45554"
+    },
+    {
+      "id": "32.08.12.2009",
+      "name": "Maniskidul",
+      "postal_code": "45554"
+    },
+    {
+      "id": "32.08.12.2010",
+      "name": "Manislor",
+      "postal_code": "45554"
+    },
+    {
+      "id": "32.08.12.2011",
+      "name": "Ciniru",
+      "postal_code": "45554"
+    },
+    {
+      "id": "32.08.12.2012",
+      "name": "Padamenak",
+      "postal_code": "45554"
+    },
+    {
+      "id": "32.08.12.2013",
+      "name": "Babakanmulya",
+      "postal_code": "45554"
+    },
+    {
+      "id": "32.08.12.2014",
+      "name": "Sindangbarang",
+      "postal_code": "45554"
+    },
+    {
+      "id": "32.08.12.2015",
+      "name": "Nanggerang",
+      "postal_code": "45553"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

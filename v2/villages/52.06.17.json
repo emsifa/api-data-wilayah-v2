@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "52.06.17.2001",
+      "name": "Kaboro",
+      "postal_code": "84181"
+    },
+    {
+      "id": "52.06.17.2002",
+      "name": "Kuta",
+      "postal_code": "84181"
+    },
+    {
+      "id": "52.06.17.2003",
+      "name": "Sambori",
+      "postal_code": "84181"
+    },
+    {
+      "id": "52.06.17.2004",
+      "name": "Teta",
+      "postal_code": "84181"
+    },
+    {
+      "id": "52.06.17.2005",
+      "name": "Kaowa",
+      "postal_code": "84181"
+    },
+    {
+      "id": "52.06.17.2006",
+      "name": "Londu",
+      "postal_code": "84181"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

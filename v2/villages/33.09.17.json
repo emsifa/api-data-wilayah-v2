@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "33.09.17.2001",
+      "name": "Watugede",
+      "postal_code": "57383"
+    },
+    {
+      "id": "33.09.17.2002",
+      "name": "Kedungrejo",
+      "postal_code": "57383"
+    },
+    {
+      "id": "33.09.17.2003",
+      "name": "Sarimulyo",
+      "postal_code": "57383"
+    },
+    {
+      "id": "33.09.17.2004",
+      "name": "Klewor",
+      "postal_code": "57383"
+    },
+    {
+      "id": "33.09.17.2005",
+      "name": "Bawu",
+      "postal_code": "57383"
+    },
+    {
+      "id": "33.09.17.2006",
+      "name": "Kendel",
+      "postal_code": "57383"
+    },
+    {
+      "id": "33.09.17.2010",
+      "name": "Kemusu",
+      "postal_code": "57383"
+    },
+    {
+      "id": "33.09.17.2011",
+      "name": "Genengsari",
+      "postal_code": "57383"
+    },
+    {
+      "id": "33.09.17.2012",
+      "name": "Kedungmulyo",
+      "postal_code": "57383"
+    },
+    {
+      "id": "33.09.17.2013",
+      "name": "Wonoharjo",
+      "postal_code": "57383"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

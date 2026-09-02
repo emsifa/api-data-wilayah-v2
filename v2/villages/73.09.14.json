@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "73.09.14.1001",
+      "name": "Pettuadae",
+      "postal_code": "90516"
+    },
+    {
+      "id": "73.09.14.1002",
+      "name": "Boribellayya",
+      "postal_code": "90512"
+    },
+    {
+      "id": "73.09.14.1003",
+      "name": "Alliritengae",
+      "postal_code": "90511"
+    },
+    {
+      "id": "73.09.14.1004",
+      "name": "Turikale",
+      "postal_code": "90511"
+    },
+    {
+      "id": "73.09.14.1005",
+      "name": "Taroada",
+      "postal_code": "90516"
+    },
+    {
+      "id": "73.09.14.1006",
+      "name": "Raya",
+      "postal_code": "90511"
+    },
+    {
+      "id": "73.09.14.1007",
+      "name": "Adatongeng",
+      "postal_code": "90516"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

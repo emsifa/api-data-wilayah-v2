@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "61.01.09.2001",
+      "name": "Kaliau'",
+      "postal_code": "79467"
+    },
+    {
+      "id": "61.01.09.2002",
+      "name": "Sebunga",
+      "postal_code": "79467"
+    },
+    {
+      "id": "61.01.09.2003",
+      "name": "Santaban",
+      "postal_code": "79467"
+    },
+    {
+      "id": "61.01.09.2004",
+      "name": "Sanatab",
+      "postal_code": "79467"
+    },
+    {
+      "id": "61.01.09.2005",
+      "name": "Sungai Bening",
+      "postal_code": "79467"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

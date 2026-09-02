@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "53.12.15.1001",
+      "name": "Wailiang",
+      "postal_code": "87212"
+    },
+    {
+      "id": "53.12.15.1002",
+      "name": "Komerda",
+      "postal_code": "87211"
+    },
+    {
+      "id": "53.12.15.1003",
+      "name": "Kampung Baru",
+      "postal_code": "87214"
+    },
+    {
+      "id": "53.12.15.1004",
+      "name": "Kampung Sawah",
+      "postal_code": "87213"
+    },
+    {
+      "id": "53.12.15.1008",
+      "name": "Pada Eweta",
+      "postal_code": "87217"
+    },
+    {
+      "id": "53.12.15.1009",
+      "name": "Maliti",
+      "postal_code": "87217"
+    },
+    {
+      "id": "53.12.15.2005",
+      "name": "Kodaka",
+      "postal_code": "87215"
+    },
+    {
+      "id": "53.12.15.2006",
+      "name": "Tebara",
+      "postal_code": "87216"
+    },
+    {
+      "id": "53.12.15.2007",
+      "name": "Kalembu Kuni",
+      "postal_code": "87217"
+    },
+    {
+      "id": "53.12.15.2010",
+      "name": "Soba Rade",
+      "postal_code": "87217"
+    },
+    {
+      "id": "53.12.15.2011",
+      "name": "Lapale",
+      "postal_code": "87217"
+    },
+    {
+      "id": "53.12.15.2012",
+      "name": "Modu Waimaringu",
+      "postal_code": "87212"
+    },
+    {
+      "id": "53.12.15.2013",
+      "name": "Puu Mawo",
+      "postal_code": "87212"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

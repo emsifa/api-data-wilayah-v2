@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "36.04.06.2001",
+      "name": "Waringinkurung",
+      "postal_code": "42453"
+    },
+    {
+      "id": "36.04.06.2002",
+      "name": "Talaga Luhur",
+      "postal_code": "42453"
+    },
+    {
+      "id": "36.04.06.2003",
+      "name": "Binangun",
+      "postal_code": "42453"
+    },
+    {
+      "id": "36.04.06.2004",
+      "name": "Melati",
+      "postal_code": "42453"
+    },
+    {
+      "id": "36.04.06.2005",
+      "name": "Sasahan",
+      "postal_code": "42453"
+    },
+    {
+      "id": "36.04.06.2006",
+      "name": "Sukadalem",
+      "postal_code": "42453"
+    },
+    {
+      "id": "36.04.06.2007",
+      "name": "Sukabares",
+      "postal_code": "42453"
+    },
+    {
+      "id": "36.04.06.2008",
+      "name": "Sambilawang",
+      "postal_code": "42453"
+    },
+    {
+      "id": "36.04.06.2009",
+      "name": "Sampir",
+      "postal_code": "42453"
+    },
+    {
+      "id": "36.04.06.2010",
+      "name": "Cokopsulanjana",
+      "postal_code": "42453"
+    },
+    {
+      "id": "36.04.06.2011",
+      "name": "Kemuning",
+      "postal_code": "42453"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

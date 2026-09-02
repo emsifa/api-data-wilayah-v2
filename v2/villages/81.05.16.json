@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "81.05.16.2001",
+      "name": "Urung",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.16.2002",
+      "name": "Kwamor Kecil Mata Ata",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.16.2003",
+      "name": "Kwamor Kecil Mata Wawa",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.16.2004",
+      "name": "Kwamor Besar Ena",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.16.2005",
+      "name": "Kwamor Besar Witau",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.16.2006",
+      "name": "Guli-Guli",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.16.2007",
+      "name": "Manggis",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.16.2008",
+      "name": "Ainena",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.16.2009",
+      "name": "Mugusinis",
+      "postal_code": "97594"
+    },
+    {
+      "id": "81.05.16.2010",
+      "name": "Akat Fadedo",
+      "postal_code": "97594"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

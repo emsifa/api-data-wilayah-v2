@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "95.02.29.2001",
+      "name": "Mot",
+      "postal_code": "99443"
+    },
+    {
+      "id": "95.02.29.2002",
+      "name": "Milki",
+      "postal_code": "99443"
+    },
+    {
+      "id": "95.02.29.2003",
+      "name": "Yubu",
+      "postal_code": "99443"
+    },
+    {
+      "id": "95.02.29.2004",
+      "name": "Muara Asbi",
+      "postal_code": "99443"
+    },
+    {
+      "id": "95.02.29.2005",
+      "name": "Tual",
+      "postal_code": "99443"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

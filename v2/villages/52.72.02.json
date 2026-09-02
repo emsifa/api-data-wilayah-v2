@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "52.72.02.1004",
+      "name": "Kumbe",
+      "postal_code": "84114"
+    },
+    {
+      "id": "52.72.02.1008",
+      "name": "Lampe",
+      "postal_code": "84119"
+    },
+    {
+      "id": "52.72.02.1009",
+      "name": "Dodu",
+      "postal_code": "84119"
+    },
+    {
+      "id": "52.72.02.1011",
+      "name": "Nungga",
+      "postal_code": "84119"
+    },
+    {
+      "id": "52.72.02.1018",
+      "name": "Kodo",
+      "postal_code": "84119"
+    },
+    {
+      "id": "52.72.02.1019",
+      "name": "Oi Fo'o",
+      "postal_code": "84119"
+    },
+    {
+      "id": "52.72.02.1020",
+      "name": "Lelamase",
+      "postal_code": "84119"
+    },
+    {
+      "id": "52.72.02.1021",
+      "name": "Oimbo",
+      "postal_code": "84114"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

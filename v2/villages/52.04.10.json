@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "52.04.10.2001",
+      "name": "Sempe",
+      "postal_code": "84371"
+    },
+    {
+      "id": "52.04.10.2002",
+      "name": "Semamung",
+      "postal_code": "84371"
+    },
+    {
+      "id": "52.04.10.2003",
+      "name": "Sebasang",
+      "postal_code": "84371"
+    },
+    {
+      "id": "52.04.10.2004",
+      "name": "Batu Tering",
+      "postal_code": "84371"
+    },
+    {
+      "id": "52.04.10.2005",
+      "name": "Batu Bulan",
+      "postal_code": "84371"
+    },
+    {
+      "id": "52.04.10.2006",
+      "name": "Mokong",
+      "postal_code": "84371"
+    },
+    {
+      "id": "52.04.10.2007",
+      "name": "Pernek",
+      "postal_code": "84371"
+    },
+    {
+      "id": "52.04.10.2008",
+      "name": "Leseng",
+      "postal_code": "84371"
+    },
+    {
+      "id": "52.04.10.2009",
+      "name": "Lito",
+      "postal_code": "84371"
+    },
+    {
+      "id": "52.04.10.2010",
+      "name": "Marga Karya",
+      "postal_code": "84371"
+    },
+    {
+      "id": "52.04.10.2011",
+      "name": "Maman",
+      "postal_code": "84371"
+    },
+    {
+      "id": "52.04.10.2012",
+      "name": "Brang Rea",
+      "postal_code": "84371"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

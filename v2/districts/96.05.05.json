@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "96.05.05",
+    "name": "Aitinyo Barat",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.05",
+      "name": "Kabupaten Maybrat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "53.13.09.2001",
+      "name": "Todanara",
+      "postal_code": "86687"
+    },
+    {
+      "id": "53.13.09.2002",
+      "name": "Jontona",
+      "postal_code": "86687"
+    },
+    {
+      "id": "53.13.09.2003",
+      "name": "Lamawolo",
+      "postal_code": "86687"
+    },
+    {
+      "id": "53.13.09.2004",
+      "name": "Lamatokan",
+      "postal_code": "86687"
+    },
+    {
+      "id": "53.13.09.2005",
+      "name": "Bao Lali Duli",
+      "postal_code": "86687"
+    },
+    {
+      "id": "53.13.09.2006",
+      "name": "Lamaau",
+      "postal_code": "86687"
+    },
+    {
+      "id": "53.13.09.2007",
+      "name": "Aulesa",
+      "postal_code": "86687"
+    },
+    {
+      "id": "53.13.09.2008",
+      "name": "Waimatan",
+      "postal_code": "86687"
+    },
+    {
+      "id": "53.13.09.2009",
+      "name": "Lamagute",
+      "postal_code": "86687"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

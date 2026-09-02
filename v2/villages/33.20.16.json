@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "33.20.16.2001",
+      "name": "Sumberrejo",
+      "postal_code": "59454"
+    },
+    {
+      "id": "33.20.16.2002",
+      "name": "Clering",
+      "postal_code": "59454"
+    },
+    {
+      "id": "33.20.16.2003",
+      "name": "Ujungwatu",
+      "postal_code": "59454"
+    },
+    {
+      "id": "33.20.16.2004",
+      "name": "Banyumanis",
+      "postal_code": "59454"
+    },
+    {
+      "id": "33.20.16.2005",
+      "name": "Tulakan",
+      "postal_code": "59454"
+    },
+    {
+      "id": "33.20.16.2006",
+      "name": "Bandungharjo",
+      "postal_code": "59454"
+    },
+    {
+      "id": "33.20.16.2007",
+      "name": "Blingoh",
+      "postal_code": "59454"
+    },
+    {
+      "id": "33.20.16.2008",
+      "name": "Jugo",
+      "postal_code": "59454"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

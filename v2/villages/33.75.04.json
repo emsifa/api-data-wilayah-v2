@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "33.75.04.1002",
+      "name": "Banyurip",
+      "postal_code": "51139"
+    },
+    {
+      "id": "33.75.04.1003",
+      "name": "Buaran Kradenan",
+      "postal_code": "51132"
+    },
+    {
+      "id": "33.75.04.1004",
+      "name": "Jenggot",
+      "postal_code": "51133"
+    },
+    {
+      "id": "33.75.04.1006",
+      "name": "Kuripan Kertoharjo",
+      "postal_code": "51134"
+    },
+    {
+      "id": "33.75.04.1008",
+      "name": "Kuripan Yosorejo",
+      "postal_code": "51135"
+    },
+    {
+      "id": "33.75.04.1010",
+      "name": "Sokoduwet",
+      "postal_code": "51138"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

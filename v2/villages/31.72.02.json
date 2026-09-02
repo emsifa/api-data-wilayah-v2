@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "31.72.02.1001",
+      "name": "Tanjung Priok",
+      "postal_code": "14310"
+    },
+    {
+      "id": "31.72.02.1002",
+      "name": "Sunter Jaya",
+      "postal_code": "14360"
+    },
+    {
+      "id": "31.72.02.1003",
+      "name": "Papanggo",
+      "postal_code": "14340"
+    },
+    {
+      "id": "31.72.02.1004",
+      "name": "Sungai Bambu",
+      "postal_code": "14330"
+    },
+    {
+      "id": "31.72.02.1005",
+      "name": "Kebon Bawang",
+      "postal_code": "14320"
+    },
+    {
+      "id": "31.72.02.1006",
+      "name": "Sunter Agung",
+      "postal_code": "14350"
+    },
+    {
+      "id": "31.72.02.1007",
+      "name": "Warakas",
+      "postal_code": "14370"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "36.71.01.1001",
+      "name": "Sukarasa",
+      "postal_code": "15111"
+    },
+    {
+      "id": "36.71.01.1002",
+      "name": "Sukaasih",
+      "postal_code": "15111"
+    },
+    {
+      "id": "36.71.01.1003",
+      "name": "Tanah Tinggi",
+      "postal_code": "15119"
+    },
+    {
+      "id": "36.71.01.1004",
+      "name": "Buaran Indah",
+      "postal_code": "15119"
+    },
+    {
+      "id": "36.71.01.1005",
+      "name": "Cikokol",
+      "postal_code": "15117"
+    },
+    {
+      "id": "36.71.01.1006",
+      "name": "Kelapa Indah",
+      "postal_code": "15117"
+    },
+    {
+      "id": "36.71.01.1007",
+      "name": "Sukasari",
+      "postal_code": "15118"
+    },
+    {
+      "id": "36.71.01.1008",
+      "name": "Babakan",
+      "postal_code": "15118"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

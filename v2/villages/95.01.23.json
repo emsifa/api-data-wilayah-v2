@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "95.01.23.2001",
+      "name": "Muliama",
+      "postal_code": "99522"
+    },
+    {
+      "id": "95.01.23.2002",
+      "name": "Wenabubaga",
+      "postal_code": "99522"
+    },
+    {
+      "id": "95.01.23.2003",
+      "name": "Kilubaga",
+      "postal_code": "99522"
+    },
+    {
+      "id": "95.01.23.2004",
+      "name": "Musalfak",
+      "postal_code": "99522"
+    },
+    {
+      "id": "95.01.23.2005",
+      "name": "Punakul",
+      "postal_code": "99522"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

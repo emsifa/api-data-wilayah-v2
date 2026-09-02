@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "11.09.10.2001",
+      "name": "Bubuhan",
+      "postal_code": "23895"
+    },
+    {
+      "id": "11.09.10.2002",
+      "name": "Amarabu",
+      "postal_code": "23895"
+    },
+    {
+      "id": "11.09.10.2003",
+      "name": "Kuta Inang",
+      "postal_code": "23895"
+    },
+    {
+      "id": "11.09.10.2004",
+      "name": "Kuta Padang",
+      "postal_code": "23895"
+    },
+    {
+      "id": "11.09.10.2005",
+      "name": "Sibuluh",
+      "postal_code": "23895"
+    },
+    {
+      "id": "11.09.10.2006",
+      "name": "Latak Ayah",
+      "postal_code": "23895"
+    },
+    {
+      "id": "11.09.10.2007",
+      "name": "Borengan",
+      "postal_code": "23895"
+    },
+    {
+      "id": "11.09.10.2008",
+      "name": "Ujung Padang",
+      "postal_code": "23895"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "33.74.11.1001",
+      "name": "Pudakpayung",
+      "postal_code": "50265"
+    },
+    {
+      "id": "33.74.11.1002",
+      "name": "Gedawang",
+      "postal_code": "50266"
+    },
+    {
+      "id": "33.74.11.1003",
+      "name": "Jabungan",
+      "postal_code": "50266"
+    },
+    {
+      "id": "33.74.11.1004",
+      "name": "Pedalangan",
+      "postal_code": "50268"
+    },
+    {
+      "id": "33.74.11.1005",
+      "name": "Banyumanik",
+      "postal_code": "50264"
+    },
+    {
+      "id": "33.74.11.1006",
+      "name": "Srondol Kulon",
+      "postal_code": "50263"
+    },
+    {
+      "id": "33.74.11.1007",
+      "name": "Srondol Wetan",
+      "postal_code": "50263"
+    },
+    {
+      "id": "33.74.11.1008",
+      "name": "Ngesrep",
+      "postal_code": "50261"
+    },
+    {
+      "id": "33.74.11.1009",
+      "name": "Tinjomoyo",
+      "postal_code": "50262"
+    },
+    {
+      "id": "33.74.11.1010",
+      "name": "Padangsari",
+      "postal_code": "50267"
+    },
+    {
+      "id": "33.74.11.1011",
+      "name": "Sumurboto",
+      "postal_code": "50269"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

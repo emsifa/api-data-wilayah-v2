@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "32.01.18.2001",
+      "name": "Rumpin",
+      "postal_code": "16350"
+    },
+    {
+      "id": "32.01.18.2002",
+      "name": "Leuwibatu",
+      "postal_code": "16350"
+    },
+    {
+      "id": "32.01.18.2003",
+      "name": "Cidokom",
+      "postal_code": "16350"
+    },
+    {
+      "id": "32.01.18.2004",
+      "name": "Gobang",
+      "postal_code": "16350"
+    },
+    {
+      "id": "32.01.18.2005",
+      "name": "Cibodas",
+      "postal_code": "16350"
+    },
+    {
+      "id": "32.01.18.2006",
+      "name": "Rabak",
+      "postal_code": "16350"
+    },
+    {
+      "id": "32.01.18.2007",
+      "name": "Kampung Sawah",
+      "postal_code": "16350"
+    },
+    {
+      "id": "32.01.18.2008",
+      "name": "Cipinang",
+      "postal_code": "16350"
+    },
+    {
+      "id": "32.01.18.2009",
+      "name": "Sukasari",
+      "postal_code": "16350"
+    },
+    {
+      "id": "32.01.18.2010",
+      "name": "Tamansari",
+      "postal_code": "16350"
+    },
+    {
+      "id": "32.01.18.2011",
+      "name": "Kertajaya",
+      "postal_code": "16350"
+    },
+    {
+      "id": "32.01.18.2012",
+      "name": "Sukamulya",
+      "postal_code": "16350"
+    },
+    {
+      "id": "32.01.18.2013",
+      "name": "Mekarsari",
+      "postal_code": "16350"
+    },
+    {
+      "id": "32.01.18.2014",
+      "name": "Mekarjaya",
+      "postal_code": "16350"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

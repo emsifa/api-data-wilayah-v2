@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.13.07.2004",
+      "name": "Gunungsembung",
+      "postal_code": "41251"
+    },
+    {
+      "id": "32.13.07.2005",
+      "name": "Gembor",
+      "postal_code": "41251"
+    },
+    {
+      "id": "32.13.07.2006",
+      "name": "Kamarung",
+      "postal_code": "41251"
+    },
+    {
+      "id": "32.13.07.2010",
+      "name": "Gambarsari",
+      "postal_code": "41251"
+    },
+    {
+      "id": "32.13.07.2011",
+      "name": "Pagaden",
+      "postal_code": "41251"
+    },
+    {
+      "id": "32.13.07.2012",
+      "name": "Sukamulya",
+      "postal_code": "41251"
+    },
+    {
+      "id": "32.13.07.2013",
+      "name": "Neglasari",
+      "postal_code": "41251"
+    },
+    {
+      "id": "32.13.07.2014",
+      "name": "Sumbersari",
+      "postal_code": "41251"
+    },
+    {
+      "id": "32.13.07.2015",
+      "name": "Gunungsari",
+      "postal_code": "41251"
+    },
+    {
+      "id": "32.13.07.2019",
+      "name": "Jabong",
+      "postal_code": "41251"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

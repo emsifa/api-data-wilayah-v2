@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.15.09.2001",
+      "name": "Sabajaya",
+      "postal_code": "41357"
+    },
+    {
+      "id": "32.15.09.2002",
+      "name": "Pisangsambo",
+      "postal_code": "41357"
+    },
+    {
+      "id": "32.15.09.2003",
+      "name": "Gempolkarya",
+      "postal_code": "41357"
+    },
+    {
+      "id": "32.15.09.2004",
+      "name": "Medankarya",
+      "postal_code": "41357"
+    },
+    {
+      "id": "32.15.09.2005",
+      "name": "Tambaksumur",
+      "postal_code": "41357"
+    },
+    {
+      "id": "32.15.09.2006",
+      "name": "Tambaksari",
+      "postal_code": "41357"
+    },
+    {
+      "id": "32.15.09.2007",
+      "name": "Sumurlaban",
+      "postal_code": "41357"
+    },
+    {
+      "id": "32.15.09.2008",
+      "name": "Srijaya",
+      "postal_code": "41357"
+    },
+    {
+      "id": "32.15.09.2009",
+      "name": "Kutamakmur",
+      "postal_code": "41357"
+    },
+    {
+      "id": "32.15.09.2010",
+      "name": "Bolang",
+      "postal_code": "41357"
+    },
+    {
+      "id": "32.15.09.2011",
+      "name": "Srikamulyan",
+      "postal_code": "41357"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "31.75",
+    "name": "Kota Administrasi Jakarta Timur",
+    "capital": "Cakung",
+    "lat": -6.2136855478344994,
+    "lng": 106.9440075965323,
+    "elv": 12,
+    "tz": 7,
+    "population": 3230417,
+    "total_area": 185.538,
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "93.01.20.2001",
+      "name": "Wanam",
+      "postal_code": "99640"
+    },
+    {
+      "id": "93.01.20.2002",
+      "name": "Bibikem",
+      "postal_code": "99640"
+    },
+    {
+      "id": "93.01.20.2003",
+      "name": "Wogekel",
+      "postal_code": "99640"
+    },
+    {
+      "id": "93.01.20.2004",
+      "name": "Uli Uli",
+      "postal_code": "99640"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

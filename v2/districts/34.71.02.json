@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "34.71.02",
+    "name": "Jetis",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.71",
+      "name": "Kota Yogyakarta"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

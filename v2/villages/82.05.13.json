@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "82.05.13.2001",
+      "name": "Falabisahaya",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.13.2002",
+      "name": "Modapia",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.13.2003",
+      "name": "Modapuhi",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.13.2004",
+      "name": "Pastabulu",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.13.2005",
+      "name": "Saniahaya",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.13.2006",
+      "name": "Minaluli",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.13.2007",
+      "name": "Modapuhi Trans",
+      "postal_code": "97793"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

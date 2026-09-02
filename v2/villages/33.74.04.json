@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "33.74.04.1001",
+      "name": "Tambakrejo",
+      "postal_code": "50174"
+    },
+    {
+      "id": "33.74.04.1002",
+      "name": "Kaligawe",
+      "postal_code": "50164"
+    },
+    {
+      "id": "33.74.04.1003",
+      "name": "Sawah Besar",
+      "postal_code": "50163"
+    },
+    {
+      "id": "33.74.04.1004",
+      "name": "Sambirejo",
+      "postal_code": "50166"
+    },
+    {
+      "id": "33.74.04.1005",
+      "name": "Siwalan",
+      "postal_code": "50162"
+    },
+    {
+      "id": "33.74.04.1006",
+      "name": "Pandean Lamper",
+      "postal_code": "50249"
+    },
+    {
+      "id": "33.74.04.1007",
+      "name": "Gayamsari",
+      "postal_code": "50248"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

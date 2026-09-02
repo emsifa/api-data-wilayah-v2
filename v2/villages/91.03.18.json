@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "91.03.18.2001",
+      "name": "Omon",
+      "postal_code": "99357"
+    },
+    {
+      "id": "91.03.18.2003",
+      "name": "Klaisu",
+      "postal_code": "99357"
+    },
+    {
+      "id": "91.03.18.2004",
+      "name": "Bangai",
+      "postal_code": "99357"
+    },
+    {
+      "id": "91.03.18.3002",
+      "name": "Desa Adat Iwon",
+      "postal_code": "99357"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

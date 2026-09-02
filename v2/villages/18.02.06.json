@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "18.02.06.2001",
+      "name": "Nunggal Rejo",
+      "postal_code": "34152"
+    },
+    {
+      "id": "18.02.06.2002",
+      "name": "Badran Sari",
+      "postal_code": "34152"
+    },
+    {
+      "id": "18.02.06.2003",
+      "name": "Sri Sawahan",
+      "postal_code": "34152"
+    },
+    {
+      "id": "18.02.06.2004",
+      "name": "Toto Katon",
+      "postal_code": "34152"
+    },
+    {
+      "id": "18.02.06.2005",
+      "name": "Tanggul Angin",
+      "postal_code": "34152"
+    },
+    {
+      "id": "18.02.06.2006",
+      "name": "Ngesti Rahayu",
+      "postal_code": "34152"
+    },
+    {
+      "id": "18.02.06.2007",
+      "name": "Mojopahit",
+      "postal_code": "34152"
+    },
+    {
+      "id": "18.02.06.2008",
+      "name": "Asto Mulyo",
+      "postal_code": "34152"
+    },
+    {
+      "id": "18.02.06.2009",
+      "name": "Sido Mulyo",
+      "postal_code": "34152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

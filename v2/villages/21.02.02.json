@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "21.02.02.1001",
+      "name": "Tanjung Batu Barat",
+      "postal_code": "29662"
+    },
+    {
+      "id": "21.02.02.1002",
+      "name": "Tanjung Batu Kota",
+      "postal_code": "29662"
+    },
+    {
+      "id": "21.02.02.1009",
+      "name": "Gading Sari",
+      "postal_code": "29662"
+    },
+    {
+      "id": "21.02.02.2004",
+      "name": "Sungai Sebesi",
+      "postal_code": "29662"
+    },
+    {
+      "id": "21.02.02.2005",
+      "name": "Sungai Ungar",
+      "postal_code": "29662"
+    },
+    {
+      "id": "21.02.02.2006",
+      "name": "Lubuk",
+      "postal_code": "29662"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "36.03.23.1001",
+      "name": "Cisauk",
+      "postal_code": "15341"
+    },
+    {
+      "id": "36.03.23.2003",
+      "name": "Mekar Wangi",
+      "postal_code": "15340"
+    },
+    {
+      "id": "36.03.23.2005",
+      "name": "Suradita",
+      "postal_code": "15343"
+    },
+    {
+      "id": "36.03.23.2006",
+      "name": "Sampora",
+      "postal_code": "15345"
+    },
+    {
+      "id": "36.03.23.2009",
+      "name": "Dangdang",
+      "postal_code": "15342"
+    },
+    {
+      "id": "36.03.23.2011",
+      "name": "Cibogo",
+      "postal_code": "15344"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,21 +1,393 @@
 {
-  "data": {
-    "id": "33",
-    "name": "Jawa Tengah",
-    "capital": "Semarang",
-    "lat": -6.993480920680563,
-    "lng": 110.42024335420943,
-    "elv": 19,
-    "tz": 7,
-    "population": 38430645,
-    "total_area": 34347.428,
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
+  "data": [
+    {
+      "id": "33.01",
+      "name": "Kabupaten Cilacap",
+      "capital": "Cilacap",
+      "lat": -7.725598913851234,
+      "lng": 109.00953989681535,
+      "elv": 8,
+      "tz": 7,
+      "population": 2059748,
+      "total_area": 2325.173
+    },
+    {
+      "id": "33.02",
+      "name": "Kabupaten Banyumas",
+      "capital": "Purwokerto",
+      "lat": -7.4227990604767795,
+      "lng": 109.23008333914095,
+      "elv": 83,
+      "tz": 7,
+      "population": 1868446,
+      "total_area": 1391.153
+    },
+    {
+      "id": "33.03",
+      "name": "Kabupaten Purbalingga",
+      "capital": "Purbalingga",
+      "lat": -7.388814420295788,
+      "lng": 109.3640761679762,
+      "elv": 61,
+      "tz": 7,
+      "population": 1057750,
+      "total_area": 805.757
+    },
+    {
+      "id": "33.04",
+      "name": "Kabupaten Banjarnegara",
+      "capital": "Banjarnegara",
+      "lat": -7.395695390770286,
+      "lng": 109.69606973623053,
+      "elv": 300,
+      "tz": 7,
+      "population": 1071977,
+      "total_area": 1144.896
+    },
+    {
+      "id": "33.05",
+      "name": "Kabupaten Kebumen",
+      "capital": "Kebumen",
+      "lat": -7.668443736529897,
+      "lng": 109.65371583117799,
+      "elv": 29,
+      "tz": 7,
+      "population": 1446833,
+      "total_area": 1333.902
+    },
+    {
+      "id": "33.06",
+      "name": "Kabupaten Purworejo",
+      "capital": "Purworejo",
+      "lat": -7.713974600894097,
+      "lng": 110.00829855421505,
+      "elv": 69,
+      "tz": 7,
+      "population": 809651,
+      "total_area": 1081.763
+    },
+    {
+      "id": "33.07",
+      "name": "Kabupaten Wonosobo",
+      "capital": "Wonosobo",
+      "lat": -7.358331142315653,
+      "lng": 109.90516253886881,
+      "elv": 795,
+      "tz": 7,
+      "population": 945955,
+      "total_area": 1011.623
+    },
+    {
+      "id": "33.08",
+      "name": "Kabupaten Magelang",
+      "capital": "Mungkid",
+      "lat": -7.596984026372694,
+      "lng": 110.22353113036982,
+      "elv": 244,
+      "tz": 7,
+      "population": 1345662,
+      "total_area": 1129.983
+    },
+    {
+      "id": "33.09",
+      "name": "Kabupaten Boyolali",
+      "capital": "Boyolali",
+      "lat": -7.545656104163497,
+      "lng": 110.61059579654192,
+      "elv": 371,
+      "tz": 7,
+      "population": 1114070,
+      "total_area": 1096.613
+    },
+    {
+      "id": "33.10",
+      "name": "Kabupaten Klaten",
+      "capital": "Klaten",
+      "lat": -7.712385036340197,
+      "lng": 110.59213566770745,
+      "elv": 164,
+      "tz": 7,
+      "population": 1302648,
+      "total_area": 701.511
+    },
+    {
+      "id": "33.11",
+      "name": "Kabupaten Sukoharjo",
+      "capital": "Sukoharjo",
+      "lat": -7.664598872152095,
+      "lng": 110.83586765421464,
+      "elv": 100,
+      "tz": 7,
+      "population": 916472,
+      "total_area": 493.601
+    },
+    {
+      "id": "33.12",
+      "name": "Kabupaten Wonogiri",
+      "capital": "Wonogiri",
+      "lat": -7.815058364755334,
+      "lng": 110.9256844677081,
+      "elv": 142,
+      "tz": 7,
+      "population": 1057495,
+      "total_area": 1905.823
+    },
+    {
+      "id": "33.13",
+      "name": "Kabupaten Karanganyar",
+      "capital": "Karanganyar",
+      "lat": -7.595516965884652,
+      "lng": 110.93964029654224,
+      "elv": 154,
+      "tz": 7,
+      "population": 953696,
+      "total_area": 802.848
+    },
+    {
+      "id": "33.14",
+      "name": "Kabupaten Sragen",
+      "capital": "Sragen",
+      "lat": -7.426354762546872,
+      "lng": 111.02317943886926,
+      "elv": 93,
+      "tz": 7,
+      "population": 1023538,
+      "total_area": 994.573
+    },
+    {
+      "id": "33.15",
+      "name": "Kabupaten Grobogan",
+      "capital": "Purwodadi",
+      "lat": -7.082058555310319,
+      "lng": 110.91737159653837,
+      "elv": 35,
+      "tz": 7,
+      "population": 1520974,
+      "total_area": 2023.849
+    },
+    {
+      "id": "33.16",
+      "name": "Kabupaten Blora",
+      "capital": "Blora",
+      "lat": -6.969718505731454,
+      "lng": 111.41492279653751,
+      "elv": 95,
+      "tz": 7,
+      "population": 927961,
+      "total_area": 1957.289
+    },
+    {
+      "id": "33.17",
+      "name": "Kabupaten Rembang",
+      "capital": "Rembang",
+      "lat": -6.703466029933058,
+      "lng": 111.34262144071498,
+      "elv": 9,
+      "tz": 7,
+      "population": 665501,
+      "total_area": 1038.32
+    },
+    {
+      "id": "33.18",
+      "name": "Kabupaten Pati",
+      "capital": "Pati",
+      "lat": -6.75222674353357,
+      "lng": 111.03994759653601,
+      "elv": 12,
+      "tz": 7,
+      "population": 1385904,
+      "total_area": 1576.69
+    },
+    {
+      "id": "33.19",
+      "name": "Kabupaten Kudus",
+      "capital": "Kudus",
+      "lat": -6.805651710957646,
+      "lng": 110.84219531187978,
+      "elv": 28,
+      "tz": 7,
+      "population": 877821,
+      "total_area": 447.445
+    },
+    {
+      "id": "33.20",
+      "name": "Kabupaten Jepara",
+      "capital": "Jepara",
+      "lat": -6.59009446252794,
+      "lng": 110.66812971187831,
+      "elv": 7,
+      "tz": 7,
+      "population": 1283687,
+      "total_area": 1020.124
+    },
+    {
+      "id": "33.21",
+      "name": "Kabupaten Demak",
+      "capital": "Demak",
+      "lat": -6.891354614610146,
+      "lng": 110.63838933886524,
+      "elv": 10,
+      "tz": 7,
+      "population": 1254204,
+      "total_area": 970.077
+    },
+    {
+      "id": "33.22",
+      "name": "Kabupaten Semarang",
+      "capital": "Ungaran",
+      "lat": -7.128957393445669,
+      "lng": 110.40409099653884,
+      "elv": 322,
+      "tz": 7,
+      "population": 1088729,
+      "total_area": 1019.27
+    },
+    {
+      "id": "33.23",
+      "name": "Kabupaten Temanggung",
+      "capital": "Temanggung",
+      "lat": -7.315316457103409,
+      "lng": 110.18189242537592,
+      "elv": 579,
+      "tz": 7,
+      "population": 822880,
+      "total_area": 864.834
+    },
+    {
+      "id": "33.24",
+      "name": "Kabupaten Kendal",
+      "capital": "Kendal",
+      "lat": -6.922836880283628,
+      "lng": 110.20356709653716,
+      "elv": 9,
+      "tz": 7,
+      "population": 1094214,
+      "total_area": 1006.174
+    },
+    {
+      "id": "33.25",
+      "name": "Kabupaten Batang",
+      "capital": "Batang",
+      "lat": -6.910710871962525,
+      "lng": 109.72968238304469,
+      "elv": 9,
+      "tz": 7,
+      "population": 855878,
+      "total_area": 857.073
+    },
+    {
+      "id": "33.26",
+      "name": "Kabupaten Pekalongan",
+      "capital": "Kajen",
+      "lat": -7.0250357325518875,
+      "lng": 109.59114532537376,
+      "elv": 46,
+      "tz": 7,
+      "population": 1034241,
+      "total_area": 892.578
+    },
+    {
+      "id": "33.27",
+      "name": "Kabupaten Pemalang",
+      "capital": "Pemalang",
+      "lat": -6.893151410423199,
+      "lng": 109.38071935420861,
+      "elv": 11,
+      "tz": 7,
+      "population": 1601007,
+      "total_area": 1135.757
+    },
+    {
+      "id": "33.28",
+      "name": "Kabupaten Tegal",
+      "capital": "Slawi",
+      "lat": -6.995407828046843,
+      "lng": 109.12789492537367,
+      "elv": 47,
+      "tz": 7,
+      "population": 1745278,
+      "total_area": 983.713
+    },
+    {
+      "id": "33.29",
+      "name": "Kabupaten Brebes",
+      "capital": "Brebes",
+      "lat": -6.870110551867783,
+      "lng": 109.03921083886512,
+      "elv": 8,
+      "tz": 7,
+      "population": 2066426,
+      "total_area": 1754.77
+    },
+    {
+      "id": "33.71",
+      "name": "Kota Magelang",
+      "capital": "Magelang",
+      "lat": -7.50371096633142,
+      "lng": 110.22147082537745,
+      "elv": 348,
+      "tz": 7,
+      "population": 128709,
+      "total_area": 18.558
+    },
+    {
+      "id": "33.72",
+      "name": "Kota Surakarta",
+      "capital": "Surakarta",
+      "lat": -7.569260552279098,
+      "lng": 110.82945951003452,
+      "elv": 95,
+      "tz": 7,
+      "population": 589242,
+      "total_area": 46.802
+    },
+    {
+      "id": "33.73",
+      "name": "Kota Salatiga",
+      "capital": "Salatiga",
+      "lat": -7.33043714839692,
+      "lng": 110.5008298965402,
+      "elv": 584,
+      "tz": 7,
+      "population": 198971,
+      "total_area": 54.983
+    },
+    {
+      "id": "33.74",
+      "name": "Kota Semarang",
+      "capital": "Semarang",
+      "lat": -6.98167961659711,
+      "lng": 110.4122341695528,
+      "elv": 11,
+      "tz": 7,
+      "population": 1702379,
+      "total_area": 374.747
+    },
+    {
+      "id": "33.75",
+      "name": "Kota Pekalongan",
+      "capital": "Pekalongan",
+      "lat": -6.896949717498735,
+      "lng": 109.66208089653703,
+      "elv": 9,
+      "tz": 7,
+      "population": 318221,
+      "total_area": 46.076
+    },
+    {
+      "id": "33.76",
+      "name": "Kota Tegal",
+      "capital": "Tegal",
+      "lat": -6.8704087484501155,
+      "lng": 109.13741611002918,
+      "elv": 6,
+      "tz": 7,
+      "population": 294477,
+      "total_area": 39.08
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:11Z",
+    "generated_at": "2026-09-02T03:39:51Z",
     "level": 2
   }
 }

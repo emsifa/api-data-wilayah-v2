@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "65.02.09.2001",
+      "name": "Dumu Mahak",
+      "postal_code": "77574"
+    },
+    {
+      "id": "65.02.09.2002",
+      "name": "Long Lebusan",
+      "postal_code": "77574"
+    },
+    {
+      "id": "65.02.09.2003",
+      "name": "Mahak Baru",
+      "postal_code": "77574"
+    },
+    {
+      "id": "65.02.09.2004",
+      "name": "Long Top",
+      "postal_code": "77574"
+    },
+    {
+      "id": "65.02.09.2005",
+      "name": "Agung Baru",
+      "postal_code": "77574"
+    },
+    {
+      "id": "65.02.09.2006",
+      "name": "Data Baru",
+      "postal_code": "77574"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

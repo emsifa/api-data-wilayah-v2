@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "18.71",
+    "name": "Kota Bandar Lampung",
+    "capital": "Bandar Lampung",
+    "lat": -5.429579213794452,
+    "lng": 105.26256765111627,
+    "elv": 90,
+    "tz": 7,
+    "population": 1077664,
+    "total_area": 183.719,
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

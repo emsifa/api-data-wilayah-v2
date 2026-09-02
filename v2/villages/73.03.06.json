@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.03.06.2001",
+      "name": "Bonto Marannu",
+      "postal_code": "92452"
+    },
+    {
+      "id": "73.03.06.2002",
+      "name": "Bonto Tangnga",
+      "postal_code": "92452"
+    },
+    {
+      "id": "73.03.06.2006",
+      "name": "Bonto Tallasa",
+      "postal_code": "92452"
+    },
+    {
+      "id": "73.03.06.2007",
+      "name": "Bonto Rannu",
+      "postal_code": "92452"
+    },
+    {
+      "id": "73.03.06.2010",
+      "name": "Bonto Daeng",
+      "postal_code": "92452"
+    },
+    {
+      "id": "73.03.06.2011",
+      "name": "Bonto Lojong",
+      "postal_code": "92452"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

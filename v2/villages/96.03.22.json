@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "96.03.22.2001",
+      "name": "Rauki",
+      "postal_code": "98487"
+    },
+    {
+      "id": "96.03.22.2002",
+      "name": "Urai",
+      "postal_code": "98487"
+    },
+    {
+      "id": "96.03.22.2003",
+      "name": "Duber",
+      "postal_code": "98487"
+    },
+    {
+      "id": "96.03.22.2004",
+      "name": "Kapadiri",
+      "postal_code": "98487"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "95.08.28.2001",
+      "name": "Moba",
+      "postal_code": "99926"
+    },
+    {
+      "id": "95.08.28.2002",
+      "name": "Gunea",
+      "postal_code": "99926"
+    },
+    {
+      "id": "95.08.28.2003",
+      "name": "Kwegono",
+      "postal_code": "99926"
+    },
+    {
+      "id": "95.08.28.2004",
+      "name": "Langpang",
+      "postal_code": "99926"
+    },
+    {
+      "id": "95.08.28.2005",
+      "name": "Yeretma",
+      "postal_code": "99926"
+    },
+    {
+      "id": "95.08.28.2006",
+      "name": "Anggulpa",
+      "postal_code": "99926"
+    },
+    {
+      "id": "95.08.28.2007",
+      "name": "Moba Dua",
+      "postal_code": "99926"
+    },
+    {
+      "id": "95.08.28.2008",
+      "name": "Pijama",
+      "postal_code": "99926"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

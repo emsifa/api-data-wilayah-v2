@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "34.71.02.1001",
+      "name": "Bumijo",
+      "postal_code": "55231"
+    },
+    {
+      "id": "34.71.02.1002",
+      "name": "Cokrodiningratan",
+      "postal_code": "55233"
+    },
+    {
+      "id": "34.71.02.1003",
+      "name": "Gowongan",
+      "postal_code": "55232"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

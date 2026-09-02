@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "96.02.15.2001",
+      "name": "Mukamat",
+      "postal_code": "98462"
+    },
+    {
+      "id": "96.02.15.2002",
+      "name": "Ikana",
+      "postal_code": "98462"
+    },
+    {
+      "id": "96.02.15.2003",
+      "name": "Haemaran",
+      "postal_code": "98462"
+    },
+    {
+      "id": "96.02.15.2004",
+      "name": "Siranggo",
+      "postal_code": "98462"
+    },
+    {
+      "id": "96.02.15.2005",
+      "name": "Mogatemin",
+      "postal_code": "98462"
+    },
+    {
+      "id": "96.02.15.2006",
+      "name": "Onimsefa",
+      "postal_code": "98462"
+    },
+    {
+      "id": "96.02.15.2007",
+      "name": "Makaroro",
+      "postal_code": "98462"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

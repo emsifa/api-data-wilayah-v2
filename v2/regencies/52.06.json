@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "52.06",
+    "name": "Kabupaten Bima",
+    "capital": "Woha",
+    "lat": -8.556532639441706,
+    "lng": 118.67015779690297,
+    "elv": 3,
+    "tz": 8,
+    "population": 543582,
+    "total_area": 4208.861,
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

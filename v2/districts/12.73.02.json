@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "12.73.02",
+    "name": "Sibolga Kota",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.73",
+      "name": "Kota Sibolga"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "91.20.07.2001",
+      "name": "Kamai",
+      "postal_code": "98683"
+    },
+    {
+      "id": "91.20.07.2002",
+      "name": "Dadat",
+      "postal_code": "98683"
+    },
+    {
+      "id": "91.20.07.2003",
+      "name": "Kerema",
+      "postal_code": "98683"
+    },
+    {
+      "id": "91.20.07.2005",
+      "name": "Teuw",
+      "postal_code": "98683"
+    },
+    {
+      "id": "91.20.07.2006",
+      "name": "Watiaro",
+      "postal_code": "98683"
+    },
+    {
+      "id": "91.20.07.2007",
+      "name": "Gesa Baru",
+      "postal_code": "98683"
+    },
+    {
+      "id": "91.20.07.2008",
+      "name": "Baitanisa",
+      "postal_code": "98683"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

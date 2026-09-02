@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "36.02.24.2001",
+      "name": "Kalanganyar",
+      "postal_code": "42312"
+    },
+    {
+      "id": "36.02.24.2002",
+      "name": "Pasirkupa",
+      "postal_code": "42312"
+    },
+    {
+      "id": "36.02.24.2003",
+      "name": "Cilangkap",
+      "postal_code": "42312"
+    },
+    {
+      "id": "36.02.24.2004",
+      "name": "Aweh",
+      "postal_code": "42312"
+    },
+    {
+      "id": "36.02.24.2005",
+      "name": "Sangiangtanjung",
+      "postal_code": "42312"
+    },
+    {
+      "id": "36.02.24.2006",
+      "name": "Sukamekarsari",
+      "postal_code": "42312"
+    },
+    {
+      "id": "36.02.24.2007",
+      "name": "Cikatapis",
+      "postal_code": "42311"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

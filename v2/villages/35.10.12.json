@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "35.10.12.2001",
+      "name": "Gambor",
+      "postal_code": "68464"
+    },
+    {
+      "id": "35.10.12.2002",
+      "name": "Alasmalang",
+      "postal_code": "68464"
+    },
+    {
+      "id": "35.10.12.2003",
+      "name": "Benelan Kidul",
+      "postal_code": "68464"
+    },
+    {
+      "id": "35.10.12.2004",
+      "name": "Lemahbangkulon",
+      "postal_code": "68464"
+    },
+    {
+      "id": "35.10.12.2005",
+      "name": "Singojuruh",
+      "postal_code": "68464"
+    },
+    {
+      "id": "35.10.12.2006",
+      "name": "Gumirih",
+      "postal_code": "68464"
+    },
+    {
+      "id": "35.10.12.2007",
+      "name": "Cantuk",
+      "postal_code": "68464"
+    },
+    {
+      "id": "35.10.12.2008",
+      "name": "Padang",
+      "postal_code": "68464"
+    },
+    {
+      "id": "35.10.12.2009",
+      "name": "Singolatren",
+      "postal_code": "68464"
+    },
+    {
+      "id": "35.10.12.2010",
+      "name": "Kemiri",
+      "postal_code": "68464"
+    },
+    {
+      "id": "35.10.12.2011",
+      "name": "Sumberbaru",
+      "postal_code": "68464"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.18.02.2001",
+      "name": "Batukaras",
+      "postal_code": "46394"
+    },
+    {
+      "id": "32.18.02.2002",
+      "name": "Ciakar",
+      "postal_code": "46394"
+    },
+    {
+      "id": "32.18.02.2003",
+      "name": "Cibanten",
+      "postal_code": "46394"
+    },
+    {
+      "id": "32.18.02.2004",
+      "name": "Kertayasa",
+      "postal_code": "46394"
+    },
+    {
+      "id": "32.18.02.2005",
+      "name": "Cijulang",
+      "postal_code": "46394"
+    },
+    {
+      "id": "32.18.02.2006",
+      "name": "Kondangjajar",
+      "postal_code": "46394"
+    },
+    {
+      "id": "32.18.02.2007",
+      "name": "Margacinta",
+      "postal_code": "46394"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

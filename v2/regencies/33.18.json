@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "33.18",
+    "name": "Kabupaten Pati",
+    "capital": "Pati",
+    "lat": -6.75222674353357,
+    "lng": 111.03994759653601,
+    "elv": 12,
+    "tz": 7,
+    "population": 1385904,
+    "total_area": 1576.69,
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

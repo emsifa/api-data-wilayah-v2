@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "36.71.11.1001",
+      "name": "Pinang",
+      "postal_code": "15145"
+    },
+    {
+      "id": "36.71.11.1002",
+      "name": "Sudimara Pinang",
+      "postal_code": "15145"
+    },
+    {
+      "id": "36.71.11.1003",
+      "name": "Neroktog",
+      "postal_code": "15145"
+    },
+    {
+      "id": "36.71.11.1004",
+      "name": "Kunciran",
+      "postal_code": "15144"
+    },
+    {
+      "id": "36.71.11.1005",
+      "name": "Kunciran Indah",
+      "postal_code": "15144"
+    },
+    {
+      "id": "36.71.11.1006",
+      "name": "Kunciran Jaya",
+      "postal_code": "15144"
+    },
+    {
+      "id": "36.71.11.1007",
+      "name": "Cipete",
+      "postal_code": "15142"
+    },
+    {
+      "id": "36.71.11.1008",
+      "name": "Pakojan",
+      "postal_code": "15142"
+    },
+    {
+      "id": "36.71.11.1009",
+      "name": "Panunggangan",
+      "postal_code": "15143"
+    },
+    {
+      "id": "36.71.11.1010",
+      "name": "Panunggangan Utara",
+      "postal_code": "15143"
+    },
+    {
+      "id": "36.71.11.1011",
+      "name": "Panunggangan Timur",
+      "postal_code": "15143"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

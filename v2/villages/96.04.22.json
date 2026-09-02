@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "96.04.22.2001",
+      "name": "Wausin",
+      "postal_code": "98374"
+    },
+    {
+      "id": "96.04.22.2002",
+      "name": "Asiti",
+      "postal_code": "98374"
+    },
+    {
+      "id": "96.04.22.2003",
+      "name": "Bisaud",
+      "postal_code": "98374"
+    },
+    {
+      "id": "96.04.22.2004",
+      "name": "Nisandauw",
+      "postal_code": "98374"
+    },
+    {
+      "id": "96.04.22.2005",
+      "name": "Afrawi",
+      "postal_code": "98374"
+    },
+    {
+      "id": "96.04.22.2006",
+      "name": "Ajokwapi",
+      "postal_code": "98374"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

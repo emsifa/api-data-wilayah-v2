@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.02.11.1001",
+      "name": "Cibadak",
+      "postal_code": "43351"
+    },
+    {
+      "id": "32.02.11.2002",
+      "name": "Sekarwangi",
+      "postal_code": "43351"
+    },
+    {
+      "id": "32.02.11.2003",
+      "name": "Pamuruyan",
+      "postal_code": "43351"
+    },
+    {
+      "id": "32.02.11.2004",
+      "name": "Karangtengah",
+      "postal_code": "43351"
+    },
+    {
+      "id": "32.02.11.2005",
+      "name": "Neglasari",
+      "postal_code": "43351"
+    },
+    {
+      "id": "32.02.11.2006",
+      "name": "Warnajati",
+      "postal_code": "43351"
+    },
+    {
+      "id": "32.02.11.2007",
+      "name": "Tenjojaya",
+      "postal_code": "43351"
+    },
+    {
+      "id": "32.02.11.2008",
+      "name": "Ciheulang Tonggoh",
+      "postal_code": "43351"
+    },
+    {
+      "id": "32.02.11.2009",
+      "name": "Sukasirna",
+      "postal_code": "43351"
+    },
+    {
+      "id": "32.02.11.2010",
+      "name": "Batununggal",
+      "postal_code": "43351"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

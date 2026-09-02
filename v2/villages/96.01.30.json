@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "96.01.30.2001",
+      "name": "Sailala",
+      "postal_code": "98444"
+    },
+    {
+      "id": "96.01.30.2002",
+      "name": "Klawana",
+      "postal_code": "98444"
+    },
+    {
+      "id": "96.01.30.2003",
+      "name": "Kladuk",
+      "postal_code": "98444"
+    },
+    {
+      "id": "96.01.30.2004",
+      "name": "Klawon",
+      "postal_code": "98444"
+    },
+    {
+      "id": "96.01.30.2005",
+      "name": "Klakak",
+      "postal_code": "98444"
+    },
+    {
+      "id": "96.01.30.2006",
+      "name": "Klalwok",
+      "postal_code": "98444"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

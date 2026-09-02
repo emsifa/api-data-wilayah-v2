@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "36.02.06.2001",
+      "name": "Kanekes",
+      "postal_code": "42362"
+    },
+    {
+      "id": "36.02.06.2002",
+      "name": "Cisimeut",
+      "postal_code": "42362"
+    },
+    {
+      "id": "36.02.06.2003",
+      "name": "Cibungur",
+      "postal_code": "42362"
+    },
+    {
+      "id": "36.02.06.2004",
+      "name": "Leuwidamar",
+      "postal_code": "42362"
+    },
+    {
+      "id": "36.02.06.2005",
+      "name": "Lebakparahiang",
+      "postal_code": "42362"
+    },
+    {
+      "id": "36.02.06.2006",
+      "name": "Sangkanwangi",
+      "postal_code": "42362"
+    },
+    {
+      "id": "36.02.06.2007",
+      "name": "Nayagati",
+      "postal_code": "42362"
+    },
+    {
+      "id": "36.02.06.2008",
+      "name": "Bojongmenteng",
+      "postal_code": "42362"
+    },
+    {
+      "id": "36.02.06.2009",
+      "name": "Margawangi",
+      "postal_code": "42362"
+    },
+    {
+      "id": "36.02.06.2010",
+      "name": "Wantisari",
+      "postal_code": "42362"
+    },
+    {
+      "id": "36.02.06.2011",
+      "name": "Jalupangmulya",
+      "postal_code": "42362"
+    },
+    {
+      "id": "36.02.06.2012",
+      "name": "Cisimeut Raya",
+      "postal_code": "42362"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

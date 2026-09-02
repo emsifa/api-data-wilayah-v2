@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "95.04.17.2001",
+      "name": "Nabunage",
+      "postal_code": "99045"
+    },
+    {
+      "id": "95.04.17.2002",
+      "name": "Kupara",
+      "postal_code": "99045"
+    },
+    {
+      "id": "95.04.17.2003",
+      "name": "Kutime",
+      "postal_code": "99045"
+    },
+    {
+      "id": "95.04.17.2004",
+      "name": "Kumbo",
+      "postal_code": "99045"
+    },
+    {
+      "id": "95.04.17.2005",
+      "name": "Timbindelo",
+      "postal_code": "99045"
+    },
+    {
+      "id": "95.04.17.2006",
+      "name": "Jekito",
+      "postal_code": "99428"
+    },
+    {
+      "id": "95.04.17.2007",
+      "name": "Wewo",
+      "postal_code": "99428"
+    },
+    {
+      "id": "95.04.17.2008",
+      "name": "Geningga",
+      "postal_code": "99428"
+    },
+    {
+      "id": "95.04.17.2009",
+      "name": "Kimilo",
+      "postal_code": "99428"
+    },
+    {
+      "id": "95.04.17.2010",
+      "name": "Missa",
+      "postal_code": "99428"
+    },
+    {
+      "id": "95.04.17.2011",
+      "name": "Logilome",
+      "postal_code": "99045"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

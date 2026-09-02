@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "82.08.06.2001",
+      "name": "Waikadai",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.06.2002",
+      "name": "Losseng",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.06.2003",
+      "name": "Kawadang",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.06.2004",
+      "name": "Sofan",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.06.2005",
+      "name": "Mantarara",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.06.2006",
+      "name": "Belo",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.06.2007",
+      "name": "Kamaya",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.06.2008",
+      "name": "Waikoka",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.06.2009",
+      "name": "Waikadai Sula",
+      "postal_code": "97794"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

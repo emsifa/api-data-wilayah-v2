@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "74.03.20.2001",
+      "name": "Liabalano",
+      "postal_code": "93625"
+    },
+    {
+      "id": "74.03.20.2002",
+      "name": "Lapodidi",
+      "postal_code": "93625"
+    },
+    {
+      "id": "74.03.20.2003",
+      "name": "Bungi",
+      "postal_code": "93625"
+    },
+    {
+      "id": "74.03.20.2004",
+      "name": "Kontunaga",
+      "postal_code": "93625"
+    },
+    {
+      "id": "74.03.20.2005",
+      "name": "Madodo",
+      "postal_code": "93625"
+    },
+    {
+      "id": "74.03.20.2006",
+      "name": "Masalili",
+      "postal_code": "93625"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

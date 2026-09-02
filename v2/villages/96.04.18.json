@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "96.04.18.2001",
+      "name": "Syumbab",
+      "postal_code": "98474"
+    },
+    {
+      "id": "96.04.18.2002",
+      "name": "Krisnos",
+      "postal_code": "98474"
+    },
+    {
+      "id": "96.04.18.2003",
+      "name": "Syukwes",
+      "postal_code": "98474"
+    },
+    {
+      "id": "96.04.18.2004",
+      "name": "Sunggak",
+      "postal_code": "98474"
+    },
+    {
+      "id": "96.04.18.2005",
+      "name": "Wowom",
+      "postal_code": "98474"
+    },
+    {
+      "id": "96.04.18.2006",
+      "name": "Resye",
+      "postal_code": "98474"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

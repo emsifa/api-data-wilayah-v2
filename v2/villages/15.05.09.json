@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "15.05.09.2001",
+      "name": "Talang Bukit",
+      "postal_code": "36367"
+    },
+    {
+      "id": "15.05.09.2002",
+      "name": "Talang Datar",
+      "postal_code": "36367"
+    },
+    {
+      "id": "15.05.09.2003",
+      "name": "Sumber Mulya",
+      "postal_code": "36367"
+    },
+    {
+      "id": "15.05.09.2004",
+      "name": "Mulya Jaya",
+      "postal_code": "36367"
+    },
+    {
+      "id": "15.05.09.2005",
+      "name": "Matra Manunggal",
+      "postal_code": "36367"
+    },
+    {
+      "id": "15.05.09.2006",
+      "name": "Bukit Mulya",
+      "postal_code": "36367"
+    },
+    {
+      "id": "15.05.09.2007",
+      "name": "Sumber Jaya",
+      "postal_code": "36367"
+    },
+    {
+      "id": "15.05.09.2008",
+      "name": "Pinang Tinggi",
+      "postal_code": "36367"
+    },
+    {
+      "id": "15.05.09.2009",
+      "name": "Markanding",
+      "postal_code": "36367"
+    },
+    {
+      "id": "15.05.09.2010",
+      "name": "Sungai Dayo",
+      "postal_code": "36367"
+    },
+    {
+      "id": "15.05.09.2011",
+      "name": "Bahar Mulya",
+      "postal_code": "36367"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "12.22.01",
+    "name": "Kotapinang",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.22",
+      "name": "Kabupaten Labuhanbatu Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

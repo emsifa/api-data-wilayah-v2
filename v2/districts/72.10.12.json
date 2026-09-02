@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "72.10.12",
+    "name": "Dolo",
+    "province": {
+      "id": "72",
+      "name": "Sulawesi Tengah"
+    },
+    "regency": {
+      "id": "72.10",
+      "name": "Kabupaten Sigi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

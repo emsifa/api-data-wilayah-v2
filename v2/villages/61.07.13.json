@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "61.07.13.2001",
+      "name": "Magmagan Karya",
+      "postal_code": "79282"
+    },
+    {
+      "id": "61.07.13.2002",
+      "name": "Tiga Berkat",
+      "postal_code": "79282"
+    },
+    {
+      "id": "61.07.13.2003",
+      "name": "Seren Selimbau",
+      "postal_code": "79282"
+    },
+    {
+      "id": "61.07.13.2004",
+      "name": "Belimbing",
+      "postal_code": "79282"
+    },
+    {
+      "id": "61.07.13.2005",
+      "name": "Lamolda",
+      "postal_code": "79282"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

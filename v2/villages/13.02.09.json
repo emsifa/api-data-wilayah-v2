@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "13.02.09.2001",
+      "name": "Taruang-Taruang",
+      "postal_code": "27388"
+    },
+    {
+      "id": "13.02.09.2002",
+      "name": "Siaro-Aro",
+      "postal_code": "27388"
+    },
+    {
+      "id": "13.02.09.2003",
+      "name": "Pianggu",
+      "postal_code": "27388"
+    },
+    {
+      "id": "13.02.09.2004",
+      "name": "Sungai Durian",
+      "postal_code": "27388"
+    },
+    {
+      "id": "13.02.09.2005",
+      "name": "Bukik Bais",
+      "postal_code": "27388"
+    },
+    {
+      "id": "13.02.09.2006",
+      "name": "Sungai Jambur",
+      "postal_code": "27388"
+    },
+    {
+      "id": "13.02.09.2007",
+      "name": "Guguak Sarai",
+      "postal_code": "27388"
+    },
+    {
+      "id": "13.02.09.2008",
+      "name": "Koto Laweh",
+      "postal_code": "27388"
+    },
+    {
+      "id": "13.02.09.2009",
+      "name": "Indudur",
+      "postal_code": "27388"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

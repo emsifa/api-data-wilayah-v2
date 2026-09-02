@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "76.02.02.1001",
+      "name": "Galung",
+      "postal_code": "91551"
+    },
+    {
+      "id": "76.02.02.1002",
+      "name": "Kasambang",
+      "postal_code": "91551"
+    },
+    {
+      "id": "76.02.02.1014",
+      "name": "Dayanginna",
+      "postal_code": "91551"
+    },
+    {
+      "id": "76.02.02.2003",
+      "name": "Orobatu",
+      "postal_code": "91551"
+    },
+    {
+      "id": "76.02.02.2006",
+      "name": "Takandeang",
+      "postal_code": "91551"
+    },
+    {
+      "id": "76.02.02.2009",
+      "name": "Bela",
+      "postal_code": "91551"
+    },
+    {
+      "id": "76.02.02.2010",
+      "name": "Taan",
+      "postal_code": "91551"
+    },
+    {
+      "id": "76.02.02.2011",
+      "name": "Tampalang",
+      "postal_code": "91551"
+    },
+    {
+      "id": "76.02.02.2012",
+      "name": "Rantedoda",
+      "postal_code": "91551"
+    },
+    {
+      "id": "76.02.02.2013",
+      "name": "Kopeang",
+      "postal_code": "91551"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

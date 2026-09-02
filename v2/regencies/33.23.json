@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "33.23",
+    "name": "Kabupaten Temanggung",
+    "capital": "Temanggung",
+    "lat": -7.315316457103409,
+    "lng": 110.18189242537592,
+    "elv": 579,
+    "tz": 7,
+    "population": 822880,
+    "total_area": 864.834,
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

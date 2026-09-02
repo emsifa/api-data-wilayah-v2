@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "35.78.19.1001",
+      "name": "Kandangan",
+      "postal_code": "60199"
+    },
+    {
+      "id": "35.78.19.1003",
+      "name": "Sememi",
+      "postal_code": "60198"
+    },
+    {
+      "id": "35.78.19.1004",
+      "name": "Tambak Oso Wilangun",
+      "postal_code": "60191"
+    },
+    {
+      "id": "35.78.19.1005",
+      "name": "Romokalisari",
+      "postal_code": "60192"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

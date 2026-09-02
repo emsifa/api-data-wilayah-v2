@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "33.71.03.1001",
+      "name": "Kemirirejo",
+      "postal_code": "56122"
+    },
+    {
+      "id": "33.71.03.1002",
+      "name": "Cacaban",
+      "postal_code": "56121"
+    },
+    {
+      "id": "33.71.03.1003",
+      "name": "Rejowinangun Utara",
+      "postal_code": "56127"
+    },
+    {
+      "id": "33.71.03.1004",
+      "name": "Magelang",
+      "postal_code": "56117"
+    },
+    {
+      "id": "33.71.03.1005",
+      "name": "Panjang",
+      "postal_code": "56111"
+    },
+    {
+      "id": "33.71.03.1006",
+      "name": "Gelangan",
+      "postal_code": "56112"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

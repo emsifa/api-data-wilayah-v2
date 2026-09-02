@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "35.08.10.1003",
+      "name": "Citrodiwangsan",
+      "postal_code": "67312"
+    },
+    {
+      "id": "35.08.10.1004",
+      "name": "Ditotrunan",
+      "postal_code": "67313"
+    },
+    {
+      "id": "35.08.10.1005",
+      "name": "Jogotrunan",
+      "postal_code": "67314"
+    },
+    {
+      "id": "35.08.10.1009",
+      "name": "Jogoyudan",
+      "postal_code": "67315"
+    },
+    {
+      "id": "35.08.10.1010",
+      "name": "Rogotrunan",
+      "postal_code": "67316"
+    },
+    {
+      "id": "35.08.10.1011",
+      "name": "Tompokersan",
+      "postal_code": "67311"
+    },
+    {
+      "id": "35.08.10.1012",
+      "name": "Kepuharjo",
+      "postal_code": "67316"
+    },
+    {
+      "id": "35.08.10.2001",
+      "name": "Banjarwaru",
+      "postal_code": "67316"
+    },
+    {
+      "id": "35.08.10.2002",
+      "name": "Labruk Lor",
+      "postal_code": "67316"
+    },
+    {
+      "id": "35.08.10.2006",
+      "name": "Denok",
+      "postal_code": "67316"
+    },
+    {
+      "id": "35.08.10.2007",
+      "name": "Blukon",
+      "postal_code": "67316"
+    },
+    {
+      "id": "35.08.10.2008",
+      "name": "Boreng",
+      "postal_code": "67316"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

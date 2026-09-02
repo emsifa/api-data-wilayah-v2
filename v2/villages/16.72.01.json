@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "16.72.01.1001",
+      "name": "Sukorejo",
+      "postal_code": "31551"
+    },
+    {
+      "id": "16.72.01.1002",
+      "name": "Bangun Rejo",
+      "postal_code": "31517"
+    },
+    {
+      "id": "16.72.01.1005",
+      "name": "Pagar Alam",
+      "postal_code": "31512"
+    },
+    {
+      "id": "16.72.01.1007",
+      "name": "Alun Dua",
+      "postal_code": "31513"
+    },
+    {
+      "id": "16.72.01.1014",
+      "name": "Selibar",
+      "postal_code": "31515"
+    },
+    {
+      "id": "16.72.01.1016",
+      "name": "Beringin Jaya",
+      "postal_code": "31511"
+    },
+    {
+      "id": "16.72.01.1018",
+      "name": "Dempo Makmur",
+      "postal_code": "31519"
+    },
+    {
+      "id": "16.72.01.1019",
+      "name": "Kuripan Babas",
+      "postal_code": "31514"
+    },
+    {
+      "id": "16.72.01.1020",
+      "name": "Bangun Jaya",
+      "postal_code": "31512"
+    },
+    {
+      "id": "16.72.01.1021",
+      "name": "Curup Jare",
+      "postal_code": "31516"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

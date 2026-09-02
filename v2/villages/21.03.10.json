@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "21.03.10.2001",
+      "name": "Tanjung Pala",
+      "postal_code": "29789"
+    },
+    {
+      "id": "21.03.10.2002",
+      "name": "Air Payang",
+      "postal_code": "29789"
+    },
+    {
+      "id": "21.03.10.2003",
+      "name": "Kadur",
+      "postal_code": "29789"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

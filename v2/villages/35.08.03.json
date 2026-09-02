@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "35.08.03.2001",
+      "name": "Jugosari",
+      "postal_code": "67373"
+    },
+    {
+      "id": "35.08.03.2002",
+      "name": "Jarit",
+      "postal_code": "67373"
+    },
+    {
+      "id": "35.08.03.2003",
+      "name": "Candipuro",
+      "postal_code": "67373"
+    },
+    {
+      "id": "35.08.03.2004",
+      "name": "Sumberejo",
+      "postal_code": "67373"
+    },
+    {
+      "id": "35.08.03.2005",
+      "name": "Sumberwuluh",
+      "postal_code": "67373"
+    },
+    {
+      "id": "35.08.03.2006",
+      "name": "Sumbermujur",
+      "postal_code": "67373"
+    },
+    {
+      "id": "35.08.03.2007",
+      "name": "Penanggal",
+      "postal_code": "67373"
+    },
+    {
+      "id": "35.08.03.2008",
+      "name": "Tambahrejo",
+      "postal_code": "67373"
+    },
+    {
+      "id": "35.08.03.2009",
+      "name": "Kloposawit",
+      "postal_code": "67373"
+    },
+    {
+      "id": "35.08.03.2010",
+      "name": "Tumpeng",
+      "postal_code": "67373"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

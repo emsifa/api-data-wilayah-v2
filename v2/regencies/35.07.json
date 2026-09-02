@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "35.07",
+    "name": "Kabupaten Malang",
+    "capital": "Kepanjen",
+    "lat": -8.105459029077382,
+    "lng": 112.57329134091296,
+    "elv": 359,
+    "tz": 7,
+    "population": 2734623,
+    "total_area": 3473.747,
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

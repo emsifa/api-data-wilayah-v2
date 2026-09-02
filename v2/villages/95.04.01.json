@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "id": "95.04.01.1001",
+      "name": "Karubaga",
+      "postal_code": "99027"
+    },
+    {
+      "id": "95.04.01.2002",
+      "name": "Kogimagi",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2003",
+      "name": "Muara",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2004",
+      "name": "Ampera",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2005",
+      "name": "Elsadai",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2006",
+      "name": "Ebenhaiser",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2007",
+      "name": "Kolilan",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2008",
+      "name": "Kuloname",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2009",
+      "name": "Lirak",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2010",
+      "name": "Kimobur",
+      "postal_code": "99027"
+    },
+    {
+      "id": "95.04.01.2011",
+      "name": "Kuragepura",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2012",
+      "name": "Kiranage",
+      "postal_code": "99027"
+    },
+    {
+      "id": "95.04.01.2013",
+      "name": "Luwik",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2014",
+      "name": "Gininggadonak",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2015",
+      "name": "Danggulurik",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2016",
+      "name": "Gurikme",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2017",
+      "name": "Molera",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2018",
+      "name": "Nalorini",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2019",
+      "name": "Beleme",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2020",
+      "name": "Gurikagewa",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2021",
+      "name": "Pulanggun",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2022",
+      "name": "Yalikaluk",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.04.01.2023",
+      "name": "Losmen",
+      "postal_code": "99411"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

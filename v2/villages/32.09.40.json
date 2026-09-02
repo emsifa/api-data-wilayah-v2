@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.09.40.2001",
+      "name": "Jamblang",
+      "postal_code": "45156"
+    },
+    {
+      "id": "32.09.40.2002",
+      "name": "Sitiwinangun",
+      "postal_code": "45156"
+    },
+    {
+      "id": "32.09.40.2003",
+      "name": "Wangunharja",
+      "postal_code": "45156"
+    },
+    {
+      "id": "32.09.40.2004",
+      "name": "Bojong Wetan",
+      "postal_code": "45156"
+    },
+    {
+      "id": "32.09.40.2005",
+      "name": "Bojong Lor",
+      "postal_code": "45156"
+    },
+    {
+      "id": "32.09.40.2006",
+      "name": "Orimalang",
+      "postal_code": "45156"
+    },
+    {
+      "id": "32.09.40.2007",
+      "name": "Bakung Kidul",
+      "postal_code": "45156"
+    },
+    {
+      "id": "32.09.40.2008",
+      "name": "Bakung Lor",
+      "postal_code": "45156"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

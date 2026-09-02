@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "63.71.03.1001",
+      "name": "Belitung Utara",
+      "postal_code": "70116"
+    },
+    {
+      "id": "63.71.03.1002",
+      "name": "Belitung Selatan",
+      "postal_code": "70116"
+    },
+    {
+      "id": "63.71.03.1003",
+      "name": "Pelambuan",
+      "postal_code": "70118"
+    },
+    {
+      "id": "63.71.03.1004",
+      "name": "Telaga Biru",
+      "postal_code": "70119"
+    },
+    {
+      "id": "63.71.03.1005",
+      "name": "Telawang",
+      "postal_code": "70112"
+    },
+    {
+      "id": "63.71.03.1006",
+      "name": "Teluk Tiram",
+      "postal_code": "70113"
+    },
+    {
+      "id": "63.71.03.1007",
+      "name": "Kuin Selatan",
+      "postal_code": "70128"
+    },
+    {
+      "id": "63.71.03.1008",
+      "name": "Kuin Cerucuk",
+      "postal_code": "70129"
+    },
+    {
+      "id": "63.71.03.1009",
+      "name": "Basirih",
+      "postal_code": "70245"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

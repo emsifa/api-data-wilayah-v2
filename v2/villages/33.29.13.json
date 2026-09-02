@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "33.29.13.2001",
+      "name": "Karangreja",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2002",
+      "name": "Kedawung",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2003",
+      "name": "Kemurang Kulon",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2004",
+      "name": "Kemurang Wetan",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2005",
+      "name": "Krakahan",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2006",
+      "name": "Kubangputat",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2007",
+      "name": "Luwunggede",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2008",
+      "name": "Lemahabang",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2009",
+      "name": "Luwungbata",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2010",
+      "name": "Mundu",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2011",
+      "name": "Pejagan",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2012",
+      "name": "Pengaradan",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2013",
+      "name": "Sarireja",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2014",
+      "name": "Sengon",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2015",
+      "name": "Sidakaton",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2016",
+      "name": "Tanjung",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2017",
+      "name": "Tegongan",
+      "postal_code": "52254"
+    },
+    {
+      "id": "33.29.13.2018",
+      "name": "Tengguli",
+      "postal_code": "52254"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

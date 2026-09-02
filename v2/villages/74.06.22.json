@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "74.06.22.2001",
+      "name": "Kolombi Matausu",
+      "postal_code": "93786"
+    },
+    {
+      "id": "74.06.22.2002",
+      "name": "Morengke",
+      "postal_code": "93786"
+    },
+    {
+      "id": "74.06.22.2003",
+      "name": "Wia-wia",
+      "postal_code": "93786"
+    },
+    {
+      "id": "74.06.22.2004",
+      "name": "Lamuru",
+      "postal_code": "93786"
+    },
+    {
+      "id": "74.06.22.2005",
+      "name": "Totole",
+      "postal_code": "93786"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

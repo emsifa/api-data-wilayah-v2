@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "52.01.02.2001",
+      "name": "Kediri",
+      "postal_code": "83362"
+    },
+    {
+      "id": "52.01.02.2002",
+      "name": "Montong Are",
+      "postal_code": "83362"
+    },
+    {
+      "id": "52.01.02.2003",
+      "name": "Jagaraga Indah",
+      "postal_code": "83362"
+    },
+    {
+      "id": "52.01.02.2004",
+      "name": "Gelogor",
+      "postal_code": "83362"
+    },
+    {
+      "id": "52.01.02.2005",
+      "name": "Rumak",
+      "postal_code": "83362"
+    },
+    {
+      "id": "52.01.02.2006",
+      "name": "Banyumulek",
+      "postal_code": "83362"
+    },
+    {
+      "id": "52.01.02.2007",
+      "name": "Ombe Baru",
+      "postal_code": "83362"
+    },
+    {
+      "id": "52.01.02.2008",
+      "name": "Dasan Baru",
+      "postal_code": "83362"
+    },
+    {
+      "id": "52.01.02.2009",
+      "name": "Kediri Selatan",
+      "postal_code": "83362"
+    },
+    {
+      "id": "52.01.02.2010",
+      "name": "Lelede",
+      "postal_code": "83362"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "16.11.07.2001",
+      "name": "Talang Padang",
+      "postal_code": "31595"
+    },
+    {
+      "id": "16.11.07.2002",
+      "name": "Tanjung Beringin",
+      "postal_code": "31595"
+    },
+    {
+      "id": "16.11.07.2003",
+      "name": "Penantian",
+      "postal_code": "31595"
+    },
+    {
+      "id": "16.11.07.2004",
+      "name": "Pagar Jati",
+      "postal_code": "31595"
+    },
+    {
+      "id": "16.11.07.2005",
+      "name": "Kebon Jati",
+      "postal_code": "31595"
+    },
+    {
+      "id": "16.11.07.2006",
+      "name": "Bandar Agung",
+      "postal_code": "31595"
+    },
+    {
+      "id": "16.11.07.2007",
+      "name": "Lawang Agung",
+      "postal_code": "31595"
+    },
+    {
+      "id": "16.11.07.2008",
+      "name": "Nanjungan",
+      "postal_code": "31595"
+    },
+    {
+      "id": "16.11.07.2009",
+      "name": "Talang Randai",
+      "postal_code": "31595"
+    },
+    {
+      "id": "16.11.07.2010",
+      "name": "Air Mayam",
+      "postal_code": "31595"
+    },
+    {
+      "id": "16.11.07.2011",
+      "name": "Muara Rungga",
+      "postal_code": "31595"
+    },
+    {
+      "id": "16.11.07.2012",
+      "name": "Padang Gelai",
+      "postal_code": "31595"
+    },
+    {
+      "id": "16.11.07.2013",
+      "name": "Padang Bindu",
+      "postal_code": "31595"
+    },
+    {
+      "id": "16.11.07.2014",
+      "name": "Muara Sindang",
+      "postal_code": "31595"
+    },
+    {
+      "id": "16.11.07.2015",
+      "name": "Muara Aman",
+      "postal_code": "31595"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

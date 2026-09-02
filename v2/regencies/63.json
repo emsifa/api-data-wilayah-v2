@@ -1,21 +1,151 @@
 {
-  "data": {
-    "id": "63",
-    "name": "Kalimantan Selatan",
-    "capital": "Banjarmasin",
-    "lat": -3.484313042784926,
-    "lng": 114.83380115548034,
-    "elv": 52,
-    "tz": 8,
-    "population": 4305281,
-    "total_area": 37125.426,
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
+  "data": [
+    {
+      "id": "63.01",
+      "name": "Kabupaten Tanah Laut",
+      "capital": "Pelaihari",
+      "lat": -3.799466847049419,
+      "lng": 114.78255114131447,
+      "elv": 25,
+      "tz": 8,
+      "population": 369818,
+      "total_area": 3841.157
+    },
+    {
+      "id": "63.02",
+      "name": "Kabupaten Kotabaru",
+      "capital": "Kotabaru",
+      "lat": -3.2362388666435793,
+      "lng": 116.22797534143119,
+      "elv": 8,
+      "tz": 8,
+      "population": 332787,
+      "total_area": 9345.91
+    },
+    {
+      "id": "63.03",
+      "name": "Kabupaten Banjar",
+      "capital": "Martapura",
+      "lat": -3.408734828681626,
+      "lng": 114.84815554140891,
+      "elv": 13,
+      "tz": 8,
+      "population": 590393,
+      "total_area": 4588.37
+    },
+    {
+      "id": "63.04",
+      "name": "Kabupaten Barito Kuala",
+      "capital": "Marabahan",
+      "lat": -2.9783388223443703,
+      "lng": 114.76579532814996,
+      "elv": 7,
+      "tz": 8,
+      "population": 329799,
+      "total_area": 2425.829
+    },
+    {
+      "id": "63.05",
+      "name": "Kabupaten Tapin",
+      "capital": "Rantau",
+      "lat": -2.932105977155375,
+      "lng": 115.16329842419783,
+      "elv": 9,
+      "tz": 8,
+      "population": 202061,
+      "total_area": 2155.939
+    },
+    {
+      "id": "63.06",
+      "name": "Kabupaten Hulu Sungai Selatan",
+      "capital": "Kandangan",
+      "lat": -2.786510324118423,
+      "lng": 115.26594525712335,
+      "elv": 18,
+      "tz": 8,
+      "population": 239471,
+      "total_area": 1697.224
+    },
+    {
+      "id": "63.07",
+      "name": "Kabupaten Hulu Sungai Tengah",
+      "capital": "Barabai",
+      "lat": -2.584768110610726,
+      "lng": 115.38453172508864,
+      "elv": 17,
+      "tz": 8,
+      "population": 271505,
+      "total_area": 1573.538
+    },
+    {
+      "id": "63.08",
+      "name": "Kabupaten Hulu Sungai Utara",
+      "capital": "Amuntai",
+      "lat": -2.4188734176622435,
+      "lng": 115.254335243741,
+      "elv": 14,
+      "tz": 8,
+      "population": 238250,
+      "total_area": 907.491
+    },
+    {
+      "id": "63.09",
+      "name": "Kabupaten Tabalong",
+      "capital": "Tanjung",
+      "lat": -2.1643540668202728,
+      "lng": 115.38235677273519,
+      "elv": 24,
+      "tz": 8,
+      "population": 267787,
+      "total_area": 3473.069
+    },
+    {
+      "id": "63.10",
+      "name": "Kabupaten Tanah Bumbu",
+      "capital": "Batulicin",
+      "lat": -3.4832399331677077,
+      "lng": 115.94681434136322,
+      "elv": 30,
+      "tz": 8,
+      "population": 357221,
+      "total_area": 4884.861
+    },
+    {
+      "id": "63.11",
+      "name": "Kabupaten Balangan",
+      "capital": "Paringin",
+      "lat": -2.36356752319171,
+      "lng": 115.47108222829301,
+      "elv": 55,
+      "tz": 8,
+      "population": 138950,
+      "total_area": 1828.513
+    },
+    {
+      "id": "63.71",
+      "name": "Kota Banjarmasin",
+      "capital": "Banjarmasin",
+      "lat": -3.327490958483104,
+      "lng": 114.58899911265445,
+      "elv": 7,
+      "tz": 8,
+      "population": 681693,
+      "total_area": 98.372
+    },
+    {
+      "id": "63.72",
+      "name": "Kota Banjarbaru",
+      "capital": "Banjarbaru",
+      "lat": -3.438617247106197,
+      "lng": 114.83106062806887,
+      "elv": 31,
+      "tz": 8,
+      "population": 285546,
+      "total_area": 305.153
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:11Z",
+    "generated_at": "2026-09-02T03:39:51Z",
     "level": 2
   }
 }

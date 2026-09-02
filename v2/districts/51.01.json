@@ -1,18 +1,28 @@
 {
-  "data": {
-    "id": "51.01",
-    "name": "Kabupaten Jembrana",
-    "province": {
-      "id": "51",
-      "name": "Bali"
+  "data": [
+    {
+      "id": "51.01.01",
+      "name": "Negara"
     },
-    "regency": {
-      "id": "51.01",
-      "name": "Kabupaten Jembrana"
+    {
+      "id": "51.01.02",
+      "name": "Mendoyo"
+    },
+    {
+      "id": "51.01.03",
+      "name": "Pekutatan"
+    },
+    {
+      "id": "51.01.04",
+      "name": "Melaya"
+    },
+    {
+      "id": "51.01.05",
+      "name": "Jembrana"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

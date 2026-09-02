@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "16.71.02.1002",
+      "name": "Satu Ulu",
+      "postal_code": "30257"
+    },
+    {
+      "id": "16.71.02.1003",
+      "name": "Dua Ulu",
+      "postal_code": "30257"
+    },
+    {
+      "id": "16.71.02.1004",
+      "name": "Tiga Empat Ulu",
+      "postal_code": "30255"
+    },
+    {
+      "id": "16.71.02.1005",
+      "name": "Lima Ulu",
+      "postal_code": "30254"
+    },
+    {
+      "id": "16.71.02.1006",
+      "name": "Tujuh Ulu",
+      "postal_code": "30253"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

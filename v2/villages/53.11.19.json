@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "53.11.19.2001",
+      "name": "Kompa Pari",
+      "postal_code": "87152"
+    },
+    {
+      "id": "53.11.19.2002",
+      "name": "Matawai Amahu",
+      "postal_code": "87152"
+    },
+    {
+      "id": "53.11.19.2003",
+      "name": "Mandahu",
+      "postal_code": "87152"
+    },
+    {
+      "id": "53.11.19.2004",
+      "name": "Lailara",
+      "postal_code": "87152"
+    },
+    {
+      "id": "53.11.19.2005",
+      "name": "Praibakul",
+      "postal_code": "87152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

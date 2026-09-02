@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "12.01.13.1003",
+      "name": "Nauli",
+      "postal_code": "22611"
+    },
+    {
+      "id": "12.01.13.2001",
+      "name": "Bonandolok",
+      "postal_code": "22611"
+    },
+    {
+      "id": "12.01.13.2002",
+      "name": "Rampa",
+      "postal_code": "22611"
+    },
+    {
+      "id": "12.01.13.2004",
+      "name": "Mardame",
+      "postal_code": "22611"
+    },
+    {
+      "id": "12.01.13.2005",
+      "name": "Naga Timbul",
+      "postal_code": "22611"
+    },
+    {
+      "id": "12.01.13.2006",
+      "name": "Simaninggir",
+      "postal_code": "22611"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

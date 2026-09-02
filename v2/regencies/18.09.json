@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "18.09",
+    "name": "Kabupaten Pesawaran",
+    "capital": "Gedong Tataan",
+    "lat": -5.397533024693423,
+    "lng": 105.07010811310506,
+    "elv": 163,
+    "tz": 7,
+    "population": 501047,
+    "total_area": 1286.843,
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

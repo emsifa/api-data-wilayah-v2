@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "33.01.22.1001",
+      "name": "Lomanis",
+      "postal_code": "53221"
+    },
+    {
+      "id": "33.01.22.1002",
+      "name": "Gunungsimping",
+      "postal_code": "53224"
+    },
+    {
+      "id": "33.01.22.1003",
+      "name": "Sidanegara",
+      "postal_code": "53223"
+    },
+    {
+      "id": "33.01.22.1004",
+      "name": "Donan",
+      "postal_code": "53222"
+    },
+    {
+      "id": "33.01.22.1005",
+      "name": "Kutawaru",
+      "postal_code": "53225"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

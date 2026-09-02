@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "12.05.16.1009",
+      "name": "Pekan Besitang",
+      "postal_code": "20859"
+    },
+    {
+      "id": "12.05.16.1010",
+      "name": "Bukit Kubu",
+      "postal_code": "20859"
+    },
+    {
+      "id": "12.05.16.1011",
+      "name": "Kampung Lama",
+      "postal_code": "20859"
+    },
+    {
+      "id": "12.05.16.2001",
+      "name": "Halaban",
+      "postal_code": "20859"
+    },
+    {
+      "id": "12.05.16.2002",
+      "name": "Bukit Mas",
+      "postal_code": "20859"
+    },
+    {
+      "id": "12.05.16.2005",
+      "name": "Pir Adb Besitang",
+      "postal_code": "20859"
+    },
+    {
+      "id": "12.05.16.2006",
+      "name": "Sekoci",
+      "postal_code": "20859"
+    },
+    {
+      "id": "12.05.16.2007",
+      "name": "Suka Jaya",
+      "postal_code": "20859"
+    },
+    {
+      "id": "12.05.16.2008",
+      "name": "Bukit Selamat",
+      "postal_code": "20859"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

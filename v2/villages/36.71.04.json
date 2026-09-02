@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "36.71.04.1001",
+      "name": "Belendung",
+      "postal_code": "15123"
+    },
+    {
+      "id": "36.71.04.1002",
+      "name": "Jurumudi",
+      "postal_code": "15124"
+    },
+    {
+      "id": "36.71.04.1003",
+      "name": "Benda",
+      "postal_code": "15125"
+    },
+    {
+      "id": "36.71.04.1004",
+      "name": "Pajang",
+      "postal_code": "15126"
+    },
+    {
+      "id": "36.71.04.1005",
+      "name": "Jurumudi Baru",
+      "postal_code": "15124"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

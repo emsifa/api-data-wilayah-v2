@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "62.06.03.1006",
+      "name": "Pendahara",
+      "postal_code": "74452"
+    },
+    {
+      "id": "62.06.03.2001",
+      "name": "Tewang Baringin",
+      "postal_code": "74452"
+    },
+    {
+      "id": "62.06.03.2002",
+      "name": "Hapalam",
+      "postal_code": "74452"
+    },
+    {
+      "id": "62.06.03.2003",
+      "name": "Tewang Rangas",
+      "postal_code": "74452"
+    },
+    {
+      "id": "62.06.03.2004",
+      "name": "Bangkuang",
+      "postal_code": "74452"
+    },
+    {
+      "id": "62.06.03.2005",
+      "name": "Tarusan Danum",
+      "postal_code": "74452"
+    },
+    {
+      "id": "62.06.03.2007",
+      "name": "Tumbang Tarusan",
+      "postal_code": "74452"
+    },
+    {
+      "id": "62.06.03.2008",
+      "name": "Tewang Rangkang",
+      "postal_code": "74452"
+    },
+    {
+      "id": "62.06.03.2009",
+      "name": "Tewang Manyangen",
+      "postal_code": "74452"
+    },
+    {
+      "id": "62.06.03.2010",
+      "name": "Karya Unggang",
+      "postal_code": "74452"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

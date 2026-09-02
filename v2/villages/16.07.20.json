@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "16.07.20.2001",
+      "name": "Karang Sari",
+      "postal_code": "30971"
+    },
+    {
+      "id": "16.07.20.2002",
+      "name": "Maju Ria",
+      "postal_code": "30971"
+    },
+    {
+      "id": "16.07.20.2003",
+      "name": "Sri Agung",
+      "postal_code": "30971"
+    },
+    {
+      "id": "16.07.20.2004",
+      "name": "Sumber Rejeki",
+      "postal_code": "30971"
+    },
+    {
+      "id": "16.07.20.2005",
+      "name": "Tabala Jaya",
+      "postal_code": "30971"
+    },
+    {
+      "id": "16.07.20.2006",
+      "name": "Jati Sari",
+      "postal_code": "30971"
+    },
+    {
+      "id": "16.07.20.2007",
+      "name": "Mekar Sari",
+      "postal_code": "30971"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

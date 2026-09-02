@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "95.01.39.2001",
+      "name": "Wame",
+      "postal_code": "99536"
+    },
+    {
+      "id": "95.01.39.2002",
+      "name": "Dumapaga",
+      "postal_code": "99536"
+    },
+    {
+      "id": "95.01.39.2003",
+      "name": "Yanenggame",
+      "postal_code": "99536"
+    },
+    {
+      "id": "95.01.39.2004",
+      "name": "Dogoname",
+      "postal_code": "99536"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

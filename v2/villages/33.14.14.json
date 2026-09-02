@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "33.14.14.2001",
+      "name": "Geneng",
+      "postal_code": "57276"
+    },
+    {
+      "id": "33.14.14.2002",
+      "name": "Jeruk",
+      "postal_code": "57276"
+    },
+    {
+      "id": "33.14.14.2003",
+      "name": "Sunggingan",
+      "postal_code": "57276"
+    },
+    {
+      "id": "33.14.14.2004",
+      "name": "Girimargo",
+      "postal_code": "57276"
+    },
+    {
+      "id": "33.14.14.2005",
+      "name": "Doyong",
+      "postal_code": "57276"
+    },
+    {
+      "id": "33.14.14.2006",
+      "name": "Soko",
+      "postal_code": "57276"
+    },
+    {
+      "id": "33.14.14.2007",
+      "name": "Brojol",
+      "postal_code": "57276"
+    },
+    {
+      "id": "33.14.14.2008",
+      "name": "Bagor",
+      "postal_code": "57276"
+    },
+    {
+      "id": "33.14.14.2009",
+      "name": "Gilirejo",
+      "postal_code": "57276"
+    },
+    {
+      "id": "33.14.14.2010",
+      "name": "Gilirejo Baru",
+      "postal_code": "57276"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "33.73.03.1001",
+      "name": "Noborejo",
+      "postal_code": "50736"
+    },
+    {
+      "id": "33.73.03.1002",
+      "name": "Ledok",
+      "postal_code": "50732"
+    },
+    {
+      "id": "33.73.03.1003",
+      "name": "Tegalrejo",
+      "postal_code": "50733"
+    },
+    {
+      "id": "33.73.03.1004",
+      "name": "Kumpulrejo",
+      "postal_code": "50734"
+    },
+    {
+      "id": "33.73.03.1005",
+      "name": "Randuacir",
+      "postal_code": "50735"
+    },
+    {
+      "id": "33.73.03.1006",
+      "name": "Cebongan",
+      "postal_code": "50736"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

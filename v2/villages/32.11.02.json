@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.11.02.2001",
+      "name": "Jatinunggal",
+      "postal_code": "45376"
+    },
+    {
+      "id": "32.11.02.2002",
+      "name": "Tarikolot",
+      "postal_code": "45376"
+    },
+    {
+      "id": "32.11.02.2003",
+      "name": "Pawenang",
+      "postal_code": "45376"
+    },
+    {
+      "id": "32.11.02.2004",
+      "name": "Sarimekar",
+      "postal_code": "45376"
+    },
+    {
+      "id": "32.11.02.2005",
+      "name": "Banjarsari",
+      "postal_code": "45376"
+    },
+    {
+      "id": "32.11.02.2006",
+      "name": "Kirisik",
+      "postal_code": "45376"
+    },
+    {
+      "id": "32.11.02.2007",
+      "name": "Sukamanah",
+      "postal_code": "45376"
+    },
+    {
+      "id": "32.11.02.2008",
+      "name": "Cipeundeuy",
+      "postal_code": "45376"
+    },
+    {
+      "id": "32.11.02.2009",
+      "name": "Cimanintin",
+      "postal_code": "45376"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

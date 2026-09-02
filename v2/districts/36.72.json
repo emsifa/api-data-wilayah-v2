@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "36.72",
-    "name": "Kota Cilegon",
-    "province": {
-      "id": "36",
-      "name": "Banten"
+  "data": [
+    {
+      "id": "36.72.01",
+      "name": "Cibeber"
     },
-    "regency": {
-      "id": "36.72",
-      "name": "Kota Cilegon"
+    {
+      "id": "36.72.02",
+      "name": "Cilegon"
+    },
+    {
+      "id": "36.72.03",
+      "name": "Pulomerak"
+    },
+    {
+      "id": "36.72.04",
+      "name": "Ciwandan"
+    },
+    {
+      "id": "36.72.05",
+      "name": "Jombang"
+    },
+    {
+      "id": "36.72.06",
+      "name": "Gerogol"
+    },
+    {
+      "id": "36.72.07",
+      "name": "Purwakarta"
+    },
+    {
+      "id": "36.72.08",
+      "name": "Citangkil"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

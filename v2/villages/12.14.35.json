@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "12.14.35.2001",
+      "name": "Lahusa Idanotae",
+      "postal_code": "22878"
+    },
+    {
+      "id": "12.14.35.2002",
+      "name": "Hiliserangkai",
+      "postal_code": "22878"
+    },
+    {
+      "id": "12.14.35.2003",
+      "name": "Orahua",
+      "postal_code": "22878"
+    },
+    {
+      "id": "12.14.35.2004",
+      "name": "Hilimbowo Idanotae",
+      "postal_code": "22878"
+    },
+    {
+      "id": "12.14.35.2005",
+      "name": "Sirahia",
+      "postal_code": "22878"
+    },
+    {
+      "id": "12.14.35.2006",
+      "name": "Umbu Idanotae",
+      "postal_code": "22878"
+    },
+    {
+      "id": "12.14.35.2007",
+      "name": "Awoni",
+      "postal_code": "22878"
+    },
+    {
+      "id": "12.14.35.2008",
+      "name": "Hilisalo'o",
+      "postal_code": "22878"
+    },
+    {
+      "id": "12.14.35.2009",
+      "name": "Balombaruzo Orahua",
+      "postal_code": "22878"
+    },
+    {
+      "id": "12.14.35.2010",
+      "name": "Harefa Orahua",
+      "postal_code": "22878"
+    },
+    {
+      "id": "12.14.35.2011",
+      "name": "Hiligabungan",
+      "postal_code": "22878"
+    },
+    {
+      "id": "12.14.35.2012",
+      "name": "Buhawa",
+      "postal_code": "22878"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

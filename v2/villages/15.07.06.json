@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "15.07.06.1006",
+      "name": "Rantau Indah",
+      "postal_code": "36763"
+    },
+    {
+      "id": "15.07.06.2003",
+      "name": "Kuala Dendang",
+      "postal_code": "36763"
+    },
+    {
+      "id": "15.07.06.2004",
+      "name": "Koto Kandis Dendang",
+      "postal_code": "36763"
+    },
+    {
+      "id": "15.07.06.2005",
+      "name": "Koto Kandis",
+      "postal_code": "36763"
+    },
+    {
+      "id": "15.07.06.2007",
+      "name": "Sido Mukti",
+      "postal_code": "36763"
+    },
+    {
+      "id": "15.07.06.2008",
+      "name": "Catur Rahayu",
+      "postal_code": "36763"
+    },
+    {
+      "id": "15.07.06.2009",
+      "name": "Jati Mulyo",
+      "postal_code": "36763"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

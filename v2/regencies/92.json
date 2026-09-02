@@ -1,21 +1,85 @@
 {
-  "data": {
-    "id": "92",
-    "name": "Papua Barat",
-    "capital": "Manokwari",
-    "lat": -0.9183508078420117,
-    "lng": 134.03048752217148,
-    "elv": 144,
-    "tz": 9,
-    "population": 576255,
-    "total_area": 60308.59,
-    "province": {
-      "id": "92",
-      "name": "Papua Barat"
+  "data": [
+    {
+      "id": "92.02",
+      "name": "Kabupaten Manokwari",
+      "capital": "Manokwari",
+      "lat": -0.8908143771517435,
+      "lng": 134.04012022193126,
+      "elv": 125,
+      "tz": 9,
+      "population": 205212,
+      "total_area": 2764.187
+    },
+    {
+      "id": "92.03",
+      "name": "Kabupaten Fak Fak",
+      "capital": "Fakfak",
+      "lat": -2.928858303144004,
+      "lng": 132.29363471143284,
+      "elv": 42,
+      "tz": 9,
+      "population": 93997,
+      "total_area": 9735.003
+    },
+    {
+      "id": "92.06",
+      "name": "Kabupaten Teluk Bintuni",
+      "capital": "Bintuni",
+      "lat": -2.0349716122196853,
+      "lng": 133.73180639786548,
+      "elv": 55,
+      "tz": 9,
+      "population": 84205,
+      "total_area": 84205
+    },
+    {
+      "id": "92.07",
+      "name": "Kabupaten Teluk Wondama",
+      "capital": "Rasiei",
+      "lat": -2.8276928485593285,
+      "lng": 134.53572347142966,
+      "elv": 70,
+      "tz": 9,
+      "population": 47494,
+      "total_area": 4847.951
+    },
+    {
+      "id": "92.08",
+      "name": "Kabupaten Kaimana",
+      "capital": "Kaimana",
+      "lat": -3.6396913935577087,
+      "lng": 133.74006737885003,
+      "elv": 20,
+      "tz": 9,
+      "population": 64938,
+      "total_area": 17878.913
+    },
+    {
+      "id": "92.11",
+      "name": "Kabupaten Manokwari Selatan",
+      "capital": "Ransiki",
+      "lat": -1.5063952702108039,
+      "lng": 134.16864333913085,
+      "elv": 30,
+      "tz": 9,
+      "population": 39026,
+      "total_area": 39026
+    },
+    {
+      "id": "92.12",
+      "name": "Kabupaten Pegunungan Arfak",
+      "capital": "Anggi",
+      "lat": -1.3250472221470158,
+      "lng": 133.9165696939254,
+      "elv": 1962,
+      "tz": 9,
+      "population": 41383,
+      "total_area": 3298.811
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:11Z",
+    "generated_at": "2026-09-02T03:39:51Z",
     "level": 2
   }
 }

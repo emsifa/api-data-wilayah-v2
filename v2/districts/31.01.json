@@ -1,18 +1,16 @@
 {
-  "data": {
-    "id": "31.01",
-    "name": "Kabupaten Administrasi Kepulauan Seribu",
-    "province": {
-      "id": "31",
-      "name": "Daerah Khusus Ibukota Jakarta"
+  "data": [
+    {
+      "id": "31.01.01",
+      "name": "Kepulauan Seribu Utara"
     },
-    "regency": {
-      "id": "31.01",
-      "name": "Kabupaten Administrasi Kepulauan Seribu"
+    {
+      "id": "31.01.02",
+      "name": "Kepulauan Seribu Selatan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

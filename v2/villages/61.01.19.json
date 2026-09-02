@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "61.01.19.2001",
+      "name": "Gelik",
+      "postal_code": "79451"
+    },
+    {
+      "id": "61.01.19.2002",
+      "name": "Seranggam",
+      "postal_code": "79451"
+    },
+    {
+      "id": "61.01.19.2003",
+      "name": "Selakau Tua",
+      "postal_code": "79451"
+    },
+    {
+      "id": "61.01.19.2004",
+      "name": "Buduk Sempadang",
+      "postal_code": "79451"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

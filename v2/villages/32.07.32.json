@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.07.32.2001",
+      "name": "Baregbeg",
+      "postal_code": "46274"
+    },
+    {
+      "id": "32.07.32.2002",
+      "name": "Sukamaju",
+      "postal_code": "46274"
+    },
+    {
+      "id": "32.07.32.2003",
+      "name": "Mekarjaya",
+      "postal_code": "46274"
+    },
+    {
+      "id": "32.07.32.2004",
+      "name": "Saguling",
+      "postal_code": "46274"
+    },
+    {
+      "id": "32.07.32.2005",
+      "name": "Petirhilir",
+      "postal_code": "46274"
+    },
+    {
+      "id": "32.07.32.2006",
+      "name": "Pusakanagara",
+      "postal_code": "46274"
+    },
+    {
+      "id": "32.07.32.2007",
+      "name": "Jelat",
+      "postal_code": "46274"
+    },
+    {
+      "id": "32.07.32.2008",
+      "name": "Karangampel",
+      "postal_code": "46274"
+    },
+    {
+      "id": "32.07.32.2009",
+      "name": "Sukamulya",
+      "postal_code": "46274"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

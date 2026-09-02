@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "19.06.07",
+    "name": "Simpang Pesak",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.06",
+      "name": "Kabupaten Belitung Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

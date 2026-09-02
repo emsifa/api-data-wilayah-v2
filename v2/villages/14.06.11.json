@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "14.06.11.2001",
+      "name": "Tandun",
+      "postal_code": "28552"
+    },
+    {
+      "id": "14.06.11.2002",
+      "name": "Kumain",
+      "postal_code": "28552"
+    },
+    {
+      "id": "14.06.11.2003",
+      "name": "Bono Tapung",
+      "postal_code": "28552"
+    },
+    {
+      "id": "14.06.11.2004",
+      "name": "Dayo",
+      "postal_code": "28552"
+    },
+    {
+      "id": "14.06.11.2005",
+      "name": "Tapung Jaya",
+      "postal_code": "28552"
+    },
+    {
+      "id": "14.06.11.2006",
+      "name": "Puo Raya",
+      "postal_code": "28552"
+    },
+    {
+      "id": "14.06.11.2007",
+      "name": "Sei Kuning",
+      "postal_code": "28552"
+    },
+    {
+      "id": "14.06.11.2008",
+      "name": "Koto Tandun",
+      "postal_code": "28552"
+    },
+    {
+      "id": "14.06.11.2009",
+      "name": "Tandun Barat",
+      "postal_code": "28552"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

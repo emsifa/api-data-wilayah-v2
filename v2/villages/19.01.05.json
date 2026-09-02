@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "19.01.05.2001",
+      "name": "Air Ruai",
+      "postal_code": "33255"
+    },
+    {
+      "id": "19.01.05.2002",
+      "name": "Air Duren",
+      "postal_code": "33255"
+    },
+    {
+      "id": "19.01.05.2003",
+      "name": "Penyamun",
+      "postal_code": "33251"
+    },
+    {
+      "id": "19.01.05.2004",
+      "name": "Sempan",
+      "postal_code": "33251"
+    },
+    {
+      "id": "19.01.05.2005",
+      "name": "Pemali",
+      "postal_code": "33255"
+    },
+    {
+      "id": "19.01.05.2006",
+      "name": "Karya Makmur",
+      "postal_code": "33255"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

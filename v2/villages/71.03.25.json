@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "71.03.25.2001",
+      "name": "Marore",
+      "postal_code": "95841"
+    },
+    {
+      "id": "71.03.25.2002",
+      "name": "Kawio",
+      "postal_code": "95841"
+    },
+    {
+      "id": "71.03.25.2003",
+      "name": "Matutuang",
+      "postal_code": "95841"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "64.01.03.2001",
+      "name": "Lempesu",
+      "postal_code": "76271"
+    },
+    {
+      "id": "64.01.03.2002",
+      "name": "Bekoso",
+      "postal_code": "76271"
+    },
+    {
+      "id": "64.01.03.2003",
+      "name": "Damit",
+      "postal_code": "76271"
+    },
+    {
+      "id": "64.01.03.2004",
+      "name": "Suatang",
+      "postal_code": "76271"
+    },
+    {
+      "id": "64.01.03.2005",
+      "name": "Suliliran",
+      "postal_code": "76271"
+    },
+    {
+      "id": "64.01.03.2006",
+      "name": "Pasir Belengkong",
+      "postal_code": "76271"
+    },
+    {
+      "id": "64.01.03.2007",
+      "name": "Sangkuriman",
+      "postal_code": "76271"
+    },
+    {
+      "id": "64.01.03.2008",
+      "name": "Laburan",
+      "postal_code": "76271"
+    },
+    {
+      "id": "64.01.03.2009",
+      "name": "Suliliran Baru",
+      "postal_code": "76271"
+    },
+    {
+      "id": "64.01.03.2010",
+      "name": "Keresik Bura",
+      "postal_code": "76271"
+    },
+    {
+      "id": "64.01.03.2011",
+      "name": "Laburan Baru",
+      "postal_code": "76271"
+    },
+    {
+      "id": "64.01.03.2012",
+      "name": "Seniung Jaya",
+      "postal_code": "76271"
+    },
+    {
+      "id": "64.01.03.2013",
+      "name": "Sunge Batu",
+      "postal_code": "76271"
+    },
+    {
+      "id": "64.01.03.2014",
+      "name": "Olong Pinang",
+      "postal_code": "76271"
+    },
+    {
+      "id": "64.01.03.2015",
+      "name": "Suatang Keteban",
+      "postal_code": "76271"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

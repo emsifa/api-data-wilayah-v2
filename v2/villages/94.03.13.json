@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "94.03.13.2001",
+      "name": "Pugo",
+      "postal_code": "98719"
+    },
+    {
+      "id": "94.03.13.2002",
+      "name": "Waidide",
+      "postal_code": "98719"
+    },
+    {
+      "id": "94.03.13.2003",
+      "name": "Kopaidagi",
+      "postal_code": "98719"
+    },
+    {
+      "id": "94.03.13.2004",
+      "name": "Uwibutu",
+      "postal_code": "98719"
+    },
+    {
+      "id": "94.03.13.2005",
+      "name": "Tipago",
+      "postal_code": "98719"
+    },
+    {
+      "id": "94.03.13.2006",
+      "name": "Boba",
+      "postal_code": "98719"
+    },
+    {
+      "id": "94.03.13.2007",
+      "name": "Iyaidagi",
+      "postal_code": "98719"
+    },
+    {
+      "id": "94.03.13.2008",
+      "name": "Iyaitadi",
+      "postal_code": "98719"
+    },
+    {
+      "id": "94.03.13.2009",
+      "name": "Waiepo",
+      "postal_code": "98719"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

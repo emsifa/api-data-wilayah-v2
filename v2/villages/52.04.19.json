@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "52.04.19.2001",
+      "name": "Labangka",
+      "postal_code": "84383"
+    },
+    {
+      "id": "52.04.19.2002",
+      "name": "Sekokat",
+      "postal_code": "84383"
+    },
+    {
+      "id": "52.04.19.2003",
+      "name": "Suka Mulya",
+      "postal_code": "84383"
+    },
+    {
+      "id": "52.04.19.2004",
+      "name": "Suka Damai",
+      "postal_code": "84383"
+    },
+    {
+      "id": "52.04.19.2005",
+      "name": "Jaya Makmur",
+      "postal_code": "84383"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

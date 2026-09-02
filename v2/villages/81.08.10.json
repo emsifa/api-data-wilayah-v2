@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "81.08.10.2001",
+      "name": "Watuwei",
+      "postal_code": "97651"
+    },
+    {
+      "id": "81.08.10.2002",
+      "name": "Ilmarang",
+      "postal_code": "97651"
+    },
+    {
+      "id": "81.08.10.2003",
+      "name": "Letmasa",
+      "postal_code": "97651"
+    },
+    {
+      "id": "81.08.10.2004",
+      "name": "Welora",
+      "postal_code": "97651"
+    },
+    {
+      "id": "81.08.10.2005",
+      "name": "Wiratan",
+      "postal_code": "97651"
+    },
+    {
+      "id": "81.08.10.2006",
+      "name": "Nurnyaman",
+      "postal_code": "97651"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "18.71.02.1003",
+      "name": "Sukarame",
+      "postal_code": "35131"
+    },
+    {
+      "id": "18.71.02.1004",
+      "name": "Way Dadi",
+      "postal_code": "35131"
+    },
+    {
+      "id": "18.71.02.1006",
+      "name": "Sukarame Baru",
+      "postal_code": "35131"
+    },
+    {
+      "id": "18.71.02.1007",
+      "name": "Way Dadi Baru",
+      "postal_code": "35131"
+    },
+    {
+      "id": "18.71.02.1008",
+      "name": "Korpri jaya",
+      "postal_code": "35131"
+    },
+    {
+      "id": "18.71.02.1009",
+      "name": "Korpri Raya",
+      "postal_code": "35131"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

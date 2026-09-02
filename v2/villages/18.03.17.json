@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "18.03.17.2001",
+      "name": "Negera Kemakmuran",
+      "postal_code": "34561"
+    },
+    {
+      "id": "18.03.17.2002",
+      "name": "Bonglai Tengah",
+      "postal_code": "34561"
+    },
+    {
+      "id": "18.03.17.2003",
+      "name": "Tanjung Harapan",
+      "postal_code": "34561"
+    },
+    {
+      "id": "18.03.17.2004",
+      "name": "Lubuk Rukam",
+      "postal_code": "34561"
+    },
+    {
+      "id": "18.03.17.2005",
+      "name": "Ibul Jaya",
+      "postal_code": "34561"
+    },
+    {
+      "id": "18.03.17.2006",
+      "name": "Beringin Jaya",
+      "postal_code": "34561"
+    },
+    {
+      "id": "18.03.17.2007",
+      "name": "Gedung Makrifat",
+      "postal_code": "34561"
+    },
+    {
+      "id": "18.03.17.2008",
+      "name": "Gedung Raja",
+      "postal_code": "34561"
+    },
+    {
+      "id": "18.03.17.2009",
+      "name": "Gedung Negara",
+      "postal_code": "34561"
+    },
+    {
+      "id": "18.03.17.2010",
+      "name": "Tulung Buyut",
+      "postal_code": "34561"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

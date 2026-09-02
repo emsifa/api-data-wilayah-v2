@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "35.20.01.1005",
+      "name": "Alastuwo",
+      "postal_code": "63362"
+    },
+    {
+      "id": "35.20.01.2001",
+      "name": "Poncol",
+      "postal_code": "63362"
+    },
+    {
+      "id": "35.20.01.2002",
+      "name": "Gonggang",
+      "postal_code": "63362"
+    },
+    {
+      "id": "35.20.01.2003",
+      "name": "Janggan",
+      "postal_code": "63362"
+    },
+    {
+      "id": "35.20.01.2004",
+      "name": "Genilangit",
+      "postal_code": "63362"
+    },
+    {
+      "id": "35.20.01.2006",
+      "name": "Plangkrongan",
+      "postal_code": "63362"
+    },
+    {
+      "id": "35.20.01.2007",
+      "name": "Cileng",
+      "postal_code": "63362"
+    },
+    {
+      "id": "35.20.01.2008",
+      "name": "Sombo",
+      "postal_code": "63362"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

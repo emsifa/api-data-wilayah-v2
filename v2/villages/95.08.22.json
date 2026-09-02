@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "95.08.22.2001",
+      "name": "Uburu",
+      "postal_code": "99911"
+    },
+    {
+      "id": "95.08.22.2002",
+      "name": "Kabolilangen",
+      "postal_code": "99911"
+    },
+    {
+      "id": "95.08.22.2003",
+      "name": "Kolma",
+      "postal_code": "99911"
+    },
+    {
+      "id": "95.08.22.2004",
+      "name": "Brambel",
+      "postal_code": "99911"
+    },
+    {
+      "id": "95.08.22.2005",
+      "name": "Kiabypma",
+      "postal_code": "99911"
+    },
+    {
+      "id": "95.08.22.2006",
+      "name": "Kibisim",
+      "postal_code": "99911"
+    },
+    {
+      "id": "95.08.22.2007",
+      "name": "Labrik",
+      "postal_code": "99911"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

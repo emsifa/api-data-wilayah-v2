@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "75.04.05.1001",
+      "name": "Libuo",
+      "postal_code": "96362"
+    },
+    {
+      "id": "75.04.05.1002",
+      "name": "Pentadu",
+      "postal_code": "96362"
+    },
+    {
+      "id": "75.04.05.1003",
+      "name": "Siduan",
+      "postal_code": "96362"
+    },
+    {
+      "id": "75.04.05.2004",
+      "name": "Bunuyo",
+      "postal_code": "96362"
+    },
+    {
+      "id": "75.04.05.2005",
+      "name": "Sipayo",
+      "postal_code": "96362"
+    },
+    {
+      "id": "75.04.05.2006",
+      "name": "Soginti",
+      "postal_code": "96362"
+    },
+    {
+      "id": "75.04.05.2010",
+      "name": "Bumbulan",
+      "postal_code": "96362"
+    },
+    {
+      "id": "75.04.05.2012",
+      "name": "Maleo",
+      "postal_code": "96362"
+    },
+    {
+      "id": "75.04.05.2013",
+      "name": "Molamahu",
+      "postal_code": "96362"
+    },
+    {
+      "id": "75.04.05.2014",
+      "name": "Buhu Jaya",
+      "postal_code": "96362"
+    },
+    {
+      "id": "75.04.05.2015",
+      "name": "Kemiri",
+      "postal_code": "96362"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

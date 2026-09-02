@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "18.06.20.2001",
+      "name": "Banjar Manis",
+      "postal_code": "35378"
+    },
+    {
+      "id": "18.06.20.2002",
+      "name": "Campang",
+      "postal_code": "35378"
+    },
+    {
+      "id": "18.06.20.2003",
+      "name": "Kuta Dalom",
+      "postal_code": "35378"
+    },
+    {
+      "id": "18.06.20.2004",
+      "name": "Purwodadi",
+      "postal_code": "35378"
+    },
+    {
+      "id": "18.06.20.2005",
+      "name": "Gisting Bawah",
+      "postal_code": "35378"
+    },
+    {
+      "id": "18.06.20.2006",
+      "name": "Gisting Atas",
+      "postal_code": "35378"
+    },
+    {
+      "id": "18.06.20.2007",
+      "name": "Sidokaton",
+      "postal_code": "35378"
+    },
+    {
+      "id": "18.06.20.2008",
+      "name": "Landbaw",
+      "postal_code": "35378"
+    },
+    {
+      "id": "18.06.20.2009",
+      "name": "Gisting Permai",
+      "postal_code": "35378"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

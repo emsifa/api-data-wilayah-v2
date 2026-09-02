@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "21.05.02.2002",
+      "name": "Tebang",
+      "postal_code": "29796"
+    },
+    {
+      "id": "21.05.02.2003",
+      "name": "Ladan",
+      "postal_code": "29796"
+    },
+    {
+      "id": "21.05.02.2005",
+      "name": "Piabung",
+      "postal_code": "29796"
+    },
+    {
+      "id": "21.05.02.2006",
+      "name": "Langir",
+      "postal_code": "29796"
+    },
+    {
+      "id": "21.05.02.2007",
+      "name": "Candi",
+      "postal_code": "29796"
+    },
+    {
+      "id": "21.05.02.2008",
+      "name": "Putik",
+      "postal_code": "29796"
+    },
+    {
+      "id": "21.05.02.2015",
+      "name": "Belibak",
+      "postal_code": "29796"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

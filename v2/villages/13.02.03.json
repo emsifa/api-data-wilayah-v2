@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "13.02.03.2001",
+      "name": "Lolo",
+      "postal_code": "27373"
+    },
+    {
+      "id": "13.02.03.2002",
+      "name": "Surian",
+      "postal_code": "27373"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

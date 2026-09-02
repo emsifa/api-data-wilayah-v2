@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "33.03.05.1001",
+      "name": "Bojong",
+      "postal_code": "53319"
+    },
+    {
+      "id": "33.03.05.1003",
+      "name": "Kedungmenjangan",
+      "postal_code": "53315"
+    },
+    {
+      "id": "33.03.05.1005",
+      "name": "Bancar",
+      "postal_code": "53316"
+    },
+    {
+      "id": "33.03.05.1006",
+      "name": "Purbalingga Wetan",
+      "postal_code": "53317"
+    },
+    {
+      "id": "33.03.05.1007",
+      "name": "Penambongan",
+      "postal_code": "53314"
+    },
+    {
+      "id": "33.03.05.1008",
+      "name": "Purbalingga Kidul",
+      "postal_code": "53313"
+    },
+    {
+      "id": "33.03.05.1009",
+      "name": "Kandanggampang",
+      "postal_code": "53319"
+    },
+    {
+      "id": "33.03.05.1010",
+      "name": "Purbalingga Kulon",
+      "postal_code": "53312"
+    },
+    {
+      "id": "33.03.05.1011",
+      "name": "Purbalingga Lor",
+      "postal_code": "53311"
+    },
+    {
+      "id": "33.03.05.1012",
+      "name": "Kembaran Kulon",
+      "postal_code": "53319"
+    },
+    {
+      "id": "33.03.05.1013",
+      "name": "Wirasana",
+      "postal_code": "53318"
+    },
+    {
+      "id": "33.03.05.2002",
+      "name": "Toyareja",
+      "postal_code": "53315"
+    },
+    {
+      "id": "33.03.05.2004",
+      "name": "Jatisaba",
+      "postal_code": "53316"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

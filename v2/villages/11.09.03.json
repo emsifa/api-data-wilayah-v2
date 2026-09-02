@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "11.09.03.2001",
+      "name": "Silengas",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2002",
+      "name": "Bunon",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2003",
+      "name": "Angkeo",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2004",
+      "name": "Awe Seubal",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2005",
+      "name": "Laayon",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2006",
+      "name": "Inor",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2007",
+      "name": "Salur Lasengalu",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2008",
+      "name": "Salur Latun",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2009",
+      "name": "Salur",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2010",
+      "name": "Pulau Teupah",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2011",
+      "name": "Awe Kecil",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2012",
+      "name": "Naibos",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2013",
+      "name": "Lantik",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2014",
+      "name": "Leubang Hulu",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2015",
+      "name": "Leubang",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2016",
+      "name": "Sital",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2017",
+      "name": "Maudil",
+      "postal_code": "23897"
+    },
+    {
+      "id": "11.09.03.2018",
+      "name": "Nancala",
+      "postal_code": "23897"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

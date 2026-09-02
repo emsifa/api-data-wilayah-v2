@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "95.03.22.2001",
+      "name": "Nipsan",
+      "postal_code": "99758"
+    },
+    {
+      "id": "95.03.22.2002",
+      "name": "Tapla",
+      "postal_code": "99758"
+    },
+    {
+      "id": "95.03.22.2003",
+      "name": "Walmak",
+      "postal_code": "99758"
+    },
+    {
+      "id": "95.03.22.2004",
+      "name": "Serengon",
+      "postal_code": "99758"
+    },
+    {
+      "id": "95.03.22.2005",
+      "name": "Ikmu",
+      "postal_code": "99758"
+    },
+    {
+      "id": "95.03.22.2006",
+      "name": "Biu",
+      "postal_code": "99758"
+    },
+    {
+      "id": "95.03.22.2007",
+      "name": "Ilukdamon",
+      "postal_code": "99758"
+    },
+    {
+      "id": "95.03.22.2008",
+      "name": "Yalmun",
+      "postal_code": "99758"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

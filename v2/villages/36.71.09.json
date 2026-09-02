@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "36.71.09.1001",
+      "name": "Cibodas",
+      "postal_code": "15138"
+    },
+    {
+      "id": "36.71.09.1002",
+      "name": "Cibodas Sari",
+      "postal_code": "15138"
+    },
+    {
+      "id": "36.71.09.1003",
+      "name": "Cibodas Baru",
+      "postal_code": "15138"
+    },
+    {
+      "id": "36.71.09.1004",
+      "name": "Panunggangan Barat",
+      "postal_code": "15139"
+    },
+    {
+      "id": "36.71.09.1005",
+      "name": "Uwung Jaya",
+      "postal_code": "15138"
+    },
+    {
+      "id": "36.71.09.1006",
+      "name": "Jatiuwung",
+      "postal_code": "15134"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

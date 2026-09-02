@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.04.37.2001",
+      "name": "Soreang",
+      "postal_code": "40911"
+    },
+    {
+      "id": "32.04.37.2002",
+      "name": "Sadu",
+      "postal_code": "40913"
+    },
+    {
+      "id": "32.04.37.2004",
+      "name": "Panyirapan",
+      "postal_code": "40915"
+    },
+    {
+      "id": "32.04.37.2010",
+      "name": "Sukajadi",
+      "postal_code": "40911"
+    },
+    {
+      "id": "32.04.37.2011",
+      "name": "Pamekaran",
+      "postal_code": "40912"
+    },
+    {
+      "id": "32.04.37.2017",
+      "name": "Karamatmulya",
+      "postal_code": "40914"
+    },
+    {
+      "id": "32.04.37.2018",
+      "name": "Sukanagara",
+      "postal_code": "40911"
+    },
+    {
+      "id": "32.04.37.2019",
+      "name": "Cingcin",
+      "postal_code": "40914"
+    },
+    {
+      "id": "32.04.37.2020",
+      "name": "Parungserab",
+      "postal_code": "40914"
+    },
+    {
+      "id": "32.04.37.2021",
+      "name": "Sekarwangi",
+      "postal_code": "40914"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

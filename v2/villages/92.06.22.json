@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "92.06.22.2001",
+      "name": "Meyerga",
+      "postal_code": "98154"
+    },
+    {
+      "id": "92.06.22.2002",
+      "name": "Macok",
+      "postal_code": "98154"
+    },
+    {
+      "id": "92.06.22.2003",
+      "name": "Istiwkem",
+      "postal_code": "98154"
+    },
+    {
+      "id": "92.06.22.2004",
+      "name": "Majnic",
+      "postal_code": "98154"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

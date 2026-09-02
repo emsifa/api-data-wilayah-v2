@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "73.04.07.1002",
+      "name": "Bontoramba",
+      "postal_code": "92351"
+    },
+    {
+      "id": "73.04.07.2001",
+      "name": "Bulusibatang",
+      "postal_code": "92351"
+    },
+    {
+      "id": "73.04.07.2003",
+      "name": "Balumbungan",
+      "postal_code": "92351"
+    },
+    {
+      "id": "73.04.07.2004",
+      "name": "Bangkalaloe",
+      "postal_code": "92351"
+    },
+    {
+      "id": "73.04.07.2005",
+      "name": "Datara",
+      "postal_code": "92351"
+    },
+    {
+      "id": "73.04.07.2006",
+      "name": "Maero",
+      "postal_code": "92351"
+    },
+    {
+      "id": "73.04.07.2007",
+      "name": "Kareloe",
+      "postal_code": "92351"
+    },
+    {
+      "id": "73.04.07.2008",
+      "name": "Batujala",
+      "postal_code": "92351"
+    },
+    {
+      "id": "73.04.07.2009",
+      "name": "Bulusuka",
+      "postal_code": "92351"
+    },
+    {
+      "id": "73.04.07.2010",
+      "name": "Tanammawang",
+      "postal_code": "92351"
+    },
+    {
+      "id": "73.04.07.2011",
+      "name": "Lentu",
+      "postal_code": "92351"
+    },
+    {
+      "id": "73.04.07.2012",
+      "name": "Baraya",
+      "postal_code": "92351"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

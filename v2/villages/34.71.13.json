@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "34.71.13.1001",
+      "name": "Semaki",
+      "postal_code": "55166"
+    },
+    {
+      "id": "34.71.13.1002",
+      "name": "Muja Muju",
+      "postal_code": "55165"
+    },
+    {
+      "id": "34.71.13.1003",
+      "name": "Tahunan",
+      "postal_code": "55167"
+    },
+    {
+      "id": "34.71.13.1004",
+      "name": "Warungboto",
+      "postal_code": "55164"
+    },
+    {
+      "id": "34.71.13.1005",
+      "name": "Pandeyan",
+      "postal_code": "55161"
+    },
+    {
+      "id": "34.71.13.1006",
+      "name": "Sorosutan",
+      "postal_code": "55162"
+    },
+    {
+      "id": "34.71.13.1007",
+      "name": "Giwangan",
+      "postal_code": "55163"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

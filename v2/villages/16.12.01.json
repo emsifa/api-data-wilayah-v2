@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": "16.12.01.1003",
+      "name": "Talang Ubi Timur",
+      "postal_code": "31213"
+    },
+    {
+      "id": "16.12.01.1010",
+      "name": "Talang Ubi Barat",
+      "postal_code": "31211"
+    },
+    {
+      "id": "16.12.01.1011",
+      "name": "Talang Ubi Utara",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.1012",
+      "name": "Talang Ubi Selatan",
+      "postal_code": "31212"
+    },
+    {
+      "id": "16.12.01.1017",
+      "name": "Pasar Bhayangkara",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.1018",
+      "name": "Handayani Mulya",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.2001",
+      "name": "Talang Bulang",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.2002",
+      "name": "Benuang",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.2004",
+      "name": "Talang Akar",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.2005",
+      "name": "Sungai Ibul",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.2006",
+      "name": "Karta Dewa",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.2007",
+      "name": "Panta Dewa",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.2008",
+      "name": "Sungai Baung",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.2009",
+      "name": "Semangus",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.2013",
+      "name": "Sinar Dewa",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.2014",
+      "name": "Benakat Minyak",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.2015",
+      "name": "Suka Maju",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.2016",
+      "name": "Suka Damai",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.2019",
+      "name": "Beruge Darat",
+      "postal_code": "31214"
+    },
+    {
+      "id": "16.12.01.2020",
+      "name": "Simpang Tais",
+      "postal_code": "31214"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

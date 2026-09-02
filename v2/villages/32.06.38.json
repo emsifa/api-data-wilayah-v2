@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.06.38.2001",
+      "name": "Cipacing",
+      "postal_code": "46158"
+    },
+    {
+      "id": "32.06.38.2002",
+      "name": "Pagerageung",
+      "postal_code": "46158"
+    },
+    {
+      "id": "32.06.38.2003",
+      "name": "Sukamaju",
+      "postal_code": "46158"
+    },
+    {
+      "id": "32.06.38.2004",
+      "name": "Tanjungkerta",
+      "postal_code": "46158"
+    },
+    {
+      "id": "32.06.38.2005",
+      "name": "Puteran",
+      "postal_code": "46158"
+    },
+    {
+      "id": "32.06.38.2006",
+      "name": "Guranteng",
+      "postal_code": "46158"
+    },
+    {
+      "id": "32.06.38.2007",
+      "name": "Nanggewer",
+      "postal_code": "46158"
+    },
+    {
+      "id": "32.06.38.2008",
+      "name": "Sukapada",
+      "postal_code": "46158"
+    },
+    {
+      "id": "32.06.38.2009",
+      "name": "Pagersari",
+      "postal_code": "46158"
+    },
+    {
+      "id": "32.06.38.2010",
+      "name": "Sukadana",
+      "postal_code": "46413"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

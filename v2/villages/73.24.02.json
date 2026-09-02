@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "73.24.02.1007",
+      "name": "Magani",
+      "postal_code": "92983"
+    },
+    {
+      "id": "73.24.02.2001",
+      "name": "Nuha",
+      "postal_code": "92983"
+    },
+    {
+      "id": "73.24.02.2003",
+      "name": "Nikkel",
+      "postal_code": "92983"
+    },
+    {
+      "id": "73.24.02.2005",
+      "name": "Matano",
+      "postal_code": "92983"
+    },
+    {
+      "id": "73.24.02.2009",
+      "name": "Sorowako",
+      "postal_code": "92983"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

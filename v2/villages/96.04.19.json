@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "96.04.19.2001",
+      "name": "Tabamsere",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.19.2002",
+      "name": "Sayam",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.19.2003",
+      "name": "Araf Mafat",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.19.2004",
+      "name": "Esyuom",
+      "postal_code": "98473"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "61.06.05.2001",
+      "name": "Bunut Hilir",
+      "postal_code": "78761"
+    },
+    {
+      "id": "61.06.05.2002",
+      "name": "Bunut Hulu",
+      "postal_code": "78762"
+    },
+    {
+      "id": "61.06.05.2003",
+      "name": "Teluk Aur",
+      "postal_code": "78761"
+    },
+    {
+      "id": "61.06.05.2004",
+      "name": "Nanga Tuan",
+      "postal_code": "78761"
+    },
+    {
+      "id": "61.06.05.2006",
+      "name": "Ujung Pandang",
+      "postal_code": "78761"
+    },
+    {
+      "id": "61.06.05.2007",
+      "name": "Empangau",
+      "postal_code": "78761"
+    },
+    {
+      "id": "61.06.05.2008",
+      "name": "Tembang",
+      "postal_code": "78761"
+    },
+    {
+      "id": "61.06.05.2009",
+      "name": "Bunut Tengah",
+      "postal_code": "78761"
+    },
+    {
+      "id": "61.06.05.2010",
+      "name": "Entibab",
+      "postal_code": "78761"
+    },
+    {
+      "id": "61.06.05.2011",
+      "name": "Kapuas Raya",
+      "postal_code": "78761"
+    },
+    {
+      "id": "61.06.05.2012",
+      "name": "Empangau Hilir",
+      "postal_code": "78761"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

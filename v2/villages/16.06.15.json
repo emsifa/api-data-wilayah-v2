@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "16.06.15.2001",
+      "name": "Jirak",
+      "postal_code": "30751"
+    },
+    {
+      "id": "16.06.15.2002",
+      "name": "Rukun Rahayu",
+      "postal_code": "30751"
+    },
+    {
+      "id": "16.06.15.2003",
+      "name": "Talang Simpang",
+      "postal_code": "30751"
+    },
+    {
+      "id": "16.06.15.2004",
+      "name": "Jembatan Gantung",
+      "postal_code": "30751"
+    },
+    {
+      "id": "16.06.15.2005",
+      "name": "Talang Mandung",
+      "postal_code": "30751"
+    },
+    {
+      "id": "16.06.15.2006",
+      "name": "Rejosari",
+      "postal_code": "30751"
+    },
+    {
+      "id": "16.06.15.2007",
+      "name": "Bangkit Jaya",
+      "postal_code": "30751"
+    },
+    {
+      "id": "16.06.15.2008",
+      "name": "Baru Jaya",
+      "postal_code": "30751"
+    },
+    {
+      "id": "16.06.15.2009",
+      "name": "Sinar Jaya",
+      "postal_code": "30751"
+    },
+    {
+      "id": "16.06.15.2010",
+      "name": "Setia Jaya",
+      "postal_code": "30751"
+    },
+    {
+      "id": "16.06.15.2011",
+      "name": "Mekar Jaya",
+      "postal_code": "30751"
+    },
+    {
+      "id": "16.06.15.2012",
+      "name": "Layan",
+      "postal_code": "30751"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

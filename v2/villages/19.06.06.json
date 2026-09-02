@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "19.06.06.2001",
+      "name": "Simpang Tiga",
+      "postal_code": "33563"
+    },
+    {
+      "id": "19.06.06.2002",
+      "name": "Renggiang",
+      "postal_code": "33563"
+    },
+    {
+      "id": "19.06.06.2003",
+      "name": "Aik Madu",
+      "postal_code": "33563"
+    },
+    {
+      "id": "19.06.06.2004",
+      "name": "Lintang",
+      "postal_code": "33563"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

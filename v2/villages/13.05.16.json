@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "13.05.16.2001",
+      "name": "Sungai Durian",
+      "postal_code": "25574"
+    },
+    {
+      "id": "13.05.16.2002",
+      "name": "Tandikek",
+      "postal_code": "25574"
+    },
+    {
+      "id": "13.05.16.2003",
+      "name": "Tandikek Utara",
+      "postal_code": "25574"
+    },
+    {
+      "id": "13.05.16.2004",
+      "name": "Tandikek Selatan",
+      "postal_code": "25574"
+    },
+    {
+      "id": "13.05.16.2005",
+      "name": "Tandikek Barat",
+      "postal_code": "25574"
+    },
+    {
+      "id": "13.05.16.2006",
+      "name": "Kampuang Tanjuang Koto Mambang Sungai Durian",
+      "postal_code": "25574"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

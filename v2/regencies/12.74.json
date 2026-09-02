@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "12.74",
+    "name": "Kota Tanjungbalai",
+    "capital": "Tanjungbalai",
+    "lat": 2.9477544593720797,
+    "lng": 99.76671856261935,
+    "elv": 3,
+    "tz": 7,
+    "population": 187939,
+    "total_area": 60.072,
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

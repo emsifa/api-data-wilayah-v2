@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "81.07.04.2001",
+      "name": "Marlasi",
+      "postal_code": "97660"
+    },
+    {
+      "id": "81.07.04.2002",
+      "name": "Kolamar",
+      "postal_code": "97660"
+    },
+    {
+      "id": "81.07.04.2003",
+      "name": "Kabufin",
+      "postal_code": "97660"
+    },
+    {
+      "id": "81.07.04.2004",
+      "name": "Tasinwaha",
+      "postal_code": "97660"
+    },
+    {
+      "id": "81.07.04.2005",
+      "name": "Foket",
+      "postal_code": "97660"
+    },
+    {
+      "id": "81.07.04.2006",
+      "name": "Kaibolafin",
+      "postal_code": "97660"
+    },
+    {
+      "id": "81.07.04.2007",
+      "name": "Wahangula-Ngula",
+      "postal_code": "97660"
+    },
+    {
+      "id": "81.07.04.2008",
+      "name": "Wahayum",
+      "postal_code": "97660"
+    },
+    {
+      "id": "81.07.04.2009",
+      "name": "Warialau",
+      "postal_code": "97660"
+    },
+    {
+      "id": "81.07.04.2010",
+      "name": "Jerwatu",
+      "postal_code": "97660"
+    },
+    {
+      "id": "81.07.04.2013",
+      "name": "Selmona",
+      "postal_code": "97660"
+    },
+    {
+      "id": "81.07.04.2014",
+      "name": "Mesidang",
+      "postal_code": "97660"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

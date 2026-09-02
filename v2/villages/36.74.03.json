@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "36.74.03.1001",
+      "name": "Pondok Betung",
+      "postal_code": "15221"
+    },
+    {
+      "id": "36.74.03.1002",
+      "name": "Pondok Pucung",
+      "postal_code": "15229"
+    },
+    {
+      "id": "36.74.03.1003",
+      "name": "Pondok Karya",
+      "postal_code": "15225"
+    },
+    {
+      "id": "36.74.03.1004",
+      "name": "Pondok Jaya",
+      "postal_code": "15220"
+    },
+    {
+      "id": "36.74.03.1005",
+      "name": "Pondok Aren",
+      "postal_code": "15224"
+    },
+    {
+      "id": "36.74.03.1006",
+      "name": "Pondok Kacang Barat",
+      "postal_code": "15226"
+    },
+    {
+      "id": "36.74.03.1007",
+      "name": "Pondok Kacang Timur",
+      "postal_code": "15226"
+    },
+    {
+      "id": "36.74.03.1008",
+      "name": "Parigi",
+      "postal_code": "15227"
+    },
+    {
+      "id": "36.74.03.1009",
+      "name": "Parigi Baru",
+      "postal_code": "15228"
+    },
+    {
+      "id": "36.74.03.1010",
+      "name": "Jurangmangu Barat",
+      "postal_code": "15223"
+    },
+    {
+      "id": "36.74.03.1011",
+      "name": "Jurangmangu Timur",
+      "postal_code": "15222"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

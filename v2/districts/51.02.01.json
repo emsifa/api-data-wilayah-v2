@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "51.02.01",
+    "name": "Selemadeg",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.02",
+      "name": "Kabupaten Tabanan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

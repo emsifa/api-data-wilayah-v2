@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "51.03.04.2001",
+      "name": "Carangsari",
+      "postal_code": "80353"
+    },
+    {
+      "id": "51.03.04.2002",
+      "name": "Petang",
+      "postal_code": "80353"
+    },
+    {
+      "id": "51.03.04.2003",
+      "name": "Belok/Sidan",
+      "postal_code": "80353"
+    },
+    {
+      "id": "51.03.04.2004",
+      "name": "Pelaga",
+      "postal_code": "80353"
+    },
+    {
+      "id": "51.03.04.2005",
+      "name": "Getasan",
+      "postal_code": "80353"
+    },
+    {
+      "id": "51.03.04.2006",
+      "name": "Pangsan",
+      "postal_code": "80353"
+    },
+    {
+      "id": "51.03.04.2007",
+      "name": "Sulangai",
+      "postal_code": "80353"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

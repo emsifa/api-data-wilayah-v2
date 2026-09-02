@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "91.05.01.1004",
+      "name": "Tarau",
+      "postal_code": "98613"
+    },
+    {
+      "id": "91.05.01.1005",
+      "name": "Serui Kota",
+      "postal_code": "98616"
+    },
+    {
+      "id": "91.05.01.1006",
+      "name": "Serui Jaya",
+      "postal_code": "98612"
+    },
+    {
+      "id": "91.05.01.2014",
+      "name": "Serui Laut",
+      "postal_code": "98627"
+    },
+    {
+      "id": "91.05.01.2015",
+      "name": "Banawa",
+      "postal_code": "98621"
+    },
+    {
+      "id": "91.05.01.2017",
+      "name": "Turu",
+      "postal_code": "98617"
+    },
+    {
+      "id": "91.05.01.2019",
+      "name": "Pasir Hitam",
+      "postal_code": "98625"
+    },
+    {
+      "id": "91.05.01.2020",
+      "name": "Pasir Putih",
+      "postal_code": "98626"
+    },
+    {
+      "id": "91.05.01.2023",
+      "name": "Manaini",
+      "postal_code": "98615"
+    },
+    {
+      "id": "91.05.01.2024",
+      "name": "Imandoa",
+      "postal_code": "98614"
+    },
+    {
+      "id": "91.05.01.2026",
+      "name": "Barawaikap",
+      "postal_code": "98622"
+    },
+    {
+      "id": "91.05.01.2027",
+      "name": "Bawai",
+      "postal_code": "98623"
+    },
+    {
+      "id": "91.05.01.2028",
+      "name": "Nundawipi",
+      "postal_code": "98624"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

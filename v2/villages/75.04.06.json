@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "75.04.06.2001",
+      "name": "Iloheluma",
+      "postal_code": "96366"
+    },
+    {
+      "id": "75.04.06.2002",
+      "name": "Balayo",
+      "postal_code": "96366"
+    },
+    {
+      "id": "75.04.06.2003",
+      "name": "Suka Makmur",
+      "postal_code": "96366"
+    },
+    {
+      "id": "75.04.06.2004",
+      "name": "Manawa",
+      "postal_code": "96366"
+    },
+    {
+      "id": "75.04.06.2005",
+      "name": "Dulomo",
+      "postal_code": "96366"
+    },
+    {
+      "id": "75.04.06.2006",
+      "name": "Dudepo",
+      "postal_code": "96366"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

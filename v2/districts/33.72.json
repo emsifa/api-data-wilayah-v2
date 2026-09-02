@@ -1,18 +1,28 @@
 {
-  "data": {
-    "id": "33.72",
-    "name": "Kota Surakarta",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
+  "data": [
+    {
+      "id": "33.72.01",
+      "name": "Laweyan"
     },
-    "regency": {
-      "id": "33.72",
-      "name": "Kota Surakarta"
+    {
+      "id": "33.72.02",
+      "name": "Serengan"
+    },
+    {
+      "id": "33.72.03",
+      "name": "Pasar Kliwon"
+    },
+    {
+      "id": "33.72.04",
+      "name": "Jebres"
+    },
+    {
+      "id": "33.72.05",
+      "name": "Banjarsari"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

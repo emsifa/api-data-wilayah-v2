@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "91.05.15.1001",
+      "name": "Anatorei",
+      "postal_code": "98631"
+    },
+    {
+      "id": "91.05.15.2001",
+      "name": "Ketu Api",
+      "postal_code": "98631"
+    },
+    {
+      "id": "91.05.15.2002",
+      "name": "Mariaderi",
+      "postal_code": "98631"
+    },
+    {
+      "id": "91.05.15.2003",
+      "name": "Yapan",
+      "postal_code": "98631"
+    },
+    {
+      "id": "91.05.15.2004",
+      "name": "Mantembu",
+      "postal_code": "98631"
+    },
+    {
+      "id": "91.05.15.2005",
+      "name": "Famboaman",
+      "postal_code": "98631"
+    },
+    {
+      "id": "91.05.15.2006",
+      "name": "Kandowarira",
+      "postal_code": "98631"
+    },
+    {
+      "id": "91.05.15.2007",
+      "name": "Warari",
+      "postal_code": "98631"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

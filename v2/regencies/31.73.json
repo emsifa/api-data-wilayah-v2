@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "31.73",
+    "name": "Kota Administrasi Jakarta Barat",
+    "capital": "Kembangan",
+    "lat": -6.184334501192923,
+    "lng": 106.73662053886034,
+    "elv": 8,
+    "tz": 7,
+    "population": 2556752,
+    "total_area": 125,
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

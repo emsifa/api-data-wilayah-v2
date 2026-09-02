@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": "33.27.08.1004",
+      "name": "Paduraksa",
+      "postal_code": "52319"
+    },
+    {
+      "id": "33.27.08.1013",
+      "name": "Kebondalem",
+      "postal_code": "52312"
+    },
+    {
+      "id": "33.27.08.1014",
+      "name": "Bojongbata",
+      "postal_code": "52319"
+    },
+    {
+      "id": "33.27.08.1015",
+      "name": "Mulyoharjo",
+      "postal_code": "52313"
+    },
+    {
+      "id": "33.27.08.1016",
+      "name": "Pelutan",
+      "postal_code": "52311"
+    },
+    {
+      "id": "33.27.08.1018",
+      "name": "Sugihwaras",
+      "postal_code": "52315"
+    },
+    {
+      "id": "33.27.08.1019",
+      "name": "Widuri",
+      "postal_code": "52314"
+    },
+    {
+      "id": "33.27.08.2001",
+      "name": "Banjarmulya",
+      "postal_code": "52319"
+    },
+    {
+      "id": "33.27.08.2002",
+      "name": "Surajaya",
+      "postal_code": "52318"
+    },
+    {
+      "id": "33.27.08.2003",
+      "name": "Kramat",
+      "postal_code": "52318"
+    },
+    {
+      "id": "33.27.08.2005",
+      "name": "Pegongsoran",
+      "postal_code": "52319"
+    },
+    {
+      "id": "33.27.08.2006",
+      "name": "Sungapan",
+      "postal_code": "52319"
+    },
+    {
+      "id": "33.27.08.2007",
+      "name": "Saradan",
+      "postal_code": "52319"
+    },
+    {
+      "id": "33.27.08.2008",
+      "name": "Sewaka",
+      "postal_code": "52319"
+    },
+    {
+      "id": "33.27.08.2009",
+      "name": "Mengori",
+      "postal_code": "52319"
+    },
+    {
+      "id": "33.27.08.2010",
+      "name": "Wanamulya",
+      "postal_code": "52319"
+    },
+    {
+      "id": "33.27.08.2011",
+      "name": "Bojongnangka",
+      "postal_code": "52318"
+    },
+    {
+      "id": "33.27.08.2012",
+      "name": "Tambakrejo",
+      "postal_code": "52317"
+    },
+    {
+      "id": "33.27.08.2017",
+      "name": "Lawangrejo",
+      "postal_code": "52316"
+    },
+    {
+      "id": "33.27.08.2020",
+      "name": "Danasari",
+      "postal_code": "52314"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

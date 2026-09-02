@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "13.04.06.2001",
+      "name": "Taluk",
+      "postal_code": "27292"
+    },
+    {
+      "id": "13.04.06.2002",
+      "name": "Buo",
+      "postal_code": "27292"
+    },
+    {
+      "id": "13.04.06.2003",
+      "name": "Tigo Jangko",
+      "postal_code": "27292"
+    },
+    {
+      "id": "13.04.06.2004",
+      "name": "Pangian",
+      "postal_code": "27292"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

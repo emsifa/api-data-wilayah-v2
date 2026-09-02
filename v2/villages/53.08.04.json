@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "53.08.04.1003",
+      "name": "Mbongawani",
+      "postal_code": "86313"
+    },
+    {
+      "id": "53.08.04.1004",
+      "name": "Rukun Lima",
+      "postal_code": "86314"
+    },
+    {
+      "id": "53.08.04.1006",
+      "name": "Paupanda",
+      "postal_code": "86315"
+    },
+    {
+      "id": "53.08.04.1008",
+      "name": "Tetandara",
+      "postal_code": "86316"
+    },
+    {
+      "id": "53.08.04.1014",
+      "name": "Tanjung",
+      "postal_code": "86316"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

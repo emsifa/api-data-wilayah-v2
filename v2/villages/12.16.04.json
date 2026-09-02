@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.16.04.2001",
+      "name": "Sihonongan",
+      "postal_code": "22477"
+    },
+    {
+      "id": "12.16.04.2002",
+      "name": "Paranginan Selatan",
+      "postal_code": "22477"
+    },
+    {
+      "id": "12.16.04.2003",
+      "name": "Paranginan Utara",
+      "postal_code": "22477"
+    },
+    {
+      "id": "12.16.04.2004",
+      "name": "Lumban Sialaman",
+      "postal_code": "22477"
+    },
+    {
+      "id": "12.16.04.2005",
+      "name": "Pearung",
+      "postal_code": "22477"
+    },
+    {
+      "id": "12.16.04.2006",
+      "name": "Lobutolong",
+      "postal_code": "22477"
+    },
+    {
+      "id": "12.16.04.2007",
+      "name": "Lumban Barat",
+      "postal_code": "22477"
+    },
+    {
+      "id": "12.16.04.2008",
+      "name": "Siboru Torop",
+      "postal_code": "22477"
+    },
+    {
+      "id": "12.16.04.2009",
+      "name": "Pearung Silali",
+      "postal_code": "22477"
+    },
+    {
+      "id": "12.16.04.2010",
+      "name": "Lumban Sianturi",
+      "postal_code": "22477"
+    },
+    {
+      "id": "12.16.04.2011",
+      "name": "Lobutolong Habinsaran",
+      "postal_code": "22477"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

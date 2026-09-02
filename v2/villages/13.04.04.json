@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.04.04.2001",
+      "name": "Baringin",
+      "postal_code": "27213"
+    },
+    {
+      "id": "13.04.04.2002",
+      "name": "Limo Kaum",
+      "postal_code": "27211"
+    },
+    {
+      "id": "13.04.04.2003",
+      "name": "Parambahan",
+      "postal_code": "27211"
+    },
+    {
+      "id": "13.04.04.2004",
+      "name": "Cubadak",
+      "postal_code": "27216"
+    },
+    {
+      "id": "13.04.04.2005",
+      "name": "Labuh",
+      "postal_code": "27211"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

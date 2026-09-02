@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "91.05.07.2001",
+      "name": "Tindaret",
+      "postal_code": "98645"
+    },
+    {
+      "id": "91.05.07.2002",
+      "name": "Yobi",
+      "postal_code": "98645"
+    },
+    {
+      "id": "91.05.07.2003",
+      "name": "Sambrawai",
+      "postal_code": "98645"
+    },
+    {
+      "id": "91.05.07.2006",
+      "name": "Kiriyou",
+      "postal_code": "98645"
+    },
+    {
+      "id": "91.05.07.2007",
+      "name": "Soromasen",
+      "postal_code": "98645"
+    },
+    {
+      "id": "91.05.07.2009",
+      "name": "Roswari",
+      "postal_code": "98645"
+    },
+    {
+      "id": "91.05.07.2010",
+      "name": "Doreimanona",
+      "postal_code": "98645"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "53.11.10.2001",
+      "name": "Kaliuda",
+      "postal_code": "87182"
+    },
+    {
+      "id": "53.11.10.2002",
+      "name": "Kuruwaki",
+      "postal_code": "87182"
+    },
+    {
+      "id": "53.11.10.2003",
+      "name": "Tana Manang",
+      "postal_code": "87182"
+    },
+    {
+      "id": "53.11.10.2004",
+      "name": "Mburukulu",
+      "postal_code": "87182"
+    },
+    {
+      "id": "53.11.10.2005",
+      "name": "Pamburu",
+      "postal_code": "87182"
+    },
+    {
+      "id": "53.11.10.2006",
+      "name": "Lambakara",
+      "postal_code": "87182"
+    },
+    {
+      "id": "53.11.10.2007",
+      "name": "Tamma",
+      "postal_code": "87182"
+    },
+    {
+      "id": "53.11.10.2009",
+      "name": "Palanggai",
+      "postal_code": "87182"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "94.01.13.2001",
+      "name": "Mambor",
+      "postal_code": "98864"
+    },
+    {
+      "id": "94.01.13.2002",
+      "name": "Hariti",
+      "postal_code": "98864"
+    },
+    {
+      "id": "94.01.13.2003",
+      "name": "Moor",
+      "postal_code": "98864"
+    },
+    {
+      "id": "94.01.13.2004",
+      "name": "Kama",
+      "postal_code": "98864"
+    },
+    {
+      "id": "94.01.13.2005",
+      "name": "Arui",
+      "postal_code": "98864"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

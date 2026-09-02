@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "82.04.10.2001",
+      "name": "Malapat",
+      "postal_code": "97784"
+    },
+    {
+      "id": "82.04.10.2002",
+      "name": "Bobawae",
+      "postal_code": "97784"
+    },
+    {
+      "id": "82.04.10.2003",
+      "name": "Ombawa",
+      "postal_code": "97784"
+    },
+    {
+      "id": "82.04.10.2004",
+      "name": "Tegono",
+      "postal_code": "97784"
+    },
+    {
+      "id": "82.04.10.2005",
+      "name": "Mateketen",
+      "postal_code": "97784"
+    },
+    {
+      "id": "82.04.10.2006",
+      "name": "Talapaon",
+      "postal_code": "97784"
+    },
+    {
+      "id": "82.04.10.2007",
+      "name": "Sebelei",
+      "postal_code": "97784"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

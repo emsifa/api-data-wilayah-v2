@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.76.11.1001",
+      "name": "Bojongsari",
+      "postal_code": "16516"
+    },
+    {
+      "id": "32.76.11.1002",
+      "name": "Bojongsari Baru",
+      "postal_code": "16516"
+    },
+    {
+      "id": "32.76.11.1003",
+      "name": "Serua",
+      "postal_code": "16517"
+    },
+    {
+      "id": "32.76.11.1004",
+      "name": "Pondok Petir",
+      "postal_code": "16517"
+    },
+    {
+      "id": "32.76.11.1005",
+      "name": "Curug",
+      "postal_code": "16517"
+    },
+    {
+      "id": "32.76.11.1006",
+      "name": "Duren Mekar",
+      "postal_code": "16518"
+    },
+    {
+      "id": "32.76.11.1007",
+      "name": "Duren Seribu",
+      "postal_code": "16518"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "12.15",
-    "name": "Kabupaten Pakpak Bharat",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
+  "data": [
+    {
+      "id": "12.15.01",
+      "name": "Sitelu Tali Urang Jehe"
     },
-    "regency": {
-      "id": "12.15",
-      "name": "Kabupaten Pakpak Bharat"
+    {
+      "id": "12.15.02",
+      "name": "Kerajaan"
+    },
+    {
+      "id": "12.15.03",
+      "name": "Salak"
+    },
+    {
+      "id": "12.15.04",
+      "name": "Sitelu Tali Urang Julu"
+    },
+    {
+      "id": "12.15.05",
+      "name": "Pergetteng Getteng Sengkut"
+    },
+    {
+      "id": "12.15.06",
+      "name": "Pagindar"
+    },
+    {
+      "id": "12.15.07",
+      "name": "Tinada"
+    },
+    {
+      "id": "12.15.08",
+      "name": "Siempat Rube"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "36.01.32.2001",
+      "name": "Koranji",
+      "postal_code": "42254"
+    },
+    {
+      "id": "36.01.32.2002",
+      "name": "Banjarwangi",
+      "postal_code": "42254"
+    },
+    {
+      "id": "36.01.32.2003",
+      "name": "Sukasari",
+      "postal_code": "42254"
+    },
+    {
+      "id": "36.01.32.2004",
+      "name": "Karyawangi",
+      "postal_code": "42254"
+    },
+    {
+      "id": "36.01.32.2005",
+      "name": "Sukaraja",
+      "postal_code": "42254"
+    },
+    {
+      "id": "36.01.32.2006",
+      "name": "Kaduhejo",
+      "postal_code": "42254"
+    },
+    {
+      "id": "36.01.32.2007",
+      "name": "Banjarnegara",
+      "postal_code": "42254"
+    },
+    {
+      "id": "36.01.32.2008",
+      "name": "Sanghiangdengdek",
+      "postal_code": "42254"
+    },
+    {
+      "id": "36.01.32.2009",
+      "name": "Cilentung",
+      "postal_code": "42254"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.09.29.2001",
+      "name": "Rawang Lama",
+      "postal_code": "21266"
+    },
+    {
+      "id": "12.09.29.2002",
+      "name": "Rawang Baru",
+      "postal_code": "21266"
+    },
+    {
+      "id": "12.09.29.2003",
+      "name": "Rawang Pasar IV",
+      "postal_code": "21266"
+    },
+    {
+      "id": "12.09.29.2004",
+      "name": "Rawang Pasar V",
+      "postal_code": "21266"
+    },
+    {
+      "id": "12.09.29.2005",
+      "name": "Pondok Bungur",
+      "postal_code": "21266"
+    },
+    {
+      "id": "12.09.29.2006",
+      "name": "Panca Arga",
+      "postal_code": "21266"
+    },
+    {
+      "id": "12.09.29.2007",
+      "name": "Rawang Pasar VI",
+      "postal_code": "21266"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

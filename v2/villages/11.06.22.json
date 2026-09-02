@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "11.06.22.2001",
+      "name": "Layeun",
+      "postal_code": "23353"
+    },
+    {
+      "id": "11.06.22.2002",
+      "name": "Pulot",
+      "postal_code": "23353"
+    },
+    {
+      "id": "11.06.22.2003",
+      "name": "Lamseunia",
+      "postal_code": "23353"
+    },
+    {
+      "id": "11.06.22.2004",
+      "name": "Mns. Mesjid",
+      "postal_code": "23353"
+    },
+    {
+      "id": "11.06.22.2005",
+      "name": "Meunasah Bak U",
+      "postal_code": "23353"
+    },
+    {
+      "id": "11.06.22.2006",
+      "name": "Dayah Mamplam",
+      "postal_code": "23353"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

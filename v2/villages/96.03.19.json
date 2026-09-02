@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "96.03.19.2001",
+      "name": "Yensawai Timur",
+      "postal_code": "98498"
+    },
+    {
+      "id": "96.03.19.2002",
+      "name": "Yensawai Barat",
+      "postal_code": "98498"
+    },
+    {
+      "id": "96.03.19.2003",
+      "name": "Arefi Timur",
+      "postal_code": "98498"
+    },
+    {
+      "id": "96.03.19.2004",
+      "name": "Arefi Selatan",
+      "postal_code": "98498"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "94.03.17.2001",
+      "name": "Panibagata",
+      "postal_code": "98718"
+    },
+    {
+      "id": "94.03.17.2002",
+      "name": "Pugaida",
+      "postal_code": "98718"
+    },
+    {
+      "id": "94.03.17.2003",
+      "name": "Aweubutu",
+      "postal_code": "98718"
+    },
+    {
+      "id": "94.03.17.2004",
+      "name": "Ipuwa",
+      "postal_code": "98718"
+    },
+    {
+      "id": "94.03.17.2005",
+      "name": "Munaiyepa",
+      "postal_code": "98718"
+    },
+    {
+      "id": "94.03.17.2006",
+      "name": "Kebo I",
+      "postal_code": "98718"
+    },
+    {
+      "id": "94.03.17.2007",
+      "name": "Payogei",
+      "postal_code": "98718"
+    },
+    {
+      "id": "94.03.17.2008",
+      "name": "Detauwo",
+      "postal_code": "98718"
+    },
+    {
+      "id": "94.03.17.2009",
+      "name": "Yaibu",
+      "postal_code": "98718"
+    },
+    {
+      "id": "94.03.17.2010",
+      "name": "Woyouto",
+      "postal_code": "98718"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "32.12.20.2001",
+      "name": "Ranjeng",
+      "postal_code": "45253"
+    },
+    {
+      "id": "32.12.20.2002",
+      "name": "Krimun",
+      "postal_code": "45253"
+    },
+    {
+      "id": "32.12.20.2003",
+      "name": "Puntang",
+      "postal_code": "45253"
+    },
+    {
+      "id": "32.12.20.2004",
+      "name": "Pegagan",
+      "postal_code": "45253"
+    },
+    {
+      "id": "32.12.20.2005",
+      "name": "Rajaiyang",
+      "postal_code": "45253"
+    },
+    {
+      "id": "32.12.20.2006",
+      "name": "Jangga",
+      "postal_code": "45253"
+    },
+    {
+      "id": "32.12.20.2007",
+      "name": "Jumbleng",
+      "postal_code": "45253"
+    },
+    {
+      "id": "32.12.20.2008",
+      "name": "Pangkalan",
+      "postal_code": "45253"
+    },
+    {
+      "id": "32.12.20.2010",
+      "name": "Losarang",
+      "postal_code": "45253"
+    },
+    {
+      "id": "32.12.20.2011",
+      "name": "Muntur",
+      "postal_code": "45253"
+    },
+    {
+      "id": "32.12.20.2012",
+      "name": "Santing",
+      "postal_code": "45253"
+    },
+    {
+      "id": "32.12.20.2013",
+      "name": "Cemara Kulon",
+      "postal_code": "45253"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

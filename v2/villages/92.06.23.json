@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "92.06.23.2001",
+      "name": "Meyado",
+      "postal_code": "98153"
+    },
+    {
+      "id": "92.06.23.2002",
+      "name": "Barma",
+      "postal_code": "98153"
+    },
+    {
+      "id": "92.06.23.2003",
+      "name": "Barma Baru",
+      "postal_code": "98153"
+    },
+    {
+      "id": "92.06.23.2004",
+      "name": "Vasco Damneen",
+      "postal_code": "98153"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

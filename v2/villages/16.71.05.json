@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "16.71.05.1001",
+      "name": "Delapan-belas Ilir",
+      "postal_code": "30121"
+    },
+    {
+      "id": "16.71.05.1002",
+      "name": "Enam-belas Ilir",
+      "postal_code": "30122"
+    },
+    {
+      "id": "16.71.05.1003",
+      "name": "Tiga-belas Ilir",
+      "postal_code": "30123"
+    },
+    {
+      "id": "16.71.05.1004",
+      "name": "Empat-belas Ilir",
+      "postal_code": "30124"
+    },
+    {
+      "id": "16.71.05.1005",
+      "name": "Lima-belas Ilir",
+      "postal_code": "30124"
+    },
+    {
+      "id": "16.71.05.1006",
+      "name": "Tujuh-belas Ilir",
+      "postal_code": "30125"
+    },
+    {
+      "id": "16.71.05.1007",
+      "name": "Dua-puluh Ilir Tiga",
+      "postal_code": "30129"
+    },
+    {
+      "id": "16.71.05.1008",
+      "name": "Dua-puluh Ilir Empat",
+      "postal_code": "30128"
+    },
+    {
+      "id": "16.71.05.1009",
+      "name": "Dua-puluh Ilir Satu",
+      "postal_code": "30126"
+    },
+    {
+      "id": "16.71.05.1010",
+      "name": "Sungaipangeran",
+      "postal_code": "30121"
+    },
+    {
+      "id": "16.71.05.1011",
+      "name": "Kepandean-Baru",
+      "postal_code": "30125"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

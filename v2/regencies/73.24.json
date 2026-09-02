@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "73.24",
+    "name": "Kabupaten Luwu Timur",
+    "capital": "Malili",
+    "lat": -2.6162481191655704,
+    "lng": 121.12410632820034,
+    "elv": 74,
+    "tz": 8,
+    "population": 323422,
+    "total_area": 6745.772,
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

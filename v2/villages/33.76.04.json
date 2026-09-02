@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "33.76.04.1001",
+      "name": "Kaligangsa",
+      "postal_code": "52147"
+    },
+    {
+      "id": "33.76.04.1002",
+      "name": "Krandon",
+      "postal_code": "52146"
+    },
+    {
+      "id": "33.76.04.1003",
+      "name": "Cabawan",
+      "postal_code": "52147"
+    },
+    {
+      "id": "33.76.04.1004",
+      "name": "Kalinyamat Kulon",
+      "postal_code": "52144"
+    },
+    {
+      "id": "33.76.04.1005",
+      "name": "Margadana",
+      "postal_code": "52143"
+    },
+    {
+      "id": "33.76.04.1006",
+      "name": "Sumurpanggang",
+      "postal_code": "52141"
+    },
+    {
+      "id": "33.76.04.1007",
+      "name": "Pesurungan Lor",
+      "postal_code": "52147"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

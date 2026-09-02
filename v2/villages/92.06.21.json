@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "92.06.21.2001",
+      "name": "Weriagar",
+      "postal_code": "98157"
+    },
+    {
+      "id": "92.06.21.2002",
+      "name": "Mogotira",
+      "postal_code": "98157"
+    },
+    {
+      "id": "92.06.21.2003",
+      "name": "Weriagar Baru",
+      "postal_code": "98157"
+    },
+    {
+      "id": "92.06.21.2004",
+      "name": "Weriagar Utara",
+      "postal_code": "98157"
+    },
+    {
+      "id": "92.06.21.2005",
+      "name": "Tuanaikin",
+      "postal_code": "98157"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

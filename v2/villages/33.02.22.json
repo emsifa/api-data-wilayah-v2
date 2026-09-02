@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "33.02.22.2001",
+      "name": "Purwosari",
+      "postal_code": "53126"
+    },
+    {
+      "id": "33.02.22.2002",
+      "name": "Kutasari",
+      "postal_code": "53151"
+    },
+    {
+      "id": "33.02.22.2003",
+      "name": "Pandak",
+      "postal_code": "53151"
+    },
+    {
+      "id": "33.02.22.2004",
+      "name": "Pamijen",
+      "postal_code": "53151"
+    },
+    {
+      "id": "33.02.22.2005",
+      "name": "Rempoah",
+      "postal_code": "53151"
+    },
+    {
+      "id": "33.02.22.2006",
+      "name": "Kebumen",
+      "postal_code": "53151"
+    },
+    {
+      "id": "33.02.22.2007",
+      "name": "Karang Tengah",
+      "postal_code": "53151"
+    },
+    {
+      "id": "33.02.22.2008",
+      "name": "Kemutug Kidul",
+      "postal_code": "53151"
+    },
+    {
+      "id": "33.02.22.2009",
+      "name": "Karangsalam Lor",
+      "postal_code": "53151"
+    },
+    {
+      "id": "33.02.22.2010",
+      "name": "Kemutug Lor",
+      "postal_code": "53151"
+    },
+    {
+      "id": "33.02.22.2011",
+      "name": "Karangmangu",
+      "postal_code": "53151"
+    },
+    {
+      "id": "33.02.22.2012",
+      "name": "Ketenger",
+      "postal_code": "53151"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

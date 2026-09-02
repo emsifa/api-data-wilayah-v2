@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "96.01.22.2001",
+      "name": "Buk",
+      "postal_code": "98442"
+    },
+    {
+      "id": "96.01.22.2002",
+      "name": "Mlakhan",
+      "postal_code": "98442"
+    },
+    {
+      "id": "96.01.22.2003",
+      "name": "Klais",
+      "postal_code": "98442"
+    },
+    {
+      "id": "96.01.22.2004",
+      "name": "Mimpe",
+      "postal_code": "98442"
+    },
+    {
+      "id": "96.01.22.2005",
+      "name": "Tiklen",
+      "postal_code": "98442"
+    },
+    {
+      "id": "96.01.22.2006",
+      "name": "Klahen",
+      "postal_code": "98442"
+    },
+    {
+      "id": "96.01.22.2007",
+      "name": "Moos",
+      "postal_code": "98442"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "94.02.11.2001",
+      "name": "Wandenggobak",
+      "postal_code": "98913"
+    },
+    {
+      "id": "94.02.11.2002",
+      "name": "Jiginikime",
+      "postal_code": "98913"
+    },
+    {
+      "id": "94.02.11.2003",
+      "name": "Puncak Senyum",
+      "postal_code": "98913"
+    },
+    {
+      "id": "94.02.11.2004",
+      "name": "Anggutari",
+      "postal_code": "98913"
+    },
+    {
+      "id": "94.02.11.2005",
+      "name": "Wunagelo",
+      "postal_code": "98913"
+    },
+    {
+      "id": "94.02.11.2006",
+      "name": "Dondo",
+      "postal_code": "98913"
+    },
+    {
+      "id": "94.02.11.2007",
+      "name": "Tanoba",
+      "postal_code": "98913"
+    },
+    {
+      "id": "94.02.11.2008",
+      "name": "Niruwi",
+      "postal_code": "98913"
+    },
+    {
+      "id": "94.02.11.2009",
+      "name": "Yalikambi",
+      "postal_code": "98913"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.07.37.2001",
+      "name": "Pasawahan",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.07.37.2002",
+      "name": "Banjaranyar",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.07.37.2003",
+      "name": "Cigayam",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.07.37.2004",
+      "name": "Langkapsari",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.07.37.2005",
+      "name": "Kalijaya",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.07.37.2006",
+      "name": "Sindangrasa",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.07.37.2007",
+      "name": "Cikaso",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.07.37.2008",
+      "name": "Cikupa",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.07.37.2009",
+      "name": "Karyamukti",
+      "postal_code": "46384"
+    },
+    {
+      "id": "32.07.37.2010",
+      "name": "Tanjungsari",
+      "postal_code": "46384"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

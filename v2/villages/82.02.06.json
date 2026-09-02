@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "82.02.06.2001",
+      "name": "Gemia",
+      "postal_code": "97858"
+    },
+    {
+      "id": "82.02.06.2002",
+      "name": "Tepeleo",
+      "postal_code": "97858"
+    },
+    {
+      "id": "82.02.06.2006",
+      "name": "Bilifitu",
+      "postal_code": "97858"
+    },
+    {
+      "id": "82.02.06.2007",
+      "name": "Tepeleo Batudua",
+      "postal_code": "97858"
+    },
+    {
+      "id": "82.02.06.2008",
+      "name": "Pantura Jaya",
+      "postal_code": "97858"
+    },
+    {
+      "id": "82.02.06.2011",
+      "name": "Maliforo",
+      "postal_code": "97858"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

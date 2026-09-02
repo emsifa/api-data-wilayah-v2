@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "16.06.10.2001",
+      "name": "Sido Mukti",
+      "postal_code": "30758"
+    },
+    {
+      "id": "16.06.10.2002",
+      "name": "Suka Damai",
+      "postal_code": "30758"
+    },
+    {
+      "id": "16.06.10.2003",
+      "name": "Suka Jaya",
+      "postal_code": "30758"
+    },
+    {
+      "id": "16.06.10.2004",
+      "name": "Suka Makmur",
+      "postal_code": "30758"
+    },
+    {
+      "id": "16.06.10.2005",
+      "name": "Suka Maju",
+      "postal_code": "30758"
+    },
+    {
+      "id": "16.06.10.2006",
+      "name": "Bangun Harja",
+      "postal_code": "30758"
+    },
+    {
+      "id": "16.06.10.2007",
+      "name": "Sido Rahayu",
+      "postal_code": "30758"
+    },
+    {
+      "id": "16.06.10.2008",
+      "name": "Bukit Indah",
+      "postal_code": "30758"
+    },
+    {
+      "id": "16.06.10.2009",
+      "name": "Warga Mulya",
+      "postal_code": "30758"
+    },
+    {
+      "id": "16.06.10.2010",
+      "name": "Tanjung Kaputran",
+      "postal_code": "30758"
+    },
+    {
+      "id": "16.06.10.2011",
+      "name": "Air Putih Ulu",
+      "postal_code": "30758"
+    },
+    {
+      "id": "16.06.10.2012",
+      "name": "Sialang Agung",
+      "postal_code": "30758"
+    },
+    {
+      "id": "16.06.10.2013",
+      "name": "Cinta Karya",
+      "postal_code": "30758"
+    },
+    {
+      "id": "16.06.10.2014",
+      "name": "Air Putih Ilir",
+      "postal_code": "30758"
+    },
+    {
+      "id": "16.06.10.2015",
+      "name": "Sumber Rejeki",
+      "postal_code": "30758"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

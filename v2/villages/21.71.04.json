@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "21.71.04.1001",
+      "name": "Sambau",
+      "postal_code": "29465"
+    },
+    {
+      "id": "21.71.04.1002",
+      "name": "Batu Besar",
+      "postal_code": "29466"
+    },
+    {
+      "id": "21.71.04.1003",
+      "name": "Kabil",
+      "postal_code": "29467"
+    },
+    {
+      "id": "21.71.04.1004",
+      "name": "Ngenang",
+      "postal_code": "29468"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

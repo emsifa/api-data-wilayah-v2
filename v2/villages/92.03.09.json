@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "92.03.09.2001",
+      "name": "Puar",
+      "postal_code": "98024"
+    },
+    {
+      "id": "92.03.09.2002",
+      "name": "Degen",
+      "postal_code": "98024"
+    },
+    {
+      "id": "92.03.09.2003",
+      "name": "Tetar",
+      "postal_code": "98024"
+    },
+    {
+      "id": "92.03.09.2005",
+      "name": "Sum",
+      "postal_code": "98024"
+    },
+    {
+      "id": "92.03.09.2011",
+      "name": "Adora",
+      "postal_code": "98024"
+    },
+    {
+      "id": "92.03.09.2012",
+      "name": "Us",
+      "postal_code": "98024"
+    },
+    {
+      "id": "92.03.09.2014",
+      "name": "Patipi Pasir",
+      "postal_code": "98024"
+    },
+    {
+      "id": "92.03.09.2015",
+      "name": "Patipi Pulau",
+      "postal_code": "98024"
+    },
+    {
+      "id": "92.03.09.2017",
+      "name": "Mawar",
+      "postal_code": "98024"
+    },
+    {
+      "id": "92.03.09.2018",
+      "name": "Tibatibananam",
+      "postal_code": "98024"
+    },
+    {
+      "id": "92.03.09.2020",
+      "name": "Offie",
+      "postal_code": "98024"
+    },
+    {
+      "id": "92.03.09.2021",
+      "name": "Muhri",
+      "postal_code": "98024"
+    },
+    {
+      "id": "92.03.09.2022",
+      "name": "Bisa",
+      "postal_code": "98024"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

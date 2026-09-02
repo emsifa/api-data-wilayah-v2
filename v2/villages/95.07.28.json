@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.07.28.2001",
+      "name": "Ambena",
+      "postal_code": "99563"
+    },
+    {
+      "id": "95.07.28.2002",
+      "name": "Kolayak",
+      "postal_code": "99563"
+    },
+    {
+      "id": "95.07.28.2003",
+      "name": "Wanuga",
+      "postal_code": "99563"
+    },
+    {
+      "id": "95.07.28.2004",
+      "name": "Labora",
+      "postal_code": "99563"
+    },
+    {
+      "id": "95.07.28.2005",
+      "name": "Kondena",
+      "postal_code": "99563"
+    },
+    {
+      "id": "95.07.28.2006",
+      "name": "Kolunggu",
+      "postal_code": "99563"
+    },
+    {
+      "id": "95.07.28.2007",
+      "name": "Yagarikme",
+      "postal_code": "99563"
+    },
+    {
+      "id": "95.07.28.2008",
+      "name": "Timotius",
+      "postal_code": "99563"
+    },
+    {
+      "id": "95.07.28.2009",
+      "name": "Gunumbur",
+      "postal_code": "99563"
+    },
+    {
+      "id": "95.07.28.2010",
+      "name": "Lalugume",
+      "postal_code": "99563"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "93.01.01.1002",
+      "name": "Samkai",
+      "postal_code": "99615"
+    },
+    {
+      "id": "93.01.01.1003",
+      "name": "Karang Indah",
+      "postal_code": "99614"
+    },
+    {
+      "id": "93.01.01.1004",
+      "name": "Mandala",
+      "postal_code": "99617"
+    },
+    {
+      "id": "93.01.01.1005",
+      "name": "Maro",
+      "postal_code": "99613"
+    },
+    {
+      "id": "93.01.01.1006",
+      "name": "Kelapa Lima",
+      "postal_code": "99612"
+    },
+    {
+      "id": "93.01.01.1007",
+      "name": "Rimba Jaya",
+      "postal_code": "99610"
+    },
+    {
+      "id": "93.01.01.1009",
+      "name": "Bambu Pemali",
+      "postal_code": "99616"
+    },
+    {
+      "id": "93.01.01.1010",
+      "name": "Seringgu Jaya",
+      "postal_code": "99619"
+    },
+    {
+      "id": "93.01.01.1011",
+      "name": "Kamundu",
+      "postal_code": "99607"
+    },
+    {
+      "id": "93.01.01.1012",
+      "name": "Kamahedoga",
+      "postal_code": "99606"
+    },
+    {
+      "id": "93.01.01.1013",
+      "name": "Muli",
+      "postal_code": "99608"
+    },
+    {
+      "id": "93.01.01.2001",
+      "name": "Nasem",
+      "postal_code": "99618"
+    },
+    {
+      "id": "93.01.01.2008",
+      "name": "Wasur",
+      "postal_code": "99611"
+    },
+    {
+      "id": "93.01.01.2014",
+      "name": "Bokem",
+      "postal_code": "99604"
+    },
+    {
+      "id": "93.01.01.2015",
+      "name": "Buti",
+      "postal_code": "99605"
+    },
+    {
+      "id": "93.01.01.2016",
+      "name": "Nggolar",
+      "postal_code": "99609"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

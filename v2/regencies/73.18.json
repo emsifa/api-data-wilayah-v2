@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "73.18",
+    "name": "Kabupaten Tana Toraja",
+    "capital": "Makale",
+    "lat": -3.0865430500830704,
+    "lng": 119.85708269925097,
+    "elv": 767,
+    "tz": 8,
+    "population": 258934,
+    "total_area": 2043.623,
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

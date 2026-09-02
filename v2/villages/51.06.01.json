@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "51.06.01.2001",
+      "name": "Apuan",
+      "postal_code": "80661"
+    },
+    {
+      "id": "51.06.01.2002",
+      "name": "Demulih",
+      "postal_code": "80661"
+    },
+    {
+      "id": "51.06.01.2003",
+      "name": "Abuan",
+      "postal_code": "80661"
+    },
+    {
+      "id": "51.06.01.2004",
+      "name": "Susut",
+      "postal_code": "80661"
+    },
+    {
+      "id": "51.06.01.2005",
+      "name": "Sulahan",
+      "postal_code": "80661"
+    },
+    {
+      "id": "51.06.01.2006",
+      "name": "Penglumbaran",
+      "postal_code": "80661"
+    },
+    {
+      "id": "51.06.01.2007",
+      "name": "Tiga",
+      "postal_code": "80661"
+    },
+    {
+      "id": "51.06.01.2008",
+      "name": "Selat",
+      "postal_code": "80661"
+    },
+    {
+      "id": "51.06.01.2009",
+      "name": "Pengiangan",
+      "postal_code": "80661"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

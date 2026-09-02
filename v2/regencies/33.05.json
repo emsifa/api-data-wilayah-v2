@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "33.05",
+    "name": "Kabupaten Kebumen",
+    "capital": "Kebumen",
+    "lat": -7.668443736529897,
+    "lng": 109.65371583117799,
+    "elv": 29,
+    "tz": 7,
+    "population": 1446833,
+    "total_area": 1333.902,
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

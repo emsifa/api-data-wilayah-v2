@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "id": "35.02.17.1001",
+      "name": "Paju",
+      "postal_code": "63415"
+    },
+    {
+      "id": "35.02.17.1002",
+      "name": "Brotonegaran",
+      "postal_code": "63419"
+    },
+    {
+      "id": "35.02.17.1003",
+      "name": "Pakunden",
+      "postal_code": "63416"
+    },
+    {
+      "id": "35.02.17.1004",
+      "name": "Kepatihan",
+      "postal_code": "63416"
+    },
+    {
+      "id": "35.02.17.1005",
+      "name": "Surodikraman",
+      "postal_code": "63419"
+    },
+    {
+      "id": "35.02.17.1006",
+      "name": "Purbosuman",
+      "postal_code": "63417"
+    },
+    {
+      "id": "35.02.17.1007",
+      "name": "Tonatan",
+      "postal_code": "63418"
+    },
+    {
+      "id": "35.02.17.1008",
+      "name": "Bangunsari",
+      "postal_code": "63419"
+    },
+    {
+      "id": "35.02.17.1009",
+      "name": "Tamanarum",
+      "postal_code": "63419"
+    },
+    {
+      "id": "35.02.17.1010",
+      "name": "Kauman",
+      "postal_code": "63414"
+    },
+    {
+      "id": "35.02.17.1011",
+      "name": "Tambakbayan",
+      "postal_code": "63419"
+    },
+    {
+      "id": "35.02.17.1012",
+      "name": "Pinggirsari",
+      "postal_code": "63419"
+    },
+    {
+      "id": "35.02.17.1013",
+      "name": "Mangkujayan",
+      "postal_code": "63413"
+    },
+    {
+      "id": "35.02.17.1014",
+      "name": "Banyudono",
+      "postal_code": "63411"
+    },
+    {
+      "id": "35.02.17.1015",
+      "name": "Nologaten",
+      "postal_code": "63411"
+    },
+    {
+      "id": "35.02.17.1016",
+      "name": "Cokromenggalan",
+      "postal_code": "63411"
+    },
+    {
+      "id": "35.02.17.1017",
+      "name": "Keniten",
+      "postal_code": "63412"
+    },
+    {
+      "id": "35.02.17.1018",
+      "name": "Jingglong",
+      "postal_code": "63411"
+    },
+    {
+      "id": "35.02.17.1019",
+      "name": "Beduri",
+      "postal_code": "63412"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

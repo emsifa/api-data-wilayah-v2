@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "13.02.17.2001",
+      "name": "Talang Babungo",
+      "postal_code": "27372"
+    },
+    {
+      "id": "13.02.17.2002",
+      "name": "Sariak Alahan Tigo",
+      "postal_code": "27372"
+    },
+    {
+      "id": "13.02.17.2003",
+      "name": "Sungai Abu",
+      "postal_code": "27372"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

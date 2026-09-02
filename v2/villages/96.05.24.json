@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "96.05.24.2001",
+      "name": "Seni",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.24.2002",
+      "name": "Renis",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.24.2003",
+      "name": "Sire",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.24.2004",
+      "name": "Fase",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.24.2005",
+      "name": "Sabes",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.24.2006",
+      "name": "Kuraso",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.24.2007",
+      "name": "Sidi",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.24.2008",
+      "name": "Osom",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.24.2009",
+      "name": "Sire Timur",
+      "postal_code": "98059"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

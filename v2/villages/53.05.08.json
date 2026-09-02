@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "53.05.08.2001",
+      "name": "Pido",
+      "postal_code": "85873"
+    },
+    {
+      "id": "53.05.08.2002",
+      "name": "Waisika",
+      "postal_code": "85873"
+    },
+    {
+      "id": "53.05.08.2003",
+      "name": "Kamot",
+      "postal_code": "85873"
+    },
+    {
+      "id": "53.05.08.2004",
+      "name": "Taramana",
+      "postal_code": "85873"
+    },
+    {
+      "id": "53.05.08.2005",
+      "name": "Nailang",
+      "postal_code": "85873"
+    },
+    {
+      "id": "53.05.08.2006",
+      "name": "Lippang",
+      "postal_code": "85873"
+    },
+    {
+      "id": "53.05.08.2007",
+      "name": "Kenarimbala",
+      "postal_code": "85873"
+    },
+    {
+      "id": "53.05.08.2008",
+      "name": "Air Mancur",
+      "postal_code": "85873"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

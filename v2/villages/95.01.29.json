@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "95.01.29.2001",
+      "name": "Tagineri",
+      "postal_code": "99547"
+    },
+    {
+      "id": "95.01.29.2002",
+      "name": "Injuta",
+      "postal_code": "99547"
+    },
+    {
+      "id": "95.01.29.2003",
+      "name": "Binibaga",
+      "postal_code": "99547"
+    },
+    {
+      "id": "95.01.29.2004",
+      "name": "Tamokilu",
+      "postal_code": "99547"
+    },
+    {
+      "id": "95.01.29.2005",
+      "name": "Pagaluk",
+      "postal_code": "99547"
+    },
+    {
+      "id": "95.01.29.2006",
+      "name": "Gelelame",
+      "postal_code": "99547"
+    },
+    {
+      "id": "95.01.29.2007",
+      "name": "Wilaloma",
+      "postal_code": "99547"
+    },
+    {
+      "id": "95.01.29.2008",
+      "name": "Melemei",
+      "postal_code": "99547"
+    },
+    {
+      "id": "95.01.29.2009",
+      "name": "Wuragukme",
+      "postal_code": "99547"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

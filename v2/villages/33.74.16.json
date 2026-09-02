@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "33.74.16.1001",
+      "name": "Jerakah",
+      "postal_code": "50151"
+    },
+    {
+      "id": "33.74.16.1002",
+      "name": "Tugurejo",
+      "postal_code": "50185"
+    },
+    {
+      "id": "33.74.16.1003",
+      "name": "Karanganyar",
+      "postal_code": "50152"
+    },
+    {
+      "id": "33.74.16.1004",
+      "name": "Randugarut",
+      "postal_code": "50181"
+    },
+    {
+      "id": "33.74.16.1005",
+      "name": "Mangkang Wetan",
+      "postal_code": "50156"
+    },
+    {
+      "id": "33.74.16.1006",
+      "name": "Mangkang Kulon",
+      "postal_code": "50155"
+    },
+    {
+      "id": "33.74.16.1007",
+      "name": "Mangunharjo",
+      "postal_code": "50154"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

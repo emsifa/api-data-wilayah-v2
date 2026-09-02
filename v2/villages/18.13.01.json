@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "18.13.01.1005",
+      "name": "Pasar Krui",
+      "postal_code": "34894"
+    },
+    {
+      "id": "18.13.01.1008",
+      "name": "Pasar Kota Krui",
+      "postal_code": "34894"
+    },
+    {
+      "id": "18.13.01.2001",
+      "name": "Way Redak",
+      "postal_code": "34894"
+    },
+    {
+      "id": "18.13.01.2002",
+      "name": "Seray",
+      "postal_code": "34894"
+    },
+    {
+      "id": "18.13.01.2003",
+      "name": "Kampung Jawa",
+      "postal_code": "34894"
+    },
+    {
+      "id": "18.13.01.2004",
+      "name": "Rawas",
+      "postal_code": "34894"
+    },
+    {
+      "id": "18.13.01.2006",
+      "name": "Suka Negara",
+      "postal_code": "34894"
+    },
+    {
+      "id": "18.13.01.2007",
+      "name": "Pahmungan",
+      "postal_code": "34894"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

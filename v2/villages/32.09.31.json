@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "32.09.31.2001",
+      "name": "Cikeduk",
+      "postal_code": "45155"
+    },
+    {
+      "id": "32.09.31.2002",
+      "name": "Warujaya",
+      "postal_code": "45155"
+    },
+    {
+      "id": "32.09.31.2003",
+      "name": "Warukawung",
+      "postal_code": "45155"
+    },
+    {
+      "id": "32.09.31.2004",
+      "name": "Warugede",
+      "postal_code": "45155"
+    },
+    {
+      "id": "32.09.31.2005",
+      "name": "Waruroyom",
+      "postal_code": "45155"
+    },
+    {
+      "id": "32.09.31.2006",
+      "name": "Depok",
+      "postal_code": "45155"
+    },
+    {
+      "id": "32.09.31.2007",
+      "name": "Kasugengan Kidul",
+      "postal_code": "45155"
+    },
+    {
+      "id": "32.09.31.2008",
+      "name": "Kasugengan Lor",
+      "postal_code": "45155"
+    },
+    {
+      "id": "32.09.31.2009",
+      "name": "Keduanan",
+      "postal_code": "45155"
+    },
+    {
+      "id": "32.09.31.2010",
+      "name": "Kejuden",
+      "postal_code": "45155"
+    },
+    {
+      "id": "32.09.31.2011",
+      "name": "Getasan",
+      "postal_code": "45155"
+    },
+    {
+      "id": "32.09.31.2012",
+      "name": "Karangwangi",
+      "postal_code": "45155"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

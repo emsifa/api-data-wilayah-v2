@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "35.71.03.1001",
+      "name": "Bangsal",
+      "postal_code": "64131"
+    },
+    {
+      "id": "35.71.03.1002",
+      "name": "Pakunden",
+      "postal_code": "64132"
+    },
+    {
+      "id": "35.71.03.1003",
+      "name": "Tosaren",
+      "postal_code": "64133"
+    },
+    {
+      "id": "35.71.03.1004",
+      "name": "Jamsaren",
+      "postal_code": "64132"
+    },
+    {
+      "id": "35.71.03.1005",
+      "name": "Singonegaran",
+      "postal_code": "64132"
+    },
+    {
+      "id": "35.71.03.1006",
+      "name": "Blabak",
+      "postal_code": "64135"
+    },
+    {
+      "id": "35.71.03.1007",
+      "name": "Betet",
+      "postal_code": "64134"
+    },
+    {
+      "id": "35.71.03.1008",
+      "name": "Tinalan",
+      "postal_code": "64132"
+    },
+    {
+      "id": "35.71.03.1009",
+      "name": "Bawang",
+      "postal_code": "64136"
+    },
+    {
+      "id": "35.71.03.1010",
+      "name": "Ngletih",
+      "postal_code": "64137"
+    },
+    {
+      "id": "35.71.03.1011",
+      "name": "Tempurejo",
+      "postal_code": "64138"
+    },
+    {
+      "id": "35.71.03.1012",
+      "name": "Ketami",
+      "postal_code": "64139"
+    },
+    {
+      "id": "35.71.03.1013",
+      "name": "Pesantren",
+      "postal_code": "64131"
+    },
+    {
+      "id": "35.71.03.1014",
+      "name": "Banaran",
+      "postal_code": "64133"
+    },
+    {
+      "id": "35.71.03.1015",
+      "name": "Burengan",
+      "postal_code": "64131"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

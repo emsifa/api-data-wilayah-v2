@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "36.73",
+    "name": "Kota Serang",
+    "capital": "Serang",
+    "lat": -6.1196975739996,
+    "lng": 106.17346069838267,
+    "elv": 29,
+    "tz": 7,
+    "population": 759929,
+    "total_area": 266.314,
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "35.22.25.2001",
+      "name": "Kawengan",
+      "postal_code": "62160"
+    },
+    {
+      "id": "35.22.25.2002",
+      "name": "Wonocolo",
+      "postal_code": "62160"
+    },
+    {
+      "id": "35.22.25.2003",
+      "name": "Hargomulyo",
+      "postal_code": "62160"
+    },
+    {
+      "id": "35.22.25.2004",
+      "name": "Kedewan",
+      "postal_code": "62160"
+    },
+    {
+      "id": "35.22.25.2005",
+      "name": "Beji",
+      "postal_code": "62160"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

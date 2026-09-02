@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "65.03.17.2001",
+      "name": "Tang Paye",
+      "postal_code": "77458"
+    },
+    {
+      "id": "65.03.17.2002",
+      "name": "Long Rungan",
+      "postal_code": "77458"
+    },
+    {
+      "id": "65.03.17.2003",
+      "name": "Long Kelupan",
+      "postal_code": "77458"
+    },
+    {
+      "id": "65.03.17.2004",
+      "name": "Long Padi",
+      "postal_code": "77458"
+    },
+    {
+      "id": "65.03.17.2005",
+      "name": "Tang Badui",
+      "postal_code": "77458"
+    },
+    {
+      "id": "65.03.17.2006",
+      "name": "Binuang",
+      "postal_code": "77458"
+    },
+    {
+      "id": "65.03.17.2007",
+      "name": "Long Mutan",
+      "postal_code": "77458"
+    },
+    {
+      "id": "65.03.17.2008",
+      "name": "Pa' Milau",
+      "postal_code": "77458"
+    },
+    {
+      "id": "65.03.17.2009",
+      "name": "Ba' Liku",
+      "postal_code": "77458"
+    },
+    {
+      "id": "65.03.17.2010",
+      "name": "Long Rian",
+      "postal_code": "77458"
+    },
+    {
+      "id": "65.03.17.2011",
+      "name": "Pa' Yalau",
+      "postal_code": "77458"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

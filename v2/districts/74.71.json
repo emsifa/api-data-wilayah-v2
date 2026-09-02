@@ -1,18 +1,52 @@
 {
-  "data": {
-    "id": "74.71",
-    "name": "Kota Kendari",
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
+  "data": [
+    {
+      "id": "74.71.01",
+      "name": "Mandonga"
     },
-    "regency": {
-      "id": "74.71",
-      "name": "Kota Kendari"
+    {
+      "id": "74.71.02",
+      "name": "Kendari"
+    },
+    {
+      "id": "74.71.03",
+      "name": "Baruga"
+    },
+    {
+      "id": "74.71.04",
+      "name": "Poasia"
+    },
+    {
+      "id": "74.71.05",
+      "name": "Kendari Barat"
+    },
+    {
+      "id": "74.71.06",
+      "name": "Abeli"
+    },
+    {
+      "id": "74.71.07",
+      "name": "Wua-Wua"
+    },
+    {
+      "id": "74.71.08",
+      "name": "Kadia"
+    },
+    {
+      "id": "74.71.09",
+      "name": "Puuwatu"
+    },
+    {
+      "id": "74.71.10",
+      "name": "Kambu"
+    },
+    {
+      "id": "74.71.11",
+      "name": "Nambo"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

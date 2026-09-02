@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.17.10.2001",
+      "name": "Cipatik",
+      "postal_code": "40562"
+    },
+    {
+      "id": "32.17.10.2002",
+      "name": "Citapen",
+      "postal_code": "40562"
+    },
+    {
+      "id": "32.17.10.2003",
+      "name": "Cihampelas",
+      "postal_code": "40562"
+    },
+    {
+      "id": "32.17.10.2004",
+      "name": "Mekarjaya",
+      "postal_code": "40562"
+    },
+    {
+      "id": "32.17.10.2005",
+      "name": "Mekarmukti",
+      "postal_code": "40562"
+    },
+    {
+      "id": "32.17.10.2006",
+      "name": "Pataruman",
+      "postal_code": "40562"
+    },
+    {
+      "id": "32.17.10.2007",
+      "name": "Situwangi",
+      "postal_code": "40562"
+    },
+    {
+      "id": "32.17.10.2008",
+      "name": "Singajaya",
+      "postal_code": "40562"
+    },
+    {
+      "id": "32.17.10.2009",
+      "name": "Tanjungwangi",
+      "postal_code": "40562"
+    },
+    {
+      "id": "32.17.10.2010",
+      "name": "Tanjungjaya",
+      "postal_code": "40562"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

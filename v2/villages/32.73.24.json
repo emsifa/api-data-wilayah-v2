@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.73.24.1001",
+      "name": "Sukamiskin",
+      "postal_code": "40293"
+    },
+    {
+      "id": "32.73.24.1002",
+      "name": "Cisaranten Bina Harapan",
+      "postal_code": "40294"
+    },
+    {
+      "id": "32.73.24.1003",
+      "name": "Cisaranten Kulon",
+      "postal_code": "40293"
+    },
+    {
+      "id": "32.73.24.1004",
+      "name": "Cisaranten Endah",
+      "postal_code": "40293"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

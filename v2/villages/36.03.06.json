@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "36.03.06.2001",
+      "name": "Pasir Ampo",
+      "postal_code": "15621"
+    },
+    {
+      "id": "36.03.06.2003",
+      "name": "Rancailat",
+      "postal_code": "15621"
+    },
+    {
+      "id": "36.03.06.2007",
+      "name": "Kemuning",
+      "postal_code": "15621"
+    },
+    {
+      "id": "36.03.06.2009",
+      "name": "Renged",
+      "postal_code": "15621"
+    },
+    {
+      "id": "36.03.06.2011",
+      "name": "Talok",
+      "postal_code": "15621"
+    },
+    {
+      "id": "36.03.06.2013",
+      "name": "Koper",
+      "postal_code": "15621"
+    },
+    {
+      "id": "36.03.06.2014",
+      "name": "Jengkol",
+      "postal_code": "15621"
+    },
+    {
+      "id": "36.03.06.2015",
+      "name": "Patrasana",
+      "postal_code": "15621"
+    },
+    {
+      "id": "36.03.06.2018",
+      "name": "Kresek",
+      "postal_code": "15621"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

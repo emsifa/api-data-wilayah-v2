@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.03.25.2001",
+      "name": "Cibanggala",
+      "postal_code": "43269"
+    },
+    {
+      "id": "32.03.25.2002",
+      "name": "Campakawarna",
+      "postal_code": "43269"
+    },
+    {
+      "id": "32.03.25.2003",
+      "name": "Sukasirna",
+      "postal_code": "43269"
+    },
+    {
+      "id": "32.03.25.2004",
+      "name": "Campakamulya",
+      "postal_code": "43269"
+    },
+    {
+      "id": "32.03.25.2005",
+      "name": "Sukabungah",
+      "postal_code": "43269"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

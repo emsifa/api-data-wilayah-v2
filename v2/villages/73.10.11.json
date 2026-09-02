@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.10.11.2001",
+      "name": "Benteng",
+      "postal_code": "90655"
+    },
+    {
+      "id": "73.10.11.2002",
+      "name": "Manggalung",
+      "postal_code": "90655"
+    },
+    {
+      "id": "73.10.11.2003",
+      "name": "Tamarupa",
+      "postal_code": "90655"
+    },
+    {
+      "id": "73.10.11.2004",
+      "name": "Mandalle",
+      "postal_code": "90655"
+    },
+    {
+      "id": "73.10.11.2005",
+      "name": "Boddie",
+      "postal_code": "90655"
+    },
+    {
+      "id": "73.10.11.2006",
+      "name": "Coppo Tompong",
+      "postal_code": "90655"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

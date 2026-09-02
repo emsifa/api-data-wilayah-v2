@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "74.09.04.1002",
+      "name": "Molawe",
+      "postal_code": "93359"
+    },
+    {
+      "id": "74.09.04.2001",
+      "name": "Bandaeha",
+      "postal_code": "93359"
+    },
+    {
+      "id": "74.09.04.2003",
+      "name": "Awila",
+      "postal_code": "93359"
+    },
+    {
+      "id": "74.09.04.2004",
+      "name": "Mowundo",
+      "postal_code": "93359"
+    },
+    {
+      "id": "74.09.04.2005",
+      "name": "Mandiodo",
+      "postal_code": "93359"
+    },
+    {
+      "id": "74.09.04.2006",
+      "name": "Tapunggaya",
+      "postal_code": "93359"
+    },
+    {
+      "id": "74.09.04.2007",
+      "name": "Mataiwoi",
+      "postal_code": "93359"
+    },
+    {
+      "id": "74.09.04.2008",
+      "name": "Awila Puncak",
+      "postal_code": "93359"
+    },
+    {
+      "id": "74.09.04.2009",
+      "name": "Tapuemea",
+      "postal_code": "93359"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "91.11.10.2001",
+      "name": "Yabanda",
+      "postal_code": "99463"
+    },
+    {
+      "id": "91.11.10.2002",
+      "name": "Yuruf",
+      "postal_code": "99463"
+    },
+    {
+      "id": "91.11.10.2003",
+      "name": "Amgotro",
+      "postal_code": "99463"
+    },
+    {
+      "id": "91.11.10.2004",
+      "name": "Jifanggry",
+      "postal_code": "99463"
+    },
+    {
+      "id": "91.11.10.2005",
+      "name": "Monggoafi",
+      "postal_code": "99463"
+    },
+    {
+      "id": "91.11.10.2006",
+      "name": "Fafenumbu",
+      "postal_code": "99463"
+    },
+    {
+      "id": "91.11.10.2007",
+      "name": "Akarinda",
+      "postal_code": "99463"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

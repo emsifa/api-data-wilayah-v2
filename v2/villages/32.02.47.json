@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.02.47.2001",
+      "name": "Ciambar",
+      "postal_code": "43356"
+    },
+    {
+      "id": "32.02.47.2002",
+      "name": "Ginanjar",
+      "postal_code": "43356"
+    },
+    {
+      "id": "32.02.47.2003",
+      "name": "Wangunjaya",
+      "postal_code": "43356"
+    },
+    {
+      "id": "32.02.47.2004",
+      "name": "Munjul",
+      "postal_code": "43356"
+    },
+    {
+      "id": "32.02.47.2005",
+      "name": "Ambarjaya",
+      "postal_code": "43356"
+    },
+    {
+      "id": "32.02.47.2006",
+      "name": "Cibunarjaya",
+      "postal_code": "43356"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

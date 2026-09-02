@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "95.04.22.2001",
+      "name": "Bolubur",
+      "postal_code": "99060"
+    },
+    {
+      "id": "95.04.22.2002",
+      "name": "Geneluk",
+      "postal_code": "99060"
+    },
+    {
+      "id": "95.04.22.2003",
+      "name": "Tirib",
+      "postal_code": "99060"
+    },
+    {
+      "id": "95.04.22.2004",
+      "name": "Beremo",
+      "postal_code": "99060"
+    },
+    {
+      "id": "95.04.22.2005",
+      "name": "Pirage",
+      "postal_code": "99060"
+    },
+    {
+      "id": "95.04.22.2006",
+      "name": "Koinggambu",
+      "postal_code": "99060"
+    },
+    {
+      "id": "95.04.22.2007",
+      "name": "Liwina",
+      "postal_code": "99060"
+    },
+    {
+      "id": "95.04.22.2008",
+      "name": "Eragani",
+      "postal_code": "99060"
+    },
+    {
+      "id": "95.04.22.2009",
+      "name": "Luki",
+      "postal_code": "99060"
+    },
+    {
+      "id": "95.04.22.2010",
+      "name": "Tioner",
+      "postal_code": "99434"
+    },
+    {
+      "id": "95.04.22.2011",
+      "name": "Logulo",
+      "postal_code": "99060"
+    },
+    {
+      "id": "95.04.22.2012",
+      "name": "Bawi",
+      "postal_code": "99434"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

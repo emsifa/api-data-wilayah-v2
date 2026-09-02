@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "12.19",
+    "name": "Kabupaten Batu Bara",
+    "capital": "Limapuluh",
+    "lat": 3.1717751880433394,
+    "lng": 99.4209807063729,
+    "elv": 26,
+    "tz": 7,
+    "population": 474832,
+    "total_area": 888.676,
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

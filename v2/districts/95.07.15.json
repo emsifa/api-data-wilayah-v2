@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "95.07.15",
+    "name": "Yugungwi",
+    "province": {
+      "id": "95",
+      "name": "Papua Pegunungan"
+    },
+    "regency": {
+      "id": "95.07",
+      "name": "Kabupaten Lanny Jaya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

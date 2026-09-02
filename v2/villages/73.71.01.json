@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "73.71.01.1001",
+      "name": "Bontorannu",
+      "postal_code": "90126"
+    },
+    {
+      "id": "73.71.01.1002",
+      "name": "Mattoangin",
+      "postal_code": "90121"
+    },
+    {
+      "id": "73.71.01.1003",
+      "name": "Kunjung Mae",
+      "postal_code": "90125"
+    },
+    {
+      "id": "73.71.01.1004",
+      "name": "Lette",
+      "postal_code": "90123"
+    },
+    {
+      "id": "73.71.01.1005",
+      "name": "Panambungan",
+      "postal_code": "90121"
+    },
+    {
+      "id": "73.71.01.1006",
+      "name": "Mariso",
+      "postal_code": "90122"
+    },
+    {
+      "id": "73.71.01.1007",
+      "name": "Mario",
+      "postal_code": "90125"
+    },
+    {
+      "id": "73.71.01.1008",
+      "name": "Kampung Buyang",
+      "postal_code": "90121"
+    },
+    {
+      "id": "73.71.01.1009",
+      "name": "Tamarunang",
+      "postal_code": "90126"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

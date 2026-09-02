@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.07.13.2001",
+      "name": "Rajadesa",
+      "postal_code": "46254"
+    },
+    {
+      "id": "32.07.13.2002",
+      "name": "Tanjungsukur",
+      "postal_code": "46254"
+    },
+    {
+      "id": "32.07.13.2003",
+      "name": "Tanjungsari",
+      "postal_code": "46254"
+    },
+    {
+      "id": "32.07.13.2004",
+      "name": "Tanjungjaya",
+      "postal_code": "46254"
+    },
+    {
+      "id": "32.07.13.2005",
+      "name": "Andapraja",
+      "postal_code": "46254"
+    },
+    {
+      "id": "32.07.13.2006",
+      "name": "Sukaharja",
+      "postal_code": "46254"
+    },
+    {
+      "id": "32.07.13.2007",
+      "name": "Sukajaya",
+      "postal_code": "46254"
+    },
+    {
+      "id": "32.07.13.2008",
+      "name": "Tigaherang",
+      "postal_code": "46254"
+    },
+    {
+      "id": "32.07.13.2009",
+      "name": "Sirnabaya",
+      "postal_code": "46254"
+    },
+    {
+      "id": "32.07.13.2010",
+      "name": "Sirnajaya",
+      "postal_code": "46254"
+    },
+    {
+      "id": "32.07.13.2011",
+      "name": "Purwaraja",
+      "postal_code": "46254"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "53.03.11.2001",
+      "name": "Tuabatan",
+      "postal_code": "85660"
+    },
+    {
+      "id": "53.03.11.2002",
+      "name": "Akomi",
+      "postal_code": "85660"
+    },
+    {
+      "id": "53.03.11.2003",
+      "name": "Bijaepasu",
+      "postal_code": "85660"
+    },
+    {
+      "id": "53.03.11.2004",
+      "name": "Neonasi",
+      "postal_code": "85660"
+    },
+    {
+      "id": "53.03.11.2005",
+      "name": "N i a n",
+      "postal_code": "85660"
+    },
+    {
+      "id": "53.03.11.2006",
+      "name": "Tuabatan Barat",
+      "postal_code": "85660"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

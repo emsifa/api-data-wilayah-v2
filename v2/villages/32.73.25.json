@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.73.25.1001",
+      "name": "Palasari",
+      "postal_code": "40615"
+    },
+    {
+      "id": "32.73.25.1002",
+      "name": "Cipadung",
+      "postal_code": "40614"
+    },
+    {
+      "id": "32.73.25.1003",
+      "name": "Pasir Biru",
+      "postal_code": "40615"
+    },
+    {
+      "id": "32.73.25.1004",
+      "name": "Cisurupan",
+      "postal_code": "40614"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "62.13.07.2001",
+      "name": "Juru Banu",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.07.2002",
+      "name": "Telang Baru",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.07.2003",
+      "name": "Tampu Langit",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.07.2004",
+      "name": "Telang",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.07.2005",
+      "name": "Maipe",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.07.2006",
+      "name": "Murutuwu",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.07.2007",
+      "name": "Balawa",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.07.2008",
+      "name": "Kali Napu",
+      "postal_code": "73617"
+    },
+    {
+      "id": "62.13.07.2009",
+      "name": "Siong",
+      "postal_code": "73617"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "33.14.11.2001",
+      "name": "Bentak",
+      "postal_code": "57281"
+    },
+    {
+      "id": "33.14.11.2002",
+      "name": "Purwosuman",
+      "postal_code": "57281"
+    },
+    {
+      "id": "33.14.11.2003",
+      "name": "Patihan",
+      "postal_code": "57281"
+    },
+    {
+      "id": "33.14.11.2004",
+      "name": "Duyungan",
+      "postal_code": "57281"
+    },
+    {
+      "id": "33.14.11.2005",
+      "name": "Jetak",
+      "postal_code": "57281"
+    },
+    {
+      "id": "33.14.11.2006",
+      "name": "Sidoharjo",
+      "postal_code": "57281"
+    },
+    {
+      "id": "33.14.11.2007",
+      "name": "Singopadu",
+      "postal_code": "57281"
+    },
+    {
+      "id": "33.14.11.2008",
+      "name": "Taraman",
+      "postal_code": "57281"
+    },
+    {
+      "id": "33.14.11.2009",
+      "name": "Tenggak",
+      "postal_code": "57281"
+    },
+    {
+      "id": "33.14.11.2010",
+      "name": "Sribit",
+      "postal_code": "57281"
+    },
+    {
+      "id": "33.14.11.2011",
+      "name": "Jambanan",
+      "postal_code": "57281"
+    },
+    {
+      "id": "33.14.11.2012",
+      "name": "Pandak",
+      "postal_code": "57281"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

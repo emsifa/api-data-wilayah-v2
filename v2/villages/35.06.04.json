@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "35.06.04.2001",
+      "name": "Tales",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2002",
+      "name": "Seketi",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2003",
+      "name": "Banggle",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2004",
+      "name": "Branggahan",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2005",
+      "name": "Slumbung",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2006",
+      "name": "Dukuh",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2007",
+      "name": "Purwokerto",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2008",
+      "name": "Ngadiluwih",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2009",
+      "name": "Badal",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2010",
+      "name": "Badal Pandean",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2011",
+      "name": "Rembang",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2012",
+      "name": "Rembangkepuh",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2013",
+      "name": "Bedug",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2014",
+      "name": "Mangunrejo",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2015",
+      "name": "Banjarejo",
+      "postal_code": "64171"
+    },
+    {
+      "id": "35.06.04.2016",
+      "name": "Wonorejo",
+      "postal_code": "64171"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

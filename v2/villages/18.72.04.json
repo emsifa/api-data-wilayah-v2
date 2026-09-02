@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "18.72.04.1001",
+      "name": "Yosodadi",
+      "postal_code": "34111"
+    },
+    {
+      "id": "18.72.04.1002",
+      "name": "Tejosari",
+      "postal_code": "34124"
+    },
+    {
+      "id": "18.72.04.1003",
+      "name": "Iring Mulyo",
+      "postal_code": "34112"
+    },
+    {
+      "id": "18.72.04.1004",
+      "name": "Yosorejo",
+      "postal_code": "34112"
+    },
+    {
+      "id": "18.72.04.1005",
+      "name": "Tejo Agung",
+      "postal_code": "34112"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

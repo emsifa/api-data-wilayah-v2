@@ -1,18 +1,24 @@
 {
-  "data": {
-    "id": "13.77",
-    "name": "Kota Pariaman",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
+  "data": [
+    {
+      "id": "13.77.01",
+      "name": "Pariaman Tengah"
     },
-    "regency": {
-      "id": "13.77",
-      "name": "Kota Pariaman"
+    {
+      "id": "13.77.02",
+      "name": "Pariaman Utara"
+    },
+    {
+      "id": "13.77.03",
+      "name": "Pariaman Selatan"
+    },
+    {
+      "id": "13.77.04",
+      "name": "Pariaman Timur"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "12.11",
+    "name": "Kabupaten Dairi",
+    "capital": "Sidikalang",
+    "lat": 2.7479672571598934,
+    "lng": 98.31396934594967,
+    "elv": 1066,
+    "tz": 7,
+    "population": 333335,
+    "total_area": 2083.604,
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

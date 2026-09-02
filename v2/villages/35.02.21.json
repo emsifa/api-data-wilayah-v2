@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.02.21.2001",
+      "name": "Bareng",
+      "postal_code": "63418"
+    },
+    {
+      "id": "35.02.21.2002",
+      "name": "Tambang",
+      "postal_code": "63418"
+    },
+    {
+      "id": "35.02.21.2003",
+      "name": "Krisik",
+      "postal_code": "63418"
+    },
+    {
+      "id": "35.02.21.2004",
+      "name": "Pudak Wetan",
+      "postal_code": "63418"
+    },
+    {
+      "id": "35.02.21.2005",
+      "name": "Banjarejo",
+      "postal_code": "63418"
+    },
+    {
+      "id": "35.02.21.2006",
+      "name": "Pudak Kulon",
+      "postal_code": "63418"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

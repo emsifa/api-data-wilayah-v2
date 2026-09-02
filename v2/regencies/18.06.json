@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "18.06",
+    "name": "Kabupaten Tanggamus",
+    "capital": "Kota Agung",
+    "lat": -5.480674664821914,
+    "lng": 104.68229977472107,
+    "elv": 267,
+    "tz": 7,
+    "population": 641036,
+    "total_area": 2947.187,
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "61.03.03.2001",
+      "name": "Noyan",
+      "postal_code": "78554"
+    },
+    {
+      "id": "61.03.03.2002",
+      "name": "Empoto",
+      "postal_code": "78554"
+    },
+    {
+      "id": "61.03.03.2003",
+      "name": "Semongan",
+      "postal_code": "78554"
+    },
+    {
+      "id": "61.03.03.2004",
+      "name": "Sungai Dangin",
+      "postal_code": "78554"
+    },
+    {
+      "id": "61.03.03.2005",
+      "name": "Idas",
+      "postal_code": "78554"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "36.74.03",
+    "name": "Pondok Aren",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.74",
+      "name": "Kota Tangerang Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

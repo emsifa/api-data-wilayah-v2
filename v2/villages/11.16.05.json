@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "11.16.05.2001",
+      "name": "Kota Kualasimpang",
+      "postal_code": "24475"
+    },
+    {
+      "id": "11.16.05.2002",
+      "name": "Perdamaian",
+      "postal_code": "24475"
+    },
+    {
+      "id": "11.16.05.2003",
+      "name": "Sriwijaya",
+      "postal_code": "24475"
+    },
+    {
+      "id": "11.16.05.2004",
+      "name": "Bukit Tempurung",
+      "postal_code": "24475"
+    },
+    {
+      "id": "11.16.05.2005",
+      "name": "Kota Lintang",
+      "postal_code": "24475"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

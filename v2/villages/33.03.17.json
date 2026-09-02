@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "33.03.17.2001",
+      "name": "Purbasari",
+      "postal_code": "53357"
+    },
+    {
+      "id": "33.03.17.2002",
+      "name": "Sirandu",
+      "postal_code": "53357"
+    },
+    {
+      "id": "33.03.17.2003",
+      "name": "Karangjambu",
+      "postal_code": "53357"
+    },
+    {
+      "id": "33.03.17.2004",
+      "name": "Sanguwatang",
+      "postal_code": "53357"
+    },
+    {
+      "id": "33.03.17.2005",
+      "name": "Jingkang",
+      "postal_code": "53357"
+    },
+    {
+      "id": "33.03.17.2006",
+      "name": "Danasari",
+      "postal_code": "53357"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

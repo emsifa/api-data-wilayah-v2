@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "15.08.03.1006",
+      "name": "Tanjung Gedang",
+      "postal_code": "37214"
+    },
+    {
+      "id": "15.08.03.1007",
+      "name": "Bungo Timur",
+      "postal_code": "37214"
+    },
+    {
+      "id": "15.08.03.1008",
+      "name": "Bungo Barat",
+      "postal_code": "37214"
+    },
+    {
+      "id": "15.08.03.1022",
+      "name": "Jaya Setia",
+      "postal_code": "37214"
+    },
+    {
+      "id": "15.08.03.1023",
+      "name": "Batang Bungo",
+      "postal_code": "37214"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

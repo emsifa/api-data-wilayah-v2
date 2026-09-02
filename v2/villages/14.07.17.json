@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "14.07.17.1001",
+      "name": "Bagan Sinembah Kota",
+      "postal_code": "28992"
+    },
+    {
+      "id": "14.07.17.2002",
+      "name": "Bagan Sinembah",
+      "postal_code": "28992"
+    },
+    {
+      "id": "14.07.17.2003",
+      "name": "Harapan Makmur Selatan",
+      "postal_code": "28992"
+    },
+    {
+      "id": "14.07.17.2004",
+      "name": "Harapan Makmur",
+      "postal_code": "28992"
+    },
+    {
+      "id": "14.07.17.2005",
+      "name": "Makmur Jaya",
+      "postal_code": "28992"
+    },
+    {
+      "id": "14.07.17.2006",
+      "name": "Salak",
+      "postal_code": "28992"
+    },
+    {
+      "id": "14.07.17.2007",
+      "name": "Panca Mukti",
+      "postal_code": "28992"
+    },
+    {
+      "id": "14.07.17.2008",
+      "name": "Bagansinembah Timur",
+      "postal_code": "28992"
+    },
+    {
+      "id": "14.07.17.2009",
+      "name": "Bagansinembah Utara",
+      "postal_code": "28992"
+    },
+    {
+      "id": "14.07.17.2010",
+      "name": "Bagansinembah Barat",
+      "postal_code": "28992"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

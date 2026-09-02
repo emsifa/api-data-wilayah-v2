@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "33.20.11.2001",
+      "name": "Ngabul",
+      "postal_code": "59428"
+    },
+    {
+      "id": "33.20.11.2002",
+      "name": "Langon",
+      "postal_code": "59425"
+    },
+    {
+      "id": "33.20.11.2003",
+      "name": "Sukodono",
+      "postal_code": "59425"
+    },
+    {
+      "id": "33.20.11.2004",
+      "name": "Petekeyan",
+      "postal_code": "59423"
+    },
+    {
+      "id": "33.20.11.2005",
+      "name": "Mangunan",
+      "postal_code": "59422"
+    },
+    {
+      "id": "33.20.11.2006",
+      "name": "Platar",
+      "postal_code": "59423"
+    },
+    {
+      "id": "33.20.11.2007",
+      "name": "Semat",
+      "postal_code": "59424"
+    },
+    {
+      "id": "33.20.11.2008",
+      "name": "Telukawur",
+      "postal_code": "59427"
+    },
+    {
+      "id": "33.20.11.2009",
+      "name": "Demangan",
+      "postal_code": "59422"
+    },
+    {
+      "id": "33.20.11.2010",
+      "name": "Tegalsambi",
+      "postal_code": "59427"
+    },
+    {
+      "id": "33.20.11.2011",
+      "name": "Mantingan",
+      "postal_code": "59421"
+    },
+    {
+      "id": "33.20.11.2012",
+      "name": "Tahunan",
+      "postal_code": "59451"
+    },
+    {
+      "id": "33.20.11.2013",
+      "name": "Kecapi",
+      "postal_code": "59429"
+    },
+    {
+      "id": "33.20.11.2014",
+      "name": "Senenan",
+      "postal_code": "59426"
+    },
+    {
+      "id": "33.20.11.2015",
+      "name": "Krapyak",
+      "postal_code": "59421"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

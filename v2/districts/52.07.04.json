@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "52.07.04",
+    "name": "Sekongkang",
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    },
+    "regency": {
+      "id": "52.07",
+      "name": "Kabupaten Sumbawa Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

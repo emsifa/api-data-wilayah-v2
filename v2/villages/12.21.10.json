@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.21.10.2001",
+      "name": "Batang Bulu Lama",
+      "postal_code": "22764"
+    },
+    {
+      "id": "12.21.10.2002",
+      "name": "Pagur Satio",
+      "postal_code": "22764"
+    },
+    {
+      "id": "12.21.10.2003",
+      "name": "Batang Bulu Baru",
+      "postal_code": "22764"
+    },
+    {
+      "id": "12.21.10.2004",
+      "name": "Gunung Intan",
+      "postal_code": "22764"
+    },
+    {
+      "id": "12.21.10.2005",
+      "name": "Tanjung Purba Tua",
+      "postal_code": "22764"
+    },
+    {
+      "id": "12.21.10.2006",
+      "name": "Banua Tonga",
+      "postal_code": "22764"
+    },
+    {
+      "id": "12.21.10.2007",
+      "name": "Gunung Barani",
+      "postal_code": "22764"
+    },
+    {
+      "id": "12.21.10.2008",
+      "name": "Tanjung Baringin Simarulak",
+      "postal_code": "22764"
+    },
+    {
+      "id": "12.21.10.2009",
+      "name": "Sayur Mahincat",
+      "postal_code": "22764"
+    },
+    {
+      "id": "12.21.10.2010",
+      "name": "Sidomulio",
+      "postal_code": "22764"
+    },
+    {
+      "id": "12.21.10.2011",
+      "name": "Panarian",
+      "postal_code": "22764"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

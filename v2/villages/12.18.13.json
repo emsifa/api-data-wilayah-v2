@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "12.18.13.2001",
+      "name": "Bah Sumbu",
+      "postal_code": "20999"
+    },
+    {
+      "id": "12.18.13.2002",
+      "name": "Naga Kesiangan",
+      "postal_code": "20999"
+    },
+    {
+      "id": "12.18.13.2003",
+      "name": "Jambu",
+      "postal_code": "20999"
+    },
+    {
+      "id": "12.18.13.2004",
+      "name": "Mariah Padang",
+      "postal_code": "20999"
+    },
+    {
+      "id": "12.18.13.2005",
+      "name": "Pertapaan",
+      "postal_code": "20999"
+    },
+    {
+      "id": "12.18.13.2006",
+      "name": "Paya Lombang",
+      "postal_code": "20999"
+    },
+    {
+      "id": "12.18.13.2007",
+      "name": "Sei Serimah",
+      "postal_code": "20999"
+    },
+    {
+      "id": "12.18.13.2008",
+      "name": "Paya Bagas",
+      "postal_code": "20999"
+    },
+    {
+      "id": "12.18.13.2009",
+      "name": "Paya Mabar",
+      "postal_code": "20999"
+    },
+    {
+      "id": "12.18.13.2010",
+      "name": "Sei. Priok",
+      "postal_code": "20999"
+    },
+    {
+      "id": "12.18.13.2011",
+      "name": "Kuta Baru",
+      "postal_code": "20999"
+    },
+    {
+      "id": "12.18.13.2018",
+      "name": "Kedai Damar",
+      "postal_code": "20999"
+    },
+    {
+      "id": "12.18.13.2019",
+      "name": "Penonggol",
+      "postal_code": "20999"
+    },
+    {
+      "id": "12.18.13.2020",
+      "name": "Gunung Kataran",
+      "postal_code": "20999"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

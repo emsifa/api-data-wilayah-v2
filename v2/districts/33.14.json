@@ -1,18 +1,88 @@
 {
-  "data": {
-    "id": "33.14",
-    "name": "Kabupaten Sragen",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
+  "data": [
+    {
+      "id": "33.14.01",
+      "name": "Kalijambe"
     },
-    "regency": {
-      "id": "33.14",
-      "name": "Kabupaten Sragen"
+    {
+      "id": "33.14.02",
+      "name": "Plupuh"
+    },
+    {
+      "id": "33.14.03",
+      "name": "Masaran"
+    },
+    {
+      "id": "33.14.04",
+      "name": "Kedawung"
+    },
+    {
+      "id": "33.14.05",
+      "name": "Sambirejo"
+    },
+    {
+      "id": "33.14.06",
+      "name": "Gondang"
+    },
+    {
+      "id": "33.14.07",
+      "name": "Sambungmacan"
+    },
+    {
+      "id": "33.14.08",
+      "name": "Ngrampal"
+    },
+    {
+      "id": "33.14.09",
+      "name": "Karangmalang"
+    },
+    {
+      "id": "33.14.10",
+      "name": "Sragen"
+    },
+    {
+      "id": "33.14.11",
+      "name": "Sidoharjo"
+    },
+    {
+      "id": "33.14.12",
+      "name": "Tanon"
+    },
+    {
+      "id": "33.14.13",
+      "name": "Gemolong"
+    },
+    {
+      "id": "33.14.14",
+      "name": "Miri"
+    },
+    {
+      "id": "33.14.15",
+      "name": "Sumberlawang"
+    },
+    {
+      "id": "33.14.16",
+      "name": "Mondokan"
+    },
+    {
+      "id": "33.14.17",
+      "name": "Sukodono"
+    },
+    {
+      "id": "33.14.18",
+      "name": "Gesi"
+    },
+    {
+      "id": "33.14.19",
+      "name": "Tangen"
+    },
+    {
+      "id": "33.14.20",
+      "name": "Jenar"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

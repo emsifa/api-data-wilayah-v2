@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "31.73.06.1001",
+      "name": "Kalideres",
+      "postal_code": "11840"
+    },
+    {
+      "id": "31.73.06.1002",
+      "name": "Semanan",
+      "postal_code": "11850"
+    },
+    {
+      "id": "31.73.06.1003",
+      "name": "Tegal Alur",
+      "postal_code": "11820"
+    },
+    {
+      "id": "31.73.06.1004",
+      "name": "Kamal",
+      "postal_code": "11810"
+    },
+    {
+      "id": "31.73.06.1005",
+      "name": "Pegadungan",
+      "postal_code": "11830"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

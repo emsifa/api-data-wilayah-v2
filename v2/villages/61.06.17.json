@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "61.06.17.1001",
+      "name": "Kedamin Hulu",
+      "postal_code": "78715"
+    },
+    {
+      "id": "61.06.17.1002",
+      "name": "Kedamin Hilir",
+      "postal_code": "78714"
+    },
+    {
+      "id": "61.06.17.2003",
+      "name": "Sungai Uluk",
+      "postal_code": "78752"
+    },
+    {
+      "id": "61.06.17.2004",
+      "name": "Jaras",
+      "postal_code": "78752"
+    },
+    {
+      "id": "61.06.17.2005",
+      "name": "Melapi",
+      "postal_code": "78714"
+    },
+    {
+      "id": "61.06.17.2014",
+      "name": "Kedamin Darat",
+      "postal_code": "78714"
+    },
+    {
+      "id": "61.06.17.2015",
+      "name": "Tanjung Jati",
+      "postal_code": "78714"
+    },
+    {
+      "id": "61.06.17.2016",
+      "name": "Sayut",
+      "postal_code": "78714"
+    },
+    {
+      "id": "61.06.17.2017",
+      "name": "Urang Unsa",
+      "postal_code": "78714"
+    },
+    {
+      "id": "61.06.17.2018",
+      "name": "Suka Maju",
+      "postal_code": "78714"
+    },
+    {
+      "id": "61.06.17.2019",
+      "name": "Cempaka Baru",
+      "postal_code": "78714"
+    },
+    {
+      "id": "61.06.17.2020",
+      "name": "Beringin Jaya",
+      "postal_code": "78714"
+    },
+    {
+      "id": "61.06.17.2021",
+      "name": "Bungan Jaya",
+      "postal_code": "78714"
+    },
+    {
+      "id": "61.06.17.2022",
+      "name": "Tanjunglokang",
+      "postal_code": "78714"
+    },
+    {
+      "id": "61.06.17.2023",
+      "name": "Kereho",
+      "postal_code": "78714"
+    },
+    {
+      "id": "61.06.17.2024",
+      "name": "Ingko' Tambe",
+      "postal_code": "78714"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

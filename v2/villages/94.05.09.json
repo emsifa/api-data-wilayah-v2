@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "94.05.09.2001",
+      "name": "Tayai",
+      "postal_code": "98981"
+    },
+    {
+      "id": "94.05.09.2002",
+      "name": "Kordesi",
+      "postal_code": "98981"
+    },
+    {
+      "id": "94.05.09.2003",
+      "name": "Faisau",
+      "postal_code": "98981"
+    },
+    {
+      "id": "94.05.09.2004",
+      "name": "Fokri",
+      "postal_code": "98981"
+    },
+    {
+      "id": "94.05.09.2005",
+      "name": "Foisa",
+      "postal_code": "98981"
+    },
+    {
+      "id": "94.05.09.2006",
+      "name": "Duaita",
+      "postal_code": "98981"
+    },
+    {
+      "id": "94.05.09.2007",
+      "name": "Dervos",
+      "postal_code": "98981"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

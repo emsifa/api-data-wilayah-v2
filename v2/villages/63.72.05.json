@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "63.72.05.1001",
+      "name": "Sungai Besar",
+      "postal_code": "70714"
+    },
+    {
+      "id": "63.72.05.1002",
+      "name": "Loktabat Selatan",
+      "postal_code": "70714"
+    },
+    {
+      "id": "63.72.05.1003",
+      "name": "Kemuning",
+      "postal_code": "70714"
+    },
+    {
+      "id": "63.72.05.1004",
+      "name": "Guntung Paikat",
+      "postal_code": "70713"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

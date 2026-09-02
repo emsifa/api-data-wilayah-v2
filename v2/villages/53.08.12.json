@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "53.08.12.1001",
+      "name": "Watuneso",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.12.2002",
+      "name": "Hobatua",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.12.2003",
+      "name": "Wolosambi",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.12.2004",
+      "name": "Woloara",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.12.2005",
+      "name": "Detupera",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.12.2006",
+      "name": "Wololela A",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.12.2007",
+      "name": "Liabeke",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.12.2013",
+      "name": "Fatamari",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.12.2014",
+      "name": "Ranggatalo",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.12.2015",
+      "name": "Nua Lima",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.12.2016",
+      "name": "Tanaroga",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.12.2017",
+      "name": "Bu Tanalagu",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.12.2018",
+      "name": "Mbewawora",
+      "postal_code": "86361"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

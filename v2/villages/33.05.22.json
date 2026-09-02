@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "33.05.22.2001",
+      "name": "Pucangan",
+      "postal_code": "54354"
+    },
+    {
+      "id": "33.05.22.2002",
+      "name": "Seboro",
+      "postal_code": "54354"
+    },
+    {
+      "id": "33.05.22.2003",
+      "name": "Wonosari",
+      "postal_code": "54354"
+    },
+    {
+      "id": "33.05.22.2004",
+      "name": "Sadangkulon",
+      "postal_code": "54354"
+    },
+    {
+      "id": "33.05.22.2005",
+      "name": "Cangkring",
+      "postal_code": "54354"
+    },
+    {
+      "id": "33.05.22.2006",
+      "name": "Sadangwetan",
+      "postal_code": "54354"
+    },
+    {
+      "id": "33.05.22.2007",
+      "name": "Kedunggong",
+      "postal_code": "54354"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

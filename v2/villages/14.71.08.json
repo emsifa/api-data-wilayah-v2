@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "14.71.08.1001",
+      "name": "Simpangbaru",
+      "postal_code": "28293"
+    },
+    {
+      "id": "14.71.08.1008",
+      "name": "Delima",
+      "postal_code": "28290"
+    },
+    {
+      "id": "14.71.08.1009",
+      "name": "Tobekgodang",
+      "postal_code": "28297"
+    },
+    {
+      "id": "14.71.08.1010",
+      "name": "Binawidya",
+      "postal_code": "28295"
+    },
+    {
+      "id": "14.71.08.1014",
+      "name": "Sungaisibam",
+      "postal_code": "28292"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

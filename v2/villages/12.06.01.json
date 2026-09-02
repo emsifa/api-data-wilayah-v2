@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "12.06.01.1009",
+      "name": "Padang Mas",
+      "postal_code": "22115"
+    },
+    {
+      "id": "12.06.01.1010",
+      "name": "Lau Cimba",
+      "postal_code": "22114"
+    },
+    {
+      "id": "12.06.01.1011",
+      "name": "Gung Leto",
+      "postal_code": "22111"
+    },
+    {
+      "id": "12.06.01.1012",
+      "name": "Gung Negeri",
+      "postal_code": "22112"
+    },
+    {
+      "id": "12.06.01.1013",
+      "name": "Kampung Dalam",
+      "postal_code": "22113"
+    },
+    {
+      "id": "12.06.01.2001",
+      "name": "Rumah Kabanjahe",
+      "postal_code": "22111"
+    },
+    {
+      "id": "12.06.01.2002",
+      "name": "Kaban",
+      "postal_code": "22111"
+    },
+    {
+      "id": "12.06.01.2003",
+      "name": "Ketaren",
+      "postal_code": "22111"
+    },
+    {
+      "id": "12.06.01.2004",
+      "name": "Samura",
+      "postal_code": "22111"
+    },
+    {
+      "id": "12.06.01.2005",
+      "name": "Lau Simomo",
+      "postal_code": "22111"
+    },
+    {
+      "id": "12.06.01.2006",
+      "name": "Sumber Mufakat",
+      "postal_code": "22111"
+    },
+    {
+      "id": "12.06.01.2007",
+      "name": "Kandibata",
+      "postal_code": "22111"
+    },
+    {
+      "id": "12.06.01.2008",
+      "name": "Kacaribu",
+      "postal_code": "22111"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "15.07.07.1001",
+      "name": "Kampung Singkep",
+      "postal_code": "36761"
+    },
+    {
+      "id": "15.07.07.1002",
+      "name": "Nibung Putih",
+      "postal_code": "36761"
+    },
+    {
+      "id": "15.07.07.1003",
+      "name": "Rano",
+      "postal_code": "36761"
+    },
+    {
+      "id": "15.07.07.1004",
+      "name": "Talang Babat",
+      "postal_code": "36761"
+    },
+    {
+      "id": "15.07.07.1005",
+      "name": "Parit Culum I",
+      "postal_code": "36761"
+    },
+    {
+      "id": "15.07.07.1006",
+      "name": "Parit Culum II",
+      "postal_code": "36761"
+    },
+    {
+      "id": "15.07.07.1007",
+      "name": "Teluk Dawan",
+      "postal_code": "36761"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

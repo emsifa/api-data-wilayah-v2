@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "13.09.06.2001",
+      "name": "Katurei",
+      "postal_code": "25393"
+    },
+    {
+      "id": "13.09.06.2002",
+      "name": "Sagulubbeg",
+      "postal_code": "25393"
+    },
+    {
+      "id": "13.09.06.2003",
+      "name": "Pasakiat Taileleu",
+      "postal_code": "25393"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

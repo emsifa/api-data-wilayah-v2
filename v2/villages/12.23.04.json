@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "12.23.04.2001",
+      "name": "Aek Korsik",
+      "postal_code": "21455"
+    },
+    {
+      "id": "12.23.04.2002",
+      "name": "Bandar Selamat",
+      "postal_code": "21455"
+    },
+    {
+      "id": "12.23.04.2003",
+      "name": "Perk. Padang Halaban",
+      "postal_code": "21455"
+    },
+    {
+      "id": "12.23.04.2004",
+      "name": "Perkebunan Panigoran",
+      "postal_code": "21455"
+    },
+    {
+      "id": "12.23.04.2005",
+      "name": "Sidomulyo",
+      "postal_code": "21455"
+    },
+    {
+      "id": "12.23.04.2006",
+      "name": "Karang Anyar",
+      "postal_code": "21455"
+    },
+    {
+      "id": "12.23.04.2007",
+      "name": "Padang Maninjau",
+      "postal_code": "21455"
+    },
+    {
+      "id": "12.23.04.2008",
+      "name": "Purworejo",
+      "postal_code": "21455"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

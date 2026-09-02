@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "53.71.02.1001",
+      "name": "Oepura",
+      "postal_code": "85142"
+    },
+    {
+      "id": "53.71.02.1002",
+      "name": "Maulafa",
+      "postal_code": "85141"
+    },
+    {
+      "id": "53.71.02.1003",
+      "name": "Penfui",
+      "postal_code": "85148"
+    },
+    {
+      "id": "53.71.02.1004",
+      "name": "Naimata",
+      "postal_code": "85147"
+    },
+    {
+      "id": "53.71.02.1005",
+      "name": "Bello",
+      "postal_code": "85148"
+    },
+    {
+      "id": "53.71.02.1006",
+      "name": "Fatukoa",
+      "postal_code": "85144"
+    },
+    {
+      "id": "53.71.02.1007",
+      "name": "Kolhua",
+      "postal_code": "85146"
+    },
+    {
+      "id": "53.71.02.1008",
+      "name": "Sikumana",
+      "postal_code": "85143"
+    },
+    {
+      "id": "53.71.02.1009",
+      "name": "Naikolan",
+      "postal_code": "85142"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

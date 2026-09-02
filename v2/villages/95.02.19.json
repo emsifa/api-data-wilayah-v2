@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "95.02.19.2001",
+      "name": "Tarup",
+      "postal_code": "99434"
+    },
+    {
+      "id": "95.02.19.2002",
+      "name": "Marang Tiking",
+      "postal_code": "99434"
+    },
+    {
+      "id": "95.02.19.2003",
+      "name": "Imsin",
+      "postal_code": "99434"
+    },
+    {
+      "id": "95.02.19.2004",
+      "name": "Bitipding",
+      "postal_code": "99434"
+    },
+    {
+      "id": "95.02.19.2005",
+      "name": "Onkor",
+      "postal_code": "99434"
+    },
+    {
+      "id": "95.02.19.2006",
+      "name": "Beten Dua",
+      "postal_code": "99434"
+    },
+    {
+      "id": "95.02.19.2007",
+      "name": "Omor",
+      "postal_code": "99434"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

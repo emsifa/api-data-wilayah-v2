@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "33.27.01.2001",
+      "name": "Plakaran",
+      "postal_code": "52354"
+    },
+    {
+      "id": "33.27.01.2002",
+      "name": "Mandiraja",
+      "postal_code": "52354"
+    },
+    {
+      "id": "33.27.01.2003",
+      "name": "Walangsanga",
+      "postal_code": "52354"
+    },
+    {
+      "id": "33.27.01.2004",
+      "name": "Sima",
+      "postal_code": "52354"
+    },
+    {
+      "id": "33.27.01.2005",
+      "name": "Moga",
+      "postal_code": "52354"
+    },
+    {
+      "id": "33.27.01.2006",
+      "name": "Banyumudal",
+      "postal_code": "52354"
+    },
+    {
+      "id": "33.27.01.2007",
+      "name": "Wangkelang",
+      "postal_code": "52354"
+    },
+    {
+      "id": "33.27.01.2008",
+      "name": "Kebanggan",
+      "postal_code": "52354"
+    },
+    {
+      "id": "33.27.01.2009",
+      "name": "Pepedan",
+      "postal_code": "52354"
+    },
+    {
+      "id": "33.27.01.2010",
+      "name": "Gendoang",
+      "postal_code": "52354"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

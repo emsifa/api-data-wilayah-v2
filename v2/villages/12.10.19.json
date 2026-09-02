@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "12.10.19.1001",
+      "name": "Sei Berombang",
+      "postal_code": "21473"
+    },
+    {
+      "id": "12.10.19.2002",
+      "name": "Sei Penggantungan",
+      "postal_code": "21473"
+    },
+    {
+      "id": "12.10.19.2003",
+      "name": "Sei Lumut",
+      "postal_code": "21473"
+    },
+    {
+      "id": "12.10.19.2004",
+      "name": "Sei Tawar",
+      "postal_code": "21473"
+    },
+    {
+      "id": "12.10.19.2005",
+      "name": "Sei Sanggul",
+      "postal_code": "21473"
+    },
+    {
+      "id": "12.10.19.2006",
+      "name": "Sei Sakat",
+      "postal_code": "21473"
+    },
+    {
+      "id": "12.10.19.2007",
+      "name": "Sei Baru",
+      "postal_code": "21473"
+    },
+    {
+      "id": "12.10.19.2008",
+      "name": "Wonosari",
+      "postal_code": "21473"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

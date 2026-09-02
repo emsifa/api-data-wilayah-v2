@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "96.01.03.1001",
+      "name": "Katinim",
+      "postal_code": "98433"
+    },
+    {
+      "id": "96.01.03.1002",
+      "name": "Majener",
+      "postal_code": "98433"
+    },
+    {
+      "id": "96.01.03.1003",
+      "name": "Majaran",
+      "postal_code": "98433"
+    },
+    {
+      "id": "96.01.03.1004",
+      "name": "Matawolot",
+      "postal_code": "98433"
+    },
+    {
+      "id": "96.01.03.2005",
+      "name": "Walal",
+      "postal_code": "98433"
+    },
+    {
+      "id": "96.01.03.2006",
+      "name": "Malaus",
+      "postal_code": "98433"
+    },
+    {
+      "id": "96.01.03.2007",
+      "name": "Rawa Sugi",
+      "postal_code": "98433"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

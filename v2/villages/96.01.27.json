@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "96.01.27.2001",
+      "name": "Hobard",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.27.2002",
+      "name": "Brianlo",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.27.2003",
+      "name": "Floyi",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.27.2004",
+      "name": "Klazelt",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.27.2005",
+      "name": "Sfadon",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.27.2006",
+      "name": "Selol",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.27.2007",
+      "name": "Dais",
+      "postal_code": "98443"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

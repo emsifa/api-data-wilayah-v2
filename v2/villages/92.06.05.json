@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "92.06.05.2001",
+      "name": "Jagiro",
+      "postal_code": "98155"
+    },
+    {
+      "id": "92.06.05.2004",
+      "name": "Meyenda",
+      "postal_code": "98155"
+    },
+    {
+      "id": "92.06.05.2005",
+      "name": "Rawara",
+      "postal_code": "98155"
+    },
+    {
+      "id": "92.06.05.2006",
+      "name": "Barma Barat",
+      "postal_code": "98155"
+    },
+    {
+      "id": "92.06.05.2011",
+      "name": "Inggof",
+      "postal_code": "98155"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

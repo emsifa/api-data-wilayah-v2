@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "81.71.05.2001",
+      "name": "Hukurila",
+      "postal_code": "97129"
+    },
+    {
+      "id": "81.71.05.2002",
+      "name": "Ema",
+      "postal_code": "97129"
+    },
+    {
+      "id": "81.71.05.2003",
+      "name": "Kilang",
+      "postal_code": "97129"
+    },
+    {
+      "id": "81.71.05.2004",
+      "name": "Naku",
+      "postal_code": "97129"
+    },
+    {
+      "id": "81.71.05.2005",
+      "name": "Hatalai",
+      "postal_code": "97129"
+    },
+    {
+      "id": "81.71.05.2006",
+      "name": "Hutumury",
+      "postal_code": "97237"
+    },
+    {
+      "id": "81.71.05.2007",
+      "name": "Rutong",
+      "postal_code": "97237"
+    },
+    {
+      "id": "81.71.05.2008",
+      "name": "Leahari",
+      "postal_code": "97237"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "12.71.15.1001",
+      "name": "Aur",
+      "postal_code": "20151"
+    },
+    {
+      "id": "12.71.15.1002",
+      "name": "Hamdan",
+      "postal_code": "20151"
+    },
+    {
+      "id": "12.71.15.1003",
+      "name": "Jati",
+      "postal_code": "20152"
+    },
+    {
+      "id": "12.71.15.1004",
+      "name": "Sukaraja",
+      "postal_code": "20159"
+    },
+    {
+      "id": "12.71.15.1005",
+      "name": "Sei Mati",
+      "postal_code": "20159"
+    },
+    {
+      "id": "12.71.15.1006",
+      "name": "Kampung Baru",
+      "postal_code": "20158"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

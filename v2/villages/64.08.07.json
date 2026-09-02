@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "64.08.07.2001",
+      "name": "Marah Haloq",
+      "postal_code": "75554"
+    },
+    {
+      "id": "64.08.07.2002",
+      "name": "Lung Melah",
+      "postal_code": "75554"
+    },
+    {
+      "id": "64.08.07.2003",
+      "name": "Juk Ayaq",
+      "postal_code": "75554"
+    },
+    {
+      "id": "64.08.07.2004",
+      "name": "Long Segar",
+      "postal_code": "75554"
+    },
+    {
+      "id": "64.08.07.2005",
+      "name": "Long Noran",
+      "postal_code": "75554"
+    },
+    {
+      "id": "64.08.07.2006",
+      "name": "Muara Pantun",
+      "postal_code": "75554"
+    },
+    {
+      "id": "64.08.07.2007",
+      "name": "Rantau Panjang",
+      "postal_code": "75554"
+    },
+    {
+      "id": "64.08.07.2008",
+      "name": "Kernyanyan",
+      "postal_code": "75554"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

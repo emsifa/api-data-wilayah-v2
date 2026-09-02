@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "32.71.01.1001",
+      "name": "Batu Tulis",
+      "postal_code": "16133"
+    },
+    {
+      "id": "32.71.01.1002",
+      "name": "Bondongan",
+      "postal_code": "16131"
+    },
+    {
+      "id": "32.71.01.1003",
+      "name": "Empang",
+      "postal_code": "16132"
+    },
+    {
+      "id": "32.71.01.1004",
+      "name": "Lawanggintung",
+      "postal_code": "16134"
+    },
+    {
+      "id": "32.71.01.1005",
+      "name": "Pamoyanan",
+      "postal_code": "16136"
+    },
+    {
+      "id": "32.71.01.1006",
+      "name": "Rangga Mekar",
+      "postal_code": "16136"
+    },
+    {
+      "id": "32.71.01.1007",
+      "name": "Mulya Harja",
+      "postal_code": "16135"
+    },
+    {
+      "id": "32.71.01.1008",
+      "name": "Cikaret",
+      "postal_code": "16132"
+    },
+    {
+      "id": "32.71.01.1009",
+      "name": "Bojong Kerta",
+      "postal_code": "16139"
+    },
+    {
+      "id": "32.71.01.1010",
+      "name": "Rancamaya",
+      "postal_code": "16139"
+    },
+    {
+      "id": "32.71.01.1011",
+      "name": "Kertamaya",
+      "postal_code": "16138"
+    },
+    {
+      "id": "32.71.01.1012",
+      "name": "Harjasari",
+      "postal_code": "16138"
+    },
+    {
+      "id": "32.71.01.1013",
+      "name": "Muara Sari",
+      "postal_code": "16137"
+    },
+    {
+      "id": "32.71.01.1014",
+      "name": "Genteng",
+      "postal_code": "16137"
+    },
+    {
+      "id": "32.71.01.1015",
+      "name": "Pakuan",
+      "postal_code": "16134"
+    },
+    {
+      "id": "32.71.01.1016",
+      "name": "Cipaku",
+      "postal_code": "16133"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

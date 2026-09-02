@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "61.03.21",
+    "name": "Entikong",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.03",
+      "name": "Kabupaten Sanggau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

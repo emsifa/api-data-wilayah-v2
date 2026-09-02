@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "82.04.09.2001",
+      "name": "Indari",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.09.2014",
+      "name": "Tawabi",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.09.2015",
+      "name": "Wiring",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.09.2016",
+      "name": "Nondang",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.09.2017",
+      "name": "Kusubibi",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.09.2018",
+      "name": "Nang",
+      "postal_code": "97791"
+    },
+    {
+      "id": "82.04.09.2030",
+      "name": "Kokotu",
+      "postal_code": "97791"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

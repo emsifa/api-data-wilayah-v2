@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "53.02",
+    "name": "Kabupaten Timor Tengah Selatan",
+    "capital": "Soe",
+    "lat": -9.851780619986599,
+    "lng": 124.26648135633013,
+    "elv": 905,
+    "tz": 8,
+    "population": 490642,
+    "total_area": 3931.747,
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

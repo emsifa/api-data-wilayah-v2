@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "18.02.25.2001",
+      "name": "Sido Binangun",
+      "postal_code": "34179"
+    },
+    {
+      "id": "18.02.25.2002",
+      "name": "Sri Bawono",
+      "postal_code": "34179"
+    },
+    {
+      "id": "18.02.25.2003",
+      "name": "Sri Budaya",
+      "postal_code": "34179"
+    },
+    {
+      "id": "18.02.25.2004",
+      "name": "Suko Binangun",
+      "postal_code": "34179"
+    },
+    {
+      "id": "18.02.25.2005",
+      "name": "Sri Busono",
+      "postal_code": "34179"
+    },
+    {
+      "id": "18.02.25.2006",
+      "name": "Sangga Buana",
+      "postal_code": "34179"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

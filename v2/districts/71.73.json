@@ -1,18 +1,28 @@
 {
-  "data": {
-    "id": "71.73",
-    "name": "Kota Tomohon",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
+  "data": [
+    {
+      "id": "71.73.01",
+      "name": "Tomohon Selatan"
     },
-    "regency": {
-      "id": "71.73",
-      "name": "Kota Tomohon"
+    {
+      "id": "71.73.02",
+      "name": "Tomohon Tengah"
+    },
+    {
+      "id": "71.73.03",
+      "name": "Tomohon Utara"
+    },
+    {
+      "id": "71.73.04",
+      "name": "Tomohon Barat"
+    },
+    {
+      "id": "71.73.05",
+      "name": "Tomohon Timur"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

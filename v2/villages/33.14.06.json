@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "33.14.06.2001",
+      "name": "Srimulyo",
+      "postal_code": "57254"
+    },
+    {
+      "id": "33.14.06.2002",
+      "name": "Tegalrejo",
+      "postal_code": "57254"
+    },
+    {
+      "id": "33.14.06.2003",
+      "name": "Tunggul",
+      "postal_code": "57254"
+    },
+    {
+      "id": "33.14.06.2004",
+      "name": "Glonggong",
+      "postal_code": "57254"
+    },
+    {
+      "id": "33.14.06.2005",
+      "name": "Kaliwedi",
+      "postal_code": "57254"
+    },
+    {
+      "id": "33.14.06.2006",
+      "name": "Wonotolo",
+      "postal_code": "57254"
+    },
+    {
+      "id": "33.14.06.2007",
+      "name": "Plosorejo",
+      "postal_code": "57254"
+    },
+    {
+      "id": "33.14.06.2008",
+      "name": "Gondang",
+      "postal_code": "57254"
+    },
+    {
+      "id": "33.14.06.2009",
+      "name": "Bumiaji",
+      "postal_code": "57254"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

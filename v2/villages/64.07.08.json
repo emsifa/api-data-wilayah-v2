@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "64.07.08.2001",
+      "name": "Besiq",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2002",
+      "name": "Bermai",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2003",
+      "name": "Muara Niliq",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2004",
+      "name": "Mantar",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2005",
+      "name": "Muara Bomboy",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2006",
+      "name": "Damai Seberang",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2007",
+      "name": "Mendika",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2008",
+      "name": "Damai Kota",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2009",
+      "name": "Lumpat Dahuq",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2010",
+      "name": "Muara Tokong",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2011",
+      "name": "Jengan Danum",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2012",
+      "name": "Keay",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2013",
+      "name": "Tepulang",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2014",
+      "name": "Benung",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2020",
+      "name": "Muara Nyahing",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2021",
+      "name": "Sempatn",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.08.2022",
+      "name": "Kelian",
+      "postal_code": "75777"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "53.11.06.2001",
+      "name": "Ramuk",
+      "postal_code": "87161"
+    },
+    {
+      "id": "53.11.06.2002",
+      "name": "Wangga Mbewa",
+      "postal_code": "87161"
+    },
+    {
+      "id": "53.11.06.2003",
+      "name": "Lailunggi",
+      "postal_code": "87161"
+    },
+    {
+      "id": "53.11.06.2004",
+      "name": "Tawui",
+      "postal_code": "87161"
+    },
+    {
+      "id": "53.11.06.2005",
+      "name": "Wahang",
+      "postal_code": "87161"
+    },
+    {
+      "id": "53.11.06.2006",
+      "name": "Mahaniwa",
+      "postal_code": "87161"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

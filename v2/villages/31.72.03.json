@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "31.72.03.1001",
+      "name": "Koja",
+      "postal_code": "14210"
+    },
+    {
+      "id": "31.72.03.1002",
+      "name": "Tugu Utara",
+      "postal_code": "14260"
+    },
+    {
+      "id": "31.72.03.1003",
+      "name": "Lagoa",
+      "postal_code": "14270"
+    },
+    {
+      "id": "31.72.03.1004",
+      "name": "Rawa Badak Utara",
+      "postal_code": "14230"
+    },
+    {
+      "id": "31.72.03.1005",
+      "name": "Tugu Selatan",
+      "postal_code": "14260"
+    },
+    {
+      "id": "31.72.03.1006",
+      "name": "Rawa Badak Selatan",
+      "postal_code": "14230"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

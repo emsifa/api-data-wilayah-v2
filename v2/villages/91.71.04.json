@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "91.71.04.1004",
+      "name": "Koya Barat",
+      "postal_code": "99312"
+    },
+    {
+      "id": "91.71.04.1005",
+      "name": "Koya Timur",
+      "postal_code": "99314"
+    },
+    {
+      "id": "91.71.04.2001",
+      "name": "Skouw Mabo",
+      "postal_code": "99316"
+    },
+    {
+      "id": "91.71.04.2002",
+      "name": "Skouw Yambe",
+      "postal_code": "99315"
+    },
+    {
+      "id": "91.71.04.2003",
+      "name": "Skouw Sae",
+      "postal_code": "99317"
+    },
+    {
+      "id": "91.71.04.2006",
+      "name": "Holtekamp",
+      "postal_code": "99311"
+    },
+    {
+      "id": "91.71.04.2007",
+      "name": "Koya Tengah",
+      "postal_code": "99313"
+    },
+    {
+      "id": "91.71.04.2008",
+      "name": "Mosso",
+      "postal_code": "99318"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

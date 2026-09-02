@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "94.04.11.2001",
+      "name": "Potowai Buru",
+      "postal_code": "99974"
+    },
+    {
+      "id": "94.04.11.2002",
+      "name": "Yapkoka",
+      "postal_code": "99974"
+    },
+    {
+      "id": "94.04.11.2003",
+      "name": "Aindua",
+      "postal_code": "99974"
+    },
+    {
+      "id": "94.04.11.2004",
+      "name": "Tapomai",
+      "postal_code": "99974"
+    },
+    {
+      "id": "94.04.11.2005",
+      "name": "Umar",
+      "postal_code": "99974"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

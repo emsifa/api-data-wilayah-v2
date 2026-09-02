@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.02.34.2001",
+      "name": "Kebonpedes",
+      "postal_code": "43194"
+    },
+    {
+      "id": "32.02.34.2002",
+      "name": "Cikaret",
+      "postal_code": "43194"
+    },
+    {
+      "id": "32.02.34.2003",
+      "name": "Bojongsawah",
+      "postal_code": "43194"
+    },
+    {
+      "id": "32.02.34.2004",
+      "name": "Sasagaran",
+      "postal_code": "43194"
+    },
+    {
+      "id": "32.02.34.2005",
+      "name": "Jambenenggang",
+      "postal_code": "43194"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

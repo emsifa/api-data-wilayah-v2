@@ -1,18 +1,76 @@
 {
-  "data": {
-    "id": "12.18",
-    "name": "Kabupaten Serdang Bedagai",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
+  "data": [
+    {
+      "id": "12.18.01",
+      "name": "Pantai Cermin"
     },
-    "regency": {
-      "id": "12.18",
-      "name": "Kabupaten Serdang Bedagai"
+    {
+      "id": "12.18.02",
+      "name": "Perbaungan"
+    },
+    {
+      "id": "12.18.03",
+      "name": "Teluk Mengkudu"
+    },
+    {
+      "id": "12.18.04",
+      "name": "Sei Rampah"
+    },
+    {
+      "id": "12.18.05",
+      "name": "Tanjung Beringin"
+    },
+    {
+      "id": "12.18.06",
+      "name": "Bandar Khalipah"
+    },
+    {
+      "id": "12.18.07",
+      "name": "Dolok Merawan"
+    },
+    {
+      "id": "12.18.08",
+      "name": "Sipispis"
+    },
+    {
+      "id": "12.18.09",
+      "name": "Dolok Masihul"
+    },
+    {
+      "id": "12.18.10",
+      "name": "Kotarih"
+    },
+    {
+      "id": "12.18.11",
+      "name": "Silinda"
+    },
+    {
+      "id": "12.18.12",
+      "name": "Serba Jadi"
+    },
+    {
+      "id": "12.18.13",
+      "name": "Tebing Tinggi"
+    },
+    {
+      "id": "12.18.14",
+      "name": "Pegajahan"
+    },
+    {
+      "id": "12.18.15",
+      "name": "Sei Bamban"
+    },
+    {
+      "id": "12.18.16",
+      "name": "Tebing Syahbandar"
+    },
+    {
+      "id": "12.18.17",
+      "name": "Bintang Bayu"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

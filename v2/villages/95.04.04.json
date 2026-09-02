@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "95.04.04.1001",
+      "name": "Kembu",
+      "postal_code": "99056"
+    },
+    {
+      "id": "95.04.04.2002",
+      "name": "Mamit",
+      "postal_code": "99414"
+    },
+    {
+      "id": "95.04.04.2003",
+      "name": "Yowo",
+      "postal_code": "99414"
+    },
+    {
+      "id": "95.04.04.2004",
+      "name": "Nugari",
+      "postal_code": "99414"
+    },
+    {
+      "id": "95.04.04.2005",
+      "name": "Kobon",
+      "postal_code": "99414"
+    },
+    {
+      "id": "95.04.04.2006",
+      "name": "Kabori",
+      "postal_code": "99414"
+    },
+    {
+      "id": "95.04.04.2007",
+      "name": "Genani",
+      "postal_code": "99414"
+    },
+    {
+      "id": "95.04.04.2008",
+      "name": "Wulinaga",
+      "postal_code": "99414"
+    },
+    {
+      "id": "95.04.04.2009",
+      "name": "Aworera",
+      "postal_code": "99414"
+    },
+    {
+      "id": "95.04.04.2010",
+      "name": "Agimdek",
+      "postal_code": "99056"
+    },
+    {
+      "id": "95.04.04.2011",
+      "name": "Tioga",
+      "postal_code": "99414"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

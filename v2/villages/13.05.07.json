@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "13.05.07.2001",
+      "name": "Kuranji Hulu",
+      "postal_code": "25562"
+    },
+    {
+      "id": "13.05.07.2002",
+      "name": "Malai III Koto",
+      "postal_code": "25562"
+    },
+    {
+      "id": "13.05.07.2003",
+      "name": "Batu Gadang Kuranji Hulu",
+      "postal_code": "25562"
+    },
+    {
+      "id": "13.05.07.2004",
+      "name": "Sungai Sirah Kuranji Hulu",
+      "postal_code": "25562"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

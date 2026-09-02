@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "92.02.04.2001",
+      "name": "Prafi Mulya",
+      "postal_code": "98316"
+    },
+    {
+      "id": "92.02.04.2002",
+      "name": "Umbuy",
+      "postal_code": "98316"
+    },
+    {
+      "id": "92.02.04.2003",
+      "name": "Desay",
+      "postal_code": "98316"
+    },
+    {
+      "id": "92.02.04.2008",
+      "name": "Ingkwoisi",
+      "postal_code": "98316"
+    },
+    {
+      "id": "92.02.04.2010",
+      "name": "Somi",
+      "postal_code": "98316"
+    },
+    {
+      "id": "92.02.04.2016",
+      "name": "Mebji",
+      "postal_code": "98316"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

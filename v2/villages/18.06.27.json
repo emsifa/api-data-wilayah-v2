@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "18.06.27.2001",
+      "name": "Sukamara",
+      "postal_code": "35682"
+    },
+    {
+      "id": "18.06.27.2002",
+      "name": "Sukanegara",
+      "postal_code": "35682"
+    },
+    {
+      "id": "18.06.27.2003",
+      "name": "Banjarmasin",
+      "postal_code": "35682"
+    },
+    {
+      "id": "18.06.27.2004",
+      "name": "Suka Agung Barat",
+      "postal_code": "35682"
+    },
+    {
+      "id": "18.06.27.2005",
+      "name": "Suka Agung",
+      "postal_code": "35682"
+    },
+    {
+      "id": "18.06.27.2006",
+      "name": "Gunung Terang",
+      "postal_code": "35682"
+    },
+    {
+      "id": "18.06.27.2007",
+      "name": "Napal",
+      "postal_code": "35682"
+    },
+    {
+      "id": "18.06.27.2008",
+      "name": "Sinar Petir",
+      "postal_code": "35682"
+    },
+    {
+      "id": "18.06.27.2009",
+      "name": "Pematang Nebak",
+      "postal_code": "35682"
+    },
+    {
+      "id": "18.06.27.2010",
+      "name": "Tanjung Sari",
+      "postal_code": "35682"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

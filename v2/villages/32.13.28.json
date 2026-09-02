@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.13.28.2001",
+      "name": "Mekarwangi",
+      "postal_code": "41252"
+    },
+    {
+      "id": "32.13.28.2002",
+      "name": "Bendungan",
+      "postal_code": "41252"
+    },
+    {
+      "id": "32.13.28.2003",
+      "name": "Munjul",
+      "postal_code": "41252"
+    },
+    {
+      "id": "32.13.28.2004",
+      "name": "Margahayu",
+      "postal_code": "41252"
+    },
+    {
+      "id": "32.13.28.2005",
+      "name": "Pangsor",
+      "postal_code": "41252"
+    },
+    {
+      "id": "32.13.28.2006",
+      "name": "Sumurgintung",
+      "postal_code": "41252"
+    },
+    {
+      "id": "32.13.28.2007",
+      "name": "Balingbing",
+      "postal_code": "41252"
+    },
+    {
+      "id": "32.13.28.2008",
+      "name": "Cidahu",
+      "postal_code": "41252"
+    },
+    {
+      "id": "32.13.28.2009",
+      "name": "Cidadap",
+      "postal_code": "41252"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

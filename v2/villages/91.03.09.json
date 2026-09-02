@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "91.03.09.2001",
+      "name": "Beneik",
+      "postal_code": "99356"
+    },
+    {
+      "id": "91.03.09.2002",
+      "name": "Ganusa",
+      "postal_code": "99356"
+    },
+    {
+      "id": "91.03.09.2003",
+      "name": "Guryard",
+      "postal_code": "99356"
+    },
+    {
+      "id": "91.03.09.2004",
+      "name": "Santosa",
+      "postal_code": "99356"
+    },
+    {
+      "id": "91.03.09.2005",
+      "name": "Sawa Suma",
+      "postal_code": "99356"
+    },
+    {
+      "id": "91.03.09.2006",
+      "name": "Nandaizi",
+      "postal_code": "99356"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

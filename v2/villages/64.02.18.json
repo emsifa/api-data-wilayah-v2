@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "64.02.18.2001",
+      "name": "Muara Wis",
+      "postal_code": "75559"
+    },
+    {
+      "id": "64.02.18.2002",
+      "name": "Sebemban",
+      "postal_code": "75559"
+    },
+    {
+      "id": "64.02.18.2003",
+      "name": "Melintang",
+      "postal_code": "75559"
+    },
+    {
+      "id": "64.02.18.2004",
+      "name": "Enggelam",
+      "postal_code": "75559"
+    },
+    {
+      "id": "64.02.18.2005",
+      "name": "Lebak Mantan",
+      "postal_code": "75559"
+    },
+    {
+      "id": "64.02.18.2006",
+      "name": "Lebak Cilong",
+      "postal_code": "75559"
+    },
+    {
+      "id": "64.02.18.2007",
+      "name": "Muara Enggelam",
+      "postal_code": "75559"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

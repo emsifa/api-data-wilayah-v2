@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "14.02.08.2001",
+      "name": "Siambul",
+      "postal_code": "29356"
+    },
+    {
+      "id": "14.02.08.2002",
+      "name": "Rantau Langsat",
+      "postal_code": "29356"
+    },
+    {
+      "id": "14.02.08.2003",
+      "name": "Sungai Akar",
+      "postal_code": "29356"
+    },
+    {
+      "id": "14.02.08.2004",
+      "name": "Usul",
+      "postal_code": "29356"
+    },
+    {
+      "id": "14.02.08.2005",
+      "name": "Seberida",
+      "postal_code": "29356"
+    },
+    {
+      "id": "14.02.08.2006",
+      "name": "Talang Lakat",
+      "postal_code": "29356"
+    },
+    {
+      "id": "14.02.08.2007",
+      "name": "Belimbing",
+      "postal_code": "29356"
+    },
+    {
+      "id": "14.02.08.2008",
+      "name": "Ringin",
+      "postal_code": "29356"
+    },
+    {
+      "id": "14.02.08.2010",
+      "name": "Penyaguan",
+      "postal_code": "29356"
+    },
+    {
+      "id": "14.02.08.2011",
+      "name": "Danau Rambai",
+      "postal_code": "29356"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "96.02.06",
+    "name": "Seremuk",
+    "province": {
+      "id": "96",
+      "name": "Papua Barat Daya"
+    },
+    "regency": {
+      "id": "96.02",
+      "name": "Kabupaten Sorong Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

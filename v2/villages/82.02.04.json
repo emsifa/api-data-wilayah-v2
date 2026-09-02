@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "82.02.04.2001",
+      "name": "Gemaf",
+      "postal_code": "97854"
+    },
+    {
+      "id": "82.02.04.2002",
+      "name": "Sagea",
+      "postal_code": "97854"
+    },
+    {
+      "id": "82.02.04.2003",
+      "name": "Fritu",
+      "postal_code": "97854"
+    },
+    {
+      "id": "82.02.04.2004",
+      "name": "Waleh",
+      "postal_code": "97854"
+    },
+    {
+      "id": "82.02.04.2008",
+      "name": "Kiya",
+      "postal_code": "97854"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

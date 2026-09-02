@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "63.11",
+    "name": "Kabupaten Balangan",
+    "capital": "Paringin",
+    "lat": -2.36356752319171,
+    "lng": 115.47108222829301,
+    "elv": 55,
+    "tz": 8,
+    "population": 138950,
+    "total_area": 1828.513,
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

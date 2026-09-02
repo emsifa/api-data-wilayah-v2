@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "32.05.27",
+    "name": "Pameungpeuk",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.05",
+      "name": "Kabupaten Garut"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

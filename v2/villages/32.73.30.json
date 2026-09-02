@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.73.30.1001",
+      "name": "Jatihandap",
+      "postal_code": "40195"
+    },
+    {
+      "id": "32.73.30.1002",
+      "name": "Karang Pamulang",
+      "postal_code": "40195"
+    },
+    {
+      "id": "32.73.30.1003",
+      "name": "Pasir Impun",
+      "postal_code": "40195"
+    },
+    {
+      "id": "32.73.30.1004",
+      "name": "Sindang Jaya",
+      "postal_code": "40195"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

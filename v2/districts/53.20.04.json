@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "53.20.04",
+    "name": "Sabu Liae",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.20",
+      "name": "Kabupaten Sabu Raijua"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

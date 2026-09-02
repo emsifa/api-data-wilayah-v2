@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "53.06.14.2001",
+      "name": "Lamika",
+      "postal_code": "86219"
+    },
+    {
+      "id": "53.06.14.2002",
+      "name": "Watotika Ile",
+      "postal_code": "86219"
+    },
+    {
+      "id": "53.06.14.2003",
+      "name": "Lewokluok",
+      "postal_code": "86219"
+    },
+    {
+      "id": "53.06.14.2004",
+      "name": "Blepanawa",
+      "postal_code": "86219"
+    },
+    {
+      "id": "53.06.14.2005",
+      "name": "Kawalelo",
+      "postal_code": "86219"
+    },
+    {
+      "id": "53.06.14.2006",
+      "name": "Bama",
+      "postal_code": "86219"
+    },
+    {
+      "id": "53.06.14.2007",
+      "name": "Lewo Muda",
+      "postal_code": "86219"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

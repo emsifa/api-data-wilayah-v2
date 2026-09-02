@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "64.02.05.2001",
+      "name": "Saliki",
+      "postal_code": "75382"
+    },
+    {
+      "id": "64.02.05.2002",
+      "name": "Salok Palai",
+      "postal_code": "75382"
+    },
+    {
+      "id": "64.02.05.2003",
+      "name": "Muara Badak Ulu",
+      "postal_code": "75382"
+    },
+    {
+      "id": "64.02.05.2004",
+      "name": "Muara Badak Ilir",
+      "postal_code": "75382"
+    },
+    {
+      "id": "64.02.05.2005",
+      "name": "Tanjung Limau",
+      "postal_code": "75382"
+    },
+    {
+      "id": "64.02.05.2006",
+      "name": "Tanah Datar",
+      "postal_code": "75382"
+    },
+    {
+      "id": "64.02.05.2007",
+      "name": "Badak Baru",
+      "postal_code": "75382"
+    },
+    {
+      "id": "64.02.05.2008",
+      "name": "Suka Damai",
+      "postal_code": "75382"
+    },
+    {
+      "id": "64.02.05.2009",
+      "name": "Badak Mekar",
+      "postal_code": "75382"
+    },
+    {
+      "id": "64.02.05.2010",
+      "name": "Gas Alam Badak I",
+      "postal_code": "75382"
+    },
+    {
+      "id": "64.02.05.2011",
+      "name": "Batu-Batu",
+      "postal_code": "75382"
+    },
+    {
+      "id": "64.02.05.2012",
+      "name": "Sallo Cela",
+      "postal_code": "75382"
+    },
+    {
+      "id": "64.02.05.2013",
+      "name": "Sungai Bawang",
+      "postal_code": "75382"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

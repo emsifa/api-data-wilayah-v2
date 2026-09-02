@@ -1,18 +1,56 @@
 {
-  "data": {
-    "id": "73.15",
-    "name": "Kabupaten Pinrang",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
+  "data": [
+    {
+      "id": "73.15.01",
+      "name": "Mattiro Sompe"
     },
-    "regency": {
-      "id": "73.15",
-      "name": "Kabupaten Pinrang"
+    {
+      "id": "73.15.02",
+      "name": "Suppa"
+    },
+    {
+      "id": "73.15.03",
+      "name": "Mattiro Bulu"
+    },
+    {
+      "id": "73.15.04",
+      "name": "Watang Sawitto"
+    },
+    {
+      "id": "73.15.05",
+      "name": "Patampanua"
+    },
+    {
+      "id": "73.15.06",
+      "name": "Duampanua"
+    },
+    {
+      "id": "73.15.07",
+      "name": "Lembang"
+    },
+    {
+      "id": "73.15.08",
+      "name": "Cempa"
+    },
+    {
+      "id": "73.15.09",
+      "name": "Tiroang"
+    },
+    {
+      "id": "73.15.10",
+      "name": "Lanrisang"
+    },
+    {
+      "id": "73.15.11",
+      "name": "Paleteang"
+    },
+    {
+      "id": "73.15.12",
+      "name": "Batulappa"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

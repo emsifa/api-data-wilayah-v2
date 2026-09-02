@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "12.71.16.1001",
+      "name": "Madras Hulu",
+      "postal_code": "20152"
+    },
+    {
+      "id": "12.71.16.1002",
+      "name": "Polonia",
+      "postal_code": "20157"
+    },
+    {
+      "id": "12.71.16.1003",
+      "name": "Sari Rejo",
+      "postal_code": "20157"
+    },
+    {
+      "id": "12.71.16.1004",
+      "name": "Suka Damai",
+      "postal_code": "20157"
+    },
+    {
+      "id": "12.71.16.1005",
+      "name": "Anggrung",
+      "postal_code": "20152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "21.04.03.1001",
+      "name": "Senayang",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.03.2002",
+      "name": "Mamut",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.03.2012",
+      "name": "Laboh",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.03.2013",
+      "name": "Penaah",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.03.2015",
+      "name": "Baran",
+      "postal_code": "29873"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

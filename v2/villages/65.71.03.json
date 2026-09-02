@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "65.71.03.1001",
+      "name": "Lingkas Ujung",
+      "postal_code": "77126"
+    },
+    {
+      "id": "65.71.03.1002",
+      "name": "Gunung Lingkas",
+      "postal_code": "77115"
+    },
+    {
+      "id": "65.71.03.1003",
+      "name": "Kampung Empat",
+      "postal_code": "77124"
+    },
+    {
+      "id": "65.71.03.1004",
+      "name": "Kampung Enam",
+      "postal_code": "77123"
+    },
+    {
+      "id": "65.71.03.1005",
+      "name": "Mamburungan",
+      "postal_code": "77125"
+    },
+    {
+      "id": "65.71.03.1006",
+      "name": "Pantai Amal",
+      "postal_code": "77115"
+    },
+    {
+      "id": "65.71.03.1007",
+      "name": "Mamburungan Timur",
+      "postal_code": "77115"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

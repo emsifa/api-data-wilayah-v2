@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "96.04.06.2001",
+      "name": "Wau",
+      "postal_code": "98477"
+    },
+    {
+      "id": "96.04.06.2002",
+      "name": "Syukwo",
+      "postal_code": "98477"
+    },
+    {
+      "id": "96.04.06.2003",
+      "name": "Waibem",
+      "postal_code": "98477"
+    },
+    {
+      "id": "96.04.06.2004",
+      "name": "Weyaf",
+      "postal_code": "98477"
+    },
+    {
+      "id": "96.04.06.2005",
+      "name": "Weprari",
+      "postal_code": "98477"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

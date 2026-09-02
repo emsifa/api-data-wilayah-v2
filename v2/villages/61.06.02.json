@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "61.06.02.2001",
+      "name": "Teluk Sindur",
+      "postal_code": "78753"
+    },
+    {
+      "id": "61.06.02.2002",
+      "name": "Bika",
+      "postal_code": "78753"
+    },
+    {
+      "id": "61.06.02.2003",
+      "name": "Jelemuk",
+      "postal_code": "78753"
+    },
+    {
+      "id": "61.06.02.2008",
+      "name": "Bika Hulu",
+      "postal_code": "78753"
+    },
+    {
+      "id": "61.06.02.2009",
+      "name": "Nanga Manday",
+      "postal_code": "78753"
+    },
+    {
+      "id": "61.06.02.2010",
+      "name": "Melapi Manday",
+      "postal_code": "78753"
+    },
+    {
+      "id": "61.06.02.2011",
+      "name": "Penyeluang",
+      "postal_code": "78753"
+    },
+    {
+      "id": "61.06.02.2012",
+      "name": "Jongkong Manday",
+      "postal_code": "78753"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

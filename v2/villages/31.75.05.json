@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "31.75.05.1001",
+      "name": "Gedong",
+      "postal_code": "13760"
+    },
+    {
+      "id": "31.75.05.1002",
+      "name": "Baru",
+      "postal_code": "13780"
+    },
+    {
+      "id": "31.75.05.1003",
+      "name": "Cijantung",
+      "postal_code": "13770"
+    },
+    {
+      "id": "31.75.05.1004",
+      "name": "Kalisari",
+      "postal_code": "13790"
+    },
+    {
+      "id": "31.75.05.1005",
+      "name": "Pekayon",
+      "postal_code": "13710"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

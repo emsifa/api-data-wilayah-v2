@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "52.06.06.2001",
+      "name": "Sari",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2002",
+      "name": "Boke",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2003",
+      "name": "Jia",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2004",
+      "name": "Bugis",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2005",
+      "name": "Naru",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2006",
+      "name": "Rasabou",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2007",
+      "name": "Sangia",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2008",
+      "name": "Na'e",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2009",
+      "name": "Rai Oi",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2010",
+      "name": "Parangina",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2011",
+      "name": "Kowo",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2012",
+      "name": "Buncu",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2013",
+      "name": "Poja",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2014",
+      "name": "Bajo Pulau",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2015",
+      "name": "Naru Barat",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2016",
+      "name": "Tanah Putih",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2017",
+      "name": "Lamere",
+      "postal_code": "84183"
+    },
+    {
+      "id": "52.06.06.2018",
+      "name": "Oi Maci",
+      "postal_code": "84183"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

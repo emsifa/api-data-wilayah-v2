@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.73.18.1001",
+      "name": "Cihaur Geulis",
+      "postal_code": "40122"
+    },
+    {
+      "id": "32.73.18.1002",
+      "name": "Sukaluyu",
+      "postal_code": "40123"
+    },
+    {
+      "id": "32.73.18.1003",
+      "name": "Neglasari",
+      "postal_code": "40124"
+    },
+    {
+      "id": "32.73.18.1004",
+      "name": "Cigadung",
+      "postal_code": "40191"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

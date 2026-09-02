@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "34.03.13",
+    "name": "Ngawen",
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    },
+    "regency": {
+      "id": "34.03",
+      "name": "Kabupaten Gunungkidul"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "74.71.11.1001",
+      "name": "Tobimeita",
+      "postal_code": "93237"
+    },
+    {
+      "id": "74.71.11.1002",
+      "name": "Petoaha",
+      "postal_code": "93236"
+    },
+    {
+      "id": "74.71.11.1003",
+      "name": "Nambo",
+      "postal_code": "93236"
+    },
+    {
+      "id": "74.71.11.1004",
+      "name": "Bungkutoko",
+      "postal_code": "93234"
+    },
+    {
+      "id": "74.71.11.1005",
+      "name": "Sambuli",
+      "postal_code": "93238"
+    },
+    {
+      "id": "74.71.11.1006",
+      "name": "Tondonggeu",
+      "postal_code": "93238"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

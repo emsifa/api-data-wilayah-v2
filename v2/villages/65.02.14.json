@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "65.02.14.2001",
+      "name": "Long Lake",
+      "postal_code": "77553"
+    },
+    {
+      "id": "65.02.14.2002",
+      "name": "Punan Mirau",
+      "postal_code": "77553"
+    },
+    {
+      "id": "65.02.14.2003",
+      "name": "Long Rat",
+      "postal_code": "77553"
+    },
+    {
+      "id": "65.02.14.2004",
+      "name": "Halanga",
+      "postal_code": "77553"
+    },
+    {
+      "id": "65.02.14.2005",
+      "name": "Metut",
+      "postal_code": "77553"
+    },
+    {
+      "id": "65.02.14.2006",
+      "name": "Long Jalan",
+      "postal_code": "77553"
+    },
+    {
+      "id": "65.02.14.2007",
+      "name": "Nahakramo",
+      "postal_code": "77553"
+    },
+    {
+      "id": "65.02.14.2008",
+      "name": "Tanjung Nanga",
+      "postal_code": "77553"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "13.05.13.2001",
+      "name": "Malai V Suku",
+      "postal_code": "25563"
+    },
+    {
+      "id": "13.05.13.2002",
+      "name": "Gasan Gadang",
+      "postal_code": "25563"
+    },
+    {
+      "id": "13.05.13.2003",
+      "name": "Malai V Suku Timur",
+      "postal_code": "25563"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

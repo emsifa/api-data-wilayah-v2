@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "14.71.09.1001",
+      "name": "Tangkerang Barat",
+      "postal_code": "28282"
+    },
+    {
+      "id": "14.71.09.1002",
+      "name": "Tangkerang Tengah",
+      "postal_code": "28282"
+    },
+    {
+      "id": "14.71.09.1003",
+      "name": "Sidomulyo Timur",
+      "postal_code": "28125"
+    },
+    {
+      "id": "14.71.09.1004",
+      "name": "Wonorejo",
+      "postal_code": "28125"
+    },
+    {
+      "id": "14.71.09.1005",
+      "name": "Maharatu",
+      "postal_code": "28125"
+    },
+    {
+      "id": "14.71.09.1006",
+      "name": "Perhentianmarpoyan",
+      "postal_code": "28125"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.79.03.1001",
+      "name": "Dadaprejo",
+      "postal_code": "65323"
+    },
+    {
+      "id": "35.79.03.2002",
+      "name": "Beji",
+      "postal_code": "65326"
+    },
+    {
+      "id": "35.79.03.2003",
+      "name": "Junrejo",
+      "postal_code": "65321"
+    },
+    {
+      "id": "35.79.03.2004",
+      "name": "Tlekung",
+      "postal_code": "65327"
+    },
+    {
+      "id": "35.79.03.2005",
+      "name": "Mojorejo",
+      "postal_code": "65322"
+    },
+    {
+      "id": "35.79.03.2006",
+      "name": "Pendem",
+      "postal_code": "65324"
+    },
+    {
+      "id": "35.79.03.2007",
+      "name": "Torongrejo",
+      "postal_code": "65325"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

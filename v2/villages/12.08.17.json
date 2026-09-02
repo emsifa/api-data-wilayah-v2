@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "12.08.17.1015",
+      "name": "Serbelawan",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.1016",
+      "name": "Aman Sari",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.2001",
+      "name": "Silenduk",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.2002",
+      "name": "Bah Tobu",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.2003",
+      "name": "Bandar Selamat",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.2004",
+      "name": "Dolok Ilir I",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.2005",
+      "name": "Dolok Ilir II",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.2006",
+      "name": "Bahung Kahean",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.2007",
+      "name": "Dolok Mainu",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.2008",
+      "name": "Dolok Merangir I",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.2009",
+      "name": "Dolok Merangir II",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.2010",
+      "name": "Kahean",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.2011",
+      "name": "Dolok Tenera",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.2012",
+      "name": "Dolok Kataran",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.2013",
+      "name": "Padang Mainu",
+      "postal_code": "21155"
+    },
+    {
+      "id": "12.08.17.2014",
+      "name": "Bahung Huluan",
+      "postal_code": "21155"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

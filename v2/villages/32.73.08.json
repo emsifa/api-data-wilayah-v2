@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "32.73.08.1001",
+      "name": "Hegarmanah",
+      "postal_code": "40141"
+    },
+    {
+      "id": "32.73.08.1002",
+      "name": "Ciumbuleuit",
+      "postal_code": "40142"
+    },
+    {
+      "id": "32.73.08.1003",
+      "name": "Ledeng",
+      "postal_code": "40143"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

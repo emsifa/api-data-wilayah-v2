@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "14.72.06.1001",
+      "name": "Laksamana",
+      "postal_code": "28821"
+    },
+    {
+      "id": "14.72.06.1002",
+      "name": "Rimba Sekampung",
+      "postal_code": "28822"
+    },
+    {
+      "id": "14.72.06.1003",
+      "name": "Dumai Kota",
+      "postal_code": "28811"
+    },
+    {
+      "id": "14.72.06.1004",
+      "name": "Bintan",
+      "postal_code": "28812"
+    },
+    {
+      "id": "14.72.06.1005",
+      "name": "Sukajadi",
+      "postal_code": "28812"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

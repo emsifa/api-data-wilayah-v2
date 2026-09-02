@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "53.02.32.2001",
+      "name": "Lill ana",
+      "postal_code": "85544"
+    },
+    {
+      "id": "53.02.32.2002",
+      "name": "Nunbena",
+      "postal_code": "85544"
+    },
+    {
+      "id": "53.02.32.2003",
+      "name": "Noebesi",
+      "postal_code": "85544"
+    },
+    {
+      "id": "53.02.32.2004",
+      "name": "Taneotob",
+      "postal_code": "85544"
+    },
+    {
+      "id": "53.02.32.2005",
+      "name": "Feto Mone",
+      "postal_code": "85544"
+    },
+    {
+      "id": "53.02.32.2006",
+      "name": "Tunbes",
+      "postal_code": "85544"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

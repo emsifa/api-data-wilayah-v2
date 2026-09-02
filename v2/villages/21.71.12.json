@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "21.71.12.1001",
+      "name": "Tanjung Uncang",
+      "postal_code": "29424"
+    },
+    {
+      "id": "21.71.12.1002",
+      "name": "Buliang",
+      "postal_code": "29438"
+    },
+    {
+      "id": "21.71.12.1003",
+      "name": "Kibing",
+      "postal_code": "29422"
+    },
+    {
+      "id": "21.71.12.1004",
+      "name": "Bukit Tempayan",
+      "postal_code": "29438"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

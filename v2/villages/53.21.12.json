@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "53.21.12.2001",
+      "name": "Babotin",
+      "postal_code": "85765"
+    },
+    {
+      "id": "53.21.12.2002",
+      "name": "Kereana",
+      "postal_code": "85765"
+    },
+    {
+      "id": "53.21.12.2003",
+      "name": "Babotin Maemina",
+      "postal_code": "85765"
+    },
+    {
+      "id": "53.21.12.2004",
+      "name": "Babotin Selatan",
+      "postal_code": "85765"
+    },
+    {
+      "id": "53.21.12.2005",
+      "name": "Takarai",
+      "postal_code": "85765"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

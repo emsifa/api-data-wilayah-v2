@@ -1,18 +1,44 @@
 {
-  "data": {
-    "id": "11.14",
-    "name": "Kabupaten Aceh Jaya",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
+  "data": [
+    {
+      "id": "11.14.01",
+      "name": "Teunom"
     },
-    "regency": {
-      "id": "11.14",
-      "name": "Kabupaten Aceh Jaya"
+    {
+      "id": "11.14.02",
+      "name": "Krueng Sabee"
+    },
+    {
+      "id": "11.14.03",
+      "name": "Setia Bakti"
+    },
+    {
+      "id": "11.14.04",
+      "name": "Sampoi Niet"
+    },
+    {
+      "id": "11.14.05",
+      "name": "Jaya"
+    },
+    {
+      "id": "11.14.06",
+      "name": "Panga"
+    },
+    {
+      "id": "11.14.07",
+      "name": "Indra Jaya"
+    },
+    {
+      "id": "11.14.08",
+      "name": "Darul Hikmah"
+    },
+    {
+      "id": "11.14.09",
+      "name": "Pasie Raya"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

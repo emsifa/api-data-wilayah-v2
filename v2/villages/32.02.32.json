@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.02.32.2001",
+      "name": "Parungseah",
+      "postal_code": "43151"
+    },
+    {
+      "id": "32.02.32.2002",
+      "name": "Sudajayagirang",
+      "postal_code": "43151"
+    },
+    {
+      "id": "32.02.32.2003",
+      "name": "Karawang",
+      "postal_code": "43151"
+    },
+    {
+      "id": "32.02.32.2004",
+      "name": "Warnasari",
+      "postal_code": "43151"
+    },
+    {
+      "id": "32.02.32.2005",
+      "name": "Sukajaya",
+      "postal_code": "43151"
+    },
+    {
+      "id": "32.02.32.2006",
+      "name": "Perbawati",
+      "postal_code": "43151"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

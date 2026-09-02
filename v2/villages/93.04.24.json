@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "93.04.24.2001",
+      "name": "Tomor",
+      "postal_code": "99780"
+    },
+    {
+      "id": "93.04.24.2002",
+      "name": "Munu",
+      "postal_code": "99780"
+    },
+    {
+      "id": "93.04.24.2003",
+      "name": "Abamu",
+      "postal_code": "99780"
+    },
+    {
+      "id": "93.04.24.2004",
+      "name": "Tie",
+      "postal_code": "99781"
+    },
+    {
+      "id": "93.04.24.2005",
+      "name": "Koba",
+      "postal_code": "99781"
+    },
+    {
+      "id": "93.04.24.2006",
+      "name": "Sagapu",
+      "postal_code": "99781"
+    },
+    {
+      "id": "93.04.24.2007",
+      "name": "Jifak",
+      "postal_code": "99781"
+    },
+    {
+      "id": "93.04.24.2008",
+      "name": "Yensuku",
+      "postal_code": "99781"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

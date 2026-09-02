@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.06.17.2001",
+      "name": "Sukapura",
+      "postal_code": "46183"
+    },
+    {
+      "id": "32.06.17.2002",
+      "name": "Leuwibudah",
+      "postal_code": "46183"
+    },
+    {
+      "id": "32.06.17.2003",
+      "name": "Sirnajaya",
+      "postal_code": "46183"
+    },
+    {
+      "id": "32.06.17.2004",
+      "name": "Mekarjaya",
+      "postal_code": "46183"
+    },
+    {
+      "id": "32.06.17.2005",
+      "name": "Linggaraja",
+      "postal_code": "46183"
+    },
+    {
+      "id": "32.06.17.2006",
+      "name": "Janggala",
+      "postal_code": "46183"
+    },
+    {
+      "id": "32.06.17.2007",
+      "name": "Margalaksana",
+      "postal_code": "46183"
+    },
+    {
+      "id": "32.06.17.2008",
+      "name": "Tarunajaya",
+      "postal_code": "46183"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

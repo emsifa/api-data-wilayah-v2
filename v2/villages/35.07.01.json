@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "35.07.01.2001",
+      "name": "Tulungrejo",
+      "postal_code": "65167"
+    },
+    {
+      "id": "35.07.01.2002",
+      "name": "Banjarejo",
+      "postal_code": "65167"
+    },
+    {
+      "id": "35.07.01.2003",
+      "name": "Kedungsalam",
+      "postal_code": "65167"
+    },
+    {
+      "id": "35.07.01.2004",
+      "name": "Tlogosari",
+      "postal_code": "65167"
+    },
+    {
+      "id": "35.07.01.2005",
+      "name": "Tempursari",
+      "postal_code": "65167"
+    },
+    {
+      "id": "35.07.01.2006",
+      "name": "Donomulyo",
+      "postal_code": "65167"
+    },
+    {
+      "id": "35.07.01.2007",
+      "name": "Purworejo",
+      "postal_code": "65167"
+    },
+    {
+      "id": "35.07.01.2008",
+      "name": "Sumberoto",
+      "postal_code": "65167"
+    },
+    {
+      "id": "35.07.01.2009",
+      "name": "Mentaraman",
+      "postal_code": "65167"
+    },
+    {
+      "id": "35.07.01.2010",
+      "name": "Purwodadi",
+      "postal_code": "65167"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

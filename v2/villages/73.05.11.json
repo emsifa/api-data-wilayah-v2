@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.05.11.2001",
+      "name": "Ko'mara",
+      "postal_code": "92221"
+    },
+    {
+      "id": "73.05.11.2002",
+      "name": "Kale Ko'mara",
+      "postal_code": "92221"
+    },
+    {
+      "id": "73.05.11.2003",
+      "name": "Barugaya",
+      "postal_code": "92221"
+    },
+    {
+      "id": "73.05.11.2004",
+      "name": "Parang Baddo",
+      "postal_code": "92221"
+    },
+    {
+      "id": "73.05.11.2005",
+      "name": "Massamaturu",
+      "postal_code": "92221"
+    },
+    {
+      "id": "73.05.11.2006",
+      "name": "Timbuseng",
+      "postal_code": "92221"
+    },
+    {
+      "id": "73.05.11.2007",
+      "name": "Balangtanaya",
+      "postal_code": "92221"
+    },
+    {
+      "id": "73.05.11.2008",
+      "name": "Kampung Beru",
+      "postal_code": "92221"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

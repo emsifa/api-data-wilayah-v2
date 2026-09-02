@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.16.23.2001",
+      "name": "Karangmulya",
+      "postal_code": "17356"
+    },
+    {
+      "id": "32.16.23.2002",
+      "name": "Karangindah",
+      "postal_code": "17350"
+    },
+    {
+      "id": "32.16.23.2003",
+      "name": "Bojongmangu",
+      "postal_code": "17352"
+    },
+    {
+      "id": "32.16.23.2004",
+      "name": "Sukabungah",
+      "postal_code": "17350"
+    },
+    {
+      "id": "32.16.23.2005",
+      "name": "Sukamukti",
+      "postal_code": "17350"
+    },
+    {
+      "id": "32.16.23.2006",
+      "name": "Medalkrisna",
+      "postal_code": "17350"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

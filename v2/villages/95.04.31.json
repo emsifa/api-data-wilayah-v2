@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.04.31.2001",
+      "name": "Silo",
+      "postal_code": "99017"
+    },
+    {
+      "id": "95.04.31.2002",
+      "name": "Logi",
+      "postal_code": "99017"
+    },
+    {
+      "id": "95.04.31.2003",
+      "name": "Tagi",
+      "postal_code": "99017"
+    },
+    {
+      "id": "95.04.31.2004",
+      "name": "Bini",
+      "postal_code": "99017"
+    },
+    {
+      "id": "95.04.31.2005",
+      "name": "Dunda",
+      "postal_code": "99017"
+    },
+    {
+      "id": "95.04.31.2006",
+      "name": "Getiem",
+      "postal_code": "99017"
+    },
+    {
+      "id": "95.04.31.2007",
+      "name": "Rumbepaga",
+      "postal_code": "99017"
+    },
+    {
+      "id": "95.04.31.2008",
+      "name": "Yimabnime",
+      "postal_code": "99017"
+    },
+    {
+      "id": "95.04.31.2009",
+      "name": "Wanuk",
+      "postal_code": "99017"
+    },
+    {
+      "id": "95.04.31.2010",
+      "name": "Lamaluk",
+      "postal_code": "99017"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

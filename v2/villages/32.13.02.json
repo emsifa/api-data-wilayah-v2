@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.13.02.2001",
+      "name": "Cupunagara",
+      "postal_code": "41283"
+    },
+    {
+      "id": "32.13.02.2002",
+      "name": "Cimanggu",
+      "postal_code": "41283"
+    },
+    {
+      "id": "32.13.02.2003",
+      "name": "Gardusayang",
+      "postal_code": "41283"
+    },
+    {
+      "id": "32.13.02.2004",
+      "name": "Mayang",
+      "postal_code": "41283"
+    },
+    {
+      "id": "32.13.02.2005",
+      "name": "Sukakerti",
+      "postal_code": "41283"
+    },
+    {
+      "id": "32.13.02.2007",
+      "name": "Darmaga",
+      "postal_code": "41283"
+    },
+    {
+      "id": "32.13.02.2008",
+      "name": "Cisalak",
+      "postal_code": "41283"
+    },
+    {
+      "id": "32.13.02.2011",
+      "name": "Cigadog",
+      "postal_code": "41283"
+    },
+    {
+      "id": "32.13.02.2014",
+      "name": "Pakuhaji",
+      "postal_code": "41283"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "21.04.01.1001",
+      "name": "Dabo",
+      "postal_code": "29871"
+    },
+    {
+      "id": "21.04.01.1007",
+      "name": "Dabo Lama",
+      "postal_code": "29871"
+    },
+    {
+      "id": "21.04.01.1012",
+      "name": "Sungailumpur",
+      "postal_code": "29871"
+    },
+    {
+      "id": "21.04.01.2008",
+      "name": "Batu Berdaun",
+      "postal_code": "29871"
+    },
+    {
+      "id": "21.04.01.2009",
+      "name": "Tanjung Harapan",
+      "postal_code": "29871"
+    },
+    {
+      "id": "21.04.01.2010",
+      "name": "Batu Kacang",
+      "postal_code": "29871"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

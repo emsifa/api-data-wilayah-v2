@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "73.09.05.1001",
+      "name": "Bontoa",
+      "postal_code": "90554"
+    },
+    {
+      "id": "73.09.05.2002",
+      "name": "Pajjukukang",
+      "postal_code": "90554"
+    },
+    {
+      "id": "73.09.05.2003",
+      "name": "Tunikamaseang",
+      "postal_code": "90554"
+    },
+    {
+      "id": "73.09.05.2004",
+      "name": "Tupabbiring",
+      "postal_code": "90554"
+    },
+    {
+      "id": "73.09.05.2005",
+      "name": "Botolempangang",
+      "postal_code": "90554"
+    },
+    {
+      "id": "73.09.05.2006",
+      "name": "Salenrang",
+      "postal_code": "90554"
+    },
+    {
+      "id": "73.09.05.2007",
+      "name": "Minasa Upa",
+      "postal_code": "90554"
+    },
+    {
+      "id": "73.09.05.2008",
+      "name": "Ampekale",
+      "postal_code": "90554"
+    },
+    {
+      "id": "73.09.05.2009",
+      "name": "Bonto Bahari",
+      "postal_code": "90554"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

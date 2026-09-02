@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.09.10.2004",
+      "name": "Munjul",
+      "postal_code": "45181"
+    },
+    {
+      "id": "32.09.10.2005",
+      "name": "Sidamulya",
+      "postal_code": "45181"
+    },
+    {
+      "id": "32.09.10.2006",
+      "name": "Mertapada Kulon",
+      "postal_code": "45181"
+    },
+    {
+      "id": "32.09.10.2007",
+      "name": "Mertapada Wetan",
+      "postal_code": "45181"
+    },
+    {
+      "id": "32.09.10.2008",
+      "name": "Buntet",
+      "postal_code": "45181"
+    },
+    {
+      "id": "32.09.10.2009",
+      "name": "Kanci Kulon",
+      "postal_code": "45181"
+    },
+    {
+      "id": "32.09.10.2010",
+      "name": "Kanci",
+      "postal_code": "45181"
+    },
+    {
+      "id": "32.09.10.2011",
+      "name": "Astanajapura",
+      "postal_code": "45181"
+    },
+    {
+      "id": "32.09.10.2012",
+      "name": "Kendal",
+      "postal_code": "45181"
+    },
+    {
+      "id": "32.09.10.2013",
+      "name": "Japura Kidul",
+      "postal_code": "45181"
+    },
+    {
+      "id": "32.09.10.2014",
+      "name": "Japurabakti",
+      "postal_code": "45181"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

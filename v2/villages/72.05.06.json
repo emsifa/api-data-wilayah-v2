@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "72.05.06.1001",
+      "name": "Buol",
+      "postal_code": "94563"
+    },
+    {
+      "id": "72.05.06.1002",
+      "name": "Kali",
+      "postal_code": "94563"
+    },
+    {
+      "id": "72.05.06.1003",
+      "name": "Leok II",
+      "postal_code": "94563"
+    },
+    {
+      "id": "72.05.06.1004",
+      "name": "Leok I",
+      "postal_code": "94563"
+    },
+    {
+      "id": "72.05.06.1005",
+      "name": "Kumaligon",
+      "postal_code": "94563"
+    },
+    {
+      "id": "72.05.06.1006",
+      "name": "Kulango",
+      "postal_code": "94563"
+    },
+    {
+      "id": "72.05.06.1007",
+      "name": "Bugis",
+      "postal_code": "94563"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

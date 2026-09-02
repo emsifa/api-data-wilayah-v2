@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "36.04.24.2001",
+      "name": "Pamarayan",
+      "postal_code": "42179"
+    },
+    {
+      "id": "36.04.24.2002",
+      "name": "Damping",
+      "postal_code": "42179"
+    },
+    {
+      "id": "36.04.24.2003",
+      "name": "Wirana",
+      "postal_code": "42179"
+    },
+    {
+      "id": "36.04.24.2004",
+      "name": "Keboncau",
+      "postal_code": "42179"
+    },
+    {
+      "id": "36.04.24.2005",
+      "name": "Pudar",
+      "postal_code": "42179"
+    },
+    {
+      "id": "36.04.24.2006",
+      "name": "Binong",
+      "postal_code": "42179"
+    },
+    {
+      "id": "36.04.24.2007",
+      "name": "Sangiang",
+      "postal_code": "42179"
+    },
+    {
+      "id": "36.04.24.2008",
+      "name": "Kampungbaru",
+      "postal_code": "42179"
+    },
+    {
+      "id": "36.04.24.2010",
+      "name": "Pasirlimus",
+      "postal_code": "42179"
+    },
+    {
+      "id": "36.04.24.2018",
+      "name": "Pasir Kembang",
+      "postal_code": "42179"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

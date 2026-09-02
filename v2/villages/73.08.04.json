@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.08.04.1001",
+      "name": "Pancaitana",
+      "postal_code": "92775"
+    },
+    {
+      "id": "73.08.04.2002",
+      "name": "Malimongeng",
+      "postal_code": "92775"
+    },
+    {
+      "id": "73.08.04.2003",
+      "name": "Manera",
+      "postal_code": "92775"
+    },
+    {
+      "id": "73.08.04.2004",
+      "name": "Ulubalang",
+      "postal_code": "92775"
+    },
+    {
+      "id": "73.08.04.2005",
+      "name": "Gattareng",
+      "postal_code": "92775"
+    },
+    {
+      "id": "73.08.04.2006",
+      "name": "Bellu",
+      "postal_code": "92775"
+    },
+    {
+      "id": "73.08.04.2007",
+      "name": "Tebba",
+      "postal_code": "92775"
+    },
+    {
+      "id": "73.08.04.2008",
+      "name": "Mappatoba",
+      "postal_code": "92775"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

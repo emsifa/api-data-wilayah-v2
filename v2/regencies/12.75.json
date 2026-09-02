@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "12.75",
+    "name": "Kota Binjai",
+    "capital": "Binjai",
+    "lat": 3.6029774611853127,
+    "lng": 98.48318146773616,
+    "elv": 36,
+    "tz": 7,
+    "population": 315609,
+    "total_area": 93.77,
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "91.71.02.1001",
+      "name": "Argapura",
+      "postal_code": "99222"
+    },
+    {
+      "id": "91.71.02.1002",
+      "name": "Ardipura",
+      "postal_code": "99223"
+    },
+    {
+      "id": "91.71.02.1003",
+      "name": "Numbay",
+      "postal_code": "99227"
+    },
+    {
+      "id": "91.71.02.1005",
+      "name": "Entrop",
+      "postal_code": "99224"
+    },
+    {
+      "id": "91.71.02.1006",
+      "name": "Hamadi",
+      "postal_code": "99220"
+    },
+    {
+      "id": "91.71.02.2007",
+      "name": "Tahima Sorama",
+      "postal_code": "99221"
+    },
+    {
+      "id": "91.71.02.2008",
+      "name": "Tobati",
+      "postal_code": "99228"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

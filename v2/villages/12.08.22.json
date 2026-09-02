@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.08.22.2001",
+      "name": "Naga Jaya I",
+      "postal_code": "21184"
+    },
+    {
+      "id": "12.08.22.2002",
+      "name": "Bah Gunung",
+      "postal_code": "21184"
+    },
+    {
+      "id": "12.08.22.2003",
+      "name": "Bandar Tongah",
+      "postal_code": "21184"
+    },
+    {
+      "id": "12.08.22.2004",
+      "name": "Dolog Parmonangan",
+      "postal_code": "21184"
+    },
+    {
+      "id": "12.08.22.2005",
+      "name": "Laras",
+      "postal_code": "21184"
+    },
+    {
+      "id": "12.08.22.2006",
+      "name": "Naga Jaya II",
+      "postal_code": "21184"
+    },
+    {
+      "id": "12.08.22.2007",
+      "name": "Tanjung Hataran",
+      "postal_code": "21184"
+    },
+    {
+      "id": "12.08.22.2008",
+      "name": "Bandar Betsy I",
+      "postal_code": "21184"
+    },
+    {
+      "id": "12.08.22.2009",
+      "name": "Bandar Betsy II",
+      "postal_code": "21184"
+    },
+    {
+      "id": "12.08.22.2010",
+      "name": "Naga Soppa",
+      "postal_code": "21184"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

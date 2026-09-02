@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "96.01.11.2001",
+      "name": "Indiwi",
+      "postal_code": "98442"
+    },
+    {
+      "id": "96.01.11.2002",
+      "name": "Klabot",
+      "postal_code": "98442"
+    },
+    {
+      "id": "96.01.11.2003",
+      "name": "Mlat",
+      "postal_code": "98442"
+    },
+    {
+      "id": "96.01.11.2004",
+      "name": "Mlawes",
+      "postal_code": "98442"
+    },
+    {
+      "id": "96.01.11.2005",
+      "name": "Mlasfa",
+      "postal_code": "98442"
+    },
+    {
+      "id": "96.01.11.2006",
+      "name": "Kanolo",
+      "postal_code": "98442"
+    },
+    {
+      "id": "96.01.11.2007",
+      "name": "Somir",
+      "postal_code": "98442"
+    },
+    {
+      "id": "96.01.11.2008",
+      "name": "Warkti",
+      "postal_code": "98442"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

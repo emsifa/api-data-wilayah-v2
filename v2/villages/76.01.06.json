@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "76.01.06.2001",
+      "name": "Tammarunang",
+      "postal_code": "91573"
+    },
+    {
+      "id": "76.01.06.2002",
+      "name": "Saptanajaya",
+      "postal_code": "91573"
+    },
+    {
+      "id": "76.01.06.2003",
+      "name": "Taranggi",
+      "postal_code": "91573"
+    },
+    {
+      "id": "76.01.06.2004",
+      "name": "Sipakainga",
+      "postal_code": "91573"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

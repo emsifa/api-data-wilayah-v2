@@ -1,18 +1,24 @@
 {
-  "data": {
-    "id": "33.75",
-    "name": "Kota Pekalongan",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
+  "data": [
+    {
+      "id": "33.75.01",
+      "name": "Pekalongan Barat"
     },
-    "regency": {
-      "id": "33.75",
-      "name": "Kota Pekalongan"
+    {
+      "id": "33.75.02",
+      "name": "Pekalongan Timur"
+    },
+    {
+      "id": "33.75.03",
+      "name": "Pekalongan Utara"
+    },
+    {
+      "id": "33.75.04",
+      "name": "Pekalongan Selatan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "71.11.03.2001",
+      "name": "Linawan",
+      "postal_code": "95775"
+    },
+    {
+      "id": "71.11.03.2002",
+      "name": "Nunuk",
+      "postal_code": "95775"
+    },
+    {
+      "id": "71.11.03.2003",
+      "name": "Pinolosian",
+      "postal_code": "95775"
+    },
+    {
+      "id": "71.11.03.2004",
+      "name": "Kombot",
+      "postal_code": "95775"
+    },
+    {
+      "id": "71.11.03.2005",
+      "name": "Lungkap",
+      "postal_code": "95775"
+    },
+    {
+      "id": "71.11.03.2006",
+      "name": "Ilomata",
+      "postal_code": "95775"
+    },
+    {
+      "id": "71.11.03.2007",
+      "name": "Linawan I",
+      "postal_code": "95775"
+    },
+    {
+      "id": "71.11.03.2008",
+      "name": "Tolotoyon",
+      "postal_code": "95775"
+    },
+    {
+      "id": "71.11.03.2009",
+      "name": "Pinolosian Selatan",
+      "postal_code": "95775"
+    },
+    {
+      "id": "71.11.03.2010",
+      "name": "Kombot Timur",
+      "postal_code": "95775"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

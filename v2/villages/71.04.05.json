@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "71.04.05.2001",
+      "name": "Kakorotan",
+      "postal_code": "95884"
+    },
+    {
+      "id": "71.04.05.2002",
+      "name": "Marampit",
+      "postal_code": "95884"
+    },
+    {
+      "id": "71.04.05.2003",
+      "name": "Laluhe",
+      "postal_code": "95884"
+    },
+    {
+      "id": "71.04.05.2004",
+      "name": "Dampulis",
+      "postal_code": "95884"
+    },
+    {
+      "id": "71.04.05.2005",
+      "name": "Karatung",
+      "postal_code": "95884"
+    },
+    {
+      "id": "71.04.05.2007",
+      "name": "Karatung Tengah",
+      "postal_code": "95884"
+    },
+    {
+      "id": "71.04.05.2008",
+      "name": "Karatung Selatan",
+      "postal_code": "95884"
+    },
+    {
+      "id": "71.04.05.2009",
+      "name": "Dampulis Selatan",
+      "postal_code": "95884"
+    },
+    {
+      "id": "71.04.05.2010",
+      "name": "Marampit Timur",
+      "postal_code": "95884"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

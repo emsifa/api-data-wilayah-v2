@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "id": "16.04.10.1031",
+      "name": "Lahat Tengah",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.1032",
+      "name": "Gunung Gajah",
+      "postal_code": "31418"
+    },
+    {
+      "id": "16.04.10.1033",
+      "name": "Pagar Agung",
+      "postal_code": "31417"
+    },
+    {
+      "id": "16.04.10.1037",
+      "name": "Talang Jawa",
+      "postal_code": "31416"
+    },
+    {
+      "id": "16.04.10.1038",
+      "name": "Pasar Baru",
+      "postal_code": "31411"
+    },
+    {
+      "id": "16.04.10.1040",
+      "name": "Kota Baru",
+      "postal_code": "31415"
+    },
+    {
+      "id": "16.04.10.1041",
+      "name": "Pasar Lama",
+      "postal_code": "31413"
+    },
+    {
+      "id": "16.04.10.1042",
+      "name": "Pasar Bawah",
+      "postal_code": "31412"
+    },
+    {
+      "id": "16.04.10.1043",
+      "name": "RD. PJKA",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.1046",
+      "name": "Bandar Agung",
+      "postal_code": "31414"
+    },
+    {
+      "id": "16.04.10.1051",
+      "name": "Kota Negara",
+      "postal_code": "31414"
+    },
+    {
+      "id": "16.04.10.1052",
+      "name": "Kota Jaya",
+      "postal_code": "31412"
+    },
+    {
+      "id": "16.04.10.1054",
+      "name": "RD. PJKA Bandar Agung",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.1058",
+      "name": "Sari Bunga Mas",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.1059",
+      "name": "Bandar Jaya",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.1060",
+      "name": "Talang Jawa Selatan",
+      "postal_code": "31416"
+    },
+    {
+      "id": "16.04.10.1061",
+      "name": "Talang Jawa Utara",
+      "postal_code": "31416"
+    },
+    {
+      "id": "16.04.10.2012",
+      "name": "Padang Lengkuas",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.2027",
+      "name": "Selawi",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.2030",
+      "name": "Sukanegara",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.2034",
+      "name": "Kota Raya",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.2035",
+      "name": "Keban",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.2036",
+      "name": "Pagar Sari",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.2039",
+      "name": "Pagar Negara",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.2049",
+      "name": "Senabing",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.2050",
+      "name": "Manggul",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.2053",
+      "name": "Ulak Lebar",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.2055",
+      "name": "Giri Mulya",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.2056",
+      "name": "Makarti Tama",
+      "postal_code": "31419"
+    },
+    {
+      "id": "16.04.10.2057",
+      "name": "Ulak Mas",
+      "postal_code": "31419"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

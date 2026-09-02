@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "32.08.16.2002",
+      "name": "Gereba",
+      "postal_code": "45553"
+    },
+    {
+      "id": "32.08.16.2004",
+      "name": "Cilaja",
+      "postal_code": "45553"
+    },
+    {
+      "id": "32.08.16.2005",
+      "name": "Cikubangsari",
+      "postal_code": "45553"
+    },
+    {
+      "id": "32.08.16.2006",
+      "name": "Bojong",
+      "postal_code": "45553"
+    },
+    {
+      "id": "32.08.16.2007",
+      "name": "Cilowa",
+      "postal_code": "45553"
+    },
+    {
+      "id": "32.08.16.2008",
+      "name": "Cibentang",
+      "postal_code": "45553"
+    },
+    {
+      "id": "32.08.16.2009",
+      "name": "Ragawacana",
+      "postal_code": "45553"
+    },
+    {
+      "id": "32.08.16.2010",
+      "name": "Pajambon",
+      "postal_code": "45553"
+    },
+    {
+      "id": "32.08.16.2011",
+      "name": "Gandasoli",
+      "postal_code": "45553"
+    },
+    {
+      "id": "32.08.16.2012",
+      "name": "Kalapagunung",
+      "postal_code": "45553"
+    },
+    {
+      "id": "32.08.16.2013",
+      "name": "Kramatmulya",
+      "postal_code": "45553"
+    },
+    {
+      "id": "32.08.16.2014",
+      "name": "Cikaso",
+      "postal_code": "45553"
+    },
+    {
+      "id": "32.08.16.2015",
+      "name": "Karangmangu",
+      "postal_code": "45553"
+    },
+    {
+      "id": "32.08.16.2017",
+      "name": "Widarasari",
+      "postal_code": "45553"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

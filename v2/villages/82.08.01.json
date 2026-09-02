@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "82.08.01.2001",
+      "name": "Bobong",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.01.2002",
+      "name": "Talo",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.01.2003",
+      "name": "Kawalo",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.01.2004",
+      "name": "Limbo",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.01.2005",
+      "name": "Meranti Jaya",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.01.2006",
+      "name": "Kramat",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.01.2007",
+      "name": "Holbota",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.01.2008",
+      "name": "Pancoran",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.01.2009",
+      "name": "Wayo",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.01.2010",
+      "name": "Loho Bubba",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.01.2011",
+      "name": "Kilong",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.01.2012",
+      "name": "Ratahaya",
+      "postal_code": "97794"
+    },
+    {
+      "id": "82.08.01.2013",
+      "name": "Woyo",
+      "postal_code": "97794"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "94.04.04.2001",
+      "name": "Kokonao",
+      "postal_code": "99975"
+    },
+    {
+      "id": "94.04.04.2002",
+      "name": "Migiwia",
+      "postal_code": "99975"
+    },
+    {
+      "id": "94.04.04.2003",
+      "name": "Kiura",
+      "postal_code": "99975"
+    },
+    {
+      "id": "94.04.04.2004",
+      "name": "Mimika",
+      "postal_code": "99975"
+    },
+    {
+      "id": "94.04.04.2005",
+      "name": "Aparuka",
+      "postal_code": "99961"
+    },
+    {
+      "id": "94.04.04.2006",
+      "name": "Atapo",
+      "postal_code": "99961"
+    },
+    {
+      "id": "94.04.04.2007",
+      "name": "Apuri",
+      "postal_code": "99961"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

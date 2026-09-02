@@ -1,18 +1,84 @@
 {
-  "data": {
-    "id": "73.18",
-    "name": "Kabupaten Tana Toraja",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
+  "data": [
+    {
+      "id": "73.18.01",
+      "name": "Salupputti"
     },
-    "regency": {
-      "id": "73.18",
-      "name": "Kabupaten Tana Toraja"
+    {
+      "id": "73.18.02",
+      "name": "Bittuang"
+    },
+    {
+      "id": "73.18.03",
+      "name": "Bonggakaradeng"
+    },
+    {
+      "id": "73.18.05",
+      "name": "Makale"
+    },
+    {
+      "id": "73.18.09",
+      "name": "Simbuang"
+    },
+    {
+      "id": "73.18.11",
+      "name": "Rantetayo"
+    },
+    {
+      "id": "73.18.12",
+      "name": "Mengkendek"
+    },
+    {
+      "id": "73.18.13",
+      "name": "Sangalla'"
+    },
+    {
+      "id": "73.18.19",
+      "name": "Gandangbatu Sillanan"
+    },
+    {
+      "id": "73.18.20",
+      "name": "Rembon"
+    },
+    {
+      "id": "73.18.27",
+      "name": "Makale Utara"
+    },
+    {
+      "id": "73.18.28",
+      "name": "Mappak"
+    },
+    {
+      "id": "73.18.29",
+      "name": "Makale Selatan"
+    },
+    {
+      "id": "73.18.31",
+      "name": "Masanda"
+    },
+    {
+      "id": "73.18.33",
+      "name": "Sangalla' Selatan"
+    },
+    {
+      "id": "73.18.34",
+      "name": "Sangalla' Utara"
+    },
+    {
+      "id": "73.18.35",
+      "name": "Malimbong Balepe'"
+    },
+    {
+      "id": "73.18.37",
+      "name": "Rano"
+    },
+    {
+      "id": "73.18.38",
+      "name": "Kurra"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

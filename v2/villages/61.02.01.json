@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "61.02.01.1006",
+      "name": "Tanjung",
+      "postal_code": "78913"
+    },
+    {
+      "id": "61.02.01.1007",
+      "name": "Tengah",
+      "postal_code": "78911"
+    },
+    {
+      "id": "61.02.01.1009",
+      "name": "Terusan",
+      "postal_code": "78912"
+    },
+    {
+      "id": "61.02.01.2001",
+      "name": "Sengkubang",
+      "postal_code": "78919"
+    },
+    {
+      "id": "61.02.01.2002",
+      "name": "Penibung",
+      "postal_code": "78919"
+    },
+    {
+      "id": "61.02.01.2003",
+      "name": "Pasir",
+      "postal_code": "78919"
+    },
+    {
+      "id": "61.02.01.2013",
+      "name": "Kuala Secapah",
+      "postal_code": "78914"
+    },
+    {
+      "id": "61.02.01.2015",
+      "name": "Malikian",
+      "postal_code": "78919"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

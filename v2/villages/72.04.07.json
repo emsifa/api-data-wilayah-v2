@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "72.04.07.1001",
+      "name": "Tambun",
+      "postal_code": "94516"
+    },
+    {
+      "id": "72.04.07.1003",
+      "name": "Tuweley",
+      "postal_code": "94515"
+    },
+    {
+      "id": "72.04.07.1004",
+      "name": "Nalu",
+      "postal_code": "94513"
+    },
+    {
+      "id": "72.04.07.1005",
+      "name": "Baru",
+      "postal_code": "94514"
+    },
+    {
+      "id": "72.04.07.1006",
+      "name": "Panasakan",
+      "postal_code": "94511"
+    },
+    {
+      "id": "72.04.07.1007",
+      "name": "Sidoarjo",
+      "postal_code": "94512"
+    },
+    {
+      "id": "72.04.07.2002",
+      "name": "Dadakitan",
+      "postal_code": "94517"
+    },
+    {
+      "id": "72.04.07.2008",
+      "name": "Buntuna",
+      "postal_code": "94517"
+    },
+    {
+      "id": "72.04.07.2009",
+      "name": "Lelean Nono",
+      "postal_code": "94515"
+    },
+    {
+      "id": "72.04.07.2010",
+      "name": "Pangi",
+      "postal_code": "94517"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "13.71",
+    "name": "Kota Padang",
+    "capital": "Padang",
+    "lat": -0.8758770365307109,
+    "lng": 100.38728839371491,
+    "elv": 9,
+    "tz": 7,
+    "population": 946982,
+    "total_area": 694.315,
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

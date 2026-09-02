@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "35.18.08.1011",
+      "name": "Banaran",
+      "postal_code": "64311"
+    },
+    {
+      "id": "35.18.08.2001",
+      "name": "Drenges",
+      "postal_code": "64315"
+    },
+    {
+      "id": "35.18.08.2002",
+      "name": "Juwono",
+      "postal_code": "64315"
+    },
+    {
+      "id": "35.18.08.2003",
+      "name": "Bangsri",
+      "postal_code": "64315"
+    },
+    {
+      "id": "35.18.08.2004",
+      "name": "Kalianyar",
+      "postal_code": "64315"
+    },
+    {
+      "id": "35.18.08.2005",
+      "name": "Tanjung",
+      "postal_code": "64315"
+    },
+    {
+      "id": "35.18.08.2006",
+      "name": "Nglawak",
+      "postal_code": "64315"
+    },
+    {
+      "id": "35.18.08.2007",
+      "name": "Kepuh",
+      "postal_code": "64315"
+    },
+    {
+      "id": "35.18.08.2008",
+      "name": "Tembarak",
+      "postal_code": "64315"
+    },
+    {
+      "id": "35.18.08.2009",
+      "name": "Pelem",
+      "postal_code": "64314"
+    },
+    {
+      "id": "35.18.08.2010",
+      "name": "Kutorejo",
+      "postal_code": "64313"
+    },
+    {
+      "id": "35.18.08.2012",
+      "name": "Lambangkuning",
+      "postal_code": "64315"
+    },
+    {
+      "id": "35.18.08.2013",
+      "name": "Pandantoyo",
+      "postal_code": "64315"
+    },
+    {
+      "id": "35.18.08.2014",
+      "name": "Kudu",
+      "postal_code": "64312"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

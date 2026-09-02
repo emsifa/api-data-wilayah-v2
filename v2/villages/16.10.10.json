@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "16.10.10.2001",
+      "name": "Suka Merindu",
+      "postal_code": "30653"
+    },
+    {
+      "id": "16.10.10.2002",
+      "name": "Sarang Lang",
+      "postal_code": "30653"
+    },
+    {
+      "id": "16.10.10.2003",
+      "name": "Kamal",
+      "postal_code": "30653"
+    },
+    {
+      "id": "16.10.10.2004",
+      "name": "Pulau Negara",
+      "postal_code": "30653"
+    },
+    {
+      "id": "16.10.10.2005",
+      "name": "Talang Pangeran Ulu",
+      "postal_code": "30653"
+    },
+    {
+      "id": "16.10.10.2006",
+      "name": "Ulak Kembahang I",
+      "postal_code": "30653"
+    },
+    {
+      "id": "16.10.10.2007",
+      "name": "Ulak Petangisan",
+      "postal_code": "30653"
+    },
+    {
+      "id": "16.10.10.2008",
+      "name": "Sribanding",
+      "postal_code": "30653"
+    },
+    {
+      "id": "16.10.10.2009",
+      "name": "Ulak Kembahang II",
+      "postal_code": "30653"
+    },
+    {
+      "id": "16.10.10.2010",
+      "name": "Talang Pangeran Ilir",
+      "postal_code": "30653"
+    },
+    {
+      "id": "16.10.10.2011",
+      "name": "Arisan Jaya",
+      "postal_code": "30653"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

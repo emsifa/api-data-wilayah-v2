@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "81.05.02.2001",
+      "name": "Geser",
+      "postal_code": "97592"
+    },
+    {
+      "id": "81.05.02.2002",
+      "name": "Kiltay",
+      "postal_code": "97592"
+    },
+    {
+      "id": "81.05.02.2003",
+      "name": "Kilwaru",
+      "postal_code": "97592"
+    },
+    {
+      "id": "81.05.02.2004",
+      "name": "Kellu",
+      "postal_code": "97592"
+    },
+    {
+      "id": "81.05.02.2005",
+      "name": "Keffing",
+      "postal_code": "97592"
+    },
+    {
+      "id": "81.05.02.2028",
+      "name": "Kilfura",
+      "postal_code": "97592"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

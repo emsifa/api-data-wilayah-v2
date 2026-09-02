@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "id": "91.06.11.2001",
+      "name": "Yendidori",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2002",
+      "name": "Adoki",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2003",
+      "name": "Urfu",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2004",
+      "name": "Samber",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2005",
+      "name": "Kabidon",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2006",
+      "name": "Sunyar",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2007",
+      "name": "Moibaken",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2008",
+      "name": "Wirmaker",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2009",
+      "name": "Syabes",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2010",
+      "name": "Samber Sup",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2011",
+      "name": "Suneri",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2012",
+      "name": "Rarnpimbo",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2013",
+      "name": "Padwa",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2014",
+      "name": "Waroi",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2015",
+      "name": "Inpendi",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2016",
+      "name": "Amyambenram",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2017",
+      "name": "Birubi",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2018",
+      "name": "Binyeri",
+      "postal_code": "98547"
+    },
+    {
+      "id": "91.06.11.2019",
+      "name": "Padwa Pantai",
+      "postal_code": "98547"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

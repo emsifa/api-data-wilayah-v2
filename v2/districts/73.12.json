@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "73.12",
-    "name": "Kabupaten Soppeng",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
+  "data": [
+    {
+      "id": "73.12.01",
+      "name": "Marioriwawo"
     },
-    "regency": {
-      "id": "73.12",
-      "name": "Kabupaten Soppeng"
+    {
+      "id": "73.12.02",
+      "name": "Liliriaja"
+    },
+    {
+      "id": "73.12.03",
+      "name": "Lilirilau"
+    },
+    {
+      "id": "73.12.04",
+      "name": "Lalabata"
+    },
+    {
+      "id": "73.12.05",
+      "name": "Marioriawa"
+    },
+    {
+      "id": "73.12.06",
+      "name": "Donri-Donri"
+    },
+    {
+      "id": "73.12.07",
+      "name": "Ganra"
+    },
+    {
+      "id": "73.12.08",
+      "name": "Citta"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

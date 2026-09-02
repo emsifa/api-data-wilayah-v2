@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "73.12.01.1001",
+      "name": "Labessi",
+      "postal_code": "90862"
+    },
+    {
+      "id": "73.12.01.1002",
+      "name": "Tettikenrarae",
+      "postal_code": "90862"
+    },
+    {
+      "id": "73.12.01.2003",
+      "name": "Gattareng",
+      "postal_code": "90862"
+    },
+    {
+      "id": "73.12.01.2004",
+      "name": "Watu",
+      "postal_code": "90862"
+    },
+    {
+      "id": "73.12.01.2005",
+      "name": "Goarie",
+      "postal_code": "90862"
+    },
+    {
+      "id": "73.12.01.2006",
+      "name": "Barae",
+      "postal_code": "90862"
+    },
+    {
+      "id": "73.12.01.2007",
+      "name": "Marioriaja",
+      "postal_code": "90862"
+    },
+    {
+      "id": "73.12.01.2008",
+      "name": "Marioritengnga",
+      "postal_code": "90862"
+    },
+    {
+      "id": "73.12.01.2009",
+      "name": "Mariorilau",
+      "postal_code": "90862"
+    },
+    {
+      "id": "73.12.01.2010",
+      "name": "Watu Toa",
+      "postal_code": "90862"
+    },
+    {
+      "id": "73.12.01.2011",
+      "name": "Congko",
+      "postal_code": "90862"
+    },
+    {
+      "id": "73.12.01.2012",
+      "name": "Gattareng Toa",
+      "postal_code": "90862"
+    },
+    {
+      "id": "73.12.01.2013",
+      "name": "Soga",
+      "postal_code": "90862"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

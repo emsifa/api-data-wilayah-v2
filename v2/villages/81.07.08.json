@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "81.07.08.2001",
+      "name": "Longgar",
+      "postal_code": "97669"
+    },
+    {
+      "id": "81.07.08.2002",
+      "name": "Apara",
+      "postal_code": "97669"
+    },
+    {
+      "id": "81.07.08.2003",
+      "name": "Bemun",
+      "postal_code": "97669"
+    },
+    {
+      "id": "81.07.08.2004",
+      "name": "Mesiang",
+      "postal_code": "97669"
+    },
+    {
+      "id": "81.07.08.2005",
+      "name": "Gomo-Gomo",
+      "postal_code": "97669"
+    },
+    {
+      "id": "81.07.08.2006",
+      "name": "Jambu Air",
+      "postal_code": "97669"
+    },
+    {
+      "id": "81.07.08.2007",
+      "name": "Warabal",
+      "postal_code": "97669"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

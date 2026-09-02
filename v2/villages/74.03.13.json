@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "74.03.13.1003",
+      "name": "Labunia",
+      "postal_code": "93681"
+    },
+    {
+      "id": "74.03.13.2001",
+      "name": "Wambona",
+      "postal_code": "93681"
+    },
+    {
+      "id": "74.03.13.2004",
+      "name": "Bakealu",
+      "postal_code": "93681"
+    },
+    {
+      "id": "74.03.13.2005",
+      "name": "Pure",
+      "postal_code": "93681"
+    },
+    {
+      "id": "74.03.13.2006",
+      "name": "Wakorumba",
+      "postal_code": "93681"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

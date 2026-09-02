@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "64.02.06.1001",
+      "name": "Jahab",
+      "postal_code": "75511"
+    },
+    {
+      "id": "64.02.06.1002",
+      "name": "Loa Ipuh",
+      "postal_code": "75513"
+    },
+    {
+      "id": "64.02.06.1003",
+      "name": "Bukit Biru",
+      "postal_code": "75511"
+    },
+    {
+      "id": "64.02.06.1004",
+      "name": "Timbau",
+      "postal_code": "75511"
+    },
+    {
+      "id": "64.02.06.1005",
+      "name": "Melayu",
+      "postal_code": "75512"
+    },
+    {
+      "id": "64.02.06.1006",
+      "name": "Panji",
+      "postal_code": "75514"
+    },
+    {
+      "id": "64.02.06.1007",
+      "name": "Sukarame",
+      "postal_code": "75515"
+    },
+    {
+      "id": "64.02.06.1008",
+      "name": "Kampung Baru",
+      "postal_code": "75511"
+    },
+    {
+      "id": "64.02.06.1009",
+      "name": "Loa Tebu",
+      "postal_code": "75511"
+    },
+    {
+      "id": "64.02.06.1010",
+      "name": "Mangkurawang",
+      "postal_code": "75517"
+    },
+    {
+      "id": "64.02.06.1011",
+      "name": "Maluhu",
+      "postal_code": "75511"
+    },
+    {
+      "id": "64.02.06.1013",
+      "name": "Loa Ipuh Darat",
+      "postal_code": "75511"
+    },
+    {
+      "id": "64.02.06.2012",
+      "name": "Rapak Lambur",
+      "postal_code": "75511"
+    },
+    {
+      "id": "64.02.06.2014",
+      "name": "Bendang Raya",
+      "postal_code": "75511"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

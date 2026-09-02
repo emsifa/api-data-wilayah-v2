@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "16.03.14.2005",
+      "name": "Aur",
+      "postal_code": "31173"
+    },
+    {
+      "id": "16.03.14.2006",
+      "name": "Beringin",
+      "postal_code": "31173"
+    },
+    {
+      "id": "16.03.14.2007",
+      "name": "Kota Baru",
+      "postal_code": "31173"
+    },
+    {
+      "id": "16.03.14.2008",
+      "name": "Pagar Gunung",
+      "postal_code": "31173"
+    },
+    {
+      "id": "16.03.14.2009",
+      "name": "Gunung Raja",
+      "postal_code": "31173"
+    },
+    {
+      "id": "16.03.14.2010",
+      "name": "Tanjung Kemala",
+      "postal_code": "31173"
+    },
+    {
+      "id": "16.03.14.2011",
+      "name": "Suka Merindu",
+      "postal_code": "31173"
+    },
+    {
+      "id": "16.03.14.2014",
+      "name": "Jiwa Baru",
+      "postal_code": "31173"
+    },
+    {
+      "id": "16.03.14.2020",
+      "name": "Air Asam",
+      "postal_code": "31173"
+    },
+    {
+      "id": "16.03.14.2021",
+      "name": "Menanti",
+      "postal_code": "31173"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

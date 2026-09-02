@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "63.10.11.2001",
+      "name": "Saring Sungai Bubu",
+      "postal_code": "72273"
+    },
+    {
+      "id": "63.10.11.2002",
+      "name": "Saring Sungai Binjai",
+      "postal_code": "72273"
+    },
+    {
+      "id": "63.10.11.2003",
+      "name": "Sepunggur",
+      "postal_code": "72273"
+    },
+    {
+      "id": "63.10.11.2004",
+      "name": "Serdangan",
+      "postal_code": "72273"
+    },
+    {
+      "id": "63.10.11.2005",
+      "name": "Satiung",
+      "postal_code": "72273"
+    },
+    {
+      "id": "63.10.11.2006",
+      "name": "Api-api",
+      "postal_code": "72273"
+    },
+    {
+      "id": "63.10.11.2007",
+      "name": "Pakatellu",
+      "postal_code": "72273"
+    },
+    {
+      "id": "63.10.11.2008",
+      "name": "Manurung",
+      "postal_code": "72273"
+    },
+    {
+      "id": "63.10.11.2009",
+      "name": "Batarang",
+      "postal_code": "72273"
+    },
+    {
+      "id": "63.10.11.2010",
+      "name": "Mekar Jaya",
+      "postal_code": "72273"
+    },
+    {
+      "id": "63.10.11.2011",
+      "name": "Pulau Tanjung",
+      "postal_code": "72273"
+    },
+    {
+      "id": "63.10.11.2012",
+      "name": "UPT Karya Bakti",
+      "postal_code": "72273"
+    },
+    {
+      "id": "63.10.11.2013",
+      "name": "Salimuran",
+      "postal_code": "72273"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,18 +1,56 @@
 {
-  "data": {
-    "id": "21.71",
-    "name": "Kota Batam",
-    "province": {
-      "id": "21",
-      "name": "Kepulauan Riau"
+  "data": [
+    {
+      "id": "21.71.01",
+      "name": "Belakang Padang"
     },
-    "regency": {
-      "id": "21.71",
-      "name": "Kota Batam"
+    {
+      "id": "21.71.02",
+      "name": "Batu Ampar"
+    },
+    {
+      "id": "21.71.03",
+      "name": "Sekupang"
+    },
+    {
+      "id": "21.71.04",
+      "name": "Nongsa"
+    },
+    {
+      "id": "21.71.05",
+      "name": "Bulang"
+    },
+    {
+      "id": "21.71.06",
+      "name": "Lubuk Baja"
+    },
+    {
+      "id": "21.71.07",
+      "name": "Sei Beduk"
+    },
+    {
+      "id": "21.71.08",
+      "name": "Galang"
+    },
+    {
+      "id": "21.71.09",
+      "name": "Bengkong"
+    },
+    {
+      "id": "21.71.10",
+      "name": "Batam Kota"
+    },
+    {
+      "id": "21.71.11",
+      "name": "Sagulung"
+    },
+    {
+      "id": "21.71.12",
+      "name": "Batu Aji"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

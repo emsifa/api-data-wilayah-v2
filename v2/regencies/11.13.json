@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "11.13",
+    "name": "Kabupaten Gayo Lues",
+    "capital": "Blang Kejeren",
+    "lat": 3.993465184564387,
+    "lng": 97.32450169161383,
+    "elv": 1001,
+    "tz": 7,
+    "population": 107506,
+    "total_area": 5541.285,
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

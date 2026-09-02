@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "92.07.06.2001",
+      "name": "Yombekiri I",
+      "postal_code": "98333"
+    },
+    {
+      "id": "92.07.06.2002",
+      "name": "Isenebuay",
+      "postal_code": "98333"
+    },
+    {
+      "id": "92.07.06.2003",
+      "name": "Yomakan",
+      "postal_code": "98333"
+    },
+    {
+      "id": "92.07.06.2005",
+      "name": "Iseren",
+      "postal_code": "98333"
+    },
+    {
+      "id": "92.07.06.2008",
+      "name": "Yembekiri II",
+      "postal_code": "98333"
+    },
+    {
+      "id": "92.07.06.2009",
+      "name": "Yariari",
+      "postal_code": "98333"
+    },
+    {
+      "id": "92.07.06.2011",
+      "name": "Wetitindau",
+      "postal_code": "98333"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

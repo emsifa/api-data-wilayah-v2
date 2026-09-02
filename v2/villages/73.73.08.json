@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "73.73.08.1001",
+      "name": "Mungkajang",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.73.08.1002",
+      "name": "Murante",
+      "postal_code": "91924"
+    },
+    {
+      "id": "73.73.08.1003",
+      "name": "Latuppa",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.73.08.1004",
+      "name": "Kambo",
+      "postal_code": "91925"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

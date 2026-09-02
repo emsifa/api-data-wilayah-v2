@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.04.12.1001",
+      "name": "Pasawahan",
+      "postal_code": "40256"
+    },
+    {
+      "id": "32.04.12.2002",
+      "name": "Dayeuhkolot",
+      "postal_code": "40258"
+    },
+    {
+      "id": "32.04.12.2003",
+      "name": "Cangkuang Wetan",
+      "postal_code": "40238"
+    },
+    {
+      "id": "32.04.12.2004",
+      "name": "Cangkuang Kulon",
+      "postal_code": "40239"
+    },
+    {
+      "id": "32.04.12.2005",
+      "name": "Sukapura",
+      "postal_code": "40267"
+    },
+    {
+      "id": "32.04.12.2006",
+      "name": "Citeureup",
+      "postal_code": "40257"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

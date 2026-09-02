@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "73.10",
+    "name": "Kabupaten Pangkajene dan Kepulauan",
+    "capital": "Pangkajene",
+    "lat": -4.845732154757298,
+    "lng": 119.5598290821929,
+    "elv": 2,
+    "tz": 8,
+    "population": 361791,
+    "total_area": 883.553,
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

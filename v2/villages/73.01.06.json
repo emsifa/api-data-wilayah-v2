@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "73.01.06.2001",
+      "name": "Kembang Ragi",
+      "postal_code": "92861"
+    },
+    {
+      "id": "73.01.06.2003",
+      "name": "Ma'minasa",
+      "postal_code": "92861"
+    },
+    {
+      "id": "73.01.06.2005",
+      "name": "Tanamalala",
+      "postal_code": "92861"
+    },
+    {
+      "id": "73.01.06.2006",
+      "name": "Labuang Pamajang",
+      "postal_code": "92861"
+    },
+    {
+      "id": "73.01.06.2007",
+      "name": "Massungke",
+      "postal_code": "92861"
+    },
+    {
+      "id": "73.01.06.2009",
+      "name": "Bontosaile",
+      "postal_code": "92811"
+    },
+    {
+      "id": "73.01.06.2011",
+      "name": "Teluk Kampe",
+      "postal_code": "92861"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

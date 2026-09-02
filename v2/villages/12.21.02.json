@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "id": "12.21.02.2001",
+      "name": "Gunung Baringin",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2002",
+      "name": "Pasar Binanga",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2003",
+      "name": "Sihaborgoan Dalan",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2004",
+      "name": "Aek Tanduk",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2005",
+      "name": "PP. Makmur",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2006",
+      "name": "Siboris Bahal",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2007",
+      "name": "Bangkudu",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2008",
+      "name": "Siolip",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2009",
+      "name": "Aek Tunjang",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2010",
+      "name": "Binanga",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2011",
+      "name": "Manombo",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2012",
+      "name": "Janji Raja",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2013",
+      "name": "Pangirkiran Dolok",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2014",
+      "name": "Sihaborgoan Barumun",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2015",
+      "name": "Siboris Dolok",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2016",
+      "name": "Padang Matinggi",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2017",
+      "name": "Tandihat",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2018",
+      "name": "Bara Batu",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2019",
+      "name": "Bahal Batu",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2020",
+      "name": "Ginduang Batu",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2021",
+      "name": "Padang Garugur",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2022",
+      "name": "Gunung Manaon",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2023",
+      "name": "Siboris Lombang",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2024",
+      "name": "Janji Matogu",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2025",
+      "name": "Gunung Malintang",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2026",
+      "name": "Sibatu Loting",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2028",
+      "name": "Janji Manahan",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2029",
+      "name": "Siparau",
+      "postal_code": "22755"
+    },
+    {
+      "id": "12.21.02.2030",
+      "name": "Unterudang",
+      "postal_code": "22755"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

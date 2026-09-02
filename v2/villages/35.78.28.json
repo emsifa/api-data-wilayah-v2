@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "35.78.28.1001",
+      "name": "Asem Rowo",
+      "postal_code": "60182"
+    },
+    {
+      "id": "35.78.28.1002",
+      "name": "Genting Kalianak",
+      "postal_code": "60183"
+    },
+    {
+      "id": "35.78.28.1005",
+      "name": "Tambak Sarioso",
+      "postal_code": "60184"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

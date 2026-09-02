@@ -1,18 +1,36 @@
 {
-  "data": {
-    "id": "36.74",
-    "name": "Kota Tangerang Selatan",
-    "province": {
-      "id": "36",
-      "name": "Banten"
+  "data": [
+    {
+      "id": "36.74.01",
+      "name": "Serpong"
     },
-    "regency": {
-      "id": "36.74",
-      "name": "Kota Tangerang Selatan"
+    {
+      "id": "36.74.02",
+      "name": "Serpong Utara"
+    },
+    {
+      "id": "36.74.03",
+      "name": "Pondok Aren"
+    },
+    {
+      "id": "36.74.04",
+      "name": "Ciputat"
+    },
+    {
+      "id": "36.74.05",
+      "name": "Ciputat Timur"
+    },
+    {
+      "id": "36.74.06",
+      "name": "Pamulang"
+    },
+    {
+      "id": "36.74.07",
+      "name": "Setu"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "63.04.11.2001",
+      "name": "Jambu Baru",
+      "postal_code": "70552"
+    },
+    {
+      "id": "63.04.11.2002",
+      "name": "Jambu",
+      "postal_code": "70552"
+    },
+    {
+      "id": "63.04.11.2003",
+      "name": "Kabuau",
+      "postal_code": "70552"
+    },
+    {
+      "id": "63.04.11.2004",
+      "name": "Jarenang",
+      "postal_code": "70552"
+    },
+    {
+      "id": "63.04.11.2005",
+      "name": "Tabatan",
+      "postal_code": "70552"
+    },
+    {
+      "id": "63.04.11.2006",
+      "name": "Kuripan",
+      "postal_code": "70552"
+    },
+    {
+      "id": "63.04.11.2007",
+      "name": "Tabatan Baru",
+      "postal_code": "70552"
+    },
+    {
+      "id": "63.04.11.2008",
+      "name": "Asia Baru",
+      "postal_code": "70552"
+    },
+    {
+      "id": "63.04.11.2009",
+      "name": "Rimbun Tulang",
+      "postal_code": "70552"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "96.02.13.2001",
+      "name": "Pasir Putih",
+      "postal_code": "98457"
+    },
+    {
+      "id": "96.02.13.2002",
+      "name": "Wandum",
+      "postal_code": "98457"
+    },
+    {
+      "id": "96.02.13.2003",
+      "name": "Bemus",
+      "postal_code": "98457"
+    },
+    {
+      "id": "96.02.13.2004",
+      "name": "Welek",
+      "postal_code": "98457"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

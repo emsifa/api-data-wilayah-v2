@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "35.12.01.2001",
+      "name": "Pategalan",
+      "postal_code": "68357"
+    },
+    {
+      "id": "35.12.01.2002",
+      "name": "Semambung",
+      "postal_code": "68357"
+    },
+    {
+      "id": "35.12.01.2003",
+      "name": "Sumberanyar",
+      "postal_code": "68357"
+    },
+    {
+      "id": "35.12.01.2004",
+      "name": "Jatibanteng",
+      "postal_code": "68357"
+    },
+    {
+      "id": "35.12.01.2005",
+      "name": "Curahsuri",
+      "postal_code": "68357"
+    },
+    {
+      "id": "35.12.01.2006",
+      "name": "Wringinanom",
+      "postal_code": "68357"
+    },
+    {
+      "id": "35.12.01.2007",
+      "name": "Kembangsari",
+      "postal_code": "68357"
+    },
+    {
+      "id": "35.12.01.2008",
+      "name": "Patemon",
+      "postal_code": "68357"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "72.02.21.1001",
+      "name": "Sayo",
+      "postal_code": "94613"
+    },
+    {
+      "id": "72.02.21.1002",
+      "name": "Bukit Bambu",
+      "postal_code": "94614"
+    },
+    {
+      "id": "72.02.21.1003",
+      "name": "Kawua",
+      "postal_code": "94619"
+    },
+    {
+      "id": "72.02.21.1004",
+      "name": "Ronononcu",
+      "postal_code": "94619"
+    },
+    {
+      "id": "72.02.21.1005",
+      "name": "Lembomawo",
+      "postal_code": "94617"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

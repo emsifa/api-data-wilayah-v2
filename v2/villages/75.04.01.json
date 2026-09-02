@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "75.04.01.2003",
+      "name": "Torosiaje Jaya",
+      "postal_code": "96466"
+    },
+    {
+      "id": "75.04.01.2004",
+      "name": "Popayato",
+      "postal_code": "96466"
+    },
+    {
+      "id": "75.04.01.2008",
+      "name": "Telaga",
+      "postal_code": "96466"
+    },
+    {
+      "id": "75.04.01.2012",
+      "name": "Torosiaje",
+      "postal_code": "96466"
+    },
+    {
+      "id": "75.04.01.2015",
+      "name": "Bukit Tingki",
+      "postal_code": "96466"
+    },
+    {
+      "id": "75.04.01.2016",
+      "name": "Tunas Harapan",
+      "postal_code": "96466"
+    },
+    {
+      "id": "75.04.01.2017",
+      "name": "Trikora",
+      "postal_code": "96466"
+    },
+    {
+      "id": "75.04.01.2018",
+      "name": "Dambalo",
+      "postal_code": "96466"
+    },
+    {
+      "id": "75.04.01.2019",
+      "name": "Telaga Biru",
+      "postal_code": "96466"
+    },
+    {
+      "id": "75.04.01.2020",
+      "name": "Bumi Bahari",
+      "postal_code": "96466"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

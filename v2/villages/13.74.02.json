@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "13.74.02.1001",
+      "name": "Bukit Surungan",
+      "postal_code": "27115"
+    },
+    {
+      "id": "13.74.02.1002",
+      "name": "Pasar Usang",
+      "postal_code": "27116"
+    },
+    {
+      "id": "13.74.02.1003",
+      "name": "Kampung Manggis",
+      "postal_code": "27111"
+    },
+    {
+      "id": "13.74.02.1004",
+      "name": "Silaing Bawah",
+      "postal_code": "27118"
+    },
+    {
+      "id": "13.74.02.1005",
+      "name": "Silaing Atas",
+      "postal_code": "27117"
+    },
+    {
+      "id": "13.74.02.1006",
+      "name": "Pasar Baru",
+      "postal_code": "27113"
+    },
+    {
+      "id": "13.74.02.1007",
+      "name": "Tanah Hitam",
+      "postal_code": "27112"
+    },
+    {
+      "id": "13.74.02.1008",
+      "name": "Balai-balai",
+      "postal_code": "27114"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "96.01.19.2001",
+      "name": "Disfra",
+      "postal_code": "98441"
+    },
+    {
+      "id": "96.01.19.2002",
+      "name": "Bagun",
+      "postal_code": "98441"
+    },
+    {
+      "id": "96.01.19.2003",
+      "name": "Klawom",
+      "postal_code": "98441"
+    },
+    {
+      "id": "96.01.19.2004",
+      "name": "Klamomis",
+      "postal_code": "98441"
+    },
+    {
+      "id": "96.01.19.2005",
+      "name": "Klakwonrit",
+      "postal_code": "98441"
+    },
+    {
+      "id": "96.01.19.2006",
+      "name": "Mode",
+      "postal_code": "98441"
+    },
+    {
+      "id": "96.01.19.2007",
+      "name": "Bratmawe",
+      "postal_code": "98441"
+    },
+    {
+      "id": "96.01.19.2008",
+      "name": "Klawon",
+      "postal_code": "98441"
+    },
+    {
+      "id": "96.01.19.2009",
+      "name": "Mlamli",
+      "postal_code": "98441"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

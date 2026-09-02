@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "74.01.27.2001",
+      "name": "Tamborasi",
+      "postal_code": "93552"
+    },
+    {
+      "id": "74.01.27.2002",
+      "name": "Ladahai",
+      "postal_code": "93552"
+    },
+    {
+      "id": "74.01.27.2003",
+      "name": "Lasiroku",
+      "postal_code": "93552"
+    },
+    {
+      "id": "74.01.27.2004",
+      "name": "Iwoimendaa",
+      "postal_code": "93552"
+    },
+    {
+      "id": "74.01.27.2005",
+      "name": "Lambopini",
+      "postal_code": "93552"
+    },
+    {
+      "id": "74.01.27.2006",
+      "name": "Ulu Kalo",
+      "postal_code": "93552"
+    },
+    {
+      "id": "74.01.27.2007",
+      "name": "Wonualaku",
+      "postal_code": "93552"
+    },
+    {
+      "id": "74.01.27.2008",
+      "name": "Lawolia",
+      "postal_code": "93552"
+    },
+    {
+      "id": "74.01.27.2009",
+      "name": "Watumelewe",
+      "postal_code": "93552"
+    },
+    {
+      "id": "74.01.27.2010",
+      "name": "Landoula",
+      "postal_code": "93552"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

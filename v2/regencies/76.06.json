@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "76.06",
+    "name": "Kabupaten Mamuju Tengah",
+    "capital": "Tobadak",
+    "lat": -2.08191948325633,
+    "lng": 119.30101480907719,
+    "elv": 12,
+    "tz": 8,
+    "population": 144810,
+    "total_area": 2756.076,
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

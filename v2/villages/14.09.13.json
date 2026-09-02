@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "14.09.13.2001",
+      "name": "Pulaubaru",
+      "postal_code": "29562"
+    },
+    {
+      "id": "14.09.13.2002",
+      "name": "Pulauberalo",
+      "postal_code": "29562"
+    },
+    {
+      "id": "14.09.13.2003",
+      "name": "Pulaukulur",
+      "postal_code": "29562"
+    },
+    {
+      "id": "14.09.13.2004",
+      "name": "Pelukahan",
+      "postal_code": "29562"
+    },
+    {
+      "id": "14.09.13.2005",
+      "name": "Pengalihan",
+      "postal_code": "29562"
+    },
+    {
+      "id": "14.09.13.2006",
+      "name": "Lumbok",
+      "postal_code": "29562"
+    },
+    {
+      "id": "14.09.13.2007",
+      "name": "Teratak Jering",
+      "postal_code": "29562"
+    },
+    {
+      "id": "14.09.13.2008",
+      "name": "Tanjungpisang",
+      "postal_code": "29562"
+    },
+    {
+      "id": "14.09.13.2009",
+      "name": "Danau",
+      "postal_code": "29562"
+    },
+    {
+      "id": "14.09.13.2010",
+      "name": "Kasang Limau Sundai",
+      "postal_code": "29562"
+    },
+    {
+      "id": "14.09.13.2011",
+      "name": "Koto Rajo",
+      "postal_code": "29562"
+    },
+    {
+      "id": "14.09.13.2012",
+      "name": "Tanjung",
+      "postal_code": "29562"
+    },
+    {
+      "id": "14.09.13.2013",
+      "name": "Sungaisorik",
+      "postal_code": "29562"
+    },
+    {
+      "id": "14.09.13.2014",
+      "name": "Rawang Oguang",
+      "postal_code": "29562"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

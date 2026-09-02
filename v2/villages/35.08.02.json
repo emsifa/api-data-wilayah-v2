@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.08.02.2001",
+      "name": "Sidomulyo",
+      "postal_code": "67374"
+    },
+    {
+      "id": "35.08.02.2002",
+      "name": "Pronojiwo",
+      "postal_code": "67374"
+    },
+    {
+      "id": "35.08.02.2003",
+      "name": "Tamanayu",
+      "postal_code": "67374"
+    },
+    {
+      "id": "35.08.02.2004",
+      "name": "Sumberurip",
+      "postal_code": "67374"
+    },
+    {
+      "id": "35.08.02.2005",
+      "name": "Oro-oro Ombo",
+      "postal_code": "67374"
+    },
+    {
+      "id": "35.08.02.2006",
+      "name": "Supiturang",
+      "postal_code": "67374"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

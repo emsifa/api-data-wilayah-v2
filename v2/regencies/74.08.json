@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "74.08",
+    "name": "Kabupaten Kolaka Utara",
+    "capital": "Lasusua",
+    "lat": -3.4901354632505868,
+    "lng": 120.88752770777094,
+    "elv": 45,
+    "tz": 8,
+    "population": 143604,
+    "total_area": 2931.677,
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

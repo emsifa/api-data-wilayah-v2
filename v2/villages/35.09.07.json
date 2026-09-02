@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.09.07.2001",
+      "name": "Pondokjoyo",
+      "postal_code": "68157"
+    },
+    {
+      "id": "35.09.07.2002",
+      "name": "Pondokdalem",
+      "postal_code": "68157"
+    },
+    {
+      "id": "35.09.07.2003",
+      "name": "Rejoagung",
+      "postal_code": "68157"
+    },
+    {
+      "id": "35.09.07.2004",
+      "name": "Semboro",
+      "postal_code": "68157"
+    },
+    {
+      "id": "35.09.07.2005",
+      "name": "Sidomekar",
+      "postal_code": "68157"
+    },
+    {
+      "id": "35.09.07.2006",
+      "name": "Sidomulyo",
+      "postal_code": "68157"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

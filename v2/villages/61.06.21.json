@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "61.06.21.2001",
+      "name": "Kerangan Panjang",
+      "postal_code": "78759"
+    },
+    {
+      "id": "61.06.21.2002",
+      "name": "Mawan",
+      "postal_code": "78759"
+    },
+    {
+      "id": "61.06.21.2003",
+      "name": "Marta Dana",
+      "postal_code": "78759"
+    },
+    {
+      "id": "61.06.21.2004",
+      "name": "Buak Limbang",
+      "postal_code": "78759"
+    },
+    {
+      "id": "61.06.21.2005",
+      "name": "Riam Panjang",
+      "postal_code": "78759"
+    },
+    {
+      "id": "61.06.21.2006",
+      "name": "Permata",
+      "postal_code": "78759"
+    },
+    {
+      "id": "61.06.21.2007",
+      "name": "Hulu Pengkadan",
+      "postal_code": "78759"
+    },
+    {
+      "id": "61.06.21.2008",
+      "name": "Pinang Laka",
+      "postal_code": "78759"
+    },
+    {
+      "id": "61.06.21.2009",
+      "name": "Sasan",
+      "postal_code": "78759"
+    },
+    {
+      "id": "61.06.21.2010",
+      "name": "Pengkadan Hilir",
+      "postal_code": "78759"
+    },
+    {
+      "id": "61.06.21.2011",
+      "name": "Sira Jaya",
+      "postal_code": "78759"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

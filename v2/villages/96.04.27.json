@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "96.04.27.2001",
+      "name": "Sasui",
+      "postal_code": "98371"
+    },
+    {
+      "id": "96.04.27.2002",
+      "name": "Imbuan",
+      "postal_code": "98371"
+    },
+    {
+      "id": "96.04.27.2003",
+      "name": "Manggaew",
+      "postal_code": "98371"
+    },
+    {
+      "id": "96.04.27.2004",
+      "name": "Saurabon",
+      "postal_code": "98371"
+    },
+    {
+      "id": "96.04.27.2005",
+      "name": "Wasawmontem",
+      "postal_code": "98371"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

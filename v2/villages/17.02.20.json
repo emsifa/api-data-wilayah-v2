@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "17.02.20.2001",
+      "name": "Kepala Curup",
+      "postal_code": "39182"
+    },
+    {
+      "id": "17.02.20.2002",
+      "name": "Kampung Jeruk",
+      "postal_code": "39182"
+    },
+    {
+      "id": "17.02.20.2003",
+      "name": "Simpang Beliti",
+      "postal_code": "39182"
+    },
+    {
+      "id": "17.02.20.2004",
+      "name": "Taba Padang",
+      "postal_code": "39182"
+    },
+    {
+      "id": "17.02.20.2005",
+      "name": "Air Apo",
+      "postal_code": "39182"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

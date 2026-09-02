@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "76.03",
+    "name": "Kabupaten Mamasa",
+    "capital": "Mamasa",
+    "lat": -2.9556254753926536,
+    "lng": 119.36286435705937,
+    "elv": 1108,
+    "tz": 8,
+    "population": 167611,
+    "total_area": 3016.13,
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

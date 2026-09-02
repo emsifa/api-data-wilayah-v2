@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "36.02.10.2001",
+      "name": "Pasindangan",
+      "postal_code": "42353"
+    },
+    {
+      "id": "36.02.10.2002",
+      "name": "Parungkujang",
+      "postal_code": "42353"
+    },
+    {
+      "id": "36.02.10.2003",
+      "name": "Cileles",
+      "postal_code": "42353"
+    },
+    {
+      "id": "36.02.10.2004",
+      "name": "Cikareo",
+      "postal_code": "42353"
+    },
+    {
+      "id": "36.02.10.2005",
+      "name": "Cipadang",
+      "postal_code": "42353"
+    },
+    {
+      "id": "36.02.10.2006",
+      "name": "Gumuruh",
+      "postal_code": "42353"
+    },
+    {
+      "id": "36.02.10.2007",
+      "name": "Prabugantungan",
+      "postal_code": "42353"
+    },
+    {
+      "id": "36.02.10.2008",
+      "name": "Daroyon",
+      "postal_code": "42353"
+    },
+    {
+      "id": "36.02.10.2009",
+      "name": "Margamulya",
+      "postal_code": "42353"
+    },
+    {
+      "id": "36.02.10.2010",
+      "name": "Mekarjaya",
+      "postal_code": "42353"
+    },
+    {
+      "id": "36.02.10.2011",
+      "name": "Kujangsari",
+      "postal_code": "42353"
+    },
+    {
+      "id": "36.02.10.2012",
+      "name": "Banjarsari",
+      "postal_code": "42353"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

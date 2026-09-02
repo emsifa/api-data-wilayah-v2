@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.03.10.2001",
+      "name": "Ciherang",
+      "postal_code": "43253"
+    },
+    {
+      "id": "32.03.10.2003",
+      "name": "Cibodas",
+      "postal_code": "43253"
+    },
+    {
+      "id": "32.03.10.2005",
+      "name": "Sukanagalih",
+      "postal_code": "43253"
+    },
+    {
+      "id": "32.03.10.2007",
+      "name": "Cipendawa",
+      "postal_code": "43253"
+    },
+    {
+      "id": "32.03.10.2010",
+      "name": "Ciputri",
+      "postal_code": "43281"
+    },
+    {
+      "id": "32.03.10.2012",
+      "name": "Gadog",
+      "postal_code": "43253"
+    },
+    {
+      "id": "32.03.10.2013",
+      "name": "Sukatani",
+      "postal_code": "43253"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

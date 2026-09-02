@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.03.31.1001",
+      "name": "Sangkunur",
+      "postal_code": "22734"
+    },
+    {
+      "id": "12.03.31.1002",
+      "name": "Rianiate",
+      "postal_code": "22734"
+    },
+    {
+      "id": "12.03.31.2003",
+      "name": "Simatohir",
+      "postal_code": "22734"
+    },
+    {
+      "id": "12.03.31.2004",
+      "name": "Perkebunan",
+      "postal_code": "22734"
+    },
+    {
+      "id": "12.03.31.2005",
+      "name": "Bandar Tarutung",
+      "postal_code": "22734"
+    },
+    {
+      "id": "12.03.31.2006",
+      "name": "Aek Pardomuan",
+      "postal_code": "22734"
+    },
+    {
+      "id": "12.03.31.2007",
+      "name": "Tindoan Laut",
+      "postal_code": "22734"
+    },
+    {
+      "id": "12.03.31.2008",
+      "name": "Simataniari",
+      "postal_code": "22734"
+    },
+    {
+      "id": "12.03.31.2009",
+      "name": "Batu Godang",
+      "postal_code": "22734"
+    },
+    {
+      "id": "12.03.31.2010",
+      "name": "Malombu",
+      "postal_code": "22734"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

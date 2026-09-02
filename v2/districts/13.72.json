@@ -1,18 +1,16 @@
 {
-  "data": {
-    "id": "13.72",
-    "name": "Kota Solok",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
+  "data": [
+    {
+      "id": "13.72.01",
+      "name": "Lubuk Sikarah"
     },
-    "regency": {
-      "id": "13.72",
-      "name": "Kota Solok"
+    {
+      "id": "13.72.02",
+      "name": "Tanjung Harapan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

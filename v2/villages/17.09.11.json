@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "17.09.11.2001",
+      "name": "Pagar Gunung",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.11.2002",
+      "name": "Karang Nanding",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.11.2003",
+      "name": "Semidang",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.11.2004",
+      "name": "Gajah Mati",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.11.2005",
+      "name": "Padang Siring",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.11.2006",
+      "name": "Lagan Bungin",
+      "postal_code": "38385"
+    },
+    {
+      "id": "17.09.11.2007",
+      "name": "Pagar Jati",
+      "postal_code": "38385"
+    },
+    {
+      "id": "17.09.11.2008",
+      "name": "Taba Lagan",
+      "postal_code": "38385"
+    },
+    {
+      "id": "17.09.11.2009",
+      "name": "Lagan",
+      "postal_code": "38385"
+    },
+    {
+      "id": "17.09.11.2010",
+      "name": "Bukit",
+      "postal_code": "38385"
+    },
+    {
+      "id": "17.09.11.2011",
+      "name": "Kota Niur",
+      "postal_code": "38388"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

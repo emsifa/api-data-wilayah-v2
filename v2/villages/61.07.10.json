@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "61.07.10.2001",
+      "name": "Nangka",
+      "postal_code": "79288"
+    },
+    {
+      "id": "61.07.10.2002",
+      "name": "Muhi Bersatu",
+      "postal_code": "79288"
+    },
+    {
+      "id": "61.07.10.2003",
+      "name": "Suka Maju",
+      "postal_code": "79288"
+    },
+    {
+      "id": "61.07.10.2004",
+      "name": "Cempaka Putih",
+      "postal_code": "79288"
+    },
+    {
+      "id": "61.07.10.2005",
+      "name": "Kiung",
+      "postal_code": "79288"
+    },
+    {
+      "id": "61.07.10.2006",
+      "name": "Kelayuk",
+      "postal_code": "79288"
+    },
+    {
+      "id": "61.07.10.2007",
+      "name": "Suti Semarang",
+      "postal_code": "79288"
+    },
+    {
+      "id": "61.07.10.2008",
+      "name": "Tapen",
+      "postal_code": "79288"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

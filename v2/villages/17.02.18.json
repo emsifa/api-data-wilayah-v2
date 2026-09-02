@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "17.02.18.1001",
+      "name": "Air Putih Baru",
+      "postal_code": "39112"
+    },
+    {
+      "id": "17.02.18.1002",
+      "name": "Tempel Rejo",
+      "postal_code": "39124"
+    },
+    {
+      "id": "17.02.18.2003",
+      "name": "Rimbo Recap",
+      "postal_code": "39125"
+    },
+    {
+      "id": "17.02.18.2004",
+      "name": "Watas Marga",
+      "postal_code": "39125"
+    },
+    {
+      "id": "17.02.18.2005",
+      "name": "Teladan",
+      "postal_code": "39125"
+    },
+    {
+      "id": "17.02.18.2006",
+      "name": "Suka Marga",
+      "postal_code": "39125"
+    },
+    {
+      "id": "17.02.18.2007",
+      "name": "Lubuk Ubar",
+      "postal_code": "39125"
+    },
+    {
+      "id": "17.02.18.2008",
+      "name": "Pungguk Lalang",
+      "postal_code": "39125"
+    },
+    {
+      "id": "17.02.18.2009",
+      "name": "Turan Baru",
+      "postal_code": "39125"
+    },
+    {
+      "id": "17.02.18.2010",
+      "name": "Tanjung Dalam",
+      "postal_code": "39125"
+    },
+    {
+      "id": "17.02.18.2011",
+      "name": "Air Lanang",
+      "postal_code": "39125"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

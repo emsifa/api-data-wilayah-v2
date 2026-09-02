@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "33.08.05",
+    "name": "Srumbung",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.08",
+      "name": "Kabupaten Magelang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "13.05.04.2002",
+      "name": "Sicincin",
+      "postal_code": "25584"
+    },
+    {
+      "id": "13.05.04.2003",
+      "name": "Lubuk Pandan",
+      "postal_code": "25584"
+    },
+    {
+      "id": "13.05.04.2004",
+      "name": "Sungai Asam",
+      "postal_code": "25584"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

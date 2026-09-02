@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "91.03.17.2001",
+      "name": "Yongsu Sapari",
+      "postal_code": "99350"
+    },
+    {
+      "id": "91.03.17.2002",
+      "name": "Yongsu Dosoyo",
+      "postal_code": "99350"
+    },
+    {
+      "id": "91.03.17.2003",
+      "name": "Newa",
+      "postal_code": "99350"
+    },
+    {
+      "id": "91.03.17.3004",
+      "name": "Desa Adat Nechive",
+      "postal_code": "99353"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

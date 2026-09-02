@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "12.14.06.1008",
+      "name": "Pasar Teluk Dalam",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2006",
+      "name": "Hiligeho",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2007",
+      "name": "Hilitobara",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2009",
+      "name": "Bawonifaoso",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2010",
+      "name": "Bawozaua",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2011",
+      "name": "Hiliganowo",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2023",
+      "name": "Bawodobara",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2024",
+      "name": "Bawolowalani",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2025",
+      "name": "Hilisao'otoniha",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2026",
+      "name": "Hilisondrekha",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2040",
+      "name": "Hiliamuri",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2042",
+      "name": "Hiliana'a",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2043",
+      "name": "Hiliganowo Salo'o",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2044",
+      "name": "Ganowo Saua",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2045",
+      "name": "Nanowa",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.06.2046",
+      "name": "Hililaza",
+      "postal_code": "22865"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

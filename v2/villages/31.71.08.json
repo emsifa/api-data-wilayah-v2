@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "31.71.08.1001",
+      "name": "Johar Baru",
+      "postal_code": "10560"
+    },
+    {
+      "id": "31.71.08.1002",
+      "name": "Kampung Rawa",
+      "postal_code": "10550"
+    },
+    {
+      "id": "31.71.08.1003",
+      "name": "Galur",
+      "postal_code": "10530"
+    },
+    {
+      "id": "31.71.08.1004",
+      "name": "Tanah Tinggi",
+      "postal_code": "10540"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

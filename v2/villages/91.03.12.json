@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "91.03.12.2001",
+      "name": "Ebungfa",
+      "postal_code": "99351"
+    },
+    {
+      "id": "91.03.12.2002",
+      "name": "Atabar",
+      "postal_code": "99351"
+    },
+    {
+      "id": "91.03.12.2004",
+      "name": "Khameyoka",
+      "postal_code": "99351"
+    },
+    {
+      "id": "91.03.12.3003",
+      "name": "Desa Adat Bobrongko",
+      "postal_code": "99368"
+    },
+    {
+      "id": "91.03.12.3005",
+      "name": "Desa Adat Homfolo",
+      "postal_code": "99368"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

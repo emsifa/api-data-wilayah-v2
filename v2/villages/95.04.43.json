@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.04.43.2001",
+      "name": "Bogonuk",
+      "postal_code": "99042"
+    },
+    {
+      "id": "95.04.43.2002",
+      "name": "Wisman",
+      "postal_code": "99042"
+    },
+    {
+      "id": "95.04.43.2003",
+      "name": "Paba",
+      "postal_code": "99042"
+    },
+    {
+      "id": "95.04.43.2004",
+      "name": "Ewan",
+      "postal_code": "99042"
+    },
+    {
+      "id": "95.04.43.2005",
+      "name": "Wumelak",
+      "postal_code": "99042"
+    },
+    {
+      "id": "95.04.43.2006",
+      "name": "Walelo",
+      "postal_code": "99042"
+    },
+    {
+      "id": "95.04.43.2007",
+      "name": "Laura",
+      "postal_code": "99042"
+    },
+    {
+      "id": "95.04.43.2008",
+      "name": "Talinamber",
+      "postal_code": "99042"
+    },
+    {
+      "id": "95.04.43.2009",
+      "name": "Aliduda",
+      "postal_code": "99042"
+    },
+    {
+      "id": "95.04.43.2010",
+      "name": "Andomak",
+      "postal_code": "99042"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

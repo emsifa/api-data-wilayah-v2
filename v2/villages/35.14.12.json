@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "35.14.12.2001",
+      "name": "Wonosunyo",
+      "postal_code": "67155"
+    },
+    {
+      "id": "35.14.12.2002",
+      "name": "Sumbersuko",
+      "postal_code": "67155"
+    },
+    {
+      "id": "35.14.12.2003",
+      "name": "Wonosari",
+      "postal_code": "67155"
+    },
+    {
+      "id": "35.14.12.2004",
+      "name": "Kepulungan",
+      "postal_code": "67155"
+    },
+    {
+      "id": "35.14.12.2005",
+      "name": "Randupitu",
+      "postal_code": "67155"
+    },
+    {
+      "id": "35.14.12.2006",
+      "name": "Ngerong",
+      "postal_code": "67155"
+    },
+    {
+      "id": "35.14.12.2007",
+      "name": "Karangrejo",
+      "postal_code": "67155"
+    },
+    {
+      "id": "35.14.12.2008",
+      "name": "Bulusari",
+      "postal_code": "67155"
+    },
+    {
+      "id": "35.14.12.2009",
+      "name": "Jeruk Purut",
+      "postal_code": "67155"
+    },
+    {
+      "id": "35.14.12.2010",
+      "name": "Watukosek",
+      "postal_code": "67155"
+    },
+    {
+      "id": "35.14.12.2011",
+      "name": "Carat",
+      "postal_code": "67155"
+    },
+    {
+      "id": "35.14.12.2012",
+      "name": "Kejapanan",
+      "postal_code": "67155"
+    },
+    {
+      "id": "35.14.12.2013",
+      "name": "Winong",
+      "postal_code": "67155"
+    },
+    {
+      "id": "35.14.12.2014",
+      "name": "Legok",
+      "postal_code": "67155"
+    },
+    {
+      "id": "35.14.12.2015",
+      "name": "Gempol",
+      "postal_code": "67155"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.12.04.2001",
+      "name": "Alas Bayur",
+      "postal_code": "68353"
+    },
+    {
+      "id": "35.12.04.2002",
+      "name": "Sumberanyar",
+      "postal_code": "68353"
+    },
+    {
+      "id": "35.12.04.2003",
+      "name": "Campoan",
+      "postal_code": "68353"
+    },
+    {
+      "id": "35.12.04.2004",
+      "name": "Trebungan",
+      "postal_code": "68353"
+    },
+    {
+      "id": "35.12.04.2005",
+      "name": "Sumber Pinang",
+      "postal_code": "68353"
+    },
+    {
+      "id": "35.12.04.2006",
+      "name": "Selomukti",
+      "postal_code": "68353"
+    },
+    {
+      "id": "35.12.04.2007",
+      "name": "Mlandingan Kulon",
+      "postal_code": "68353"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

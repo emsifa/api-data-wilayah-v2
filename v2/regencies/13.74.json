@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "13.74",
+    "name": "Kota Padang Panjang",
+    "capital": "Padangpanjang",
+    "lat": -0.4621189750496027,
+    "lng": 100.39039860910817,
+    "elv": 757,
+    "tz": 7,
+    "population": 63895,
+    "total_area": 23.56,
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "52.06.09.2001",
+      "name": "Piong",
+      "postal_code": "84191"
+    },
+    {
+      "id": "52.06.09.2002",
+      "name": "Boro",
+      "postal_code": "84191"
+    },
+    {
+      "id": "52.06.09.2003",
+      "name": "Kore",
+      "postal_code": "84191"
+    },
+    {
+      "id": "52.06.09.2004",
+      "name": "Taloko",
+      "postal_code": "84191"
+    },
+    {
+      "id": "52.06.09.2005",
+      "name": "Oi Saro",
+      "postal_code": "84191"
+    },
+    {
+      "id": "52.06.09.2006",
+      "name": "Sandue",
+      "postal_code": "84191"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

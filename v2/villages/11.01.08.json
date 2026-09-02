@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "11.01.08.2001",
+      "name": "Lhok Keutapang",
+      "postal_code": "23718"
+    },
+    {
+      "id": "11.01.08.2002",
+      "name": "Hilir",
+      "postal_code": "23717"
+    },
+    {
+      "id": "11.01.08.2003",
+      "name": "Padang",
+      "postal_code": "23713"
+    },
+    {
+      "id": "11.01.08.2004",
+      "name": "Hulu",
+      "postal_code": "23714"
+    },
+    {
+      "id": "11.01.08.2005",
+      "name": "Jambo Apha",
+      "postal_code": "23716"
+    },
+    {
+      "id": "11.01.08.2006",
+      "name": "Tepi Air",
+      "postal_code": "23712"
+    },
+    {
+      "id": "11.01.08.2007",
+      "name": "Pasar",
+      "postal_code": "23711"
+    },
+    {
+      "id": "11.01.08.2008",
+      "name": "Lhok Bengkuang",
+      "postal_code": "23715"
+    },
+    {
+      "id": "11.01.08.2009",
+      "name": "Panton Luas",
+      "postal_code": "23711"
+    },
+    {
+      "id": "11.01.08.2010",
+      "name": "Gunung Kerambil",
+      "postal_code": "23711"
+    },
+    {
+      "id": "11.01.08.2011",
+      "name": "Air Berudang",
+      "postal_code": "23711"
+    },
+    {
+      "id": "11.01.08.2012",
+      "name": "Batu Itam",
+      "postal_code": "23711"
+    },
+    {
+      "id": "11.01.08.2013",
+      "name": "Panjupian",
+      "postal_code": "23711"
+    },
+    {
+      "id": "11.01.08.2014",
+      "name": "Lhok Rukam",
+      "postal_code": "23711"
+    },
+    {
+      "id": "11.01.08.2015",
+      "name": "Air Pinang",
+      "postal_code": "23711"
+    },
+    {
+      "id": "11.01.08.2016",
+      "name": "Lhok Bengkuang Timur",
+      "postal_code": "23712"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

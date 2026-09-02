@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "73.06.09.1001",
+      "name": "Sapaya",
+      "postal_code": "92177"
+    },
+    {
+      "id": "73.06.09.1010",
+      "name": "Je'nebatu",
+      "postal_code": "92177"
+    },
+    {
+      "id": "73.06.09.2002",
+      "name": "Bontomanai",
+      "postal_code": "92177"
+    },
+    {
+      "id": "73.06.09.2003",
+      "name": "Buakkang",
+      "postal_code": "92177"
+    },
+    {
+      "id": "73.06.09.2004",
+      "name": "Bissoloro",
+      "postal_code": "92177"
+    },
+    {
+      "id": "73.06.09.2011",
+      "name": "Rannaloe",
+      "postal_code": "92177"
+    },
+    {
+      "id": "73.06.09.2012",
+      "name": "Mangempang",
+      "postal_code": "92177"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

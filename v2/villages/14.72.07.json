@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "14.72.07.1001",
+      "name": "Ratu Sima",
+      "postal_code": "28825"
+    },
+    {
+      "id": "14.72.07.1002",
+      "name": "Bukit Timah",
+      "postal_code": "28826"
+    },
+    {
+      "id": "14.72.07.1003",
+      "name": "Mekar Sari",
+      "postal_code": "28821"
+    },
+    {
+      "id": "14.72.07.1004",
+      "name": "Bukit Datuk",
+      "postal_code": "28825"
+    },
+    {
+      "id": "14.72.07.1005",
+      "name": "Bumi Ayu",
+      "postal_code": "28813"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

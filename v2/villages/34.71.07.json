@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "34.71.07.1001",
+      "name": "Pakuncen",
+      "postal_code": "55253"
+    },
+    {
+      "id": "34.71.07.1002",
+      "name": "Wirobrajan",
+      "postal_code": "55252"
+    },
+    {
+      "id": "34.71.07.1003",
+      "name": "Patangpuluhan",
+      "postal_code": "55251"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

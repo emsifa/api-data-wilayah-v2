@@ -1,18 +1,68 @@
 {
-  "data": {
-    "id": "18.05",
-    "name": "Kabupaten Tulang Bawang",
-    "province": {
-      "id": "18",
-      "name": "Lampung"
+  "data": [
+    {
+      "id": "18.05.02",
+      "name": "Menggala"
     },
-    "regency": {
-      "id": "18.05",
-      "name": "Kabupaten Tulang Bawang"
+    {
+      "id": "18.05.06",
+      "name": "Gedung Aji"
+    },
+    {
+      "id": "18.05.08",
+      "name": "Banjar Agung"
+    },
+    {
+      "id": "18.05.11",
+      "name": "Gedung Meneng"
+    },
+    {
+      "id": "18.05.12",
+      "name": "Rawa Jitu Selatan"
+    },
+    {
+      "id": "18.05.13",
+      "name": "Penawar Tama"
+    },
+    {
+      "id": "18.05.18",
+      "name": "Rawa Jitu Timur"
+    },
+    {
+      "id": "18.05.20",
+      "name": "Banjar Margo"
+    },
+    {
+      "id": "18.05.22",
+      "name": "Rawa Pitu"
+    },
+    {
+      "id": "18.05.23",
+      "name": "Penawar Aji"
+    },
+    {
+      "id": "18.05.25",
+      "name": "Dente Teladas"
+    },
+    {
+      "id": "18.05.26",
+      "name": "Meraksa Aji"
+    },
+    {
+      "id": "18.05.27",
+      "name": "Gedung Aji Baru"
+    },
+    {
+      "id": "18.05.29",
+      "name": "Banjar Baru"
+    },
+    {
+      "id": "18.05.30",
+      "name": "Menggala Timur"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

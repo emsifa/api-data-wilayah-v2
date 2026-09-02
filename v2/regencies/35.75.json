@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "35.75",
+    "name": "Kota Pasuruan",
+    "capital": "Pasuruan",
+    "lat": -7.647370692892007,
+    "lng": 112.90855041188624,
+    "elv": 11,
+    "tz": 7,
+    "population": 213469,
+    "total_area": 39.109,
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

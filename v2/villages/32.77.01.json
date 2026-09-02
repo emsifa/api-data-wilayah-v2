@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.77.01.1001",
+      "name": "Melong",
+      "postal_code": "40534"
+    },
+    {
+      "id": "32.77.01.1002",
+      "name": "Cibeureum",
+      "postal_code": "40535"
+    },
+    {
+      "id": "32.77.01.1003",
+      "name": "Utama",
+      "postal_code": "40533"
+    },
+    {
+      "id": "32.77.01.1004",
+      "name": "Leuwigajah",
+      "postal_code": "40532"
+    },
+    {
+      "id": "32.77.01.1005",
+      "name": "Cibeber",
+      "postal_code": "40531"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

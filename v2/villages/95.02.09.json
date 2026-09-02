@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "95.02.09.2001",
+      "name": "Pepera",
+      "postal_code": "99573"
+    },
+    {
+      "id": "95.02.09.2002",
+      "name": "Okbon",
+      "postal_code": "99417"
+    },
+    {
+      "id": "95.02.09.2003",
+      "name": "Yun Muku",
+      "postal_code": "99573"
+    },
+    {
+      "id": "95.02.09.2004",
+      "name": "Denom",
+      "postal_code": "99573"
+    },
+    {
+      "id": "95.02.09.2005",
+      "name": "Bon Yakwol",
+      "postal_code": "99573"
+    },
+    {
+      "id": "95.02.09.2006",
+      "name": "Ok Telabe",
+      "postal_code": "99417"
+    },
+    {
+      "id": "95.02.09.2007",
+      "name": "Wok Bakon",
+      "postal_code": "99417"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

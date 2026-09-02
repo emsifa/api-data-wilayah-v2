@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "12.14.26.2001",
+      "name": "Sifitubanua",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.26.2002",
+      "name": "Siwalu Banua",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.26.2003",
+      "name": "Sitolu Banua",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.26.2004",
+      "name": "Silima Banua",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.26.2005",
+      "name": "Mehaga",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.26.2006",
+      "name": "Sihare'o",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.26.2007",
+      "name": "Golambanua II",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.26.2008",
+      "name": "Oladano",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.26.2009",
+      "name": "Fanedanu",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.26.2010",
+      "name": "Hiliorahua Tasua",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.26.2011",
+      "name": "Somambawa",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.26.2012",
+      "name": "Gabungan Tasua",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.26.2013",
+      "name": "Hilialawa",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.26.2014",
+      "name": "Sinar Susua",
+      "postal_code": "22874"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

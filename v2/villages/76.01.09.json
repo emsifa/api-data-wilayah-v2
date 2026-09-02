@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "76.01.09.2001",
+      "name": "Malei",
+      "postal_code": "91570"
+    },
+    {
+      "id": "76.01.09.2002",
+      "name": "Pedanda",
+      "postal_code": "91570"
+    },
+    {
+      "id": "76.01.09.2003",
+      "name": "Batu Oge",
+      "postal_code": "91570"
+    },
+    {
+      "id": "76.01.09.2004",
+      "name": "Martasari",
+      "postal_code": "91570"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

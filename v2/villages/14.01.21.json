@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "14.01.21.2001",
+      "name": "Siberuang",
+      "postal_code": "28453"
+    },
+    {
+      "id": "14.01.21.2002",
+      "name": "Bandur Picak",
+      "postal_code": "28453"
+    },
+    {
+      "id": "14.01.21.2003",
+      "name": "Gunung Malelo",
+      "postal_code": "28453"
+    },
+    {
+      "id": "14.01.21.2004",
+      "name": "Tabing",
+      "postal_code": "28453"
+    },
+    {
+      "id": "14.01.21.2005",
+      "name": "Pongkai",
+      "postal_code": "28453"
+    },
+    {
+      "id": "14.01.21.2006",
+      "name": "Tanjung",
+      "postal_code": "28453"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

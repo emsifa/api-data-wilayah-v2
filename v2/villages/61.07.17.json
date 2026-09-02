@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "61.07.17.2001",
+      "name": "Sinar Tebudak",
+      "postal_code": "79250"
+    },
+    {
+      "id": "61.07.17.2002",
+      "name": "Kamuh",
+      "postal_code": "79250"
+    },
+    {
+      "id": "61.07.17.2003",
+      "name": "Bengkilu",
+      "postal_code": "79250"
+    },
+    {
+      "id": "61.07.17.2004",
+      "name": "Pisak",
+      "postal_code": "79250"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

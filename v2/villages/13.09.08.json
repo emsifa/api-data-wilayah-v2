@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "13.09.08.2001",
+      "name": "Betumonga",
+      "postal_code": "25398"
+    },
+    {
+      "id": "13.09.08.2002",
+      "name": "Goisooinan",
+      "postal_code": "25398"
+    },
+    {
+      "id": "13.09.08.2003",
+      "name": "Tuapejat",
+      "postal_code": "25398"
+    },
+    {
+      "id": "13.09.08.2004",
+      "name": "Sido Makmur",
+      "postal_code": "25398"
+    },
+    {
+      "id": "13.09.08.2005",
+      "name": "Bukit Pamewa",
+      "postal_code": "25398"
+    },
+    {
+      "id": "13.09.08.2006",
+      "name": "Sipora Jaya",
+      "postal_code": "25398"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

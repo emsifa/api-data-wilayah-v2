@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "96.71.06.1001",
+      "name": "Klaligi",
+      "postal_code": "98419"
+    },
+    {
+      "id": "96.71.06.1002",
+      "name": "Malawei",
+      "postal_code": "98419"
+    },
+    {
+      "id": "96.71.06.1003",
+      "name": "Malabutor",
+      "postal_code": "98419"
+    },
+    {
+      "id": "96.71.06.1004",
+      "name": "Remu Selatan",
+      "postal_code": "98419"
+    },
+    {
+      "id": "96.71.06.1005",
+      "name": "Klasabi",
+      "postal_code": "98419"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "53.04.04.2001",
+      "name": "Tukuneno",
+      "postal_code": "85753"
+    },
+    {
+      "id": "53.04.04.2002",
+      "name": "Naekasa",
+      "postal_code": "85753"
+    },
+    {
+      "id": "53.04.04.2003",
+      "name": "Lookeu",
+      "postal_code": "85753"
+    },
+    {
+      "id": "53.04.04.2004",
+      "name": "Derokfaturene",
+      "postal_code": "85753"
+    },
+    {
+      "id": "53.04.04.2005",
+      "name": "Bakustulama",
+      "postal_code": "85753"
+    },
+    {
+      "id": "53.04.04.2006",
+      "name": "Rinbesihat",
+      "postal_code": "85753"
+    },
+    {
+      "id": "53.04.04.2007",
+      "name": "Naitimu",
+      "postal_code": "85753"
+    },
+    {
+      "id": "53.04.04.2009",
+      "name": "Lawalutolus",
+      "postal_code": "85753"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

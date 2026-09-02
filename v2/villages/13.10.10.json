@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.10.10.2001",
+      "name": "Sungai Limau",
+      "postal_code": "27684"
+    },
+    {
+      "id": "13.10.10.2002",
+      "name": "Alahan Nan Tigo",
+      "postal_code": "27684"
+    },
+    {
+      "id": "13.10.10.2003",
+      "name": "Lubuk Besar",
+      "postal_code": "27684"
+    },
+    {
+      "id": "13.10.10.2004",
+      "name": "Tanjung Alam",
+      "postal_code": "27684"
+    },
+    {
+      "id": "13.10.10.2005",
+      "name": "Sinamar",
+      "postal_code": "27684"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,18 +1,76 @@
 {
-  "data": {
-    "id": "33.13",
-    "name": "Kabupaten Karanganyar",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
+  "data": [
+    {
+      "id": "33.13.01",
+      "name": "Jatipuro"
     },
-    "regency": {
-      "id": "33.13",
-      "name": "Kabupaten Karanganyar"
+    {
+      "id": "33.13.02",
+      "name": "Jatiyoso"
+    },
+    {
+      "id": "33.13.03",
+      "name": "Jumapolo"
+    },
+    {
+      "id": "33.13.04",
+      "name": "Jumantono"
+    },
+    {
+      "id": "33.13.05",
+      "name": "Matesih"
+    },
+    {
+      "id": "33.13.06",
+      "name": "Tawangmangu"
+    },
+    {
+      "id": "33.13.07",
+      "name": "Ngargoyoso"
+    },
+    {
+      "id": "33.13.08",
+      "name": "Karangpandan"
+    },
+    {
+      "id": "33.13.09",
+      "name": "Karanganyar"
+    },
+    {
+      "id": "33.13.10",
+      "name": "Tasikmadu"
+    },
+    {
+      "id": "33.13.11",
+      "name": "Jaten"
+    },
+    {
+      "id": "33.13.12",
+      "name": "Colomadu"
+    },
+    {
+      "id": "33.13.13",
+      "name": "Gondangrejo"
+    },
+    {
+      "id": "33.13.14",
+      "name": "Kebakkramat"
+    },
+    {
+      "id": "33.13.15",
+      "name": "Mojogedang"
+    },
+    {
+      "id": "33.13.16",
+      "name": "Kerjo"
+    },
+    {
+      "id": "33.13.17",
+      "name": "Jenawi"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

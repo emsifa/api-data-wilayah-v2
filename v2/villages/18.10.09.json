@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "18.10.09.2001",
+      "name": "Fajar Baru",
+      "postal_code": "35370"
+    },
+    {
+      "id": "18.10.09.2002",
+      "name": "Kemilin",
+      "postal_code": "35370"
+    },
+    {
+      "id": "18.10.09.2003",
+      "name": "Neglasari",
+      "postal_code": "35370"
+    },
+    {
+      "id": "18.10.09.2004",
+      "name": "Fajar Mulia",
+      "postal_code": "35370"
+    },
+    {
+      "id": "18.10.09.2005",
+      "name": "Margosari",
+      "postal_code": "35370"
+    },
+    {
+      "id": "18.10.09.2006",
+      "name": "Giri Tunggal",
+      "postal_code": "35370"
+    },
+    {
+      "id": "18.10.09.2007",
+      "name": "Sumber Bandung",
+      "postal_code": "35370"
+    },
+    {
+      "id": "18.10.09.2008",
+      "name": "Madaraya",
+      "postal_code": "35370"
+    },
+    {
+      "id": "18.10.09.2009",
+      "name": "Way Kunir",
+      "postal_code": "35370"
+    },
+    {
+      "id": "18.10.09.2010",
+      "name": "Gunung Raya",
+      "postal_code": "35370"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,18 +1,24 @@
 {
-  "data": {
-    "id": "13.73",
-    "name": "Kota Sawahlunto",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
+  "data": [
+    {
+      "id": "13.73.01",
+      "name": "Lembah Segar"
     },
-    "regency": {
-      "id": "13.73",
-      "name": "Kota Sawahlunto"
+    {
+      "id": "13.73.02",
+      "name": "Barangin"
+    },
+    {
+      "id": "13.73.03",
+      "name": "Silungkang"
+    },
+    {
+      "id": "13.73.04",
+      "name": "Talawi"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

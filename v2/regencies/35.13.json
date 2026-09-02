@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "35.13",
+    "name": "Kabupaten Probolinggo",
+    "capital": "Kraksaan",
+    "lat": -7.761818744749144,
+    "lng": 113.41597252537957,
+    "elv": 9,
+    "tz": 7,
+    "population": 1200931,
+    "total_area": 1725.171,
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

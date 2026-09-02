@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.21.13.2001",
+      "name": "Sambirejo",
+      "postal_code": "63260"
+    },
+    {
+      "id": "35.21.13.2002",
+      "name": "Mantingan",
+      "postal_code": "63260"
+    },
+    {
+      "id": "35.21.13.2003",
+      "name": "Kedungharjo",
+      "postal_code": "63260"
+    },
+    {
+      "id": "35.21.13.2004",
+      "name": "Pakah",
+      "postal_code": "63260"
+    },
+    {
+      "id": "35.21.13.2005",
+      "name": "Tambakboyo",
+      "postal_code": "63260"
+    },
+    {
+      "id": "35.21.13.2006",
+      "name": "Pengkol",
+      "postal_code": "63260"
+    },
+    {
+      "id": "35.21.13.2007",
+      "name": "Jatimulyo",
+      "postal_code": "63260"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

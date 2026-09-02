@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.18.35.1001",
+      "name": "Malimbong",
+      "postal_code": "91861"
+    },
+    {
+      "id": "73.18.35.2002",
+      "name": "Leppan",
+      "postal_code": "91861"
+    },
+    {
+      "id": "73.18.35.2003",
+      "name": "Kole Sawangan",
+      "postal_code": "91861"
+    },
+    {
+      "id": "73.18.35.2004",
+      "name": "Kole Barebatu",
+      "postal_code": "91861"
+    },
+    {
+      "id": "73.18.35.2005",
+      "name": "Lemo Menduruk",
+      "postal_code": "91861"
+    },
+    {
+      "id": "73.18.35.2006",
+      "name": "Balepe'",
+      "postal_code": "91861"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

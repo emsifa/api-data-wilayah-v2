@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "12.01.09.1001",
+      "name": "Sosor Gadong",
+      "postal_code": "22568"
+    },
+    {
+      "id": "12.01.09.2002",
+      "name": "Unte Boang",
+      "postal_code": "22568"
+    },
+    {
+      "id": "12.01.09.2003",
+      "name": "Sibintang",
+      "postal_code": "22568"
+    },
+    {
+      "id": "12.01.09.2004",
+      "name": "Barambang",
+      "postal_code": "22568"
+    },
+    {
+      "id": "12.01.09.2005",
+      "name": "Siantar Ca",
+      "postal_code": "22568"
+    },
+    {
+      "id": "12.01.09.2006",
+      "name": "Muara Bolak",
+      "postal_code": "22568"
+    },
+    {
+      "id": "12.01.09.2007",
+      "name": "Huta Tombak",
+      "postal_code": "22568"
+    },
+    {
+      "id": "12.01.09.2008",
+      "name": "Siantar Dolok",
+      "postal_code": "22568"
+    },
+    {
+      "id": "12.01.09.2009",
+      "name": "Baringin",
+      "postal_code": "22568"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

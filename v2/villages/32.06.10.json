@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.06.10.2001",
+      "name": "Cikuya",
+      "postal_code": "46188"
+    },
+    {
+      "id": "32.06.10.2002",
+      "name": "Cintabodas",
+      "postal_code": "46188"
+    },
+    {
+      "id": "32.06.10.2003",
+      "name": "Cipicung",
+      "postal_code": "46188"
+    },
+    {
+      "id": "32.06.10.2004",
+      "name": "Bojongsari",
+      "postal_code": "46188"
+    },
+    {
+      "id": "32.06.10.2005",
+      "name": "Mekarlaksana",
+      "postal_code": "46188"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "35.78.17.1001",
+      "name": "Tanah Kali Kedinding",
+      "postal_code": "60129"
+    },
+    {
+      "id": "35.78.17.1002",
+      "name": "Sidotopo Wetan",
+      "postal_code": "60128"
+    },
+    {
+      "id": "35.78.17.1003",
+      "name": "Bulak Banteng",
+      "postal_code": "60127"
+    },
+    {
+      "id": "35.78.17.1004",
+      "name": "Tambak Wedi",
+      "postal_code": "60126"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

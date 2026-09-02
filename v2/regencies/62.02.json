@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "62.02",
+    "name": "Kabupaten Kotawaringin Timur",
+    "capital": "Sampit",
+    "lat": -2.537536373508974,
+    "lng": 112.94101118060833,
+    "elv": 8,
+    "tz": 7,
+    "population": 454515,
+    "total_area": 15541.88,
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

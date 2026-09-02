@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "21.71.01.1002",
+      "name": "Pemping",
+      "postal_code": "29412"
+    },
+    {
+      "id": "21.71.01.1003",
+      "name": "Kasu",
+      "postal_code": "29413"
+    },
+    {
+      "id": "21.71.01.1004",
+      "name": "Pulau Terung",
+      "postal_code": "29416"
+    },
+    {
+      "id": "21.71.01.1005",
+      "name": "Pecong",
+      "postal_code": "29414"
+    },
+    {
+      "id": "21.71.01.1006",
+      "name": "Tanjung Sari",
+      "postal_code": "29416"
+    },
+    {
+      "id": "21.71.01.1007",
+      "name": "Sekanak Raya",
+      "postal_code": "29416"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

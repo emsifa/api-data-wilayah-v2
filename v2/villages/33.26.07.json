@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "33.26.07.2001",
+      "name": "Gutomo",
+      "postal_code": "51182"
+    },
+    {
+      "id": "33.26.07.2002",
+      "name": "Limbangan",
+      "postal_code": "51182"
+    },
+    {
+      "id": "33.26.07.2003",
+      "name": "Karanggondang",
+      "postal_code": "51182"
+    },
+    {
+      "id": "33.26.07.2004",
+      "name": "Lolong",
+      "postal_code": "51182"
+    },
+    {
+      "id": "33.26.07.2005",
+      "name": "Pedawang",
+      "postal_code": "51182"
+    },
+    {
+      "id": "33.26.07.2006",
+      "name": "Pododadi",
+      "postal_code": "51182"
+    },
+    {
+      "id": "33.26.07.2007",
+      "name": "Legokalong",
+      "postal_code": "51182"
+    },
+    {
+      "id": "33.26.07.2008",
+      "name": "Karangsari",
+      "postal_code": "51182"
+    },
+    {
+      "id": "33.26.07.2009",
+      "name": "Kulu",
+      "postal_code": "51182"
+    },
+    {
+      "id": "33.26.07.2010",
+      "name": "Banjarejo",
+      "postal_code": "51182"
+    },
+    {
+      "id": "33.26.07.2011",
+      "name": "Wonosari",
+      "postal_code": "51182"
+    },
+    {
+      "id": "33.26.07.2012",
+      "name": "Sokosari",
+      "postal_code": "51182"
+    },
+    {
+      "id": "33.26.07.2013",
+      "name": "Sidomukti",
+      "postal_code": "51182"
+    },
+    {
+      "id": "33.26.07.2014",
+      "name": "Kayugeritan",
+      "postal_code": "51182"
+    },
+    {
+      "id": "33.26.07.2015",
+      "name": "Kutosari",
+      "postal_code": "51182"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

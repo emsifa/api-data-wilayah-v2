@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "53.11.17.2001",
+      "name": "Lukuwingir",
+      "postal_code": "87116"
+    },
+    {
+      "id": "53.11.17.2002",
+      "name": "Waimbidi",
+      "postal_code": "87171"
+    },
+    {
+      "id": "53.11.17.2003",
+      "name": "Laimeta",
+      "postal_code": "87171"
+    },
+    {
+      "id": "53.11.17.2004",
+      "name": "Mahubokul",
+      "postal_code": "87171"
+    },
+    {
+      "id": "53.11.17.2005",
+      "name": "Marada Mundi",
+      "postal_code": "87171"
+    },
+    {
+      "id": "53.11.17.2006",
+      "name": "Maidang",
+      "postal_code": "87171"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

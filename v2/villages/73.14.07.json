@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "73.14.07.1001",
+      "name": "Pangkajene",
+      "postal_code": "91611"
+    },
+    {
+      "id": "73.14.07.1002",
+      "name": "Lautang Benteng",
+      "postal_code": "91611"
+    },
+    {
+      "id": "73.14.07.1003",
+      "name": "Majjelling",
+      "postal_code": "91611"
+    },
+    {
+      "id": "73.14.07.1004",
+      "name": "Wala",
+      "postal_code": "91611"
+    },
+    {
+      "id": "73.14.07.1005",
+      "name": "Lakessi",
+      "postal_code": "91611"
+    },
+    {
+      "id": "73.14.07.1006",
+      "name": "Rijang Pittu",
+      "postal_code": "91611"
+    },
+    {
+      "id": "73.14.07.1007",
+      "name": "Majjelling Watang",
+      "postal_code": "91611"
+    },
+    {
+      "id": "73.14.07.2008",
+      "name": "Sereang",
+      "postal_code": "91615"
+    },
+    {
+      "id": "73.14.07.2009",
+      "name": "Kanie",
+      "postal_code": "91611"
+    },
+    {
+      "id": "73.14.07.2010",
+      "name": "Allakuang",
+      "postal_code": "91611"
+    },
+    {
+      "id": "73.14.07.2011",
+      "name": "Tanete",
+      "postal_code": "91611"
+    },
+    {
+      "id": "73.14.07.2012",
+      "name": "Takkalasi",
+      "postal_code": "91611"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

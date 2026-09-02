@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "94.06.05",
+    "name": "Sukikai Selatan",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.06",
+      "name": "Kabupaten Dogiyai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

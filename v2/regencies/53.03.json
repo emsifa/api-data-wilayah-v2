@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "53.03",
+    "name": "Kabupaten Timor Tengah Utara",
+    "capital": "Kefamenanu",
+    "lat": -9.456934944114428,
+    "lng": 124.47508769420945,
+    "elv": 394,
+    "tz": 8,
+    "population": 276032,
+    "total_area": 2622.293,
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

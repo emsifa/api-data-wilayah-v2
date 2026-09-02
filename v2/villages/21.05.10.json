@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "21.05.10.2001",
+      "name": "Payalaman",
+      "postal_code": "29796"
+    },
+    {
+      "id": "21.05.10.2002",
+      "name": "Payamaram",
+      "postal_code": "29796"
+    },
+    {
+      "id": "21.05.10.2003",
+      "name": "Batu Ampar",
+      "postal_code": "29796"
+    },
+    {
+      "id": "21.05.10.2004",
+      "name": "Matak",
+      "postal_code": "29796"
+    },
+    {
+      "id": "21.05.10.2005",
+      "name": "Teluk Bayur",
+      "postal_code": "29796"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

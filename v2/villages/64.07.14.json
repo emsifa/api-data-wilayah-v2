@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "64.07.14.2001",
+      "name": "Randa Empas",
+      "postal_code": "75778"
+    },
+    {
+      "id": "64.07.14.2002",
+      "name": "Tukuq",
+      "postal_code": "75778"
+    },
+    {
+      "id": "64.07.14.2003",
+      "name": "Tende",
+      "postal_code": "75778"
+    },
+    {
+      "id": "64.07.14.2004",
+      "name": "Sambung",
+      "postal_code": "75778"
+    },
+    {
+      "id": "64.07.14.2005",
+      "name": "Anan Jaya",
+      "postal_code": "75778"
+    },
+    {
+      "id": "64.07.14.2006",
+      "name": "Jelmu Sibak",
+      "postal_code": "75778"
+    },
+    {
+      "id": "64.07.14.2007",
+      "name": "Suakong",
+      "postal_code": "75778"
+    },
+    {
+      "id": "64.07.14.2008",
+      "name": "Penarung",
+      "postal_code": "75778"
+    },
+    {
+      "id": "64.07.14.2009",
+      "name": "Dilang Puti",
+      "postal_code": "75778"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

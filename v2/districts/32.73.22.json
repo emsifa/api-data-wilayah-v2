@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "32.73.22",
+    "name": "Buahbatu",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.73",
+      "name": "Kota Bandung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

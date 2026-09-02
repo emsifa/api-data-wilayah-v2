@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "13.76.05.1001",
+      "name": "Padang Karambia",
+      "postal_code": "26227"
+    },
+    {
+      "id": "13.76.05.1002",
+      "name": "Kototuo Limokampuang",
+      "postal_code": "26226"
+    },
+    {
+      "id": "13.76.05.1003",
+      "name": "Limbukan",
+      "postal_code": "26227"
+    },
+    {
+      "id": "13.76.05.1005",
+      "name": "Balai Panjang",
+      "postal_code": "26226"
+    },
+    {
+      "id": "13.76.05.1006",
+      "name": "Kapalo Koto Ampangan",
+      "postal_code": "26228"
+    },
+    {
+      "id": "13.76.05.1010",
+      "name": "Sawahpadang Aua Kuniang",
+      "postal_code": "26228"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

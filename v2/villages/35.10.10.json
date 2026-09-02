@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.10.10.2001",
+      "name": "Tegalharjo",
+      "postal_code": "68466"
+    },
+    {
+      "id": "35.10.10.2002",
+      "name": "Sepanjang",
+      "postal_code": "68466"
+    },
+    {
+      "id": "35.10.10.2003",
+      "name": "Karangharjo",
+      "postal_code": "68466"
+    },
+    {
+      "id": "35.10.10.2004",
+      "name": "Tulungrejo",
+      "postal_code": "68466"
+    },
+    {
+      "id": "35.10.10.2005",
+      "name": "Sumbergondo",
+      "postal_code": "68466"
+    },
+    {
+      "id": "35.10.10.2006",
+      "name": "Bumiharjo",
+      "postal_code": "68466"
+    },
+    {
+      "id": "35.10.10.2007",
+      "name": "Margomulyo",
+      "postal_code": "68466"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "52.04.11.2002",
+      "name": "Lebin",
+      "postal_code": "84375"
+    },
+    {
+      "id": "52.04.11.2003",
+      "name": "Lebangkar",
+      "postal_code": "84375"
+    },
+    {
+      "id": "52.04.11.2008",
+      "name": "Ropang",
+      "postal_code": "84375"
+    },
+    {
+      "id": "52.04.11.2009",
+      "name": "Lawin",
+      "postal_code": "84375"
+    },
+    {
+      "id": "52.04.11.2010",
+      "name": "Ranan",
+      "postal_code": "84375"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

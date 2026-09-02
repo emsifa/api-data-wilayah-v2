@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "76.01.02.1001",
+      "name": "Pasangkayu",
+      "postal_code": "91571"
+    },
+    {
+      "id": "76.01.02.1002",
+      "name": "Martajaya",
+      "postal_code": "91571"
+    },
+    {
+      "id": "76.01.02.2010",
+      "name": "Pakava",
+      "postal_code": "91571"
+    },
+    {
+      "id": "76.01.02.2014",
+      "name": "Karya Bersama",
+      "postal_code": "91571"
+    },
+    {
+      "id": "76.01.02.2015",
+      "name": "Ako",
+      "postal_code": "91571"
+    },
+    {
+      "id": "76.01.02.2016",
+      "name": "Gunung Sari",
+      "postal_code": "91571"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

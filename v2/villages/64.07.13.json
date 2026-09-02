@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "64.07.13.2001",
+      "name": "Loa Deras",
+      "postal_code": "75763"
+    },
+    {
+      "id": "64.07.13.2002",
+      "name": "Minta",
+      "postal_code": "75763"
+    },
+    {
+      "id": "64.07.13.2003",
+      "name": "Tanjung Haur",
+      "postal_code": "75763"
+    },
+    {
+      "id": "64.07.13.2004",
+      "name": "Penyinggahan Ilir",
+      "postal_code": "75763"
+    },
+    {
+      "id": "64.07.13.2005",
+      "name": "Penyinggahan Ulu",
+      "postal_code": "75763"
+    },
+    {
+      "id": "64.07.13.2006",
+      "name": "Bakung",
+      "postal_code": "75763"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

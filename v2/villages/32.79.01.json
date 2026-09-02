@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.79.01.1001",
+      "name": "Banjar",
+      "postal_code": "46311"
+    },
+    {
+      "id": "32.79.01.1002",
+      "name": "Mekarsari",
+      "postal_code": "46321"
+    },
+    {
+      "id": "32.79.01.1006",
+      "name": "Situbatu",
+      "postal_code": "46314"
+    },
+    {
+      "id": "32.79.01.2003",
+      "name": "Balokang",
+      "postal_code": "46312"
+    },
+    {
+      "id": "32.79.01.2004",
+      "name": "Cibeureum",
+      "postal_code": "46313"
+    },
+    {
+      "id": "32.79.01.2005",
+      "name": "Neglasari",
+      "postal_code": "46315"
+    },
+    {
+      "id": "32.79.01.2007",
+      "name": "Jajawar",
+      "postal_code": "46317"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

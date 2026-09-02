@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "53.08.02",
+    "name": "Pulau Ende",
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    },
+    "regency": {
+      "id": "53.08",
+      "name": "Kabupaten Ende"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "36.74.01.1001",
+      "name": "Ciater",
+      "postal_code": "15310"
+    },
+    {
+      "id": "36.74.01.1002",
+      "name": "Rawabuntu",
+      "postal_code": "15318"
+    },
+    {
+      "id": "36.74.01.1003",
+      "name": "Rawa Mekar Jaya",
+      "postal_code": "15310"
+    },
+    {
+      "id": "36.74.01.1004",
+      "name": "Lengkong Gudang",
+      "postal_code": "15321"
+    },
+    {
+      "id": "36.74.01.1005",
+      "name": "Lengkong Wetan",
+      "postal_code": "15322"
+    },
+    {
+      "id": "36.74.01.1006",
+      "name": "Buaran",
+      "postal_code": "15310"
+    },
+    {
+      "id": "36.74.01.1007",
+      "name": "Lengkong Gudang Timur",
+      "postal_code": "15321"
+    },
+    {
+      "id": "36.74.01.1008",
+      "name": "Cilenggang",
+      "postal_code": "15310"
+    },
+    {
+      "id": "36.74.01.1009",
+      "name": "Serpong",
+      "postal_code": "15311"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

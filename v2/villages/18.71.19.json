@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "18.71.19.1001",
+      "name": "Kota Karang",
+      "postal_code": "35231"
+    },
+    {
+      "id": "18.71.19.1002",
+      "name": "Kota Karang Raya",
+      "postal_code": "35231"
+    },
+    {
+      "id": "18.71.19.1003",
+      "name": "Parwata",
+      "postal_code": "35237"
+    },
+    {
+      "id": "18.71.19.1004",
+      "name": "Keteguhan",
+      "postal_code": "35235"
+    },
+    {
+      "id": "18.71.19.1005",
+      "name": "Sukamaju",
+      "postal_code": "35236"
+    },
+    {
+      "id": "18.71.19.1006",
+      "name": "Way Tataan",
+      "postal_code": "35236"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

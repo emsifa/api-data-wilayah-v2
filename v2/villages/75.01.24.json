@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "75.01.24.2001",
+      "name": "Pilolalenga",
+      "postal_code": "96241"
+    },
+    {
+      "id": "75.01.24.2002",
+      "name": "Kaliyoso",
+      "postal_code": "96241"
+    },
+    {
+      "id": "75.01.24.2003",
+      "name": "Dungaliyo",
+      "postal_code": "96241"
+    },
+    {
+      "id": "75.01.24.2004",
+      "name": "Ambara",
+      "postal_code": "96241"
+    },
+    {
+      "id": "75.01.24.2005",
+      "name": "Bongomeme",
+      "postal_code": "96241"
+    },
+    {
+      "id": "75.01.24.2006",
+      "name": "Duwanga",
+      "postal_code": "96241"
+    },
+    {
+      "id": "75.01.24.2007",
+      "name": "Ayuhula",
+      "postal_code": "96241"
+    },
+    {
+      "id": "75.01.24.2008",
+      "name": "Pangadaa",
+      "postal_code": "96241"
+    },
+    {
+      "id": "75.01.24.2009",
+      "name": "Botubulowe",
+      "postal_code": "96241"
+    },
+    {
+      "id": "75.01.24.2010",
+      "name": "Momala",
+      "postal_code": "96241"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "16.10.15.2001",
+      "name": "Ulak Kembahang",
+      "postal_code": "30868"
+    },
+    {
+      "id": "16.10.15.2002",
+      "name": "Lubuk Keliat",
+      "postal_code": "30868"
+    },
+    {
+      "id": "16.10.15.2003",
+      "name": "Embacang",
+      "postal_code": "30868"
+    },
+    {
+      "id": "16.10.15.2004",
+      "name": "Kasih Raja",
+      "postal_code": "30868"
+    },
+    {
+      "id": "16.10.15.2005",
+      "name": "Talang Tengah Darat",
+      "postal_code": "30868"
+    },
+    {
+      "id": "16.10.15.2006",
+      "name": "Betung II",
+      "postal_code": "30868"
+    },
+    {
+      "id": "16.10.15.2007",
+      "name": "Ketiau",
+      "postal_code": "30868"
+    },
+    {
+      "id": "16.10.15.2008",
+      "name": "Payalingkung",
+      "postal_code": "30868"
+    },
+    {
+      "id": "16.10.15.2009",
+      "name": "Betung I",
+      "postal_code": "30868"
+    },
+    {
+      "id": "16.10.15.2010",
+      "name": "Talang Tengah Laut",
+      "postal_code": "30868"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "91.20.08.2001",
+      "name": "Poiwai",
+      "postal_code": "98682"
+    },
+    {
+      "id": "91.20.08.2002",
+      "name": "Tamakuri",
+      "postal_code": "98682"
+    },
+    {
+      "id": "91.20.08.2003",
+      "name": "Bonoi",
+      "postal_code": "98682"
+    },
+    {
+      "id": "91.20.08.2004",
+      "name": "Sorabi",
+      "postal_code": "98682"
+    },
+    {
+      "id": "91.20.08.2005",
+      "name": "Rapamerei",
+      "postal_code": "98682"
+    },
+    {
+      "id": "91.20.08.2006",
+      "name": "Anasi",
+      "postal_code": "98682"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

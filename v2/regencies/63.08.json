@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "63.08",
+    "name": "Kabupaten Hulu Sungai Utara",
+    "capital": "Amuntai",
+    "lat": -2.4188734176622435,
+    "lng": 115.254335243741,
+    "elv": 14,
+    "tz": 8,
+    "population": 238250,
+    "total_area": 907.491,
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

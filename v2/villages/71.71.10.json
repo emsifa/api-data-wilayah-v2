@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "71.71.10.1001",
+      "name": "Bunaken",
+      "postal_code": "95246"
+    },
+    {
+      "id": "71.71.10.1002",
+      "name": "Manado Tua Satu",
+      "postal_code": "95231"
+    },
+    {
+      "id": "71.71.10.1003",
+      "name": "Manado Tua Dua",
+      "postal_code": "95231"
+    },
+    {
+      "id": "71.71.10.1004",
+      "name": "Alung Banua",
+      "postal_code": "95231"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

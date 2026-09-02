@@ -1,18 +1,24 @@
 {
-  "data": {
-    "id": "32.79",
-    "name": "Kota Banjar",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
+  "data": [
+    {
+      "id": "32.79.01",
+      "name": "Banjar"
     },
-    "regency": {
-      "id": "32.79",
-      "name": "Kota Banjar"
+    {
+      "id": "32.79.02",
+      "name": "Pataruman"
+    },
+    {
+      "id": "32.79.03",
+      "name": "Purwaharja"
+    },
+    {
+      "id": "32.79.04",
+      "name": "Langensari"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "96.04.08.2001",
+      "name": "Mega",
+      "postal_code": "98447"
+    },
+    {
+      "id": "96.04.08.2002",
+      "name": "Selewok",
+      "postal_code": "98447"
+    },
+    {
+      "id": "96.04.08.2003",
+      "name": "Malaworsai",
+      "postal_code": "98447"
+    },
+    {
+      "id": "96.04.08.2004",
+      "name": "Kwade",
+      "postal_code": "98447"
+    },
+    {
+      "id": "96.04.08.2005",
+      "name": "Bonem",
+      "postal_code": "98447"
+    },
+    {
+      "id": "96.04.08.2006",
+      "name": "Warafor",
+      "postal_code": "98447"
+    },
+    {
+      "id": "96.04.08.2007",
+      "name": "Warmasi",
+      "postal_code": "98447"
+    },
+    {
+      "id": "96.04.08.2008",
+      "name": "Warmanen",
+      "postal_code": "98447"
+    },
+    {
+      "id": "96.04.08.2009",
+      "name": "Namuas",
+      "postal_code": "98447"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

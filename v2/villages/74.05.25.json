@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "74.05.25.2001",
+      "name": "Papawu",
+      "postal_code": "93813"
+    },
+    {
+      "id": "74.05.25.2002",
+      "name": "Anese",
+      "postal_code": "93813"
+    },
+    {
+      "id": "74.05.25.2003",
+      "name": "Bekenggasu",
+      "postal_code": "93819"
+    },
+    {
+      "id": "74.05.25.2004",
+      "name": "Watumokala",
+      "postal_code": "93819"
+    },
+    {
+      "id": "74.05.25.2005",
+      "name": "Mataupe",
+      "postal_code": "93818"
+    },
+    {
+      "id": "74.05.25.2006",
+      "name": "Bimamaroa",
+      "postal_code": "93819"
+    },
+    {
+      "id": "74.05.25.2007",
+      "name": "Wawobende",
+      "postal_code": "93818"
+    },
+    {
+      "id": "74.05.25.2008",
+      "name": "Lapoa Indah",
+      "postal_code": "93818"
+    },
+    {
+      "id": "74.05.25.2009",
+      "name": "Puundoho",
+      "postal_code": "93819"
+    },
+    {
+      "id": "74.05.25.2010",
+      "name": "Mataiwoi",
+      "postal_code": "93819"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

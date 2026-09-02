@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "73.71.08.1002",
+      "name": "Tabaringan",
+      "postal_code": "90165"
+    },
+    {
+      "id": "73.71.08.1003",
+      "name": "Patingalloang",
+      "postal_code": "90161"
+    },
+    {
+      "id": "73.71.08.1004",
+      "name": "Gusung",
+      "postal_code": "90163"
+    },
+    {
+      "id": "73.71.08.1005",
+      "name": "Cambaya",
+      "postal_code": "90162"
+    },
+    {
+      "id": "73.71.08.1006",
+      "name": "Ujung Tanah",
+      "postal_code": "90164"
+    },
+    {
+      "id": "73.71.08.1009",
+      "name": "Totaka",
+      "postal_code": "90165"
+    },
+    {
+      "id": "73.71.08.1010",
+      "name": "Tamalabba",
+      "postal_code": "90164"
+    },
+    {
+      "id": "73.71.08.1011",
+      "name": "Camba Berua",
+      "postal_code": "90162"
+    },
+    {
+      "id": "73.71.08.1012",
+      "name": "Patingalloang Baru",
+      "postal_code": "90161"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

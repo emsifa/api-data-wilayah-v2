@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "12.12.22.2001",
+      "name": "Lintong Nihuta",
+      "postal_code": "22312"
+    },
+    {
+      "id": "12.12.22.2002",
+      "name": "Tarabunga",
+      "postal_code": "22312"
+    },
+    {
+      "id": "12.12.22.2003",
+      "name": "Meat",
+      "postal_code": "22312"
+    },
+    {
+      "id": "12.12.22.2004",
+      "name": "Gurgur Aek Raja",
+      "postal_code": "22312"
+    },
+    {
+      "id": "12.12.22.2005",
+      "name": "Tangga Batu Barat",
+      "postal_code": "22312"
+    },
+    {
+      "id": "12.12.22.2006",
+      "name": "Tangga Batu Timur",
+      "postal_code": "22312"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

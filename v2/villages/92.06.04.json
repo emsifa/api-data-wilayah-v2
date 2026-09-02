@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "92.06.04.2001",
+      "name": "Aranday",
+      "postal_code": "98151"
+    },
+    {
+      "id": "92.06.04.2007",
+      "name": "Kampung Baru",
+      "postal_code": "98151"
+    },
+    {
+      "id": "92.06.04.2008",
+      "name": "Kecap",
+      "postal_code": "98151"
+    },
+    {
+      "id": "92.06.04.2009",
+      "name": "Manunggal Karya",
+      "postal_code": "98151"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

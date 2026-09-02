@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "81.06.05.2001",
+      "name": "Tihulale",
+      "postal_code": "97563"
+    },
+    {
+      "id": "81.06.05.2002",
+      "name": "Rumahkay",
+      "postal_code": "97563"
+    },
+    {
+      "id": "81.06.05.2003",
+      "name": "Latu",
+      "postal_code": "97563"
+    },
+    {
+      "id": "81.06.05.2004",
+      "name": "Tomalehu",
+      "postal_code": "97563"
+    },
+    {
+      "id": "81.06.05.2005",
+      "name": "Hualoy",
+      "postal_code": "97563"
+    },
+    {
+      "id": "81.06.05.2006",
+      "name": "Seriholo",
+      "postal_code": "97563"
+    },
+    {
+      "id": "81.06.05.2007",
+      "name": "Tala",
+      "postal_code": "97563"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

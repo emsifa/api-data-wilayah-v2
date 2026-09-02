@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "71.72.03.1001",
+      "name": "Karondoran",
+      "postal_code": "95536"
+    },
+    {
+      "id": "71.72.03.1002",
+      "name": "Kumeresot",
+      "postal_code": "95538"
+    },
+    {
+      "id": "71.72.03.1004",
+      "name": "Pinokalan",
+      "postal_code": "95531"
+    },
+    {
+      "id": "71.72.03.1005",
+      "name": "Tewaan",
+      "postal_code": "95532"
+    },
+    {
+      "id": "71.72.03.1006",
+      "name": "Danowudu",
+      "postal_code": "95533"
+    },
+    {
+      "id": "71.72.03.1007",
+      "name": "Duasadara",
+      "postal_code": "95531"
+    },
+    {
+      "id": "71.72.03.1008",
+      "name": "Apela Dua",
+      "postal_code": "95537"
+    },
+    {
+      "id": "71.72.03.1009",
+      "name": "Apela Satu",
+      "postal_code": "95537"
+    },
+    {
+      "id": "71.72.03.1010",
+      "name": "Pinasungkulan",
+      "postal_code": "95535"
+    },
+    {
+      "id": "71.72.03.1011",
+      "name": "Batuputih Atas",
+      "postal_code": "95535"
+    },
+    {
+      "id": "71.72.03.1012",
+      "name": "Batuputih Bawah",
+      "postal_code": "95535"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

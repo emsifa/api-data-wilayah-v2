@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "id": "64.09.01.1001",
+      "name": "Tanjung Tengah",
+      "postal_code": "76143"
+    },
+    {
+      "id": "64.09.01.1002",
+      "name": "Salo Loang",
+      "postal_code": "76143"
+    },
+    {
+      "id": "64.09.01.1003",
+      "name": "Petung",
+      "postal_code": "76144"
+    },
+    {
+      "id": "64.09.01.1004",
+      "name": "Lawe-lawe",
+      "postal_code": "76142"
+    },
+    {
+      "id": "64.09.01.1005",
+      "name": "Pejala",
+      "postal_code": "76143"
+    },
+    {
+      "id": "64.09.01.1006",
+      "name": "Kampung Baru",
+      "postal_code": "76143"
+    },
+    {
+      "id": "64.09.01.1007",
+      "name": "Sesumpu",
+      "postal_code": "76142"
+    },
+    {
+      "id": "64.09.01.1008",
+      "name": "Sungai Parit",
+      "postal_code": "76142"
+    },
+    {
+      "id": "64.09.01.1009",
+      "name": "Nipah-Nipah",
+      "postal_code": "76142"
+    },
+    {
+      "id": "64.09.01.1010",
+      "name": "Nenang",
+      "postal_code": "76141"
+    },
+    {
+      "id": "64.09.01.1011",
+      "name": "Penajam",
+      "postal_code": "76141"
+    },
+    {
+      "id": "64.09.01.1012",
+      "name": "Gunung Seteleng",
+      "postal_code": "76141"
+    },
+    {
+      "id": "64.09.01.1013",
+      "name": "Buluminung",
+      "postal_code": "76144"
+    },
+    {
+      "id": "64.09.01.1014",
+      "name": "Sotek",
+      "postal_code": "76144"
+    },
+    {
+      "id": "64.09.01.1015",
+      "name": "Sepan",
+      "postal_code": "76145"
+    },
+    {
+      "id": "64.09.01.1016",
+      "name": "Riko",
+      "postal_code": "76145"
+    },
+    {
+      "id": "64.09.01.1017",
+      "name": "Gersik",
+      "postal_code": "76145"
+    },
+    {
+      "id": "64.09.01.1018",
+      "name": "Jenebora",
+      "postal_code": "76146"
+    },
+    {
+      "id": "64.09.01.1019",
+      "name": "Pantai Lango",
+      "postal_code": "76146"
+    },
+    {
+      "id": "64.09.01.2020",
+      "name": "Giri Mukti",
+      "postal_code": "76141"
+    },
+    {
+      "id": "64.09.01.2021",
+      "name": "Bukit Subur",
+      "postal_code": "76141"
+    },
+    {
+      "id": "64.09.01.2022",
+      "name": "Sidorejo",
+      "postal_code": "76143"
+    },
+    {
+      "id": "64.09.01.2023",
+      "name": "Giri Purwa",
+      "postal_code": "76143"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

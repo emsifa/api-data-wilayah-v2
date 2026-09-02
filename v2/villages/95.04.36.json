@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.04.36.2001",
+      "name": "Anawi",
+      "postal_code": "99022"
+    },
+    {
+      "id": "95.04.36.2002",
+      "name": "Yalipura",
+      "postal_code": "99022"
+    },
+    {
+      "id": "95.04.36.2003",
+      "name": "Kotori",
+      "postal_code": "99022"
+    },
+    {
+      "id": "95.04.36.2004",
+      "name": "Bieleme",
+      "postal_code": "99022"
+    },
+    {
+      "id": "95.04.36.2005",
+      "name": "Yalokobak",
+      "postal_code": "99022"
+    },
+    {
+      "id": "95.04.36.2006",
+      "name": "Linggira",
+      "postal_code": "99022"
+    },
+    {
+      "id": "95.04.36.2007",
+      "name": "Aridunda",
+      "postal_code": "99022"
+    },
+    {
+      "id": "95.04.36.2008",
+      "name": "Loguk",
+      "postal_code": "99022"
+    },
+    {
+      "id": "95.04.36.2009",
+      "name": "Imurik",
+      "postal_code": "99022"
+    },
+    {
+      "id": "95.04.36.2010",
+      "name": "Gineri",
+      "postal_code": "99022"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

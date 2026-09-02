@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "51.05.04.2001",
+      "name": "Paksebali",
+      "postal_code": "80761"
+    },
+    {
+      "id": "51.05.04.2002",
+      "name": "Sampalan Tengah",
+      "postal_code": "80761"
+    },
+    {
+      "id": "51.05.04.2003",
+      "name": "Sampalan Klod",
+      "postal_code": "80761"
+    },
+    {
+      "id": "51.05.04.2004",
+      "name": "Sulang",
+      "postal_code": "80761"
+    },
+    {
+      "id": "51.05.04.2005",
+      "name": "Gunaksa",
+      "postal_code": "80761"
+    },
+    {
+      "id": "51.05.04.2006",
+      "name": "Kusamba",
+      "postal_code": "80761"
+    },
+    {
+      "id": "51.05.04.2007",
+      "name": "Kampung Kusamba",
+      "postal_code": "80761"
+    },
+    {
+      "id": "51.05.04.2008",
+      "name": "Pesinggahan",
+      "postal_code": "80761"
+    },
+    {
+      "id": "51.05.04.2009",
+      "name": "Dawan Klod",
+      "postal_code": "80761"
+    },
+    {
+      "id": "51.05.04.2010",
+      "name": "Pikat",
+      "postal_code": "80761"
+    },
+    {
+      "id": "51.05.04.2011",
+      "name": "Dawan Kaler",
+      "postal_code": "80761"
+    },
+    {
+      "id": "51.05.04.2012",
+      "name": "Besan",
+      "postal_code": "80761"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

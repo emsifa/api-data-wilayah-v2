@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "92.06.11.2001",
+      "name": "Bumi Saniari",
+      "postal_code": "98143"
+    },
+    {
+      "id": "92.06.11.2002",
+      "name": "Banjar Ausoy",
+      "postal_code": "98143"
+    },
+    {
+      "id": "92.06.11.2003",
+      "name": "Waraitama",
+      "postal_code": "98143"
+    },
+    {
+      "id": "92.06.11.2004",
+      "name": "Atibo Manimeri",
+      "postal_code": "98143"
+    },
+    {
+      "id": "92.06.11.2005",
+      "name": "Pasamai",
+      "postal_code": "98143"
+    },
+    {
+      "id": "92.06.11.2006",
+      "name": "Korano Jaya",
+      "postal_code": "98143"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

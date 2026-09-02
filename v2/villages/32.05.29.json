@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.05.29.2001",
+      "name": "Karyasari",
+      "postal_code": "44176"
+    },
+    {
+      "id": "32.05.29.2002",
+      "name": "Maroko",
+      "postal_code": "44176"
+    },
+    {
+      "id": "32.05.29.2003",
+      "name": "Sancang",
+      "postal_code": "44176"
+    },
+    {
+      "id": "32.05.29.2004",
+      "name": "Karyamukti",
+      "postal_code": "44176"
+    },
+    {
+      "id": "32.05.29.2005",
+      "name": "Sagara",
+      "postal_code": "44176"
+    },
+    {
+      "id": "32.05.29.2006",
+      "name": "Mekarsari",
+      "postal_code": "44176"
+    },
+    {
+      "id": "32.05.29.2007",
+      "name": "Simpang",
+      "postal_code": "44176"
+    },
+    {
+      "id": "32.05.29.2008",
+      "name": "Mekar Mukti",
+      "postal_code": "44176"
+    },
+    {
+      "id": "32.05.29.2009",
+      "name": "Cigaronggong",
+      "postal_code": "44176"
+    },
+    {
+      "id": "32.05.29.2010",
+      "name": "Mekarwangi",
+      "postal_code": "44176"
+    },
+    {
+      "id": "32.05.29.2011",
+      "name": "Najaten",
+      "postal_code": "44176"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

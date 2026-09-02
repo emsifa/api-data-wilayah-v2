@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.12.02.1001",
+      "name": "Appanang",
+      "postal_code": "90863"
+    },
+    {
+      "id": "73.12.02.1002",
+      "name": "Jennae",
+      "postal_code": "90863"
+    },
+    {
+      "id": "73.12.02.1003",
+      "name": "Galung",
+      "postal_code": "90863"
+    },
+    {
+      "id": "73.12.02.2005",
+      "name": "Jampu",
+      "postal_code": "90863"
+    },
+    {
+      "id": "73.12.02.2006",
+      "name": "Pattojo",
+      "postal_code": "90863"
+    },
+    {
+      "id": "73.12.02.2009",
+      "name": "Timusu",
+      "postal_code": "90863"
+    },
+    {
+      "id": "73.12.02.2010",
+      "name": "Rompegading",
+      "postal_code": "90863"
+    },
+    {
+      "id": "73.12.02.2011",
+      "name": "Barang",
+      "postal_code": "90863"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

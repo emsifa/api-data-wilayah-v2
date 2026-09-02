@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "72.01.21.1010",
+      "name": "Kilongan",
+      "postal_code": "94711"
+    },
+    {
+      "id": "72.01.21.1011",
+      "name": "Kilongan Permai",
+      "postal_code": "94711"
+    },
+    {
+      "id": "72.01.21.2001",
+      "name": "Biak",
+      "postal_code": "94711"
+    },
+    {
+      "id": "72.01.21.2002",
+      "name": "Bunga",
+      "postal_code": "94711"
+    },
+    {
+      "id": "72.01.21.2003",
+      "name": "Kamumu",
+      "postal_code": "94711"
+    },
+    {
+      "id": "72.01.21.2004",
+      "name": "Salodik",
+      "postal_code": "94711"
+    },
+    {
+      "id": "72.01.21.2005",
+      "name": "Lenyek",
+      "postal_code": "94711"
+    },
+    {
+      "id": "72.01.21.2006",
+      "name": "Buon Mandiri",
+      "postal_code": "94711"
+    },
+    {
+      "id": "72.01.21.2007",
+      "name": "Boyou",
+      "postal_code": "94711"
+    },
+    {
+      "id": "72.01.21.2008",
+      "name": "Awu",
+      "postal_code": "94711"
+    },
+    {
+      "id": "72.01.21.2009",
+      "name": "Bumi Beringin",
+      "postal_code": "94711"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

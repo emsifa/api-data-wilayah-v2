@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "62.08",
+    "name": "Kabupaten Sukamara",
+    "capital": "Sukamara",
+    "lat": -2.7605344039108397,
+    "lng": 111.17662961478362,
+    "elv": 22,
+    "tz": 7,
+    "population": 67234,
+    "total_area": 3310.13,
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

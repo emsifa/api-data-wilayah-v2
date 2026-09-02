@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "34.03.05.2001",
+      "name": "Sodo",
+      "postal_code": "55871"
+    },
+    {
+      "id": "34.03.05.2002",
+      "name": "Pampang",
+      "postal_code": "55871"
+    },
+    {
+      "id": "34.03.05.2003",
+      "name": "Grogol",
+      "postal_code": "55871"
+    },
+    {
+      "id": "34.03.05.2004",
+      "name": "Karangduwet",
+      "postal_code": "55871"
+    },
+    {
+      "id": "34.03.05.2005",
+      "name": "Karangasem",
+      "postal_code": "55871"
+    },
+    {
+      "id": "34.03.05.2006",
+      "name": "Mulusan",
+      "postal_code": "55871"
+    },
+    {
+      "id": "34.03.05.2007",
+      "name": "Giring",
+      "postal_code": "55871"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "75.71.01.1001",
+      "name": "Dembe I",
+      "postal_code": "96131"
+    },
+    {
+      "id": "75.71.01.1002",
+      "name": "Lekobalo",
+      "postal_code": "96131"
+    },
+    {
+      "id": "75.71.01.1003",
+      "name": "Pilolodaa",
+      "postal_code": "96132"
+    },
+    {
+      "id": "75.71.01.1004",
+      "name": "Buliide",
+      "postal_code": "96133"
+    },
+    {
+      "id": "75.71.01.1005",
+      "name": "Tenilo",
+      "postal_code": "96133"
+    },
+    {
+      "id": "75.71.01.1006",
+      "name": "Molosipat W",
+      "postal_code": "96134"
+    },
+    {
+      "id": "75.71.01.1008",
+      "name": "Buladu",
+      "postal_code": "96136"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

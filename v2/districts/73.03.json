@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "73.03",
-    "name": "Kabupaten Bantaeng",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
+  "data": [
+    {
+      "id": "73.03.01",
+      "name": "Bissappu"
     },
-    "regency": {
-      "id": "73.03",
-      "name": "Kabupaten Bantaeng"
+    {
+      "id": "73.03.02",
+      "name": "Bantaeng"
+    },
+    {
+      "id": "73.03.03",
+      "name": "Eremerasa"
+    },
+    {
+      "id": "73.03.04",
+      "name": "Tompo Bulu"
+    },
+    {
+      "id": "73.03.05",
+      "name": "Pajukukang"
+    },
+    {
+      "id": "73.03.06",
+      "name": "Uluere"
+    },
+    {
+      "id": "73.03.07",
+      "name": "Gantarang Keke"
+    },
+    {
+      "id": "73.03.08",
+      "name": "Sinoa"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

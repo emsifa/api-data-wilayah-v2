@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "36.03.22.1004",
+      "name": "Medang",
+      "postal_code": "15334"
+    },
+    {
+      "id": "36.03.22.2002",
+      "name": "Cicalengka",
+      "postal_code": "15336"
+    },
+    {
+      "id": "36.03.22.2003",
+      "name": "Pagedangan",
+      "postal_code": "15339"
+    },
+    {
+      "id": "36.03.22.2005",
+      "name": "Cijantra",
+      "postal_code": "15335"
+    },
+    {
+      "id": "36.03.22.2006",
+      "name": "Lengkong Kulon",
+      "postal_code": "15331"
+    },
+    {
+      "id": "36.03.22.2007",
+      "name": "Situ Gadung",
+      "postal_code": "15338"
+    },
+    {
+      "id": "36.03.22.2008",
+      "name": "Jatake",
+      "postal_code": "15330"
+    },
+    {
+      "id": "36.03.22.2009",
+      "name": "Cihuni",
+      "postal_code": "15332"
+    },
+    {
+      "id": "36.03.22.2010",
+      "name": "Kadu Sirung",
+      "postal_code": "15337"
+    },
+    {
+      "id": "36.03.22.2011",
+      "name": "Malang Nengah",
+      "postal_code": "15330"
+    },
+    {
+      "id": "36.03.22.2012",
+      "name": "Karang Tengah",
+      "postal_code": "15157"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

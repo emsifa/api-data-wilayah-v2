@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "74.13.01.2001",
+      "name": "Wakoila",
+      "postal_code": "93657"
+    },
+    {
+      "id": "74.13.01.2002",
+      "name": "Waukuni",
+      "postal_code": "93657"
+    },
+    {
+      "id": "74.13.01.2003",
+      "name": "Kampobalano",
+      "postal_code": "93657"
+    },
+    {
+      "id": "74.13.01.2004",
+      "name": "Maperaha",
+      "postal_code": "93657"
+    },
+    {
+      "id": "74.13.01.2005",
+      "name": "Nihi",
+      "postal_code": "93657"
+    },
+    {
+      "id": "74.13.01.2006",
+      "name": "Marobea",
+      "postal_code": "93657"
+    },
+    {
+      "id": "74.13.01.2007",
+      "name": "Ondoke",
+      "postal_code": "93657"
+    },
+    {
+      "id": "74.13.01.2008",
+      "name": "Lakalamba",
+      "postal_code": "93657"
+    },
+    {
+      "id": "74.13.01.2009",
+      "name": "Lawada Jaya",
+      "postal_code": "93657"
+    },
+    {
+      "id": "74.13.01.2010",
+      "name": "Lombu Jaya",
+      "postal_code": "93657"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

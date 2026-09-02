@@ -1,18 +1,32 @@
 {
-  "data": {
-    "id": "31.72",
-    "name": "Kota Administrasi Jakarta Utara",
-    "province": {
-      "id": "31",
-      "name": "Daerah Khusus Ibukota Jakarta"
+  "data": [
+    {
+      "id": "31.72.01",
+      "name": "Penjaringan"
     },
-    "regency": {
-      "id": "31.72",
-      "name": "Kota Administrasi Jakarta Utara"
+    {
+      "id": "31.72.02",
+      "name": "Tanjung Priok"
+    },
+    {
+      "id": "31.72.03",
+      "name": "Koja"
+    },
+    {
+      "id": "31.72.04",
+      "name": "Cilincing"
+    },
+    {
+      "id": "31.72.05",
+      "name": "Pademangan"
+    },
+    {
+      "id": "31.72.06",
+      "name": "Kelapa Gading"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

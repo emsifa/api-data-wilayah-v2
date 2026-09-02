@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "32.07.30",
+    "name": "Cisaga",
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    },
+    "regency": {
+      "id": "32.07",
+      "name": "Kabupaten Ciamis"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

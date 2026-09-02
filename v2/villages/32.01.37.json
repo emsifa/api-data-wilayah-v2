@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.01.37.2001",
+      "name": "Tajurhalang",
+      "postal_code": "16320"
+    },
+    {
+      "id": "32.01.37.2002",
+      "name": "Citayam",
+      "postal_code": "16320"
+    },
+    {
+      "id": "32.01.37.2003",
+      "name": "Sasak Panjang",
+      "postal_code": "16320"
+    },
+    {
+      "id": "32.01.37.2004",
+      "name": "Nanggerang",
+      "postal_code": "16320"
+    },
+    {
+      "id": "32.01.37.2005",
+      "name": "Sukmajaya",
+      "postal_code": "16320"
+    },
+    {
+      "id": "32.01.37.2006",
+      "name": "Tonjong",
+      "postal_code": "16320"
+    },
+    {
+      "id": "32.01.37.2007",
+      "name": "Kalisuren",
+      "postal_code": "16320"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

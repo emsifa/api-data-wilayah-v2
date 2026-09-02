@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "73.17.20.2001",
+      "name": "Bonelemo",
+      "postal_code": "91996"
+    },
+    {
+      "id": "73.17.20.2002",
+      "name": "Sampeang",
+      "postal_code": "91996"
+    },
+    {
+      "id": "73.17.20.2003",
+      "name": "Marinding",
+      "postal_code": "91996"
+    },
+    {
+      "id": "73.17.20.2004",
+      "name": "Saronda",
+      "postal_code": "91996"
+    },
+    {
+      "id": "73.17.20.2005",
+      "name": "Kadong-Kadong",
+      "postal_code": "91996"
+    },
+    {
+      "id": "73.17.20.2006",
+      "name": "Tumbubara",
+      "postal_code": "91996"
+    },
+    {
+      "id": "73.17.20.2007",
+      "name": "Tettekang",
+      "postal_code": "91996"
+    },
+    {
+      "id": "73.17.20.2008",
+      "name": "Bonelemo Utara",
+      "postal_code": "91996"
+    },
+    {
+      "id": "73.17.20.2009",
+      "name": "Bonelemo Barat",
+      "postal_code": "91996"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

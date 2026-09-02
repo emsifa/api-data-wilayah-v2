@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "14.01.01.1011",
+      "name": "Bangkinang",
+      "postal_code": "28411"
+    },
+    {
+      "id": "14.01.01.1013",
+      "name": "Langgini",
+      "postal_code": "28412"
+    },
+    {
+      "id": "14.01.01.2009",
+      "name": "Kumantan",
+      "postal_code": "28411"
+    },
+    {
+      "id": "14.01.01.2010",
+      "name": "Ridan Permai",
+      "postal_code": "28411"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

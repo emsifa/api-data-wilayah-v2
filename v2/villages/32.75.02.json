@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.75.02.1001",
+      "name": "Bintara",
+      "postal_code": "17134"
+    },
+    {
+      "id": "32.75.02.1002",
+      "name": "Kranji",
+      "postal_code": "17135"
+    },
+    {
+      "id": "32.75.02.1003",
+      "name": "Kotabaru",
+      "postal_code": "17133"
+    },
+    {
+      "id": "32.75.02.1004",
+      "name": "Bintarajaya",
+      "postal_code": "17136"
+    },
+    {
+      "id": "32.75.02.1005",
+      "name": "Jakasampurna",
+      "postal_code": "17145"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

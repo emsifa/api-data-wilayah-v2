@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "12.71.21",
+    "name": "Medan Selayang",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.71",
+      "name": "Kota Medan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

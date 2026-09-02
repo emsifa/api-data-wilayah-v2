@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "14.07.13.1002",
+      "name": "Rantau Kopar",
+      "postal_code": "28984"
+    },
+    {
+      "id": "14.07.13.1003",
+      "name": "Sungai Rangau",
+      "postal_code": "28984"
+    },
+    {
+      "id": "14.07.13.2001",
+      "name": "Sekapas",
+      "postal_code": "28984"
+    },
+    {
+      "id": "14.07.13.2004",
+      "name": "Bagan Cempedak",
+      "postal_code": "28984"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

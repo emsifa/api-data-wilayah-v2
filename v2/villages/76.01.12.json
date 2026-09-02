@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "76.01.12.2001",
+      "name": "Parabu",
+      "postal_code": "91577"
+    },
+    {
+      "id": "76.01.12.2002",
+      "name": "Kenangan",
+      "postal_code": "91577"
+    },
+    {
+      "id": "76.01.12.2003",
+      "name": "Bajawali",
+      "postal_code": "91577"
+    },
+    {
+      "id": "76.01.12.2004",
+      "name": "Singgani",
+      "postal_code": "91577"
+    },
+    {
+      "id": "76.01.12.2005",
+      "name": "Kulu",
+      "postal_code": "91577"
+    },
+    {
+      "id": "76.01.12.2006",
+      "name": "Batu Matoru",
+      "postal_code": "91577"
+    },
+    {
+      "id": "76.01.12.2007",
+      "name": "Bambakoro",
+      "postal_code": "91577"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

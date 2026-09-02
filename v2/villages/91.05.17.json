@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "91.05.17.2001",
+      "name": "Saweru",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.17.2002",
+      "name": "Umani",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.17.2003",
+      "name": "Perea",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.17.2004",
+      "name": "Nuniandei",
+      "postal_code": "98653"
+    },
+    {
+      "id": "91.05.17.2005",
+      "name": "Dorau",
+      "postal_code": "98653"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

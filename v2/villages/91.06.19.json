@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "91.06.19.2001",
+      "name": "Mios Mangguandi",
+      "postal_code": "98555"
+    },
+    {
+      "id": "91.06.19.2002",
+      "name": "Supraima",
+      "postal_code": "98555"
+    },
+    {
+      "id": "91.06.19.2003",
+      "name": "Samber Pasi",
+      "postal_code": "98555"
+    },
+    {
+      "id": "91.06.19.2004",
+      "name": "Pasi",
+      "postal_code": "98555"
+    },
+    {
+      "id": "91.06.19.2005",
+      "name": "Mbromsi",
+      "postal_code": "98555"
+    },
+    {
+      "id": "91.06.19.2006",
+      "name": "Karabai",
+      "postal_code": "98555"
+    },
+    {
+      "id": "91.06.19.2007",
+      "name": "Saribra",
+      "postal_code": "98555"
+    },
+    {
+      "id": "91.06.19.2008",
+      "name": "Nyansoren",
+      "postal_code": "98555"
+    },
+    {
+      "id": "91.06.19.2009",
+      "name": "Sasari",
+      "postal_code": "98555"
+    },
+    {
+      "id": "91.06.19.2010",
+      "name": "Padaido",
+      "postal_code": "98555"
+    },
+    {
+      "id": "91.06.19.2011",
+      "name": "Yeri",
+      "postal_code": "98555"
+    },
+    {
+      "id": "91.06.19.2012",
+      "name": "Anobo",
+      "postal_code": "98555"
+    },
+    {
+      "id": "91.06.19.2013",
+      "name": "Yen Manaina",
+      "postal_code": "98555"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

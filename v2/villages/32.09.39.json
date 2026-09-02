@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.09.39.2003",
+      "name": "Muara",
+      "postal_code": "45150"
+    },
+    {
+      "id": "32.09.39.2004",
+      "name": "Purwawinangun",
+      "postal_code": "45150"
+    },
+    {
+      "id": "32.09.39.2005",
+      "name": "Keraton",
+      "postal_code": "45150"
+    },
+    {
+      "id": "32.09.39.2006",
+      "name": "Surakarta",
+      "postal_code": "45150"
+    },
+    {
+      "id": "32.09.39.2007",
+      "name": "Karangreja",
+      "postal_code": "45150"
+    },
+    {
+      "id": "32.09.39.2008",
+      "name": "Suranenggala Kidul",
+      "postal_code": "45150"
+    },
+    {
+      "id": "32.09.39.2009",
+      "name": "Suranenggala Kulon",
+      "postal_code": "45150"
+    },
+    {
+      "id": "32.09.39.2010",
+      "name": "Suranenggala Lor",
+      "postal_code": "45150"
+    },
+    {
+      "id": "32.09.39.2011",
+      "name": "Suranenggala",
+      "postal_code": "45150"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

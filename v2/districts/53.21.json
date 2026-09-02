@@ -1,18 +1,56 @@
 {
-  "data": {
-    "id": "53.21",
-    "name": "Kabupaten Malaka",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
+  "data": [
+    {
+      "id": "53.21.01",
+      "name": "Malaka Tengah"
     },
-    "regency": {
-      "id": "53.21",
-      "name": "Kabupaten Malaka"
+    {
+      "id": "53.21.02",
+      "name": "Malaka Barat"
+    },
+    {
+      "id": "53.21.03",
+      "name": "Wewiku"
+    },
+    {
+      "id": "53.21.04",
+      "name": "Weliman"
+    },
+    {
+      "id": "53.21.05",
+      "name": "Rinhat"
+    },
+    {
+      "id": "53.21.06",
+      "name": "Io Kufeu"
+    },
+    {
+      "id": "53.21.07",
+      "name": "Sasitamean"
+    },
+    {
+      "id": "53.21.08",
+      "name": "Laenmanen"
+    },
+    {
+      "id": "53.21.09",
+      "name": "Malaka Timur"
+    },
+    {
+      "id": "53.21.10",
+      "name": "Kobalima Timur"
+    },
+    {
+      "id": "53.21.11",
+      "name": "Kobalima"
+    },
+    {
+      "id": "53.21.12",
+      "name": "Botin Leobele"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

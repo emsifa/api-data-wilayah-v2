@@ -1,18 +1,32 @@
 {
-  "data": {
-    "id": "53.20",
-    "name": "Kabupaten Sabu Raijua",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
+  "data": [
+    {
+      "id": "53.20.01",
+      "name": "Sabu Barat"
     },
-    "regency": {
-      "id": "53.20",
-      "name": "Kabupaten Sabu Raijua"
+    {
+      "id": "53.20.02",
+      "name": "Sabu Tengah"
+    },
+    {
+      "id": "53.20.03",
+      "name": "Sabu Timur"
+    },
+    {
+      "id": "53.20.04",
+      "name": "Sabu Liae"
+    },
+    {
+      "id": "53.20.05",
+      "name": "Hawu Mehara"
+    },
+    {
+      "id": "53.20.06",
+      "name": "Raijua"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "76.01",
+    "name": "Kabupaten Pasangkayu",
+    "capital": "Pasangkayu",
+    "lat": -1.1737447997757244,
+    "lng": 119.37723724714068,
+    "elv": 7,
+    "tz": 8,
+    "population": 183376,
+    "total_area": 2901.704,
+    "province": {
+      "id": "76",
+      "name": "Sulawesi Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

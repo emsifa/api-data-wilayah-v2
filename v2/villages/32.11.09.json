@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.11.09.2001",
+      "name": "Wanasari",
+      "postal_code": "45393"
+    },
+    {
+      "id": "32.11.09.2002",
+      "name": "Wanajaya",
+      "postal_code": "45393"
+    },
+    {
+      "id": "32.11.09.2003",
+      "name": "Pamekarsari",
+      "postal_code": "45393"
+    },
+    {
+      "id": "32.11.09.2004",
+      "name": "Tanjung",
+      "postal_code": "45393"
+    },
+    {
+      "id": "32.11.09.2005",
+      "name": "Surian",
+      "postal_code": "45393"
+    },
+    {
+      "id": "32.11.09.2006",
+      "name": "Suriamukti",
+      "postal_code": "45393"
+    },
+    {
+      "id": "32.11.09.2007",
+      "name": "Suriamedal",
+      "postal_code": "45393"
+    },
+    {
+      "id": "32.11.09.2008",
+      "name": "Ranggasari",
+      "postal_code": "45393"
+    },
+    {
+      "id": "32.11.09.2009",
+      "name": "Nanjungwangi",
+      "postal_code": "45393"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

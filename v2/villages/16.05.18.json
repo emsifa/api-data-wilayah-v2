@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "16.05.18.2001",
+      "name": "Lubuk Besar",
+      "postal_code": "31660"
+    },
+    {
+      "id": "16.05.18.2002",
+      "name": "Batu Bandung",
+      "postal_code": "31660"
+    },
+    {
+      "id": "16.05.18.2003",
+      "name": "Rantau Bingin",
+      "postal_code": "31660"
+    },
+    {
+      "id": "16.05.18.2004",
+      "name": "Rantau Serik",
+      "postal_code": "31660"
+    },
+    {
+      "id": "16.05.18.2005",
+      "name": "Muara Kati Lama",
+      "postal_code": "31660"
+    },
+    {
+      "id": "16.05.18.2006",
+      "name": "Muara Kati Baru I",
+      "postal_code": "31660"
+    },
+    {
+      "id": "16.05.18.2007",
+      "name": "Muara Kati Baru II",
+      "postal_code": "31660"
+    },
+    {
+      "id": "16.05.18.2008",
+      "name": "Kebur",
+      "postal_code": "31660"
+    },
+    {
+      "id": "16.05.18.2009",
+      "name": "Simpang Gegas Temuan",
+      "postal_code": "31660"
+    },
+    {
+      "id": "16.05.18.2010",
+      "name": "Kebur Jaya",
+      "postal_code": "31660"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

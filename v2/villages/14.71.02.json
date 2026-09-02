@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "14.71.02.1001",
+      "name": "Simpang Empat",
+      "postal_code": "28116"
+    },
+    {
+      "id": "14.71.02.1002",
+      "name": "Sumahilang",
+      "postal_code": "28111"
+    },
+    {
+      "id": "14.71.02.1003",
+      "name": "Tanah Datar",
+      "postal_code": "28115"
+    },
+    {
+      "id": "14.71.02.1004",
+      "name": "Kota Baru",
+      "postal_code": "28114"
+    },
+    {
+      "id": "14.71.02.1005",
+      "name": "Sukaramai",
+      "postal_code": "28113"
+    },
+    {
+      "id": "14.71.02.1006",
+      "name": "Kota Tinggi",
+      "postal_code": "28112"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

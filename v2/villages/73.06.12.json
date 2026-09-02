@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "73.06.12.1001",
+      "name": "Benteng Somba Opu",
+      "postal_code": "90225"
+    },
+    {
+      "id": "73.06.12.1005",
+      "name": "Lembang Parang",
+      "postal_code": "90225"
+    },
+    {
+      "id": "73.06.12.2002",
+      "name": "Kanjilo",
+      "postal_code": "90225"
+    },
+    {
+      "id": "73.06.12.2003",
+      "name": "Moncobalang",
+      "postal_code": "90225"
+    },
+    {
+      "id": "73.06.12.2004",
+      "name": "Tinggimae",
+      "postal_code": "90225"
+    },
+    {
+      "id": "73.06.12.2006",
+      "name": "Biringala",
+      "postal_code": "90225"
+    },
+    {
+      "id": "73.06.12.2007",
+      "name": "Tamannyeleng",
+      "postal_code": "90225"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

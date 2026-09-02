@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "33.24.13.2001",
+      "name": "Pandes",
+      "postal_code": "51352"
+    },
+    {
+      "id": "33.24.13.2002",
+      "name": "Podosari",
+      "postal_code": "51352"
+    },
+    {
+      "id": "33.24.13.2003",
+      "name": "Botomulyo",
+      "postal_code": "51352"
+    },
+    {
+      "id": "33.24.13.2004",
+      "name": "Cepiring",
+      "postal_code": "51352"
+    },
+    {
+      "id": "33.24.13.2005",
+      "name": "Damarsari",
+      "postal_code": "51352"
+    },
+    {
+      "id": "33.24.13.2006",
+      "name": "Karangayu",
+      "postal_code": "51352"
+    },
+    {
+      "id": "33.24.13.2007",
+      "name": "Karangsuno",
+      "postal_code": "51352"
+    },
+    {
+      "id": "33.24.13.2008",
+      "name": "Gondang",
+      "postal_code": "51352"
+    },
+    {
+      "id": "33.24.13.2009",
+      "name": "Sidomulyo",
+      "postal_code": "51352"
+    },
+    {
+      "id": "33.24.13.2010",
+      "name": "Juwiring",
+      "postal_code": "51352"
+    },
+    {
+      "id": "33.24.13.2011",
+      "name": "Kaliayu",
+      "postal_code": "51352"
+    },
+    {
+      "id": "33.24.13.2012",
+      "name": "Kalirandugede",
+      "postal_code": "51352"
+    },
+    {
+      "id": "33.24.13.2013",
+      "name": "Korowelangkulon",
+      "postal_code": "51352"
+    },
+    {
+      "id": "33.24.13.2014",
+      "name": "Korowelanganyar",
+      "postal_code": "51352"
+    },
+    {
+      "id": "33.24.13.2015",
+      "name": "Margorejo",
+      "postal_code": "51352"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

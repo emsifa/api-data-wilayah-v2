@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.01.13.1007",
+      "name": "Pabuaran",
+      "postal_code": "16921"
+    },
+    {
+      "id": "32.01.13.2001",
+      "name": "Bojongbaru",
+      "postal_code": "16920"
+    },
+    {
+      "id": "32.01.13.2002",
+      "name": "Cimanggis",
+      "postal_code": "16920"
+    },
+    {
+      "id": "32.01.13.2003",
+      "name": "Susukan",
+      "postal_code": "16920"
+    },
+    {
+      "id": "32.01.13.2004",
+      "name": "Ragajaya",
+      "postal_code": "16920"
+    },
+    {
+      "id": "32.01.13.2005",
+      "name": "Kedung Waringin",
+      "postal_code": "16923"
+    },
+    {
+      "id": "32.01.13.2006",
+      "name": "Waringin Jaya",
+      "postal_code": "16920"
+    },
+    {
+      "id": "32.01.13.2008",
+      "name": "Rawapanjang",
+      "postal_code": "16920"
+    },
+    {
+      "id": "32.01.13.2009",
+      "name": "Bojonggede",
+      "postal_code": "16922"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "33.02",
+    "name": "Kabupaten Banyumas",
+    "capital": "Purwokerto",
+    "lat": -7.4227990604767795,
+    "lng": 109.23008333914095,
+    "elv": 83,
+    "tz": 7,
+    "population": 1868446,
+    "total_area": 1391.153,
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

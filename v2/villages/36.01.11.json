@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "36.01.11.2001",
+      "name": "Pasirsedang",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.11.2002",
+      "name": "Cililitan",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.11.2003",
+      "name": "Kadupandak",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.11.2004",
+      "name": "Kolelet",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.11.2005",
+      "name": "Ciherang",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.11.2006",
+      "name": "Bungurcopong",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.11.2007",
+      "name": "Pasirpanjang",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.11.2008",
+      "name": "Kadubera",
+      "postal_code": "42275"
+    },
+    {
+      "id": "36.01.11.2009",
+      "name": "Ganggaeng",
+      "postal_code": "42275"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "11.12.07.2001",
+      "name": "Lhang",
+      "postal_code": "23763"
+    },
+    {
+      "id": "11.12.07.2002",
+      "name": "Rambong",
+      "postal_code": "23763"
+    },
+    {
+      "id": "11.12.07.2003",
+      "name": "Pisang",
+      "postal_code": "23763"
+    },
+    {
+      "id": "11.12.07.2004",
+      "name": "Ujung Tanah",
+      "postal_code": "23763"
+    },
+    {
+      "id": "11.12.07.2005",
+      "name": "Alue Dama",
+      "postal_code": "23763"
+    },
+    {
+      "id": "11.12.07.2007",
+      "name": "Tangan-Tangan Cut",
+      "postal_code": "23763"
+    },
+    {
+      "id": "11.12.07.2008",
+      "name": "Mon Mameh",
+      "postal_code": "23763"
+    },
+    {
+      "id": "11.12.07.2009",
+      "name": "Cinta Makmur",
+      "postal_code": "23763"
+    },
+    {
+      "id": "11.12.07.2010",
+      "name": "Kuta Murni",
+      "postal_code": "23763"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

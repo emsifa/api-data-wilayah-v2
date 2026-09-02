@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "94.05.22.2001",
+      "name": "Jiwot",
+      "postal_code": "98975"
+    },
+    {
+      "id": "94.05.22.2002",
+      "name": "Gunaluk",
+      "postal_code": "98975"
+    },
+    {
+      "id": "94.05.22.2003",
+      "name": "Kugiame",
+      "postal_code": "98975"
+    },
+    {
+      "id": "94.05.22.2004",
+      "name": "Wuyunggame",
+      "postal_code": "98975"
+    },
+    {
+      "id": "94.05.22.2005",
+      "name": "Deogi",
+      "postal_code": "98975"
+    },
+    {
+      "id": "94.05.22.2006",
+      "name": "Jugumi",
+      "postal_code": "98975"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

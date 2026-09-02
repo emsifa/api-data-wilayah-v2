@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "93.02.14.2001",
+      "name": "Yaniruma",
+      "postal_code": "99685"
+    },
+    {
+      "id": "93.02.14.2002",
+      "name": "Manggemahe",
+      "postal_code": "99675"
+    },
+    {
+      "id": "93.02.14.2003",
+      "name": "Fefero",
+      "postal_code": "99685"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

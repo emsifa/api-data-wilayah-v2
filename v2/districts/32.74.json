@@ -1,18 +1,28 @@
 {
-  "data": {
-    "id": "32.74",
-    "name": "Kota Cirebon",
-    "province": {
-      "id": "32",
-      "name": "Jawa Barat"
+  "data": [
+    {
+      "id": "32.74.01",
+      "name": "Kejaksan"
     },
-    "regency": {
-      "id": "32.74",
-      "name": "Kota Cirebon"
+    {
+      "id": "32.74.02",
+      "name": "Lemahwungkuk"
+    },
+    {
+      "id": "32.74.03",
+      "name": "Harjamukti"
+    },
+    {
+      "id": "32.74.04",
+      "name": "Pekalipan"
+    },
+    {
+      "id": "32.74.05",
+      "name": "Kesambi"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

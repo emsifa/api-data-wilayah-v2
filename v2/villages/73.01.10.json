@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.01.10.2001",
+      "name": "Bontobulaeng",
+      "postal_code": "92861"
+    },
+    {
+      "id": "73.01.10.2002",
+      "name": "Bontobaru",
+      "postal_code": "92861"
+    },
+    {
+      "id": "73.01.10.2003",
+      "name": "Bontomalling",
+      "postal_code": "92861"
+    },
+    {
+      "id": "73.01.10.2004",
+      "name": "Lembang Baji",
+      "postal_code": "92861"
+    },
+    {
+      "id": "73.01.10.2005",
+      "name": "Bontojati",
+      "postal_code": "92861"
+    },
+    {
+      "id": "73.01.10.2006",
+      "name": "Ujung",
+      "postal_code": "92861"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

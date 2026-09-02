@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "21.02.01.1003",
+      "name": "Moro",
+      "postal_code": "29663"
+    },
+    {
+      "id": "21.02.01.1010",
+      "name": "Moro Timur",
+      "postal_code": "29663"
+    },
+    {
+      "id": "21.02.01.2004",
+      "name": "Pauh",
+      "postal_code": "29663"
+    },
+    {
+      "id": "21.02.01.2009",
+      "name": "Jang",
+      "postal_code": "29663"
+    },
+    {
+      "id": "21.02.01.2014",
+      "name": "Pulau Moro",
+      "postal_code": "29663"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

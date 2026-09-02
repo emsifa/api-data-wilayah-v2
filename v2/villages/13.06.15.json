@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.06.15.2001",
+      "name": "Magek",
+      "postal_code": "26152"
+    },
+    {
+      "id": "13.06.15.2002",
+      "name": "Kamang Hilia",
+      "postal_code": "26152"
+    },
+    {
+      "id": "13.06.15.2003",
+      "name": "Kamang Mudiak",
+      "postal_code": "26152"
+    },
+    {
+      "id": "13.06.15.2004",
+      "name": "Kamang Tangah Anam Suku",
+      "postal_code": "26152"
+    },
+    {
+      "id": "13.06.15.2005",
+      "name": "Pauh Kamang Mudiak",
+      "postal_code": "26152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

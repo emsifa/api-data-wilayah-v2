@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "73.14.02.1001",
+      "name": "Amparita",
+      "postal_code": "91662"
+    },
+    {
+      "id": "73.14.02.1002",
+      "name": "Massepe",
+      "postal_code": "91662"
+    },
+    {
+      "id": "73.14.02.1003",
+      "name": "Toddang Pulu",
+      "postal_code": "91662"
+    },
+    {
+      "id": "73.14.02.1004",
+      "name": "Pajalele",
+      "postal_code": "91662"
+    },
+    {
+      "id": "73.14.02.1005",
+      "name": "Baula",
+      "postal_code": "91662"
+    },
+    {
+      "id": "73.14.02.1006",
+      "name": "Arateng",
+      "postal_code": "91662"
+    },
+    {
+      "id": "73.14.02.2007",
+      "name": "Teteaji",
+      "postal_code": "91662"
+    },
+    {
+      "id": "73.14.02.2008",
+      "name": "Polewali",
+      "postal_code": "91662"
+    },
+    {
+      "id": "73.14.02.2009",
+      "name": "Teppo",
+      "postal_code": "91662"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "18.05.13.2001",
+      "name": "Tri Rejo Mulyo",
+      "postal_code": "34593"
+    },
+    {
+      "id": "18.05.13.2002",
+      "name": "Tri Jaya",
+      "postal_code": "34593"
+    },
+    {
+      "id": "18.05.13.2005",
+      "name": "Sidoharjo",
+      "postal_code": "34593"
+    },
+    {
+      "id": "18.05.13.2006",
+      "name": "Sido Mulyo",
+      "postal_code": "34593"
+    },
+    {
+      "id": "18.05.13.2010",
+      "name": "Boga Tama",
+      "postal_code": "34593"
+    },
+    {
+      "id": "18.05.13.2011",
+      "name": "Wira Tama",
+      "postal_code": "34593"
+    },
+    {
+      "id": "18.05.13.2013",
+      "name": "Tri Tunggal Jaya",
+      "postal_code": "34593"
+    },
+    {
+      "id": "18.05.13.2019",
+      "name": "Pulo Gadung",
+      "postal_code": "34593"
+    },
+    {
+      "id": "18.05.13.2020",
+      "name": "Sidodadi",
+      "postal_code": "34593"
+    },
+    {
+      "id": "18.05.13.2021",
+      "name": "Dwimulyo",
+      "postal_code": "34593"
+    },
+    {
+      "id": "18.05.13.2022",
+      "name": "Rejo Sari",
+      "postal_code": "34593"
+    },
+    {
+      "id": "18.05.13.2023",
+      "name": "Wira Agung Sari",
+      "postal_code": "34593"
+    },
+    {
+      "id": "18.05.13.2024",
+      "name": "Sidomakmur",
+      "postal_code": "34593"
+    },
+    {
+      "id": "18.05.13.2025",
+      "name": "Trikarya",
+      "postal_code": "34593"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

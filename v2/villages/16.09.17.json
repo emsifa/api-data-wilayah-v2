@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "16.09.17.2001",
+      "name": "Tekana",
+      "postal_code": "32264"
+    },
+    {
+      "id": "16.09.17.2002",
+      "name": "Tanjung Beringin",
+      "postal_code": "32264"
+    },
+    {
+      "id": "16.09.17.2003",
+      "name": "Bandar",
+      "postal_code": "32264"
+    },
+    {
+      "id": "16.09.17.2004",
+      "name": "Jagaraga",
+      "postal_code": "32264"
+    },
+    {
+      "id": "16.09.17.2005",
+      "name": "Damarpura",
+      "postal_code": "32264"
+    },
+    {
+      "id": "16.09.17.2006",
+      "name": "Tunas Jaya",
+      "postal_code": "32264"
+    },
+    {
+      "id": "16.09.17.2007",
+      "name": "Sinar Danau",
+      "postal_code": "32264"
+    },
+    {
+      "id": "16.09.17.2008",
+      "name": "Gemiung",
+      "postal_code": "32264"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "53.09.19.1001",
+      "name": "Mangulewa",
+      "postal_code": "86460"
+    },
+    {
+      "id": "53.09.19.2002",
+      "name": "Turekisa",
+      "postal_code": "86460"
+    },
+    {
+      "id": "53.09.19.2003",
+      "name": "Rakalaba",
+      "postal_code": "86460"
+    },
+    {
+      "id": "53.09.19.2004",
+      "name": "Sobo",
+      "postal_code": "86460"
+    },
+    {
+      "id": "53.09.19.2005",
+      "name": "Sobo I",
+      "postal_code": "86460"
+    },
+    {
+      "id": "53.09.19.2006",
+      "name": "Rakateda I",
+      "postal_code": "86460"
+    },
+    {
+      "id": "53.09.19.2007",
+      "name": "Rakateda II",
+      "postal_code": "86460"
+    },
+    {
+      "id": "53.09.19.2008",
+      "name": "Watunay",
+      "postal_code": "86460"
+    },
+    {
+      "id": "53.09.19.2009",
+      "name": "Dizi Gedha",
+      "postal_code": "86460"
+    },
+    {
+      "id": "53.09.19.2010",
+      "name": "Bea Pawe",
+      "postal_code": "86460"
+    },
+    {
+      "id": "53.09.19.2011",
+      "name": "Bopoma",
+      "postal_code": "86460"
+    },
+    {
+      "id": "53.09.19.2012",
+      "name": "Rakalaba I",
+      "postal_code": "86460"
+    },
+    {
+      "id": "53.09.19.2013",
+      "name": "Sobo II",
+      "postal_code": "86460"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

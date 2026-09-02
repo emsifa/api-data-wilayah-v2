@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "53.03.16.2001",
+      "name": "Inbate",
+      "postal_code": "85651"
+    },
+    {
+      "id": "53.03.16.2002",
+      "name": "Sunkaen",
+      "postal_code": "85651"
+    },
+    {
+      "id": "53.03.16.2003",
+      "name": "Nainaban",
+      "postal_code": "85651"
+    },
+    {
+      "id": "53.03.16.2004",
+      "name": "Haumeni Ana",
+      "postal_code": "85651"
+    },
+    {
+      "id": "53.03.16.2005",
+      "name": "Nilulat",
+      "postal_code": "85651"
+    },
+    {
+      "id": "53.03.16.2006",
+      "name": "Tubu",
+      "postal_code": "85651"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

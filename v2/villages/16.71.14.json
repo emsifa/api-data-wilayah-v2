@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "16.71.14.1001",
+      "name": "Plaju Ulu",
+      "postal_code": "30266"
+    },
+    {
+      "id": "16.71.14.1002",
+      "name": "Plaju Darat",
+      "postal_code": "30267"
+    },
+    {
+      "id": "16.71.14.1003",
+      "name": "Plaju Ilir",
+      "postal_code": "30268"
+    },
+    {
+      "id": "16.71.14.1004",
+      "name": "Baguskuning",
+      "postal_code": "30268"
+    },
+    {
+      "id": "16.71.14.1005",
+      "name": "Komperta",
+      "postal_code": "30268"
+    },
+    {
+      "id": "16.71.14.1006",
+      "name": "Talangputri",
+      "postal_code": "30268"
+    },
+    {
+      "id": "16.71.14.1007",
+      "name": "Talangbubuk",
+      "postal_code": "30268"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.02.25.2001",
+      "name": "Talagamurni",
+      "postal_code": "43172"
+    },
+    {
+      "id": "32.02.25.2002",
+      "name": "Banyumurni",
+      "postal_code": "43172"
+    },
+    {
+      "id": "32.02.25.2003",
+      "name": "Cibitung",
+      "postal_code": "43172"
+    },
+    {
+      "id": "32.02.25.2004",
+      "name": "Cidahu",
+      "postal_code": "43172"
+    },
+    {
+      "id": "32.02.25.2005",
+      "name": "Cibodas",
+      "postal_code": "43172"
+    },
+    {
+      "id": "32.02.25.2006",
+      "name": "Banyuwangi",
+      "postal_code": "43172"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

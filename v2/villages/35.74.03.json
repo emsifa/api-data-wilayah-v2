@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "35.74.03.1001",
+      "name": "Mayangan",
+      "postal_code": "67218"
+    },
+    {
+      "id": "35.74.03.1002",
+      "name": "Mangunharjo",
+      "postal_code": "67217"
+    },
+    {
+      "id": "35.74.03.1004",
+      "name": "Jati",
+      "postal_code": "67217"
+    },
+    {
+      "id": "35.74.03.1007",
+      "name": "Sukabumi",
+      "postal_code": "67219"
+    },
+    {
+      "id": "35.74.03.1010",
+      "name": "Wiroborang",
+      "postal_code": "67216"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

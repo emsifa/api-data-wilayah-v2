@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "82.71.08.1001",
+      "name": "Tagafo",
+      "postal_code": "97747"
+    },
+    {
+      "id": "82.71.08.1002",
+      "name": "Loto",
+      "postal_code": "97747"
+    },
+    {
+      "id": "82.71.08.1003",
+      "name": "Takome",
+      "postal_code": "97747"
+    },
+    {
+      "id": "82.71.08.1004",
+      "name": "Sulamadaha",
+      "postal_code": "97747"
+    },
+    {
+      "id": "82.71.08.1005",
+      "name": "Tobololo",
+      "postal_code": "97747"
+    },
+    {
+      "id": "82.71.08.1006",
+      "name": "Bula",
+      "postal_code": "97747"
+    },
+    {
+      "id": "82.71.08.1007",
+      "name": "Kulaba",
+      "postal_code": "97747"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

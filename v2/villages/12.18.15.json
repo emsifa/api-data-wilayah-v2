@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.18.15.2001",
+      "name": "Pon",
+      "postal_code": "20995"
+    },
+    {
+      "id": "12.18.15.2002",
+      "name": "Sei Bamban",
+      "postal_code": "20995"
+    },
+    {
+      "id": "12.18.15.2003",
+      "name": "Bakaran Batu",
+      "postal_code": "20995"
+    },
+    {
+      "id": "12.18.15.2004",
+      "name": "Gempolan",
+      "postal_code": "20995"
+    },
+    {
+      "id": "12.18.15.2005",
+      "name": "Rampah Estate",
+      "postal_code": "20995"
+    },
+    {
+      "id": "12.18.15.2006",
+      "name": "Suka Damai",
+      "postal_code": "20995"
+    },
+    {
+      "id": "12.18.15.2007",
+      "name": "Sei Bamban Estate",
+      "postal_code": "20995"
+    },
+    {
+      "id": "12.18.15.2008",
+      "name": "Sei Belutu",
+      "postal_code": "20995"
+    },
+    {
+      "id": "12.18.15.2009",
+      "name": "Sei Buluh",
+      "postal_code": "20995"
+    },
+    {
+      "id": "12.18.15.2010",
+      "name": "Penggalangan",
+      "postal_code": "20995"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "92.07.09.2001",
+      "name": "Ambumi",
+      "postal_code": "98341"
+    },
+    {
+      "id": "92.07.09.2002",
+      "name": "Nanimori",
+      "postal_code": "98341"
+    },
+    {
+      "id": "92.07.09.2003",
+      "name": "Dusner",
+      "postal_code": "98341"
+    },
+    {
+      "id": "92.07.09.2004",
+      "name": "Yerenusi",
+      "postal_code": "98341"
+    },
+    {
+      "id": "92.07.09.2005",
+      "name": "Sobiar",
+      "postal_code": "98341"
+    },
+    {
+      "id": "92.07.09.2006",
+      "name": "Simei",
+      "postal_code": "98341"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

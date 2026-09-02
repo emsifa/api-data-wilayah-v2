@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "12.14.12.2001",
+      "name": "Hilisataro",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.12.2002",
+      "name": "Hilinamoniha",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.12.2003",
+      "name": "Hiliamaetaluo",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.12.2004",
+      "name": "Bawoganowo",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.12.2005",
+      "name": "Hili'alawa",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.12.2006",
+      "name": "Hilindrasoniha",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.12.2007",
+      "name": "Hilimagari",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.12.2008",
+      "name": "Hilisataro Raya",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.12.2009",
+      "name": "Hilisataro Gewa",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.12.2010",
+      "name": "Hilisoromi",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.12.2011",
+      "name": "Hiliasi",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.12.2012",
+      "name": "Hilindraso Raya",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.12.2013",
+      "name": "Hilisataro Nandisa",
+      "postal_code": "22865"
+    },
+    {
+      "id": "12.14.12.2014",
+      "name": "Hilisataro Eho Sofayo",
+      "postal_code": "22865"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.04.35.2001",
+      "name": "Tuhembuasi",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.35.2002",
+      "name": "Hilibadalu",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.35.2003",
+      "name": "La'uri",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.35.2004",
+      "name": "Hilimbana",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.35.2005",
+      "name": "Saitagaramba",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.35.2006",
+      "name": "Sogae'adu",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.35.2007",
+      "name": "Baruzo",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.35.2008",
+      "name": "Tulumbaho",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.35.2009",
+      "name": "Sisarahili Sogae'adu",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.35.2010",
+      "name": "We'a-we'a",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.35.2011",
+      "name": "Sihare'o Sogae'adu",
+      "postal_code": "22871"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

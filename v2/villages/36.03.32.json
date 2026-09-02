@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "36.03.32.2001",
+      "name": "Gunung Kaler",
+      "postal_code": "15620"
+    },
+    {
+      "id": "36.03.32.2002",
+      "name": "Sidoko",
+      "postal_code": "15620"
+    },
+    {
+      "id": "36.03.32.2003",
+      "name": "Rancagede",
+      "postal_code": "15620"
+    },
+    {
+      "id": "36.03.32.2004",
+      "name": "Kedung",
+      "postal_code": "15620"
+    },
+    {
+      "id": "36.03.32.2005",
+      "name": "Cipaeh",
+      "postal_code": "15620"
+    },
+    {
+      "id": "36.03.32.2006",
+      "name": "Onyam",
+      "postal_code": "15620"
+    },
+    {
+      "id": "36.03.32.2007",
+      "name": "Tamiang",
+      "postal_code": "15620"
+    },
+    {
+      "id": "36.03.32.2008",
+      "name": "Kandawati",
+      "postal_code": "15620"
+    },
+    {
+      "id": "36.03.32.2009",
+      "name": "Cibetok",
+      "postal_code": "15620"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

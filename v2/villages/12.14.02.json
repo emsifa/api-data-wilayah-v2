@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.14.02.2005",
+      "name": "Doli-doli Idanotae",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.02.2007",
+      "name": "Hiliana'a Gomo",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.02.2015",
+      "name": "Lawa-lawa Luo Gomo",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.02.2017",
+      "name": "Lolosoni",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.02.2023",
+      "name": "Orahili Gomo",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.02.2024",
+      "name": "Sifaoro'asi Gomo",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.02.2035",
+      "name": "Tanoniko'o",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.02.2040",
+      "name": "Suka Maju Mohili",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.02.2041",
+      "name": "Orahili Sibohou",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.02.2042",
+      "name": "Gunung Gabungan",
+      "postal_code": "22873"
+    },
+    {
+      "id": "12.14.02.2043",
+      "name": "Umbu Orahua",
+      "postal_code": "22873"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

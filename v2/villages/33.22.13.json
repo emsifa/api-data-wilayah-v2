@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "33.22.13.1001",
+      "name": "Ngempon",
+      "postal_code": "50552"
+    },
+    {
+      "id": "33.22.13.1002",
+      "name": "Karangjati",
+      "postal_code": "50552"
+    },
+    {
+      "id": "33.22.13.1005",
+      "name": "Wujil",
+      "postal_code": "50552"
+    },
+    {
+      "id": "33.22.13.1009",
+      "name": "Bergas Lor",
+      "postal_code": "50552"
+    },
+    {
+      "id": "33.22.13.2003",
+      "name": "Wringinputih",
+      "postal_code": "50552"
+    },
+    {
+      "id": "33.22.13.2004",
+      "name": "Gondoriyo",
+      "postal_code": "50187"
+    },
+    {
+      "id": "33.22.13.2006",
+      "name": "Gebugan",
+      "postal_code": "50552"
+    },
+    {
+      "id": "33.22.13.2007",
+      "name": "Pagersari",
+      "postal_code": "50552"
+    },
+    {
+      "id": "33.22.13.2008",
+      "name": "Munding",
+      "postal_code": "50552"
+    },
+    {
+      "id": "33.22.13.2010",
+      "name": "Bergas Kidul",
+      "postal_code": "50552"
+    },
+    {
+      "id": "33.22.13.2011",
+      "name": "Randugunting",
+      "postal_code": "50552"
+    },
+    {
+      "id": "33.22.13.2012",
+      "name": "Jatijajar",
+      "postal_code": "50552"
+    },
+    {
+      "id": "33.22.13.2013",
+      "name": "Diwak",
+      "postal_code": "50552"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

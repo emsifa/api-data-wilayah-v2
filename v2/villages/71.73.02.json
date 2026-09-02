@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "71.73.02.1009",
+      "name": "Talete Satu",
+      "postal_code": "95441"
+    },
+    {
+      "id": "71.73.02.1010",
+      "name": "Talete Dua",
+      "postal_code": "95441"
+    },
+    {
+      "id": "71.73.02.1011",
+      "name": "Kamasi",
+      "postal_code": "95442"
+    },
+    {
+      "id": "71.73.02.1012",
+      "name": "Kolongan",
+      "postal_code": "95442"
+    },
+    {
+      "id": "71.73.02.1015",
+      "name": "Matani Satu",
+      "postal_code": "95445"
+    },
+    {
+      "id": "71.73.02.1016",
+      "name": "Matani Dua",
+      "postal_code": "95444"
+    },
+    {
+      "id": "71.73.02.1017",
+      "name": "Matani Tiga",
+      "postal_code": "95443"
+    },
+    {
+      "id": "71.73.02.1018",
+      "name": "Kamasi Satu",
+      "postal_code": "95441"
+    },
+    {
+      "id": "71.73.02.1019",
+      "name": "Kolongan Satu",
+      "postal_code": "95441"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

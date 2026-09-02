@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "53.15.03.1032",
+      "name": "Tangge",
+      "postal_code": "86753"
+    },
+    {
+      "id": "53.15.03.2003",
+      "name": "Wae Wako",
+      "postal_code": "86753"
+    },
+    {
+      "id": "53.15.03.2010",
+      "name": "Wae Kanta",
+      "postal_code": "86753"
+    },
+    {
+      "id": "53.15.03.2011",
+      "name": "Ponto Ara",
+      "postal_code": "86753"
+    },
+    {
+      "id": "53.15.03.2012",
+      "name": "Wae Bangka",
+      "postal_code": "86753"
+    },
+    {
+      "id": "53.15.03.2013",
+      "name": "Pong Majok",
+      "postal_code": "86753"
+    },
+    {
+      "id": "53.15.03.2014",
+      "name": "Daleng",
+      "postal_code": "86753"
+    },
+    {
+      "id": "53.15.03.2021",
+      "name": "Siru",
+      "postal_code": "86753"
+    },
+    {
+      "id": "53.15.03.2022",
+      "name": "Pondo",
+      "postal_code": "86753"
+    },
+    {
+      "id": "53.15.03.2023",
+      "name": "Poco Rutang",
+      "postal_code": "86753"
+    },
+    {
+      "id": "53.15.03.2025",
+      "name": "Ngancar",
+      "postal_code": "86753"
+    },
+    {
+      "id": "53.15.03.2033",
+      "name": "LIang Sola",
+      "postal_code": "86753"
+    },
+    {
+      "id": "53.15.03.2034",
+      "name": "Wae Mowol",
+      "postal_code": "86753"
+    },
+    {
+      "id": "53.15.03.2035",
+      "name": "Golo Ndeweng",
+      "postal_code": "86753"
+    },
+    {
+      "id": "53.15.03.2036",
+      "name": "Poco Dedeng",
+      "postal_code": "86753"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

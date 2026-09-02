@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "81.08.17.2001",
+      "name": "Purpura",
+      "postal_code": "97441"
+    },
+    {
+      "id": "81.08.17.2002",
+      "name": "Nomaha",
+      "postal_code": "97441"
+    },
+    {
+      "id": "81.08.17.2003",
+      "name": "Labelau",
+      "postal_code": "97441"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

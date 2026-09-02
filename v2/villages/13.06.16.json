@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "13.06.16.2001",
+      "name": "Malalak Utara",
+      "postal_code": "26163"
+    },
+    {
+      "id": "13.06.16.2002",
+      "name": "Malalak Timur",
+      "postal_code": "26163"
+    },
+    {
+      "id": "13.06.16.2003",
+      "name": "Malalak Selatan",
+      "postal_code": "26163"
+    },
+    {
+      "id": "13.06.16.2004",
+      "name": "Malalak Barat",
+      "postal_code": "26163"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

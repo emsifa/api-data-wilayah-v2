@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "15.71.06.1001",
+      "name": "Pasir Panjang",
+      "postal_code": "36265"
+    },
+    {
+      "id": "15.71.06.1002",
+      "name": "Tanjung Raden",
+      "postal_code": "36264"
+    },
+    {
+      "id": "15.71.06.1003",
+      "name": "Olak Kemang",
+      "postal_code": "36262"
+    },
+    {
+      "id": "15.71.06.1004",
+      "name": "Tanjung Pasir",
+      "postal_code": "36263"
+    },
+    {
+      "id": "15.71.06.1005",
+      "name": "Ulu Gedong",
+      "postal_code": "36261"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

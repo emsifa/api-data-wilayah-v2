@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "35.77.03.1001",
+      "name": "Mojorejo",
+      "postal_code": "63139"
+    },
+    {
+      "id": "35.77.03.1002",
+      "name": "Pandean",
+      "postal_code": "63133"
+    },
+    {
+      "id": "35.77.03.1003",
+      "name": "Banjarejo",
+      "postal_code": "63137"
+    },
+    {
+      "id": "35.77.03.1004",
+      "name": "Kuncen",
+      "postal_code": "63135"
+    },
+    {
+      "id": "35.77.03.1005",
+      "name": "Manisrejo",
+      "postal_code": "63138"
+    },
+    {
+      "id": "35.77.03.1006",
+      "name": "Kejuron",
+      "postal_code": "63132"
+    },
+    {
+      "id": "35.77.03.1007",
+      "name": "Josenan",
+      "postal_code": "63134"
+    },
+    {
+      "id": "35.77.03.1008",
+      "name": "Demangan",
+      "postal_code": "63136"
+    },
+    {
+      "id": "35.77.03.1009",
+      "name": "Taman",
+      "postal_code": "63131"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

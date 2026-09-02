@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "12.11.09.2001",
+      "name": "Simanduma",
+      "postal_code": "22283"
+    },
+    {
+      "id": "12.11.09.2002",
+      "name": "Bandar Huta Usang",
+      "postal_code": "22283"
+    },
+    {
+      "id": "12.11.09.2003",
+      "name": "Onan Lama",
+      "postal_code": "22283"
+    },
+    {
+      "id": "12.11.09.2004",
+      "name": "Lingga Raja",
+      "postal_code": "22283"
+    },
+    {
+      "id": "12.11.09.2005",
+      "name": "Laksa",
+      "postal_code": "22283"
+    },
+    {
+      "id": "12.11.09.2006",
+      "name": "Tanjung Saluksuk",
+      "postal_code": "22283"
+    },
+    {
+      "id": "12.11.09.2007",
+      "name": "Bukit Tinggi",
+      "postal_code": "22283"
+    },
+    {
+      "id": "12.11.09.2008",
+      "name": "Simartugan",
+      "postal_code": "22283"
+    },
+    {
+      "id": "12.11.09.2009",
+      "name": "Kuta Usang",
+      "postal_code": "22283"
+    },
+    {
+      "id": "12.11.09.2010",
+      "name": "Lingga Raja II",
+      "postal_code": "22283"
+    },
+    {
+      "id": "12.11.09.2011",
+      "name": "Mbinanga",
+      "postal_code": "22283"
+    },
+    {
+      "id": "12.11.09.2012",
+      "name": "Bukit Baru",
+      "postal_code": "22283"
+    },
+    {
+      "id": "12.11.09.2013",
+      "name": "Perrik Mbue",
+      "postal_code": "22283"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

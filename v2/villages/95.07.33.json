@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "95.07.33.2001",
+      "name": "Odika",
+      "postal_code": "99571"
+    },
+    {
+      "id": "95.07.33.2002",
+      "name": "Yubumabur",
+      "postal_code": "99571"
+    },
+    {
+      "id": "95.07.33.2003",
+      "name": "Ekapame",
+      "postal_code": "99571"
+    },
+    {
+      "id": "95.07.33.2004",
+      "name": "Papani",
+      "postal_code": "99571"
+    },
+    {
+      "id": "95.07.33.2005",
+      "name": "Kubagalo",
+      "postal_code": "99571"
+    },
+    {
+      "id": "95.07.33.2006",
+      "name": "Jilekme",
+      "postal_code": "99571"
+    },
+    {
+      "id": "95.07.33.2007",
+      "name": "Wanome",
+      "postal_code": "99571"
+    },
+    {
+      "id": "95.07.33.2008",
+      "name": "Yiluweneri",
+      "postal_code": "99571"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

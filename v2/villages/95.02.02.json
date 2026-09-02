@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "95.02.02.2001",
+      "name": "Oknanggul",
+      "postal_code": "99421"
+    },
+    {
+      "id": "95.02.02.2002",
+      "name": "Kukihil",
+      "postal_code": "99574"
+    },
+    {
+      "id": "95.02.02.2003",
+      "name": "Kiwi",
+      "postal_code": "99574"
+    },
+    {
+      "id": "95.02.02.2004",
+      "name": "Berusaha",
+      "postal_code": "99421"
+    },
+    {
+      "id": "95.02.02.2005",
+      "name": "Pelebib",
+      "postal_code": "99574"
+    },
+    {
+      "id": "95.02.02.2006",
+      "name": "Sopamikma",
+      "postal_code": "99574"
+    },
+    {
+      "id": "95.02.02.2007",
+      "name": "Asua",
+      "postal_code": "99421"
+    },
+    {
+      "id": "95.02.02.2008",
+      "name": "Lolim",
+      "postal_code": "99574"
+    },
+    {
+      "id": "95.02.02.2009",
+      "name": "Pomding",
+      "postal_code": "99574"
+    },
+    {
+      "id": "95.02.02.2010",
+      "name": "Diip",
+      "postal_code": "99421"
+    },
+    {
+      "id": "95.02.02.2011",
+      "name": "Delpem",
+      "postal_code": "99574"
+    },
+    {
+      "id": "95.02.02.2012",
+      "name": "Mangoldoki",
+      "postal_code": "99574"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "61.02.06.2001",
+      "name": "Toho Ilir",
+      "postal_code": "78360"
+    },
+    {
+      "id": "61.02.06.2002",
+      "name": "Pak Laheng",
+      "postal_code": "78360"
+    },
+    {
+      "id": "61.02.06.2003",
+      "name": "Kecurit",
+      "postal_code": "78360"
+    },
+    {
+      "id": "61.02.06.2004",
+      "name": "Terap",
+      "postal_code": "78360"
+    },
+    {
+      "id": "61.02.06.2005",
+      "name": "Sepang",
+      "postal_code": "78360"
+    },
+    {
+      "id": "61.02.06.2006",
+      "name": "Pak Utan",
+      "postal_code": "78360"
+    },
+    {
+      "id": "61.02.06.2007",
+      "name": "Benuang",
+      "postal_code": "78360"
+    },
+    {
+      "id": "61.02.06.2008",
+      "name": "Sambora",
+      "postal_code": "78360"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

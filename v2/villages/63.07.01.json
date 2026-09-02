@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "63.07.01.2001",
+      "name": "Pengambau Hilir Luar",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2002",
+      "name": "Panggung",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2003",
+      "name": "Barikin",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2004",
+      "name": "Andang",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2005",
+      "name": "Pengambau Hilir Dalam",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2006",
+      "name": "Haruyan",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2007",
+      "name": "Haruyan Seberang",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2008",
+      "name": "Pengambau Hulu",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2009",
+      "name": "Sungai Harang",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2010",
+      "name": "Batu Panggung",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2011",
+      "name": "Mangunang",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2012",
+      "name": "Hapulang",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2013",
+      "name": "Lok Buntar",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2014",
+      "name": "Tabat Padang",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2015",
+      "name": "Mangunang Seberang",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2016",
+      "name": "Pandanu",
+      "postal_code": "71363"
+    },
+    {
+      "id": "63.07.01.2017",
+      "name": "Teluk Mesjid",
+      "postal_code": "71363"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

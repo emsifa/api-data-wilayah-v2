@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "64.08.10.2001",
+      "name": "Kaliorang",
+      "postal_code": "75617"
+    },
+    {
+      "id": "64.08.10.2006",
+      "name": "Bukit Makmur",
+      "postal_code": "75617"
+    },
+    {
+      "id": "64.08.10.2007",
+      "name": "Bukit Harapan",
+      "postal_code": "75617"
+    },
+    {
+      "id": "64.08.10.2008",
+      "name": "Citra Manunggal Jaya",
+      "postal_code": "75617"
+    },
+    {
+      "id": "64.08.10.2009",
+      "name": "Bangun Jaya",
+      "postal_code": "75617"
+    },
+    {
+      "id": "64.08.10.2010",
+      "name": "Bumi Sejahtera",
+      "postal_code": "75617"
+    },
+    {
+      "id": "64.08.10.2013",
+      "name": "Selangkau",
+      "postal_code": "75617"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

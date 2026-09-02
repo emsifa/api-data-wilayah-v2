@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "64.02.04.2001",
+      "name": "Sepatin",
+      "postal_code": "75381"
+    },
+    {
+      "id": "64.02.04.2002",
+      "name": "Muara Pantuan",
+      "postal_code": "75381"
+    },
+    {
+      "id": "64.02.04.2003",
+      "name": "Tani Baru",
+      "postal_code": "75381"
+    },
+    {
+      "id": "64.02.04.2004",
+      "name": "Kutai Lama",
+      "postal_code": "75381"
+    },
+    {
+      "id": "64.02.04.2005",
+      "name": "Anggana",
+      "postal_code": "75381"
+    },
+    {
+      "id": "64.02.04.2006",
+      "name": "Sungai Meriam",
+      "postal_code": "75381"
+    },
+    {
+      "id": "64.02.04.2007",
+      "name": "Sidomulyo",
+      "postal_code": "76131"
+    },
+    {
+      "id": "64.02.04.2008",
+      "name": "Handil Terusan",
+      "postal_code": "75381"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

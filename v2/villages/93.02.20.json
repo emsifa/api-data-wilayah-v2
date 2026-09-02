@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "93.02.20.2001",
+      "name": "Wanggom",
+      "postal_code": "99654"
+    },
+    {
+      "id": "93.02.20.2002",
+      "name": "Kawagit",
+      "postal_code": "99654"
+    },
+    {
+      "id": "93.02.20.2003",
+      "name": "Kombay",
+      "postal_code": "99654"
+    },
+    {
+      "id": "93.02.20.2004",
+      "name": "Biwage 1",
+      "postal_code": "99654"
+    },
+    {
+      "id": "93.02.20.2005",
+      "name": "Biwage 2",
+      "postal_code": "99654"
+    },
+    {
+      "id": "93.02.20.2006",
+      "name": "Niop",
+      "postal_code": "99654"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

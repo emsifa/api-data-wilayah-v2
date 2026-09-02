@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "35.78.21.1001",
+      "name": "Dukuh Pakis",
+      "postal_code": "60225"
+    },
+    {
+      "id": "35.78.21.1002",
+      "name": "Dukuh Kupang",
+      "postal_code": "60225"
+    },
+    {
+      "id": "35.78.21.1003",
+      "name": "Gunung Sari",
+      "postal_code": "60224"
+    },
+    {
+      "id": "35.78.21.1004",
+      "name": "Pradah Kalikendal",
+      "postal_code": "60226"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

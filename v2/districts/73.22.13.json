@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "73.22.13",
+    "name": "Sukamaju Selatan",
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    },
+    "regency": {
+      "id": "73.22",
+      "name": "Kabupaten Luwu Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

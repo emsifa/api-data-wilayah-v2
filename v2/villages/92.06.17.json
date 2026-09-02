@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "92.06.17.2001",
+      "name": "Masyeta",
+      "postal_code": "98162"
+    },
+    {
+      "id": "92.06.17.2002",
+      "name": "Mestofu",
+      "postal_code": "98162"
+    },
+    {
+      "id": "92.06.17.2003",
+      "name": "Kalibiru",
+      "postal_code": "98162"
+    },
+    {
+      "id": "92.06.17.2004",
+      "name": "Mesomda",
+      "postal_code": "98162"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

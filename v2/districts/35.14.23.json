@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "35.14.23",
+    "name": "Rejoso",
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    },
+    "regency": {
+      "id": "35.14",
+      "name": "Kabupaten Pasuruan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

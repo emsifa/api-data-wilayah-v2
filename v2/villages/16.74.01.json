@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "16.74.01.1001",
+      "name": "Prabumulih",
+      "postal_code": "31123"
+    },
+    {
+      "id": "16.74.01.1007",
+      "name": "Patih Galung",
+      "postal_code": "31127"
+    },
+    {
+      "id": "16.74.01.1009",
+      "name": "Muntang Tapus",
+      "postal_code": "31121"
+    },
+    {
+      "id": "16.74.01.1011",
+      "name": "Gunung Kemala",
+      "postal_code": "31122"
+    },
+    {
+      "id": "16.74.01.1012",
+      "name": "Payuputat",
+      "postal_code": "31141"
+    },
+    {
+      "id": "16.74.01.1014",
+      "name": "Tebing Tanah Puteh",
+      "postal_code": "31127"
+    },
+    {
+      "id": "16.74.01.2013",
+      "name": "Tanjung Telang",
+      "postal_code": "31146"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

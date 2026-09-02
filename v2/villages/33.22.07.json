@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "33.22.07.2001",
+      "name": "Gedong",
+      "postal_code": "50664"
+    },
+    {
+      "id": "33.22.07.2002",
+      "name": "Kebumen",
+      "postal_code": "50664"
+    },
+    {
+      "id": "33.22.07.2003",
+      "name": "Sepakung",
+      "postal_code": "50664"
+    },
+    {
+      "id": "33.22.07.2004",
+      "name": "Wirogomo",
+      "postal_code": "50664"
+    },
+    {
+      "id": "33.22.07.2005",
+      "name": "Kemambang",
+      "postal_code": "50664"
+    },
+    {
+      "id": "33.22.07.2006",
+      "name": "Tegaron",
+      "postal_code": "50664"
+    },
+    {
+      "id": "33.22.07.2007",
+      "name": "Rowoboni",
+      "postal_code": "50664"
+    },
+    {
+      "id": "33.22.07.2008",
+      "name": "Kebondowo",
+      "postal_code": "50664"
+    },
+    {
+      "id": "33.22.07.2009",
+      "name": "Banyubiru",
+      "postal_code": "50664"
+    },
+    {
+      "id": "33.22.07.2010",
+      "name": "Ngrapah",
+      "postal_code": "50664"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "35.11.20.2001",
+      "name": "Gadingsari",
+      "postal_code": "68251"
+    },
+    {
+      "id": "35.11.20.2002",
+      "name": "Sumber Waru",
+      "postal_code": "68251"
+    },
+    {
+      "id": "35.11.20.2003",
+      "name": "Kembangan",
+      "postal_code": "68251"
+    },
+    {
+      "id": "35.11.20.2004",
+      "name": "Baratan",
+      "postal_code": "68251"
+    },
+    {
+      "id": "35.11.20.2005",
+      "name": "Binakal",
+      "postal_code": "68251"
+    },
+    {
+      "id": "35.11.20.2006",
+      "name": "Jeruksoksok",
+      "postal_code": "68251"
+    },
+    {
+      "id": "35.11.20.2007",
+      "name": "Sumber Tengah",
+      "postal_code": "68251"
+    },
+    {
+      "id": "35.11.20.2008",
+      "name": "Bendelan",
+      "postal_code": "68251"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

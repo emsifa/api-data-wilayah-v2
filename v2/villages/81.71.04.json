@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "81.71.04.1008",
+      "name": "Tihu",
+      "postal_code": "97237"
+    },
+    {
+      "id": "81.71.04.2001",
+      "name": "Hunuth/Durian Patah",
+      "postal_code": "97233"
+    },
+    {
+      "id": "81.71.04.2002",
+      "name": "Poka",
+      "postal_code": "97233"
+    },
+    {
+      "id": "81.71.04.2003",
+      "name": "Rumah Tiga",
+      "postal_code": "97234"
+    },
+    {
+      "id": "81.71.04.2004",
+      "name": "Wayame",
+      "postal_code": "97234"
+    },
+    {
+      "id": "81.71.04.2005",
+      "name": "Tawiri",
+      "postal_code": "97235"
+    },
+    {
+      "id": "81.71.04.2006",
+      "name": "Hative Besar",
+      "postal_code": "97234"
+    },
+    {
+      "id": "81.71.04.2007",
+      "name": "Laha",
+      "postal_code": "97236"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

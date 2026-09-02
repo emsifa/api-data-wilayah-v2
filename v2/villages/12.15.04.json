@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "12.15.04.2001",
+      "name": "Ulumerah",
+      "postal_code": "22276"
+    },
+    {
+      "id": "12.15.04.2002",
+      "name": "Pardomuan",
+      "postal_code": "22276"
+    },
+    {
+      "id": "12.15.04.2003",
+      "name": "Silima Kuta",
+      "postal_code": "22276"
+    },
+    {
+      "id": "12.15.04.2004",
+      "name": "Lae Langge Namuseng",
+      "postal_code": "22276"
+    },
+    {
+      "id": "12.15.04.2005",
+      "name": "Cikaok",
+      "postal_code": "22276"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

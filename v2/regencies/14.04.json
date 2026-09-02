@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "14.04",
+    "name": "Kabupaten Indragiri Hilir",
+    "capital": "Tembilahan",
+    "lat": -0.3151906894045306,
+    "lng": 103.15785004555477,
+    "elv": 6,
+    "tz": 7,
+    "population": 713294,
+    "total_area": 13518.47,
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

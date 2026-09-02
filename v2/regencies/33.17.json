@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "33.17",
+    "name": "Kabupaten Rembang",
+    "capital": "Rembang",
+    "lat": -6.703466029933058,
+    "lng": 111.34262144071498,
+    "elv": 9,
+    "tz": 7,
+    "population": 665501,
+    "total_area": 1038.32,
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

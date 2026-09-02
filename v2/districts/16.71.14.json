@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "16.71.14",
+    "name": "Plaju",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.71",
+      "name": "Kota Palembang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

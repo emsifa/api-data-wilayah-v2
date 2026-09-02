@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "21.03.05",
+    "name": "Bunguran Barat",
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    },
+    "regency": {
+      "id": "21.03",
+      "name": "Kabupaten Natuna"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

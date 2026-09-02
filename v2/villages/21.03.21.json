@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "21.03.21.2001",
+      "name": "Pulau Tiga",
+      "postal_code": "29786"
+    },
+    {
+      "id": "21.03.21.2002",
+      "name": "Tanjung Kumbik Utara",
+      "postal_code": "29786"
+    },
+    {
+      "id": "21.03.21.2003",
+      "name": "Setumuk",
+      "postal_code": "29786"
+    },
+    {
+      "id": "21.03.21.2004",
+      "name": "Selading",
+      "postal_code": "29786"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

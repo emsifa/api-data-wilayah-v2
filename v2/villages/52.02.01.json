@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "52.02.01.1001",
+      "name": "Praya",
+      "postal_code": "83511"
+    },
+    {
+      "id": "52.02.01.1002",
+      "name": "Leneng",
+      "postal_code": "83515"
+    },
+    {
+      "id": "52.02.01.1003",
+      "name": "Gerunung",
+      "postal_code": "83514"
+    },
+    {
+      "id": "52.02.01.1004",
+      "name": "Semayan",
+      "postal_code": "83512"
+    },
+    {
+      "id": "52.02.01.1005",
+      "name": "Perapen",
+      "postal_code": "83519"
+    },
+    {
+      "id": "52.02.01.1006",
+      "name": "Tiwugalih",
+      "postal_code": "83518"
+    },
+    {
+      "id": "52.02.01.1007",
+      "name": "Gonjak",
+      "postal_code": "83522"
+    },
+    {
+      "id": "52.02.01.1008",
+      "name": "Panji Sari",
+      "postal_code": "83516"
+    },
+    {
+      "id": "52.02.01.1009",
+      "name": "Renteng",
+      "postal_code": "83521"
+    },
+    {
+      "id": "52.02.01.2010",
+      "name": "Mertak Tombok",
+      "postal_code": "83511"
+    },
+    {
+      "id": "52.02.01.2011",
+      "name": "Aik Mual",
+      "postal_code": "83511"
+    },
+    {
+      "id": "52.02.01.2012",
+      "name": "Montong Terep",
+      "postal_code": "83511"
+    },
+    {
+      "id": "52.02.01.2013",
+      "name": "Jago",
+      "postal_code": "83511"
+    },
+    {
+      "id": "52.02.01.2014",
+      "name": "Bunut Baok",
+      "postal_code": "83511"
+    },
+    {
+      "id": "52.02.01.2015",
+      "name": "Mekar Damai",
+      "postal_code": "83511"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

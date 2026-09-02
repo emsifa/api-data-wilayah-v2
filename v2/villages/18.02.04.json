@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "18.02.04.1005",
+      "name": "Gunung Sugih",
+      "postal_code": "34165"
+    },
+    {
+      "id": "18.02.04.1006",
+      "name": "Gunung S. Raya",
+      "postal_code": "34165"
+    },
+    {
+      "id": "18.02.04.1007",
+      "name": "Komering Agung",
+      "postal_code": "34165"
+    },
+    {
+      "id": "18.02.04.1008",
+      "name": "Seputih Jaya",
+      "postal_code": "34165"
+    },
+    {
+      "id": "18.02.04.2001",
+      "name": "Terbanggi Subing",
+      "postal_code": "34165"
+    },
+    {
+      "id": "18.02.04.2002",
+      "name": "Terbanggi Agung",
+      "postal_code": "34165"
+    },
+    {
+      "id": "18.02.04.2003",
+      "name": "Fajar Bulan",
+      "postal_code": "34165"
+    },
+    {
+      "id": "18.02.04.2004",
+      "name": "Komering Putih",
+      "postal_code": "34165"
+    },
+    {
+      "id": "18.02.04.2009",
+      "name": "Buyut Udik",
+      "postal_code": "34165"
+    },
+    {
+      "id": "18.02.04.2010",
+      "name": "Buyut Ilir",
+      "postal_code": "34165"
+    },
+    {
+      "id": "18.02.04.2011",
+      "name": "Bangun Rejo",
+      "postal_code": "34165"
+    },
+    {
+      "id": "18.02.04.2012",
+      "name": "Wono Sari",
+      "postal_code": "34165"
+    },
+    {
+      "id": "18.02.04.2013",
+      "name": "Putra Buyut",
+      "postal_code": "34165"
+    },
+    {
+      "id": "18.02.04.2014",
+      "name": "Gunung Sari",
+      "postal_code": "34165"
+    },
+    {
+      "id": "18.02.04.2015",
+      "name": "Buyut Utara",
+      "postal_code": "34165"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

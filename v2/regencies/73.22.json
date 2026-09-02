@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "73.22",
+    "name": "Kabupaten Luwu Utara",
+    "capital": "Masamba",
+    "lat": -2.5498538223374445,
+    "lng": 120.34615805711422,
+    "elv": 61,
+    "tz": 8,
+    "population": 335161,
+    "total_area": 7422.257,
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

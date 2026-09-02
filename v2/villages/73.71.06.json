@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "73.71.06.1001",
+      "name": "Malimongan Baru",
+      "postal_code": "90152"
+    },
+    {
+      "id": "73.71.06.1002",
+      "name": "Wajo Baru",
+      "postal_code": "90151"
+    },
+    {
+      "id": "73.71.06.1003",
+      "name": "Gaddong",
+      "postal_code": "90157"
+    },
+    {
+      "id": "73.71.06.1004",
+      "name": "Bontoala",
+      "postal_code": "90156"
+    },
+    {
+      "id": "73.71.06.1005",
+      "name": "Baraya",
+      "postal_code": "90153"
+    },
+    {
+      "id": "73.71.06.1006",
+      "name": "Layang",
+      "postal_code": "90154"
+    },
+    {
+      "id": "73.71.06.1007",
+      "name": "Parang Layang",
+      "postal_code": "90155"
+    },
+    {
+      "id": "73.71.06.1008",
+      "name": "Bontoala Tua",
+      "postal_code": "90156"
+    },
+    {
+      "id": "73.71.06.1009",
+      "name": "Bontoala Parang",
+      "postal_code": "90157"
+    },
+    {
+      "id": "73.71.06.1010",
+      "name": "Tompo Balang",
+      "postal_code": "90151"
+    },
+    {
+      "id": "73.71.06.1011",
+      "name": "Bunga Ejaya",
+      "postal_code": "90154"
+    },
+    {
+      "id": "73.71.06.1012",
+      "name": "Timungan Lompoa",
+      "postal_code": "90151"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

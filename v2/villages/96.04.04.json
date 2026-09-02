@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "96.04.04.2001",
+      "name": "Kwoor",
+      "postal_code": "98474"
+    },
+    {
+      "id": "96.04.04.2002",
+      "name": "Hopmare",
+      "postal_code": "98474"
+    },
+    {
+      "id": "96.04.04.2003",
+      "name": "Orwen",
+      "postal_code": "98474"
+    },
+    {
+      "id": "96.04.04.2004",
+      "name": "Barar",
+      "postal_code": "98474"
+    },
+    {
+      "id": "96.04.04.2005",
+      "name": "Esmambo",
+      "postal_code": "98474"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

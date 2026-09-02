@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "17.09.01.2001",
+      "name": "Taba Terunjam",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.01.2002",
+      "name": "Talang Empat",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.01.2003",
+      "name": "Padang Tambak",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.01.2004",
+      "name": "Durian Demang",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.01.2005",
+      "name": "Pelajau",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.01.2007",
+      "name": "Dusun Baru II",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.01.2008",
+      "name": "Penanding",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.01.2009",
+      "name": "Karang Tinggi",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.01.2010",
+      "name": "Renah Lebar",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.01.2011",
+      "name": "Kancing",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.01.2012",
+      "name": "Ujung Karang",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.01.2013",
+      "name": "Taba Mutung",
+      "postal_code": "38382"
+    },
+    {
+      "id": "17.09.01.2015",
+      "name": "Renah Semanek",
+      "postal_code": "38382"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

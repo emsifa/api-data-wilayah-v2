@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "14.71.07.1005",
+      "name": "Simpang Tiga",
+      "postal_code": "28284"
+    },
+    {
+      "id": "14.71.07.1006",
+      "name": "Tangkerang Selatan",
+      "postal_code": "28288"
+    },
+    {
+      "id": "14.71.07.1008",
+      "name": "Tangkerang Utara",
+      "postal_code": "28289"
+    },
+    {
+      "id": "14.71.07.1011",
+      "name": "Tangkerang Labuai",
+      "postal_code": "28281"
+    },
+    {
+      "id": "14.71.07.1012",
+      "name": "Airdingin",
+      "postal_code": "28284"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

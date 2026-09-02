@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.12.17.2001",
+      "name": "Cangkring",
+      "postal_code": "45258"
+    },
+    {
+      "id": "32.12.17.2002",
+      "name": "Cantigi Kulon",
+      "postal_code": "45258"
+    },
+    {
+      "id": "32.12.17.2003",
+      "name": "Cantigi Wetan",
+      "postal_code": "45258"
+    },
+    {
+      "id": "32.12.17.2004",
+      "name": "Panyingkiran Kidul",
+      "postal_code": "45258"
+    },
+    {
+      "id": "32.12.17.2005",
+      "name": "Panyingkiran Lor",
+      "postal_code": "45258"
+    },
+    {
+      "id": "32.12.17.2006",
+      "name": "Lamarantarung",
+      "postal_code": "45258"
+    },
+    {
+      "id": "32.12.17.2007",
+      "name": "Cemara",
+      "postal_code": "45253"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

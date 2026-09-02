@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "76.04.06.1005",
+      "name": "Amassangan",
+      "postal_code": "91312"
+    },
+    {
+      "id": "76.04.06.2001",
+      "name": "Tonyaman",
+      "postal_code": "91312"
+    },
+    {
+      "id": "76.04.06.2002",
+      "name": "Kuajang",
+      "postal_code": "91351"
+    },
+    {
+      "id": "76.04.06.2003",
+      "name": "Paku",
+      "postal_code": "91351"
+    },
+    {
+      "id": "76.04.06.2004",
+      "name": "Mirring",
+      "postal_code": "91312"
+    },
+    {
+      "id": "76.04.06.2006",
+      "name": "Batetangnga",
+      "postal_code": "91312"
+    },
+    {
+      "id": "76.04.06.2007",
+      "name": "Mammi",
+      "postal_code": "91311"
+    },
+    {
+      "id": "76.04.06.2008",
+      "name": "Kaleok",
+      "postal_code": "91312"
+    },
+    {
+      "id": "76.04.06.2009",
+      "name": "Amola",
+      "postal_code": "91312"
+    },
+    {
+      "id": "76.04.06.2010",
+      "name": "Rea",
+      "postal_code": "91312"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

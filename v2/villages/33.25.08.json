@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "33.25.08.2001",
+      "name": "Ngaliyan",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2002",
+      "name": "Sukorejo",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2003",
+      "name": "Tembok",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2004",
+      "name": "Donorejo",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2005",
+      "name": "Sidomulyo",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2006",
+      "name": "Kalisalak",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2007",
+      "name": "Limpung",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2008",
+      "name": "Kepuh",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2009",
+      "name": "Sempu",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2010",
+      "name": "Babadan",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2011",
+      "name": "Plumbon",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2012",
+      "name": "Amongrogo",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2013",
+      "name": "Dlisen",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2015",
+      "name": "Rowosari",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2016",
+      "name": "Pungangan",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2023",
+      "name": "Lobang",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.08.2024",
+      "name": "Wonokerso",
+      "postal_code": "51271"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

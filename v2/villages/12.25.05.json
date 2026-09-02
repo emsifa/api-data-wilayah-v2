@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": "12.25.05.2001",
+      "name": "Simaeasi",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2002",
+      "name": "Lologolu",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2003",
+      "name": "Tuwuna",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2004",
+      "name": "Tuhemberua",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2005",
+      "name": "Lolozirugi",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2006",
+      "name": "Lakhene",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2007",
+      "name": "Hiliwaloo I",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2008",
+      "name": "Sianaa",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2009",
+      "name": "Fadoro",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2010",
+      "name": "Iraonogambo",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2011",
+      "name": "Tuhoowo",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2012",
+      "name": "Fadoro Bahili",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2013",
+      "name": "Tumori",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2014",
+      "name": "Lasara Baene",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2015",
+      "name": "Tetehosi",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2016",
+      "name": "Sisarahili I",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2017",
+      "name": "Doli-Doli",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2018",
+      "name": "Hayo",
+      "postal_code": "22867"
+    },
+    {
+      "id": "12.25.05.2019",
+      "name": "Zuzundrao",
+      "postal_code": "22862"
+    },
+    {
+      "id": "12.25.05.2020",
+      "name": "Sisobambowo",
+      "postal_code": "22862"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

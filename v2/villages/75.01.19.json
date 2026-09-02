@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "75.01.19.2001",
+      "name": "Tabongo Timur",
+      "postal_code": "96242"
+    },
+    {
+      "id": "75.01.19.2002",
+      "name": "Tabongo Barat",
+      "postal_code": "96242"
+    },
+    {
+      "id": "75.01.19.2003",
+      "name": "Limehe Barat",
+      "postal_code": "96242"
+    },
+    {
+      "id": "75.01.19.2004",
+      "name": "Limehe Timur",
+      "postal_code": "96242"
+    },
+    {
+      "id": "75.01.19.2005",
+      "name": "Ilomangga",
+      "postal_code": "96242"
+    },
+    {
+      "id": "75.01.19.2006",
+      "name": "Motinelo",
+      "postal_code": "96242"
+    },
+    {
+      "id": "75.01.19.2007",
+      "name": "Moahudu",
+      "postal_code": "96242"
+    },
+    {
+      "id": "75.01.19.2008",
+      "name": "Teratai",
+      "postal_code": "96242"
+    },
+    {
+      "id": "75.01.19.2009",
+      "name": "Limehu",
+      "postal_code": "96242"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

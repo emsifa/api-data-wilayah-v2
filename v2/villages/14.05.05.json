@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "14.05.05.1001",
+      "name": "Langgam",
+      "postal_code": "28380"
+    },
+    {
+      "id": "14.05.05.2002",
+      "name": "Tambak",
+      "postal_code": "28380"
+    },
+    {
+      "id": "14.05.05.2003",
+      "name": "Penarikan",
+      "postal_code": "28380"
+    },
+    {
+      "id": "14.05.05.2004",
+      "name": "Segati",
+      "postal_code": "28380"
+    },
+    {
+      "id": "14.05.05.2005",
+      "name": "Sotol",
+      "postal_code": "28380"
+    },
+    {
+      "id": "14.05.05.2006",
+      "name": "Pangkalan Gondai",
+      "postal_code": "28380"
+    },
+    {
+      "id": "14.05.05.2007",
+      "name": "Langkan",
+      "postal_code": "28380"
+    },
+    {
+      "id": "14.05.05.2008",
+      "name": "Padang Luas",
+      "postal_code": "28380"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "94.02.17.2001",
+      "name": "Dokome",
+      "postal_code": "98924"
+    },
+    {
+      "id": "94.02.17.2002",
+      "name": "Purbalo",
+      "postal_code": "98924"
+    },
+    {
+      "id": "94.02.17.2003",
+      "name": "Wurage",
+      "postal_code": "98924"
+    },
+    {
+      "id": "94.02.17.2004",
+      "name": "Nowoneri",
+      "postal_code": "98924"
+    },
+    {
+      "id": "94.02.17.2005",
+      "name": "Nowome",
+      "postal_code": "98924"
+    },
+    {
+      "id": "94.02.17.2006",
+      "name": "Imulineri",
+      "postal_code": "98924"
+    },
+    {
+      "id": "94.02.17.2007",
+      "name": "Molobak",
+      "postal_code": "98924"
+    },
+    {
+      "id": "94.02.17.2008",
+      "name": "Kimibut",
+      "postal_code": "98924"
+    },
+    {
+      "id": "94.02.17.2009",
+      "name": "Nunggwagi",
+      "postal_code": "98924"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

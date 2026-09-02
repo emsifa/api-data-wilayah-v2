@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.09.32.2001",
+      "name": "Aek Bange",
+      "postal_code": "21277"
+    },
+    {
+      "id": "12.09.32.2002",
+      "name": "Aek Korsik",
+      "postal_code": "21277"
+    },
+    {
+      "id": "12.09.32.2003",
+      "name": "Aek Ledong",
+      "postal_code": "21277"
+    },
+    {
+      "id": "12.09.32.2004",
+      "name": "Ledong Barat",
+      "postal_code": "21277"
+    },
+    {
+      "id": "12.09.32.2005",
+      "name": "Aek Nabuntu",
+      "postal_code": "21277"
+    },
+    {
+      "id": "12.09.32.2006",
+      "name": "Ledong Timur",
+      "postal_code": "21277"
+    },
+    {
+      "id": "12.09.32.2007",
+      "name": "Padang Sipirok",
+      "postal_code": "21277"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

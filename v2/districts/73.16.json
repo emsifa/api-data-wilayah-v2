@@ -1,18 +1,56 @@
 {
-  "data": {
-    "id": "73.16",
-    "name": "Kabupaten Enrekang",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
+  "data": [
+    {
+      "id": "73.16.01",
+      "name": "Maiwa"
     },
-    "regency": {
-      "id": "73.16",
-      "name": "Kabupaten Enrekang"
+    {
+      "id": "73.16.02",
+      "name": "Enrekang"
+    },
+    {
+      "id": "73.16.03",
+      "name": "Baraka"
+    },
+    {
+      "id": "73.16.04",
+      "name": "Anggeraja"
+    },
+    {
+      "id": "73.16.05",
+      "name": "Alla"
+    },
+    {
+      "id": "73.16.06",
+      "name": "Bungin"
+    },
+    {
+      "id": "73.16.07",
+      "name": "Cendana"
+    },
+    {
+      "id": "73.16.08",
+      "name": "Curio"
+    },
+    {
+      "id": "73.16.09",
+      "name": "Malua"
+    },
+    {
+      "id": "73.16.10",
+      "name": "Buntu Batu"
+    },
+    {
+      "id": "73.16.11",
+      "name": "Masalle"
+    },
+    {
+      "id": "73.16.12",
+      "name": "Baroko"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

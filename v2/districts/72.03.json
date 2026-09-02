@@ -1,18 +1,72 @@
 {
-  "data": {
-    "id": "72.03",
-    "name": "Kabupaten Donggala",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
+  "data": [
+    {
+      "id": "72.03.04",
+      "name": "Rio Pakava"
     },
-    "regency": {
-      "id": "72.03",
-      "name": "Kabupaten Donggala"
+    {
+      "id": "72.03.06",
+      "name": "Dampelas"
+    },
+    {
+      "id": "72.03.08",
+      "name": "Banawa"
+    },
+    {
+      "id": "72.03.09",
+      "name": "Labuan"
+    },
+    {
+      "id": "72.03.10",
+      "name": "Sindue"
+    },
+    {
+      "id": "72.03.11",
+      "name": "Sirenja"
+    },
+    {
+      "id": "72.03.12",
+      "name": "Balaesang"
+    },
+    {
+      "id": "72.03.14",
+      "name": "Sojol"
+    },
+    {
+      "id": "72.03.18",
+      "name": "Banawa Selatan"
+    },
+    {
+      "id": "72.03.19",
+      "name": "Tanantovea"
+    },
+    {
+      "id": "72.03.21",
+      "name": "Pinembani"
+    },
+    {
+      "id": "72.03.24",
+      "name": "Sindue Tombusabora"
+    },
+    {
+      "id": "72.03.25",
+      "name": "Sindue Tobata"
+    },
+    {
+      "id": "72.03.27",
+      "name": "Banawa Tengah"
+    },
+    {
+      "id": "72.03.30",
+      "name": "Sojol Utara"
+    },
+    {
+      "id": "72.03.31",
+      "name": "Balaesang Tanjung"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

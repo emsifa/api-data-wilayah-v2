@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "65.02.04.2001",
+      "name": "Data Dian",
+      "postal_code": "77571"
+    },
+    {
+      "id": "65.02.04.2002",
+      "name": "Long Pipa",
+      "postal_code": "77571"
+    },
+    {
+      "id": "65.02.04.2003",
+      "name": "Long Sule",
+      "postal_code": "77571"
+    },
+    {
+      "id": "65.02.04.2004",
+      "name": "Sungai Anai",
+      "postal_code": "77571"
+    },
+    {
+      "id": "65.02.04.2005",
+      "name": "Long Metun",
+      "postal_code": "77571"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

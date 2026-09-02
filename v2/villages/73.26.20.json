@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.26.20.2001",
+      "name": "Benteng Ka'do",
+      "postal_code": "91848"
+    },
+    {
+      "id": "73.26.20.2002",
+      "name": "Sikuku'",
+      "postal_code": "91848"
+    },
+    {
+      "id": "73.26.20.2003",
+      "name": "Polo Padang",
+      "postal_code": "91848"
+    },
+    {
+      "id": "73.26.20.2004",
+      "name": "Kantun Poya",
+      "postal_code": "91848"
+    },
+    {
+      "id": "73.26.20.2005",
+      "name": "Kapala Pitu",
+      "postal_code": "91848"
+    },
+    {
+      "id": "73.26.20.2006",
+      "name": "Benteng Mamullu",
+      "postal_code": "91848"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

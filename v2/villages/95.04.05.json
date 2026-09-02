@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "id": "95.04.05.2001",
+      "name": "Goyage",
+      "postal_code": "99025"
+    },
+    {
+      "id": "95.04.05.2002",
+      "name": "Yemarima",
+      "postal_code": "99415"
+    },
+    {
+      "id": "95.04.05.2003",
+      "name": "Tigikun",
+      "postal_code": "99025"
+    },
+    {
+      "id": "95.04.05.2004",
+      "name": "Dugi",
+      "postal_code": "99025"
+    },
+    {
+      "id": "95.04.05.2005",
+      "name": "Doge",
+      "postal_code": "99415"
+    },
+    {
+      "id": "95.04.05.2006",
+      "name": "Benari",
+      "postal_code": "99415"
+    },
+    {
+      "id": "95.04.05.2007",
+      "name": "Wijamurik",
+      "postal_code": "99025"
+    },
+    {
+      "id": "95.04.05.2008",
+      "name": "Woji",
+      "postal_code": "99025"
+    },
+    {
+      "id": "95.04.05.2009",
+      "name": "Mampulaga",
+      "postal_code": "99415"
+    },
+    {
+      "id": "95.04.05.2010",
+      "name": "Tidur Mabuk",
+      "postal_code": "99415"
+    },
+    {
+      "id": "95.04.05.2011",
+      "name": "Bini",
+      "postal_code": "99415"
+    },
+    {
+      "id": "95.04.05.2012",
+      "name": "Didelonik",
+      "postal_code": "99415"
+    },
+    {
+      "id": "95.04.05.2013",
+      "name": "Kumbu",
+      "postal_code": "99415"
+    },
+    {
+      "id": "95.04.05.2014",
+      "name": "Peko",
+      "postal_code": "99415"
+    },
+    {
+      "id": "95.04.05.2015",
+      "name": "Tiri",
+      "postal_code": "99415"
+    },
+    {
+      "id": "95.04.05.2016",
+      "name": "Tigir",
+      "postal_code": "99415"
+    },
+    {
+      "id": "95.04.05.2017",
+      "name": "Bopa",
+      "postal_code": "99415"
+    },
+    {
+      "id": "95.04.05.2018",
+      "name": "Angkasa",
+      "postal_code": "99025"
+    },
+    {
+      "id": "95.04.05.2019",
+      "name": "Gilok",
+      "postal_code": "99025"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

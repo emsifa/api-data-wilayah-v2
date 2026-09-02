@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "18.71.17.1001",
+      "name": "Enggal",
+      "postal_code": "35118"
+    },
+    {
+      "id": "18.71.17.1002",
+      "name": "Pelita",
+      "postal_code": "35117"
+    },
+    {
+      "id": "18.71.17.1003",
+      "name": "Tanjungkarang",
+      "postal_code": "35111"
+    },
+    {
+      "id": "18.71.17.1004",
+      "name": "Gunungsari",
+      "postal_code": "35111"
+    },
+    {
+      "id": "18.71.17.1005",
+      "name": "Rawalaut",
+      "postal_code": "35127"
+    },
+    {
+      "id": "18.71.17.1006",
+      "name": "Pahoman",
+      "postal_code": "35213"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

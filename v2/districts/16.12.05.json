@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "16.12.05",
+    "name": "Tanah Abang",
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    },
+    "regency": {
+      "id": "16.12",
+      "name": "Kabupaten Penukal Abab Lematang Ilir"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "18.07.16.2001",
+      "name": "Mataram Baru",
+      "postal_code": "34199"
+    },
+    {
+      "id": "18.07.16.2002",
+      "name": "Rajabasa Baru",
+      "postal_code": "34199"
+    },
+    {
+      "id": "18.07.16.2003",
+      "name": "Teluk Dalem",
+      "postal_code": "34199"
+    },
+    {
+      "id": "18.07.16.2004",
+      "name": "Way Areng",
+      "postal_code": "34199"
+    },
+    {
+      "id": "18.07.16.2005",
+      "name": "Tulung Pasik",
+      "postal_code": "34199"
+    },
+    {
+      "id": "18.07.16.2006",
+      "name": "Mandala Sari",
+      "postal_code": "34199"
+    },
+    {
+      "id": "18.07.16.2007",
+      "name": "Kebon Damar",
+      "postal_code": "34199"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

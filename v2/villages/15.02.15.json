@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "15.02.15.2001",
+      "name": "Sungai Limau",
+      "postal_code": "37355"
+    },
+    {
+      "id": "15.02.15.2002",
+      "name": "Sungai Bulian",
+      "postal_code": "37355"
+    },
+    {
+      "id": "15.02.15.2003",
+      "name": "Sri Sembilan",
+      "postal_code": "37355"
+    },
+    {
+      "id": "15.02.15.2004",
+      "name": "Bukit Subur",
+      "postal_code": "37355"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

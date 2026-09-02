@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "92.03.06.2001",
+      "name": "Malakuli",
+      "postal_code": "98032"
+    },
+    {
+      "id": "92.03.06.2002",
+      "name": "Faur",
+      "postal_code": "98032"
+    },
+    {
+      "id": "92.03.06.2003",
+      "name": "Kiaba",
+      "postal_code": "98032"
+    },
+    {
+      "id": "92.03.06.2004",
+      "name": "Antalisa",
+      "postal_code": "98032"
+    },
+    {
+      "id": "92.03.06.2005",
+      "name": "Tarak",
+      "postal_code": "98032"
+    },
+    {
+      "id": "92.03.06.2006",
+      "name": "Tuberwasak",
+      "postal_code": "98032"
+    },
+    {
+      "id": "92.03.06.2007",
+      "name": "Mas",
+      "postal_code": "98032"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

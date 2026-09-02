@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "53.13",
+    "name": "Kabupaten Lembata",
+    "capital": "Lewoleba",
+    "lat": -8.359888246008067,
+    "lng": 123.45924285276752,
+    "elv": 39,
+    "tz": 8,
+    "population": 149921,
+    "total_area": 1263.767,
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

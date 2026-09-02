@@ -1,18 +1,64 @@
 {
-  "data": {
-    "id": "17.05",
-    "name": "Kabupaten Seluma",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
+  "data": [
+    {
+      "id": "17.05.01",
+      "name": "Sukaraja"
     },
-    "regency": {
-      "id": "17.05",
-      "name": "Kabupaten Seluma"
+    {
+      "id": "17.05.02",
+      "name": "Seluma"
+    },
+    {
+      "id": "17.05.03",
+      "name": "Talo"
+    },
+    {
+      "id": "17.05.04",
+      "name": "Semidang Alas"
+    },
+    {
+      "id": "17.05.05",
+      "name": "Semidang Alas Maras"
+    },
+    {
+      "id": "17.05.06",
+      "name": "Air Periukan"
+    },
+    {
+      "id": "17.05.07",
+      "name": "Lubuk Sandi"
+    },
+    {
+      "id": "17.05.08",
+      "name": "Seluma Barat"
+    },
+    {
+      "id": "17.05.09",
+      "name": "Seluma Timur"
+    },
+    {
+      "id": "17.05.10",
+      "name": "Seluma Utara"
+    },
+    {
+      "id": "17.05.11",
+      "name": "Seluma Selatan"
+    },
+    {
+      "id": "17.05.12",
+      "name": "Talo Kecil"
+    },
+    {
+      "id": "17.05.13",
+      "name": "Ulu Talo"
+    },
+    {
+      "id": "17.05.14",
+      "name": "Ilir Talo"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

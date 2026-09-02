@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.06.36.2001",
+      "name": "Gombong",
+      "postal_code": "46156"
+    },
+    {
+      "id": "32.06.36.2002",
+      "name": "Bugel",
+      "postal_code": "46156"
+    },
+    {
+      "id": "32.06.36.2003",
+      "name": "Margasari",
+      "postal_code": "46156"
+    },
+    {
+      "id": "32.06.36.2004",
+      "name": "Pakemitan",
+      "postal_code": "46156"
+    },
+    {
+      "id": "32.06.36.2005",
+      "name": "Ciawi",
+      "postal_code": "46156"
+    },
+    {
+      "id": "32.06.36.2006",
+      "name": "Sukamantri",
+      "postal_code": "46156"
+    },
+    {
+      "id": "32.06.36.2007",
+      "name": "Pasirhuni",
+      "postal_code": "46156"
+    },
+    {
+      "id": "32.06.36.2008",
+      "name": "Citamba",
+      "postal_code": "46156"
+    },
+    {
+      "id": "32.06.36.2009",
+      "name": "Kertamukti",
+      "postal_code": "46156"
+    },
+    {
+      "id": "32.06.36.2010",
+      "name": "Kurniabakti",
+      "postal_code": "46156"
+    },
+    {
+      "id": "32.06.36.2011",
+      "name": "Pakemitankidul",
+      "postal_code": "46156"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

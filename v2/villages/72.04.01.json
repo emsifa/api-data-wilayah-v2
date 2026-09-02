@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "72.04.01.2001",
+      "name": "Kombo",
+      "postal_code": "94554"
+    },
+    {
+      "id": "72.04.01.2002",
+      "name": "Tampiala",
+      "postal_code": "94554"
+    },
+    {
+      "id": "72.04.01.2003",
+      "name": "Soni",
+      "postal_code": "94554"
+    },
+    {
+      "id": "72.04.01.2004",
+      "name": "Bangkir",
+      "postal_code": "94554"
+    },
+    {
+      "id": "72.04.01.2005",
+      "name": "Dongko",
+      "postal_code": "94554"
+    },
+    {
+      "id": "72.04.01.2006",
+      "name": "Mimbala",
+      "postal_code": "94554"
+    },
+    {
+      "id": "72.04.01.2007",
+      "name": "Lempe",
+      "postal_code": "94554"
+    },
+    {
+      "id": "72.04.01.2008",
+      "name": "Paddumpu",
+      "postal_code": "94554"
+    },
+    {
+      "id": "72.04.01.2009",
+      "name": "Abbajareng",
+      "postal_code": "94554"
+    },
+    {
+      "id": "72.04.01.2010",
+      "name": "Puse",
+      "postal_code": "94554"
+    },
+    {
+      "id": "72.04.01.2011",
+      "name": "Pallakawe",
+      "postal_code": "94554"
+    },
+    {
+      "id": "72.04.01.2012",
+      "name": "Simuntu",
+      "postal_code": "94554"
+    },
+    {
+      "id": "72.04.01.2013",
+      "name": "Lemba Harapan",
+      "postal_code": "94554"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

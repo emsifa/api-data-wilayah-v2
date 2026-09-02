@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "94.01.12.2001",
+      "name": "Bumi Raya",
+      "postal_code": "98856"
+    },
+    {
+      "id": "94.01.12.2002",
+      "name": "Waroki",
+      "postal_code": "98856"
+    },
+    {
+      "id": "94.01.12.2003",
+      "name": "Gerbang Sadu",
+      "postal_code": "98856"
+    },
+    {
+      "id": "94.01.12.2004",
+      "name": "Kali Semen",
+      "postal_code": "98856"
+    },
+    {
+      "id": "94.01.12.2005",
+      "name": "Wadio",
+      "postal_code": "98856"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

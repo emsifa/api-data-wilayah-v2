@@ -1,0 +1,20 @@
+{
+  "data": {
+    "id": "11.10",
+    "name": "Kabupaten Aceh Singkil",
+    "capital": "Singkil",
+    "lat": 2.2710939677616295,
+    "lng": 97.81532536767888,
+    "elv": 4,
+    "tz": 7,
+    "population": 140461,
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

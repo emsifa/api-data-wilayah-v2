@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "13.75.02.1001",
+      "name": "Campago Guguk Bulek",
+      "postal_code": "26128"
+    },
+    {
+      "id": "13.75.02.1002",
+      "name": "Campago Ipuh",
+      "postal_code": "26121"
+    },
+    {
+      "id": "13.75.02.1003",
+      "name": "Puhun Tembok",
+      "postal_code": "26124"
+    },
+    {
+      "id": "13.75.02.1004",
+      "name": "Kubu Gulai Bancah",
+      "postal_code": "26122"
+    },
+    {
+      "id": "13.75.02.1005",
+      "name": "Puhun Pintu Kabun",
+      "postal_code": "26123"
+    },
+    {
+      "id": "13.75.02.1006",
+      "name": "Pulai Anak Air",
+      "postal_code": "26125"
+    },
+    {
+      "id": "13.75.02.1007",
+      "name": "Koto Selayan",
+      "postal_code": "26126"
+    },
+    {
+      "id": "13.75.02.1008",
+      "name": "Garegeh",
+      "postal_code": "26127"
+    },
+    {
+      "id": "13.75.02.1009",
+      "name": "Manggis Ganting",
+      "postal_code": "26129"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "15.03.07.2001",
+      "name": "Lubuk Jering",
+      "postal_code": "37490"
+    },
+    {
+      "id": "15.03.07.2002",
+      "name": "Jernih",
+      "postal_code": "37490"
+    },
+    {
+      "id": "15.03.07.2003",
+      "name": "Desa Baru",
+      "postal_code": "37490"
+    },
+    {
+      "id": "15.03.07.2004",
+      "name": "Semurung",
+      "postal_code": "37490"
+    },
+    {
+      "id": "15.03.07.2005",
+      "name": "Lubuk Kepayang",
+      "postal_code": "37490"
+    },
+    {
+      "id": "15.03.07.2006",
+      "name": "Pematang Kabau",
+      "postal_code": "37490"
+    },
+    {
+      "id": "15.03.07.2007",
+      "name": "Bukit Suban",
+      "postal_code": "37490"
+    },
+    {
+      "id": "15.03.07.2008",
+      "name": "Mentawak Baru",
+      "postal_code": "37490"
+    },
+    {
+      "id": "15.03.07.2009",
+      "name": "Mentawak Ulu",
+      "postal_code": "37490"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "35.05.09.1009",
+      "name": "Nglegok",
+      "postal_code": "66181"
+    },
+    {
+      "id": "35.05.09.2001",
+      "name": "Sumberasri",
+      "postal_code": "66181"
+    },
+    {
+      "id": "35.05.09.2002",
+      "name": "Kedawung",
+      "postal_code": "66181"
+    },
+    {
+      "id": "35.05.09.2003",
+      "name": "Ngoran",
+      "postal_code": "66181"
+    },
+    {
+      "id": "35.05.09.2004",
+      "name": "Dayu",
+      "postal_code": "66181"
+    },
+    {
+      "id": "35.05.09.2005",
+      "name": "Bangsri",
+      "postal_code": "66181"
+    },
+    {
+      "id": "35.05.09.2006",
+      "name": "Kemloko",
+      "postal_code": "66181"
+    },
+    {
+      "id": "35.05.09.2007",
+      "name": "Penataran",
+      "postal_code": "66181"
+    },
+    {
+      "id": "35.05.09.2008",
+      "name": "Krenceng",
+      "postal_code": "66181"
+    },
+    {
+      "id": "35.05.09.2010",
+      "name": "Jiwut",
+      "postal_code": "66181"
+    },
+    {
+      "id": "35.05.09.2011",
+      "name": "Modangan",
+      "postal_code": "66181"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

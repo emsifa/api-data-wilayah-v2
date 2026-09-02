@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "82.03.12.2001",
+      "name": "Yaro",
+      "postal_code": "97767"
+    },
+    {
+      "id": "82.03.12.2002",
+      "name": "Mawea",
+      "postal_code": "97767"
+    },
+    {
+      "id": "82.03.12.2003",
+      "name": "Meti",
+      "postal_code": "97767"
+    },
+    {
+      "id": "82.03.12.2004",
+      "name": "Katana",
+      "postal_code": "97767"
+    },
+    {
+      "id": "82.03.12.2005",
+      "name": "Gonga",
+      "postal_code": "97767"
+    },
+    {
+      "id": "82.03.12.2006",
+      "name": "Todokuiha",
+      "postal_code": "97767"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

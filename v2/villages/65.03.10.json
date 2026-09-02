@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "65.03.10.2001",
+      "name": "Sungai Nyamuk",
+      "postal_code": "77488"
+    },
+    {
+      "id": "65.03.10.2002",
+      "name": "Tanjung Harapan",
+      "postal_code": "77488"
+    },
+    {
+      "id": "65.03.10.2003",
+      "name": "Bukit Aru Indah",
+      "postal_code": "77488"
+    },
+    {
+      "id": "65.03.10.2004",
+      "name": "Tanjung Aru",
+      "postal_code": "77488"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.08.04.2001",
+      "name": "Limo Koto",
+      "postal_code": "26381"
+    },
+    {
+      "id": "13.08.04.2002",
+      "name": "Koto Kaciak",
+      "postal_code": "26381"
+    },
+    {
+      "id": "13.08.04.2003",
+      "name": "Ganggo Mudiak",
+      "postal_code": "26381"
+    },
+    {
+      "id": "13.08.04.2004",
+      "name": "Ganggo Hilia",
+      "postal_code": "26381"
+    },
+    {
+      "id": "13.08.04.2007",
+      "name": "Koto Kaciak Barat",
+      "postal_code": "26381"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "21.72.01.1001",
+      "name": "Tanjung Pinang Barat",
+      "postal_code": "29113"
+    },
+    {
+      "id": "21.72.01.1002",
+      "name": "Kemboja",
+      "postal_code": "29112"
+    },
+    {
+      "id": "21.72.01.1003",
+      "name": "Kampung Baru",
+      "postal_code": "29113"
+    },
+    {
+      "id": "21.72.01.1004",
+      "name": "Bukit Cermin",
+      "postal_code": "29111"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

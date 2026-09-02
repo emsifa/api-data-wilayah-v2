@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "62.07.08.2001",
+      "name": "Asam Baru",
+      "postal_code": "74271"
+    },
+    {
+      "id": "62.07.08.2002",
+      "name": "Tanjung Hara",
+      "postal_code": "74271"
+    },
+    {
+      "id": "62.07.08.2003",
+      "name": "Tanjung Paring",
+      "postal_code": "74271"
+    },
+    {
+      "id": "62.07.08.2004",
+      "name": "Tanjung Rangas II",
+      "postal_code": "74271"
+    },
+    {
+      "id": "62.07.08.2005",
+      "name": "Panimba Raya",
+      "postal_code": "74271"
+    },
+    {
+      "id": "62.07.08.2006",
+      "name": "Rungau Raya",
+      "postal_code": "74271"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

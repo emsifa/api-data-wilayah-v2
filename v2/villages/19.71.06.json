@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "19.71.06.1001",
+      "name": "Selindung",
+      "postal_code": "33117"
+    },
+    {
+      "id": "19.71.06.1002",
+      "name": "Selindung Baru",
+      "postal_code": "33117"
+    },
+    {
+      "id": "19.71.06.1003",
+      "name": "Gabek Satu",
+      "postal_code": "33118"
+    },
+    {
+      "id": "19.71.06.1004",
+      "name": "Gabek Dua",
+      "postal_code": "33116"
+    },
+    {
+      "id": "19.71.06.1005",
+      "name": "Air Salemba",
+      "postal_code": "33111"
+    },
+    {
+      "id": "19.71.06.1006",
+      "name": "Jerambah Gantung",
+      "postal_code": "33119"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

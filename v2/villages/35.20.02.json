@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "35.20.02.1008",
+      "name": "Parang",
+      "postal_code": "63371"
+    },
+    {
+      "id": "35.20.02.2001",
+      "name": "Sayutan",
+      "postal_code": "63371"
+    },
+    {
+      "id": "35.20.02.2002",
+      "name": "Nglopang",
+      "postal_code": "63371"
+    },
+    {
+      "id": "35.20.02.2003",
+      "name": "Mategal",
+      "postal_code": "63371"
+    },
+    {
+      "id": "35.20.02.2004",
+      "name": "Bungkuk",
+      "postal_code": "63371"
+    },
+    {
+      "id": "35.20.02.2005",
+      "name": "Trosono",
+      "postal_code": "63371"
+    },
+    {
+      "id": "35.20.02.2006",
+      "name": "Ngunut",
+      "postal_code": "63371"
+    },
+    {
+      "id": "35.20.02.2007",
+      "name": "Ngaglik",
+      "postal_code": "63371"
+    },
+    {
+      "id": "35.20.02.2009",
+      "name": "Tamanarum",
+      "postal_code": "63371"
+    },
+    {
+      "id": "35.20.02.2010",
+      "name": "Pragak",
+      "postal_code": "63371"
+    },
+    {
+      "id": "35.20.02.2011",
+      "name": "Sundul",
+      "postal_code": "63371"
+    },
+    {
+      "id": "35.20.02.2012",
+      "name": "Joketro",
+      "postal_code": "63371"
+    },
+    {
+      "id": "35.20.02.2013",
+      "name": "Krajan",
+      "postal_code": "63371"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "61.07.04.1001",
+      "name": "Bumi Emas",
+      "postal_code": "79212"
+    },
+    {
+      "id": "61.07.04.1010",
+      "name": "Sebalo",
+      "postal_code": "79211"
+    },
+    {
+      "id": "61.07.04.2003",
+      "name": "Tirta Kencana",
+      "postal_code": "79211"
+    },
+    {
+      "id": "61.07.04.2004",
+      "name": "Bhakti Mulya",
+      "postal_code": "79213"
+    },
+    {
+      "id": "61.07.04.2006",
+      "name": "Bani Amas",
+      "postal_code": "79211"
+    },
+    {
+      "id": "61.07.04.2009",
+      "name": "Setia Budi",
+      "postal_code": "79211"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "18.71.13.1001",
+      "name": "Sumber Rejo",
+      "postal_code": "35153"
+    },
+    {
+      "id": "18.71.13.1003",
+      "name": "Beringin Jaya",
+      "postal_code": "35158"
+    },
+    {
+      "id": "18.71.13.1004",
+      "name": "Kemiling Permai",
+      "postal_code": "35158"
+    },
+    {
+      "id": "18.71.13.1005",
+      "name": "Sumber Agung",
+      "postal_code": "35158"
+    },
+    {
+      "id": "18.71.13.1006",
+      "name": "Kedaung",
+      "postal_code": "35158"
+    },
+    {
+      "id": "18.71.13.1007",
+      "name": "Pinang Jaya",
+      "postal_code": "35158"
+    },
+    {
+      "id": "18.71.13.1008",
+      "name": "Sumberrejo Sejahtera",
+      "postal_code": "35153"
+    },
+    {
+      "id": "18.71.13.1009",
+      "name": "Kemiling Raya",
+      "postal_code": "35158"
+    },
+    {
+      "id": "18.71.13.1010",
+      "name": "Beringin Raya",
+      "postal_code": "35158"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

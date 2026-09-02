@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.72.02.1001",
+      "name": "Cikole",
+      "postal_code": "43113"
+    },
+    {
+      "id": "32.72.02.1002",
+      "name": "Selabatu",
+      "postal_code": "43114"
+    },
+    {
+      "id": "32.72.02.1003",
+      "name": "Gunung Parang",
+      "postal_code": "43111"
+    },
+    {
+      "id": "32.72.02.1004",
+      "name": "Kebonjati",
+      "postal_code": "43112"
+    },
+    {
+      "id": "32.72.02.1005",
+      "name": "Cisarua",
+      "postal_code": "43115"
+    },
+    {
+      "id": "32.72.02.1006",
+      "name": "Subangjaya",
+      "postal_code": "43116"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "id": "33.23.03.1001",
+      "name": "Temanggung I",
+      "postal_code": "56212"
+    },
+    {
+      "id": "33.23.03.1002",
+      "name": "Temanggung II",
+      "postal_code": "56213"
+    },
+    {
+      "id": "33.23.03.1003",
+      "name": "Butuh",
+      "postal_code": "56214"
+    },
+    {
+      "id": "33.23.03.1004",
+      "name": "Jampiroso",
+      "postal_code": "56216"
+    },
+    {
+      "id": "33.23.03.1005",
+      "name": "Jampirejo",
+      "postal_code": "56215"
+    },
+    {
+      "id": "33.23.03.1006",
+      "name": "Kertosari",
+      "postal_code": "56217"
+    },
+    {
+      "id": "33.23.03.1007",
+      "name": "Banyuurip",
+      "postal_code": "56211"
+    },
+    {
+      "id": "33.23.03.1008",
+      "name": "Kowangan",
+      "postal_code": "56218"
+    },
+    {
+      "id": "33.23.03.1009",
+      "name": "Jurang",
+      "postal_code": "56222"
+    },
+    {
+      "id": "33.23.03.1010",
+      "name": "Tlogorejo",
+      "postal_code": "56229"
+    },
+    {
+      "id": "33.23.03.1012",
+      "name": "Kebonsari",
+      "postal_code": "56223"
+    },
+    {
+      "id": "33.23.03.1013",
+      "name": "Manding",
+      "postal_code": "56224"
+    },
+    {
+      "id": "33.23.03.1014",
+      "name": "Mungseng",
+      "postal_code": "56225"
+    },
+    {
+      "id": "33.23.03.1015",
+      "name": "Purworejo",
+      "postal_code": "56227"
+    },
+    {
+      "id": "33.23.03.1016",
+      "name": "Giyanti",
+      "postal_code": "56226"
+    },
+    {
+      "id": "33.23.03.1018",
+      "name": "Madureso",
+      "postal_code": "56229"
+    },
+    {
+      "id": "33.23.03.1022",
+      "name": "Sidorejo",
+      "postal_code": "56221"
+    },
+    {
+      "id": "33.23.03.1025",
+      "name": "Walitelon Utara",
+      "postal_code": "56229"
+    },
+    {
+      "id": "33.23.03.1026",
+      "name": "Walitelon Selatan",
+      "postal_code": "56229"
+    },
+    {
+      "id": "33.23.03.2011",
+      "name": "Joho",
+      "postal_code": "56229"
+    },
+    {
+      "id": "33.23.03.2017",
+      "name": "Guntur",
+      "postal_code": "56229"
+    },
+    {
+      "id": "33.23.03.2019",
+      "name": "Lungge",
+      "postal_code": "56229"
+    },
+    {
+      "id": "33.23.03.2020",
+      "name": "Mudal",
+      "postal_code": "56228"
+    },
+    {
+      "id": "33.23.03.2021",
+      "name": "Gilingsari",
+      "postal_code": "56229"
+    },
+    {
+      "id": "33.23.03.2024",
+      "name": "Nampirejo",
+      "postal_code": "56229"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

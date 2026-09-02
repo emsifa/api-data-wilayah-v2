@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "11.07.31.2001",
+      "name": "Lingkok",
+      "postal_code": "24168"
+    },
+    {
+      "id": "11.07.31.2002",
+      "name": "Pante Kulu",
+      "postal_code": "24168"
+    },
+    {
+      "id": "11.07.31.2003",
+      "name": "Uke",
+      "postal_code": "24168"
+    },
+    {
+      "id": "11.07.31.2004",
+      "name": "Pante Siren",
+      "postal_code": "24168"
+    },
+    {
+      "id": "11.07.31.2005",
+      "name": "Pulo Raya",
+      "postal_code": "24168"
+    },
+    {
+      "id": "11.07.31.2006",
+      "name": "Cut",
+      "postal_code": "24168"
+    },
+    {
+      "id": "11.07.31.2007",
+      "name": "Dayah Meunara",
+      "postal_code": "24168"
+    },
+    {
+      "id": "11.07.31.2008",
+      "name": "Paloh Naleueng",
+      "postal_code": "24168"
+    },
+    {
+      "id": "11.07.31.2009",
+      "name": "Pulo Lhoih",
+      "postal_code": "24168"
+    },
+    {
+      "id": "11.07.31.2010",
+      "name": "Mesjid Tongpudeng",
+      "postal_code": "24168"
+    },
+    {
+      "id": "11.07.31.2011",
+      "name": "Blang Tho",
+      "postal_code": "24168"
+    },
+    {
+      "id": "11.07.31.2012",
+      "name": "Asan Tongpudeng",
+      "postal_code": "24168"
+    },
+    {
+      "id": "11.07.31.2013",
+      "name": "Alue",
+      "postal_code": "24168"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

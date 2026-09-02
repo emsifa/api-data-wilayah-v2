@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.73.10.1001",
+      "name": "Karasak",
+      "postal_code": "40243"
+    },
+    {
+      "id": "32.73.10.1002",
+      "name": "Nyengseret",
+      "postal_code": "40242"
+    },
+    {
+      "id": "32.73.10.1003",
+      "name": "Karang Anyar",
+      "postal_code": "40241"
+    },
+    {
+      "id": "32.73.10.1004",
+      "name": "Panjunan",
+      "postal_code": "40242"
+    },
+    {
+      "id": "32.73.10.1005",
+      "name": "Cibadak",
+      "postal_code": "40241"
+    },
+    {
+      "id": "32.73.10.1006",
+      "name": "Pelindung Hewan",
+      "postal_code": "40243"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

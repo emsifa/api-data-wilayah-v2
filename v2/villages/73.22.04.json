@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "73.22.04.1012",
+      "name": "Marobo",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.04.2002",
+      "name": "Sabbang",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.04.2003",
+      "name": "Pararra",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.04.2004",
+      "name": "Tandung",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.04.2007",
+      "name": "Malimbu",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.04.2008",
+      "name": "Tullak Tallu",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.04.2009",
+      "name": "Bakka",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.04.2014",
+      "name": "Buntu Torpedo",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.04.2018",
+      "name": "Pengkendekan",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.04.2020",
+      "name": "Salama",
+      "postal_code": "92955"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

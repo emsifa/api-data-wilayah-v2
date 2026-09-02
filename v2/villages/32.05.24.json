@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.05.24.2001",
+      "name": "Singajaya",
+      "postal_code": "44170"
+    },
+    {
+      "id": "32.05.24.2002",
+      "name": "Ciudian",
+      "postal_code": "44170"
+    },
+    {
+      "id": "32.05.24.2003",
+      "name": "Mekartani",
+      "postal_code": "44170"
+    },
+    {
+      "id": "32.05.24.2004",
+      "name": "Sukamulya",
+      "postal_code": "44170"
+    },
+    {
+      "id": "32.05.24.2005",
+      "name": "Sukawangi",
+      "postal_code": "44170"
+    },
+    {
+      "id": "32.05.24.2006",
+      "name": "Pancasura",
+      "postal_code": "44170"
+    },
+    {
+      "id": "32.05.24.2007",
+      "name": "Karangagung",
+      "postal_code": "44170"
+    },
+    {
+      "id": "32.05.24.2008",
+      "name": "Cigintung",
+      "postal_code": "44170"
+    },
+    {
+      "id": "32.05.24.2009",
+      "name": "Girimukti",
+      "postal_code": "44170"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

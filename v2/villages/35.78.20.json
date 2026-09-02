@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "35.78.20.1001",
+      "name": "Wiyung",
+      "postal_code": "60228"
+    },
+    {
+      "id": "35.78.20.1002",
+      "name": "Jajar Tunggal",
+      "postal_code": "60229"
+    },
+    {
+      "id": "35.78.20.1003",
+      "name": "Babatan",
+      "postal_code": "60227"
+    },
+    {
+      "id": "35.78.20.1004",
+      "name": "Balas Klumprik",
+      "postal_code": "60222"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.05.27.2001",
+      "name": "Pameungpeuk",
+      "postal_code": "44175"
+    },
+    {
+      "id": "32.05.27.2002",
+      "name": "Mancagahar",
+      "postal_code": "44175"
+    },
+    {
+      "id": "32.05.27.2003",
+      "name": "Paas",
+      "postal_code": "44175"
+    },
+    {
+      "id": "32.05.27.2004",
+      "name": "Mandalakasih",
+      "postal_code": "44175"
+    },
+    {
+      "id": "32.05.27.2005",
+      "name": "Jatimulya",
+      "postal_code": "44175"
+    },
+    {
+      "id": "32.05.27.2006",
+      "name": "Bojong",
+      "postal_code": "44175"
+    },
+    {
+      "id": "32.05.27.2007",
+      "name": "Sirnabakti",
+      "postal_code": "44175"
+    },
+    {
+      "id": "32.05.27.2008",
+      "name": "Bojong Kidul",
+      "postal_code": "44175"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

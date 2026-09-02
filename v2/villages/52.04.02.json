@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "52.04.02.2001",
+      "name": "Lunyuk Rea",
+      "postal_code": "84373"
+    },
+    {
+      "id": "52.04.02.2002",
+      "name": "Lunyuk Ode",
+      "postal_code": "84373"
+    },
+    {
+      "id": "52.04.02.2003",
+      "name": "Jamu",
+      "postal_code": "84373"
+    },
+    {
+      "id": "52.04.02.2007",
+      "name": "Pada Suka",
+      "postal_code": "84373"
+    },
+    {
+      "id": "52.04.02.2008",
+      "name": "Sukamaju",
+      "postal_code": "84373"
+    },
+    {
+      "id": "52.04.02.2009",
+      "name": "Perung",
+      "postal_code": "84373"
+    },
+    {
+      "id": "52.04.02.2010",
+      "name": "Emang Lestari",
+      "postal_code": "84373"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.09.19.1001",
+      "name": "Mangli",
+      "postal_code": "68136"
+    },
+    {
+      "id": "35.09.19.1002",
+      "name": "Sempusari",
+      "postal_code": "68135"
+    },
+    {
+      "id": "35.09.19.1003",
+      "name": "Kebonagung",
+      "postal_code": "68137"
+    },
+    {
+      "id": "35.09.19.1004",
+      "name": "Kaliwates",
+      "postal_code": "68133"
+    },
+    {
+      "id": "35.09.19.1005",
+      "name": "Jemberkidul",
+      "postal_code": "68131"
+    },
+    {
+      "id": "35.09.19.1006",
+      "name": "Kepatihan",
+      "postal_code": "68137"
+    },
+    {
+      "id": "35.09.19.1007",
+      "name": "Tegalbesar",
+      "postal_code": "68132"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

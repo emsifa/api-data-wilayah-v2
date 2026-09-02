@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "13.71.10.1001",
+      "name": "Surau Gadang",
+      "postal_code": "25146"
+    },
+    {
+      "id": "13.71.10.1002",
+      "name": "Kampung Olo",
+      "postal_code": "25143"
+    },
+    {
+      "id": "13.71.10.1003",
+      "name": "Kurao Pagang",
+      "postal_code": "25147"
+    },
+    {
+      "id": "13.71.10.1004",
+      "name": "Gurun Laweh",
+      "postal_code": "25145"
+    },
+    {
+      "id": "13.71.10.1005",
+      "name": "Tabiang Banda Gadang",
+      "postal_code": "25144"
+    },
+    {
+      "id": "13.71.10.1006",
+      "name": "Kampung Lapai",
+      "postal_code": "25142"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

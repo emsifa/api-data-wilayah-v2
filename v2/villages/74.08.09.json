@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "74.08.09.2001",
+      "name": "Watunohu",
+      "postal_code": "93959"
+    },
+    {
+      "id": "74.08.09.2002",
+      "name": "Lahabaru",
+      "postal_code": "93959"
+    },
+    {
+      "id": "74.08.09.2003",
+      "name": "Tambuha",
+      "postal_code": "93959"
+    },
+    {
+      "id": "74.08.09.2004",
+      "name": "Sarona",
+      "postal_code": "93959"
+    },
+    {
+      "id": "74.08.09.2005",
+      "name": "Sapoiha",
+      "postal_code": "93959"
+    },
+    {
+      "id": "74.08.09.2006",
+      "name": "Nyule",
+      "postal_code": "93959"
+    },
+    {
+      "id": "74.08.09.2007",
+      "name": "Samaturu",
+      "postal_code": "93959"
+    },
+    {
+      "id": "74.08.09.2008",
+      "name": "Lelehao",
+      "postal_code": "93959"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

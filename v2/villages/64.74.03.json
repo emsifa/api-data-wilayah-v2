@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "64.74.03.1001",
+      "name": "Belimbing",
+      "postal_code": "75313"
+    },
+    {
+      "id": "64.74.03.1002",
+      "name": "Gunung Telihan",
+      "postal_code": "75383"
+    },
+    {
+      "id": "64.74.03.1003",
+      "name": "Kanaan",
+      "postal_code": "75383"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

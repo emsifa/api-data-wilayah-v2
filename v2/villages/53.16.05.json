@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "53.16.05.2001",
+      "name": "Tendatoto",
+      "postal_code": "86471"
+    },
+    {
+      "id": "53.16.05.2002",
+      "name": "Totomala",
+      "postal_code": "86471"
+    },
+    {
+      "id": "53.16.05.2003",
+      "name": "Tendakinde",
+      "postal_code": "86471"
+    },
+    {
+      "id": "53.16.05.2004",
+      "name": "Anakoli",
+      "postal_code": "86471"
+    },
+    {
+      "id": "53.16.05.2005",
+      "name": "Natatoto",
+      "postal_code": "86471"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

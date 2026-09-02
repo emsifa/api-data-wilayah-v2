@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "81.08.16.2001",
+      "name": "Hila",
+      "postal_code": "97440"
+    },
+    {
+      "id": "81.08.16.2002",
+      "name": "Jerusu",
+      "postal_code": "97440"
+    },
+    {
+      "id": "81.08.16.2003",
+      "name": "Solath",
+      "postal_code": "97440"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "74.11.03.1001",
+      "name": "Ladongi",
+      "postal_code": "93577"
+    },
+    {
+      "id": "74.11.03.1002",
+      "name": "Atula",
+      "postal_code": "93577"
+    },
+    {
+      "id": "74.11.03.1003",
+      "name": "Raa-Raa",
+      "postal_code": "93577"
+    },
+    {
+      "id": "74.11.03.1004",
+      "name": "Welala",
+      "postal_code": "93577"
+    },
+    {
+      "id": "74.11.03.2005",
+      "name": "Putemata",
+      "postal_code": "93577"
+    },
+    {
+      "id": "74.11.03.2009",
+      "name": "Lalowosula",
+      "postal_code": "93577"
+    },
+    {
+      "id": "74.11.03.2010",
+      "name": "Wunggoloko",
+      "postal_code": "93577"
+    },
+    {
+      "id": "74.11.03.2011",
+      "name": "Anggaloosi",
+      "postal_code": "93577"
+    },
+    {
+      "id": "74.11.03.2013",
+      "name": "Pombeyoha",
+      "postal_code": "93577"
+    },
+    {
+      "id": "74.11.03.2018",
+      "name": "Tongandiu",
+      "postal_code": "93577"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

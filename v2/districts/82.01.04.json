@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "82.01.04",
+    "name": "Sahu",
+    "province": {
+      "id": "82",
+      "name": "Maluku Utara"
+    },
+    "regency": {
+      "id": "82.01",
+      "name": "Kabupaten Halmahera Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

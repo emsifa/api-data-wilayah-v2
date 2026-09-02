@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "21.03.22.2001",
+      "name": "Air Kumpai",
+      "postal_code": "29785"
+    },
+    {
+      "id": "21.03.22.2002",
+      "name": "Batu Belanak",
+      "postal_code": "29785"
+    },
+    {
+      "id": "21.03.22.2003",
+      "name": "Gunung Jambat",
+      "postal_code": "29785"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

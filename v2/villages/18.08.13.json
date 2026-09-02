@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "18.08.13.2001",
+      "name": "Bumiharjo",
+      "postal_code": "34767"
+    },
+    {
+      "id": "18.08.13.2002",
+      "name": "Punjul Agung",
+      "postal_code": "34767"
+    },
+    {
+      "id": "18.08.13.2003",
+      "name": "Sritunggal",
+      "postal_code": "34767"
+    },
+    {
+      "id": "18.08.13.2004",
+      "name": "Suka Bumi",
+      "postal_code": "34767"
+    },
+    {
+      "id": "18.08.13.2005",
+      "name": "Suka Agung",
+      "postal_code": "34767"
+    },
+    {
+      "id": "18.08.13.2006",
+      "name": "Sukadana",
+      "postal_code": "34767"
+    },
+    {
+      "id": "18.08.13.2007",
+      "name": "Nuar Maju",
+      "postal_code": "34767"
+    },
+    {
+      "id": "18.08.13.2008",
+      "name": "Lebung Lawe",
+      "postal_code": "34767"
+    },
+    {
+      "id": "18.08.13.2009",
+      "name": "Way Agung",
+      "postal_code": "34767"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

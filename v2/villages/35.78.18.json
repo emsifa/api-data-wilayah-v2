@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.78.18.1001",
+      "name": "Bangkingan",
+      "postal_code": "60214"
+    },
+    {
+      "id": "35.78.18.1002",
+      "name": "Jeruk",
+      "postal_code": "60212"
+    },
+    {
+      "id": "35.78.18.1003",
+      "name": "Lakarsantri",
+      "postal_code": "60211"
+    },
+    {
+      "id": "35.78.18.1004",
+      "name": "Lidah kulon",
+      "postal_code": "60213"
+    },
+    {
+      "id": "35.78.18.1005",
+      "name": "Lidah Wetan",
+      "postal_code": "60213"
+    },
+    {
+      "id": "35.78.18.1006",
+      "name": "Sumurwelut",
+      "postal_code": "60215"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

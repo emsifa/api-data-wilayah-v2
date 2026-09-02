@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.15.21.2001",
+      "name": "Majalaya",
+      "postal_code": "41370"
+    },
+    {
+      "id": "32.15.21.2002",
+      "name": "Ciranggon",
+      "postal_code": "41370"
+    },
+    {
+      "id": "32.15.21.2003",
+      "name": "Pasirjengkol",
+      "postal_code": "41370"
+    },
+    {
+      "id": "32.15.21.2005",
+      "name": "Sarijaya",
+      "postal_code": "41370"
+    },
+    {
+      "id": "32.15.21.2006",
+      "name": "Pasirmulya",
+      "postal_code": "41370"
+    },
+    {
+      "id": "32.15.21.2007",
+      "name": "Lemahmulya",
+      "postal_code": "41370"
+    },
+    {
+      "id": "32.15.21.2008",
+      "name": "Bengle",
+      "postal_code": "41370"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

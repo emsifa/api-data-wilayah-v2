@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "74.03.30.2001",
+      "name": "Kafo Foo",
+      "postal_code": "93660"
+    },
+    {
+      "id": "74.03.30.2002",
+      "name": "Lembo",
+      "postal_code": "93660"
+    },
+    {
+      "id": "74.03.30.2003",
+      "name": "Kilambibito",
+      "postal_code": "93660"
+    },
+    {
+      "id": "74.03.30.2004",
+      "name": "Bahutara",
+      "postal_code": "93660"
+    },
+    {
+      "id": "74.03.30.2005",
+      "name": "Kontu Kowuna",
+      "postal_code": "93660"
+    },
+    {
+      "id": "74.03.30.2006",
+      "name": "Lahorio",
+      "postal_code": "93660"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.14.25.2001",
+      "name": "Mondrowe",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.25.2002",
+      "name": "Hilidohona",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.25.2003",
+      "name": "Hililaora",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.25.2004",
+      "name": "Uluidanoduo",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.25.2005",
+      "name": "Umbu Sohahau",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.25.2006",
+      "name": "Hilisao'oto",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.25.2007",
+      "name": "Taluzusua",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.25.2008",
+      "name": "Hilizanuwo",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.25.2009",
+      "name": "Hoya",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.25.2010",
+      "name": "Na'ai",
+      "postal_code": "22874"
+    },
+    {
+      "id": "12.14.25.2011",
+      "name": "Olanori",
+      "postal_code": "22874"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

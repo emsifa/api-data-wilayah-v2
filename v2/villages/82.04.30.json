@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "82.04.30.2001",
+      "name": "Cap",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.30.2002",
+      "name": "Madopolo",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.30.2003",
+      "name": "Galala",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.30.2004",
+      "name": "Madopolo Barat",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.30.2005",
+      "name": "Waringi",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.30.2006",
+      "name": "Pasir Putih",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.30.2007",
+      "name": "Madopolo Timur",
+      "postal_code": "97792"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

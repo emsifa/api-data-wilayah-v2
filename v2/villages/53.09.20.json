@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "53.09.20.2001",
+      "name": "Paupaga",
+      "postal_code": "86450"
+    },
+    {
+      "id": "53.09.20.2002",
+      "name": "Sebowuli",
+      "postal_code": "86450"
+    },
+    {
+      "id": "53.09.20.2003",
+      "name": "Inerie",
+      "postal_code": "86450"
+    },
+    {
+      "id": "53.09.20.2004",
+      "name": "Warupele I",
+      "postal_code": "86450"
+    },
+    {
+      "id": "53.09.20.2005",
+      "name": "Warupele II",
+      "postal_code": "86450"
+    },
+    {
+      "id": "53.09.20.2006",
+      "name": "Kelitei",
+      "postal_code": "86450"
+    },
+    {
+      "id": "53.09.20.2007",
+      "name": "Waebela",
+      "postal_code": "86450"
+    },
+    {
+      "id": "53.09.20.2008",
+      "name": "Tiwurana",
+      "postal_code": "86450"
+    },
+    {
+      "id": "53.09.20.2009",
+      "name": "Legeriwu",
+      "postal_code": "86450"
+    },
+    {
+      "id": "53.09.20.2010",
+      "name": "Manubhara",
+      "postal_code": "86450"
+    },
+    {
+      "id": "53.09.20.2011",
+      "name": "Ruto",
+      "postal_code": "86450"
+    },
+    {
+      "id": "53.09.20.2012",
+      "name": "Enabhara",
+      "postal_code": "86450"
+    },
+    {
+      "id": "53.09.20.2013",
+      "name": "Nagebaru",
+      "postal_code": "86450"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

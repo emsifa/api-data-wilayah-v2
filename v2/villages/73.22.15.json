@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "73.22.15.2001",
+      "name": "Buangin",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.15.2002",
+      "name": "Terpedojaya",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.15.2003",
+      "name": "Dandang",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.15.2004",
+      "name": "Kampung Baru",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.15.2005",
+      "name": "Teteuri",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.15.2006",
+      "name": "Kalotok",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.15.2007",
+      "name": "Batualang",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.15.2008",
+      "name": "Bone Subur",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.15.2009",
+      "name": "Pompaniki",
+      "postal_code": "92955"
+    },
+    {
+      "id": "73.22.15.2010",
+      "name": "Mari-mari",
+      "postal_code": "92955"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

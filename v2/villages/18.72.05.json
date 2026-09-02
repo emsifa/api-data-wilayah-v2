@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "18.72.05.1001",
+      "name": "Rejomulyo",
+      "postal_code": "34123"
+    },
+    {
+      "id": "18.72.05.1002",
+      "name": "Margorejo",
+      "postal_code": "34121"
+    },
+    {
+      "id": "18.72.05.1003",
+      "name": "Sumbersari Bantul",
+      "postal_code": "34122"
+    },
+    {
+      "id": "18.72.05.1004",
+      "name": "Margodadi",
+      "postal_code": "34119"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

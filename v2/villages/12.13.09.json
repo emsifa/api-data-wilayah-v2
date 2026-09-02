@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "12.13.09.1008",
+      "name": "Pasar Maga",
+      "postal_code": "22993"
+    },
+    {
+      "id": "12.13.09.2001",
+      "name": "Aek Marian MG",
+      "postal_code": "22993"
+    },
+    {
+      "id": "12.13.09.2002",
+      "name": "Bangun Purba",
+      "postal_code": "22993"
+    },
+    {
+      "id": "12.13.09.2003",
+      "name": "Maga Lombang",
+      "postal_code": "22993"
+    },
+    {
+      "id": "12.13.09.2004",
+      "name": "Maga Dolok",
+      "postal_code": "22993"
+    },
+    {
+      "id": "12.13.09.2005",
+      "name": "Purba Baru",
+      "postal_code": "22993"
+    },
+    {
+      "id": "12.13.09.2006",
+      "name": "Purba Lamo",
+      "postal_code": "22993"
+    },
+    {
+      "id": "12.13.09.2007",
+      "name": "Pangkat",
+      "postal_code": "22993"
+    },
+    {
+      "id": "12.13.09.2009",
+      "name": "Siantona",
+      "postal_code": "22993"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "95.01.01.1001",
+      "name": "Wamena Kota",
+      "postal_code": "99511"
+    },
+    {
+      "id": "95.01.01.1006",
+      "name": "Sinapuk",
+      "postal_code": "99511"
+    },
+    {
+      "id": "95.01.01.1007",
+      "name": "Sinakma",
+      "postal_code": "99511"
+    },
+    {
+      "id": "95.01.01.2002",
+      "name": "Honelama",
+      "postal_code": "99511"
+    },
+    {
+      "id": "95.01.01.2003",
+      "name": "Hulekama",
+      "postal_code": "99511"
+    },
+    {
+      "id": "95.01.01.2004",
+      "name": "Batu Merah",
+      "postal_code": "99511"
+    },
+    {
+      "id": "95.01.01.2005",
+      "name": "Autakma",
+      "postal_code": "99511"
+    },
+    {
+      "id": "95.01.01.2008",
+      "name": "Honelama Dua",
+      "postal_code": "99511"
+    },
+    {
+      "id": "95.01.01.2009",
+      "name": "Honaima",
+      "postal_code": "99511"
+    },
+    {
+      "id": "95.01.01.2010",
+      "name": "Lanitipo",
+      "postal_code": "99511"
+    },
+    {
+      "id": "95.01.01.2011",
+      "name": "Wamaroma",
+      "postal_code": "99511"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

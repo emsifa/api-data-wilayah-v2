@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "71.07.08.2001",
+      "name": "Silian",
+      "postal_code": "95998"
+    },
+    {
+      "id": "71.07.08.2002",
+      "name": "Silian Utara",
+      "postal_code": "95998"
+    },
+    {
+      "id": "71.07.08.2003",
+      "name": "Silian Satu",
+      "postal_code": "95998"
+    },
+    {
+      "id": "71.07.08.2004",
+      "name": "Silian Selatan",
+      "postal_code": "95998"
+    },
+    {
+      "id": "71.07.08.2005",
+      "name": "Silian Dua",
+      "postal_code": "95998"
+    },
+    {
+      "id": "71.07.08.2006",
+      "name": "Silian Tengah",
+      "postal_code": "95998"
+    },
+    {
+      "id": "71.07.08.2007",
+      "name": "Silian Tiga",
+      "postal_code": "95998"
+    },
+    {
+      "id": "71.07.08.2008",
+      "name": "Silian Barat",
+      "postal_code": "95998"
+    },
+    {
+      "id": "71.07.08.2009",
+      "name": "Silian Kota",
+      "postal_code": "95998"
+    },
+    {
+      "id": "71.07.08.2010",
+      "name": "Silian Timur",
+      "postal_code": "95998"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

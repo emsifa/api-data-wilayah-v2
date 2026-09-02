@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "33.09.04.2011",
+      "name": "Pagerjurang",
+      "postal_code": "57331"
+    },
+    {
+      "id": "33.09.04.2012",
+      "name": "Sukorejo",
+      "postal_code": "57331"
+    },
+    {
+      "id": "33.09.04.2013",
+      "name": "Sruni",
+      "postal_code": "57331"
+    },
+    {
+      "id": "33.09.04.2014",
+      "name": "Cluntang",
+      "postal_code": "57331"
+    },
+    {
+      "id": "33.09.04.2015",
+      "name": "Kembangsari",
+      "postal_code": "57331"
+    },
+    {
+      "id": "33.09.04.2016",
+      "name": "Ringinlarik",
+      "postal_code": "57331"
+    },
+    {
+      "id": "33.09.04.2017",
+      "name": "Kebongulo",
+      "postal_code": "57331"
+    },
+    {
+      "id": "33.09.04.2018",
+      "name": "Musuk",
+      "postal_code": "57331"
+    },
+    {
+      "id": "33.09.04.2019",
+      "name": "Sukorame",
+      "postal_code": "57331"
+    },
+    {
+      "id": "33.09.04.2020",
+      "name": "Pusporenggo",
+      "postal_code": "57331"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

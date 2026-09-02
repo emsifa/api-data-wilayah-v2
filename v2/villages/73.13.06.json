@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "73.13.06.1001",
+      "name": "Siengkang",
+      "postal_code": "90914"
+    },
+    {
+      "id": "73.13.06.1002",
+      "name": "Pattirosompe",
+      "postal_code": "90913"
+    },
+    {
+      "id": "73.13.06.1003",
+      "name": "Tempe",
+      "postal_code": "90911"
+    },
+    {
+      "id": "73.13.06.1004",
+      "name": "Maddukelleng",
+      "postal_code": "90911"
+    },
+    {
+      "id": "73.13.06.1005",
+      "name": "Watallipue",
+      "postal_code": "90911"
+    },
+    {
+      "id": "73.13.06.1006",
+      "name": "Mattiro Tappareng",
+      "postal_code": "90918"
+    },
+    {
+      "id": "73.13.06.1007",
+      "name": "Laelo",
+      "postal_code": "90917"
+    },
+    {
+      "id": "73.13.06.1008",
+      "name": "Salo Menraleng",
+      "postal_code": "90917"
+    },
+    {
+      "id": "73.13.06.1009",
+      "name": "Campalagi",
+      "postal_code": "90911"
+    },
+    {
+      "id": "73.13.06.1010",
+      "name": "Lapongkoda",
+      "postal_code": "90913"
+    },
+    {
+      "id": "73.13.06.1011",
+      "name": "Teddaopu",
+      "postal_code": "90912"
+    },
+    {
+      "id": "73.13.06.1012",
+      "name": "Paddupa",
+      "postal_code": "90914"
+    },
+    {
+      "id": "73.13.06.1013",
+      "name": "Wiring Palenae",
+      "postal_code": "90918"
+    },
+    {
+      "id": "73.13.06.1014",
+      "name": "Attakkae",
+      "postal_code": "90915"
+    },
+    {
+      "id": "73.13.06.1015",
+      "name": "Sitampae",
+      "postal_code": "90916"
+    },
+    {
+      "id": "73.13.06.1016",
+      "name": "Bulu Pabbulu",
+      "postal_code": "90911"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

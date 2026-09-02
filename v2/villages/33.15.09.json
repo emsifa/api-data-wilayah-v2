@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "33.15.09.2001",
+      "name": "Sendangrejo",
+      "postal_code": "58193"
+    },
+    {
+      "id": "33.15.09.2002",
+      "name": "Sarirejo",
+      "postal_code": "58193"
+    },
+    {
+      "id": "33.15.09.2003",
+      "name": "Kalangdosari",
+      "postal_code": "58193"
+    },
+    {
+      "id": "33.15.09.2004",
+      "name": "Kalanglundo",
+      "postal_code": "58193"
+    },
+    {
+      "id": "33.15.09.2005",
+      "name": "Truwolu",
+      "postal_code": "58193"
+    },
+    {
+      "id": "33.15.09.2006",
+      "name": "Pendem",
+      "postal_code": "58193"
+    },
+    {
+      "id": "33.15.09.2007",
+      "name": "Bandungsari",
+      "postal_code": "58193"
+    },
+    {
+      "id": "33.15.09.2008",
+      "name": "Ngaringan",
+      "postal_code": "58193"
+    },
+    {
+      "id": "33.15.09.2009",
+      "name": "Ngarap-arap",
+      "postal_code": "58193"
+    },
+    {
+      "id": "33.15.09.2010",
+      "name": "Belor",
+      "postal_code": "58193"
+    },
+    {
+      "id": "33.15.09.2011",
+      "name": "Tanjungharjo",
+      "postal_code": "58193"
+    },
+    {
+      "id": "33.15.09.2012",
+      "name": "Sumberagung",
+      "postal_code": "58193"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

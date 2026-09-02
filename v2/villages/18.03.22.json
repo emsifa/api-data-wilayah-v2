@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "18.03.22.2001",
+      "name": "Aji Kagungan",
+      "postal_code": "34565"
+    },
+    {
+      "id": "18.03.22.2002",
+      "name": "Talang Jembatan",
+      "postal_code": "34565"
+    },
+    {
+      "id": "18.03.22.2003",
+      "name": "Sabuk Empat",
+      "postal_code": "34565"
+    },
+    {
+      "id": "18.03.22.2004",
+      "name": "Beringin",
+      "postal_code": "34565"
+    },
+    {
+      "id": "18.03.22.2005",
+      "name": "Sabuk Indah",
+      "postal_code": "34565"
+    },
+    {
+      "id": "18.03.22.2006",
+      "name": "Bindu",
+      "postal_code": "34565"
+    },
+    {
+      "id": "18.03.22.2007",
+      "name": "Way Perancang",
+      "postal_code": "34565"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

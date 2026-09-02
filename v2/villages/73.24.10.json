@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "73.24.10.2001",
+      "name": "Kalaena Kiri",
+      "postal_code": "92973"
+    },
+    {
+      "id": "73.24.10.2002",
+      "name": "Sumber Agung",
+      "postal_code": "92973"
+    },
+    {
+      "id": "73.24.10.2003",
+      "name": "Pertasi Kencana",
+      "postal_code": "92973"
+    },
+    {
+      "id": "73.24.10.2004",
+      "name": "Non Blok",
+      "postal_code": "92973"
+    },
+    {
+      "id": "73.24.10.2005",
+      "name": "Argomulyo",
+      "postal_code": "92973"
+    },
+    {
+      "id": "73.24.10.2006",
+      "name": "Sumber Makmur",
+      "postal_code": "92973"
+    },
+    {
+      "id": "73.24.10.2007",
+      "name": "Mekar Sari",
+      "postal_code": "92973"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

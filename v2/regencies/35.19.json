@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "35.19",
+    "name": "Kabupaten Madiun",
+    "capital": "Caruban",
+    "lat": -7.538540959979179,
+    "lng": 111.6534826499319,
+    "elv": 75,
+    "tz": 7,
+    "population": 737875,
+    "total_area": 1113.627,
+    "province": {
+      "id": "35",
+      "name": "Jawa Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

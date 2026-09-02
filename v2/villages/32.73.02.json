@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.73.02.1001",
+      "name": "Cipaganti",
+      "postal_code": "40131"
+    },
+    {
+      "id": "32.73.02.1002",
+      "name": "Lebak Gede",
+      "postal_code": "40132"
+    },
+    {
+      "id": "32.73.02.1003",
+      "name": "Sadang Serang",
+      "postal_code": "40133"
+    },
+    {
+      "id": "32.73.02.1004",
+      "name": "Dago",
+      "postal_code": "40135"
+    },
+    {
+      "id": "32.73.02.1005",
+      "name": "Sekeloa",
+      "postal_code": "40134"
+    },
+    {
+      "id": "32.73.02.1006",
+      "name": "Lebak Siliwangi",
+      "postal_code": "40132"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

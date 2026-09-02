@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.06.20.2001",
+      "name": "Cisarua",
+      "postal_code": "46198"
+    },
+    {
+      "id": "32.06.20.2002",
+      "name": "Cikondang",
+      "postal_code": "46198"
+    },
+    {
+      "id": "32.06.20.2003",
+      "name": "Cijulang",
+      "postal_code": "46198"
+    },
+    {
+      "id": "32.06.20.2004",
+      "name": "Ciampanan",
+      "postal_code": "46198"
+    },
+    {
+      "id": "32.06.20.2005",
+      "name": "Cineam",
+      "postal_code": "46198"
+    },
+    {
+      "id": "32.06.20.2006",
+      "name": "Rajadatu",
+      "postal_code": "46198"
+    },
+    {
+      "id": "32.06.20.2007",
+      "name": "Ancol",
+      "postal_code": "46198"
+    },
+    {
+      "id": "32.06.20.2008",
+      "name": "Nagaratengah",
+      "postal_code": "46198"
+    },
+    {
+      "id": "32.06.20.2009",
+      "name": "Pasirmukti",
+      "postal_code": "46198"
+    },
+    {
+      "id": "32.06.20.2010",
+      "name": "Madiasari",
+      "postal_code": "46198"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

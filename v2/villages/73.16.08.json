@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "73.16.08.2001",
+      "name": "Sangiepongan",
+      "postal_code": "91756"
+    },
+    {
+      "id": "73.16.08.2002",
+      "name": "Buntu Barana",
+      "postal_code": "91756"
+    },
+    {
+      "id": "73.16.08.2003",
+      "name": "Buntu Pema",
+      "postal_code": "91756"
+    },
+    {
+      "id": "73.16.08.2004",
+      "name": "Parombean",
+      "postal_code": "91756"
+    },
+    {
+      "id": "73.16.08.2005",
+      "name": "Tallung Ura",
+      "postal_code": "91756"
+    },
+    {
+      "id": "73.16.08.2006",
+      "name": "Pebaloran",
+      "postal_code": "91756"
+    },
+    {
+      "id": "73.16.08.2007",
+      "name": "Curio",
+      "postal_code": "91756"
+    },
+    {
+      "id": "73.16.08.2008",
+      "name": "Mekkala",
+      "postal_code": "91756"
+    },
+    {
+      "id": "73.16.08.2009",
+      "name": "Sumbang",
+      "postal_code": "91756"
+    },
+    {
+      "id": "73.16.08.2010",
+      "name": "Mandalan",
+      "postal_code": "91756"
+    },
+    {
+      "id": "73.16.08.2011",
+      "name": "Salassa",
+      "postal_code": "91756"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

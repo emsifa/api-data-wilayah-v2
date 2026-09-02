@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "16.03.24.2001",
+      "name": "Tanjung Bunut",
+      "postal_code": "31171"
+    },
+    {
+      "id": "16.03.24.2002",
+      "name": "Babat",
+      "postal_code": "31171"
+    },
+    {
+      "id": "16.03.24.2003",
+      "name": "Lubuk Semantung",
+      "postal_code": "31171"
+    },
+    {
+      "id": "16.03.24.2004",
+      "name": "Lubuk Getam",
+      "postal_code": "31171"
+    },
+    {
+      "id": "16.03.24.2005",
+      "name": "Talang Balai",
+      "postal_code": "31171"
+    },
+    {
+      "id": "16.03.24.2006",
+      "name": "Talang Beliung",
+      "postal_code": "31171"
+    },
+    {
+      "id": "16.03.24.2007",
+      "name": "Sialingan",
+      "postal_code": "31171"
+    },
+    {
+      "id": "16.03.24.2008",
+      "name": "Tanjung Tiga",
+      "postal_code": "31171"
+    },
+    {
+      "id": "16.03.24.2009",
+      "name": "Ibul",
+      "postal_code": "31171"
+    },
+    {
+      "id": "16.03.24.2010",
+      "name": "Gaung Asam",
+      "postal_code": "31171"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

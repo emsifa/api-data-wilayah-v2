@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "33.17.10.1019",
+      "name": "Magersari",
+      "postal_code": "59214"
+    },
+    {
+      "id": "33.17.10.1020",
+      "name": "Gegunung Kulon",
+      "postal_code": "59213"
+    },
+    {
+      "id": "33.17.10.1022",
+      "name": "Pacar",
+      "postal_code": "59213"
+    },
+    {
+      "id": "33.17.10.1023",
+      "name": "Tanjungsari",
+      "postal_code": "59213"
+    },
+    {
+      "id": "33.17.10.1027",
+      "name": "Leteh",
+      "postal_code": "59217"
+    },
+    {
+      "id": "33.17.10.1028",
+      "name": "Sidowayah",
+      "postal_code": "59218"
+    },
+    {
+      "id": "33.17.10.1029",
+      "name": "Kutoharjo",
+      "postal_code": "59211"
+    },
+    {
+      "id": "33.17.10.2001",
+      "name": "Kedungrejo",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2002",
+      "name": "Turusgede",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2003",
+      "name": "Kumendung",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2004",
+      "name": "Sridadi",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2005",
+      "name": "Pandean",
+      "postal_code": "59211"
+    },
+    {
+      "id": "33.17.10.2006",
+      "name": "Tlogomojo",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2007",
+      "name": "Kasreman",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2008",
+      "name": "Punjulharjo",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2009",
+      "name": "Tritunggal",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2010",
+      "name": "Pasar Banggi",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2011",
+      "name": "Gedangan",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2012",
+      "name": "Weton",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2013",
+      "name": "Ngotet",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2014",
+      "name": "Mondoteko",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2015",
+      "name": "Ngadem",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2016",
+      "name": "Ketanggi",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2017",
+      "name": "Pulo",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2018",
+      "name": "Waru",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2021",
+      "name": "Gegunung Wetan",
+      "postal_code": "59213"
+    },
+    {
+      "id": "33.17.10.2024",
+      "name": "Sumberejo",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2025",
+      "name": "Tasikagung",
+      "postal_code": "59212"
+    },
+    {
+      "id": "33.17.10.2026",
+      "name": "Sawahan",
+      "postal_code": "59215"
+    },
+    {
+      "id": "33.17.10.2030",
+      "name": "Padaran",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2031",
+      "name": "Sukoharjo",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2032",
+      "name": "Kabongan Lor",
+      "postal_code": "59219"
+    },
+    {
+      "id": "33.17.10.2033",
+      "name": "Kabongan Kidul",
+      "postal_code": "59218"
+    },
+    {
+      "id": "33.17.10.2034",
+      "name": "Tireman",
+      "postal_code": "59219"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

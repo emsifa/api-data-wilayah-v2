@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "74.72.01.1007",
+      "name": "Katobengke",
+      "postal_code": "93724"
+    },
+    {
+      "id": "74.72.01.1012",
+      "name": "Waborobo",
+      "postal_code": "93721"
+    },
+    {
+      "id": "74.72.01.1013",
+      "name": "Sulaa",
+      "postal_code": "93721"
+    },
+    {
+      "id": "74.72.01.1014",
+      "name": "Lipu",
+      "postal_code": "93721"
+    },
+    {
+      "id": "74.72.01.1016",
+      "name": "Labalawa",
+      "postal_code": "93725"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "35.12.12.2001",
+      "name": "Sopet",
+      "postal_code": "68372"
+    },
+    {
+      "id": "35.12.12.2002",
+      "name": "Curah Kalak",
+      "postal_code": "68372"
+    },
+    {
+      "id": "35.12.12.2003",
+      "name": "Palangan",
+      "postal_code": "68372"
+    },
+    {
+      "id": "35.12.12.2004",
+      "name": "Jangkar",
+      "postal_code": "68372"
+    },
+    {
+      "id": "35.12.12.2005",
+      "name": "Gadingan",
+      "postal_code": "68372"
+    },
+    {
+      "id": "35.12.12.2006",
+      "name": "Kumbangsari",
+      "postal_code": "68372"
+    },
+    {
+      "id": "35.12.12.2007",
+      "name": "Pesanggrahan",
+      "postal_code": "68372"
+    },
+    {
+      "id": "35.12.12.2008",
+      "name": "Agel",
+      "postal_code": "68372"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

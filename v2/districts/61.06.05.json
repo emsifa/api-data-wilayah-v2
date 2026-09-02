@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "61.06.05",
+    "name": "Bunut Hilir",
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    },
+    "regency": {
+      "id": "61.06",
+      "name": "Kabupaten Kapuas Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

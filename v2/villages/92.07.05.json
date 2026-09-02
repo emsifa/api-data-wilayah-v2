@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "92.07.05.2001",
+      "name": "Sabubar",
+      "postal_code": "98335"
+    },
+    {
+      "id": "92.07.05.2002",
+      "name": "Ambuar",
+      "postal_code": "98335"
+    },
+    {
+      "id": "92.07.05.2003",
+      "name": "Karuan",
+      "postal_code": "98335"
+    },
+    {
+      "id": "92.07.05.2007",
+      "name": "Yarpate",
+      "postal_code": "98335"
+    },
+    {
+      "id": "92.07.05.2009",
+      "name": "Nordiwar",
+      "postal_code": "98335"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

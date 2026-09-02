@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "18.02.22.2001",
+      "name": "Sendang Mulyo",
+      "postal_code": "34178"
+    },
+    {
+      "id": "18.02.22.2002",
+      "name": "Sendang Rejo",
+      "postal_code": "34178"
+    },
+    {
+      "id": "18.02.22.2003",
+      "name": "Sendang Baru",
+      "postal_code": "34178"
+    },
+    {
+      "id": "18.02.22.2004",
+      "name": "Sendang Retno",
+      "postal_code": "34178"
+    },
+    {
+      "id": "18.02.22.2005",
+      "name": "Sendang Asih",
+      "postal_code": "34178"
+    },
+    {
+      "id": "18.02.22.2006",
+      "name": "Sendang Agung",
+      "postal_code": "34178"
+    },
+    {
+      "id": "18.02.22.2007",
+      "name": "Sendang Asri",
+      "postal_code": "34178"
+    },
+    {
+      "id": "18.02.22.2008",
+      "name": "Sendang Mukti",
+      "postal_code": "34178"
+    },
+    {
+      "id": "18.02.22.2009",
+      "name": "Kutowinangun",
+      "postal_code": "34178"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

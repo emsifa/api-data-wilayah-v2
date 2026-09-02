@@ -1,18 +1,36 @@
 {
-  "data": {
-    "id": "16.13",
-    "name": "Kabupaten Musi Rawas Utara",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
+  "data": [
+    {
+      "id": "16.13.01",
+      "name": "Rupit"
     },
-    "regency": {
-      "id": "16.13",
-      "name": "Kabupaten Musi Rawas Utara"
+    {
+      "id": "16.13.02",
+      "name": "Rawas Ulu"
+    },
+    {
+      "id": "16.13.03",
+      "name": "Nibung"
+    },
+    {
+      "id": "16.13.04",
+      "name": "Rawas Ilir"
+    },
+    {
+      "id": "16.13.05",
+      "name": "Karang Dapo"
+    },
+    {
+      "id": "16.13.06",
+      "name": "Karang Jaya"
+    },
+    {
+      "id": "16.13.07",
+      "name": "Ulu Rawas"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

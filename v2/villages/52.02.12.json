@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "52.02.12.2001",
+      "name": "Lantan",
+      "postal_code": "83550"
+    },
+    {
+      "id": "52.02.12.2002",
+      "name": "Setiling",
+      "postal_code": "83550"
+    },
+    {
+      "id": "52.02.12.2003",
+      "name": "Tanak Beak",
+      "postal_code": "83550"
+    },
+    {
+      "id": "52.02.12.2004",
+      "name": "Aik Bukaq",
+      "postal_code": "83550"
+    },
+    {
+      "id": "52.02.12.2005",
+      "name": "Teratak",
+      "postal_code": "83550"
+    },
+    {
+      "id": "52.02.12.2006",
+      "name": "Aik Berik",
+      "postal_code": "83550"
+    },
+    {
+      "id": "52.02.12.2007",
+      "name": "Mas-mas",
+      "postal_code": "83550"
+    },
+    {
+      "id": "52.02.12.2008",
+      "name": "Karang Sidemen",
+      "postal_code": "83550"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

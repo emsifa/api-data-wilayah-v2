@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "14.07.06.1007",
+      "name": "Panipahan",
+      "postal_code": "28995"
+    },
+    {
+      "id": "14.07.06.2001",
+      "name": "Panipahan",
+      "postal_code": "28995"
+    },
+    {
+      "id": "14.07.06.2002",
+      "name": "Telukpulai",
+      "postal_code": "28995"
+    },
+    {
+      "id": "14.07.06.2003",
+      "name": "Pasir Limau Kapas",
+      "postal_code": "28995"
+    },
+    {
+      "id": "14.07.06.2004",
+      "name": "Sungai Daun",
+      "postal_code": "28995"
+    },
+    {
+      "id": "14.07.06.2005",
+      "name": "Panipahan Darat",
+      "postal_code": "28995"
+    },
+    {
+      "id": "14.07.06.2006",
+      "name": "Panipahan Laut",
+      "postal_code": "28995"
+    },
+    {
+      "id": "14.07.06.2008",
+      "name": "Pulaujemur",
+      "postal_code": "28995"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

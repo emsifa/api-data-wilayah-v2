@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "16.08.14.2001",
+      "name": "Tanjung Kukuh",
+      "postal_code": "32184"
+    },
+    {
+      "id": "16.08.14.2002",
+      "name": "Betung",
+      "postal_code": "32184"
+    },
+    {
+      "id": "16.08.14.2003",
+      "name": "Tanjung Mas",
+      "postal_code": "32184"
+    },
+    {
+      "id": "16.08.14.2004",
+      "name": "Menanga Besar",
+      "postal_code": "32184"
+    },
+    {
+      "id": "16.08.14.2005",
+      "name": "Menanga Tengah",
+      "postal_code": "32184"
+    },
+    {
+      "id": "16.08.14.2006",
+      "name": "Adu manis",
+      "postal_code": "32184"
+    },
+    {
+      "id": "16.08.14.2007",
+      "name": "Suka Negeri",
+      "postal_code": "32184"
+    },
+    {
+      "id": "16.08.14.2008",
+      "name": "Kangkung",
+      "postal_code": "32184"
+    },
+    {
+      "id": "16.08.14.2009",
+      "name": "Sri Tanjung",
+      "postal_code": "32184"
+    },
+    {
+      "id": "16.08.14.2010",
+      "name": "Kangkung Ilir",
+      "postal_code": "32184"
+    },
+    {
+      "id": "16.08.14.2011",
+      "name": "Betung Timur",
+      "postal_code": "32184"
+    },
+    {
+      "id": "16.08.14.2012",
+      "name": "Menanga Sari",
+      "postal_code": "32184"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

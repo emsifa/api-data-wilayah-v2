@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.03.01.1006",
+      "name": "Pamoyanan",
+      "postal_code": "43211"
+    },
+    {
+      "id": "32.03.01.1007",
+      "name": "Sawahgede",
+      "postal_code": "43212"
+    },
+    {
+      "id": "32.03.01.1008",
+      "name": "Bojongherang",
+      "postal_code": "43216"
+    },
+    {
+      "id": "32.03.01.1009",
+      "name": "Sayang",
+      "postal_code": "43213"
+    },
+    {
+      "id": "32.03.01.1010",
+      "name": "Solokpandan",
+      "postal_code": "43214"
+    },
+    {
+      "id": "32.03.01.1011",
+      "name": "Muka",
+      "postal_code": "43215"
+    },
+    {
+      "id": "32.03.01.2001",
+      "name": "Babakankaret",
+      "postal_code": "43211"
+    },
+    {
+      "id": "32.03.01.2002",
+      "name": "Nagrak",
+      "postal_code": "43215"
+    },
+    {
+      "id": "32.03.01.2003",
+      "name": "Sukamaju",
+      "postal_code": "43211"
+    },
+    {
+      "id": "32.03.01.2004",
+      "name": "Mekarsari",
+      "postal_code": "43211"
+    },
+    {
+      "id": "32.03.01.2005",
+      "name": "Limbangansari",
+      "postal_code": "43211"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

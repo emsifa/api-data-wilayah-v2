@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "96.71.09.1001",
+      "name": "Klagete",
+      "postal_code": "98416"
+    },
+    {
+      "id": "96.71.09.1002",
+      "name": "Malaingkedi",
+      "postal_code": "98416"
+    },
+    {
+      "id": "96.71.09.1003",
+      "name": "Malamso",
+      "postal_code": "98416"
+    },
+    {
+      "id": "96.71.09.1004",
+      "name": "Klabulu",
+      "postal_code": "98416"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

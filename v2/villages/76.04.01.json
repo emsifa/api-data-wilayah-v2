@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "76.04.01.1001",
+      "name": "Tinambung",
+      "postal_code": "91356"
+    },
+    {
+      "id": "76.04.01.2002",
+      "name": "Karama",
+      "postal_code": "91356"
+    },
+    {
+      "id": "76.04.01.2003",
+      "name": "Tangnga Tangnga",
+      "postal_code": "91356"
+    },
+    {
+      "id": "76.04.01.2004",
+      "name": "Lekopadis",
+      "postal_code": "91356"
+    },
+    {
+      "id": "76.04.01.2005",
+      "name": "Galung Lombok",
+      "postal_code": "91356"
+    },
+    {
+      "id": "76.04.01.2006",
+      "name": "Tandung",
+      "postal_code": "91356"
+    },
+    {
+      "id": "76.04.01.2007",
+      "name": "Batulaya",
+      "postal_code": "91356"
+    },
+    {
+      "id": "76.04.01.2008",
+      "name": "Sepabatu",
+      "postal_code": "91356"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

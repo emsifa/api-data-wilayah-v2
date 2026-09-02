@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "51.01.04.1001",
+      "name": "Gilimanuk",
+      "postal_code": "82252"
+    },
+    {
+      "id": "51.01.04.2002",
+      "name": "Melaya",
+      "postal_code": "82252"
+    },
+    {
+      "id": "51.01.04.2003",
+      "name": "Belimbingsari",
+      "postal_code": "82252"
+    },
+    {
+      "id": "51.01.04.2004",
+      "name": "Ekasari",
+      "postal_code": "82252"
+    },
+    {
+      "id": "51.01.04.2005",
+      "name": "Nusasari",
+      "postal_code": "82252"
+    },
+    {
+      "id": "51.01.04.2006",
+      "name": "Warnasari",
+      "postal_code": "82252"
+    },
+    {
+      "id": "51.01.04.2007",
+      "name": "Candikusuma",
+      "postal_code": "82252"
+    },
+    {
+      "id": "51.01.04.2008",
+      "name": "Tuwed",
+      "postal_code": "82252"
+    },
+    {
+      "id": "51.01.04.2009",
+      "name": "Tukadaya",
+      "postal_code": "82252"
+    },
+    {
+      "id": "51.01.04.2010",
+      "name": "Manistutu",
+      "postal_code": "82252"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

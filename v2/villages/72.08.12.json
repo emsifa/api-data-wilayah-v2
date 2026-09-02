@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "72.08.12.2001",
+      "name": "Kayu Agung",
+      "postal_code": "94476"
+    },
+    {
+      "id": "72.08.12.2002",
+      "name": "Sumber Agung",
+      "postal_code": "94476"
+    },
+    {
+      "id": "72.08.12.2003",
+      "name": "Kotaraya",
+      "postal_code": "94476"
+    },
+    {
+      "id": "72.08.12.2004",
+      "name": "Mepanga",
+      "postal_code": "94476"
+    },
+    {
+      "id": "72.08.12.2005",
+      "name": "Ogotion",
+      "postal_code": "94476"
+    },
+    {
+      "id": "72.08.12.2006",
+      "name": "Mensung",
+      "postal_code": "94476"
+    },
+    {
+      "id": "72.08.12.2007",
+      "name": "Bugis",
+      "postal_code": "94476"
+    },
+    {
+      "id": "72.08.12.2008",
+      "name": "Moubang",
+      "postal_code": "94476"
+    },
+    {
+      "id": "72.08.12.2009",
+      "name": "Ogobayas",
+      "postal_code": "94476"
+    },
+    {
+      "id": "72.08.12.2010",
+      "name": "Kota Raya Timur",
+      "postal_code": "94476"
+    },
+    {
+      "id": "72.08.12.2011",
+      "name": "Malalan",
+      "postal_code": "94479"
+    },
+    {
+      "id": "72.08.12.2012",
+      "name": "Kota Raya Selatan",
+      "postal_code": "94479"
+    },
+    {
+      "id": "72.08.12.2013",
+      "name": "Maranti",
+      "postal_code": "94479"
+    },
+    {
+      "id": "72.08.12.2014",
+      "name": "Ogomolos",
+      "postal_code": "94479"
+    },
+    {
+      "id": "72.08.12.2015",
+      "name": "Kotaraya Barat",
+      "postal_code": "94479"
+    },
+    {
+      "id": "72.08.12.2016",
+      "name": "Bugis Utara",
+      "postal_code": "94476"
+    },
+    {
+      "id": "72.08.12.2017",
+      "name": "Gurinda",
+      "postal_code": "94476"
+    },
+    {
+      "id": "72.08.12.2018",
+      "name": "Kotaraya Tenggara",
+      "postal_code": "94476"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

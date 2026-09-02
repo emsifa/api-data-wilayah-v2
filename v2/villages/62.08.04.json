@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "62.08.04.2001",
+      "name": "Sungai Damar",
+      "postal_code": "74170"
+    },
+    {
+      "id": "62.08.04.2002",
+      "name": "Sungai Tabuk",
+      "postal_code": "74170"
+    },
+    {
+      "id": "62.08.04.2003",
+      "name": "Sungai Cabang Barat",
+      "postal_code": "74170"
+    },
+    {
+      "id": "62.08.04.2004",
+      "name": "Sungai Pasir",
+      "postal_code": "74170"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

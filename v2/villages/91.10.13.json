@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "91.10.13.2001",
+      "name": "Holmafen",
+      "postal_code": "99377"
+    },
+    {
+      "id": "91.10.13.2002",
+      "name": "Sewan",
+      "postal_code": "99377"
+    },
+    {
+      "id": "91.10.13.2003",
+      "name": "Waskey/Tanjung Batu",
+      "postal_code": "99377"
+    },
+    {
+      "id": "91.10.13.2004",
+      "name": "Ebram",
+      "postal_code": "99377"
+    },
+    {
+      "id": "91.10.13.2005",
+      "name": "Binyer",
+      "postal_code": "99377"
+    },
+    {
+      "id": "91.10.13.2006",
+      "name": "Bagaiserwar Dua",
+      "postal_code": "99377"
+    },
+    {
+      "id": "91.10.13.2007",
+      "name": "Waskey",
+      "postal_code": "99377"
+    },
+    {
+      "id": "91.10.13.2008",
+      "name": "Tanjung Batu",
+      "postal_code": "99377"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

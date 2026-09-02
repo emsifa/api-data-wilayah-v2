@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "72.02.23.2001",
+      "name": "Tuare",
+      "postal_code": "94654"
+    },
+    {
+      "id": "72.02.23.2002",
+      "name": "Kageroa",
+      "postal_code": "94654"
+    },
+    {
+      "id": "72.02.23.2003",
+      "name": "Tomehipi",
+      "postal_code": "94654"
+    },
+    {
+      "id": "72.02.23.2004",
+      "name": "Lengkeka",
+      "postal_code": "94654"
+    },
+    {
+      "id": "72.02.23.2005",
+      "name": "Kolori",
+      "postal_code": "94654"
+    },
+    {
+      "id": "72.02.23.2006",
+      "name": "Lelio",
+      "postal_code": "94654"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

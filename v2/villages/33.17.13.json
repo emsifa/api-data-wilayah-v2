@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "33.17.13.2001",
+      "name": "Sanetan",
+      "postal_code": "59272"
+    },
+    {
+      "id": "33.17.13.2002",
+      "name": "Rakitan",
+      "postal_code": "59272"
+    },
+    {
+      "id": "33.17.13.2003",
+      "name": "Bendo",
+      "postal_code": "59272"
+    },
+    {
+      "id": "33.17.13.2004",
+      "name": "Labuhan Kidul",
+      "postal_code": "59272"
+    },
+    {
+      "id": "33.17.13.2005",
+      "name": "Sendangmulyo",
+      "postal_code": "59272"
+    },
+    {
+      "id": "33.17.13.2006",
+      "name": "Blimbing",
+      "postal_code": "59272"
+    },
+    {
+      "id": "33.17.13.2007",
+      "name": "Manggar",
+      "postal_code": "59272"
+    },
+    {
+      "id": "33.17.13.2008",
+      "name": "Jatisari",
+      "postal_code": "59272"
+    },
+    {
+      "id": "33.17.13.2009",
+      "name": "Langgar",
+      "postal_code": "59272"
+    },
+    {
+      "id": "33.17.13.2010",
+      "name": "Sluke",
+      "postal_code": "59272"
+    },
+    {
+      "id": "33.17.13.2011",
+      "name": "Jurangjero",
+      "postal_code": "59272"
+    },
+    {
+      "id": "33.17.13.2012",
+      "name": "Leran",
+      "postal_code": "59272"
+    },
+    {
+      "id": "33.17.13.2013",
+      "name": "Trahan",
+      "postal_code": "59272"
+    },
+    {
+      "id": "33.17.13.2014",
+      "name": "Pangkalan",
+      "postal_code": "59272"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

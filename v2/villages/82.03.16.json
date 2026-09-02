@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "82.03.16.2001",
+      "name": "Seki",
+      "postal_code": "97769"
+    },
+    {
+      "id": "82.03.16.2002",
+      "name": "Togawa",
+      "postal_code": "97769"
+    },
+    {
+      "id": "82.03.16.2003",
+      "name": "Soakonora",
+      "postal_code": "97769"
+    },
+    {
+      "id": "82.03.16.2004",
+      "name": "Igobula",
+      "postal_code": "97769"
+    },
+    {
+      "id": "82.03.16.2005",
+      "name": "Bale",
+      "postal_code": "97769"
+    },
+    {
+      "id": "82.03.16.2006",
+      "name": "Togawabesi",
+      "postal_code": "97769"
+    },
+    {
+      "id": "82.03.16.2007",
+      "name": "Ori",
+      "postal_code": "97769"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

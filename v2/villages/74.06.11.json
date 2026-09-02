@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "74.06.11.2001",
+      "name": "Batu Putih",
+      "postal_code": "93773"
+    },
+    {
+      "id": "74.06.11.2002",
+      "name": "Waemputang",
+      "postal_code": "93773"
+    },
+    {
+      "id": "74.06.11.2003",
+      "name": "Kali Baru",
+      "postal_code": "93773"
+    },
+    {
+      "id": "74.06.11.2004",
+      "name": "Akacipong",
+      "postal_code": "93773"
+    },
+    {
+      "id": "74.06.11.2005",
+      "name": "La Ea",
+      "postal_code": "93773"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

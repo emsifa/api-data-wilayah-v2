@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "35.28.04.1001",
+      "name": "Kangenan",
+      "postal_code": "69317"
+    },
+    {
+      "id": "35.28.04.1003",
+      "name": "Patemon",
+      "postal_code": "69312"
+    },
+    {
+      "id": "35.28.04.1011",
+      "name": "Bugih",
+      "postal_code": "69316"
+    },
+    {
+      "id": "35.28.04.1012",
+      "name": "Jungcangcang",
+      "postal_code": "69317"
+    },
+    {
+      "id": "35.28.04.1013",
+      "name": "Parteker",
+      "postal_code": "69311"
+    },
+    {
+      "id": "35.28.04.1014",
+      "name": "Barurambat Kota",
+      "postal_code": "69317"
+    },
+    {
+      "id": "35.28.04.1015",
+      "name": "Gladak Anyar",
+      "postal_code": "69317"
+    },
+    {
+      "id": "35.28.04.1016",
+      "name": "Kolpajung",
+      "postal_code": "69314"
+    },
+    {
+      "id": "35.28.04.1017",
+      "name": "Kowel",
+      "postal_code": "69317"
+    },
+    {
+      "id": "35.28.04.2002",
+      "name": "Panempan",
+      "postal_code": "69317"
+    },
+    {
+      "id": "35.28.04.2004",
+      "name": "Laden",
+      "postal_code": "69317"
+    },
+    {
+      "id": "35.28.04.2005",
+      "name": "Jalmak",
+      "postal_code": "69317"
+    },
+    {
+      "id": "35.28.04.2006",
+      "name": "Teja Barat",
+      "postal_code": "69317"
+    },
+    {
+      "id": "35.28.04.2007",
+      "name": "Teja Timur",
+      "postal_code": "69317"
+    },
+    {
+      "id": "35.28.04.2008",
+      "name": "Bettet",
+      "postal_code": "69317"
+    },
+    {
+      "id": "35.28.04.2009",
+      "name": "Nyalabu Laok",
+      "postal_code": "69317"
+    },
+    {
+      "id": "35.28.04.2010",
+      "name": "Nyalabu Daya",
+      "postal_code": "69317"
+    },
+    {
+      "id": "35.28.04.2018",
+      "name": "Toronan",
+      "postal_code": "69317"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

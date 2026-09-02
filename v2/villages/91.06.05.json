@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "91.06.05.2006",
+      "name": "Yenburwo",
+      "postal_code": "98562"
+    },
+    {
+      "id": "91.06.05.2011",
+      "name": "Kornasoren",
+      "postal_code": "98562"
+    },
+    {
+      "id": "91.06.05.2014",
+      "name": "Rarsibo",
+      "postal_code": "98562"
+    },
+    {
+      "id": "91.06.05.2015",
+      "name": "Asaryendi",
+      "postal_code": "98562"
+    },
+    {
+      "id": "91.06.05.2016",
+      "name": "Yenmanu",
+      "postal_code": "98562"
+    },
+    {
+      "id": "91.06.05.2017",
+      "name": "Pyefuri",
+      "postal_code": "98562"
+    },
+    {
+      "id": "91.06.05.2018",
+      "name": "Indaibori",
+      "postal_code": "98562"
+    },
+    {
+      "id": "91.06.05.2019",
+      "name": "Barkori",
+      "postal_code": "98562"
+    },
+    {
+      "id": "91.06.05.2020",
+      "name": "Asaibori",
+      "postal_code": "98562"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

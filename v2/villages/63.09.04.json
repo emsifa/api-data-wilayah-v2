@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "63.09.04.1001",
+      "name": "Jangkung",
+      "postal_code": "71512"
+    },
+    {
+      "id": "63.09.04.1002",
+      "name": "Tanjung",
+      "postal_code": "71513"
+    },
+    {
+      "id": "63.09.04.1003",
+      "name": "Agung",
+      "postal_code": "71514"
+    },
+    {
+      "id": "63.09.04.1004",
+      "name": "Hikun",
+      "postal_code": "71515"
+    },
+    {
+      "id": "63.09.04.2005",
+      "name": "Banyu Tajun",
+      "postal_code": "71515"
+    },
+    {
+      "id": "63.09.04.2006",
+      "name": "Pamarangan Kiwa",
+      "postal_code": "71515"
+    },
+    {
+      "id": "63.09.04.2007",
+      "name": "Puain Kiwa",
+      "postal_code": "71515"
+    },
+    {
+      "id": "63.09.04.2008",
+      "name": "Juai",
+      "postal_code": "71515"
+    },
+    {
+      "id": "63.09.04.2009",
+      "name": "Mahe Seberang",
+      "postal_code": "71515"
+    },
+    {
+      "id": "63.09.04.2010",
+      "name": "Kambitin",
+      "postal_code": "71515"
+    },
+    {
+      "id": "63.09.04.2011",
+      "name": "Wayau",
+      "postal_code": "71515"
+    },
+    {
+      "id": "63.09.04.2012",
+      "name": "Garunggung",
+      "postal_code": "71515"
+    },
+    {
+      "id": "63.09.04.2013",
+      "name": "Kitang",
+      "postal_code": "71515"
+    },
+    {
+      "id": "63.09.04.2014",
+      "name": "Sungai Pimping",
+      "postal_code": "71515"
+    },
+    {
+      "id": "63.09.04.2015",
+      "name": "Kambitin Raya",
+      "postal_code": "71515"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

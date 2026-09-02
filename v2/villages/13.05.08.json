@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "13.05.08.2001",
+      "name": "Kuranji Hilir",
+      "postal_code": "25561"
+    },
+    {
+      "id": "13.05.08.2002",
+      "name": "Pilubang",
+      "postal_code": "25561"
+    },
+    {
+      "id": "13.05.08.2003",
+      "name": "Guguak Kuranji Hilir",
+      "postal_code": "25561"
+    },
+    {
+      "id": "13.05.08.2004",
+      "name": "Koto Tinggi Kuranji Hilir",
+      "postal_code": "25561"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

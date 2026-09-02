@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "91.03.05.2001",
+      "name": "Sama",
+      "postal_code": "99366"
+    },
+    {
+      "id": "91.03.05.2002",
+      "name": "Manda Yawan",
+      "postal_code": "99366"
+    },
+    {
+      "id": "91.03.05.2003",
+      "name": "Mamda",
+      "postal_code": "99366"
+    },
+    {
+      "id": "91.03.05.2004",
+      "name": "Mamei",
+      "postal_code": "99366"
+    },
+    {
+      "id": "91.03.05.2005",
+      "name": "Nambom",
+      "postal_code": "99366"
+    },
+    {
+      "id": "91.03.05.2006",
+      "name": "Kwansu",
+      "postal_code": "99366"
+    },
+    {
+      "id": "91.03.05.2007",
+      "name": "Soaib",
+      "postal_code": "99366"
+    },
+    {
+      "id": "91.03.05.2008",
+      "name": "Sabeab Kecil",
+      "postal_code": "99366"
+    },
+    {
+      "id": "91.03.05.2009",
+      "name": "Sekori",
+      "postal_code": "99366"
+    },
+    {
+      "id": "91.03.05.2010",
+      "name": "Skoaim",
+      "postal_code": "99366"
+    },
+    {
+      "id": "91.03.05.2011",
+      "name": "Benggwin Progo",
+      "postal_code": "99366"
+    },
+    {
+      "id": "91.03.05.2012",
+      "name": "Aib",
+      "postal_code": "99366"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

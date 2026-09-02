@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "12.09.20.1001",
+      "name": "Teladan",
+      "postal_code": "21222"
+    },
+    {
+      "id": "12.09.20.1002",
+      "name": "Siumbut Umbut",
+      "postal_code": "21225"
+    },
+    {
+      "id": "12.09.20.1003",
+      "name": "Siumbut Baru",
+      "postal_code": "21226"
+    },
+    {
+      "id": "12.09.20.1004",
+      "name": "Sentang",
+      "postal_code": "21224"
+    },
+    {
+      "id": "12.09.20.1005",
+      "name": "Selawan",
+      "postal_code": "21228"
+    },
+    {
+      "id": "12.09.20.1006",
+      "name": "Mutiara",
+      "postal_code": "21223"
+    },
+    {
+      "id": "12.09.20.1007",
+      "name": "Lestari",
+      "postal_code": "21221"
+    },
+    {
+      "id": "12.09.20.1008",
+      "name": "Kisaran Timur",
+      "postal_code": "21222"
+    },
+    {
+      "id": "12.09.20.1009",
+      "name": "Kisaran Naga",
+      "postal_code": "21219"
+    },
+    {
+      "id": "12.09.20.1010",
+      "name": "Kedai Ledang",
+      "postal_code": "21227"
+    },
+    {
+      "id": "12.09.20.1011",
+      "name": "Karang Anyer",
+      "postal_code": "21229"
+    },
+    {
+      "id": "12.09.20.1012",
+      "name": "Gambir Baru",
+      "postal_code": "21221"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

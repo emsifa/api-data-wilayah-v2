@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "18.71.17",
+    "name": "Enggal",
+    "province": {
+      "id": "18",
+      "name": "Lampung"
+    },
+    "regency": {
+      "id": "18.71",
+      "name": "Kota Bandar Lampung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

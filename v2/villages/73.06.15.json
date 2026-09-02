@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.06.15.2001",
+      "name": "Julumate'ne",
+      "postal_code": "92176"
+    },
+    {
+      "id": "73.06.15.2002",
+      "name": "Bontolempangang",
+      "postal_code": "92176"
+    },
+    {
+      "id": "73.06.15.2003",
+      "name": "Lassa-Lassa",
+      "postal_code": "92176"
+    },
+    {
+      "id": "73.06.15.2004",
+      "name": "Bontoloe",
+      "postal_code": "92176"
+    },
+    {
+      "id": "73.06.15.2005",
+      "name": "Pa'ladingang",
+      "postal_code": "92176"
+    },
+    {
+      "id": "73.06.15.2006",
+      "name": "Paranglompoa",
+      "postal_code": "92176"
+    },
+    {
+      "id": "73.06.15.2007",
+      "name": "Bontotangnga",
+      "postal_code": "92176"
+    },
+    {
+      "id": "73.06.15.2008",
+      "name": "Ulujangang",
+      "postal_code": "92176"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

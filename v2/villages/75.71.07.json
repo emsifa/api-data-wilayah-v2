@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "75.71.07.1001",
+      "name": "Tanggikiki",
+      "postal_code": "96126"
+    },
+    {
+      "id": "75.71.07.1002",
+      "name": "Tapa",
+      "postal_code": "96125"
+    },
+    {
+      "id": "75.71.07.1003",
+      "name": "Bulotadaa Barat",
+      "postal_code": "96124"
+    },
+    {
+      "id": "75.71.07.1004",
+      "name": "Bulotadaa Timur",
+      "postal_code": "96121"
+    },
+    {
+      "id": "75.71.07.1005",
+      "name": "Molosipat U",
+      "postal_code": "96126"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

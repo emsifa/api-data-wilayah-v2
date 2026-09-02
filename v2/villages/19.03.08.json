@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "19.03.08.2001",
+      "name": "Pongok",
+      "postal_code": "33791"
+    },
+    {
+      "id": "19.03.08.2002",
+      "name": "Celagen",
+      "postal_code": "33791"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "63.02.18.2001",
+      "name": "Siayuh",
+      "postal_code": "72164"
+    },
+    {
+      "id": "63.02.18.2002",
+      "name": "Bungkukan",
+      "postal_code": "72164"
+    },
+    {
+      "id": "63.02.18.2003",
+      "name": "Batang Kulur",
+      "postal_code": "72164"
+    },
+    {
+      "id": "63.02.18.2004",
+      "name": "Tanjung Sari",
+      "postal_code": "72164"
+    },
+    {
+      "id": "63.02.18.2005",
+      "name": "Magalau Hilir",
+      "postal_code": "72167"
+    },
+    {
+      "id": "63.02.18.2006",
+      "name": "Magalau Hulu",
+      "postal_code": "72167"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

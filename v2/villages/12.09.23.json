@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.09.23.2001",
+      "name": "Tanjung Alam",
+      "postal_code": "21279"
+    },
+    {
+      "id": "12.09.23.2002",
+      "name": "Perkebunan Sei Dadap I/II",
+      "postal_code": "21279"
+    },
+    {
+      "id": "12.09.23.2003",
+      "name": "Perkebunan Sei Dadap III/IV",
+      "postal_code": "21279"
+    },
+    {
+      "id": "12.09.23.2004",
+      "name": "Sei Kamah I",
+      "postal_code": "21279"
+    },
+    {
+      "id": "12.09.23.2005",
+      "name": "Sei Kamah II",
+      "postal_code": "21279"
+    },
+    {
+      "id": "12.09.23.2006",
+      "name": "Bahung Sibatu-batu",
+      "postal_code": "21279"
+    },
+    {
+      "id": "12.09.23.2007",
+      "name": "Sei Alim Hasak",
+      "postal_code": "21279"
+    },
+    {
+      "id": "12.09.23.2008",
+      "name": "Tanjung Asri",
+      "postal_code": "21279"
+    },
+    {
+      "id": "12.09.23.2009",
+      "name": "Sei Kamah Baru",
+      "postal_code": "21279"
+    },
+    {
+      "id": "12.09.23.2010",
+      "name": "Pasiran",
+      "postal_code": "21279"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

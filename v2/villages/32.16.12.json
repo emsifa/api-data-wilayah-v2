@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.16.12.2001",
+      "name": "Karangsambung",
+      "postal_code": "17540"
+    },
+    {
+      "id": "32.16.12.2002",
+      "name": "Waringinjaya",
+      "postal_code": "17540"
+    },
+    {
+      "id": "32.16.12.2003",
+      "name": "Karangmekar",
+      "postal_code": "17540"
+    },
+    {
+      "id": "32.16.12.2004",
+      "name": "Mekarjaya",
+      "postal_code": "17540"
+    },
+    {
+      "id": "32.16.12.2005",
+      "name": "Karangharum",
+      "postal_code": "17540"
+    },
+    {
+      "id": "32.16.12.2006",
+      "name": "Bojongsari",
+      "postal_code": "17540"
+    },
+    {
+      "id": "32.16.12.2007",
+      "name": "Kedungwaringin",
+      "postal_code": "17540"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "74.06.07.2001",
+      "name": "Babamolingku",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.07.2002",
+      "name": "Toari Bombana",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.07.2003",
+      "name": "Timbala",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.07.2004",
+      "name": "Ranokomea",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.07.2005",
+      "name": "Rakadua",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.07.2006",
+      "name": "Lameo-meong",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.07.2007",
+      "name": "Pabiring",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.07.2008",
+      "name": "Balasari",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.07.2009",
+      "name": "Bulumanai",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.07.2010",
+      "name": "Matabundu",
+      "postal_code": "93772"
+    },
+    {
+      "id": "74.06.07.2011",
+      "name": "Analere",
+      "postal_code": "93772"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

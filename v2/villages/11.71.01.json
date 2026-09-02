@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "11.71.01.2001",
+      "name": "Kampung Baru",
+      "postal_code": "23242"
+    },
+    {
+      "id": "11.71.01.2002",
+      "name": "Neusu Jaya",
+      "postal_code": "23243"
+    },
+    {
+      "id": "11.71.01.2003",
+      "name": "Sukaramai",
+      "postal_code": "23243"
+    },
+    {
+      "id": "11.71.01.2004",
+      "name": "Seutui",
+      "postal_code": "23243"
+    },
+    {
+      "id": "11.71.01.2005",
+      "name": "Peuniti",
+      "postal_code": "23241"
+    },
+    {
+      "id": "11.71.01.2006",
+      "name": "Neusu Aceh",
+      "postal_code": "23244"
+    },
+    {
+      "id": "11.71.01.2007",
+      "name": "Ateuk Pahlawan",
+      "postal_code": "23241"
+    },
+    {
+      "id": "11.71.01.2008",
+      "name": "Ateuk Jawo",
+      "postal_code": "23245"
+    },
+    {
+      "id": "11.71.01.2009",
+      "name": "Ateuk Deah Tanoh",
+      "postal_code": "23244"
+    },
+    {
+      "id": "11.71.01.2010",
+      "name": "Ateuk Munjeng",
+      "postal_code": "23244"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

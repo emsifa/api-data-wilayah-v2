@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "11.16.11.2001",
+      "name": "Tebing Tinggi",
+      "postal_code": "24477"
+    },
+    {
+      "id": "11.16.11.2002",
+      "name": "Rimba Sawang",
+      "postal_code": "24477"
+    },
+    {
+      "id": "11.16.11.2003",
+      "name": "Tenggulun",
+      "postal_code": "24477"
+    },
+    {
+      "id": "11.16.11.2004",
+      "name": "Selamat",
+      "postal_code": "24477"
+    },
+    {
+      "id": "11.16.11.2005",
+      "name": "Simpang Kiri",
+      "postal_code": "24477"
+    },
+    {
+      "id": "11.16.11.2006",
+      "name": "Sumber Makmur",
+      "postal_code": "24477"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "81.05.01.2003",
+      "name": "Bula",
+      "postal_code": "97521"
+    },
+    {
+      "id": "81.05.01.2004",
+      "name": "Salas",
+      "postal_code": "97521"
+    },
+    {
+      "id": "81.05.01.2010",
+      "name": "Englas",
+      "postal_code": "97521"
+    },
+    {
+      "id": "81.05.01.2011",
+      "name": "Bula Air Fatolo",
+      "postal_code": "97521"
+    },
+    {
+      "id": "81.05.01.2012",
+      "name": "Sesar",
+      "postal_code": "97521"
+    },
+    {
+      "id": "81.05.01.2022",
+      "name": "Tansi Ambon",
+      "postal_code": "97521"
+    },
+    {
+      "id": "81.05.01.2023",
+      "name": "Kampung Wailola",
+      "postal_code": "97521"
+    },
+    {
+      "id": "81.05.01.2024",
+      "name": "Kampung Gorom",
+      "postal_code": "97521"
+    },
+    {
+      "id": "81.05.01.2025",
+      "name": "Limumir",
+      "postal_code": "97521"
+    },
+    {
+      "id": "81.05.01.2026",
+      "name": "Fattolo",
+      "postal_code": "97521"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "53.14.02.1008",
+      "name": "Busalangga",
+      "postal_code": "85981"
+    },
+    {
+      "id": "53.14.02.2004",
+      "name": "Temas",
+      "postal_code": "85981"
+    },
+    {
+      "id": "53.14.02.2007",
+      "name": "Modosinal",
+      "postal_code": "85981"
+    },
+    {
+      "id": "53.14.02.2009",
+      "name": "Netenaen",
+      "postal_code": "85981"
+    },
+    {
+      "id": "53.14.02.2012",
+      "name": "Ingguinak",
+      "postal_code": "85981"
+    },
+    {
+      "id": "53.14.02.2013",
+      "name": "Oetutulu",
+      "postal_code": "85981"
+    },
+    {
+      "id": "53.14.02.2014",
+      "name": "Daudolu",
+      "postal_code": "85981"
+    },
+    {
+      "id": "53.14.02.2017",
+      "name": "Tualima",
+      "postal_code": "85981"
+    },
+    {
+      "id": "53.14.02.2019",
+      "name": "Hundihuk",
+      "postal_code": "85981"
+    },
+    {
+      "id": "53.14.02.2021",
+      "name": "Saindule",
+      "postal_code": "85981"
+    },
+    {
+      "id": "53.14.02.2025",
+      "name": "Busalangga Timur",
+      "postal_code": "85981"
+    },
+    {
+      "id": "53.14.02.2026",
+      "name": "Busalangga Barat",
+      "postal_code": "85981"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

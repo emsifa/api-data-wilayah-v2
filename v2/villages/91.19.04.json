@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "91.19.04.2001",
+      "name": "Rayori",
+      "postal_code": "98571"
+    },
+    {
+      "id": "91.19.04.2002",
+      "name": "Mbrurwandi",
+      "postal_code": "98571"
+    },
+    {
+      "id": "91.19.04.2003",
+      "name": "Manggonswan",
+      "postal_code": "98571"
+    },
+    {
+      "id": "91.19.04.2004",
+      "name": "Wongkeina",
+      "postal_code": "98571"
+    },
+    {
+      "id": "91.19.04.2005",
+      "name": "Yamnaisu",
+      "postal_code": "98571"
+    },
+    {
+      "id": "91.19.04.2006",
+      "name": "Aruri",
+      "postal_code": "98571"
+    },
+    {
+      "id": "91.19.04.2007",
+      "name": "Imbirsbari",
+      "postal_code": "98571"
+    },
+    {
+      "id": "91.19.04.2008",
+      "name": "Ineki",
+      "postal_code": "98571"
+    },
+    {
+      "id": "91.19.04.2009",
+      "name": "Insumbrei",
+      "postal_code": "98571"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

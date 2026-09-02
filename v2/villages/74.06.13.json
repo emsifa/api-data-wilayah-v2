@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "74.06.13.2001",
+      "name": "Langkema",
+      "postal_code": "93782"
+    },
+    {
+      "id": "74.06.13.2002",
+      "name": "Batuawu",
+      "postal_code": "93782"
+    },
+    {
+      "id": "74.06.13.2003",
+      "name": "Pongkalaero",
+      "postal_code": "93782"
+    },
+    {
+      "id": "74.06.13.2004",
+      "name": "Puu Nunu",
+      "postal_code": "93782"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

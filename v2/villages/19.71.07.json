@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "19.71.07.1001",
+      "name": "Pasar Padi",
+      "postal_code": "33142"
+    },
+    {
+      "id": "19.71.07.1002",
+      "name": "Batu Intan",
+      "postal_code": "33141"
+    },
+    {
+      "id": "19.71.07.1003",
+      "name": "Bukit Besar",
+      "postal_code": "33145"
+    },
+    {
+      "id": "19.71.07.1004",
+      "name": "Sriwijaya",
+      "postal_code": "33143"
+    },
+    {
+      "id": "19.71.07.1005",
+      "name": "Semabung Baru",
+      "postal_code": "33146"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

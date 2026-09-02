@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "15.01.01.1004",
+      "name": "Lempur Tengah",
+      "postal_code": "37174"
+    },
+    {
+      "id": "15.01.01.2001",
+      "name": "Selam Paung",
+      "postal_code": "37174"
+    },
+    {
+      "id": "15.01.01.2002",
+      "name": "Air Mumu",
+      "postal_code": "37174"
+    },
+    {
+      "id": "15.01.01.2003",
+      "name": "Lempur Mudik",
+      "postal_code": "37174"
+    },
+    {
+      "id": "15.01.01.2005",
+      "name": "Masgo",
+      "postal_code": "37174"
+    },
+    {
+      "id": "15.01.01.2006",
+      "name": "Lempur Hilir",
+      "postal_code": "37174"
+    },
+    {
+      "id": "15.01.01.2011",
+      "name": "Kebun Baru",
+      "postal_code": "37174"
+    },
+    {
+      "id": "15.01.01.2012",
+      "name": "Perikan Tengah",
+      "postal_code": "37174"
+    },
+    {
+      "id": "15.01.01.2013",
+      "name": "Dusun Baru Lempur",
+      "postal_code": "37174"
+    },
+    {
+      "id": "15.01.01.2016",
+      "name": "Sungaihangat",
+      "postal_code": "37174"
+    },
+    {
+      "id": "15.01.01.2018",
+      "name": "Manjunto Lempur",
+      "postal_code": "37174"
+    },
+    {
+      "id": "15.01.01.2019",
+      "name": "Kebun Lima",
+      "postal_code": "37174"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "33.20.06.1001",
+      "name": "Karangkebagusan",
+      "postal_code": "59411"
+    },
+    {
+      "id": "33.20.06.1002",
+      "name": "Demaan",
+      "postal_code": "59419"
+    },
+    {
+      "id": "33.20.06.1003",
+      "name": "Potroyudan",
+      "postal_code": "59412"
+    },
+    {
+      "id": "33.20.06.1004",
+      "name": "Bapangan",
+      "postal_code": "59413"
+    },
+    {
+      "id": "33.20.06.1005",
+      "name": "Saripan",
+      "postal_code": "59414"
+    },
+    {
+      "id": "33.20.06.1006",
+      "name": "Panggang",
+      "postal_code": "59411"
+    },
+    {
+      "id": "33.20.06.1007",
+      "name": "Kauman",
+      "postal_code": "59417"
+    },
+    {
+      "id": "33.20.06.1008",
+      "name": "Bulu",
+      "postal_code": "59418"
+    },
+    {
+      "id": "33.20.06.1009",
+      "name": "Jobokuto",
+      "postal_code": "59416"
+    },
+    {
+      "id": "33.20.06.1010",
+      "name": "Ujungbatu",
+      "postal_code": "59416"
+    },
+    {
+      "id": "33.20.06.1011",
+      "name": "Pengkol",
+      "postal_code": "59415"
+    },
+    {
+      "id": "33.20.06.2012",
+      "name": "Mulyoharjo",
+      "postal_code": "59431"
+    },
+    {
+      "id": "33.20.06.2013",
+      "name": "Wonorejo",
+      "postal_code": "59431"
+    },
+    {
+      "id": "33.20.06.2014",
+      "name": "Kedungcino",
+      "postal_code": "59432"
+    },
+    {
+      "id": "33.20.06.2015",
+      "name": "Kuwasen",
+      "postal_code": "59431"
+    },
+    {
+      "id": "33.20.06.2016",
+      "name": "Bandengan",
+      "postal_code": "59432"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

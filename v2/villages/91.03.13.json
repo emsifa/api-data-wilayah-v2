@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "91.03.13.2002",
+      "name": "Doyo Lama",
+      "postal_code": "99368"
+    },
+    {
+      "id": "91.03.13.2003",
+      "name": "Kwadeware",
+      "postal_code": "99368"
+    },
+    {
+      "id": "91.03.13.2004",
+      "name": "Yakonde",
+      "postal_code": "99368"
+    },
+    {
+      "id": "91.03.13.2005",
+      "name": "Sosiri",
+      "postal_code": "99368"
+    },
+    {
+      "id": "91.03.13.2006",
+      "name": "Doyo Baru",
+      "postal_code": "99368"
+    },
+    {
+      "id": "91.03.13.3001",
+      "name": "Desa Adat Dondai",
+      "postal_code": "99369"
+    },
+    {
+      "id": "91.03.13.3007",
+      "name": "Desa Adat Bambar",
+      "postal_code": "99369"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

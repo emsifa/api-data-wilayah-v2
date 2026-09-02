@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "92.02.14.2001",
+      "name": "Yoom I",
+      "postal_code": "98314"
+    },
+    {
+      "id": "92.02.14.2004",
+      "name": "Yoom II",
+      "postal_code": "98314"
+    },
+    {
+      "id": "92.02.14.2007",
+      "name": "Bremi",
+      "postal_code": "98314"
+    },
+    {
+      "id": "92.02.14.2008",
+      "name": "Saubeba",
+      "postal_code": "98314"
+    },
+    {
+      "id": "92.02.14.2009",
+      "name": "Pami",
+      "postal_code": "98314"
+    },
+    {
+      "id": "92.02.14.2011",
+      "name": "Asai",
+      "postal_code": "98314"
+    },
+    {
+      "id": "92.02.14.2013",
+      "name": "Meyunfoka",
+      "postal_code": "98314"
+    },
+    {
+      "id": "92.02.14.2014",
+      "name": "Tanah Rubuh",
+      "postal_code": "98314"
+    },
+    {
+      "id": "92.02.14.2015",
+      "name": "Sairo",
+      "postal_code": "98314"
+    },
+    {
+      "id": "92.02.14.2017",
+      "name": "Inoduas",
+      "postal_code": "98314"
+    },
+    {
+      "id": "92.02.14.2018",
+      "name": "Lebau",
+      "postal_code": "98314"
+    },
+    {
+      "id": "92.02.14.2020",
+      "name": "Cabang Dua",
+      "postal_code": "98314"
+    },
+    {
+      "id": "92.02.14.2022",
+      "name": "Indou Oufa",
+      "postal_code": "98314"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

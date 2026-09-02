@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "73.12.04.1001",
+      "name": "Lalabata Rilau",
+      "postal_code": "90812"
+    },
+    {
+      "id": "73.12.04.1002",
+      "name": "Ompo",
+      "postal_code": "90813"
+    },
+    {
+      "id": "73.12.04.1003",
+      "name": "Botto",
+      "postal_code": "90811"
+    },
+    {
+      "id": "73.12.04.1004",
+      "name": "Lemba",
+      "postal_code": "90811"
+    },
+    {
+      "id": "73.12.04.1005",
+      "name": "Bila",
+      "postal_code": "90814"
+    },
+    {
+      "id": "73.12.04.1006",
+      "name": "Lapajung",
+      "postal_code": "90811"
+    },
+    {
+      "id": "73.12.04.1007",
+      "name": "Salokaraja",
+      "postal_code": "90814"
+    },
+    {
+      "id": "73.12.04.2008",
+      "name": "Maccile",
+      "postal_code": "90814"
+    },
+    {
+      "id": "73.12.04.2009",
+      "name": "Umpungeng",
+      "postal_code": "90811"
+    },
+    {
+      "id": "73.12.04.2010",
+      "name": "Mattabulu",
+      "postal_code": "90811"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

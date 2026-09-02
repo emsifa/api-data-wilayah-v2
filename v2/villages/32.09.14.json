@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.09.14.2001",
+      "name": "Sampiran",
+      "postal_code": "45171"
+    },
+    {
+      "id": "32.09.14.2002",
+      "name": "Ciperna",
+      "postal_code": "45171"
+    },
+    {
+      "id": "32.09.14.2003",
+      "name": "Kecomberan",
+      "postal_code": "45171"
+    },
+    {
+      "id": "32.09.14.2004",
+      "name": "Cirebon Girang",
+      "postal_code": "45171"
+    },
+    {
+      "id": "32.09.14.2005",
+      "name": "Kerandon",
+      "postal_code": "45171"
+    },
+    {
+      "id": "32.09.14.2006",
+      "name": "Wanasaba Kidul",
+      "postal_code": "45171"
+    },
+    {
+      "id": "32.09.14.2007",
+      "name": "Wanasaba Lor",
+      "postal_code": "45171"
+    },
+    {
+      "id": "32.09.14.2008",
+      "name": "Cempaka",
+      "postal_code": "45171"
+    },
+    {
+      "id": "32.09.14.2009",
+      "name": "Kepongpongan",
+      "postal_code": "45171"
+    },
+    {
+      "id": "32.09.14.2010",
+      "name": "Sarwadadi",
+      "postal_code": "45171"
+    },
+    {
+      "id": "32.09.14.2011",
+      "name": "Kubang",
+      "postal_code": "45171"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

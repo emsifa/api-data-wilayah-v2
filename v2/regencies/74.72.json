@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "74.72",
+    "name": "Kota Bau Bau",
+    "capital": "Bau-Bau",
+    "lat": -5.485071885684611,
+    "lng": 122.58479937279147,
+    "elv": 132,
+    "tz": 8,
+    "population": 163793,
+    "total_area": 294.104,
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

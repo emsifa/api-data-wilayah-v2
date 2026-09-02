@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "82.07.03.2001",
+      "name": "Pangeo",
+      "postal_code": "97772"
+    },
+    {
+      "id": "82.07.03.2002",
+      "name": "Sopi",
+      "postal_code": "97772"
+    },
+    {
+      "id": "82.07.03.2003",
+      "name": "Bere Bere Kecil",
+      "postal_code": "97772"
+    },
+    {
+      "id": "82.07.03.2004",
+      "name": "Titigogoli",
+      "postal_code": "97772"
+    },
+    {
+      "id": "82.07.03.2005",
+      "name": "Hapo",
+      "postal_code": "97772"
+    },
+    {
+      "id": "82.07.03.2006",
+      "name": "Libano",
+      "postal_code": "97772"
+    },
+    {
+      "id": "82.07.03.2007",
+      "name": "Aru",
+      "postal_code": "97772"
+    },
+    {
+      "id": "82.07.03.2008",
+      "name": "Towara",
+      "postal_code": "97772"
+    },
+    {
+      "id": "82.07.03.2009",
+      "name": "Cendana",
+      "postal_code": "97772"
+    },
+    {
+      "id": "82.07.03.2010",
+      "name": "Podimor Padange",
+      "postal_code": "97772"
+    },
+    {
+      "id": "82.07.03.2011",
+      "name": "Sopi Majiko",
+      "postal_code": "97772"
+    },
+    {
+      "id": "82.07.03.2012",
+      "name": "Gorugo",
+      "postal_code": "97772"
+    },
+    {
+      "id": "82.07.03.2013",
+      "name": "Loleo",
+      "postal_code": "97772"
+    },
+    {
+      "id": "82.07.03.2014",
+      "name": "Cempaka",
+      "postal_code": "97772"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

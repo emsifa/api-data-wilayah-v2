@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "17.01.05.1009",
+      "name": "Gunung Ayu",
+      "postal_code": "38513"
+    },
+    {
+      "id": "17.01.05.1010",
+      "name": "Kota Medan",
+      "postal_code": "38513"
+    },
+    {
+      "id": "17.01.05.1016",
+      "name": "Kampung Baru",
+      "postal_code": "38511"
+    },
+    {
+      "id": "17.01.05.1017",
+      "name": "Pasar Baru",
+      "postal_code": "38512"
+    },
+    {
+      "id": "17.01.05.1019",
+      "name": "Ibul",
+      "postal_code": "38513"
+    },
+    {
+      "id": "17.01.05.1020",
+      "name": "Padang Kapuk",
+      "postal_code": "38511"
+    },
+    {
+      "id": "17.01.05.2001",
+      "name": "Pagar Dewa",
+      "postal_code": "38513"
+    },
+    {
+      "id": "17.01.05.2004",
+      "name": "Padang Niur",
+      "postal_code": "38511"
+    },
+    {
+      "id": "17.01.05.2005",
+      "name": "Tebat Kubu",
+      "postal_code": "38511"
+    },
+    {
+      "id": "17.01.05.2006",
+      "name": "Gelumbang",
+      "postal_code": "38511"
+    },
+    {
+      "id": "17.01.05.2018",
+      "name": "Padang Berangin",
+      "postal_code": "38511"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

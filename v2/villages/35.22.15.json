@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "35.22.15.1001",
+      "name": "Jetak",
+      "postal_code": "62114"
+    },
+    {
+      "id": "35.22.15.1004",
+      "name": "Mojokampung",
+      "postal_code": "62119"
+    },
+    {
+      "id": "35.22.15.1005",
+      "name": "Kepatihan",
+      "postal_code": "62111"
+    },
+    {
+      "id": "35.22.15.1006",
+      "name": "Sumbang",
+      "postal_code": "62115"
+    },
+    {
+      "id": "35.22.15.1007",
+      "name": "Klangon",
+      "postal_code": "62113"
+    },
+    {
+      "id": "35.22.15.1009",
+      "name": "Ledok Kulon",
+      "postal_code": "62112"
+    },
+    {
+      "id": "35.22.15.1010",
+      "name": "Ledok Wetan",
+      "postal_code": "62112"
+    },
+    {
+      "id": "35.22.15.1011",
+      "name": "Kadipaten",
+      "postal_code": "62111"
+    },
+    {
+      "id": "35.22.15.1012",
+      "name": "Ngrowo",
+      "postal_code": "62119"
+    },
+    {
+      "id": "35.22.15.1013",
+      "name": "Karangpacar",
+      "postal_code": "62119"
+    },
+    {
+      "id": "35.22.15.1014",
+      "name": "Banjarejo",
+      "postal_code": "62118"
+    },
+    {
+      "id": "35.22.15.2002",
+      "name": "Pacul",
+      "postal_code": "62114"
+    },
+    {
+      "id": "35.22.15.2003",
+      "name": "Sukorejo",
+      "postal_code": "62115"
+    },
+    {
+      "id": "35.22.15.2008",
+      "name": "Kauman",
+      "postal_code": "62113"
+    },
+    {
+      "id": "35.22.15.2015",
+      "name": "Campurejo",
+      "postal_code": "62119"
+    },
+    {
+      "id": "35.22.15.2016",
+      "name": "Mulyoagung",
+      "postal_code": "62119"
+    },
+    {
+      "id": "35.22.15.2017",
+      "name": "Kalirejo",
+      "postal_code": "62119"
+    },
+    {
+      "id": "35.22.15.2018",
+      "name": "Semanding",
+      "postal_code": "62119"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

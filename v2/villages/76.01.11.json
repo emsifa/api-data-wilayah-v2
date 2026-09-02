@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "76.01.11.2001",
+      "name": "Sarjo",
+      "postal_code": "91591"
+    },
+    {
+      "id": "76.01.11.2002",
+      "name": "Maponu",
+      "postal_code": "91591"
+    },
+    {
+      "id": "76.01.11.2003",
+      "name": "Letawa",
+      "postal_code": "91591"
+    },
+    {
+      "id": "76.01.11.2004",
+      "name": "Sarude",
+      "postal_code": "91591"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

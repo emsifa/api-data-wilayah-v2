@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "36.03.09.2001",
+      "name": "Patramanggala",
+      "postal_code": "15530"
+    },
+    {
+      "id": "36.03.09.2002",
+      "name": "Karang Anyar",
+      "postal_code": "15530"
+    },
+    {
+      "id": "36.03.09.2003",
+      "name": "Lontar",
+      "postal_code": "15530"
+    },
+    {
+      "id": "36.03.09.2004",
+      "name": "Kemiri",
+      "postal_code": "15530"
+    },
+    {
+      "id": "36.03.09.2005",
+      "name": "Ranca Labuh",
+      "postal_code": "15530"
+    },
+    {
+      "id": "36.03.09.2006",
+      "name": "Klebet",
+      "postal_code": "15530"
+    },
+    {
+      "id": "36.03.09.2007",
+      "name": "Legok Suka Maju",
+      "postal_code": "15530"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.06.24.2001",
+      "name": "Cikunten",
+      "postal_code": "46414"
+    },
+    {
+      "id": "32.06.24.2002",
+      "name": "Singaparna",
+      "postal_code": "46411"
+    },
+    {
+      "id": "32.06.24.2003",
+      "name": "Cipakat",
+      "postal_code": "46417"
+    },
+    {
+      "id": "32.06.24.2004",
+      "name": "Cintaraja",
+      "postal_code": "46417"
+    },
+    {
+      "id": "32.06.24.2005",
+      "name": "Cikunir",
+      "postal_code": "46418"
+    },
+    {
+      "id": "32.06.24.2006",
+      "name": "Cikadongdong",
+      "postal_code": "46418"
+    },
+    {
+      "id": "32.06.24.2007",
+      "name": "Sukaasih",
+      "postal_code": "46415"
+    },
+    {
+      "id": "32.06.24.2008",
+      "name": "Sukamulya",
+      "postal_code": "46416"
+    },
+    {
+      "id": "32.06.24.2009",
+      "name": "Singasari",
+      "postal_code": "46412"
+    },
+    {
+      "id": "32.06.24.2010",
+      "name": "Sukaherang",
+      "postal_code": "46413"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

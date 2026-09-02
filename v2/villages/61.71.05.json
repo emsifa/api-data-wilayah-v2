@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "61.71.05.1001",
+      "name": "Sungaibangkong",
+      "postal_code": "78116"
+    },
+    {
+      "id": "61.71.05.1002",
+      "name": "Daratsekip",
+      "postal_code": "78117"
+    },
+    {
+      "id": "61.71.05.1003",
+      "name": "Tengah",
+      "postal_code": "78111"
+    },
+    {
+      "id": "61.71.05.1004",
+      "name": "Mariana",
+      "postal_code": "78112"
+    },
+    {
+      "id": "61.71.05.1005",
+      "name": "Sungaijawi",
+      "postal_code": "78113"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

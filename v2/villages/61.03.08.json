@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "61.03.08.2001",
+      "name": "Tanjung Bunga",
+      "postal_code": "78553"
+    },
+    {
+      "id": "61.03.08.2002",
+      "name": "Semayang",
+      "postal_code": "78553"
+    },
+    {
+      "id": "61.03.08.2003",
+      "name": "Sebongkuh",
+      "postal_code": "78553"
+    },
+    {
+      "id": "61.03.08.2004",
+      "name": "Kuala Dua",
+      "postal_code": "78553"
+    },
+    {
+      "id": "61.03.08.2005",
+      "name": "Tanjung Merpati",
+      "postal_code": "78553"
+    },
+    {
+      "id": "61.03.08.2006",
+      "name": "Sejuah",
+      "postal_code": "78553"
+    },
+    {
+      "id": "61.03.08.2007",
+      "name": "Mobui",
+      "postal_code": "78553"
+    },
+    {
+      "id": "61.03.08.2008",
+      "name": "Tanap",
+      "postal_code": "78553"
+    },
+    {
+      "id": "61.03.08.2009",
+      "name": "Sebuduh",
+      "postal_code": "78553"
+    },
+    {
+      "id": "61.03.08.2010",
+      "name": "Kelompu",
+      "postal_code": "78553"
+    },
+    {
+      "id": "61.03.08.2011",
+      "name": "Tunggal Bhakti",
+      "postal_code": "78553"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

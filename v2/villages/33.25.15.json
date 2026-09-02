@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "33.25.15.2001",
+      "name": "Banyuputih",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.15.2002",
+      "name": "Kalibalik",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.15.2003",
+      "name": "Sembung",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.15.2004",
+      "name": "Kedawung",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.15.2005",
+      "name": "Dlimas",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.15.2006",
+      "name": "Luwung",
+      "postal_code": "51271"
+    },
+    {
+      "id": "33.25.15.2008",
+      "name": "Penundan",
+      "postal_code": "51281"
+    },
+    {
+      "id": "33.25.15.2009",
+      "name": "Banaran",
+      "postal_code": "51281"
+    },
+    {
+      "id": "33.25.15.2010",
+      "name": "Timbang",
+      "postal_code": "51281"
+    },
+    {
+      "id": "33.25.15.2011",
+      "name": "Bulu",
+      "postal_code": "51281"
+    },
+    {
+      "id": "33.25.15.2012",
+      "name": "Kalangsono",
+      "postal_code": "51271"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

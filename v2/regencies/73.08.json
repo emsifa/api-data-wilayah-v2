@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "73.08",
+    "name": "Kabupaten Bone",
+    "capital": "Watampone",
+    "lat": -4.539251732825663,
+    "lng": 120.30925454114436,
+    "elv": 38,
+    "tz": 8,
+    "population": 827372,
+    "total_area": 4568.033,
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

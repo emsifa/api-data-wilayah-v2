@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "11.13.09.2001",
+      "name": "Penosan",
+      "postal_code": "24655"
+    },
+    {
+      "id": "11.13.09.2002",
+      "name": "Sekuelen",
+      "postal_code": "24655"
+    },
+    {
+      "id": "11.13.09.2003",
+      "name": "Akul",
+      "postal_code": "24655"
+    },
+    {
+      "id": "11.13.09.2004",
+      "name": "Gegarang",
+      "postal_code": "24655"
+    },
+    {
+      "id": "11.13.09.2005",
+      "name": "Peparik Gaib",
+      "postal_code": "24655"
+    },
+    {
+      "id": "11.13.09.2006",
+      "name": "Penosan Sepakat",
+      "postal_code": "24655"
+    },
+    {
+      "id": "11.13.09.2007",
+      "name": "Tingkem",
+      "postal_code": "24655"
+    },
+    {
+      "id": "11.13.09.2008",
+      "name": "Ketukah",
+      "postal_code": "24655"
+    },
+    {
+      "id": "11.13.09.2009",
+      "name": "Peparik Dekat",
+      "postal_code": "24655"
+    },
+    {
+      "id": "11.13.09.2010",
+      "name": "Blangjerango",
+      "postal_code": "24655"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

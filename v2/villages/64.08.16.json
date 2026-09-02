@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "64.08.16.2001",
+      "name": "Karangan Dalam",
+      "postal_code": "75684"
+    },
+    {
+      "id": "64.08.16.2002",
+      "name": "Batu Lepoq",
+      "postal_code": "75684"
+    },
+    {
+      "id": "64.08.16.2003",
+      "name": "Pengadan",
+      "postal_code": "75684"
+    },
+    {
+      "id": "64.08.16.2004",
+      "name": "Baay",
+      "postal_code": "75684"
+    },
+    {
+      "id": "64.08.16.2005",
+      "name": "Mukti Lestari",
+      "postal_code": "75684"
+    },
+    {
+      "id": "64.08.16.2006",
+      "name": "Karangan Seberang",
+      "postal_code": "75684"
+    },
+    {
+      "id": "64.08.16.2007",
+      "name": "Karangan Hilir",
+      "postal_code": "75684"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,18 +1,24 @@
 {
-  "data": {
-    "id": "51.05",
-    "name": "Kabupaten Klungkung",
-    "province": {
-      "id": "51",
-      "name": "Bali"
+  "data": [
+    {
+      "id": "51.05.01",
+      "name": "Nusa Penida"
     },
-    "regency": {
-      "id": "51.05",
-      "name": "Kabupaten Klungkung"
+    {
+      "id": "51.05.02",
+      "name": "Banjarangkan"
+    },
+    {
+      "id": "51.05.03",
+      "name": "Klungkung"
+    },
+    {
+      "id": "51.05.04",
+      "name": "Dawan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

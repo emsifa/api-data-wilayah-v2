@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.05.40.2001",
+      "name": "Cipareuan",
+      "postal_code": "44193"
+    },
+    {
+      "id": "32.05.40.2002",
+      "name": "Cibiuk Kaler",
+      "postal_code": "44193"
+    },
+    {
+      "id": "32.05.40.2003",
+      "name": "Cibiuk Kidul",
+      "postal_code": "44193"
+    },
+    {
+      "id": "32.05.40.2004",
+      "name": "Majasari",
+      "postal_code": "44193"
+    },
+    {
+      "id": "32.05.40.2005",
+      "name": "Lingkungpasir",
+      "postal_code": "44193"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "id": "93.03.05.2001",
+      "name": "Yagatsu",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2002",
+      "name": "Amagatsu",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2003",
+      "name": "Katage",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2004",
+      "name": "Sogope",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2005",
+      "name": "Wiyage",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2006",
+      "name": "Kasima",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2007",
+      "name": "Amenda",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2008",
+      "name": "Kaibu",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2009",
+      "name": "Omuro",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2010",
+      "name": "Okor",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2011",
+      "name": "Atsipim",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2012",
+      "name": "Semtaipim",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2013",
+      "name": "Geiripim",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2014",
+      "name": "Warogom",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2015",
+      "name": "Kaibusene",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2016",
+      "name": "Arare",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2017",
+      "name": "Paghai",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2018",
+      "name": "Kerke",
+      "postal_code": "99881"
+    },
+    {
+      "id": "93.03.05.2019",
+      "name": "Mani",
+      "postal_code": "99881"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

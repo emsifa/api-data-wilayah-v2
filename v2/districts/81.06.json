@@ -1,18 +1,52 @@
 {
-  "data": {
-    "id": "81.06",
-    "name": "Kabupaten Seram Bagian Barat",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
+  "data": [
+    {
+      "id": "81.06.01",
+      "name": "Kairatu"
     },
-    "regency": {
-      "id": "81.06",
-      "name": "Kabupaten Seram Bagian Barat"
+    {
+      "id": "81.06.02",
+      "name": "Seram Barat"
+    },
+    {
+      "id": "81.06.03",
+      "name": "Taniwel"
+    },
+    {
+      "id": "81.06.04",
+      "name": "Huamual Belakang"
+    },
+    {
+      "id": "81.06.05",
+      "name": "Amalatu"
+    },
+    {
+      "id": "81.06.06",
+      "name": "Inamosol"
+    },
+    {
+      "id": "81.06.07",
+      "name": "Kairatu Barat"
+    },
+    {
+      "id": "81.06.08",
+      "name": "Huamual"
+    },
+    {
+      "id": "81.06.09",
+      "name": "Kepulauan Manipa"
+    },
+    {
+      "id": "81.06.10",
+      "name": "Taniwel Timur"
+    },
+    {
+      "id": "81.06.11",
+      "name": "Elpaputih"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

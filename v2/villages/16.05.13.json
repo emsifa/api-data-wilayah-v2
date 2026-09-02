@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "16.05.13.1005",
+      "name": "Purwodadi",
+      "postal_code": "31668"
+    },
+    {
+      "id": "16.05.13.1007",
+      "name": "Mangun Harjo",
+      "postal_code": "31668"
+    },
+    {
+      "id": "16.05.13.2001",
+      "name": "Bangun Sari",
+      "postal_code": "31668"
+    },
+    {
+      "id": "16.05.13.2002",
+      "name": "Kerto Sari",
+      "postal_code": "31668"
+    },
+    {
+      "id": "16.05.13.2003",
+      "name": "Pagar Sari",
+      "postal_code": "31668"
+    },
+    {
+      "id": "16.05.13.2004",
+      "name": "Mardi Harjo",
+      "postal_code": "31668"
+    },
+    {
+      "id": "16.05.13.2006",
+      "name": "Karya Dadi",
+      "postal_code": "31668"
+    },
+    {
+      "id": "16.05.13.2008",
+      "name": "Rejo Sari",
+      "postal_code": "31668"
+    },
+    {
+      "id": "16.05.13.2009",
+      "name": "Sadar Karya",
+      "postal_code": "31668"
+    },
+    {
+      "id": "16.05.13.2010",
+      "name": "Purwakarya",
+      "postal_code": "31668"
+    },
+    {
+      "id": "16.05.13.2011",
+      "name": "Tri Karya",
+      "postal_code": "31668"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

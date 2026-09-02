@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "94.06.07.2001",
+      "name": "Puweta I",
+      "postal_code": "98883"
+    },
+    {
+      "id": "94.06.07.2002",
+      "name": "Pouwouda",
+      "postal_code": "98883"
+    },
+    {
+      "id": "94.06.07.2003",
+      "name": "Puweta II",
+      "postal_code": "98883"
+    },
+    {
+      "id": "94.06.07.2004",
+      "name": "Botumoma",
+      "postal_code": "98883"
+    },
+    {
+      "id": "94.06.07.2005",
+      "name": "Obaibega",
+      "postal_code": "98883"
+    },
+    {
+      "id": "94.06.07.2006",
+      "name": "Digikebo",
+      "postal_code": "98883"
+    },
+    {
+      "id": "94.06.07.2007",
+      "name": "Bogiyateugi",
+      "postal_code": "98883"
+    },
+    {
+      "id": "94.06.07.2008",
+      "name": "Matadi",
+      "postal_code": "98883"
+    },
+    {
+      "id": "94.06.07.2009",
+      "name": "Tuwaida",
+      "postal_code": "98883"
+    },
+    {
+      "id": "94.06.07.2010",
+      "name": "Yepo",
+      "postal_code": "98883"
+    },
+    {
+      "id": "94.06.07.2011",
+      "name": "Ugikagouda",
+      "postal_code": "98883"
+    },
+    {
+      "id": "94.06.07.2012",
+      "name": "Ugikebo",
+      "postal_code": "98883"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

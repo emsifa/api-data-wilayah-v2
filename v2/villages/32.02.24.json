@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "32.02.24.1013",
+      "name": "Surade",
+      "postal_code": "43179"
+    },
+    {
+      "id": "32.02.24.2001",
+      "name": "Jagamukti",
+      "postal_code": "43179"
+    },
+    {
+      "id": "32.02.24.2002",
+      "name": "Citanglar",
+      "postal_code": "43179"
+    },
+    {
+      "id": "32.02.24.2003",
+      "name": "Wanasari",
+      "postal_code": "43179"
+    },
+    {
+      "id": "32.02.24.2005",
+      "name": "Sirnasari",
+      "postal_code": "43179"
+    },
+    {
+      "id": "32.02.24.2006",
+      "name": "Kadaleman",
+      "postal_code": "43179"
+    },
+    {
+      "id": "32.02.24.2007",
+      "name": "Gunungsungging",
+      "postal_code": "43179"
+    },
+    {
+      "id": "32.02.24.2008",
+      "name": "Cipeundeuy",
+      "postal_code": "43179"
+    },
+    {
+      "id": "32.02.24.2009",
+      "name": "Pasiripis",
+      "postal_code": "43179"
+    },
+    {
+      "id": "32.02.24.2010",
+      "name": "Buniwangi",
+      "postal_code": "43179"
+    },
+    {
+      "id": "32.02.24.2011",
+      "name": "Sukatani",
+      "postal_code": "43179"
+    },
+    {
+      "id": "32.02.24.2012",
+      "name": "Kademangan",
+      "postal_code": "43179"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

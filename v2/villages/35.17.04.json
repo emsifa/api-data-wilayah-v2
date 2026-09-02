@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "35.17.04.2001",
+      "name": "Kebondalem",
+      "postal_code": "61474"
+    },
+    {
+      "id": "35.17.04.2002",
+      "name": "Mundusewu",
+      "postal_code": "61474"
+    },
+    {
+      "id": "35.17.04.2003",
+      "name": "Pakel",
+      "postal_code": "61474"
+    },
+    {
+      "id": "35.17.04.2004",
+      "name": "Karangan",
+      "postal_code": "61474"
+    },
+    {
+      "id": "35.17.04.2005",
+      "name": "Ngampungan",
+      "postal_code": "61474"
+    },
+    {
+      "id": "35.17.04.2006",
+      "name": "Jenisgelaran",
+      "postal_code": "61474"
+    },
+    {
+      "id": "35.17.04.2007",
+      "name": "Bareng",
+      "postal_code": "61474"
+    },
+    {
+      "id": "35.17.04.2008",
+      "name": "Tebel",
+      "postal_code": "61474"
+    },
+    {
+      "id": "35.17.04.2009",
+      "name": "Mojotengah",
+      "postal_code": "61474"
+    },
+    {
+      "id": "35.17.04.2010",
+      "name": "Banjaragung",
+      "postal_code": "61474"
+    },
+    {
+      "id": "35.17.04.2011",
+      "name": "Nglebak",
+      "postal_code": "61474"
+    },
+    {
+      "id": "35.17.04.2012",
+      "name": "Ngrimbi",
+      "postal_code": "61474"
+    },
+    {
+      "id": "35.17.04.2013",
+      "name": "Pulosari",
+      "postal_code": "61474"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

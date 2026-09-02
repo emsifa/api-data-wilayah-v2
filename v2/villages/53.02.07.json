@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "53.02.07.2007",
+      "name": "Tublopo",
+      "postal_code": "85551"
+    },
+    {
+      "id": "53.02.07.2008",
+      "name": "Nule",
+      "postal_code": "85551"
+    },
+    {
+      "id": "53.02.07.2009",
+      "name": "Nusa",
+      "postal_code": "85551"
+    },
+    {
+      "id": "53.02.07.2010",
+      "name": "Mnelalete",
+      "postal_code": "85514"
+    },
+    {
+      "id": "53.02.07.2011",
+      "name": "Pusu",
+      "postal_code": "85551"
+    },
+    {
+      "id": "53.02.07.2012",
+      "name": "Tubuhue",
+      "postal_code": "85551"
+    },
+    {
+      "id": "53.02.07.2013",
+      "name": "Haumeni Baki",
+      "postal_code": "85551"
+    },
+    {
+      "id": "53.02.07.2015",
+      "name": "Nifukani",
+      "postal_code": "85551"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

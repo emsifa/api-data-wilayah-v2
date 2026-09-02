@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "73.06.05.1001",
+      "name": "Lanna",
+      "postal_code": "92179"
+    },
+    {
+      "id": "73.06.05.1002",
+      "name": "Bontoparang",
+      "postal_code": "92179"
+    },
+    {
+      "id": "73.06.05.2006",
+      "name": "Lonjoboko",
+      "postal_code": "92179"
+    },
+    {
+      "id": "73.06.05.2008",
+      "name": "Borisallo",
+      "postal_code": "92179"
+    },
+    {
+      "id": "73.06.05.2009",
+      "name": "Belapunranga",
+      "postal_code": "92179"
+    },
+    {
+      "id": "73.06.05.2010",
+      "name": "Bontokassi",
+      "postal_code": "92179"
+    },
+    {
+      "id": "73.06.05.2011",
+      "name": "Belabori",
+      "postal_code": "92179"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

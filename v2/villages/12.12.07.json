@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "12.12.07.1037",
+      "name": "Pasar Porsea",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.1038",
+      "name": "Patane III",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.1039",
+      "name": "Parparean III",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.2001",
+      "name": "Patane IV",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.2003",
+      "name": "Lumban Gurning",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.2004",
+      "name": "Amborgang",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.2005",
+      "name": "Nalela",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.2007",
+      "name": "Patane II",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.2022",
+      "name": "Gala Gala Pangkailan",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.2023",
+      "name": "Silamosik I",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.2030",
+      "name": "Parparean IV",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.2031",
+      "name": "Parparean I",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.2033",
+      "name": "Parparean II",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.2036",
+      "name": "Patane I",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.2040",
+      "name": "Patane V",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.2041",
+      "name": "Simpang Sigura-Gura",
+      "postal_code": "22384"
+    },
+    {
+      "id": "12.12.07.2042",
+      "name": "Raut Bosi",
+      "postal_code": "22384"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

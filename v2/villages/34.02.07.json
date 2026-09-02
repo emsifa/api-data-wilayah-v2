@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "34.02.07.2001",
+      "name": "Triwidadi",
+      "postal_code": "55751"
+    },
+    {
+      "id": "34.02.07.2002",
+      "name": "Sendangsari",
+      "postal_code": "55751"
+    },
+    {
+      "id": "34.02.07.2003",
+      "name": "Guwosari",
+      "postal_code": "55751"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

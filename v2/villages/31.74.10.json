@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "31.74.10.1001",
+      "name": "Pesanggrahan",
+      "postal_code": "12320"
+    },
+    {
+      "id": "31.74.10.1002",
+      "name": "Bintaro",
+      "postal_code": "12330"
+    },
+    {
+      "id": "31.74.10.1003",
+      "name": "Petukangan Utara",
+      "postal_code": "12260"
+    },
+    {
+      "id": "31.74.10.1004",
+      "name": "Petukangan Selatan",
+      "postal_code": "12270"
+    },
+    {
+      "id": "31.74.10.1005",
+      "name": "Ulujami",
+      "postal_code": "12250"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

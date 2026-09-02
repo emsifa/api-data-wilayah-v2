@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "76.01.08.2001",
+      "name": "Tikke",
+      "postal_code": "91579"
+    },
+    {
+      "id": "76.01.08.2002",
+      "name": "Makmur Jaya",
+      "postal_code": "91579"
+    },
+    {
+      "id": "76.01.08.2003",
+      "name": "Lariang",
+      "postal_code": "91579"
+    },
+    {
+      "id": "76.01.08.2004",
+      "name": "Pajalele",
+      "postal_code": "91579"
+    },
+    {
+      "id": "76.01.08.2005",
+      "name": "Jengeng Raya",
+      "postal_code": "91579"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "18.03.10.1001",
+      "name": "Kelapa Tujuh",
+      "postal_code": "34513"
+    },
+    {
+      "id": "18.03.10.1002",
+      "name": "Tanjung Aman",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.10.1003",
+      "name": "Kota Alam",
+      "postal_code": "34519"
+    },
+    {
+      "id": "18.03.10.1011",
+      "name": "Tanjung Harapan",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.10.1012",
+      "name": "Tanjung Senang",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.10.2004",
+      "name": "Mulang Maya",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.10.2005",
+      "name": "Bandar Putih",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.10.2006",
+      "name": "Karang Agung",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.10.2007",
+      "name": "Curup Guruh",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.10.2008",
+      "name": "Jerangkang",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.10.2009",
+      "name": "Way Melan",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.10.2010",
+      "name": "Taman Jaya",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.10.2013",
+      "name": "Alam Jaya",
+      "postal_code": "34511"
+    },
+    {
+      "id": "18.03.10.2014",
+      "name": "Sinar Mas Alam",
+      "postal_code": "34511"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

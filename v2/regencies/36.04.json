@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "36.04",
+    "name": "Kabupaten Serang",
+    "capital": "Ciruas",
+    "lat": -6.115302501045602,
+    "lng": 106.15201508303925,
+    "elv": 31,
+    "tz": 7,
+    "population": 1791795,
+    "total_area": 1471.543,
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

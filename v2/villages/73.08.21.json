@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.08.21.1001",
+      "name": "Biru",
+      "postal_code": "92714"
+    },
+    {
+      "id": "73.08.21.1002",
+      "name": "Ta",
+      "postal_code": "92712"
+    },
+    {
+      "id": "73.08.21.1003",
+      "name": "Watampone",
+      "postal_code": "92713"
+    },
+    {
+      "id": "73.08.21.1004",
+      "name": "Bukaka",
+      "postal_code": "92711"
+    },
+    {
+      "id": "73.08.21.1005",
+      "name": "Pappolo",
+      "postal_code": "92721"
+    },
+    {
+      "id": "73.08.21.1006",
+      "name": "Manurunge",
+      "postal_code": "92711"
+    },
+    {
+      "id": "73.08.21.1007",
+      "name": "Walanae",
+      "postal_code": "92711"
+    },
+    {
+      "id": "73.08.21.1008",
+      "name": "Masumpu",
+      "postal_code": "92711"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

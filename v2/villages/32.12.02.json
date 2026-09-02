@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.12.02.2001",
+      "name": "Tanjungkerta",
+      "postal_code": "45265"
+    },
+    {
+      "id": "32.12.02.2002",
+      "name": "Kroya",
+      "postal_code": "45265"
+    },
+    {
+      "id": "32.12.02.2003",
+      "name": "Sumbon",
+      "postal_code": "45265"
+    },
+    {
+      "id": "32.12.02.2004",
+      "name": "Sukamelang",
+      "postal_code": "45265"
+    },
+    {
+      "id": "32.12.02.2005",
+      "name": "Temiyang",
+      "postal_code": "45265"
+    },
+    {
+      "id": "32.12.02.2006",
+      "name": "Tamiyangsari",
+      "postal_code": "45265"
+    },
+    {
+      "id": "32.12.02.2007",
+      "name": "Jayamulya",
+      "postal_code": "45265"
+    },
+    {
+      "id": "32.12.02.2008",
+      "name": "Sukaslamet",
+      "postal_code": "45265"
+    },
+    {
+      "id": "32.12.02.2009",
+      "name": "Sumberjaya",
+      "postal_code": "45265"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

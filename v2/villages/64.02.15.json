@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "64.02.15.1001",
+      "name": "Jawa",
+      "postal_code": "75251"
+    },
+    {
+      "id": "64.02.15.1002",
+      "name": "Pendingin",
+      "postal_code": "75256"
+    },
+    {
+      "id": "64.02.15.1003",
+      "name": "Sanga-Sanga Dalam",
+      "postal_code": "75254"
+    },
+    {
+      "id": "64.02.15.1004",
+      "name": "Sari Jaya",
+      "postal_code": "75251"
+    },
+    {
+      "id": "64.02.15.1005",
+      "name": "Sanga-Sanga Muara",
+      "postal_code": "75251"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

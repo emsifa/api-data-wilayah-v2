@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "74.08.14.2001",
+      "name": "Mattiro Bulu",
+      "postal_code": "93963"
+    },
+    {
+      "id": "74.08.14.2002",
+      "name": "Lawadia",
+      "postal_code": "93963"
+    },
+    {
+      "id": "74.08.14.2003",
+      "name": "Watumea",
+      "postal_code": "93963"
+    },
+    {
+      "id": "74.08.14.2004",
+      "name": "Tiwu",
+      "postal_code": "93963"
+    },
+    {
+      "id": "74.08.14.2005",
+      "name": "Tahibua",
+      "postal_code": "93963"
+    },
+    {
+      "id": "74.08.14.2006",
+      "name": "Lapolu",
+      "postal_code": "93963"
+    },
+    {
+      "id": "74.08.14.2007",
+      "name": "Tanggeawo",
+      "postal_code": "93963"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

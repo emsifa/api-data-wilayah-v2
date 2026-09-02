@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "93.04.07.2001",
+      "name": "Binam",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.07.2002",
+      "name": "Wagabus",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.07.2003",
+      "name": "Burbis",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.07.2004",
+      "name": "Bubis",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.07.2005",
+      "name": "Karbis",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.07.2006",
+      "name": "Jinak",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.07.2007",
+      "name": "Wowi",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.07.2008",
+      "name": "Soray",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.07.2009",
+      "name": "Waganu Dua",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.07.2014",
+      "name": "Emnam",
+      "postal_code": "99792"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

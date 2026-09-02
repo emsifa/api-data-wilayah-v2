@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "32.09.21.2001",
+      "name": "Adidharma",
+      "postal_code": "45151"
+    },
+    {
+      "id": "32.09.21.2002",
+      "name": "Pasindangan",
+      "postal_code": "45151"
+    },
+    {
+      "id": "32.09.21.2003",
+      "name": "Jadimulya",
+      "postal_code": "45151"
+    },
+    {
+      "id": "32.09.21.2004",
+      "name": "Klayan",
+      "postal_code": "45151"
+    },
+    {
+      "id": "32.09.21.2005",
+      "name": "Jatimerta",
+      "postal_code": "45151"
+    },
+    {
+      "id": "32.09.21.2006",
+      "name": "Astana",
+      "postal_code": "45151"
+    },
+    {
+      "id": "32.09.21.2007",
+      "name": "Kalisapu",
+      "postal_code": "45151"
+    },
+    {
+      "id": "32.09.21.2008",
+      "name": "Wanakaya",
+      "postal_code": "45151"
+    },
+    {
+      "id": "32.09.21.2009",
+      "name": "Grogol",
+      "postal_code": "45151"
+    },
+    {
+      "id": "32.09.21.2010",
+      "name": "Babadan",
+      "postal_code": "45151"
+    },
+    {
+      "id": "32.09.21.2011",
+      "name": "Buyut",
+      "postal_code": "45151"
+    },
+    {
+      "id": "32.09.21.2012",
+      "name": "Mayung",
+      "postal_code": "45151"
+    },
+    {
+      "id": "32.09.21.2015",
+      "name": "Mertasinga",
+      "postal_code": "45151"
+    },
+    {
+      "id": "32.09.21.2016",
+      "name": "Sambeng",
+      "postal_code": "45150"
+    },
+    {
+      "id": "32.09.21.2017",
+      "name": "Sirnabaya",
+      "postal_code": "45150"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

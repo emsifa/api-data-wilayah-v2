@@ -1,18 +1,32 @@
 {
-  "data": {
-    "id": "16.74",
-    "name": "Kota Prabumulih",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
+  "data": [
+    {
+      "id": "16.74.01",
+      "name": "Prabumulih Barat"
     },
-    "regency": {
-      "id": "16.74",
-      "name": "Kota Prabumulih"
+    {
+      "id": "16.74.02",
+      "name": "Prabumulih Timur"
+    },
+    {
+      "id": "16.74.03",
+      "name": "Cambai"
+    },
+    {
+      "id": "16.74.04",
+      "name": "Rambang Kapak Tengah"
+    },
+    {
+      "id": "16.74.05",
+      "name": "Prabumulih Utara"
+    },
+    {
+      "id": "16.74.06",
+      "name": "Prabumulih Selatan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

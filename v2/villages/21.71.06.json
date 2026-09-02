@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "21.71.06.1001",
+      "name": "Kampung Pelita",
+      "postal_code": "29443"
+    },
+    {
+      "id": "21.71.06.1003",
+      "name": "Lubuk Baja Kota",
+      "postal_code": "29444"
+    },
+    {
+      "id": "21.71.06.1004",
+      "name": "Batu Selicin",
+      "postal_code": "29441"
+    },
+    {
+      "id": "21.71.06.1005",
+      "name": "Tanjung Uma",
+      "postal_code": "29445"
+    },
+    {
+      "id": "21.71.06.1006",
+      "name": "Baloi Indah",
+      "postal_code": "29432"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

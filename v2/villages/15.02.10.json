@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "15.02.10.2001",
+      "name": "Pulau Rengas",
+      "postal_code": "37315"
+    },
+    {
+      "id": "15.02.10.2002",
+      "name": "Biuku Tanjung",
+      "postal_code": "37315"
+    },
+    {
+      "id": "15.02.10.2003",
+      "name": "Bedeng Rejo",
+      "postal_code": "37315"
+    },
+    {
+      "id": "15.02.10.2004",
+      "name": "Sungai Putih",
+      "postal_code": "37315"
+    },
+    {
+      "id": "15.02.10.2005",
+      "name": "Bukit Beringin",
+      "postal_code": "37315"
+    },
+    {
+      "id": "15.02.10.2006",
+      "name": "Pulau Rengas Ulu",
+      "postal_code": "37315"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

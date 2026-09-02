@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "95.08.27.2001",
+      "name": "Nganai",
+      "postal_code": "99928"
+    },
+    {
+      "id": "95.08.27.2002",
+      "name": "Pija",
+      "postal_code": "99928"
+    },
+    {
+      "id": "95.08.27.2003",
+      "name": "Sitgama",
+      "postal_code": "99928"
+    },
+    {
+      "id": "95.08.27.2004",
+      "name": "Siat",
+      "postal_code": "99928"
+    },
+    {
+      "id": "95.08.27.2005",
+      "name": "Murupbaye",
+      "postal_code": "99928"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

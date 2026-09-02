@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "12.74.04.1001",
+      "name": "Sei Merbau",
+      "postal_code": "21334"
+    },
+    {
+      "id": "12.74.04.1002",
+      "name": "Pematang Pasir",
+      "postal_code": "21333"
+    },
+    {
+      "id": "12.74.04.1003",
+      "name": "Perjuangan",
+      "postal_code": "21332"
+    },
+    {
+      "id": "12.74.04.1004",
+      "name": "Kapias Pulau Buaya",
+      "postal_code": "21331"
+    },
+    {
+      "id": "12.74.04.1005",
+      "name": "Beting Kuala Kapias",
+      "postal_code": "21335"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

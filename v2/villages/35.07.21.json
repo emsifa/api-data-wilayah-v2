@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "35.07.21.2001",
+      "name": "Sumbersuko",
+      "postal_code": "65158"
+    },
+    {
+      "id": "35.07.21.2002",
+      "name": "Mendalanwangi",
+      "postal_code": "65158"
+    },
+    {
+      "id": "35.07.21.2003",
+      "name": "Sitirejo",
+      "postal_code": "65158"
+    },
+    {
+      "id": "35.07.21.2004",
+      "name": "Parangargo",
+      "postal_code": "65158"
+    },
+    {
+      "id": "35.07.21.2005",
+      "name": "Gondowangi",
+      "postal_code": "65158"
+    },
+    {
+      "id": "35.07.21.2006",
+      "name": "Pandanrejo",
+      "postal_code": "65158"
+    },
+    {
+      "id": "35.07.21.2007",
+      "name": "Petungsewu",
+      "postal_code": "65158"
+    },
+    {
+      "id": "35.07.21.2008",
+      "name": "Sukodadi",
+      "postal_code": "65158"
+    },
+    {
+      "id": "35.07.21.2009",
+      "name": "Sidorahayu",
+      "postal_code": "65158"
+    },
+    {
+      "id": "35.07.21.2010",
+      "name": "Jedong",
+      "postal_code": "65158"
+    },
+    {
+      "id": "35.07.21.2011",
+      "name": "Dalisodo",
+      "postal_code": "65158"
+    },
+    {
+      "id": "35.07.21.2012",
+      "name": "Pandanlandung",
+      "postal_code": "65158"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

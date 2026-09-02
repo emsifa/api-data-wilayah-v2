@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "73.04.10.2001",
+      "name": "Rumbia",
+      "postal_code": "92371"
+    },
+    {
+      "id": "73.04.10.2002",
+      "name": "Lebangmanai",
+      "postal_code": "92371"
+    },
+    {
+      "id": "73.04.10.2003",
+      "name": "Bontomanai",
+      "postal_code": "92371"
+    },
+    {
+      "id": "73.04.10.2004",
+      "name": "Bontotiro",
+      "postal_code": "92572"
+    },
+    {
+      "id": "73.04.10.2005",
+      "name": "Loka",
+      "postal_code": "92516"
+    },
+    {
+      "id": "73.04.10.2006",
+      "name": "Tompobulu",
+      "postal_code": "92371"
+    },
+    {
+      "id": "73.04.10.2007",
+      "name": "Kassi",
+      "postal_code": "92371"
+    },
+    {
+      "id": "73.04.10.2008",
+      "name": "Pallantikang",
+      "postal_code": "92371"
+    },
+    {
+      "id": "73.04.10.2009",
+      "name": "Lebangmanai Utara",
+      "postal_code": "92371"
+    },
+    {
+      "id": "73.04.10.2010",
+      "name": "Bontocini",
+      "postal_code": "92371"
+    },
+    {
+      "id": "73.04.10.2011",
+      "name": "Janetallasa",
+      "postal_code": "92314"
+    },
+    {
+      "id": "73.04.10.2012",
+      "name": "Ujung Bulu",
+      "postal_code": "92371"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

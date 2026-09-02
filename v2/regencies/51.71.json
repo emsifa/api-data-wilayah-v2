@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "51.71",
+    "name": "Kota Denpasar",
+    "capital": "Denpasar",
+    "lat": -8.654458853264748,
+    "lng": 115.21653329890924,
+    "elv": 32,
+    "tz": 8,
+    "population": 673270,
+    "total_area": 125.694,
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

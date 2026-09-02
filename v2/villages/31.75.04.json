@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "31.75.04.1001",
+      "name": "Kramatjati",
+      "postal_code": "13510"
+    },
+    {
+      "id": "31.75.04.1002",
+      "name": "Tengah",
+      "postal_code": "13540"
+    },
+    {
+      "id": "31.75.04.1003",
+      "name": "Dukuh",
+      "postal_code": "13550"
+    },
+    {
+      "id": "31.75.04.1004",
+      "name": "Batu Ampar",
+      "postal_code": "13520"
+    },
+    {
+      "id": "31.75.04.1005",
+      "name": "Balekambang",
+      "postal_code": "13530"
+    },
+    {
+      "id": "31.75.04.1006",
+      "name": "Cililitan",
+      "postal_code": "13640"
+    },
+    {
+      "id": "31.75.04.1007",
+      "name": "Cawang",
+      "postal_code": "13630"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

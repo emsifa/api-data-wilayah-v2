@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "11.01.01.2001",
+      "name": "Keude Bakongan",
+      "postal_code": "23773"
+    },
+    {
+      "id": "11.01.01.2002",
+      "name": "Ujong Mangki",
+      "postal_code": "23773"
+    },
+    {
+      "id": "11.01.01.2003",
+      "name": "Ujong Padang",
+      "postal_code": "23773"
+    },
+    {
+      "id": "11.01.01.2004",
+      "name": "Gampong Drien",
+      "postal_code": "23773"
+    },
+    {
+      "id": "11.01.01.2015",
+      "name": "Darul Ikhsan",
+      "postal_code": "23773"
+    },
+    {
+      "id": "11.01.01.2016",
+      "name": "Padang Beurahan",
+      "postal_code": "23773"
+    },
+    {
+      "id": "11.01.01.2017",
+      "name": "Gampong Baro",
+      "postal_code": "23773"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

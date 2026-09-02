@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "96.05.19.2001",
+      "name": "Mapura",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.19.2002",
+      "name": "Suwiam",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.19.2003",
+      "name": "Tomase",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.19.2004",
+      "name": "Frabo",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.19.2005",
+      "name": "Karfa",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.19.2006",
+      "name": "Kona",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.19.2007",
+      "name": "Kosah",
+      "postal_code": "98059"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

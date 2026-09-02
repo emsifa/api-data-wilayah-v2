@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "53.08.20.1001",
+      "name": "Mautapaga",
+      "postal_code": "86317"
+    },
+    {
+      "id": "53.08.20.1002",
+      "name": "Rewarangga",
+      "postal_code": "86319"
+    },
+    {
+      "id": "53.08.20.1006",
+      "name": "Rewarangga Selatan",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.20.2003",
+      "name": "Kedebodu",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.20.2004",
+      "name": "Ndungga",
+      "postal_code": "86361"
+    },
+    {
+      "id": "53.08.20.2005",
+      "name": "Tiwutewa",
+      "postal_code": "86361"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

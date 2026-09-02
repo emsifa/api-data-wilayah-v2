@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "82.71.03.1007",
+      "name": "Soa",
+      "postal_code": "97725"
+    },
+    {
+      "id": "82.71.03.1008",
+      "name": "Soa Sio",
+      "postal_code": "97723"
+    },
+    {
+      "id": "82.71.03.1009",
+      "name": "Kasturian",
+      "postal_code": "97726"
+    },
+    {
+      "id": "82.71.03.1010",
+      "name": "Salero",
+      "postal_code": "97725"
+    },
+    {
+      "id": "82.71.03.1011",
+      "name": "Toboleu",
+      "postal_code": "97726"
+    },
+    {
+      "id": "82.71.03.1012",
+      "name": "Sangaji",
+      "postal_code": "97727"
+    },
+    {
+      "id": "82.71.03.1013",
+      "name": "Dufa-Dufa",
+      "postal_code": "97727"
+    },
+    {
+      "id": "82.71.03.1014",
+      "name": "Tafure",
+      "postal_code": "97728"
+    },
+    {
+      "id": "82.71.03.1015",
+      "name": "Tabam",
+      "postal_code": "97728"
+    },
+    {
+      "id": "82.71.03.1016",
+      "name": "Sango",
+      "postal_code": "97729"
+    },
+    {
+      "id": "82.71.03.1017",
+      "name": "Tarau",
+      "postal_code": "97737"
+    },
+    {
+      "id": "82.71.03.1019",
+      "name": "Sangaji utara",
+      "postal_code": "97736"
+    },
+    {
+      "id": "82.71.03.1020",
+      "name": "Akehuda",
+      "postal_code": "97735"
+    },
+    {
+      "id": "82.71.03.1021",
+      "name": "Tubo",
+      "postal_code": "97738"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

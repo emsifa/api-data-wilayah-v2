@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "64.74.01.1001",
+      "name": "Bontang Kuala",
+      "postal_code": "75312"
+    },
+    {
+      "id": "64.74.01.1002",
+      "name": "Bontang Baru",
+      "postal_code": "75311"
+    },
+    {
+      "id": "64.74.01.1003",
+      "name": "Lok Tuan",
+      "postal_code": "75314"
+    },
+    {
+      "id": "64.74.01.1004",
+      "name": "Guntung",
+      "postal_code": "75314"
+    },
+    {
+      "id": "64.74.01.1005",
+      "name": "Gunung Elai",
+      "postal_code": "75311"
+    },
+    {
+      "id": "64.74.01.1006",
+      "name": "Api-api",
+      "postal_code": "75311"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

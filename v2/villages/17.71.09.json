@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "17.71.09.1001",
+      "name": "Panorama",
+      "postal_code": "38226"
+    },
+    {
+      "id": "17.71.09.1002",
+      "name": "Jembatan Kecil",
+      "postal_code": "38224"
+    },
+    {
+      "id": "17.71.09.1003",
+      "name": "Dusun Besar",
+      "postal_code": "38229"
+    },
+    {
+      "id": "17.71.09.1004",
+      "name": "Padang Nangka",
+      "postal_code": "38221"
+    },
+    {
+      "id": "17.71.09.1005",
+      "name": "Timur Indah",
+      "postal_code": "38221"
+    },
+    {
+      "id": "17.71.09.1006",
+      "name": "Lingkar Timur",
+      "postal_code": "38221"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

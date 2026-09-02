@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "51.71.04.1004",
+      "name": "Tonja",
+      "postal_code": "80239"
+    },
+    {
+      "id": "51.71.04.1007",
+      "name": "Ubung",
+      "postal_code": "80116"
+    },
+    {
+      "id": "51.71.04.1009",
+      "name": "Peguyangan",
+      "postal_code": "80115"
+    },
+    {
+      "id": "51.71.04.2001",
+      "name": "Dangin Puri Kangin",
+      "postal_code": "80233"
+    },
+    {
+      "id": "51.71.04.2002",
+      "name": "Dangin Puri Kauh",
+      "postal_code": "80231"
+    },
+    {
+      "id": "51.71.04.2003",
+      "name": "Dangin Puri Kaja",
+      "postal_code": "80231"
+    },
+    {
+      "id": "51.71.04.2005",
+      "name": "Pemecutan Kaja",
+      "postal_code": "80118"
+    },
+    {
+      "id": "51.71.04.2006",
+      "name": "Dauh Puri Kaja",
+      "postal_code": "80111"
+    },
+    {
+      "id": "51.71.04.2008",
+      "name": "Ubung Kaja",
+      "postal_code": "80116"
+    },
+    {
+      "id": "51.71.04.2010",
+      "name": "Peguyangan Kaja",
+      "postal_code": "80115"
+    },
+    {
+      "id": "51.71.04.2011",
+      "name": "Peguyangan Kangin",
+      "postal_code": "80115"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

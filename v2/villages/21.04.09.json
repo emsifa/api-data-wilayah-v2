@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "21.04.09.1004",
+      "name": "Berlian",
+      "postal_code": "29878"
+    },
+    {
+      "id": "21.04.09.2001",
+      "name": "Marok Kecil",
+      "postal_code": "29878"
+    },
+    {
+      "id": "21.04.09.2002",
+      "name": "Pulau Lalang",
+      "postal_code": "29878"
+    },
+    {
+      "id": "21.04.09.2003",
+      "name": "Resang",
+      "postal_code": "29878"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

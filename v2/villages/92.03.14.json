@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "92.03.14.2001",
+      "name": "Darembang",
+      "postal_code": "98021"
+    },
+    {
+      "id": "92.03.14.2002",
+      "name": "Goras",
+      "postal_code": "98021"
+    },
+    {
+      "id": "92.03.14.2003",
+      "name": "Mitimber",
+      "postal_code": "98021"
+    },
+    {
+      "id": "92.03.14.2004",
+      "name": "Waremu",
+      "postal_code": "98021"
+    },
+    {
+      "id": "92.03.14.2005",
+      "name": "Wos",
+      "postal_code": "98021"
+    },
+    {
+      "id": "92.03.14.2006",
+      "name": "Mbahamdandra",
+      "postal_code": "98021"
+    },
+    {
+      "id": "92.03.14.2007",
+      "name": "Goras Selatan",
+      "postal_code": "98021"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

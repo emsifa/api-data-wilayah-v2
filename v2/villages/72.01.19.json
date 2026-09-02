@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "72.01.19.2001",
+      "name": "Kampangar",
+      "postal_code": "94775"
+    },
+    {
+      "id": "72.01.19.2002",
+      "name": "Kuntang",
+      "postal_code": "94775"
+    },
+    {
+      "id": "72.01.19.2003",
+      "name": "Pulau Dua",
+      "postal_code": "94775"
+    },
+    {
+      "id": "72.01.19.2004",
+      "name": "Teku",
+      "postal_code": "94775"
+    },
+    {
+      "id": "72.01.19.2005",
+      "name": "Ondoliang",
+      "postal_code": "94775"
+    },
+    {
+      "id": "72.01.19.2006",
+      "name": "Batu Simpang",
+      "postal_code": "94775"
+    },
+    {
+      "id": "72.01.19.2007",
+      "name": "Batu Mandi",
+      "postal_code": "94775"
+    },
+    {
+      "id": "72.01.19.2008",
+      "name": "Pangkalaseang",
+      "postal_code": "94775"
+    },
+    {
+      "id": "72.01.19.2009",
+      "name": "Pangkalaseang Baru",
+      "postal_code": "94775"
+    },
+    {
+      "id": "72.01.19.2010",
+      "name": "Toweer",
+      "postal_code": "94775"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

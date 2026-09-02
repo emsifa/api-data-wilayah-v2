@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "13.71.09.1001",
+      "name": "Pasar Ambacang",
+      "postal_code": "25152"
+    },
+    {
+      "id": "13.71.09.1002",
+      "name": "Anduring",
+      "postal_code": "25151"
+    },
+    {
+      "id": "13.71.09.1003",
+      "name": "Lubuk Lintah",
+      "postal_code": "25153"
+    },
+    {
+      "id": "13.71.09.1004",
+      "name": "Ampang",
+      "postal_code": "25154"
+    },
+    {
+      "id": "13.71.09.1005",
+      "name": "Kalumbuk",
+      "postal_code": "25155"
+    },
+    {
+      "id": "13.71.09.1006",
+      "name": "Korong Gadang",
+      "postal_code": "25156"
+    },
+    {
+      "id": "13.71.09.1007",
+      "name": "Kuranji",
+      "postal_code": "25157"
+    },
+    {
+      "id": "13.71.09.1008",
+      "name": "Gunung Sarik",
+      "postal_code": "25158"
+    },
+    {
+      "id": "13.71.09.1009",
+      "name": "Sungai Sapih",
+      "postal_code": "25159"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

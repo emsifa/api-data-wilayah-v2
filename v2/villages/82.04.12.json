@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "82.04.12.2001",
+      "name": "Ngute-Ngute",
+      "postal_code": "97780"
+    },
+    {
+      "id": "82.04.12.2002",
+      "name": "Laluin",
+      "postal_code": "97780"
+    },
+    {
+      "id": "82.04.12.2003",
+      "name": "Posi-Posi",
+      "postal_code": "97780"
+    },
+    {
+      "id": "82.04.12.2004",
+      "name": "Sagawele",
+      "postal_code": "97780"
+    },
+    {
+      "id": "82.04.12.2005",
+      "name": "Orimakurunga",
+      "postal_code": "97780"
+    },
+    {
+      "id": "82.04.12.2006",
+      "name": "Pasir Putih",
+      "postal_code": "97780"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

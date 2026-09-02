@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "35.10.09.2001",
+      "name": "Kembiritan",
+      "postal_code": "68465"
+    },
+    {
+      "id": "35.10.09.2002",
+      "name": "Genteng Wetan",
+      "postal_code": "68465"
+    },
+    {
+      "id": "35.10.09.2003",
+      "name": "Genteng Kulon",
+      "postal_code": "68465"
+    },
+    {
+      "id": "35.10.09.2004",
+      "name": "Setail",
+      "postal_code": "68465"
+    },
+    {
+      "id": "35.10.09.2005",
+      "name": "Kaligondo",
+      "postal_code": "68465"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "94.04.15",
+    "name": "Iwaka",
+    "province": {
+      "id": "94",
+      "name": "Papua Tengah"
+    },
+    "regency": {
+      "id": "94.04",
+      "name": "Kabupaten Mimika"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

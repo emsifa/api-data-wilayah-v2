@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "53.07.16.2001",
+      "name": "Koting A",
+      "postal_code": "86116"
+    },
+    {
+      "id": "53.07.16.2002",
+      "name": "Koting B",
+      "postal_code": "86116"
+    },
+    {
+      "id": "53.07.16.2003",
+      "name": "Koting C",
+      "postal_code": "86116"
+    },
+    {
+      "id": "53.07.16.2004",
+      "name": "Koting D",
+      "postal_code": "86116"
+    },
+    {
+      "id": "53.07.16.2005",
+      "name": "Paubekor",
+      "postal_code": "86116"
+    },
+    {
+      "id": "53.07.16.2006",
+      "name": "Ribang",
+      "postal_code": "86116"
+    },
+    {
+      "id": "53.07.16.2007",
+      "name": "Watu Repa",
+      "postal_code": "86116"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

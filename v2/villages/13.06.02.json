@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.06.02.2001",
+      "name": "Lubuk Basung",
+      "postal_code": "26451"
+    },
+    {
+      "id": "13.06.02.2002",
+      "name": "Garagahan",
+      "postal_code": "26451"
+    },
+    {
+      "id": "13.06.02.2003",
+      "name": "Kampung Pinang",
+      "postal_code": "26451"
+    },
+    {
+      "id": "13.06.02.2004",
+      "name": "Kampung Tangah",
+      "postal_code": "26451"
+    },
+    {
+      "id": "13.06.02.2005",
+      "name": "Manggopoh",
+      "postal_code": "26451"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

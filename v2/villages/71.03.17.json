@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "71.03.17.1006",
+      "name": "Sawang Bendar",
+      "postal_code": "95812"
+    },
+    {
+      "id": "71.03.17.1007",
+      "name": "Soataloara I",
+      "postal_code": "95813"
+    },
+    {
+      "id": "71.03.17.1008",
+      "name": "Apengsembeka",
+      "postal_code": "95811"
+    },
+    {
+      "id": "71.03.17.1009",
+      "name": "Mahena",
+      "postal_code": "95813"
+    },
+    {
+      "id": "71.03.17.1015",
+      "name": "Bungalawang",
+      "postal_code": "95811"
+    },
+    {
+      "id": "71.03.17.1016",
+      "name": "Santiago",
+      "postal_code": "95811"
+    },
+    {
+      "id": "71.03.17.1017",
+      "name": "Manente",
+      "postal_code": "95811"
+    },
+    {
+      "id": "71.03.17.1018",
+      "name": "Soataloara II",
+      "postal_code": "95813"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

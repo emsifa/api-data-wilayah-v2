@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "32.74",
+    "name": "Kota Cirebon",
+    "capital": "Cirebon",
+    "lat": -6.706735309782623,
+    "lng": 108.55824665420744,
+    "elv": 6,
+    "tz": 7,
+    "population": 356629,
+    "total_area": 39.398,
+    "province": {
+      "id": "32",
+      "name": "Jawa Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

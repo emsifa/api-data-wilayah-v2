@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.14.21.2001",
+      "name": "Hilinamazihono",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.21.2002",
+      "name": "Hilimbowo",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.21.2003",
+      "name": "Simandraolo",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.21.2004",
+      "name": "Bawosalo'o Bawoluo",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.21.2005",
+      "name": "Hilimbuasi",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.21.2006",
+      "name": "Simandraolo O'o'u",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.21.2007",
+      "name": "Lolomaya",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.21.2008",
+      "name": "Suka Maju",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.21.2009",
+      "name": "Hiliorudua",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.21.2010",
+      "name": "Hilinamazihono Moale",
+      "postal_code": "22864"
+    },
+    {
+      "id": "12.14.21.2011",
+      "name": "Balohili O'o'u",
+      "postal_code": "22864"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

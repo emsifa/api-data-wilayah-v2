@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "17.01.11.1003",
+      "name": "Tanjung Mulia",
+      "postal_code": "38518"
+    },
+    {
+      "id": "17.01.11.1004",
+      "name": "Pasar Mulia",
+      "postal_code": "38518"
+    },
+    {
+      "id": "17.01.11.1005",
+      "name": "Belakang Gedung",
+      "postal_code": "38514"
+    },
+    {
+      "id": "17.01.11.1006",
+      "name": "Gunung Mesir",
+      "postal_code": "38517"
+    },
+    {
+      "id": "17.01.11.1007",
+      "name": "Padang Sialang",
+      "postal_code": "38517"
+    },
+    {
+      "id": "17.01.11.1008",
+      "name": "Ketapang Besar",
+      "postal_code": "38516"
+    },
+    {
+      "id": "17.01.11.1009",
+      "name": "Pasar Bawah",
+      "postal_code": "38515"
+    },
+    {
+      "id": "17.01.11.2001",
+      "name": "Batu Kuning",
+      "postal_code": "38518"
+    },
+    {
+      "id": "17.01.11.2002",
+      "name": "Batu Lambang",
+      "postal_code": "38513"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

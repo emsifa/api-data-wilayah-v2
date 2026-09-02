@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "33.26.10.1017",
+      "name": "Sragi",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2001",
+      "name": "Ketanonageng",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2002",
+      "name": "Mrican",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2003",
+      "name": "Bulaksari",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2004",
+      "name": "Sumubkidul",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2005",
+      "name": "Kalijambe",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2006",
+      "name": "Sumublor",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2007",
+      "name": "Krsakageng",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2008",
+      "name": "Sijeruk",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2009",
+      "name": "Tegalsuruh",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2010",
+      "name": "Bulakpelem",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2011",
+      "name": "Gebangkerep",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2012",
+      "name": "Purworejo",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2013",
+      "name": "Kedungjaran",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2014",
+      "name": "Klunjukan",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2015",
+      "name": "Tegalontar",
+      "postal_code": "51155"
+    },
+    {
+      "id": "33.26.10.2016",
+      "name": "Purwodadi",
+      "postal_code": "51155"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

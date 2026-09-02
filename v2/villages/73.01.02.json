@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.01.02.1001",
+      "name": "Putabangun",
+      "postal_code": "92811"
+    },
+    {
+      "id": "73.01.02.1002",
+      "name": "Bontobangun",
+      "postal_code": "92811"
+    },
+    {
+      "id": "73.01.02.2003",
+      "name": "Bontosunggu",
+      "postal_code": "92811"
+    },
+    {
+      "id": "73.01.02.2004",
+      "name": "Bontoborusu",
+      "postal_code": "92811"
+    },
+    {
+      "id": "73.01.02.2005",
+      "name": "Bontolebang",
+      "postal_code": "92811"
+    },
+    {
+      "id": "73.01.02.2006",
+      "name": "Bontotangnga",
+      "postal_code": "92811"
+    },
+    {
+      "id": "73.01.02.2007",
+      "name": "Kahu-Kahu",
+      "postal_code": "92811"
+    },
+    {
+      "id": "73.01.02.2008",
+      "name": "Kalepadang",
+      "postal_code": "92811"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

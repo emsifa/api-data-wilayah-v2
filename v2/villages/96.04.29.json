@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "96.04.29.2001",
+      "name": "Della",
+      "postal_code": "98447"
+    },
+    {
+      "id": "96.04.29.2002",
+      "name": "Malayauw",
+      "postal_code": "98447"
+    },
+    {
+      "id": "96.04.29.2003",
+      "name": "Klasbon",
+      "postal_code": "98447"
+    },
+    {
+      "id": "96.04.29.2004",
+      "name": "Klasei",
+      "postal_code": "98447"
+    },
+    {
+      "id": "96.04.29.2005",
+      "name": "Klabili",
+      "postal_code": "98447"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.01.21.2001",
+      "name": "Usilimo",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.21.2002",
+      "name": "Siba",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.21.2003",
+      "name": "Wosiala",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.21.2004",
+      "name": "Gua Wisata",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.21.2005",
+      "name": "Undulumo",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.21.2006",
+      "name": "Fikha",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.21.2007",
+      "name": "Meagamia",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.21.2008",
+      "name": "Alona",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.21.2009",
+      "name": "Abutpuk",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.21.2010",
+      "name": "Isaiman",
+      "postal_code": "99524"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

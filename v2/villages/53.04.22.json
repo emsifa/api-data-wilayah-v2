@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "53.04.22.1001",
+      "name": "Manuaman",
+      "postal_code": "85718"
+    },
+    {
+      "id": "53.04.22.1002",
+      "name": "Rinbesi",
+      "postal_code": "85718"
+    },
+    {
+      "id": "53.04.22.1003",
+      "name": "Lidak",
+      "postal_code": "85716"
+    },
+    {
+      "id": "53.04.22.1004",
+      "name": "Fatukbot",
+      "postal_code": "85717"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

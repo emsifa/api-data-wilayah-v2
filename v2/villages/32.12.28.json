@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.12.28.2001",
+      "name": "Cangkingan",
+      "postal_code": "45280"
+    },
+    {
+      "id": "32.12.28.2002",
+      "name": "Jayawinangun",
+      "postal_code": "45280"
+    },
+    {
+      "id": "32.12.28.2003",
+      "name": "Kedokan Agung",
+      "postal_code": "45280"
+    },
+    {
+      "id": "32.12.28.2004",
+      "name": "Kedokanbunder",
+      "postal_code": "45280"
+    },
+    {
+      "id": "32.12.28.2005",
+      "name": "Kedokanbunder Wetan",
+      "postal_code": "45280"
+    },
+    {
+      "id": "32.12.28.2006",
+      "name": "Kaplongan",
+      "postal_code": "45280"
+    },
+    {
+      "id": "32.12.28.2007",
+      "name": "Jayalaksana",
+      "postal_code": "45280"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

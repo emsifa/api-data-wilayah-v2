@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.10.07.2001",
+      "name": "Purwodadi",
+      "postal_code": "68486"
+    },
+    {
+      "id": "35.10.07.2002",
+      "name": "Jajag",
+      "postal_code": "68486"
+    },
+    {
+      "id": "35.10.07.2007",
+      "name": "Gambiran",
+      "postal_code": "68486"
+    },
+    {
+      "id": "35.10.07.2008",
+      "name": "Yosomulyo",
+      "postal_code": "68486"
+    },
+    {
+      "id": "35.10.07.2009",
+      "name": "Wringinrejo",
+      "postal_code": "68486"
+    },
+    {
+      "id": "35.10.07.2010",
+      "name": "Wringinagung",
+      "postal_code": "68486"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

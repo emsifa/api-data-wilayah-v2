@@ -1,18 +1,52 @@
 {
-  "data": {
-    "id": "13.12",
-    "name": "Kabupaten Pasaman Barat",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
+  "data": [
+    {
+      "id": "13.12.01",
+      "name": "Sungai Beremas"
     },
-    "regency": {
-      "id": "13.12",
-      "name": "Kabupaten Pasaman Barat"
+    {
+      "id": "13.12.02",
+      "name": "Lembah Melintang"
+    },
+    {
+      "id": "13.12.03",
+      "name": "Pasaman"
+    },
+    {
+      "id": "13.12.04",
+      "name": "Talamau"
+    },
+    {
+      "id": "13.12.05",
+      "name": "Kinali"
+    },
+    {
+      "id": "13.12.06",
+      "name": "Gunung Tuleh"
+    },
+    {
+      "id": "13.12.07",
+      "name": "Ranah Batahan"
+    },
+    {
+      "id": "13.12.08",
+      "name": "Koto Balingka"
+    },
+    {
+      "id": "13.12.09",
+      "name": "Sungai Aur"
+    },
+    {
+      "id": "13.12.10",
+      "name": "Luhak Nan Duo"
+    },
+    {
+      "id": "13.12.11",
+      "name": "Sasak Ranah Pasisie"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

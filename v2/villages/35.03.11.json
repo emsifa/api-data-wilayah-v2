@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "35.03.11.1002",
+      "name": "Tamanan",
+      "postal_code": "66312"
+    },
+    {
+      "id": "35.03.11.1003",
+      "name": "Ngantru",
+      "postal_code": "66311"
+    },
+    {
+      "id": "35.03.11.1005",
+      "name": "Kelutan",
+      "postal_code": "66313"
+    },
+    {
+      "id": "35.03.11.1006",
+      "name": "Surodakan",
+      "postal_code": "66316"
+    },
+    {
+      "id": "35.03.11.1007",
+      "name": "Sumbergedong",
+      "postal_code": "66315"
+    },
+    {
+      "id": "35.03.11.2001",
+      "name": "Ngares",
+      "postal_code": "66319"
+    },
+    {
+      "id": "35.03.11.2004",
+      "name": "Karangsoko",
+      "postal_code": "66319"
+    },
+    {
+      "id": "35.03.11.2008",
+      "name": "Sambirejo",
+      "postal_code": "66314"
+    },
+    {
+      "id": "35.03.11.2009",
+      "name": "Sumberdadi",
+      "postal_code": "66319"
+    },
+    {
+      "id": "35.03.11.2010",
+      "name": "Rejowinangun",
+      "postal_code": "66317"
+    },
+    {
+      "id": "35.03.11.2011",
+      "name": "Sukosari",
+      "postal_code": "66318"
+    },
+    {
+      "id": "35.03.11.2012",
+      "name": "Parakan",
+      "postal_code": "66317"
+    },
+    {
+      "id": "35.03.11.2013",
+      "name": "Dawuhan",
+      "postal_code": "66318"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

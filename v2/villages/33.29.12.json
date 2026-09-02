@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "id": "33.29.12.2001",
+      "name": "Babakan",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2002",
+      "name": "Blubuk",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2003",
+      "name": "Bojongsari",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2004",
+      "name": "Dukuhsalam",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2005",
+      "name": "Jatisawit",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2006",
+      "name": "Kalibuntu",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2007",
+      "name": "Karangdempel",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2008",
+      "name": "Karangjunti",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2009",
+      "name": "Karangsambung",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2010",
+      "name": "Kecipir",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2011",
+      "name": "Kedungneng",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2012",
+      "name": "Limbangan",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2013",
+      "name": "Losari Kidul",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2014",
+      "name": "Losari Lor",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2015",
+      "name": "Negla",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2016",
+      "name": "Pekauman",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2017",
+      "name": "Pengabean",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2018",
+      "name": "Prapag Kidul",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2019",
+      "name": "Prapag Lor",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2020",
+      "name": "Randegan",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2021",
+      "name": "Randusari",
+      "postal_code": "52255"
+    },
+    {
+      "id": "33.29.12.2022",
+      "name": "Rungkang",
+      "postal_code": "52255"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "62.09.06.2001",
+      "name": "Bina Bhakti",
+      "postal_code": "74165"
+    },
+    {
+      "id": "62.09.06.2002",
+      "name": "Wonorejo",
+      "postal_code": "74165"
+    },
+    {
+      "id": "62.09.06.2003",
+      "name": "Mekar Mulya",
+      "postal_code": "74165"
+    },
+    {
+      "id": "62.09.06.2004",
+      "name": "Jangkar Prima",
+      "postal_code": "74165"
+    },
+    {
+      "id": "62.09.06.2005",
+      "name": "Purwareja",
+      "postal_code": "74165"
+    },
+    {
+      "id": "62.09.06.2006",
+      "name": "Tri Tunggal",
+      "postal_code": "74165"
+    },
+    {
+      "id": "62.09.06.2007",
+      "name": "Batu Hambawang",
+      "postal_code": "74165"
+    },
+    {
+      "id": "62.09.06.2008",
+      "name": "Rimba Jaya",
+      "postal_code": "74165"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

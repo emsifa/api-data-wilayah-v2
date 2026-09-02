@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "93.04.20.2001",
+      "name": "Bor",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.20.2002",
+      "name": "Daikot",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.20.2003",
+      "name": "Somnak",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.20.2004",
+      "name": "Wabak",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.20.2005",
+      "name": "Vakam",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.20.2006",
+      "name": "Vakam Dua",
+      "postal_code": "99792"
+    },
+    {
+      "id": "93.04.20.2007",
+      "name": "Dekamer",
+      "postal_code": "99792"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

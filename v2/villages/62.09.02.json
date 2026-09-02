@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "62.09.02.1017",
+      "name": "Kudangan",
+      "postal_code": "74665"
+    },
+    {
+      "id": "62.09.02.2004",
+      "name": "Riam Panahan",
+      "postal_code": "74665"
+    },
+    {
+      "id": "62.09.02.2005",
+      "name": "Sepoyu",
+      "postal_code": "74665"
+    },
+    {
+      "id": "62.09.02.2010",
+      "name": "Nyalang",
+      "postal_code": "74665"
+    },
+    {
+      "id": "62.09.02.2011",
+      "name": "Riam Tinggi",
+      "postal_code": "74665"
+    },
+    {
+      "id": "62.09.02.2012",
+      "name": "Landau Kantu",
+      "postal_code": "74665"
+    },
+    {
+      "id": "62.09.02.2013",
+      "name": "Lopus",
+      "postal_code": "74665"
+    },
+    {
+      "id": "62.09.02.2014",
+      "name": "Kubung",
+      "postal_code": "74665"
+    },
+    {
+      "id": "62.09.02.2015",
+      "name": "Sekombulan",
+      "postal_code": "74665"
+    },
+    {
+      "id": "62.09.02.2016",
+      "name": "Penyombaan",
+      "postal_code": "74665"
+    },
+    {
+      "id": "62.09.02.2020",
+      "name": "Hulu Jojabo",
+      "postal_code": "74665"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

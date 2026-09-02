@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "33.07.15.2001",
+      "name": "Pengarengan",
+      "postal_code": "56373"
+    },
+    {
+      "id": "33.07.15.2002",
+      "name": "Kalikarung",
+      "postal_code": "56373"
+    },
+    {
+      "id": "33.07.15.2003",
+      "name": "Dempel",
+      "postal_code": "56373"
+    },
+    {
+      "id": "33.07.15.2004",
+      "name": "Karangsambung",
+      "postal_code": "56373"
+    },
+    {
+      "id": "33.07.15.2005",
+      "name": "Tempurejo",
+      "postal_code": "56373"
+    },
+    {
+      "id": "33.07.15.2006",
+      "name": "Mergolangu",
+      "postal_code": "56373"
+    },
+    {
+      "id": "33.07.15.2007",
+      "name": "Depok",
+      "postal_code": "56373"
+    },
+    {
+      "id": "33.07.15.2008",
+      "name": "Kalialang",
+      "postal_code": "56373"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

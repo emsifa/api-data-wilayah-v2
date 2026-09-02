@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "96.01.21.2001",
+      "name": "Dasri",
+      "postal_code": "98448"
+    },
+    {
+      "id": "96.01.21.2002",
+      "name": "Masos",
+      "postal_code": "98448"
+    },
+    {
+      "id": "96.01.21.2003",
+      "name": "Ketawas",
+      "postal_code": "98448"
+    },
+    {
+      "id": "96.01.21.2004",
+      "name": "Warbo",
+      "postal_code": "98448"
+    },
+    {
+      "id": "96.01.21.2005",
+      "name": "Suus",
+      "postal_code": "98448"
+    },
+    {
+      "id": "96.01.21.2006",
+      "name": "Sulya",
+      "postal_code": "98448"
+    },
+    {
+      "id": "96.01.21.2007",
+      "name": "Bouwoi",
+      "postal_code": "98448"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

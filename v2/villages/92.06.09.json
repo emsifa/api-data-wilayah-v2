@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "92.06.09.2001",
+      "name": "Tembuni",
+      "postal_code": "98144"
+    },
+    {
+      "id": "92.06.09.2002",
+      "name": "Mogoi Baru",
+      "postal_code": "98144"
+    },
+    {
+      "id": "92.06.09.2003",
+      "name": "Araisum",
+      "postal_code": "98144"
+    },
+    {
+      "id": "92.06.09.2004",
+      "name": "Bangun Mulya",
+      "postal_code": "98144"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

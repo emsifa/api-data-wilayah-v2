@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.08.24.2003",
+      "name": "Cileuya",
+      "postal_code": "45582"
+    },
+    {
+      "id": "32.08.24.2004",
+      "name": "Margamukti",
+      "postal_code": "45582"
+    },
+    {
+      "id": "32.08.24.2005",
+      "name": "Gunungsari",
+      "postal_code": "45582"
+    },
+    {
+      "id": "32.08.24.2006",
+      "name": "Cimahi",
+      "postal_code": "45582"
+    },
+    {
+      "id": "32.08.24.2007",
+      "name": "Kananga",
+      "postal_code": "45582"
+    },
+    {
+      "id": "32.08.24.2008",
+      "name": "Cikeusal",
+      "postal_code": "45582"
+    },
+    {
+      "id": "32.08.24.2009",
+      "name": "Mekarjaya",
+      "postal_code": "45582"
+    },
+    {
+      "id": "32.08.24.2010",
+      "name": "Sukajaya",
+      "postal_code": "45582"
+    },
+    {
+      "id": "32.08.24.2011",
+      "name": "Mulyajaya",
+      "postal_code": "45582"
+    },
+    {
+      "id": "32.08.24.2012",
+      "name": "Cimulya",
+      "postal_code": "45582"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

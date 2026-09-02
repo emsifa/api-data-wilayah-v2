@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "36.72.02",
+    "name": "Cilegon",
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    },
+    "regency": {
+      "id": "36.72",
+      "name": "Kota Cilegon"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

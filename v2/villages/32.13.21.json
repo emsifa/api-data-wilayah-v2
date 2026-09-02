@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.13.21.2001",
+      "name": "Tegalurung",
+      "postal_code": "41254"
+    },
+    {
+      "id": "32.13.21.2002",
+      "name": "Bobos",
+      "postal_code": "41254"
+    },
+    {
+      "id": "32.13.21.2003",
+      "name": "Legonkulon",
+      "postal_code": "41254"
+    },
+    {
+      "id": "32.13.21.2004",
+      "name": "Mayangan",
+      "postal_code": "41254"
+    },
+    {
+      "id": "32.13.21.2005",
+      "name": "Legonwetan",
+      "postal_code": "41254"
+    },
+    {
+      "id": "32.13.21.2006",
+      "name": "Pangarengan",
+      "postal_code": "41254"
+    },
+    {
+      "id": "32.13.21.2007",
+      "name": "Karangmulya",
+      "postal_code": "41254"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

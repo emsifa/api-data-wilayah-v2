@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "64.03.11.2001",
+      "name": "Bohe Silian",
+      "postal_code": "77381"
+    },
+    {
+      "id": "64.03.11.2002",
+      "name": "Payung-Payung",
+      "postal_code": "77381"
+    },
+    {
+      "id": "64.03.11.2003",
+      "name": "Teluk Alulu",
+      "postal_code": "77381"
+    },
+    {
+      "id": "64.03.11.2004",
+      "name": "Teluk Harapan",
+      "postal_code": "77381"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

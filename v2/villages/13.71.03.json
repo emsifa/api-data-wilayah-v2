@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "13.71.03.1001",
+      "name": "Flamboyan Baru",
+      "postal_code": "25114"
+    },
+    {
+      "id": "13.71.03.1002",
+      "name": "Rimbo Kaluang",
+      "postal_code": "25111"
+    },
+    {
+      "id": "13.71.03.1003",
+      "name": "Ujung Gurun",
+      "postal_code": "25114"
+    },
+    {
+      "id": "13.71.03.1004",
+      "name": "Purus",
+      "postal_code": "25115"
+    },
+    {
+      "id": "13.71.03.1005",
+      "name": "Padang Pasir",
+      "postal_code": "25112"
+    },
+    {
+      "id": "13.71.03.1006",
+      "name": "Olo",
+      "postal_code": "25117"
+    },
+    {
+      "id": "13.71.03.1007",
+      "name": "Kampung Jawa",
+      "postal_code": "25112"
+    },
+    {
+      "id": "13.71.03.1008",
+      "name": "Belakang Tangsi",
+      "postal_code": "25118"
+    },
+    {
+      "id": "13.71.03.1009",
+      "name": "Kampung Pondok",
+      "postal_code": "25119"
+    },
+    {
+      "id": "13.71.03.1010",
+      "name": "Berok Nipah",
+      "postal_code": "25118"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

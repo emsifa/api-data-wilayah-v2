@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.72.05.1002",
+      "name": "Sukaraja",
+      "postal_code": "21128"
+    },
+    {
+      "id": "12.72.05.1005",
+      "name": "Baringin Pancur Nauli",
+      "postal_code": "21129"
+    },
+    {
+      "id": "12.72.05.1006",
+      "name": "Pardamean",
+      "postal_code": "21128"
+    },
+    {
+      "id": "12.72.05.1007",
+      "name": "Sukamaju",
+      "postal_code": "21127"
+    },
+    {
+      "id": "12.72.05.1008",
+      "name": "Parhorasan Nauli",
+      "postal_code": "21129"
+    },
+    {
+      "id": "12.72.05.1009",
+      "name": "Sukamakmur",
+      "postal_code": "21128"
+    },
+    {
+      "id": "12.72.05.1010",
+      "name": "Mekar Nauli",
+      "postal_code": "21129"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

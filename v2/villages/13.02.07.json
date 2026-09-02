@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "13.02.07.2001",
+      "name": "Cupak",
+      "postal_code": "27365"
+    },
+    {
+      "id": "13.02.07.2002",
+      "name": "Talang",
+      "postal_code": "27365"
+    },
+    {
+      "id": "13.02.07.2003",
+      "name": "Koto Gadang Guguak",
+      "postal_code": "27365"
+    },
+    {
+      "id": "13.02.07.2004",
+      "name": "Jawi Jawi",
+      "postal_code": "27365"
+    },
+    {
+      "id": "13.02.07.2005",
+      "name": "Sungai Janiah",
+      "postal_code": "27365"
+    },
+    {
+      "id": "13.02.07.2006",
+      "name": "Batang Barus",
+      "postal_code": "27365"
+    },
+    {
+      "id": "13.02.07.2007",
+      "name": "Aie Batumbuak",
+      "postal_code": "27365"
+    },
+    {
+      "id": "13.02.07.2008",
+      "name": "Koto Gaek Guguk",
+      "postal_code": "27365"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

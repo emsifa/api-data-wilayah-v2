@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "82.04.13.2001",
+      "name": "Modayama",
+      "postal_code": "97781"
+    },
+    {
+      "id": "82.04.13.2002",
+      "name": "Laromabati",
+      "postal_code": "97781"
+    },
+    {
+      "id": "82.04.13.2003",
+      "name": "Gayap",
+      "postal_code": "97781"
+    },
+    {
+      "id": "82.04.13.2004",
+      "name": "Ake Jailolo",
+      "postal_code": "97781"
+    },
+    {
+      "id": "82.04.13.2005",
+      "name": "Wayasipang",
+      "postal_code": "97781"
+    },
+    {
+      "id": "82.04.13.2006",
+      "name": "Ngokomalako",
+      "postal_code": "97781"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

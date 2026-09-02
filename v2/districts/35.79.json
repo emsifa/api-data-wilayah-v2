@@ -1,18 +1,20 @@
 {
-  "data": {
-    "id": "35.79",
-    "name": "Kota Batu",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
+  "data": [
+    {
+      "id": "35.79.01",
+      "name": "Batu"
     },
-    "regency": {
-      "id": "35.79",
-      "name": "Kota Batu"
+    {
+      "id": "35.79.02",
+      "name": "Bumiaji"
+    },
+    {
+      "id": "35.79.03",
+      "name": "Junrejo"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

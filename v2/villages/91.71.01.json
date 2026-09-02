@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "91.71.01.1001",
+      "name": "Gurabesi",
+      "postal_code": "99111"
+    },
+    {
+      "id": "91.71.01.1002",
+      "name": "Bayangkara",
+      "postal_code": "99112"
+    },
+    {
+      "id": "91.71.01.1003",
+      "name": "Trikora",
+      "postal_code": "99114"
+    },
+    {
+      "id": "91.71.01.1004",
+      "name": "Imbi",
+      "postal_code": "99116"
+    },
+    {
+      "id": "91.71.01.1005",
+      "name": "Tanjung Ria",
+      "postal_code": "99117"
+    },
+    {
+      "id": "91.71.01.1006",
+      "name": "Mandala",
+      "postal_code": "99115"
+    },
+    {
+      "id": "91.71.01.1007",
+      "name": "Angkasapura",
+      "postal_code": "99113"
+    },
+    {
+      "id": "91.71.01.2008",
+      "name": "Kayo Batu",
+      "postal_code": "99118"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

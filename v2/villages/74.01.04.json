@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "74.01.04.1001",
+      "name": "Lamokato",
+      "postal_code": "93511"
+    },
+    {
+      "id": "74.01.04.1002",
+      "name": "Watuliandu",
+      "postal_code": "93515"
+    },
+    {
+      "id": "74.01.04.1003",
+      "name": "Balandete",
+      "postal_code": "93517"
+    },
+    {
+      "id": "74.01.04.1004",
+      "name": "Lalombaa",
+      "postal_code": "93518"
+    },
+    {
+      "id": "74.01.04.1005",
+      "name": "Sabilambo",
+      "postal_code": "93519"
+    },
+    {
+      "id": "74.01.04.1006",
+      "name": "Laloeha",
+      "postal_code": "93511"
+    },
+    {
+      "id": "74.01.04.1007",
+      "name": "Tahoa",
+      "postal_code": "93511"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.05.11.2001",
+      "name": "Sintuak",
+      "postal_code": "25582"
+    },
+    {
+      "id": "13.05.11.2002",
+      "name": "Toboh Gadang",
+      "postal_code": "25582"
+    },
+    {
+      "id": "13.05.11.2003",
+      "name": "Toboh Gadang Selatan",
+      "postal_code": "25582"
+    },
+    {
+      "id": "13.05.11.2004",
+      "name": "Toboh Gadang Barat",
+      "postal_code": "25582"
+    },
+    {
+      "id": "13.05.11.2005",
+      "name": "Toboh Gadang Timur",
+      "postal_code": "25582"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

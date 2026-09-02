@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "14.08.12.2001",
+      "name": "Bandar Sungai",
+      "postal_code": "28684"
+    },
+    {
+      "id": "14.08.12.2002",
+      "name": "Rempak",
+      "postal_code": "28684"
+    },
+    {
+      "id": "14.08.12.2003",
+      "name": "Belading",
+      "postal_code": "28684"
+    },
+    {
+      "id": "14.08.12.2004",
+      "name": "Sungai Tengah",
+      "postal_code": "28684"
+    },
+    {
+      "id": "14.08.12.2005",
+      "name": "Laksamana",
+      "postal_code": "28684"
+    },
+    {
+      "id": "14.08.12.2006",
+      "name": "Sabak Permai",
+      "postal_code": "28684"
+    },
+    {
+      "id": "14.08.12.2007",
+      "name": "Bandar Pedada",
+      "postal_code": "28684"
+    },
+    {
+      "id": "14.08.12.2008",
+      "name": "Selat Guntung",
+      "postal_code": "28684"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

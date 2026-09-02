@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "33.74.14.1001",
+      "name": "Cangkiran",
+      "postal_code": "50216"
+    },
+    {
+      "id": "33.74.14.1002",
+      "name": "Bubakan",
+      "postal_code": "50216"
+    },
+    {
+      "id": "33.74.14.1003",
+      "name": "Karangmalang",
+      "postal_code": "50216"
+    },
+    {
+      "id": "33.74.14.1004",
+      "name": "Polaman",
+      "postal_code": "50217"
+    },
+    {
+      "id": "33.74.14.1005",
+      "name": "Purwosari",
+      "postal_code": "50217"
+    },
+    {
+      "id": "33.74.14.1006",
+      "name": "Tambangan",
+      "postal_code": "50215"
+    },
+    {
+      "id": "33.74.14.1007",
+      "name": "Wonolopo",
+      "postal_code": "50215"
+    },
+    {
+      "id": "33.74.14.1008",
+      "name": "Mijen",
+      "postal_code": "50519"
+    },
+    {
+      "id": "33.74.14.1009",
+      "name": "Jatibarang",
+      "postal_code": "50219"
+    },
+    {
+      "id": "33.74.14.1010",
+      "name": "Kedungpane",
+      "postal_code": "50211"
+    },
+    {
+      "id": "33.74.14.1011",
+      "name": "Ngadirgo",
+      "postal_code": "50213"
+    },
+    {
+      "id": "33.74.14.1012",
+      "name": "Wonoplumbon",
+      "postal_code": "50214"
+    },
+    {
+      "id": "33.74.14.1013",
+      "name": "Jatisari",
+      "postal_code": "50275"
+    },
+    {
+      "id": "33.74.14.1014",
+      "name": "Pesantren",
+      "postal_code": "50212"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

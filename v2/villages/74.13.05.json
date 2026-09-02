@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "74.13.05.2001",
+      "name": "Parura Jaya",
+      "postal_code": "93644"
+    },
+    {
+      "id": "74.13.05.2002",
+      "name": "Katangana",
+      "postal_code": "93644"
+    },
+    {
+      "id": "74.13.05.2003",
+      "name": "Kasimpa Jaya",
+      "postal_code": "93644"
+    },
+    {
+      "id": "74.13.05.2004",
+      "name": "Sangia Tiworo",
+      "postal_code": "93644"
+    },
+    {
+      "id": "74.13.05.2005",
+      "name": "Barakkah",
+      "postal_code": "93644"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

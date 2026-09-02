@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "94.02.05.2001",
+      "name": "Yambuni",
+      "postal_code": "98962"
+    },
+    {
+      "id": "94.02.05.2002",
+      "name": "Yogolawi",
+      "postal_code": "98962"
+    },
+    {
+      "id": "94.02.05.2003",
+      "name": "Wundu",
+      "postal_code": "98925"
+    },
+    {
+      "id": "94.02.05.2004",
+      "name": "Binime",
+      "postal_code": "98962"
+    },
+    {
+      "id": "94.02.05.2005",
+      "name": "Tiogeme",
+      "postal_code": "98925"
+    },
+    {
+      "id": "94.02.05.2006",
+      "name": "Goyage",
+      "postal_code": "98925"
+    },
+    {
+      "id": "94.02.05.2007",
+      "name": "Kalimbut",
+      "postal_code": "98925"
+    },
+    {
+      "id": "94.02.05.2008",
+      "name": "Wolame",
+      "postal_code": "98925"
+    },
+    {
+      "id": "94.02.05.2009",
+      "name": "Muara",
+      "postal_code": "98925"
+    },
+    {
+      "id": "94.02.05.2010",
+      "name": "Gibaga",
+      "postal_code": "98925"
+    },
+    {
+      "id": "94.02.05.2011",
+      "name": "Nami",
+      "postal_code": "98962"
+    },
+    {
+      "id": "94.02.05.2012",
+      "name": "Linwakwi",
+      "postal_code": "98962"
+    },
+    {
+      "id": "94.02.05.2013",
+      "name": "Kwantineri",
+      "postal_code": "98962"
+    },
+    {
+      "id": "94.02.05.2014",
+      "name": "Jileyale",
+      "postal_code": "98962"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

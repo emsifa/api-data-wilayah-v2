@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "94.05.23.2001",
+      "name": "Amungkalpia",
+      "postal_code": "98961"
+    },
+    {
+      "id": "94.05.23.2002",
+      "name": "Bela",
+      "postal_code": "98961"
+    },
+    {
+      "id": "94.05.23.2003",
+      "name": "Ompliga",
+      "postal_code": "98961"
+    },
+    {
+      "id": "94.05.23.2004",
+      "name": "Alama",
+      "postal_code": "98961"
+    },
+    {
+      "id": "94.05.23.2005",
+      "name": "Tagalarama",
+      "postal_code": "98961"
+    },
+    {
+      "id": "94.05.23.2006",
+      "name": "Bemoki",
+      "postal_code": "98961"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

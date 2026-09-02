@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "13.12.04.2001",
+      "name": "Kajai",
+      "postal_code": "26561"
+    },
+    {
+      "id": "13.12.04.2002",
+      "name": "Talu",
+      "postal_code": "26561"
+    },
+    {
+      "id": "13.12.04.2003",
+      "name": "Sinuruik",
+      "postal_code": "26561"
+    },
+    {
+      "id": "13.12.04.2004",
+      "name": "Simpang Timbo Abu Kajai",
+      "postal_code": "26561"
+    },
+    {
+      "id": "13.12.04.2005",
+      "name": "Kajai Selatan",
+      "postal_code": "26561"
+    },
+    {
+      "id": "13.12.04.2006",
+      "name": "Sungai Janiah Talu",
+      "postal_code": "26561"
+    },
+    {
+      "id": "13.12.04.2007",
+      "name": "Tabek Sirah Talu",
+      "postal_code": "26561"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

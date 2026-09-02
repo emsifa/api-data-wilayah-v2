@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "35.29.04.2001",
+      "name": "Talango",
+      "postal_code": "69481"
+    },
+    {
+      "id": "35.29.04.2002",
+      "name": "Padike",
+      "postal_code": "69481"
+    },
+    {
+      "id": "35.29.04.2003",
+      "name": "Cabbiya",
+      "postal_code": "69481"
+    },
+    {
+      "id": "35.29.04.2004",
+      "name": "Essang",
+      "postal_code": "69481"
+    },
+    {
+      "id": "35.29.04.2005",
+      "name": "Kombang",
+      "postal_code": "69481"
+    },
+    {
+      "id": "35.29.04.2006",
+      "name": "Poteran",
+      "postal_code": "69481"
+    },
+    {
+      "id": "35.29.04.2007",
+      "name": "Palasa",
+      "postal_code": "69481"
+    },
+    {
+      "id": "35.29.04.2008",
+      "name": "Gapurana",
+      "postal_code": "69481"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

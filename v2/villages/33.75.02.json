@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "33.75.02.1002",
+      "name": "Noyontaansari",
+      "postal_code": "51129"
+    },
+    {
+      "id": "33.75.02.1004",
+      "name": "Kauman",
+      "postal_code": "51127"
+    },
+    {
+      "id": "33.75.02.1007",
+      "name": "Poncol",
+      "postal_code": "51122"
+    },
+    {
+      "id": "33.75.02.1008",
+      "name": "Klego",
+      "postal_code": "51124"
+    },
+    {
+      "id": "33.75.02.1009",
+      "name": "Gamer",
+      "postal_code": "51123"
+    },
+    {
+      "id": "33.75.02.1010",
+      "name": "Setono",
+      "postal_code": "51122"
+    },
+    {
+      "id": "33.75.02.1012",
+      "name": "Kali Baros",
+      "postal_code": "51128"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

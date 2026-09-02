@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.75.02.1001",
+      "name": "Pohjentrek",
+      "postal_code": "67171"
+    },
+    {
+      "id": "35.75.02.1002",
+      "name": "Wirogunan",
+      "postal_code": "67118"
+    },
+    {
+      "id": "35.75.02.1003",
+      "name": "Tembokrejo",
+      "postal_code": "67118"
+    },
+    {
+      "id": "35.75.02.1004",
+      "name": "Purutrejo",
+      "postal_code": "67117"
+    },
+    {
+      "id": "35.75.02.1005",
+      "name": "Kebonagung",
+      "postal_code": "67116"
+    },
+    {
+      "id": "35.75.02.1006",
+      "name": "Purworejo",
+      "postal_code": "67115"
+    },
+    {
+      "id": "35.75.02.1011",
+      "name": "Sekargadung",
+      "postal_code": "67127"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

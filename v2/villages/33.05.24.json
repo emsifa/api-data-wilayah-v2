@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "33.05.24.2001",
+      "name": "Pejengkolan",
+      "postal_code": "54394"
+    },
+    {
+      "id": "33.05.24.2002",
+      "name": "Balingasal",
+      "postal_code": "54394"
+    },
+    {
+      "id": "33.05.24.2003",
+      "name": "Merden",
+      "postal_code": "54394"
+    },
+    {
+      "id": "33.05.24.2004",
+      "name": "Kalijering",
+      "postal_code": "54394"
+    },
+    {
+      "id": "33.05.24.2005",
+      "name": "Kaligubug",
+      "postal_code": "54394"
+    },
+    {
+      "id": "33.05.24.2006",
+      "name": "Sidototo",
+      "postal_code": "54394"
+    },
+    {
+      "id": "33.05.24.2007",
+      "name": "Rahayu",
+      "postal_code": "54394"
+    },
+    {
+      "id": "33.05.24.2008",
+      "name": "Sendangdalem",
+      "postal_code": "54394"
+    },
+    {
+      "id": "33.05.24.2009",
+      "name": "Padureso",
+      "postal_code": "54394"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

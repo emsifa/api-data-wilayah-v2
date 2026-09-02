@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "21.03.24.2001",
+      "name": "Kelarik Barat",
+      "postal_code": "29775"
+    },
+    {
+      "id": "21.03.24.2002",
+      "name": "Seluan Barat",
+      "postal_code": "29775"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

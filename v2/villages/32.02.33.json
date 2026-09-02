@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.02.33.2001",
+      "name": "Pasirhalang",
+      "postal_code": "43192"
+    },
+    {
+      "id": "32.02.33.2002",
+      "name": "Selaawi",
+      "postal_code": "43192"
+    },
+    {
+      "id": "32.02.33.2003",
+      "name": "Langensari",
+      "postal_code": "43192"
+    },
+    {
+      "id": "32.02.33.2004",
+      "name": "Sukaraja",
+      "postal_code": "43192"
+    },
+    {
+      "id": "32.02.33.2005",
+      "name": "Limbangan",
+      "postal_code": "43192"
+    },
+    {
+      "id": "32.02.33.2006",
+      "name": "Cisarua",
+      "postal_code": "43192"
+    },
+    {
+      "id": "32.02.33.2007",
+      "name": "Sukamekar",
+      "postal_code": "43192"
+    },
+    {
+      "id": "32.02.33.2008",
+      "name": "Selawangi",
+      "postal_code": "43192"
+    },
+    {
+      "id": "32.02.33.2009",
+      "name": "Margaluyu",
+      "postal_code": "43192"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

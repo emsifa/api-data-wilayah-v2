@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "17.07.06.1001",
+      "name": "Topos",
+      "postal_code": "39260"
+    },
+    {
+      "id": "17.07.06.2002",
+      "name": "Tik Sirong",
+      "postal_code": "39260"
+    },
+    {
+      "id": "17.07.06.2003",
+      "name": "Suka Negeri",
+      "postal_code": "39260"
+    },
+    {
+      "id": "17.07.06.2004",
+      "name": "Ajai Siang",
+      "postal_code": "39260"
+    },
+    {
+      "id": "17.07.06.2005",
+      "name": "Talang Donok",
+      "postal_code": "39260"
+    },
+    {
+      "id": "17.07.06.2006",
+      "name": "Talang Donok I",
+      "postal_code": "39260"
+    },
+    {
+      "id": "17.07.06.2007",
+      "name": "Talang Baru I",
+      "postal_code": "39260"
+    },
+    {
+      "id": "17.07.06.2008",
+      "name": "Talang Baru II",
+      "postal_code": "39260"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

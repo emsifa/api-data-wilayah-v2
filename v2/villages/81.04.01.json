@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "81.04.01.2001",
+      "name": "Namlea",
+      "postal_code": "97571"
+    },
+    {
+      "id": "81.04.01.2002",
+      "name": "Lala",
+      "postal_code": "97571"
+    },
+    {
+      "id": "81.04.01.2003",
+      "name": "Karang Jaya",
+      "postal_code": "97571"
+    },
+    {
+      "id": "81.04.01.2009",
+      "name": "Siahoni",
+      "postal_code": "97571"
+    },
+    {
+      "id": "81.04.01.2010",
+      "name": "Jamilu",
+      "postal_code": "97571"
+    },
+    {
+      "id": "81.04.01.2011",
+      "name": "Sanleko",
+      "postal_code": "97571"
+    },
+    {
+      "id": "81.04.01.2012",
+      "name": "Batu boy",
+      "postal_code": "97571"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

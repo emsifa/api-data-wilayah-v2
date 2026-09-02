@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "32.04.15.2001",
+      "name": "Pangalengan",
+      "postal_code": "40378"
+    },
+    {
+      "id": "32.04.15.2002",
+      "name": "Margaluyu",
+      "postal_code": "40378"
+    },
+    {
+      "id": "32.04.15.2003",
+      "name": "Warnasari",
+      "postal_code": "40378"
+    },
+    {
+      "id": "32.04.15.2004",
+      "name": "Sukamanah",
+      "postal_code": "40378"
+    },
+    {
+      "id": "32.04.15.2005",
+      "name": "Lamajang",
+      "postal_code": "40378"
+    },
+    {
+      "id": "32.04.15.2006",
+      "name": "Margamukti",
+      "postal_code": "40378"
+    },
+    {
+      "id": "32.04.15.2007",
+      "name": "Margamulya",
+      "postal_code": "40378"
+    },
+    {
+      "id": "32.04.15.2008",
+      "name": "Banjarsari",
+      "postal_code": "40378"
+    },
+    {
+      "id": "32.04.15.2009",
+      "name": "Sukaluyu",
+      "postal_code": "40378"
+    },
+    {
+      "id": "32.04.15.2010",
+      "name": "Tribaktimulya",
+      "postal_code": "40378"
+    },
+    {
+      "id": "32.04.15.2011",
+      "name": "Pulosari",
+      "postal_code": "40378"
+    },
+    {
+      "id": "32.04.15.2012",
+      "name": "Wanasuka",
+      "postal_code": "40378"
+    },
+    {
+      "id": "32.04.15.2013",
+      "name": "Margamekar",
+      "postal_code": "40378"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

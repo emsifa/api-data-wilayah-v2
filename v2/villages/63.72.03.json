@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "63.72.03.1001",
+      "name": "Palam",
+      "postal_code": "70731"
+    },
+    {
+      "id": "63.72.03.1002",
+      "name": "Bangkal",
+      "postal_code": "70732"
+    },
+    {
+      "id": "63.72.03.1003",
+      "name": "Sungai Tiung",
+      "postal_code": "70734"
+    },
+    {
+      "id": "63.72.03.1004",
+      "name": "Cempaka",
+      "postal_code": "70733"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.13.09.1001",
+      "name": "Anabanua",
+      "postal_code": "90952"
+    },
+    {
+      "id": "73.13.09.1002",
+      "name": "Dualimpoe",
+      "postal_code": "90952"
+    },
+    {
+      "id": "73.13.09.1003",
+      "name": "Tangkoli",
+      "postal_code": "90952"
+    },
+    {
+      "id": "73.13.09.2004",
+      "name": "Mattirowalie",
+      "postal_code": "90952"
+    },
+    {
+      "id": "73.13.09.2005",
+      "name": "Kalola",
+      "postal_code": "90952"
+    },
+    {
+      "id": "73.13.09.2006",
+      "name": "Sogi",
+      "postal_code": "90952"
+    },
+    {
+      "id": "73.13.09.2007",
+      "name": "Abbanuangnge",
+      "postal_code": "90952"
+    },
+    {
+      "id": "73.13.09.2008",
+      "name": "Minagatellue",
+      "postal_code": "90952"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

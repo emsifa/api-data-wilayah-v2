@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "36.02",
+    "name": "Kabupaten Lebak",
+    "capital": "Rangkasbitung",
+    "lat": -6.3607670885178305,
+    "lng": 106.24618699653327,
+    "elv": 26,
+    "tz": 7,
+    "population": 1531564,
+    "total_area": 3312.298,
+    "province": {
+      "id": "36",
+      "name": "Banten"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

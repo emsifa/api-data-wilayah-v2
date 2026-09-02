@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "21.71.07.1001",
+      "name": "Muka Kuning",
+      "postal_code": "29433"
+    },
+    {
+      "id": "21.71.07.1002",
+      "name": "Duriangkang",
+      "postal_code": "29437"
+    },
+    {
+      "id": "21.71.07.1003",
+      "name": "Mangsang",
+      "postal_code": "29437"
+    },
+    {
+      "id": "21.71.07.1004",
+      "name": "Tanjung Piayu",
+      "postal_code": "29437"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

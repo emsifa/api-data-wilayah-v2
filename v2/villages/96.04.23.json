@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "96.04.23.2001",
+      "name": "Inam",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.23.2002",
+      "name": "Jandurauw",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.23.2003",
+      "name": "Inambuari",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.23.2004",
+      "name": "Sitori",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.23.2005",
+      "name": "Untorey",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.23.2006",
+      "name": "Nabisai",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.23.2007",
+      "name": "Arumi",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.23.2008",
+      "name": "Karawi",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.23.2009",
+      "name": "Arampak",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.23.2010",
+      "name": "Barona",
+      "postal_code": "98372"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

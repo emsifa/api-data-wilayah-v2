@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "35.04.06.2001",
+      "name": "Wonorejo",
+      "postal_code": "66262"
+    },
+    {
+      "id": "35.04.06.2002",
+      "name": "Kedungcangkring",
+      "postal_code": "66262"
+    },
+    {
+      "id": "35.04.06.2003",
+      "name": "Mulyosari",
+      "postal_code": "66262"
+    },
+    {
+      "id": "35.04.06.2004",
+      "name": "Segawe",
+      "postal_code": "66262"
+    },
+    {
+      "id": "35.04.06.2005",
+      "name": "Samar",
+      "postal_code": "66262"
+    },
+    {
+      "id": "35.04.06.2006",
+      "name": "Penjor",
+      "postal_code": "66262"
+    },
+    {
+      "id": "35.04.06.2007",
+      "name": "Pagerwojo",
+      "postal_code": "66262"
+    },
+    {
+      "id": "35.04.06.2008",
+      "name": "Kradinan",
+      "postal_code": "66262"
+    },
+    {
+      "id": "35.04.06.2009",
+      "name": "Sidomulyo",
+      "postal_code": "66262"
+    },
+    {
+      "id": "35.04.06.2010",
+      "name": "Gondanggunung",
+      "postal_code": "66262"
+    },
+    {
+      "id": "35.04.06.2011",
+      "name": "Gambiran",
+      "postal_code": "66262"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

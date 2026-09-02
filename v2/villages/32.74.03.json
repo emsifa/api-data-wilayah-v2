@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.74.03.1001",
+      "name": "Kalijaga",
+      "postal_code": "45144"
+    },
+    {
+      "id": "32.74.03.1002",
+      "name": "Harjamukti",
+      "postal_code": "45143"
+    },
+    {
+      "id": "32.74.03.1003",
+      "name": "Kecapi",
+      "postal_code": "45142"
+    },
+    {
+      "id": "32.74.03.1004",
+      "name": "Larangan",
+      "postal_code": "45141"
+    },
+    {
+      "id": "32.74.03.1005",
+      "name": "Argasunya",
+      "postal_code": "45145"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

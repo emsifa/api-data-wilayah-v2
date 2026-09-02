@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "12.72.07.1001",
+      "name": "Gurilla",
+      "postal_code": "21137"
+    },
+    {
+      "id": "12.72.07.1002",
+      "name": "Bah Kapul",
+      "postal_code": "21139"
+    },
+    {
+      "id": "12.72.07.1003",
+      "name": "Setia Negara",
+      "postal_code": "21137"
+    },
+    {
+      "id": "12.72.07.1004",
+      "name": "Bukit Sofa",
+      "postal_code": "21137"
+    },
+    {
+      "id": "12.72.07.1005",
+      "name": "Bah Sorma",
+      "postal_code": "21139"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

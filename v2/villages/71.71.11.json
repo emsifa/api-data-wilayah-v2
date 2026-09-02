@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "71.71.11.1001",
+      "name": "Ranomuut",
+      "postal_code": "95128"
+    },
+    {
+      "id": "71.71.11.1002",
+      "name": "Kairagi Weru",
+      "postal_code": "95129"
+    },
+    {
+      "id": "71.71.11.1003",
+      "name": "Paal Dua",
+      "postal_code": "95129"
+    },
+    {
+      "id": "71.71.11.1004",
+      "name": "Perkamil",
+      "postal_code": "95129"
+    },
+    {
+      "id": "71.71.11.1005",
+      "name": "Malendeng",
+      "postal_code": "95129"
+    },
+    {
+      "id": "71.71.11.1006",
+      "name": "Dendengan Dalam",
+      "postal_code": "95127"
+    },
+    {
+      "id": "71.71.11.1007",
+      "name": "Dendengan Luar",
+      "postal_code": "95127"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

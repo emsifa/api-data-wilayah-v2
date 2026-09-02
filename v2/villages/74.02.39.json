@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "74.02.39.2001",
+      "name": "Mendikonu",
+      "postal_code": "93456"
+    },
+    {
+      "id": "74.02.39.2002",
+      "name": "Wonua Morini",
+      "postal_code": "93456"
+    },
+    {
+      "id": "74.02.39.2003",
+      "name": "Besu",
+      "postal_code": "93456"
+    },
+    {
+      "id": "74.02.39.2004",
+      "name": "Paku",
+      "postal_code": "93456"
+    },
+    {
+      "id": "74.02.39.2005",
+      "name": "Puuruy",
+      "postal_code": "93456"
+    },
+    {
+      "id": "74.02.39.2006",
+      "name": "Morosi",
+      "postal_code": "93456"
+    },
+    {
+      "id": "74.02.39.2007",
+      "name": "Tanggobu",
+      "postal_code": "93456"
+    },
+    {
+      "id": "74.02.39.2008",
+      "name": "Paku Jaya",
+      "postal_code": "93456"
+    },
+    {
+      "id": "74.02.39.2009",
+      "name": "Tondowatu",
+      "postal_code": "93456"
+    },
+    {
+      "id": "74.02.39.2010",
+      "name": "Porara",
+      "postal_code": "93456"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

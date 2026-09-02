@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "12.71.05.1001",
+      "name": "Kesawan",
+      "postal_code": "20111"
+    },
+    {
+      "id": "12.71.05.1002",
+      "name": "Silalas",
+      "postal_code": "20114"
+    },
+    {
+      "id": "12.71.05.1003",
+      "name": "Glugur Kota",
+      "postal_code": "20115"
+    },
+    {
+      "id": "12.71.05.1004",
+      "name": "Pulo Berayan Kota",
+      "postal_code": "20116"
+    },
+    {
+      "id": "12.71.05.1005",
+      "name": "Sei Agul",
+      "postal_code": "20117"
+    },
+    {
+      "id": "12.71.05.1006",
+      "name": "Karang Berombak",
+      "postal_code": "20117"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

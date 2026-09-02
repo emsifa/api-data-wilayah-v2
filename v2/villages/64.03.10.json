@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "64.03.10.2002",
+      "name": "Tabalar Muara",
+      "postal_code": "77374"
+    },
+    {
+      "id": "64.03.10.2003",
+      "name": "Tubaan",
+      "postal_code": "77374"
+    },
+    {
+      "id": "64.03.10.2004",
+      "name": "Tabalar Ulu",
+      "postal_code": "77374"
+    },
+    {
+      "id": "64.03.10.2005",
+      "name": "Semurut",
+      "postal_code": "77374"
+    },
+    {
+      "id": "64.03.10.2006",
+      "name": "Buyung-Buyung",
+      "postal_code": "77374"
+    },
+    {
+      "id": "64.03.10.2007",
+      "name": "Harapan Maju",
+      "postal_code": "77374"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

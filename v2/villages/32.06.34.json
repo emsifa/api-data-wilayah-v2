@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.06.34.2001",
+      "name": "Dawagung",
+      "postal_code": "46155"
+    },
+    {
+      "id": "32.06.34.2002",
+      "name": "Rajapolah",
+      "postal_code": "46155"
+    },
+    {
+      "id": "32.06.34.2003",
+      "name": "Manggungjaya",
+      "postal_code": "46155"
+    },
+    {
+      "id": "32.06.34.2004",
+      "name": "Manggungsari",
+      "postal_code": "46155"
+    },
+    {
+      "id": "32.06.34.2005",
+      "name": "Sukaraja",
+      "postal_code": "46183"
+    },
+    {
+      "id": "32.06.34.2006",
+      "name": "Rajamandala",
+      "postal_code": "46155"
+    },
+    {
+      "id": "32.06.34.2007",
+      "name": "Sukanagalih",
+      "postal_code": "46155"
+    },
+    {
+      "id": "32.06.34.2008",
+      "name": "Tanjungpura",
+      "postal_code": "46155"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

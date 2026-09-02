@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "32.08.06.2001",
+      "name": "Dukuhpicung",
+      "postal_code": "45581"
+    },
+    {
+      "id": "32.08.06.2002",
+      "name": "Walaharcageur",
+      "postal_code": "45581"
+    },
+    {
+      "id": "32.08.06.2003",
+      "name": "Wilanagara",
+      "postal_code": "45581"
+    },
+    {
+      "id": "32.08.06.2004",
+      "name": "Cigedang",
+      "postal_code": "45581"
+    },
+    {
+      "id": "32.08.06.2005",
+      "name": "Luragungtonggoh",
+      "postal_code": "45581"
+    },
+    {
+      "id": "32.08.06.2006",
+      "name": "Sindangsari",
+      "postal_code": "45581"
+    },
+    {
+      "id": "32.08.06.2007",
+      "name": "Cirahayu",
+      "postal_code": "45581"
+    },
+    {
+      "id": "32.08.06.2008",
+      "name": "Margasari",
+      "postal_code": "45581"
+    },
+    {
+      "id": "32.08.06.2009",
+      "name": "Sindangsuka",
+      "postal_code": "45581"
+    },
+    {
+      "id": "32.08.06.2010",
+      "name": "Cikandang",
+      "postal_code": "45581"
+    },
+    {
+      "id": "32.08.06.2011",
+      "name": "Panyosogan",
+      "postal_code": "45581"
+    },
+    {
+      "id": "32.08.06.2012",
+      "name": "Gunungkarung",
+      "postal_code": "45581"
+    },
+    {
+      "id": "32.08.06.2013",
+      "name": "Luragunglandeuh",
+      "postal_code": "45581"
+    },
+    {
+      "id": "32.08.06.2014",
+      "name": "Dukuhmaja",
+      "postal_code": "45581"
+    },
+    {
+      "id": "32.08.06.2015",
+      "name": "Benda",
+      "postal_code": "45582"
+    },
+    {
+      "id": "32.08.06.2016",
+      "name": "Cikaduwetan",
+      "postal_code": "45582"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

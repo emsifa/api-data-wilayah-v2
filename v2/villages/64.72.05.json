@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "64.72.05.1002",
+      "name": "Sempaja Selatan",
+      "postal_code": "75119"
+    },
+    {
+      "id": "64.72.05.1003",
+      "name": "Lempake",
+      "postal_code": "75118"
+    },
+    {
+      "id": "64.72.05.1004",
+      "name": "Sungai Siring Pelita",
+      "postal_code": "75118"
+    },
+    {
+      "id": "64.72.05.1010",
+      "name": "Sempaja Utara",
+      "postal_code": "75119"
+    },
+    {
+      "id": "64.72.05.1011",
+      "name": "Tanah Merah",
+      "postal_code": "75119"
+    },
+    {
+      "id": "64.72.05.1012",
+      "name": "Sempaja Barat",
+      "postal_code": "75119"
+    },
+    {
+      "id": "64.72.05.1013",
+      "name": "Sempaja Timur",
+      "postal_code": "75119"
+    },
+    {
+      "id": "64.72.05.1014",
+      "name": "Budaya Pampang",
+      "postal_code": "75118"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

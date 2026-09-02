@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "36.01.34.1001",
+      "name": "Sukaratu",
+      "postal_code": "42217"
+    },
+    {
+      "id": "36.01.34.1002",
+      "name": "Karaton",
+      "postal_code": "42211"
+    },
+    {
+      "id": "36.01.34.1003",
+      "name": "Saruni",
+      "postal_code": "42216"
+    },
+    {
+      "id": "36.01.34.1004",
+      "name": "Pagerbatu",
+      "postal_code": "42215"
+    },
+    {
+      "id": "36.01.34.1005",
+      "name": "Cilaja",
+      "postal_code": "42214"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

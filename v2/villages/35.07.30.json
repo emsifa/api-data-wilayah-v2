@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "35.07.30.2001",
+      "name": "Pujiharjo",
+      "postal_code": "65182"
+    },
+    {
+      "id": "35.07.30.2002",
+      "name": "Sumbertangkil",
+      "postal_code": "65182"
+    },
+    {
+      "id": "35.07.30.2003",
+      "name": "Kepatihan",
+      "postal_code": "65182"
+    },
+    {
+      "id": "35.07.30.2004",
+      "name": "Jogomulyan",
+      "postal_code": "65182"
+    },
+    {
+      "id": "35.07.30.2005",
+      "name": "Tlogosari",
+      "postal_code": "65182"
+    },
+    {
+      "id": "35.07.30.2006",
+      "name": "Tirtoyudo",
+      "postal_code": "65182"
+    },
+    {
+      "id": "35.07.30.2007",
+      "name": "Sukorejo",
+      "postal_code": "65182"
+    },
+    {
+      "id": "35.07.30.2008",
+      "name": "Ampelgading",
+      "postal_code": "65183"
+    },
+    {
+      "id": "35.07.30.2009",
+      "name": "Tamankuncaran",
+      "postal_code": "65182"
+    },
+    {
+      "id": "35.07.30.2010",
+      "name": "Gadungsari",
+      "postal_code": "65182"
+    },
+    {
+      "id": "35.07.30.2011",
+      "name": "Wonoagung",
+      "postal_code": "65182"
+    },
+    {
+      "id": "35.07.30.2012",
+      "name": "Tamansatriyan",
+      "postal_code": "65182"
+    },
+    {
+      "id": "35.07.30.2013",
+      "name": "Purwodadi",
+      "postal_code": "65182"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

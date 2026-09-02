@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "14.01.19.2001",
+      "name": "Simalinyang",
+      "postal_code": "28475"
+    },
+    {
+      "id": "14.01.19.2002",
+      "name": "Bina Baru",
+      "postal_code": "28475"
+    },
+    {
+      "id": "14.01.19.2003",
+      "name": "Hidup Baru",
+      "postal_code": "28475"
+    },
+    {
+      "id": "14.01.19.2004",
+      "name": "Karya Bakti",
+      "postal_code": "28475"
+    },
+    {
+      "id": "14.01.19.2005",
+      "name": "Lubuk Sakai",
+      "postal_code": "28475"
+    },
+    {
+      "id": "14.01.19.2006",
+      "name": "Penghidupan",
+      "postal_code": "28475"
+    },
+    {
+      "id": "14.01.19.2007",
+      "name": "Mayang Pongkai",
+      "postal_code": "28475"
+    },
+    {
+      "id": "14.01.19.2008",
+      "name": "Koto Damai",
+      "postal_code": "28475"
+    },
+    {
+      "id": "14.01.19.2009",
+      "name": "Utama Karya",
+      "postal_code": "28475"
+    },
+    {
+      "id": "14.01.19.2010",
+      "name": "Bukit Sakai",
+      "postal_code": "28475"
+    },
+    {
+      "id": "14.01.19.2011",
+      "name": "Mekar Jaya",
+      "postal_code": "28475"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

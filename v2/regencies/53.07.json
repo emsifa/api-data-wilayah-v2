@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "53.07",
+    "name": "Kabupaten Sikka",
+    "capital": "Maumere",
+    "lat": -8.616591300597133,
+    "lng": 122.2080821234478,
+    "elv": 17,
+    "tz": 8,
+    "population": 346614,
+    "total_area": 1669.713,
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

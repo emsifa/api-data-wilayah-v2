@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.11.19.2001",
+      "name": "Ganeas",
+      "postal_code": "45356"
+    },
+    {
+      "id": "32.11.19.2002",
+      "name": "Dayeuhluhur",
+      "postal_code": "45356"
+    },
+    {
+      "id": "32.11.19.2003",
+      "name": "Cikoneng",
+      "postal_code": "45356"
+    },
+    {
+      "id": "32.11.19.2004",
+      "name": "Sukaluyu",
+      "postal_code": "45356"
+    },
+    {
+      "id": "32.11.19.2005",
+      "name": "Sukawening",
+      "postal_code": "45356"
+    },
+    {
+      "id": "32.11.19.2006",
+      "name": "Tanjunghurip",
+      "postal_code": "45356"
+    },
+    {
+      "id": "32.11.19.2007",
+      "name": "Cikondang",
+      "postal_code": "45356"
+    },
+    {
+      "id": "32.11.19.2008",
+      "name": "Cikoneng Kulon",
+      "postal_code": "45356"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

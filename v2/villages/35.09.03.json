@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "35.09.03.2001",
+      "name": "Jamintoro",
+      "postal_code": "68156"
+    },
+    {
+      "id": "35.09.03.2002",
+      "name": "Jatiroto",
+      "postal_code": "68156"
+    },
+    {
+      "id": "35.09.03.2003",
+      "name": "Kaliglagah",
+      "postal_code": "68156"
+    },
+    {
+      "id": "35.09.03.2004",
+      "name": "Jambesari",
+      "postal_code": "68156"
+    },
+    {
+      "id": "35.09.03.2005",
+      "name": "Yosorati",
+      "postal_code": "68156"
+    },
+    {
+      "id": "35.09.03.2006",
+      "name": "Sumberagung",
+      "postal_code": "68156"
+    },
+    {
+      "id": "35.09.03.2007",
+      "name": "Gelang",
+      "postal_code": "68156"
+    },
+    {
+      "id": "35.09.03.2008",
+      "name": "Rowotengah",
+      "postal_code": "68156"
+    },
+    {
+      "id": "35.09.03.2009",
+      "name": "Pringgowirawan",
+      "postal_code": "68156"
+    },
+    {
+      "id": "35.09.03.2010",
+      "name": "Karangbayat",
+      "postal_code": "68156"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

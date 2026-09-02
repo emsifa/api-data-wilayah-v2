@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "72.04.05.2001",
+      "name": "Buga",
+      "postal_code": "94516"
+    },
+    {
+      "id": "72.04.05.2002",
+      "name": "Batuilo",
+      "postal_code": "94516"
+    },
+    {
+      "id": "72.04.05.2003",
+      "name": "Kamalu",
+      "postal_code": "94516"
+    },
+    {
+      "id": "72.04.05.2004",
+      "name": "Muara Besar",
+      "postal_code": "94516"
+    },
+    {
+      "id": "72.04.05.2005",
+      "name": "Bilo",
+      "postal_code": "94516"
+    },
+    {
+      "id": "72.04.05.2006",
+      "name": "Labuan Lobo",
+      "postal_code": "94516"
+    },
+    {
+      "id": "72.04.05.2007",
+      "name": "Sambujan",
+      "postal_code": "94516"
+    },
+    {
+      "id": "72.04.05.2008",
+      "name": "Pulias",
+      "postal_code": "94516"
+    },
+    {
+      "id": "72.04.05.2009",
+      "name": "Kabetan",
+      "postal_code": "94516"
+    },
+    {
+      "id": "72.04.05.2010",
+      "name": "Pagaitan",
+      "postal_code": "94516"
+    },
+    {
+      "id": "72.04.05.2011",
+      "name": "Bambalaga",
+      "postal_code": "94516"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

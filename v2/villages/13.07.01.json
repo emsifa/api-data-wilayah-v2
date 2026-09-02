@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "13.07.01.2001",
+      "name": "Kurai",
+      "postal_code": "26255"
+    },
+    {
+      "id": "13.07.01.2002",
+      "name": "Sungai Rimbang",
+      "postal_code": "26255"
+    },
+    {
+      "id": "13.07.01.2003",
+      "name": "Tanjuang Bungo",
+      "postal_code": "26255"
+    },
+    {
+      "id": "13.07.01.2004",
+      "name": "Suliki",
+      "postal_code": "26255"
+    },
+    {
+      "id": "13.07.01.2005",
+      "name": "Limbanang",
+      "postal_code": "26255"
+    },
+    {
+      "id": "13.07.01.2006",
+      "name": "Andiang",
+      "postal_code": "26255"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

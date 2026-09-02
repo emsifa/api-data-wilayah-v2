@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "72.10.13.2001",
+      "name": "Porame",
+      "postal_code": "94362"
+    },
+    {
+      "id": "72.10.13.2002",
+      "name": "Balane",
+      "postal_code": "94362"
+    },
+    {
+      "id": "72.10.13.2003",
+      "name": "Uwemanje",
+      "postal_code": "94362"
+    },
+    {
+      "id": "72.10.13.2004",
+      "name": "Rondingo",
+      "postal_code": "94362"
+    },
+    {
+      "id": "72.10.13.2005",
+      "name": "Bolobia",
+      "postal_code": "94362"
+    },
+    {
+      "id": "72.10.13.2006",
+      "name": "Doda",
+      "postal_code": "94362"
+    },
+    {
+      "id": "72.10.13.2007",
+      "name": "Kalora",
+      "postal_code": "94362"
+    },
+    {
+      "id": "72.10.13.2008",
+      "name": "Kanuna",
+      "postal_code": "94362"
+    },
+    {
+      "id": "72.10.13.2009",
+      "name": "Daenggune",
+      "postal_code": "94362"
+    },
+    {
+      "id": "72.10.13.2010",
+      "name": "Kayumpia",
+      "postal_code": "94362"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

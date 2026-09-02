@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.04.07.2001",
+      "name": "Jatiendah",
+      "postal_code": "40616"
+    },
+    {
+      "id": "32.04.07.2002",
+      "name": "Cilengkrang",
+      "postal_code": "40615"
+    },
+    {
+      "id": "32.04.07.2003",
+      "name": "Cipanjalu",
+      "postal_code": "40618"
+    },
+    {
+      "id": "32.04.07.2004",
+      "name": "Melatiwangi",
+      "postal_code": "40618"
+    },
+    {
+      "id": "32.04.07.2005",
+      "name": "Ciporeat",
+      "postal_code": "40617"
+    },
+    {
+      "id": "32.04.07.2006",
+      "name": "Girimekar",
+      "postal_code": "40619"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

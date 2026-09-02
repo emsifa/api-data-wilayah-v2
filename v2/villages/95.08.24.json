@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "95.08.24.2001",
+      "name": "Wendama",
+      "postal_code": "99920"
+    },
+    {
+      "id": "95.08.24.2002",
+      "name": "Embetpem",
+      "postal_code": "99920"
+    },
+    {
+      "id": "95.08.24.2003",
+      "name": "Yenai",
+      "postal_code": "99920"
+    },
+    {
+      "id": "95.08.24.2004",
+      "name": "Digilimu",
+      "postal_code": "99920"
+    },
+    {
+      "id": "95.08.24.2005",
+      "name": "Bisikimu",
+      "postal_code": "99920"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

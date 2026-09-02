@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "62.12.07",
+    "name": "Tanah Siang Selatan",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.12",
+      "name": "Kabupaten Murung Raya"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

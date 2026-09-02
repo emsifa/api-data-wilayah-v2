@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.22.27.2001",
+      "name": "Bobol",
+      "postal_code": "62169"
+    },
+    {
+      "id": "35.22.27.2002",
+      "name": "Miyono",
+      "postal_code": "62169"
+    },
+    {
+      "id": "35.22.27.2003",
+      "name": "Sekar",
+      "postal_code": "62169"
+    },
+    {
+      "id": "35.22.27.2004",
+      "name": "Klino",
+      "postal_code": "62169"
+    },
+    {
+      "id": "35.22.27.2005",
+      "name": "Deling",
+      "postal_code": "62169"
+    },
+    {
+      "id": "35.22.27.2006",
+      "name": "Bareng",
+      "postal_code": "62169"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

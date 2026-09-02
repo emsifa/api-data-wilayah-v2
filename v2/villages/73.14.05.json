@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.14.05.1001",
+      "name": "Rappang",
+      "postal_code": "91651"
+    },
+    {
+      "id": "73.14.05.1002",
+      "name": "Lalebata",
+      "postal_code": "91651"
+    },
+    {
+      "id": "73.14.05.1003",
+      "name": "Maccorawalie",
+      "postal_code": "91651"
+    },
+    {
+      "id": "73.14.05.1004",
+      "name": "Kadidi",
+      "postal_code": "91651"
+    },
+    {
+      "id": "73.14.05.2005",
+      "name": "Timoreng Panua",
+      "postal_code": "91651"
+    },
+    {
+      "id": "73.14.05.2006",
+      "name": "Bulo Wattang",
+      "postal_code": "91651"
+    },
+    {
+      "id": "73.14.05.2007",
+      "name": "Bulo",
+      "postal_code": "91651"
+    },
+    {
+      "id": "73.14.05.2008",
+      "name": "Cipotakari",
+      "postal_code": "91651"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

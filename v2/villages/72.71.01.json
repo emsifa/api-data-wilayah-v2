@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "72.71.01.1004",
+      "name": "Besusu Barat",
+      "postal_code": "94111"
+    },
+    {
+      "id": "72.71.01.1006",
+      "name": "Besusu Tengah",
+      "postal_code": "94111"
+    },
+    {
+      "id": "72.71.01.1007",
+      "name": "Besusu Timur",
+      "postal_code": "94111"
+    },
+    {
+      "id": "72.71.01.1009",
+      "name": "Lolu Selatan",
+      "postal_code": "94235"
+    },
+    {
+      "id": "72.71.01.1010",
+      "name": "Lolu Utara",
+      "postal_code": "94235"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

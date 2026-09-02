@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "12.14.31.2001",
+      "name": "Baluta",
+      "postal_code": "22887"
+    },
+    {
+      "id": "12.14.31.2002",
+      "name": "Eho Baluta",
+      "postal_code": "22887"
+    },
+    {
+      "id": "12.14.31.2003",
+      "name": "Bawo Ofuloa",
+      "postal_code": "22887"
+    },
+    {
+      "id": "12.14.31.2004",
+      "name": "Hale Baluta",
+      "postal_code": "22887"
+    },
+    {
+      "id": "12.14.31.2005",
+      "name": "Bawo Orudua",
+      "postal_code": "22887"
+    },
+    {
+      "id": "12.14.31.2006",
+      "name": "Jeke",
+      "postal_code": "22887"
+    },
+    {
+      "id": "12.14.31.2007",
+      "name": "Makole",
+      "postal_code": "22887"
+    },
+    {
+      "id": "12.14.31.2008",
+      "name": "Sifauruasi",
+      "postal_code": "22887"
+    },
+    {
+      "id": "12.14.31.2009",
+      "name": "Bawo Analita Saeru",
+      "postal_code": "22887"
+    },
+    {
+      "id": "12.14.31.2010",
+      "name": "Saeru Melayu",
+      "postal_code": "22887"
+    },
+    {
+      "id": "12.14.31.2011",
+      "name": "Hiligeho Sogawu",
+      "postal_code": "22887"
+    },
+    {
+      "id": "12.14.31.2012",
+      "name": "Hiliomasio",
+      "postal_code": "22887"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

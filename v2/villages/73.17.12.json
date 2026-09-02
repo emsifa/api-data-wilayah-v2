@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "73.17.12.2001",
+      "name": "Rante Balla",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.17.12.2002",
+      "name": "Kadundung",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.17.12.2003",
+      "name": "Ulusalu",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.17.12.2004",
+      "name": "Lambanan",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.17.12.2005",
+      "name": "Tabang",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.17.12.2006",
+      "name": "Boneposi",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.17.12.2007",
+      "name": "Pangi",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.17.12.2008",
+      "name": "Pajang",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.17.12.2009",
+      "name": "Buntu Sarek",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.17.12.2010",
+      "name": "To'barru",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.17.12.2011",
+      "name": "Tibussan",
+      "postal_code": "91921"
+    },
+    {
+      "id": "73.17.12.2012",
+      "name": "To'lajuk",
+      "postal_code": "91921"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

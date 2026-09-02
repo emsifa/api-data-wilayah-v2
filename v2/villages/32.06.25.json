@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.06.25.2001",
+      "name": "Sukasukur",
+      "postal_code": "46462"
+    },
+    {
+      "id": "32.06.25.2002",
+      "name": "Salebu",
+      "postal_code": "46462"
+    },
+    {
+      "id": "32.06.25.2003",
+      "name": "Mangunreja",
+      "postal_code": "46462"
+    },
+    {
+      "id": "32.06.25.2004",
+      "name": "Margajaya",
+      "postal_code": "46462"
+    },
+    {
+      "id": "32.06.25.2005",
+      "name": "Pasirsalam",
+      "postal_code": "46462"
+    },
+    {
+      "id": "32.06.25.2006",
+      "name": "Sukaluyu",
+      "postal_code": "46462"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

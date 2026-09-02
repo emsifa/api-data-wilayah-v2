@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "35.06.07.2001",
+      "name": "Sempu",
+      "postal_code": "64291"
+    },
+    {
+      "id": "35.06.07.2002",
+      "name": "Pandantoyo",
+      "postal_code": "64291"
+    },
+    {
+      "id": "35.06.07.2003",
+      "name": "Margourip",
+      "postal_code": "64291"
+    },
+    {
+      "id": "35.06.07.2004",
+      "name": "Bedali",
+      "postal_code": "64291"
+    },
+    {
+      "id": "35.06.07.2005",
+      "name": "Kunjang",
+      "postal_code": "64156"
+    },
+    {
+      "id": "35.06.07.2006",
+      "name": "Manggis",
+      "postal_code": "64291"
+    },
+    {
+      "id": "35.06.07.2007",
+      "name": "Ngancar",
+      "postal_code": "64291"
+    },
+    {
+      "id": "35.06.07.2008",
+      "name": "Sugihwaras",
+      "postal_code": "64291"
+    },
+    {
+      "id": "35.06.07.2009",
+      "name": "Babadan",
+      "postal_code": "64291"
+    },
+    {
+      "id": "35.06.07.2010",
+      "name": "Jagul",
+      "postal_code": "64291"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

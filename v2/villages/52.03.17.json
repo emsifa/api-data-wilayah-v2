@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "52.03.17.1004",
+      "name": "Tanjung",
+      "postal_code": "83614"
+    },
+    {
+      "id": "52.03.17.1005",
+      "name": "Suryawangi",
+      "postal_code": "83616"
+    },
+    {
+      "id": "52.03.17.1007",
+      "name": "Ijobalit",
+      "postal_code": "83615"
+    },
+    {
+      "id": "52.03.17.1012",
+      "name": "Geres",
+      "postal_code": "83615"
+    },
+    {
+      "id": "52.03.17.2001",
+      "name": "Labuhan Haji",
+      "postal_code": "83616"
+    },
+    {
+      "id": "52.03.17.2002",
+      "name": "Peneda Gandor",
+      "postal_code": "83617"
+    },
+    {
+      "id": "52.03.17.2003",
+      "name": "Teros",
+      "postal_code": "83614"
+    },
+    {
+      "id": "52.03.17.2006",
+      "name": "Korleko",
+      "postal_code": "83615"
+    },
+    {
+      "id": "52.03.17.2008",
+      "name": "Kertasari",
+      "postal_code": "83617"
+    },
+    {
+      "id": "52.03.17.2009",
+      "name": "Tirtanadi",
+      "postal_code": "83615"
+    },
+    {
+      "id": "52.03.17.2010",
+      "name": "Banjarsari",
+      "postal_code": "83614"
+    },
+    {
+      "id": "52.03.17.2011",
+      "name": "Korleko Selatan",
+      "postal_code": "83615"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

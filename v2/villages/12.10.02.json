@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "12.10.02.1001",
+      "name": "Bakaran Batu",
+      "postal_code": "21421"
+    },
+    {
+      "id": "12.10.02.1002",
+      "name": "Sioldengan",
+      "postal_code": "21428"
+    },
+    {
+      "id": "12.10.02.1003",
+      "name": "Urung Kompas",
+      "postal_code": "21429"
+    },
+    {
+      "id": "12.10.02.1004",
+      "name": "Ujung Bandar",
+      "postal_code": "21422"
+    },
+    {
+      "id": "12.10.02.1005",
+      "name": "Sigambal",
+      "postal_code": "21425"
+    },
+    {
+      "id": "12.10.02.1006",
+      "name": "Lobusona",
+      "postal_code": "21423"
+    },
+    {
+      "id": "12.10.02.1007",
+      "name": "Pardamean",
+      "postal_code": "21426"
+    },
+    {
+      "id": "12.10.02.1008",
+      "name": "Danau Bale",
+      "postal_code": "21427"
+    },
+    {
+      "id": "12.10.02.1009",
+      "name": "Sidorejo",
+      "postal_code": "21424"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

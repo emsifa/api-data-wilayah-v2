@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "36.71.12.1001",
+      "name": "Karang Tengah",
+      "postal_code": "15157"
+    },
+    {
+      "id": "36.71.12.1002",
+      "name": "Karang Mulya",
+      "postal_code": "15157"
+    },
+    {
+      "id": "36.71.12.1003",
+      "name": "Pondok Bahar",
+      "postal_code": "15159"
+    },
+    {
+      "id": "36.71.12.1004",
+      "name": "Pondok Pucung",
+      "postal_code": "15158"
+    },
+    {
+      "id": "36.71.12.1005",
+      "name": "Karang Timur",
+      "postal_code": "15157"
+    },
+    {
+      "id": "36.71.12.1006",
+      "name": "Padurenan",
+      "postal_code": "15159"
+    },
+    {
+      "id": "36.71.12.1007",
+      "name": "Parung Jaya",
+      "postal_code": "15159"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

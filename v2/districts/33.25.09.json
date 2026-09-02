@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "33.25.09",
+    "name": "Subah",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.25",
+      "name": "Kabupaten Batang"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

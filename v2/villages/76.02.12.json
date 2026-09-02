@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "76.02.12.1001",
+      "name": "Simboro",
+      "postal_code": "91512"
+    },
+    {
+      "id": "76.02.12.1002",
+      "name": "Rangas",
+      "postal_code": "91512"
+    },
+    {
+      "id": "76.02.12.2003",
+      "name": "Botteng",
+      "postal_code": "91512"
+    },
+    {
+      "id": "76.02.12.2004",
+      "name": "Saletto",
+      "postal_code": "91512"
+    },
+    {
+      "id": "76.02.12.2005",
+      "name": "Sumare",
+      "postal_code": "91513"
+    },
+    {
+      "id": "76.02.12.2007",
+      "name": "Botteng Utara",
+      "postal_code": "91512"
+    },
+    {
+      "id": "76.02.12.2008",
+      "name": "Tapandullu",
+      "postal_code": "91512"
+    },
+    {
+      "id": "76.02.12.2009",
+      "name": "Pati'di",
+      "postal_code": "91512"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

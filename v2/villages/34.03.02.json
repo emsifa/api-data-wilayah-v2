@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "34.03.02.2001",
+      "name": "Natah",
+      "postal_code": "55852"
+    },
+    {
+      "id": "34.03.02.2002",
+      "name": "Pilangrejo",
+      "postal_code": "55852"
+    },
+    {
+      "id": "34.03.02.2003",
+      "name": "Kedungpoh",
+      "postal_code": "55852"
+    },
+    {
+      "id": "34.03.02.2004",
+      "name": "Pengkol",
+      "postal_code": "55852"
+    },
+    {
+      "id": "34.03.02.2005",
+      "name": "Kedungkeris",
+      "postal_code": "55852"
+    },
+    {
+      "id": "34.03.02.2006",
+      "name": "Nglipar",
+      "postal_code": "55852"
+    },
+    {
+      "id": "34.03.02.2007",
+      "name": "Katongan",
+      "postal_code": "55852"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

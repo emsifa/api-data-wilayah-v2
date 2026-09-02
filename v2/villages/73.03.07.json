@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.03.07.1001",
+      "name": "Gantarang Keke",
+      "postal_code": "92461"
+    },
+    {
+      "id": "73.03.07.1002",
+      "name": "Tanah Loe",
+      "postal_code": "92461"
+    },
+    {
+      "id": "73.03.07.2003",
+      "name": "Layoa",
+      "postal_code": "92461"
+    },
+    {
+      "id": "73.03.07.2004",
+      "name": "Bajiminasa",
+      "postal_code": "92461"
+    },
+    {
+      "id": "73.03.07.2005",
+      "name": "Tombolo",
+      "postal_code": "92461"
+    },
+    {
+      "id": "73.03.07.2006",
+      "name": "Kaloling",
+      "postal_code": "92461"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

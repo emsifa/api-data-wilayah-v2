@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "19.05.01.1001",
+      "name": "Tanjung",
+      "postal_code": "33311"
+    },
+    {
+      "id": "19.05.01.1002",
+      "name": "Sungai Daeng",
+      "postal_code": "33313"
+    },
+    {
+      "id": "19.05.01.1003",
+      "name": "Sungai Baru",
+      "postal_code": "33312"
+    },
+    {
+      "id": "19.05.01.1008",
+      "name": "Keranggan",
+      "postal_code": "33311"
+    },
+    {
+      "id": "19.05.01.1009",
+      "name": "Menjelang",
+      "postal_code": "33311"
+    },
+    {
+      "id": "19.05.01.2004",
+      "name": "Air Putih",
+      "postal_code": "33351"
+    },
+    {
+      "id": "19.05.01.2005",
+      "name": "Air Belo",
+      "postal_code": "33351"
+    },
+    {
+      "id": "19.05.01.2006",
+      "name": "Belo Laut",
+      "postal_code": "33351"
+    },
+    {
+      "id": "19.05.01.2007",
+      "name": "Air Limau",
+      "postal_code": "33351"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

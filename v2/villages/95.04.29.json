@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "95.04.29.2001",
+      "name": "Yanora",
+      "postal_code": "99062"
+    },
+    {
+      "id": "95.04.29.2002",
+      "name": "Wari/Taiyeve",
+      "postal_code": "99442"
+    },
+    {
+      "id": "95.04.29.2003",
+      "name": "Papedari",
+      "postal_code": "99442"
+    },
+    {
+      "id": "95.04.29.2004",
+      "name": "Dotori",
+      "postal_code": "99062"
+    },
+    {
+      "id": "95.04.29.2005",
+      "name": "Arebe/Ninggame",
+      "postal_code": "99062"
+    },
+    {
+      "id": "95.04.29.2006",
+      "name": "Kowari",
+      "postal_code": "99062"
+    },
+    {
+      "id": "95.04.29.2007",
+      "name": "Wiki",
+      "postal_code": "99062"
+    },
+    {
+      "id": "95.04.29.2008",
+      "name": "Kuruku",
+      "postal_code": "99062"
+    },
+    {
+      "id": "95.04.29.2009",
+      "name": "Friji",
+      "postal_code": "99442"
+    },
+    {
+      "id": "95.04.29.2010",
+      "name": "Dorera",
+      "postal_code": "99062"
+    },
+    {
+      "id": "95.04.29.2011",
+      "name": "Dustra/Yamiriko",
+      "postal_code": "99062"
+    },
+    {
+      "id": "95.04.29.2012",
+      "name": "Muna",
+      "postal_code": "99062"
+    },
+    {
+      "id": "95.04.29.2013",
+      "name": "Kalibu",
+      "postal_code": "99062"
+    },
+    {
+      "id": "95.04.29.2014",
+      "name": "Laniloma",
+      "postal_code": "99062"
+    },
+    {
+      "id": "95.04.29.2015",
+      "name": "Wakumendek",
+      "postal_code": "99062"
+    },
+    {
+      "id": "95.04.29.2016",
+      "name": "Timoga/Kabupaga",
+      "postal_code": "99062"
+    },
+    {
+      "id": "95.04.29.2017",
+      "name": "Beleise",
+      "postal_code": "99062"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

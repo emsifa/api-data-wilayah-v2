@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "12.71.17.1001",
+      "name": "Petisah Hulu",
+      "postal_code": "20153"
+    },
+    {
+      "id": "12.71.17.1002",
+      "name": "Babura",
+      "postal_code": "20154"
+    },
+    {
+      "id": "12.71.17.1003",
+      "name": "Merdeka",
+      "postal_code": "20154"
+    },
+    {
+      "id": "12.71.17.1004",
+      "name": "Darat",
+      "postal_code": "20153"
+    },
+    {
+      "id": "12.71.17.1005",
+      "name": "Padang Bulan",
+      "postal_code": "20155"
+    },
+    {
+      "id": "12.71.17.1006",
+      "name": "Titi Rante",
+      "postal_code": "20156"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

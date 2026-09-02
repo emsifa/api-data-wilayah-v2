@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "75.01.20.2001",
+      "name": "Biluhu Barat",
+      "postal_code": "96245"
+    },
+    {
+      "id": "75.01.20.2002",
+      "name": "Lobuto",
+      "postal_code": "96245"
+    },
+    {
+      "id": "75.01.20.2003",
+      "name": "Biluhu Tengah",
+      "postal_code": "96245"
+    },
+    {
+      "id": "75.01.20.2004",
+      "name": "Luluo",
+      "postal_code": "96245"
+    },
+    {
+      "id": "75.01.20.2005",
+      "name": "Huwongo",
+      "postal_code": "96245"
+    },
+    {
+      "id": "75.01.20.2006",
+      "name": "Lobuto Timur",
+      "postal_code": "96245"
+    },
+    {
+      "id": "75.01.20.2007",
+      "name": "Botubolu'o",
+      "postal_code": "96245"
+    },
+    {
+      "id": "75.01.20.2008",
+      "name": "Olimeyala",
+      "postal_code": "96245"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "15.71.09.1001",
+      "name": "Kenali Besar",
+      "postal_code": "36129"
+    },
+    {
+      "id": "15.71.09.1002",
+      "name": "Rawa Sari",
+      "postal_code": "36125"
+    },
+    {
+      "id": "15.71.09.1003",
+      "name": "Mayang Mangurai",
+      "postal_code": "36129"
+    },
+    {
+      "id": "15.71.09.1004",
+      "name": "Bagan Pete",
+      "postal_code": "36129"
+    },
+    {
+      "id": "15.71.09.1005",
+      "name": "Beliung",
+      "postal_code": "36129"
+    },
+    {
+      "id": "15.71.09.1006",
+      "name": "Simpang Rimbo",
+      "postal_code": "36129"
+    },
+    {
+      "id": "15.71.09.1007",
+      "name": "Pinang Merah",
+      "postal_code": "36129"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

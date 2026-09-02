@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "82.03.14.2001",
+      "name": "Soatobaru",
+      "postal_code": "97761"
+    },
+    {
+      "id": "82.03.14.2002",
+      "name": "Dokulamo",
+      "postal_code": "97761"
+    },
+    {
+      "id": "82.03.14.2003",
+      "name": "Duma",
+      "postal_code": "97761"
+    },
+    {
+      "id": "82.03.14.2004",
+      "name": "Gotalamo",
+      "postal_code": "97761"
+    },
+    {
+      "id": "82.03.14.2005",
+      "name": "Makete",
+      "postal_code": "97761"
+    },
+    {
+      "id": "82.03.14.2006",
+      "name": "Ngidiho",
+      "postal_code": "97761"
+    },
+    {
+      "id": "82.03.14.2007",
+      "name": "Roko",
+      "postal_code": "97761"
+    },
+    {
+      "id": "82.03.14.2008",
+      "name": "Samuda",
+      "postal_code": "97761"
+    },
+    {
+      "id": "82.03.14.2009",
+      "name": "Kira",
+      "postal_code": "97761"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

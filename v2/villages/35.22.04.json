@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "35.22.04.2001",
+      "name": "Butoh",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2002",
+      "name": "Trenggulunan",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2003",
+      "name": "Setren",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2004",
+      "name": "Mediyunan",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2005",
+      "name": "Kolong",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2006",
+      "name": "Sendangharjo",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2007",
+      "name": "Ngadiluwih",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2008",
+      "name": "Ngasem",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2009",
+      "name": "Bandungrejo",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2010",
+      "name": "Tengger",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2011",
+      "name": "Ngantru",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2012",
+      "name": "Sambong",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2013",
+      "name": "Dukohkidul",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2014",
+      "name": "Wadang",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2015",
+      "name": "Jampet",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2016",
+      "name": "Bareng",
+      "postal_code": "62154"
+    },
+    {
+      "id": "35.22.04.2017",
+      "name": "Jelu",
+      "postal_code": "62154"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "53.20.04.2001",
+      "name": "Raerobo",
+      "postal_code": "85396"
+    },
+    {
+      "id": "53.20.04.2002",
+      "name": "Mehona",
+      "postal_code": "85396"
+    },
+    {
+      "id": "53.20.04.2003",
+      "name": "Waduwalla",
+      "postal_code": "85396"
+    },
+    {
+      "id": "53.20.04.2004",
+      "name": "Ledeke",
+      "postal_code": "85396"
+    },
+    {
+      "id": "53.20.04.2005",
+      "name": "Eilogo",
+      "postal_code": "85396"
+    },
+    {
+      "id": "53.20.04.2006",
+      "name": "Deme",
+      "postal_code": "85396"
+    },
+    {
+      "id": "53.20.04.2007",
+      "name": "Kotahawu",
+      "postal_code": "85396"
+    },
+    {
+      "id": "53.20.04.2008",
+      "name": "Dainao",
+      "postal_code": "85396"
+    },
+    {
+      "id": "53.20.04.2009",
+      "name": "Eikare",
+      "postal_code": "85396"
+    },
+    {
+      "id": "53.20.04.2010",
+      "name": "Loborui",
+      "postal_code": "85396"
+    },
+    {
+      "id": "53.20.04.2011",
+      "name": "Halla Paji",
+      "postal_code": "85396"
+    },
+    {
+      "id": "53.20.04.2012",
+      "name": "Ledetalo",
+      "postal_code": "85396"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

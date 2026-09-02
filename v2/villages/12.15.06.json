@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "12.15.06.2001",
+      "name": "Sibagindar",
+      "postal_code": "22270"
+    },
+    {
+      "id": "12.15.06.2002",
+      "name": "Napatalun Perlambuken",
+      "postal_code": "22270"
+    },
+    {
+      "id": "12.15.06.2003",
+      "name": "Lae Mbentar",
+      "postal_code": "22270"
+    },
+    {
+      "id": "12.15.06.2004",
+      "name": "Pagindar",
+      "postal_code": "22270"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

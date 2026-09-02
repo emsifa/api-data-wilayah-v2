@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.08.13.2001",
+      "name": "Malampah",
+      "postal_code": "26358"
+    },
+    {
+      "id": "13.08.13.2002",
+      "name": "Ladang Panjang",
+      "postal_code": "26358"
+    },
+    {
+      "id": "13.08.13.2003",
+      "name": "Binjai",
+      "postal_code": "26358"
+    },
+    {
+      "id": "13.08.13.2004",
+      "name": "Malampah Barat",
+      "postal_code": "26358"
+    },
+    {
+      "id": "13.08.13.2005",
+      "name": "Ladang Panjang Barat",
+      "postal_code": "26358"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

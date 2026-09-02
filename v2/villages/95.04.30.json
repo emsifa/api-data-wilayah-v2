@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "95.04.30.2001",
+      "name": "Dow/Bijere",
+      "postal_code": "99051"
+    },
+    {
+      "id": "95.04.30.2002",
+      "name": "Takri",
+      "postal_code": "99443"
+    },
+    {
+      "id": "95.04.30.2003",
+      "name": "Prawa",
+      "postal_code": "99443"
+    },
+    {
+      "id": "95.04.30.2004",
+      "name": "Sigou",
+      "postal_code": "99051"
+    },
+    {
+      "id": "95.04.30.2005",
+      "name": "Dagari",
+      "postal_code": "99051"
+    },
+    {
+      "id": "95.04.30.2006",
+      "name": "Warka",
+      "postal_code": "99051"
+    },
+    {
+      "id": "95.04.30.2007",
+      "name": "Pakare",
+      "postal_code": "99051"
+    },
+    {
+      "id": "95.04.30.2008",
+      "name": "Tigu",
+      "postal_code": "99051"
+    },
+    {
+      "id": "95.04.30.2009",
+      "name": "Bire",
+      "postal_code": "99443"
+    },
+    {
+      "id": "95.04.30.2010",
+      "name": "Itoli",
+      "postal_code": "99051"
+    },
+    {
+      "id": "95.04.30.2011",
+      "name": "Vokuyo",
+      "postal_code": "99051"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

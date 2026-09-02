@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.03.09.2001",
+      "name": "Selajambe",
+      "postal_code": "43287"
+    },
+    {
+      "id": "32.03.09.2002",
+      "name": "Sukamulya",
+      "postal_code": "43287"
+    },
+    {
+      "id": "32.03.09.2003",
+      "name": "Panyusuhan",
+      "postal_code": "43287"
+    },
+    {
+      "id": "32.03.09.2004",
+      "name": "Tanjungsari",
+      "postal_code": "43287"
+    },
+    {
+      "id": "32.03.09.2005",
+      "name": "Sindangraja",
+      "postal_code": "43287"
+    },
+    {
+      "id": "32.03.09.2006",
+      "name": "Mekarjaya",
+      "postal_code": "43287"
+    },
+    {
+      "id": "32.03.09.2007",
+      "name": "Sukasirna",
+      "postal_code": "43287"
+    },
+    {
+      "id": "32.03.09.2008",
+      "name": "Sukaluyu",
+      "postal_code": "43287"
+    },
+    {
+      "id": "32.03.09.2009",
+      "name": "Babakansari",
+      "postal_code": "43287"
+    },
+    {
+      "id": "32.03.09.2010",
+      "name": "Hegarmanah",
+      "postal_code": "43287"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

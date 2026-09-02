@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "62.03.15.2001",
+      "name": "Masaha",
+      "postal_code": "73556"
+    },
+    {
+      "id": "62.03.15.2002",
+      "name": "Sei Pinang",
+      "postal_code": "73556"
+    },
+    {
+      "id": "62.03.15.2003",
+      "name": "Lawang Tamang",
+      "postal_code": "73556"
+    },
+    {
+      "id": "62.03.15.2004",
+      "name": "Karetau Manta'a",
+      "postal_code": "73556"
+    },
+    {
+      "id": "62.03.15.2005",
+      "name": "Tumbang Bukoi",
+      "postal_code": "73556"
+    },
+    {
+      "id": "62.03.15.2006",
+      "name": "Tumbang Tihis",
+      "postal_code": "73556"
+    },
+    {
+      "id": "62.03.15.2007",
+      "name": "Tumbang Manyarung",
+      "postal_code": "73556"
+    },
+    {
+      "id": "62.03.15.2008",
+      "name": "Tanjung Rendan",
+      "postal_code": "73556"
+    },
+    {
+      "id": "62.03.15.2009",
+      "name": "Jakatan Masaha",
+      "postal_code": "73556"
+    },
+    {
+      "id": "62.03.15.2010",
+      "name": "Masupa Ria",
+      "postal_code": "73556"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "16.01.30.2001",
+      "name": "Batu Marta I",
+      "postal_code": "32152"
+    },
+    {
+      "id": "16.01.30.2002",
+      "name": "Batu Marta II",
+      "postal_code": "32152"
+    },
+    {
+      "id": "16.01.30.2003",
+      "name": "Lekis Rejo",
+      "postal_code": "32152"
+    },
+    {
+      "id": "16.01.30.2004",
+      "name": "Lubuk Banjar",
+      "postal_code": "32152"
+    },
+    {
+      "id": "16.01.30.2005",
+      "name": "Marta Jaya",
+      "postal_code": "32152"
+    },
+    {
+      "id": "16.01.30.2006",
+      "name": "Batu Raden",
+      "postal_code": "32152"
+    },
+    {
+      "id": "16.01.30.2007",
+      "name": "Battu Winangun",
+      "postal_code": "32152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

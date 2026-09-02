@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "12.75.05.1001",
+      "name": "Tanah Merah",
+      "postal_code": "20725"
+    },
+    {
+      "id": "12.75.05.1002",
+      "name": "Binjai Estate",
+      "postal_code": "20724"
+    },
+    {
+      "id": "12.75.05.1003",
+      "name": "Bhakti Karya",
+      "postal_code": "20728"
+    },
+    {
+      "id": "12.75.05.1004",
+      "name": "Rambung Dalam",
+      "postal_code": "20722"
+    },
+    {
+      "id": "12.75.05.1005",
+      "name": "Pujidadi",
+      "postal_code": "20727"
+    },
+    {
+      "id": "12.75.05.1006",
+      "name": "Tanah Seribu",
+      "postal_code": "20726"
+    },
+    {
+      "id": "12.75.05.1007",
+      "name": "Rambung Barat",
+      "postal_code": "20723"
+    },
+    {
+      "id": "12.75.05.1008",
+      "name": "Rambung Timur",
+      "postal_code": "20721"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

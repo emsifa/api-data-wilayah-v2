@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "35.78.22.1001",
+      "name": "Gayungan",
+      "postal_code": "60235"
+    },
+    {
+      "id": "35.78.22.1002",
+      "name": "Menanggal",
+      "postal_code": "60234"
+    },
+    {
+      "id": "35.78.22.1003",
+      "name": "Dukuh Menanggal",
+      "postal_code": "60234"
+    },
+    {
+      "id": "35.78.22.1004",
+      "name": "Ketintang",
+      "postal_code": "60231"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

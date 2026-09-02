@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.12.25.2001",
+      "name": "Bantarwaru",
+      "postal_code": "45264"
+    },
+    {
+      "id": "32.12.25.2002",
+      "name": "Sanca",
+      "postal_code": "45264"
+    },
+    {
+      "id": "32.12.25.2003",
+      "name": "Mekarjaya",
+      "postal_code": "45264"
+    },
+    {
+      "id": "32.12.25.2004",
+      "name": "Gantar",
+      "postal_code": "45264"
+    },
+    {
+      "id": "32.12.25.2005",
+      "name": "Situraja",
+      "postal_code": "45264"
+    },
+    {
+      "id": "32.12.25.2006",
+      "name": "Balareja",
+      "postal_code": "45264"
+    },
+    {
+      "id": "32.12.25.2007",
+      "name": "Mekarwaru",
+      "postal_code": "45264"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

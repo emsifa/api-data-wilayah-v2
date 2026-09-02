@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "51.06.03.2001",
+      "name": "Jehem",
+      "postal_code": "80671"
+    },
+    {
+      "id": "51.06.03.2002",
+      "name": "Tembuku",
+      "postal_code": "80671"
+    },
+    {
+      "id": "51.06.03.2003",
+      "name": "Yangapi",
+      "postal_code": "80671"
+    },
+    {
+      "id": "51.06.03.2004",
+      "name": "Undisan",
+      "postal_code": "80671"
+    },
+    {
+      "id": "51.06.03.2005",
+      "name": "Bangbang",
+      "postal_code": "80671"
+    },
+    {
+      "id": "51.06.03.2006",
+      "name": "Peninjoan",
+      "postal_code": "80671"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

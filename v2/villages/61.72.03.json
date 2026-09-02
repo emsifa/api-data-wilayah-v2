@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "61.72.03.1001",
+      "name": "Pajintan",
+      "postal_code": "79251"
+    },
+    {
+      "id": "61.72.03.1002",
+      "name": "Nyarumkop",
+      "postal_code": "79251"
+    },
+    {
+      "id": "61.72.03.1003",
+      "name": "Maya Sopa",
+      "postal_code": "79251"
+    },
+    {
+      "id": "61.72.03.1004",
+      "name": "Bagak Sahwa",
+      "postal_code": "79251"
+    },
+    {
+      "id": "61.72.03.1005",
+      "name": "Sanggau Kulor",
+      "postal_code": "79251"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

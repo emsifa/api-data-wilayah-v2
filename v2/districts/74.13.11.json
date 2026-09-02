@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "74.13.11",
+    "name": "Napano Kusambi",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.13",
+      "name": "Kabupaten Muna Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

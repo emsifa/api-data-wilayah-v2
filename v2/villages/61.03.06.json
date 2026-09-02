@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "61.03.06.2001",
+      "name": "Kasro Mego",
+      "postal_code": "78555"
+    },
+    {
+      "id": "61.03.06.2002",
+      "name": "Bereng Berkawat",
+      "postal_code": "78555"
+    },
+    {
+      "id": "61.03.06.2003",
+      "name": "Sungai Ilai",
+      "postal_code": "78555"
+    },
+    {
+      "id": "61.03.06.2004",
+      "name": "Thang Raya",
+      "postal_code": "78555"
+    },
+    {
+      "id": "61.03.06.2005",
+      "name": "Mawang Muda",
+      "postal_code": "78555"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

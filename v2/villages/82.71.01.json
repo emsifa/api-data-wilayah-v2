@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "82.71.01.1001",
+      "name": "Jambula",
+      "postal_code": "97747"
+    },
+    {
+      "id": "82.71.01.1002",
+      "name": "Foramadiahi",
+      "postal_code": "97747"
+    },
+    {
+      "id": "82.71.01.1003",
+      "name": "Kastela",
+      "postal_code": "97747"
+    },
+    {
+      "id": "82.71.01.1004",
+      "name": "Rua",
+      "postal_code": "97747"
+    },
+    {
+      "id": "82.71.01.1005",
+      "name": "Afe Taduma",
+      "postal_code": "97747"
+    },
+    {
+      "id": "82.71.01.1019",
+      "name": "Dorpedu",
+      "postal_code": "97747"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

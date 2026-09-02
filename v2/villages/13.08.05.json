@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "13.08.05.2001",
+      "name": "Tanjuang Baringin",
+      "postal_code": "26318"
+    },
+    {
+      "id": "13.08.05.2002",
+      "name": "Jambak",
+      "postal_code": "26318"
+    },
+    {
+      "id": "13.08.05.2003",
+      "name": "Durian Tinggi",
+      "postal_code": "26318"
+    },
+    {
+      "id": "13.08.05.2004",
+      "name": "Pauah",
+      "postal_code": "26318"
+    },
+    {
+      "id": "13.08.05.2005",
+      "name": "Aia Manggih",
+      "postal_code": "26318"
+    },
+    {
+      "id": "13.08.05.2006",
+      "name": "Sundata",
+      "postal_code": "26318"
+    },
+    {
+      "id": "13.08.05.2007",
+      "name": "Tanjuang Baringin Utara",
+      "postal_code": "26318"
+    },
+    {
+      "id": "13.08.05.2008",
+      "name": "Tanjuang Baringin Selatan",
+      "postal_code": "26318"
+    },
+    {
+      "id": "13.08.05.2009",
+      "name": "Aia Manggih Utara",
+      "postal_code": "26318"
+    },
+    {
+      "id": "13.08.05.2010",
+      "name": "Aia Manggih Selatan",
+      "postal_code": "26318"
+    },
+    {
+      "id": "13.08.05.2011",
+      "name": "Aia Manggih Barat",
+      "postal_code": "26318"
+    },
+    {
+      "id": "13.08.05.2012",
+      "name": "Sundata Utara",
+      "postal_code": "26318"
+    },
+    {
+      "id": "13.08.05.2013",
+      "name": "Sundata Selatan",
+      "postal_code": "26318"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

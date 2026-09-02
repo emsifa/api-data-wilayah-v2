@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "14.04.17.2001",
+      "name": "Pulauburung",
+      "postal_code": "29256"
+    },
+    {
+      "id": "14.04.17.2002",
+      "name": "Teluknibung",
+      "postal_code": "29256"
+    },
+    {
+      "id": "14.04.17.2003",
+      "name": "Sungaidanai",
+      "postal_code": "29256"
+    },
+    {
+      "id": "14.04.17.2004",
+      "name": "Mayang Sari Jaya",
+      "postal_code": "29256"
+    },
+    {
+      "id": "14.04.17.2005",
+      "name": "Bukit Sari Intan Jaya",
+      "postal_code": "29256"
+    },
+    {
+      "id": "14.04.17.2006",
+      "name": "Manunggal Jaya",
+      "postal_code": "29256"
+    },
+    {
+      "id": "14.04.17.2007",
+      "name": "Bangun Harjo Jaya",
+      "postal_code": "29256"
+    },
+    {
+      "id": "14.04.17.2008",
+      "name": "Ringin Jaya",
+      "postal_code": "29256"
+    },
+    {
+      "id": "14.04.17.2009",
+      "name": "Sri Damai",
+      "postal_code": "29256"
+    },
+    {
+      "id": "14.04.17.2010",
+      "name": "Sapta Jaya",
+      "postal_code": "29256"
+    },
+    {
+      "id": "14.04.17.2011",
+      "name": "Keramat Jaya",
+      "postal_code": "29256"
+    },
+    {
+      "id": "14.04.17.2012",
+      "name": "Binagun Jaya",
+      "postal_code": "29256"
+    },
+    {
+      "id": "14.04.17.2013",
+      "name": "Suka Jaya",
+      "postal_code": "29256"
+    },
+    {
+      "id": "14.04.17.2014",
+      "name": "Sukaharjo Jaya",
+      "postal_code": "29256"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

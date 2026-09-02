@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "71.05.07.2001",
+      "name": "Motoling",
+      "postal_code": "95941"
+    },
+    {
+      "id": "71.05.07.2002",
+      "name": "Motoling Mawale",
+      "postal_code": "95941"
+    },
+    {
+      "id": "71.05.07.2003",
+      "name": "Motoling I",
+      "postal_code": "95941"
+    },
+    {
+      "id": "71.05.07.2004",
+      "name": "Motoling II",
+      "postal_code": "95941"
+    },
+    {
+      "id": "71.05.07.2005",
+      "name": "Picuan Baru",
+      "postal_code": "95941"
+    },
+    {
+      "id": "71.05.07.2015",
+      "name": "Lalumpe",
+      "postal_code": "95941"
+    },
+    {
+      "id": "71.05.07.2021",
+      "name": "Raanan Lama",
+      "postal_code": "95941"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

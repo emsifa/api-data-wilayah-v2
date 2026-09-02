@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "52.07.08.2001",
+      "name": "Maluk",
+      "postal_code": "84459"
+    },
+    {
+      "id": "52.07.08.2002",
+      "name": "Benete",
+      "postal_code": "84459"
+    },
+    {
+      "id": "52.07.08.2003",
+      "name": "Bukit Damai",
+      "postal_code": "84459"
+    },
+    {
+      "id": "52.07.08.2004",
+      "name": "Mantun",
+      "postal_code": "84459"
+    },
+    {
+      "id": "52.07.08.2005",
+      "name": "Pasir Putih",
+      "postal_code": "84459"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

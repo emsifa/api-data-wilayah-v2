@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "11.72.01.2004",
+      "name": "Krueng Raya",
+      "postal_code": "23515"
+    },
+    {
+      "id": "11.72.01.2005",
+      "name": "Aneuk Laot",
+      "postal_code": "23514"
+    },
+    {
+      "id": "11.72.01.2006",
+      "name": "Kuta Timu",
+      "postal_code": "23513"
+    },
+    {
+      "id": "11.72.01.2007",
+      "name": "Kuta Barat",
+      "postal_code": "23512"
+    },
+    {
+      "id": "11.72.01.2008",
+      "name": "Kuta Ateuh",
+      "postal_code": "23511"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

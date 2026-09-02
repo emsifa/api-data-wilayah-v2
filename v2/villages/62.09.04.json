@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "62.09.04.2001",
+      "name": "Nanga Palikodan",
+      "postal_code": "74163"
+    },
+    {
+      "id": "62.09.04.2002",
+      "name": "Sungkup",
+      "postal_code": "74163"
+    },
+    {
+      "id": "62.09.04.2003",
+      "name": "Nuangan",
+      "postal_code": "74163"
+    },
+    {
+      "id": "62.09.04.2004",
+      "name": "Nanga Koring",
+      "postal_code": "74163"
+    },
+    {
+      "id": "62.09.04.2005",
+      "name": "Toka",
+      "postal_code": "74163"
+    },
+    {
+      "id": "62.09.04.2006",
+      "name": "Sepondam",
+      "postal_code": "74163"
+    },
+    {
+      "id": "62.09.04.2007",
+      "name": "Merambang",
+      "postal_code": "74163"
+    },
+    {
+      "id": "62.09.04.2008",
+      "name": "Pedongatan",
+      "postal_code": "74163"
+    },
+    {
+      "id": "62.09.04.2009",
+      "name": "Batu Tunggal",
+      "postal_code": "74163"
+    },
+    {
+      "id": "62.09.04.2010",
+      "name": "Nanga Kemujan",
+      "postal_code": "74163"
+    },
+    {
+      "id": "62.09.04.2011",
+      "name": "Bukit Jaya",
+      "postal_code": "74163"
+    },
+    {
+      "id": "62.09.04.2012",
+      "name": "Suka Maju",
+      "postal_code": "74163"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

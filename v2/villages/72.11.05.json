@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "72.11.05.2001",
+      "name": "Lalong",
+      "postal_code": "94893"
+    },
+    {
+      "id": "72.11.05.2002",
+      "name": "Lipulalongo",
+      "postal_code": "94893"
+    },
+    {
+      "id": "72.11.05.2003",
+      "name": "Paisulamo",
+      "postal_code": "94893"
+    },
+    {
+      "id": "72.11.05.2004",
+      "name": "Alasan",
+      "postal_code": "94893"
+    },
+    {
+      "id": "72.11.05.2005",
+      "name": "Mansalean",
+      "postal_code": "94893"
+    },
+    {
+      "id": "72.11.05.2006",
+      "name": "Bontosi",
+      "postal_code": "94893"
+    },
+    {
+      "id": "72.11.05.2007",
+      "name": "Lipu Talas",
+      "postal_code": "94893"
+    },
+    {
+      "id": "72.11.05.2008",
+      "name": "Padingkian",
+      "postal_code": "94893"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

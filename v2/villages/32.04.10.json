@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.04.10.2001",
+      "name": "Margaasih",
+      "postal_code": "40215"
+    },
+    {
+      "id": "32.04.10.2002",
+      "name": "Lagadar",
+      "postal_code": "40216"
+    },
+    {
+      "id": "32.04.10.2003",
+      "name": "Nanjung",
+      "postal_code": "40217"
+    },
+    {
+      "id": "32.04.10.2004",
+      "name": "Mekarrahayu",
+      "postal_code": "40218"
+    },
+    {
+      "id": "32.04.10.2005",
+      "name": "Rahayu",
+      "postal_code": "40218"
+    },
+    {
+      "id": "32.04.10.2006",
+      "name": "Cigondewah Hilir",
+      "postal_code": "40214"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

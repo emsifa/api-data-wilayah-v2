@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.73.19.1001",
+      "name": "Braga",
+      "postal_code": "40111"
+    },
+    {
+      "id": "32.73.19.1002",
+      "name": "Merdeka",
+      "postal_code": "40113"
+    },
+    {
+      "id": "32.73.19.1003",
+      "name": "Kebon Pisang",
+      "postal_code": "40112"
+    },
+    {
+      "id": "32.73.19.1004",
+      "name": "Babakan Ciamis",
+      "postal_code": "40117"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

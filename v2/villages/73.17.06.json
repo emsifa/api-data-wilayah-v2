@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "73.17.06.1006",
+      "name": "Bulo",
+      "postal_code": "91950"
+    },
+    {
+      "id": "73.17.06.2001",
+      "name": "Tombang",
+      "postal_code": "91950"
+    },
+    {
+      "id": "73.17.06.2005",
+      "name": "Lalong",
+      "postal_code": "91950"
+    },
+    {
+      "id": "73.17.06.2008",
+      "name": "Harapan",
+      "postal_code": "91950"
+    },
+    {
+      "id": "73.17.06.2011",
+      "name": "Barammamase",
+      "postal_code": "91950"
+    },
+    {
+      "id": "73.17.06.2012",
+      "name": "Walenrang",
+      "postal_code": "91950"
+    },
+    {
+      "id": "73.17.06.2015",
+      "name": "Saragi",
+      "postal_code": "91950"
+    },
+    {
+      "id": "73.17.06.2021",
+      "name": "Batusitanduk",
+      "postal_code": "91950"
+    },
+    {
+      "id": "73.17.06.2022",
+      "name": "Kalibamamase",
+      "postal_code": "91950"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

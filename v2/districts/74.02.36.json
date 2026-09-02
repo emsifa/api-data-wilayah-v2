@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "74.02.36",
+    "name": "Lalonggasumeeto",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.02",
+      "name": "Kabupaten Konawe"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

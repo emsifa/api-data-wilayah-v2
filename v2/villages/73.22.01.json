@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "73.22.01.2001",
+      "name": "Pattimang",
+      "postal_code": "92953"
+    },
+    {
+      "id": "73.22.01.2002",
+      "name": "Malangke",
+      "postal_code": "92953"
+    },
+    {
+      "id": "73.22.01.2003",
+      "name": "Benteng",
+      "postal_code": "92953"
+    },
+    {
+      "id": "73.22.01.2004",
+      "name": "Tolada",
+      "postal_code": "92953"
+    },
+    {
+      "id": "73.22.01.2005",
+      "name": "Salekoe",
+      "postal_code": "92953"
+    },
+    {
+      "id": "73.22.01.2006",
+      "name": "Pute Mata",
+      "postal_code": "92953"
+    },
+    {
+      "id": "73.22.01.2007",
+      "name": "Tingkara",
+      "postal_code": "92953"
+    },
+    {
+      "id": "73.22.01.2008",
+      "name": "Ladongi",
+      "postal_code": "92953"
+    },
+    {
+      "id": "73.22.01.2009",
+      "name": "Giri Kusuma",
+      "postal_code": "92953"
+    },
+    {
+      "id": "73.22.01.2010",
+      "name": "Tandung",
+      "postal_code": "92953"
+    },
+    {
+      "id": "73.22.01.2011",
+      "name": "Takkalala",
+      "postal_code": "92953"
+    },
+    {
+      "id": "73.22.01.2012",
+      "name": "Pettalandung",
+      "postal_code": "92953"
+    },
+    {
+      "id": "73.22.01.2013",
+      "name": "Tokke",
+      "postal_code": "92953"
+    },
+    {
+      "id": "73.22.01.2014",
+      "name": "Pince Pute",
+      "postal_code": "92953"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

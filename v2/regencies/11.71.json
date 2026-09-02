@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "11.71",
+    "name": "Kota Banda Aceh",
+    "capital": "Banda Aceh",
+    "lat": 5.550049859538454,
+    "lng": 95.31782669652819,
+    "elv": 11,
+    "tz": 7,
+    "population": 265310,
+    "total_area": 56.835,
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

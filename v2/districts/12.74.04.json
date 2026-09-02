@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "12.74.04",
+    "name": "Teluk Nibung",
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    },
+    "regency": {
+      "id": "12.74",
+      "name": "Kota Tanjungbalai"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

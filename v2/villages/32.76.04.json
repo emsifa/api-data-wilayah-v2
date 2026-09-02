@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.76.04.1001",
+      "name": "Meruyung",
+      "postal_code": "16515"
+    },
+    {
+      "id": "32.76.04.1002",
+      "name": "Grogol",
+      "postal_code": "16512"
+    },
+    {
+      "id": "32.76.04.1003",
+      "name": "Krukut",
+      "postal_code": "16512"
+    },
+    {
+      "id": "32.76.04.1004",
+      "name": "Limo",
+      "postal_code": "16515"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

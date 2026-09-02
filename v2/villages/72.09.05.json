@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "72.09.05.1002",
+      "name": "Malotong",
+      "postal_code": "94683"
+    },
+    {
+      "id": "72.09.05.1003",
+      "name": "Bailo",
+      "postal_code": "94683"
+    },
+    {
+      "id": "72.09.05.1004",
+      "name": "Ampana",
+      "postal_code": "94683"
+    },
+    {
+      "id": "72.09.05.1012",
+      "name": "Bone Rato",
+      "postal_code": "94683"
+    },
+    {
+      "id": "72.09.05.1013",
+      "name": "Bailo Baru",
+      "postal_code": "94683"
+    },
+    {
+      "id": "72.09.05.1014",
+      "name": "Labiabae",
+      "postal_code": "94683"
+    },
+    {
+      "id": "72.09.05.2001",
+      "name": "Sansarino",
+      "postal_code": "94683"
+    },
+    {
+      "id": "72.09.05.2011",
+      "name": "Padang Tumbuo",
+      "postal_code": "94683"
+    },
+    {
+      "id": "72.09.05.2018",
+      "name": "Saluaba",
+      "postal_code": "94683"
+    },
+    {
+      "id": "72.09.05.2019",
+      "name": "Buntongi",
+      "postal_code": "94683"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

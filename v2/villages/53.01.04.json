@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "53.01.04.2003",
+      "name": "Bokonusan",
+      "postal_code": "85352"
+    },
+    {
+      "id": "53.01.04.2004",
+      "name": "Otan",
+      "postal_code": "85352"
+    },
+    {
+      "id": "53.01.04.2005",
+      "name": "Uitao",
+      "postal_code": "85352"
+    },
+    {
+      "id": "53.01.04.2006",
+      "name": "Uiasa",
+      "postal_code": "85352"
+    },
+    {
+      "id": "53.01.04.2008",
+      "name": "Hansisi",
+      "postal_code": "85352"
+    },
+    {
+      "id": "53.01.04.2009",
+      "name": "Huilelot",
+      "postal_code": "85352"
+    },
+    {
+      "id": "53.01.04.2011",
+      "name": "Batuinan",
+      "postal_code": "85352"
+    },
+    {
+      "id": "53.01.04.2013",
+      "name": "Letbaun",
+      "postal_code": "85352"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

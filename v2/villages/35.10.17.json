@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.10.17.1002",
+      "name": "Boyolangu",
+      "postal_code": "68424"
+    },
+    {
+      "id": "35.10.17.1003",
+      "name": "Mojopanggung",
+      "postal_code": "68425"
+    },
+    {
+      "id": "35.10.17.1004",
+      "name": "Penataban",
+      "postal_code": "68422"
+    },
+    {
+      "id": "35.10.17.1005",
+      "name": "Giri",
+      "postal_code": "68423"
+    },
+    {
+      "id": "35.10.17.2001",
+      "name": "Jambesari",
+      "postal_code": "68425"
+    },
+    {
+      "id": "35.10.17.2006",
+      "name": "Grogol",
+      "postal_code": "68425"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

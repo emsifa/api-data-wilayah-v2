@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "16.73.05.1001",
+      "name": "Jawa Kanan",
+      "postal_code": "31621"
+    },
+    {
+      "id": "16.73.05.1002",
+      "name": "Jawa Kanan SS",
+      "postal_code": "31621"
+    },
+    {
+      "id": "16.73.05.1003",
+      "name": "Wira Karya",
+      "postal_code": "31623"
+    },
+    {
+      "id": "16.73.05.1004",
+      "name": "Dempo",
+      "postal_code": "31623"
+    },
+    {
+      "id": "16.73.05.1005",
+      "name": "Jawa Kiri",
+      "postal_code": "31622"
+    },
+    {
+      "id": "16.73.05.1006",
+      "name": "Karya Bakti",
+      "postal_code": "31623"
+    },
+    {
+      "id": "16.73.05.1007",
+      "name": "Mesat Jaya",
+      "postal_code": "31624"
+    },
+    {
+      "id": "16.73.05.1008",
+      "name": "Mesat Seni",
+      "postal_code": "31623"
+    },
+    {
+      "id": "16.73.05.1009",
+      "name": "Cereme Taba",
+      "postal_code": "31623"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "14.06.10.2001",
+      "name": "Pasir Agung",
+      "postal_code": "28557"
+    },
+    {
+      "id": "14.06.10.2002",
+      "name": "Pasir Intan",
+      "postal_code": "28557"
+    },
+    {
+      "id": "14.06.10.2003",
+      "name": "Rambah Jaya",
+      "postal_code": "28557"
+    },
+    {
+      "id": "14.06.10.2004",
+      "name": "Bangun Purba",
+      "postal_code": "28557"
+    },
+    {
+      "id": "14.06.10.2005",
+      "name": "Bangun Purba Timur Jaya",
+      "postal_code": "28557"
+    },
+    {
+      "id": "14.06.10.2006",
+      "name": "Bangun Purba Barat",
+      "postal_code": "28557"
+    },
+    {
+      "id": "14.06.10.2007",
+      "name": "Tangun",
+      "postal_code": "28557"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

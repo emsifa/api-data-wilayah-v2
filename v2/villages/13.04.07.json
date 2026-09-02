@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.04.07.2001",
+      "name": "Sungai Patai",
+      "postal_code": "27294"
+    },
+    {
+      "id": "13.04.07.2002",
+      "name": "Andaleh Baruh Bukik",
+      "postal_code": "27294"
+    },
+    {
+      "id": "13.04.07.2003",
+      "name": "Tanjung",
+      "postal_code": "27294"
+    },
+    {
+      "id": "13.04.07.2004",
+      "name": "Sungayang",
+      "postal_code": "27294"
+    },
+    {
+      "id": "13.04.07.2005",
+      "name": "Minang Kabau",
+      "postal_code": "27294"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "73.04.03.1001",
+      "name": "Pabiringa",
+      "postal_code": "92316"
+    },
+    {
+      "id": "73.04.03.1002",
+      "name": "Balang",
+      "postal_code": "92315"
+    },
+    {
+      "id": "73.04.03.1003",
+      "name": "Empoang",
+      "postal_code": "92311"
+    },
+    {
+      "id": "73.04.03.1004",
+      "name": "Balang Toa",
+      "postal_code": "92311"
+    },
+    {
+      "id": "73.04.03.1005",
+      "name": "Balang Beru",
+      "postal_code": "92316"
+    },
+    {
+      "id": "73.04.03.1006",
+      "name": "Empoang Selatan",
+      "postal_code": "92311"
+    },
+    {
+      "id": "73.04.03.1007",
+      "name": "Sidenre",
+      "postal_code": "92311"
+    },
+    {
+      "id": "73.04.03.1008",
+      "name": "Empoang Utara",
+      "postal_code": "92316"
+    },
+    {
+      "id": "73.04.03.1009",
+      "name": "Monro Monro",
+      "postal_code": "92316"
+    },
+    {
+      "id": "73.04.03.1010",
+      "name": "Biring Kassi",
+      "postal_code": "92311"
+    },
+    {
+      "id": "73.04.03.1011",
+      "name": "Panaikang",
+      "postal_code": "92311"
+    },
+    {
+      "id": "73.04.03.1012",
+      "name": "Bontoa",
+      "postal_code": "92316"
+    },
+    {
+      "id": "73.04.03.2013",
+      "name": "Sapanang",
+      "postal_code": "92314"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

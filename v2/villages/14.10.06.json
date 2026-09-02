@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "14.10.06.2001",
+      "name": "Kuala Merbau",
+      "postal_code": "28750"
+    },
+    {
+      "id": "14.10.06.2002",
+      "name": "Renak Dungun",
+      "postal_code": "28750"
+    },
+    {
+      "id": "14.10.06.2003",
+      "name": "Baran Melintang",
+      "postal_code": "28750"
+    },
+    {
+      "id": "14.10.06.2004",
+      "name": "Teluk Ketapang",
+      "postal_code": "28750"
+    },
+    {
+      "id": "14.10.06.2005",
+      "name": "Semukut",
+      "postal_code": "28750"
+    },
+    {
+      "id": "14.10.06.2006",
+      "name": "Centai",
+      "postal_code": "28750"
+    },
+    {
+      "id": "14.10.06.2007",
+      "name": "Tanjungbunga",
+      "postal_code": "28750"
+    },
+    {
+      "id": "14.10.06.2008",
+      "name": "Batang Meranti",
+      "postal_code": "28750"
+    },
+    {
+      "id": "14.10.06.2009",
+      "name": "Pangkalan Balai",
+      "postal_code": "28750"
+    },
+    {
+      "id": "14.10.06.2010",
+      "name": "Padang Kamal",
+      "postal_code": "28750"
+    },
+    {
+      "id": "14.10.06.2011",
+      "name": "Ketapang Permai",
+      "postal_code": "28750"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

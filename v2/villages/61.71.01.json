@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "61.71.01.1002",
+      "name": "Benuamelayu Laut",
+      "postal_code": "78123"
+    },
+    {
+      "id": "61.71.01.1003",
+      "name": "Benuamelayu Darat",
+      "postal_code": "78122"
+    },
+    {
+      "id": "61.71.01.1004",
+      "name": "Parittokaya",
+      "postal_code": "78121"
+    },
+    {
+      "id": "61.71.01.1005",
+      "name": "Kotabaru",
+      "postal_code": "78121"
+    },
+    {
+      "id": "61.71.01.1006",
+      "name": "Akcaya",
+      "postal_code": "78121"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

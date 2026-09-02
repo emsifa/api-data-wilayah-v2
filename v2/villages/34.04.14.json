@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "34.04.14.2001",
+      "name": "Banyurejo",
+      "postal_code": "55552"
+    },
+    {
+      "id": "34.04.14.2002",
+      "name": "Tambakrejo",
+      "postal_code": "55552"
+    },
+    {
+      "id": "34.04.14.2003",
+      "name": "Sumberrejo",
+      "postal_code": "55552"
+    },
+    {
+      "id": "34.04.14.2004",
+      "name": "Pondokrejo",
+      "postal_code": "55552"
+    },
+    {
+      "id": "34.04.14.2005",
+      "name": "Mororejo",
+      "postal_code": "55552"
+    },
+    {
+      "id": "34.04.14.2006",
+      "name": "Margorejo",
+      "postal_code": "55552"
+    },
+    {
+      "id": "34.04.14.2007",
+      "name": "Lumbungrejo",
+      "postal_code": "55552"
+    },
+    {
+      "id": "34.04.14.2008",
+      "name": "Merdikorejo",
+      "postal_code": "55552"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

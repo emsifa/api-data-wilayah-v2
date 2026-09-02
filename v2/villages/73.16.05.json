@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.16.05.1001",
+      "name": "Kambiolangi",
+      "postal_code": "91754"
+    },
+    {
+      "id": "73.16.05.1002",
+      "name": "Kalosi",
+      "postal_code": "91754"
+    },
+    {
+      "id": "73.16.05.1003",
+      "name": "Buntu Sugi",
+      "postal_code": "91754"
+    },
+    {
+      "id": "73.16.05.2004",
+      "name": "Mata Allo",
+      "postal_code": "91754"
+    },
+    {
+      "id": "73.16.05.2010",
+      "name": "Sumillan",
+      "postal_code": "91754"
+    },
+    {
+      "id": "73.16.05.2011",
+      "name": "Pana",
+      "postal_code": "91754"
+    },
+    {
+      "id": "73.16.05.2017",
+      "name": "Taulo",
+      "postal_code": "91754"
+    },
+    {
+      "id": "73.16.05.2018",
+      "name": "Bolang",
+      "postal_code": "91754"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "82.04.11.2001",
+      "name": "Bokimiake",
+      "postal_code": "97781"
+    },
+    {
+      "id": "82.04.11.2002",
+      "name": "Hatejawa",
+      "postal_code": "97781"
+    },
+    {
+      "id": "82.04.11.2003",
+      "name": "Busua",
+      "postal_code": "97781"
+    },
+    {
+      "id": "82.04.11.2004",
+      "name": "Fofao",
+      "postal_code": "97781"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

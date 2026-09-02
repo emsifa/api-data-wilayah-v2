@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "61.07.02.2001",
+      "name": "Samalantan",
+      "postal_code": "79280"
+    },
+    {
+      "id": "61.07.02.2002",
+      "name": "Saba'u",
+      "postal_code": "79280"
+    },
+    {
+      "id": "61.07.02.2003",
+      "name": "Tumiang",
+      "postal_code": "79280"
+    },
+    {
+      "id": "61.07.02.2004",
+      "name": "Babane",
+      "postal_code": "79280"
+    },
+    {
+      "id": "61.07.02.2005",
+      "name": "Pasti Jaya",
+      "postal_code": "79280"
+    },
+    {
+      "id": "61.07.02.2006",
+      "name": "Bukit Serayan",
+      "postal_code": "79280"
+    },
+    {
+      "id": "61.07.02.2007",
+      "name": "Marunsu",
+      "postal_code": "79280"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

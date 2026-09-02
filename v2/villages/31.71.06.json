@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "31.71.06.1001",
+      "name": "Menteng",
+      "postal_code": "10310"
+    },
+    {
+      "id": "31.71.06.1002",
+      "name": "Pegangsaan",
+      "postal_code": "10320"
+    },
+    {
+      "id": "31.71.06.1003",
+      "name": "Cikini",
+      "postal_code": "10330"
+    },
+    {
+      "id": "31.71.06.1004",
+      "name": "Gondangdia",
+      "postal_code": "10350"
+    },
+    {
+      "id": "31.71.06.1005",
+      "name": "Kebon Sirih",
+      "postal_code": "10340"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.04.23.2001",
+      "name": "Dundu",
+      "postal_code": "99052"
+    },
+    {
+      "id": "95.04.23.2002",
+      "name": "Nugini",
+      "postal_code": "99052"
+    },
+    {
+      "id": "95.04.23.2003",
+      "name": "Kembu",
+      "postal_code": "99052"
+    },
+    {
+      "id": "95.04.23.2004",
+      "name": "Kurupu",
+      "postal_code": "99435"
+    },
+    {
+      "id": "95.04.23.2005",
+      "name": "Yiku",
+      "postal_code": "99052"
+    },
+    {
+      "id": "95.04.23.2006",
+      "name": "Bimo",
+      "postal_code": "99435"
+    },
+    {
+      "id": "95.04.23.2007",
+      "name": "Dugunagep",
+      "postal_code": "99435"
+    },
+    {
+      "id": "95.04.23.2008",
+      "name": "Nilogabu",
+      "postal_code": "99052"
+    },
+    {
+      "id": "95.04.23.2009",
+      "name": "Nakwi",
+      "postal_code": "99052"
+    },
+    {
+      "id": "95.04.23.2010",
+      "name": "Nini",
+      "postal_code": "99052"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

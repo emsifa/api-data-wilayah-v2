@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "11.01.15.2001",
+      "name": "Pasie Seubadeh",
+      "postal_code": "23777"
+    },
+    {
+      "id": "11.01.15.2002",
+      "name": "Ladang Rimba",
+      "postal_code": "23777"
+    },
+    {
+      "id": "11.01.15.2003",
+      "name": "Ujong Pulo Rayeuk",
+      "postal_code": "23777"
+    },
+    {
+      "id": "11.01.15.2004",
+      "name": "Sawah Tingkeum",
+      "postal_code": "23777"
+    },
+    {
+      "id": "11.01.15.2005",
+      "name": "Simpang",
+      "postal_code": "23777"
+    },
+    {
+      "id": "11.01.15.2006",
+      "name": "Ujong Pulo Cut",
+      "postal_code": "23777"
+    },
+    {
+      "id": "11.01.15.2008",
+      "name": "Seuleukat",
+      "postal_code": "23777"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

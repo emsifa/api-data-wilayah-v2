@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.78.27.1001",
+      "name": "Sukomanunggal",
+      "postal_code": "60188"
+    },
+    {
+      "id": "35.78.27.1002",
+      "name": "Tanjungsari",
+      "postal_code": "60187"
+    },
+    {
+      "id": "35.78.27.1003",
+      "name": "Sonokwijenan",
+      "postal_code": "60189"
+    },
+    {
+      "id": "35.78.27.1004",
+      "name": "Putat Gede",
+      "postal_code": "60189"
+    },
+    {
+      "id": "35.78.27.1005",
+      "name": "Simomulyo",
+      "postal_code": "60281"
+    },
+    {
+      "id": "35.78.27.1006",
+      "name": "Simomulyo Baru",
+      "postal_code": "60281"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

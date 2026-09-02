@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.27.13.2001",
+      "name": "Pangarengan",
+      "postal_code": "69271"
+    },
+    {
+      "id": "35.27.13.2002",
+      "name": "Apa an",
+      "postal_code": "69271"
+    },
+    {
+      "id": "35.27.13.2003",
+      "name": "Gulbung",
+      "postal_code": "69271"
+    },
+    {
+      "id": "35.27.13.2004",
+      "name": "Panyirangan",
+      "postal_code": "69271"
+    },
+    {
+      "id": "35.27.13.2005",
+      "name": "Pacangga an",
+      "postal_code": "69271"
+    },
+    {
+      "id": "35.27.13.2006",
+      "name": "Ragung",
+      "postal_code": "69271"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

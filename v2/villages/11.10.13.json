@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "11.10.13.2001",
+      "name": "Singkohor",
+      "postal_code": "24788"
+    },
+    {
+      "id": "11.10.13.2002",
+      "name": "Lae Sipola",
+      "postal_code": "24788"
+    },
+    {
+      "id": "11.10.13.2003",
+      "name": "Lae Pinang",
+      "postal_code": "24788"
+    },
+    {
+      "id": "11.10.13.2004",
+      "name": "Mukti Jaya",
+      "postal_code": "24788"
+    },
+    {
+      "id": "11.10.13.2006",
+      "name": "Sri Kayu",
+      "postal_code": "24788"
+    },
+    {
+      "id": "11.10.13.2007",
+      "name": "Pea Jambu",
+      "postal_code": "24788"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

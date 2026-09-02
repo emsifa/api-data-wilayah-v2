@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "15.71.03.1001",
+      "name": "Sijenjang",
+      "postal_code": "36149"
+    },
+    {
+      "id": "15.71.03.1002",
+      "name": "Kasang Jaya",
+      "postal_code": "36141"
+    },
+    {
+      "id": "15.71.03.1003",
+      "name": "Talang Banjar",
+      "postal_code": "36142"
+    },
+    {
+      "id": "15.71.03.1004",
+      "name": "Budiman",
+      "postal_code": "36145"
+    },
+    {
+      "id": "15.71.03.1005",
+      "name": "Sulanjana",
+      "postal_code": "36144"
+    },
+    {
+      "id": "15.71.03.1006",
+      "name": "Kasang",
+      "postal_code": "36141"
+    },
+    {
+      "id": "15.71.03.1007",
+      "name": "Tanjung Sari",
+      "postal_code": "36147"
+    },
+    {
+      "id": "15.71.03.1008",
+      "name": "Rajawali",
+      "postal_code": "36143"
+    },
+    {
+      "id": "15.71.03.1010",
+      "name": "Tanjung Pinang",
+      "postal_code": "36146"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

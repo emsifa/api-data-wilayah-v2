@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "82.72.05.1001",
+      "name": "Rum",
+      "postal_code": "97823"
+    },
+    {
+      "id": "82.72.05.1002",
+      "name": "Fobaharu",
+      "postal_code": "97823"
+    },
+    {
+      "id": "82.72.05.1003",
+      "name": "Jaya",
+      "postal_code": "97823"
+    },
+    {
+      "id": "82.72.05.1004",
+      "name": "Ome",
+      "postal_code": "97823"
+    },
+    {
+      "id": "82.72.05.1005",
+      "name": "Mareku",
+      "postal_code": "97823"
+    },
+    {
+      "id": "82.72.05.1006",
+      "name": "Afa Afa",
+      "postal_code": "97823"
+    },
+    {
+      "id": "82.72.05.1008",
+      "name": "Bobo",
+      "postal_code": "97823"
+    },
+    {
+      "id": "82.72.05.1009",
+      "name": "Gubu Kusuma",
+      "postal_code": "97823"
+    },
+    {
+      "id": "82.72.05.1010",
+      "name": "Sirongo Folaraha",
+      "postal_code": "97823"
+    },
+    {
+      "id": "82.72.05.1011",
+      "name": "Rum Balibunga",
+      "postal_code": "97823"
+    },
+    {
+      "id": "82.72.05.2007",
+      "name": "Maitara",
+      "postal_code": "97823"
+    },
+    {
+      "id": "82.72.05.2012",
+      "name": "Maitara Selatan",
+      "postal_code": "97823"
+    },
+    {
+      "id": "82.72.05.2013",
+      "name": "Maitara Utara",
+      "postal_code": "97823"
+    },
+    {
+      "id": "82.72.05.2014",
+      "name": "Maitara Tengah",
+      "postal_code": "97823"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

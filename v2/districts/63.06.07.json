@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "63.06.07",
+    "name": "Daha Selatan",
+    "province": {
+      "id": "63",
+      "name": "Kalimantan Selatan"
+    },
+    "regency": {
+      "id": "63.06",
+      "name": "Kabupaten Hulu Sungai Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

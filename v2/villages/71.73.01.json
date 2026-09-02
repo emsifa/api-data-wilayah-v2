@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "71.73.01.1001",
+      "name": "Pinaras",
+      "postal_code": "95434"
+    },
+    {
+      "id": "71.73.01.1002",
+      "name": "Lahendong",
+      "postal_code": "95435"
+    },
+    {
+      "id": "71.73.01.1003",
+      "name": "Tondangow",
+      "postal_code": "95436"
+    },
+    {
+      "id": "71.73.01.1004",
+      "name": "Pangolombian",
+      "postal_code": "95437"
+    },
+    {
+      "id": "71.73.01.1005",
+      "name": "Tumatangtang",
+      "postal_code": "95432"
+    },
+    {
+      "id": "71.73.01.1006",
+      "name": "Kampung Jawa",
+      "postal_code": "95433"
+    },
+    {
+      "id": "71.73.01.1007",
+      "name": "Lansot",
+      "postal_code": "95431"
+    },
+    {
+      "id": "71.73.01.1008",
+      "name": "Walian",
+      "postal_code": "95439"
+    },
+    {
+      "id": "71.73.01.1009",
+      "name": "Uluindano",
+      "postal_code": "95438"
+    },
+    {
+      "id": "71.73.01.1010",
+      "name": "Walian Satu",
+      "postal_code": "95439"
+    },
+    {
+      "id": "71.73.01.1011",
+      "name": "Walian Dua",
+      "postal_code": "95439"
+    },
+    {
+      "id": "71.73.01.1012",
+      "name": "Tumatangtang Satu",
+      "postal_code": "95439"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

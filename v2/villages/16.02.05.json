@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "id": "16.02.05.1001",
+      "name": "Jua-jua",
+      "postal_code": "30616"
+    },
+    {
+      "id": "16.02.05.1002",
+      "name": "Kayuagung",
+      "postal_code": "30618"
+    },
+    {
+      "id": "16.02.05.1003",
+      "name": "Sidakersa",
+      "postal_code": "30615"
+    },
+    {
+      "id": "16.02.05.1004",
+      "name": "Cintaraja",
+      "postal_code": "30614"
+    },
+    {
+      "id": "16.02.05.1005",
+      "name": "Mangun Jaya",
+      "postal_code": "30613"
+    },
+    {
+      "id": "16.02.05.1006",
+      "name": "Paku",
+      "postal_code": "30612"
+    },
+    {
+      "id": "16.02.05.1007",
+      "name": "Kedaton",
+      "postal_code": "30617"
+    },
+    {
+      "id": "16.02.05.1008",
+      "name": "Sukadana",
+      "postal_code": "30611"
+    },
+    {
+      "id": "16.02.05.1009",
+      "name": "Perigi",
+      "postal_code": "30618"
+    },
+    {
+      "id": "16.02.05.1010",
+      "name": "Kutaraja",
+      "postal_code": "30617"
+    },
+    {
+      "id": "16.02.05.1025",
+      "name": "Tanjung Rancing",
+      "postal_code": "30618"
+    },
+    {
+      "id": "16.02.05.2011",
+      "name": "Kijang Ulu",
+      "postal_code": "30618"
+    },
+    {
+      "id": "16.02.05.2012",
+      "name": "Muarabaru",
+      "postal_code": "30618"
+    },
+    {
+      "id": "16.02.05.2013",
+      "name": "Tanjung Lubuk",
+      "postal_code": "30617"
+    },
+    {
+      "id": "16.02.05.2014",
+      "name": "Arisan Buntal",
+      "postal_code": "30618"
+    },
+    {
+      "id": "16.02.05.2015",
+      "name": "Celikah",
+      "postal_code": "30611"
+    },
+    {
+      "id": "16.02.05.2016",
+      "name": "Banding Anyar",
+      "postal_code": "30618"
+    },
+    {
+      "id": "16.02.05.2017",
+      "name": "Buluh Cawang",
+      "postal_code": "30618"
+    },
+    {
+      "id": "16.02.05.2018",
+      "name": "Lubuk Dalam",
+      "postal_code": "30618"
+    },
+    {
+      "id": "16.02.05.2019",
+      "name": "Anyar",
+      "postal_code": "30618"
+    },
+    {
+      "id": "16.02.05.2020",
+      "name": "Tanjung Menang",
+      "postal_code": "30618"
+    },
+    {
+      "id": "16.02.05.2021",
+      "name": "Teloko",
+      "postal_code": "30618"
+    },
+    {
+      "id": "16.02.05.2022",
+      "name": "Tanjung Serang",
+      "postal_code": "30618"
+    },
+    {
+      "id": "16.02.05.2023",
+      "name": "Serigeni Baru",
+      "postal_code": "30618"
+    },
+    {
+      "id": "16.02.05.2024",
+      "name": "Serigeni",
+      "postal_code": "30618"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

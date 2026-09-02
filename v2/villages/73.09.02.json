@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.09.02.1001",
+      "name": "Cempaniga",
+      "postal_code": "90562"
+    },
+    {
+      "id": "73.09.02.1002",
+      "name": "Mario Pulana",
+      "postal_code": "90562"
+    },
+    {
+      "id": "73.09.02.2003",
+      "name": "Timpuseng",
+      "postal_code": "90562"
+    },
+    {
+      "id": "73.09.02.2004",
+      "name": "Cenrana",
+      "postal_code": "90562"
+    },
+    {
+      "id": "73.09.02.2005",
+      "name": "Sawaru",
+      "postal_code": "90562"
+    },
+    {
+      "id": "73.09.02.2006",
+      "name": "Patanyamang",
+      "postal_code": "90562"
+    },
+    {
+      "id": "73.09.02.2007",
+      "name": "Pattiro Deceng",
+      "postal_code": "90562"
+    },
+    {
+      "id": "73.09.02.2008",
+      "name": "Benteng",
+      "postal_code": "90562"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

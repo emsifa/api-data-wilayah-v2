@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "93.04.05.2001",
+      "name": "Basim",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.05.2002",
+      "name": "Waras",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.05.2003",
+      "name": "Biopis",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.05.2004",
+      "name": "Nanai",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.05.2005",
+      "name": "Pirien",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.05.2006",
+      "name": "Ocenep",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.05.2007",
+      "name": "Ais",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.05.2008",
+      "name": "Yawas",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.05.2009",
+      "name": "Bakyor",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.05.2010",
+      "name": "Isar",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.05.2011",
+      "name": "Kayarpis",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.05.2012",
+      "name": "Sayoa",
+      "postal_code": "99782"
+    },
+    {
+      "id": "93.04.05.2013",
+      "name": "Bora",
+      "postal_code": "99782"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

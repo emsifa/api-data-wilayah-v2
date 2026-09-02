@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "35.23.16.1003",
+      "name": "Mondokan",
+      "postal_code": "62319"
+    },
+    {
+      "id": "35.23.16.1005",
+      "name": "Perbon",
+      "postal_code": "62319"
+    },
+    {
+      "id": "35.23.16.1006",
+      "name": "Latsari",
+      "postal_code": "62314"
+    },
+    {
+      "id": "35.23.16.1007",
+      "name": "Karangsari",
+      "postal_code": "62314"
+    },
+    {
+      "id": "35.23.16.1008",
+      "name": "Kingking",
+      "postal_code": "62313"
+    },
+    {
+      "id": "35.23.16.1009",
+      "name": "Ronggomulyo",
+      "postal_code": "62313"
+    },
+    {
+      "id": "35.23.16.1010",
+      "name": "Sidorejo",
+      "postal_code": "62315"
+    },
+    {
+      "id": "35.23.16.1011",
+      "name": "Doromukti",
+      "postal_code": "62316"
+    },
+    {
+      "id": "35.23.16.1012",
+      "name": "Sidomulyo",
+      "postal_code": "62312"
+    },
+    {
+      "id": "35.23.16.1013",
+      "name": "Kutorejo",
+      "postal_code": "62311"
+    },
+    {
+      "id": "35.23.16.1014",
+      "name": "Kebonsari",
+      "postal_code": "62317"
+    },
+    {
+      "id": "35.23.16.1015",
+      "name": "Sendangharjo",
+      "postal_code": "62319"
+    },
+    {
+      "id": "35.23.16.1016",
+      "name": "Baturetno",
+      "postal_code": "62318"
+    },
+    {
+      "id": "35.23.16.1017",
+      "name": "Sukolilo",
+      "postal_code": "62318"
+    },
+    {
+      "id": "35.23.16.2001",
+      "name": "Sumurgung",
+      "postal_code": "62319"
+    },
+    {
+      "id": "35.23.16.2002",
+      "name": "Sugiharjo",
+      "postal_code": "62319"
+    },
+    {
+      "id": "35.23.16.2004",
+      "name": "Kembangbilo",
+      "postal_code": "62319"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

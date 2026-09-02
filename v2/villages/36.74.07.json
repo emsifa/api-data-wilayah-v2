@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "36.74.07.1001",
+      "name": "Muncul",
+      "postal_code": "15314"
+    },
+    {
+      "id": "36.74.07.1002",
+      "name": "Setu",
+      "postal_code": "15314"
+    },
+    {
+      "id": "36.74.07.1003",
+      "name": "Keranggan",
+      "postal_code": "15312"
+    },
+    {
+      "id": "36.74.07.1004",
+      "name": "Kademangan",
+      "postal_code": "15313"
+    },
+    {
+      "id": "36.74.07.1005",
+      "name": "Babakan",
+      "postal_code": "15315"
+    },
+    {
+      "id": "36.74.07.1006",
+      "name": "Bakti Jaya",
+      "postal_code": "15315"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

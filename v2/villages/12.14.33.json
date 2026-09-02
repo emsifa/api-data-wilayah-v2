@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.14.33.2001",
+      "name": "Hilifalago",
+      "postal_code": "22869"
+    },
+    {
+      "id": "12.14.33.2002",
+      "name": "Hilimondregeraya",
+      "postal_code": "22869"
+    },
+    {
+      "id": "12.14.33.2003",
+      "name": "Hilinamozaua",
+      "postal_code": "22869"
+    },
+    {
+      "id": "12.14.33.2004",
+      "name": "Hilifarono",
+      "postal_code": "22869"
+    },
+    {
+      "id": "12.14.33.2005",
+      "name": "Hilionaha",
+      "postal_code": "22869"
+    },
+    {
+      "id": "12.14.33.2006",
+      "name": "Hilikara",
+      "postal_code": "22869"
+    },
+    {
+      "id": "12.14.33.2007",
+      "name": "Hilialito Saua",
+      "postal_code": "22869"
+    },
+    {
+      "id": "12.14.33.2008",
+      "name": "Hilinamozaua Raya",
+      "postal_code": "22869"
+    },
+    {
+      "id": "12.14.33.2009",
+      "name": "Hilifalago Raya",
+      "postal_code": "22869"
+    },
+    {
+      "id": "12.14.33.2010",
+      "name": "Hilisanekhehosi",
+      "postal_code": "22869"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

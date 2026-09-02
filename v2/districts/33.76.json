@@ -1,18 +1,24 @@
 {
-  "data": {
-    "id": "33.76",
-    "name": "Kota Tegal",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
+  "data": [
+    {
+      "id": "33.76.01",
+      "name": "Tegal Barat"
     },
-    "regency": {
-      "id": "33.76",
-      "name": "Kota Tegal"
+    {
+      "id": "33.76.02",
+      "name": "Tegal Timur"
+    },
+    {
+      "id": "33.76.03",
+      "name": "Tegal Selatan"
+    },
+    {
+      "id": "33.76.04",
+      "name": "Margadana"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

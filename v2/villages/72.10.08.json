@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "72.10.08.2001",
+      "name": "Tuwa",
+      "postal_code": "94364"
+    },
+    {
+      "id": "72.10.08.2002",
+      "name": "Omu",
+      "postal_code": "94364"
+    },
+    {
+      "id": "72.10.08.2003",
+      "name": "Simoro",
+      "postal_code": "94364"
+    },
+    {
+      "id": "72.10.08.2004",
+      "name": "Pakuli",
+      "postal_code": "94364"
+    },
+    {
+      "id": "72.10.08.2005",
+      "name": "Pandere",
+      "postal_code": "94364"
+    },
+    {
+      "id": "72.10.08.2006",
+      "name": "Kalawara",
+      "postal_code": "94364"
+    },
+    {
+      "id": "72.10.08.2007",
+      "name": "Pakuli Utara",
+      "postal_code": "94364"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "75.71.06.1001",
+      "name": "Wumialo",
+      "postal_code": "96128"
+    },
+    {
+      "id": "75.71.06.1002",
+      "name": "Dulalowo",
+      "postal_code": "96128"
+    },
+    {
+      "id": "75.71.06.1003",
+      "name": "Liluwo",
+      "postal_code": "96129"
+    },
+    {
+      "id": "75.71.06.1004",
+      "name": "Pulubala",
+      "postal_code": "96127"
+    },
+    {
+      "id": "75.71.06.1005",
+      "name": "Paguyaman",
+      "postal_code": "96129"
+    },
+    {
+      "id": "75.71.06.1006",
+      "name": "Dulalowo Timur",
+      "postal_code": "96128"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "63.09.01.2001",
+      "name": "Hapalah",
+      "postal_code": "71553"
+    },
+    {
+      "id": "63.09.01.2002",
+      "name": "Bangkiling",
+      "postal_code": "71553"
+    },
+    {
+      "id": "63.09.01.2003",
+      "name": "Sungai Durian",
+      "postal_code": "72167"
+    },
+    {
+      "id": "63.09.01.2004",
+      "name": "Pematang",
+      "postal_code": "71553"
+    },
+    {
+      "id": "63.09.01.2005",
+      "name": "Hariang",
+      "postal_code": "71553"
+    },
+    {
+      "id": "63.09.01.2006",
+      "name": "Banua Lawas",
+      "postal_code": "71553"
+    },
+    {
+      "id": "63.09.01.2007",
+      "name": "Habau",
+      "postal_code": "71553"
+    },
+    {
+      "id": "63.09.01.2008",
+      "name": "Banua Rantau",
+      "postal_code": "71553"
+    },
+    {
+      "id": "63.09.01.2009",
+      "name": "Purai",
+      "postal_code": "71553"
+    },
+    {
+      "id": "63.09.01.2010",
+      "name": "Batang Banyu",
+      "postal_code": "71553"
+    },
+    {
+      "id": "63.09.01.2011",
+      "name": "Habau Hulu",
+      "postal_code": "71553"
+    },
+    {
+      "id": "63.09.01.2012",
+      "name": "Bungin",
+      "postal_code": "71553"
+    },
+    {
+      "id": "63.09.01.2013",
+      "name": "Bangkiling Raya",
+      "postal_code": "71553"
+    },
+    {
+      "id": "63.09.01.2014",
+      "name": "Talan",
+      "postal_code": "71553"
+    },
+    {
+      "id": "63.09.01.2015",
+      "name": "Sungai Anyar",
+      "postal_code": "71553"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

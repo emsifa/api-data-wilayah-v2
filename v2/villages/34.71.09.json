@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "34.71.09.1001",
+      "name": "Patehan",
+      "postal_code": "55133"
+    },
+    {
+      "id": "34.71.09.1002",
+      "name": "Panembahan",
+      "postal_code": "55131"
+    },
+    {
+      "id": "34.71.09.1003",
+      "name": "Kadipaten",
+      "postal_code": "55132"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "33.24.20.2001",
+      "name": "Jeruk Giling",
+      "postal_code": "51382"
+    },
+    {
+      "id": "33.24.20.2002",
+      "name": "Kedungsuren",
+      "postal_code": "51372"
+    },
+    {
+      "id": "33.24.20.2003",
+      "name": "Darupono",
+      "postal_code": "51372"
+    },
+    {
+      "id": "33.24.20.2004",
+      "name": "Protomulyo",
+      "postal_code": "51372"
+    },
+    {
+      "id": "33.24.20.2005",
+      "name": "Magelung",
+      "postal_code": "51372"
+    },
+    {
+      "id": "33.24.20.2006",
+      "name": "Plantaran",
+      "postal_code": "51372"
+    },
+    {
+      "id": "33.24.20.2007",
+      "name": "Sukomulyo",
+      "postal_code": "51372"
+    },
+    {
+      "id": "33.24.20.2008",
+      "name": "Sidomakmur",
+      "postal_code": "51372"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

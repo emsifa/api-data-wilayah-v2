@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "51.03.04",
+    "name": "Petang",
+    "province": {
+      "id": "51",
+      "name": "Bali"
+    },
+    "regency": {
+      "id": "51.03",
+      "name": "Kabupaten Badung"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

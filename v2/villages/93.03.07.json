@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "93.03.07.2001",
+      "name": "Amazu",
+      "postal_code": "99876"
+    },
+    {
+      "id": "93.03.07.2002",
+      "name": "Imembi",
+      "postal_code": "99876"
+    },
+    {
+      "id": "93.03.07.2003",
+      "name": "Yemu",
+      "postal_code": "99876"
+    },
+    {
+      "id": "93.03.07.2004",
+      "name": "Fomu",
+      "postal_code": "99876"
+    },
+    {
+      "id": "93.03.07.2005",
+      "name": "Tiau",
+      "postal_code": "99876"
+    },
+    {
+      "id": "93.03.07.2006",
+      "name": "Binerbis",
+      "postal_code": "99876"
+    },
+    {
+      "id": "93.03.07.2007",
+      "name": "Tayau",
+      "postal_code": "99876"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.24.05.2001",
+      "name": "Berua",
+      "postal_code": "22816"
+    },
+    {
+      "id": "12.24.05.2002",
+      "name": "Esiwa",
+      "postal_code": "22816"
+    },
+    {
+      "id": "12.24.05.2003",
+      "name": "Dahana Hiligodu",
+      "postal_code": "22816"
+    },
+    {
+      "id": "12.24.05.2004",
+      "name": "Hilibanua",
+      "postal_code": "22816"
+    },
+    {
+      "id": "12.24.05.2005",
+      "name": "Sisarahili",
+      "postal_code": "22816"
+    },
+    {
+      "id": "12.24.05.2006",
+      "name": "Sisobahili",
+      "postal_code": "22817"
+    },
+    {
+      "id": "12.24.05.2007",
+      "name": "Lasara",
+      "postal_code": "22816"
+    },
+    {
+      "id": "12.24.05.2008",
+      "name": "Namohalu",
+      "postal_code": "22816"
+    },
+    {
+      "id": "12.24.05.2009",
+      "name": "Tuhenakhe I",
+      "postal_code": "22816"
+    },
+    {
+      "id": "12.24.05.2010",
+      "name": "Orahili",
+      "postal_code": "22816"
+    },
+    {
+      "id": "12.24.05.2011",
+      "name": "Banua Sibohou",
+      "postal_code": "22816"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

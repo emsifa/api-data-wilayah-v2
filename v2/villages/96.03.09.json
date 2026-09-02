@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "96.03.09.2001",
+      "name": "Lopintol",
+      "postal_code": "98486"
+    },
+    {
+      "id": "96.03.09.2002",
+      "name": "Warsamdin",
+      "postal_code": "98486"
+    },
+    {
+      "id": "96.03.09.2003",
+      "name": "Mumes",
+      "postal_code": "98486"
+    },
+    {
+      "id": "96.03.09.2004",
+      "name": "Kalitoko",
+      "postal_code": "98486"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "id": "16.06.09.1016",
+      "name": "Bayung Lencir",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.1065",
+      "name": "Bayung Lencir Indah",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2006",
+      "name": "Muara Merang",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2007",
+      "name": "Mangsang",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2008",
+      "name": "Tampang Baru",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2009",
+      "name": "Kali Berau",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2010",
+      "name": "Sindang Marga",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2011",
+      "name": "Telang",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2012",
+      "name": "Pagar Desa",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2013",
+      "name": "Mendis",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2014",
+      "name": "Pulai Gading",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2015",
+      "name": "Muara Medak",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2017",
+      "name": "Sukajaya",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2026",
+      "name": "Senawar Jaya",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2048",
+      "name": "Simpang Bayat",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2049",
+      "name": "Bayat Ilir",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2050",
+      "name": "Pangkalan Bayat",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2051",
+      "name": "Muara Bahar",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2058",
+      "name": "Mekar Jaya",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2059",
+      "name": "Mendis Jaya",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2060",
+      "name": "Kepayang",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2061",
+      "name": "Wono Rejo",
+      "postal_code": "30756"
+    },
+    {
+      "id": "16.06.09.2063",
+      "name": "Lubuk Harjo",
+      "postal_code": "30756"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,18 +1,48 @@
 {
-  "data": {
-    "id": "51.02",
-    "name": "Kabupaten Tabanan",
-    "province": {
-      "id": "51",
-      "name": "Bali"
+  "data": [
+    {
+      "id": "51.02.01",
+      "name": "Selemadeg"
     },
-    "regency": {
-      "id": "51.02",
-      "name": "Kabupaten Tabanan"
+    {
+      "id": "51.02.02",
+      "name": "Selemadeg Timur"
+    },
+    {
+      "id": "51.02.03",
+      "name": "Selemadeg Barat"
+    },
+    {
+      "id": "51.02.04",
+      "name": "Kerambitan"
+    },
+    {
+      "id": "51.02.05",
+      "name": "Tabanan"
+    },
+    {
+      "id": "51.02.06",
+      "name": "Kediri"
+    },
+    {
+      "id": "51.02.07",
+      "name": "Marga"
+    },
+    {
+      "id": "51.02.08",
+      "name": "Penebel"
+    },
+    {
+      "id": "51.02.09",
+      "name": "Baturiti"
+    },
+    {
+      "id": "51.02.10",
+      "name": "Pupuan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

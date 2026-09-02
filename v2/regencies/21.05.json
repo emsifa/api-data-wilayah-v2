@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "21.05",
+    "name": "Kabupaten Kepulauan Anambas",
+    "capital": "Tarempa",
+    "lat": 3.2145458693401,
+    "lng": 106.24870240264536,
+    "elv": 148,
+    "tz": 7,
+    "population": 50922,
+    "total_area": 620.622,
+    "province": {
+      "id": "21",
+      "name": "Kepulauan Riau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "15.06.05.1007",
+      "name": "Merlung",
+      "postal_code": "36554"
+    },
+    {
+      "id": "15.06.05.2005",
+      "name": "Penyabungan",
+      "postal_code": "36554"
+    },
+    {
+      "id": "15.06.05.2006",
+      "name": "Lubuk Terap",
+      "postal_code": "36554"
+    },
+    {
+      "id": "15.06.05.2008",
+      "name": "Tanjung Paku",
+      "postal_code": "36554"
+    },
+    {
+      "id": "15.06.05.2012",
+      "name": "Tanjung Benanak",
+      "postal_code": "36554"
+    },
+    {
+      "id": "15.06.05.2013",
+      "name": "Bukit Harapan",
+      "postal_code": "36554"
+    },
+    {
+      "id": "15.06.05.2014",
+      "name": "Adi Purwa",
+      "postal_code": "36554"
+    },
+    {
+      "id": "15.06.05.2018",
+      "name": "Pinang Gading",
+      "postal_code": "36554"
+    },
+    {
+      "id": "15.06.05.2020",
+      "name": "Merlung",
+      "postal_code": "36554"
+    },
+    {
+      "id": "15.06.05.2021",
+      "name": "Tanjung Makmur",
+      "postal_code": "36554"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

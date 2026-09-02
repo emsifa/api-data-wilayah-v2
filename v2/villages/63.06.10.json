@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "63.06.10.2001",
+      "name": "Halunuk",
+      "postal_code": "71282"
+    },
+    {
+      "id": "63.06.10.2002",
+      "name": "Panggungan",
+      "postal_code": "71282"
+    },
+    {
+      "id": "63.06.10.2003",
+      "name": "Lumpangi",
+      "postal_code": "71282"
+    },
+    {
+      "id": "63.06.10.2004",
+      "name": "Malinau",
+      "postal_code": "71282"
+    },
+    {
+      "id": "63.06.10.2005",
+      "name": "Hulu Banyu",
+      "postal_code": "71282"
+    },
+    {
+      "id": "63.06.10.2006",
+      "name": "Tumingki",
+      "postal_code": "71282"
+    },
+    {
+      "id": "63.06.10.2007",
+      "name": "Kamawakan",
+      "postal_code": "71282"
+    },
+    {
+      "id": "63.06.10.2008",
+      "name": "Lok Lahung",
+      "postal_code": "71282"
+    },
+    {
+      "id": "63.06.10.2009",
+      "name": "Loksado",
+      "postal_code": "71282"
+    },
+    {
+      "id": "63.06.10.2010",
+      "name": "Haratai",
+      "postal_code": "71282"
+    },
+    {
+      "id": "63.06.10.2011",
+      "name": "Ulang",
+      "postal_code": "71282"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

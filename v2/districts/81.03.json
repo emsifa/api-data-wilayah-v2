@@ -1,18 +1,48 @@
 {
-  "data": {
-    "id": "81.03",
-    "name": "Kabupaten Kepulauan Tanimbar",
-    "province": {
-      "id": "81",
-      "name": "Maluku"
+  "data": [
+    {
+      "id": "81.03.01",
+      "name": "Tanimbar Selatan"
     },
-    "regency": {
-      "id": "81.03",
-      "name": "Kabupaten Kepulauan Tanimbar"
+    {
+      "id": "81.03.02",
+      "name": "Selaru"
+    },
+    {
+      "id": "81.03.03",
+      "name": "Wertamrian"
+    },
+    {
+      "id": "81.03.04",
+      "name": "Wermaktian"
+    },
+    {
+      "id": "81.03.05",
+      "name": "Tanimbar Utara"
+    },
+    {
+      "id": "81.03.06",
+      "name": "Fordata"
+    },
+    {
+      "id": "81.03.07",
+      "name": "Wuar Labobar"
+    },
+    {
+      "id": "81.03.08",
+      "name": "Kormomolin"
+    },
+    {
+      "id": "81.03.09",
+      "name": "Nirunmas"
+    },
+    {
+      "id": "81.03.18",
+      "name": "Molu Maru"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

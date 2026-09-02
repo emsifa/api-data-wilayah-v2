@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "95.02.16.2001",
+      "name": "Kungulding",
+      "postal_code": "99413"
+    },
+    {
+      "id": "95.02.16.2002",
+      "name": "Bulangkop",
+      "postal_code": "99413"
+    },
+    {
+      "id": "95.02.16.2003",
+      "name": "Limarum",
+      "postal_code": "99413"
+    },
+    {
+      "id": "95.02.16.2004",
+      "name": "Yumakot",
+      "postal_code": "99413"
+    },
+    {
+      "id": "95.02.16.2005",
+      "name": "Aplim",
+      "postal_code": "99413"
+    },
+    {
+      "id": "95.02.16.2006",
+      "name": "Okdo",
+      "postal_code": "99413"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

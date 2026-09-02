@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.05.30.2001",
+      "name": "Cikelet",
+      "postal_code": "44177"
+    },
+    {
+      "id": "32.05.30.2002",
+      "name": "Linggamanik",
+      "postal_code": "44177"
+    },
+    {
+      "id": "32.05.30.2003",
+      "name": "Kertamukti",
+      "postal_code": "44177"
+    },
+    {
+      "id": "32.05.30.2004",
+      "name": "Cigadog",
+      "postal_code": "44177"
+    },
+    {
+      "id": "32.05.30.2005",
+      "name": "Pamalayan",
+      "postal_code": "44177"
+    },
+    {
+      "id": "32.05.30.2006",
+      "name": "Karangsari",
+      "postal_code": "44177"
+    },
+    {
+      "id": "32.05.30.2007",
+      "name": "Cijambe",
+      "postal_code": "44177"
+    },
+    {
+      "id": "32.05.30.2008",
+      "name": "Girimukti",
+      "postal_code": "44177"
+    },
+    {
+      "id": "32.05.30.2009",
+      "name": "Ciroyom",
+      "postal_code": "44177"
+    },
+    {
+      "id": "32.05.30.2010",
+      "name": "Awassagara",
+      "postal_code": "44177"
+    },
+    {
+      "id": "32.05.30.2011",
+      "name": "Tipar",
+      "postal_code": "44177"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

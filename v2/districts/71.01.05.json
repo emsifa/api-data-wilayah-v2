@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "71.01.05",
+    "name": "Sang Tombolang",
+    "province": {
+      "id": "71",
+      "name": "Sulawesi Utara"
+    },
+    "regency": {
+      "id": "71.01",
+      "name": "Kabupaten Bolaang Mongondow"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

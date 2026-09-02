@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "34.71.06.1001",
+      "name": "Ngampilan",
+      "postal_code": "55261"
+    },
+    {
+      "id": "34.71.06.1002",
+      "name": "Notoprajan",
+      "postal_code": "55262"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "15.03.06.2001",
+      "name": "Mandiangin",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2002",
+      "name": "Rangkiling Simpang",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2003",
+      "name": "Pemusiran",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2004",
+      "name": "Gurun Tuo Simpang",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2005",
+      "name": "Gurun Mudo",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2006",
+      "name": "Gurun Tuo",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2007",
+      "name": "Rangkiling",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2008",
+      "name": "Mandiangin Tuo",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2009",
+      "name": "Kertopati",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2010",
+      "name": "Muaro Ketalo",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2011",
+      "name": "Taman Dewa",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2012",
+      "name": "Simpang Kertopati",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2013",
+      "name": "Bukit Peranginan",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2020",
+      "name": "Gurun Baru",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2021",
+      "name": "Kute Jaye",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2022",
+      "name": "Mandiangin Pasar",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2023",
+      "name": "Sungai Rotan",
+      "postal_code": "37492"
+    },
+    {
+      "id": "15.03.06.2028",
+      "name": "Talang Serdang",
+      "postal_code": "37492"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

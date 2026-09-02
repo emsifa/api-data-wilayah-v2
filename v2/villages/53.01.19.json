@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "53.01.19.2001",
+      "name": "Oebesi",
+      "postal_code": "85378"
+    },
+    {
+      "id": "53.01.19.2002",
+      "name": "Pakubaun",
+      "postal_code": "85378"
+    },
+    {
+      "id": "53.01.19.2003",
+      "name": "Rabeka",
+      "postal_code": "85378"
+    },
+    {
+      "id": "53.01.19.2004",
+      "name": "Enoraen",
+      "postal_code": "85378"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

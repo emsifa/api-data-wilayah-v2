@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "91.06.13.2001",
+      "name": "Asur",
+      "postal_code": "98552"
+    },
+    {
+      "id": "91.06.13.2002",
+      "name": "Bosnabraidi",
+      "postal_code": "98552"
+    },
+    {
+      "id": "91.06.13.2003",
+      "name": "Wasori",
+      "postal_code": "98552"
+    },
+    {
+      "id": "91.06.13.2004",
+      "name": "Soor",
+      "postal_code": "98552"
+    },
+    {
+      "id": "91.06.13.2005",
+      "name": "Karmon",
+      "postal_code": "98552"
+    },
+    {
+      "id": "91.06.13.2006",
+      "name": "Fanindi",
+      "postal_code": "98552"
+    },
+    {
+      "id": "91.06.13.2007",
+      "name": "Madirai",
+      "postal_code": "98552"
+    },
+    {
+      "id": "91.06.13.2008",
+      "name": "Indawi",
+      "postal_code": "98552"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

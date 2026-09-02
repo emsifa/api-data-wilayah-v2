@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "33.19.09",
+    "name": "Dawe",
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    },
+    "regency": {
+      "id": "33.19",
+      "name": "Kabupaten Kudus"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

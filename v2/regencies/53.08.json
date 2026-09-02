@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "53.08",
+    "name": "Kabupaten Ende",
+    "capital": "Ende",
+    "lat": -8.84344514400059,
+    "lng": 121.66223033425577,
+    "elv": 31,
+    "tz": 8,
+    "population": 283806,
+    "total_area": 2084.076,
+    "province": {
+      "id": "53",
+      "name": "Nusa Tenggara Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

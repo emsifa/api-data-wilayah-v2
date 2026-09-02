@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "12.71.08.1001",
+      "name": "Belawan I",
+      "postal_code": "20411"
+    },
+    {
+      "id": "12.71.08.1002",
+      "name": "Belawan II",
+      "postal_code": "20412"
+    },
+    {
+      "id": "12.71.08.1003",
+      "name": "Belawan Bahagia",
+      "postal_code": "20415"
+    },
+    {
+      "id": "12.71.08.1004",
+      "name": "Belawan Bahari",
+      "postal_code": "20414"
+    },
+    {
+      "id": "12.71.08.1005",
+      "name": "Belawan Sicanang",
+      "postal_code": "20412"
+    },
+    {
+      "id": "12.71.08.1006",
+      "name": "Bagan Deli",
+      "postal_code": "20414"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

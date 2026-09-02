@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "34.71.14.1001",
+      "name": "Rejowinangun",
+      "postal_code": "55171"
+    },
+    {
+      "id": "34.71.14.1002",
+      "name": "Prenggan",
+      "postal_code": "55172"
+    },
+    {
+      "id": "34.71.14.1003",
+      "name": "Purbayan",
+      "postal_code": "55173"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

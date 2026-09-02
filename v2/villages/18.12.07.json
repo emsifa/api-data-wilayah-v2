@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "18.12.07.2001",
+      "name": "Kibang Budi Jaya",
+      "postal_code": "34787"
+    },
+    {
+      "id": "18.12.07.2002",
+      "name": "Lesung Bhakti Jaya",
+      "postal_code": "34787"
+    },
+    {
+      "id": "18.12.07.2003",
+      "name": "Mekar Sari Jaya",
+      "postal_code": "34787"
+    },
+    {
+      "id": "18.12.07.2004",
+      "name": "Pagar Jaya",
+      "postal_code": "34787"
+    },
+    {
+      "id": "18.12.07.2005",
+      "name": "Gunung Sari",
+      "postal_code": "34787"
+    },
+    {
+      "id": "18.12.07.2006",
+      "name": "Sumber Rejo",
+      "postal_code": "34787"
+    },
+    {
+      "id": "18.12.07.2007",
+      "name": "Kibang Yekti Jaya",
+      "postal_code": "34787"
+    },
+    {
+      "id": "18.12.07.2008",
+      "name": "Kibang Tri Jaya",
+      "postal_code": "34787"
+    },
+    {
+      "id": "18.12.07.2009",
+      "name": "Gilang Tunggal Makarta",
+      "postal_code": "34787"
+    },
+    {
+      "id": "18.12.07.2010",
+      "name": "Kibang Mulya Jaya",
+      "postal_code": "34787"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

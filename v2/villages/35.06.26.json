@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "35.06.26.2001",
+      "name": "Canggu",
+      "postal_code": "64217"
+    },
+    {
+      "id": "35.06.26.2002",
+      "name": "Lamong",
+      "postal_code": "64216"
+    },
+    {
+      "id": "35.06.26.2003",
+      "name": "Bringin",
+      "postal_code": "64224"
+    },
+    {
+      "id": "35.06.26.2004",
+      "name": "Sekoto",
+      "postal_code": "64223"
+    },
+    {
+      "id": "35.06.26.2005",
+      "name": "Tunglur",
+      "postal_code": "64222"
+    },
+    {
+      "id": "35.06.26.2006",
+      "name": "Krecek",
+      "postal_code": "64218"
+    },
+    {
+      "id": "35.06.26.2007",
+      "name": "Blaru",
+      "postal_code": "64219"
+    },
+    {
+      "id": "35.06.26.2008",
+      "name": "Badas",
+      "postal_code": "64221"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "35.27.02.2007",
+      "name": "Dulang",
+      "postal_code": "69270"
+    },
+    {
+      "id": "35.27.02.2008",
+      "name": "Patarongan",
+      "postal_code": "69270"
+    },
+    {
+      "id": "35.27.02.2009",
+      "name": "Pangongsean",
+      "postal_code": "69270"
+    },
+    {
+      "id": "35.27.02.2010",
+      "name": "Krampon",
+      "postal_code": "69270"
+    },
+    {
+      "id": "35.27.02.2011",
+      "name": "Bringinnonggal",
+      "postal_code": "69270"
+    },
+    {
+      "id": "35.27.02.2012",
+      "name": "Torjun",
+      "postal_code": "69270"
+    },
+    {
+      "id": "35.27.02.2013",
+      "name": "Patapan",
+      "postal_code": "69270"
+    },
+    {
+      "id": "35.27.02.2014",
+      "name": "Jeruk Porot",
+      "postal_code": "69270"
+    },
+    {
+      "id": "35.27.02.2015",
+      "name": "Kodak",
+      "postal_code": "69270"
+    },
+    {
+      "id": "35.27.02.2016",
+      "name": "Kanjar",
+      "postal_code": "69270"
+    },
+    {
+      "id": "35.27.02.2017",
+      "name": "Kara",
+      "postal_code": "69270"
+    },
+    {
+      "id": "35.27.02.2018",
+      "name": "Tanah Merah",
+      "postal_code": "69270"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

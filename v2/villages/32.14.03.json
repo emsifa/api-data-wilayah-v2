@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.14.03.2001",
+      "name": "Cikaobandung",
+      "postal_code": "41152"
+    },
+    {
+      "id": "32.14.03.2002",
+      "name": "Jatimekar",
+      "postal_code": "41152"
+    },
+    {
+      "id": "32.14.03.2003",
+      "name": "Jatiluhur",
+      "postal_code": "41152"
+    },
+    {
+      "id": "32.14.03.2004",
+      "name": "Cilegong",
+      "postal_code": "41152"
+    },
+    {
+      "id": "32.14.03.2005",
+      "name": "Kembangkuning",
+      "postal_code": "41152"
+    },
+    {
+      "id": "32.14.03.2006",
+      "name": "Cibinong",
+      "postal_code": "41152"
+    },
+    {
+      "id": "32.14.03.2007",
+      "name": "Bunder",
+      "postal_code": "41161"
+    },
+    {
+      "id": "32.14.03.2008",
+      "name": "Mekargalih",
+      "postal_code": "41152"
+    },
+    {
+      "id": "32.14.03.2009",
+      "name": "Cisalada",
+      "postal_code": "41152"
+    },
+    {
+      "id": "32.14.03.2010",
+      "name": "Parakanlima",
+      "postal_code": "41152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

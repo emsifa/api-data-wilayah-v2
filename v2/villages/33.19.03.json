@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "33.19.03.2001",
+      "name": "Jetiskapuan",
+      "postal_code": "59349"
+    },
+    {
+      "id": "33.19.03.2002",
+      "name": "Tanjungkarang",
+      "postal_code": "59349"
+    },
+    {
+      "id": "33.19.03.2003",
+      "name": "Jati Wetan",
+      "postal_code": "59346"
+    },
+    {
+      "id": "33.19.03.2004",
+      "name": "Pasuruhan Kidul",
+      "postal_code": "59349"
+    },
+    {
+      "id": "33.19.03.2005",
+      "name": "Pasuruhan Lor",
+      "postal_code": "59349"
+    },
+    {
+      "id": "33.19.03.2006",
+      "name": "Ploso",
+      "postal_code": "59348"
+    },
+    {
+      "id": "33.19.03.2007",
+      "name": "Jati Kulon",
+      "postal_code": "59347"
+    },
+    {
+      "id": "33.19.03.2008",
+      "name": "Getaspejaten",
+      "postal_code": "59343"
+    },
+    {
+      "id": "33.19.03.2009",
+      "name": "Loram Kulon",
+      "postal_code": "59344"
+    },
+    {
+      "id": "33.19.03.2010",
+      "name": "Loram Wetan",
+      "postal_code": "59344"
+    },
+    {
+      "id": "33.19.03.2011",
+      "name": "Jepangpakis",
+      "postal_code": "59349"
+    },
+    {
+      "id": "33.19.03.2012",
+      "name": "Megawon",
+      "postal_code": "59342"
+    },
+    {
+      "id": "33.19.03.2013",
+      "name": "Ngembal Kulon",
+      "postal_code": "59341"
+    },
+    {
+      "id": "33.19.03.2014",
+      "name": "Tumpangkrasak",
+      "postal_code": "59349"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

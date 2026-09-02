@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "19.06.07.2001",
+      "name": "Simpang Pesak",
+      "postal_code": "33560"
+    },
+    {
+      "id": "19.06.07.2002",
+      "name": "Tanjung Batu Itam",
+      "postal_code": "33560"
+    },
+    {
+      "id": "19.06.07.2003",
+      "name": "Tanjung Kelumpang",
+      "postal_code": "33560"
+    },
+    {
+      "id": "19.06.07.2004",
+      "name": "Dukong",
+      "postal_code": "33560"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

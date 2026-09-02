@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "12.74.05.1003",
+      "name": "Gading",
+      "postal_code": "21362"
+    },
+    {
+      "id": "12.74.05.1004",
+      "name": "Sirantau",
+      "postal_code": "21368"
+    },
+    {
+      "id": "12.74.05.1005",
+      "name": "Sijambi",
+      "postal_code": "21361"
+    },
+    {
+      "id": "12.74.05.1006",
+      "name": "Pahang",
+      "postal_code": "21369"
+    },
+    {
+      "id": "12.74.05.1010",
+      "name": "Pantai Johor",
+      "postal_code": "21368"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "34.71.08.1001",
+      "name": "Gedongkiwo",
+      "postal_code": "55142"
+    },
+    {
+      "id": "34.71.08.1002",
+      "name": "Suryodiningratan",
+      "postal_code": "55141"
+    },
+    {
+      "id": "34.71.08.1003",
+      "name": "Mantrijeron",
+      "postal_code": "55143"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

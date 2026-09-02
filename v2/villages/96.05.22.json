@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "96.05.22.2001",
+      "name": "Yaksoro",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.22.2002",
+      "name": "Awit",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.22.2003",
+      "name": "Sira",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.22.2004",
+      "name": "Eway",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.22.2005",
+      "name": "Erokwero",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.22.2006",
+      "name": "Sabun",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.22.2007",
+      "name": "Itigah",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.22.2008",
+      "name": "Sira Tee",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.22.2009",
+      "name": "Wrait 'U'",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.22.2010",
+      "name": "Way 'U'",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.22.2011",
+      "name": "Asnaif",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.22.2012",
+      "name": "Iroh Sohser",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.22.2013",
+      "name": "Framboh",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.22.2014",
+      "name": "Tohmri",
+      "postal_code": "98056"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

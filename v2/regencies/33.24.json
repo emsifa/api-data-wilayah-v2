@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "33.24",
+    "name": "Kabupaten Kendal",
+    "capital": "Kendal",
+    "lat": -6.922836880283628,
+    "lng": 110.20356709653716,
+    "elv": 9,
+    "tz": 7,
+    "population": 1094214,
+    "total_area": 1006.174,
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

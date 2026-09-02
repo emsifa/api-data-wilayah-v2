@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "93.02.10.2001",
+      "name": "Sadar",
+      "postal_code": "99673"
+    },
+    {
+      "id": "93.02.10.2002",
+      "name": "Bangun",
+      "postal_code": "99673"
+    },
+    {
+      "id": "93.02.10.2003",
+      "name": "Makmur",
+      "postal_code": "99673"
+    },
+    {
+      "id": "93.02.10.2004",
+      "name": "Sohokanggo",
+      "postal_code": "99673"
+    },
+    {
+      "id": "93.02.10.2005",
+      "name": "Domo",
+      "postal_code": "99673"
+    },
+    {
+      "id": "93.02.10.2006",
+      "name": "Hamkhu",
+      "postal_code": "99673"
+    },
+    {
+      "id": "93.02.10.2007",
+      "name": "Hello",
+      "postal_code": "99673"
+    },
+    {
+      "id": "93.02.10.2008",
+      "name": "Navini",
+      "postal_code": "99673"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

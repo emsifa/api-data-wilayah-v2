@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.05.01.1001",
+      "name": "Kota Kulon",
+      "postal_code": "44112"
+    },
+    {
+      "id": "32.05.01.1002",
+      "name": "Kota Wetan",
+      "postal_code": "44111"
+    },
+    {
+      "id": "32.05.01.1003",
+      "name": "Margawati",
+      "postal_code": "44113"
+    },
+    {
+      "id": "32.05.01.1004",
+      "name": "Pakuwon",
+      "postal_code": "44117"
+    },
+    {
+      "id": "32.05.01.1005",
+      "name": "Muara Sanding",
+      "postal_code": "44119"
+    },
+    {
+      "id": "32.05.01.1006",
+      "name": "Sukamentri",
+      "postal_code": "44116"
+    },
+    {
+      "id": "32.05.01.1007",
+      "name": "Ciwalen",
+      "postal_code": "44115"
+    },
+    {
+      "id": "32.05.01.1008",
+      "name": "Paminggir",
+      "postal_code": "44118"
+    },
+    {
+      "id": "32.05.01.1009",
+      "name": "Regol",
+      "postal_code": "44114"
+    },
+    {
+      "id": "32.05.01.1010",
+      "name": "Sukanegla",
+      "postal_code": "44111"
+    },
+    {
+      "id": "32.05.01.1011",
+      "name": "Cimuncang",
+      "postal_code": "44113"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

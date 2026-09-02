@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "96.01.12.2001",
+      "name": "Wilty",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.12.2002",
+      "name": "Mlawen",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.12.2003",
+      "name": "Byoklokfle",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.12.2004",
+      "name": "Tbotjin",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.12.2005",
+      "name": "Sas",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.12.2006",
+      "name": "Samolslo",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.12.2007",
+      "name": "Kmasen",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.12.2008",
+      "name": "Klasawon",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.12.2009",
+      "name": "Yurkaden",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.12.2010",
+      "name": "Betwaf",
+      "postal_code": "98443"
+    },
+    {
+      "id": "96.01.12.2011",
+      "name": "Cokhif",
+      "postal_code": "98443"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

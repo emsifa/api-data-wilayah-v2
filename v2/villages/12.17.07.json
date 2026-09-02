@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "12.17.07.2001",
+      "name": "Salaon Toba",
+      "postal_code": "22392"
+    },
+    {
+      "id": "12.17.07.2002",
+      "name": "Lintong Nihuta",
+      "postal_code": "22392"
+    },
+    {
+      "id": "12.17.07.2003",
+      "name": "Salaon Tonga Tonga",
+      "postal_code": "22392"
+    },
+    {
+      "id": "12.17.07.2004",
+      "name": "Salaon Dolok",
+      "postal_code": "22392"
+    },
+    {
+      "id": "12.17.07.2005",
+      "name": "Ronggur Nihuta",
+      "postal_code": "22392"
+    },
+    {
+      "id": "12.17.07.2006",
+      "name": "Sabungan Nihuta",
+      "postal_code": "22392"
+    },
+    {
+      "id": "12.17.07.2007",
+      "name": "Paraduan",
+      "postal_code": "22392"
+    },
+    {
+      "id": "12.17.07.2008",
+      "name": "Sijambur",
+      "postal_code": "22392"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

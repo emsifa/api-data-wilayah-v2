@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "36.72.03.1001",
+      "name": "Tamansari",
+      "postal_code": "42438"
+    },
+    {
+      "id": "36.72.03.1002",
+      "name": "Lebakgede",
+      "postal_code": "42431"
+    },
+    {
+      "id": "36.72.03.1003",
+      "name": "Mekarsari",
+      "postal_code": "42438"
+    },
+    {
+      "id": "36.72.03.1004",
+      "name": "Suralaya",
+      "postal_code": "42439"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "81.08.06.2001",
+      "name": "Ilwaki",
+      "postal_code": "97446"
+    },
+    {
+      "id": "81.08.06.2002",
+      "name": "Ilputih",
+      "postal_code": "97446"
+    },
+    {
+      "id": "81.08.06.2003",
+      "name": "Mahuan",
+      "postal_code": "97446"
+    },
+    {
+      "id": "81.08.06.2004",
+      "name": "Masapun",
+      "postal_code": "97446"
+    },
+    {
+      "id": "81.08.06.2021",
+      "name": "Arnau",
+      "postal_code": "97446"
+    },
+    {
+      "id": "81.08.06.2023",
+      "name": "Hiay",
+      "postal_code": "97446"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "16.71.03.1001",
+      "name": "Sebelas Ulu",
+      "postal_code": "30267"
+    },
+    {
+      "id": "16.71.03.1002",
+      "name": "Dua-belas Ulu",
+      "postal_code": "30262"
+    },
+    {
+      "id": "16.71.03.1003",
+      "name": "Tiga-belas Ulu",
+      "postal_code": "30263"
+    },
+    {
+      "id": "16.71.03.1004",
+      "name": "Empat-belas Ulu",
+      "postal_code": "30264"
+    },
+    {
+      "id": "16.71.03.1005",
+      "name": "Enam-belas Ulu",
+      "postal_code": "30265"
+    },
+    {
+      "id": "16.71.03.1006",
+      "name": "Tanggatakat",
+      "postal_code": "30264"
+    },
+    {
+      "id": "16.71.03.1007",
+      "name": "Sentosa",
+      "postal_code": "30261"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

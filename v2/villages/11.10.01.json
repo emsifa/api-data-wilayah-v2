@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "11.10.01.2001",
+      "name": "Pulau Balai",
+      "postal_code": "24791"
+    },
+    {
+      "id": "11.10.01.2002",
+      "name": "Pulau Baguk",
+      "postal_code": "24791"
+    },
+    {
+      "id": "11.10.01.2004",
+      "name": "Teluk Nibung",
+      "postal_code": "24791"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

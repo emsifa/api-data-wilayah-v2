@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "12.09.17.2001",
+      "name": "Bandar Pasir Mandoge",
+      "postal_code": "21262"
+    },
+    {
+      "id": "12.09.17.2002",
+      "name": "Huta Bagasan",
+      "postal_code": "21262"
+    },
+    {
+      "id": "12.09.17.2003",
+      "name": "Sei Nadoras",
+      "postal_code": "21262"
+    },
+    {
+      "id": "12.09.17.2004",
+      "name": "Silau Jawa",
+      "postal_code": "21262"
+    },
+    {
+      "id": "12.09.17.2005",
+      "name": "Suka Makmur",
+      "postal_code": "21262"
+    },
+    {
+      "id": "12.09.17.2006",
+      "name": "Sei Kopas",
+      "postal_code": "21262"
+    },
+    {
+      "id": "12.09.17.2007",
+      "name": "Huta Padang",
+      "postal_code": "21262"
+    },
+    {
+      "id": "12.09.17.2008",
+      "name": "Tomuan Holbung",
+      "postal_code": "21262"
+    },
+    {
+      "id": "12.09.17.2009",
+      "name": "Gotting Sidodadi",
+      "postal_code": "21262"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

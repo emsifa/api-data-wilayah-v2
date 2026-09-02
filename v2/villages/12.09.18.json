@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.09.18.1001",
+      "name": "Aek Loba Pekan",
+      "postal_code": "21273"
+    },
+    {
+      "id": "12.09.18.2002",
+      "name": "Aek Loba Afd I",
+      "postal_code": "21273"
+    },
+    {
+      "id": "12.09.18.2003",
+      "name": "Alang Bonbon",
+      "postal_code": "21273"
+    },
+    {
+      "id": "12.09.18.2009",
+      "name": "Sengon Sari",
+      "postal_code": "21273"
+    },
+    {
+      "id": "12.09.18.2010",
+      "name": "Lobu Jiur",
+      "postal_code": "21273"
+    },
+    {
+      "id": "12.09.18.2011",
+      "name": "Rawa Sari",
+      "postal_code": "21273"
+    },
+    {
+      "id": "12.09.18.2013",
+      "name": "Aek Loba",
+      "postal_code": "21273"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

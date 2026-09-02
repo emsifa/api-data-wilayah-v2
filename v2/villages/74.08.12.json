@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "74.08.12.2001",
+      "name": "Porehu",
+      "postal_code": "93950"
+    },
+    {
+      "id": "74.08.12.2002",
+      "name": "Tobela",
+      "postal_code": "93950"
+    },
+    {
+      "id": "74.08.12.2003",
+      "name": "Tanggaruru",
+      "postal_code": "93950"
+    },
+    {
+      "id": "74.08.12.2004",
+      "name": "Ponggi",
+      "postal_code": "93950"
+    },
+    {
+      "id": "74.08.12.2005",
+      "name": "Larui",
+      "postal_code": "93950"
+    },
+    {
+      "id": "74.08.12.2007",
+      "name": "Bangsala",
+      "postal_code": "93950"
+    },
+    {
+      "id": "74.08.12.2008",
+      "name": "Sarambu",
+      "postal_code": "93950"
+    },
+    {
+      "id": "74.08.12.2009",
+      "name": "Tinuna",
+      "postal_code": "93950"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

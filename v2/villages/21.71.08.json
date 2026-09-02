@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "21.71.08.1001",
+      "name": "Sijantung",
+      "postal_code": "29485"
+    },
+    {
+      "id": "21.71.08.1002",
+      "name": "Karas",
+      "postal_code": "29486"
+    },
+    {
+      "id": "21.71.08.1003",
+      "name": "Galang Baru",
+      "postal_code": "29484"
+    },
+    {
+      "id": "21.71.08.1004",
+      "name": "Sembulang",
+      "postal_code": "29481"
+    },
+    {
+      "id": "21.71.08.1005",
+      "name": "Rempang Cate",
+      "postal_code": "29482"
+    },
+    {
+      "id": "21.71.08.1006",
+      "name": "Subang Mas",
+      "postal_code": "29483"
+    },
+    {
+      "id": "21.71.08.1007",
+      "name": "Pulau Abang",
+      "postal_code": "29487"
+    },
+    {
+      "id": "21.71.08.1008",
+      "name": "Air Raja",
+      "postal_code": "29483"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

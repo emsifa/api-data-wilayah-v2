@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "16.71.07.1002",
+      "name": "Talangbetutu",
+      "postal_code": "30155"
+    },
+    {
+      "id": "16.71.07.1004",
+      "name": "Sukajaya",
+      "postal_code": "30151"
+    },
+    {
+      "id": "16.71.07.1005",
+      "name": "Sukarami",
+      "postal_code": "30153"
+    },
+    {
+      "id": "16.71.07.1007",
+      "name": "Kebunbunga",
+      "postal_code": "30151"
+    },
+    {
+      "id": "16.71.07.1009",
+      "name": "Sukabangun",
+      "postal_code": "30151"
+    },
+    {
+      "id": "16.71.07.1010",
+      "name": "Talangjambe",
+      "postal_code": "30151"
+    },
+    {
+      "id": "16.71.07.1011",
+      "name": "Sukodadi",
+      "postal_code": "30151"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

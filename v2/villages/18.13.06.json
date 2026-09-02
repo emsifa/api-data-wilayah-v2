@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "18.13.06.2001",
+      "name": "Pasar Pulau Pisang",
+      "postal_code": "34896"
+    },
+    {
+      "id": "18.13.06.2002",
+      "name": "Labuhan",
+      "postal_code": "34896"
+    },
+    {
+      "id": "18.13.06.2003",
+      "name": "Bandar Dalam",
+      "postal_code": "34896"
+    },
+    {
+      "id": "18.13.06.2004",
+      "name": "Pekon Lok",
+      "postal_code": "34896"
+    },
+    {
+      "id": "18.13.06.2005",
+      "name": "Sukadana",
+      "postal_code": "34896"
+    },
+    {
+      "id": "18.13.06.2006",
+      "name": "Sukamarga",
+      "postal_code": "34896"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

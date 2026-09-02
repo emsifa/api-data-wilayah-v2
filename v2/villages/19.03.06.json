@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "19.03.06.2001",
+      "name": "Sadai",
+      "postal_code": "33784"
+    },
+    {
+      "id": "19.03.06.2002",
+      "name": "Tukak",
+      "postal_code": "33784"
+    },
+    {
+      "id": "19.03.06.2003",
+      "name": "Pasir Putih",
+      "postal_code": "33784"
+    },
+    {
+      "id": "19.03.06.2004",
+      "name": "Tiram",
+      "postal_code": "33784"
+    },
+    {
+      "id": "19.03.06.2005",
+      "name": "Bukit Terap",
+      "postal_code": "33784"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

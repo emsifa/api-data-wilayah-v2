@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "53.01.06.1001",
+      "name": "Babau",
+      "postal_code": "85362"
+    },
+    {
+      "id": "53.01.06.1003",
+      "name": "Naibonat",
+      "postal_code": "85362"
+    },
+    {
+      "id": "53.01.06.1004",
+      "name": "Oesao",
+      "postal_code": "85362"
+    },
+    {
+      "id": "53.01.06.1005",
+      "name": "Merdeka",
+      "postal_code": "85362"
+    },
+    {
+      "id": "53.01.06.1008",
+      "name": "Tuatuka",
+      "postal_code": "85362"
+    },
+    {
+      "id": "53.01.06.2002",
+      "name": "Nunkurus",
+      "postal_code": "85362"
+    },
+    {
+      "id": "53.01.06.2006",
+      "name": "Tuapukan",
+      "postal_code": "85362"
+    },
+    {
+      "id": "53.01.06.2007",
+      "name": "Oefafi",
+      "postal_code": "85362"
+    },
+    {
+      "id": "53.01.06.2011",
+      "name": "Pukdale",
+      "postal_code": "85362"
+    },
+    {
+      "id": "53.01.06.2015",
+      "name": "Oesao",
+      "postal_code": "85362"
+    },
+    {
+      "id": "53.01.06.2016",
+      "name": "Manusak",
+      "postal_code": "85362"
+    },
+    {
+      "id": "53.01.06.2017",
+      "name": "Tanah Putih",
+      "postal_code": "85362"
+    },
+    {
+      "id": "53.01.06.2018",
+      "name": "Oelatimo",
+      "postal_code": "85362"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

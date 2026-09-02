@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "11.04.17.2001",
+      "name": "Takengon Timur",
+      "postal_code": "24511"
+    },
+    {
+      "id": "11.04.17.2002",
+      "name": "Asir Asir",
+      "postal_code": "24513"
+    },
+    {
+      "id": "11.04.17.2003",
+      "name": "Asir Asir Asia",
+      "postal_code": "24512"
+    },
+    {
+      "id": "11.04.17.2004",
+      "name": "Bale Atu",
+      "postal_code": "24512"
+    },
+    {
+      "id": "11.04.17.2005",
+      "name": "Bujang",
+      "postal_code": "24512"
+    },
+    {
+      "id": "11.04.17.2006",
+      "name": "Gunung Suku",
+      "postal_code": "24512"
+    },
+    {
+      "id": "11.04.17.2007",
+      "name": "Hakim Bale Bujang",
+      "postal_code": "24513"
+    },
+    {
+      "id": "11.04.17.2008",
+      "name": "Kenawat",
+      "postal_code": "24515"
+    },
+    {
+      "id": "11.04.17.2009",
+      "name": "Kuteni Reje",
+      "postal_code": "24512"
+    },
+    {
+      "id": "11.04.17.2010",
+      "name": "Pedemun One One",
+      "postal_code": "24515"
+    },
+    {
+      "id": "11.04.17.2011",
+      "name": "Rawe",
+      "postal_code": "24516"
+    },
+    {
+      "id": "11.04.17.2012",
+      "name": "Takengon Barat",
+      "postal_code": "24514"
+    },
+    {
+      "id": "11.04.17.2013",
+      "name": "Toweren Antara",
+      "postal_code": "24516"
+    },
+    {
+      "id": "11.04.17.2014",
+      "name": "Toweren Toa",
+      "postal_code": "24516"
+    },
+    {
+      "id": "11.04.17.2015",
+      "name": "Toweren Uken",
+      "postal_code": "24516"
+    },
+    {
+      "id": "11.04.17.2016",
+      "name": "Teluk One-One",
+      "postal_code": "24515"
+    },
+    {
+      "id": "11.04.17.2017",
+      "name": "Merah Mersa",
+      "postal_code": "24516"
+    },
+    {
+      "id": "11.04.17.2018",
+      "name": "Waq Toweren",
+      "postal_code": "24516"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "74.05.21.2001",
+      "name": "Iwoimendoro",
+      "postal_code": "93876"
+    },
+    {
+      "id": "74.05.21.2002",
+      "name": "Epeesi",
+      "postal_code": "93876"
+    },
+    {
+      "id": "74.05.21.2003",
+      "name": "Lere",
+      "postal_code": "93876"
+    },
+    {
+      "id": "74.05.21.2004",
+      "name": "Lipumasagena",
+      "postal_code": "93876"
+    },
+    {
+      "id": "74.05.21.2005",
+      "name": "Lambandia",
+      "postal_code": "93876"
+    },
+    {
+      "id": "74.05.21.2006",
+      "name": "Polo Pololi",
+      "postal_code": "93876"
+    },
+    {
+      "id": "74.05.21.2007",
+      "name": "Basala",
+      "postal_code": "93876"
+    },
+    {
+      "id": "74.05.21.2008",
+      "name": "Tombekuku",
+      "postal_code": "93876"
+    },
+    {
+      "id": "74.05.21.2009",
+      "name": "Teporombua",
+      "postal_code": "93876"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

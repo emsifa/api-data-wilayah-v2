@@ -1,18 +1,28 @@
 {
-  "data": {
-    "id": "12.76",
-    "name": "Kota Tebing Tinggi",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
+  "data": [
+    {
+      "id": "12.76.01",
+      "name": "Padang Hulu"
     },
-    "regency": {
-      "id": "12.76",
-      "name": "Kota Tebing Tinggi"
+    {
+      "id": "12.76.02",
+      "name": "Rambutan"
+    },
+    {
+      "id": "12.76.03",
+      "name": "Padang Hilir"
+    },
+    {
+      "id": "12.76.04",
+      "name": "Bajenis"
+    },
+    {
+      "id": "12.76.05",
+      "name": "Tebing Tinggi Kota"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "82.03.19.2001",
+      "name": "Salube",
+      "postal_code": "97763"
+    },
+    {
+      "id": "82.03.19.2002",
+      "name": "Dama",
+      "postal_code": "97763"
+    },
+    {
+      "id": "82.03.19.2003",
+      "name": "Dowonggila",
+      "postal_code": "97763"
+    },
+    {
+      "id": "82.03.19.2004",
+      "name": "Tuakara",
+      "postal_code": "97763"
+    },
+    {
+      "id": "82.03.19.2005",
+      "name": "Jikolamo",
+      "postal_code": "97763"
+    },
+    {
+      "id": "82.03.19.2006",
+      "name": "Dagasuli",
+      "postal_code": "97763"
+    },
+    {
+      "id": "82.03.19.2007",
+      "name": "Dedeta",
+      "postal_code": "97763"
+    },
+    {
+      "id": "82.03.19.2008",
+      "name": "Fitako",
+      "postal_code": "97763"
+    },
+    {
+      "id": "82.03.19.2009",
+      "name": "Tobo Tobo",
+      "postal_code": "97763"
+    },
+    {
+      "id": "82.03.19.2010",
+      "name": "Cera",
+      "postal_code": "97763"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

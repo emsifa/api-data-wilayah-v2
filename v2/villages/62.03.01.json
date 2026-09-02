@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "62.03.01.1006",
+      "name": "Murung Keramat",
+      "postal_code": "73512"
+    },
+    {
+      "id": "62.03.01.1007",
+      "name": "Selat Hilir",
+      "postal_code": "73513"
+    },
+    {
+      "id": "62.03.01.1008",
+      "name": "Selat Tengah",
+      "postal_code": "73514"
+    },
+    {
+      "id": "62.03.01.1009",
+      "name": "Selat Hulu",
+      "postal_code": "73515"
+    },
+    {
+      "id": "62.03.01.1010",
+      "name": "Selat Dalam",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.01.1021",
+      "name": "Selat Utara",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.01.1022",
+      "name": "Selat Barat",
+      "postal_code": "73514"
+    },
+    {
+      "id": "62.03.01.1023",
+      "name": "Panamas",
+      "postal_code": "73514"
+    },
+    {
+      "id": "62.03.01.2011",
+      "name": "Pulau Telo",
+      "postal_code": "73516"
+    },
+    {
+      "id": "62.03.01.2020",
+      "name": "Pulau Telo Baru",
+      "postal_code": "73516"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

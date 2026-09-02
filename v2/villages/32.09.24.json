@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "32.09.24.2001",
+      "name": "Sende",
+      "postal_code": "45162"
+    },
+    {
+      "id": "32.09.24.2002",
+      "name": "Jungjang Wetan",
+      "postal_code": "45162"
+    },
+    {
+      "id": "32.09.24.2003",
+      "name": "Jungjang",
+      "postal_code": "45162"
+    },
+    {
+      "id": "32.09.24.2004",
+      "name": "Arjawinangun",
+      "postal_code": "45162"
+    },
+    {
+      "id": "32.09.24.2005",
+      "name": "Tegalgubug",
+      "postal_code": "45162"
+    },
+    {
+      "id": "32.09.24.2006",
+      "name": "Tegalgubug Lor",
+      "postal_code": "45162"
+    },
+    {
+      "id": "32.09.24.2007",
+      "name": "Rawagatel",
+      "postal_code": "45162"
+    },
+    {
+      "id": "32.09.24.2008",
+      "name": "Karangsambung",
+      "postal_code": "45162"
+    },
+    {
+      "id": "32.09.24.2009",
+      "name": "Bulak",
+      "postal_code": "45162"
+    },
+    {
+      "id": "32.09.24.2010",
+      "name": "Geyongan",
+      "postal_code": "45162"
+    },
+    {
+      "id": "32.09.24.2011",
+      "name": "Kebonturi",
+      "postal_code": "45162"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

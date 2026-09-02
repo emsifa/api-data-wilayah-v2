@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "33.24.10.2001",
+      "name": "Margomulyo",
+      "postal_code": "51358"
+    },
+    {
+      "id": "33.24.10.2002",
+      "name": "Tegorejo",
+      "postal_code": "51358"
+    },
+    {
+      "id": "33.24.10.2003",
+      "name": "Pesawahan",
+      "postal_code": "51358"
+    },
+    {
+      "id": "33.24.10.2004",
+      "name": "Pekuncen",
+      "postal_code": "51358"
+    },
+    {
+      "id": "33.24.10.2005",
+      "name": "Puguh",
+      "postal_code": "51358"
+    },
+    {
+      "id": "33.24.10.2006",
+      "name": "Dawungsari",
+      "postal_code": "51358"
+    },
+    {
+      "id": "33.24.10.2007",
+      "name": "Pucangrejo",
+      "postal_code": "51358"
+    },
+    {
+      "id": "33.24.10.2008",
+      "name": "Gubugsari",
+      "postal_code": "51358"
+    },
+    {
+      "id": "33.24.10.2009",
+      "name": "Pegandon",
+      "postal_code": "51358"
+    },
+    {
+      "id": "33.24.10.2010",
+      "name": "Penanggulan",
+      "postal_code": "51358"
+    },
+    {
+      "id": "33.24.10.2011",
+      "name": "Wonosari",
+      "postal_code": "51358"
+    },
+    {
+      "id": "33.24.10.2012",
+      "name": "Karangmulyo",
+      "postal_code": "51358"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

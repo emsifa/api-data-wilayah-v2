@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "53.17.04.2001",
+      "name": "Mbilur Pangadu",
+      "postal_code": "87283"
+    },
+    {
+      "id": "53.17.04.2002",
+      "name": "Soru",
+      "postal_code": "87283"
+    },
+    {
+      "id": "53.17.04.2003",
+      "name": "Praikoruku Jangga",
+      "postal_code": "87283"
+    },
+    {
+      "id": "53.17.04.2007",
+      "name": "Lenang",
+      "postal_code": "87283"
+    },
+    {
+      "id": "53.17.04.2008",
+      "name": "Tana Mbanas",
+      "postal_code": "87283"
+    },
+    {
+      "id": "53.17.04.2009",
+      "name": "Padira Tana",
+      "postal_code": "87283"
+    },
+    {
+      "id": "53.17.04.2010",
+      "name": "Ngadu Bolu",
+      "postal_code": "87283"
+    },
+    {
+      "id": "53.17.04.2014",
+      "name": "Tana Mbanas Selatan",
+      "postal_code": "87283"
+    },
+    {
+      "id": "53.17.04.2015",
+      "name": "Tana Mbanas Barat",
+      "postal_code": "87283"
+    },
+    {
+      "id": "53.17.04.2016",
+      "name": "Ngadu Olu",
+      "postal_code": "87283"
+    },
+    {
+      "id": "53.17.04.2017",
+      "name": "Lenang Selatan",
+      "postal_code": "87283"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

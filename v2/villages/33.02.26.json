@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "33.02.26.1001",
+      "name": "Sokanegara",
+      "postal_code": "53115"
+    },
+    {
+      "id": "33.02.26.1002",
+      "name": "Kranji",
+      "postal_code": "53116"
+    },
+    {
+      "id": "33.02.26.1003",
+      "name": "Purwokerto Lor",
+      "postal_code": "53114"
+    },
+    {
+      "id": "33.02.26.1004",
+      "name": "Purwokerto Wetan",
+      "postal_code": "53111"
+    },
+    {
+      "id": "33.02.26.1005",
+      "name": "Mersi",
+      "postal_code": "53112"
+    },
+    {
+      "id": "33.02.26.1006",
+      "name": "Arcawinangun",
+      "postal_code": "53113"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "93.02.04.2001",
+      "name": "Kouh",
+      "postal_code": "99655"
+    },
+    {
+      "id": "93.02.04.2002",
+      "name": "Jair",
+      "postal_code": "99665"
+    },
+    {
+      "id": "93.02.04.2003",
+      "name": "Mandobo",
+      "postal_code": "99665"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

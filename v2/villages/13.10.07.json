@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.10.07.2001",
+      "name": "Koto Salak",
+      "postal_code": "27680"
+    },
+    {
+      "id": "13.10.07.2002",
+      "name": "Ampalu",
+      "postal_code": "27680"
+    },
+    {
+      "id": "13.10.07.2003",
+      "name": "Padukuan",
+      "postal_code": "27680"
+    },
+    {
+      "id": "13.10.07.2004",
+      "name": "Pulau Mainan",
+      "postal_code": "27680"
+    },
+    {
+      "id": "13.10.07.2005",
+      "name": "Simalidu",
+      "postal_code": "27680"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

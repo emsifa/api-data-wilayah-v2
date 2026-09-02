@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "18.71.04.1001",
+      "name": "Panjang Selatan",
+      "postal_code": "35243"
+    },
+    {
+      "id": "18.71.04.1002",
+      "name": "Srengsem",
+      "postal_code": "35242"
+    },
+    {
+      "id": "18.71.04.1003",
+      "name": "Panjang Utara",
+      "postal_code": "35241"
+    },
+    {
+      "id": "18.71.04.1004",
+      "name": "Pidada",
+      "postal_code": "35241"
+    },
+    {
+      "id": "18.71.04.1007",
+      "name": "Karang Maritim",
+      "postal_code": "35245"
+    },
+    {
+      "id": "18.71.04.1008",
+      "name": "Way Lunik",
+      "postal_code": "35244"
+    },
+    {
+      "id": "18.71.04.1009",
+      "name": "Ketapang",
+      "postal_code": "35245"
+    },
+    {
+      "id": "18.71.04.1010",
+      "name": "Ketapang Kuala",
+      "postal_code": "35246"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

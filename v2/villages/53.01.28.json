@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "53.01.28.2001",
+      "name": "Oelbiteno",
+      "postal_code": "85220"
+    },
+    {
+      "id": "53.01.28.2002",
+      "name": "Nonbaun",
+      "postal_code": "85220"
+    },
+    {
+      "id": "53.01.28.2003",
+      "name": "Nunsaen",
+      "postal_code": "85220"
+    },
+    {
+      "id": "53.01.28.2004",
+      "name": "Passi",
+      "postal_code": "85220"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

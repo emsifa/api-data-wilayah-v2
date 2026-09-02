@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.11.05.2001",
+      "name": "Cisitu",
+      "postal_code": "45363"
+    },
+    {
+      "id": "32.11.05.2002",
+      "name": "Situmekar",
+      "postal_code": "45363"
+    },
+    {
+      "id": "32.11.05.2003",
+      "name": "Pajagan",
+      "postal_code": "45363"
+    },
+    {
+      "id": "32.11.05.2004",
+      "name": "Cigintung",
+      "postal_code": "45363"
+    },
+    {
+      "id": "32.11.05.2005",
+      "name": "Sundamekar",
+      "postal_code": "45363"
+    },
+    {
+      "id": "32.11.05.2006",
+      "name": "Linggajaya",
+      "postal_code": "45363"
+    },
+    {
+      "id": "32.11.05.2007",
+      "name": "Ranjeng",
+      "postal_code": "45363"
+    },
+    {
+      "id": "32.11.05.2008",
+      "name": "Cilopang",
+      "postal_code": "45363"
+    },
+    {
+      "id": "32.11.05.2009",
+      "name": "Cimarga",
+      "postal_code": "45363"
+    },
+    {
+      "id": "32.11.05.2010",
+      "name": "Cinangsi",
+      "postal_code": "45363"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

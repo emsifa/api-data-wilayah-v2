@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.04.40.2001",
+      "name": "Peyola",
+      "postal_code": "99016"
+    },
+    {
+      "id": "95.04.40.2002",
+      "name": "Kogotime",
+      "postal_code": "99016"
+    },
+    {
+      "id": "95.04.40.2003",
+      "name": "Gabunam",
+      "postal_code": "99016"
+    },
+    {
+      "id": "95.04.40.2004",
+      "name": "Gulak",
+      "postal_code": "99016"
+    },
+    {
+      "id": "95.04.40.2005",
+      "name": "Melaga",
+      "postal_code": "99016"
+    },
+    {
+      "id": "95.04.40.2006",
+      "name": "Ekoni",
+      "postal_code": "99016"
+    },
+    {
+      "id": "95.04.40.2007",
+      "name": "Minggen",
+      "postal_code": "99016"
+    },
+    {
+      "id": "95.04.40.2008",
+      "name": "Kandimbaga",
+      "postal_code": "99016"
+    },
+    {
+      "id": "95.04.40.2009",
+      "name": "Kinebe",
+      "postal_code": "99016"
+    },
+    {
+      "id": "95.04.40.2010",
+      "name": "Belela",
+      "postal_code": "99016"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

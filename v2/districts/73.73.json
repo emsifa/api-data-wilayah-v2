@@ -1,18 +1,44 @@
 {
-  "data": {
-    "id": "73.73",
-    "name": "Kota Palopo",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
+  "data": [
+    {
+      "id": "73.73.01",
+      "name": "Wara"
     },
-    "regency": {
-      "id": "73.73",
-      "name": "Kota Palopo"
+    {
+      "id": "73.73.02",
+      "name": "Wara Utara"
+    },
+    {
+      "id": "73.73.03",
+      "name": "Wara Selatan"
+    },
+    {
+      "id": "73.73.04",
+      "name": "Telluwanua"
+    },
+    {
+      "id": "73.73.05",
+      "name": "Wara Timur"
+    },
+    {
+      "id": "73.73.06",
+      "name": "Wara Barat"
+    },
+    {
+      "id": "73.73.07",
+      "name": "Sendana"
+    },
+    {
+      "id": "73.73.08",
+      "name": "Mungkajang"
+    },
+    {
+      "id": "73.73.09",
+      "name": "Bara"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

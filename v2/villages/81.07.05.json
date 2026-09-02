@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "81.07.05.2001",
+      "name": "Kabalsiang",
+      "postal_code": "97663"
+    },
+    {
+      "id": "81.07.05.2002",
+      "name": "Benjuring",
+      "postal_code": "97663"
+    },
+    {
+      "id": "81.07.05.2003",
+      "name": "Batuley",
+      "postal_code": "97663"
+    },
+    {
+      "id": "81.07.05.2004",
+      "name": "Kumul",
+      "postal_code": "97663"
+    },
+    {
+      "id": "81.07.05.2005",
+      "name": "Waria",
+      "postal_code": "97663"
+    },
+    {
+      "id": "81.07.05.2006",
+      "name": "Sewer",
+      "postal_code": "97663"
+    },
+    {
+      "id": "81.07.05.2007",
+      "name": "Jursiang",
+      "postal_code": "97663"
+    },
+    {
+      "id": "81.07.05.2008",
+      "name": "Kompane",
+      "postal_code": "97663"
+    },
+    {
+      "id": "81.07.05.2009",
+      "name": "Kobamar",
+      "postal_code": "97663"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

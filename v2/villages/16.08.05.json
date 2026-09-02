@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "16.08.05.2001",
+      "name": "Negeri Pakuan",
+      "postal_code": "32367"
+    },
+    {
+      "id": "16.08.05.2002",
+      "name": "Negeri Agung",
+      "postal_code": "32367"
+    },
+    {
+      "id": "16.08.05.2003",
+      "name": "Banu Mas",
+      "postal_code": "32367"
+    },
+    {
+      "id": "16.08.05.2004",
+      "name": "Banu Ayu",
+      "postal_code": "32367"
+    },
+    {
+      "id": "16.08.05.2005",
+      "name": "Pulau Negara",
+      "postal_code": "32367"
+    },
+    {
+      "id": "16.08.05.2006",
+      "name": "Saung Dadi",
+      "postal_code": "32367"
+    },
+    {
+      "id": "16.08.05.2007",
+      "name": "Trantang Sakti",
+      "postal_code": "32367"
+    },
+    {
+      "id": "16.08.05.2008",
+      "name": "Pemetung Besuki",
+      "postal_code": "32367"
+    },
+    {
+      "id": "16.08.05.2009",
+      "name": "Pahang Asri",
+      "postal_code": "32367"
+    },
+    {
+      "id": "16.08.05.2010",
+      "name": "Bantan",
+      "postal_code": "32367"
+    },
+    {
+      "id": "16.08.05.2011",
+      "name": "Bandar Jaya",
+      "postal_code": "32367"
+    },
+    {
+      "id": "16.08.05.2012",
+      "name": "Negeri Agung Jaya",
+      "postal_code": "32367"
+    },
+    {
+      "id": "16.08.05.2013",
+      "name": "Bantan Pelita",
+      "postal_code": "32367"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

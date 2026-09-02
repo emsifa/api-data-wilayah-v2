@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "12.77.04.1001",
+      "name": "Hutaimbaru",
+      "postal_code": "22701"
+    },
+    {
+      "id": "12.77.04.1002",
+      "name": "Lubuk Raya",
+      "postal_code": "22703"
+    },
+    {
+      "id": "12.77.04.1003",
+      "name": "Sabungan Jae",
+      "postal_code": "22706"
+    },
+    {
+      "id": "12.77.04.1004",
+      "name": "Lembah Lubuk Manik",
+      "postal_code": "22702"
+    },
+    {
+      "id": "12.77.04.1005",
+      "name": "Palopat Maria",
+      "postal_code": "22704"
+    },
+    {
+      "id": "12.77.04.2006",
+      "name": "Sabungan Sipabangun",
+      "postal_code": "22707"
+    },
+    {
+      "id": "12.77.04.2007",
+      "name": "Singali",
+      "postal_code": "22708"
+    },
+    {
+      "id": "12.77.04.2008",
+      "name": "Huta Padang",
+      "postal_code": "22700"
+    },
+    {
+      "id": "12.77.04.2009",
+      "name": "Partihaman Saroha",
+      "postal_code": "22705"
+    },
+    {
+      "id": "12.77.04.2010",
+      "name": "Tinjoman Lama",
+      "postal_code": "22709"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

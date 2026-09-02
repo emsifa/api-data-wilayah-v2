@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "74.08.04.1004",
+      "name": "Rante Angin",
+      "postal_code": "93961"
+    },
+    {
+      "id": "74.08.04.2003",
+      "name": "Rante Baru",
+      "postal_code": "93961"
+    },
+    {
+      "id": "74.08.04.2005",
+      "name": "Pohu",
+      "postal_code": "93961"
+    },
+    {
+      "id": "74.08.04.2011",
+      "name": "Torotuo",
+      "postal_code": "93961"
+    },
+    {
+      "id": "74.08.04.2013",
+      "name": "Maroko",
+      "postal_code": "93961"
+    },
+    {
+      "id": "74.08.04.2014",
+      "name": "Landolia",
+      "postal_code": "93961"
+    },
+    {
+      "id": "74.08.04.2015",
+      "name": "Lawekara",
+      "postal_code": "93961"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

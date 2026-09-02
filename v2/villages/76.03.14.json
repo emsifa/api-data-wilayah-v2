@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "76.03.14.1001",
+      "name": "Tawalian",
+      "postal_code": "91368"
+    },
+    {
+      "id": "76.03.14.2002",
+      "name": "Tawalian Timur",
+      "postal_code": "91368"
+    },
+    {
+      "id": "76.03.14.2003",
+      "name": "Kariango",
+      "postal_code": "91368"
+    },
+    {
+      "id": "76.03.14.2004",
+      "name": "Rantetangnga",
+      "postal_code": "91368"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "31.73.05.1001",
+      "name": "Kebon Jeruk",
+      "postal_code": "11530"
+    },
+    {
+      "id": "31.73.05.1002",
+      "name": "Sukabumi Utara",
+      "postal_code": "11540"
+    },
+    {
+      "id": "31.73.05.1003",
+      "name": "Sukabumi Selatan",
+      "postal_code": "11560"
+    },
+    {
+      "id": "31.73.05.1004",
+      "name": "Kelapa Dua",
+      "postal_code": "11550"
+    },
+    {
+      "id": "31.73.05.1005",
+      "name": "Duri Kepa",
+      "postal_code": "11510"
+    },
+    {
+      "id": "31.73.05.1006",
+      "name": "Kedoya Utara",
+      "postal_code": "11520"
+    },
+    {
+      "id": "31.73.05.1007",
+      "name": "Kedoya Selatan",
+      "postal_code": "11520"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

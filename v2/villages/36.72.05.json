@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "36.72.05.1001",
+      "name": "Sukmajaya",
+      "postal_code": "42416"
+    },
+    {
+      "id": "36.72.05.1002",
+      "name": "Jombang Wetan",
+      "postal_code": "42411"
+    },
+    {
+      "id": "36.72.05.1003",
+      "name": "Masigit",
+      "postal_code": "42414"
+    },
+    {
+      "id": "36.72.05.1004",
+      "name": "Panggung Rawi",
+      "postal_code": "42412"
+    },
+    {
+      "id": "36.72.05.1005",
+      "name": "Gedong Dalem",
+      "postal_code": "42413"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "73.06",
+    "name": "Kabupaten Gowa",
+    "capital": "Sungguminasa",
+    "lat": -5.199807421044581,
+    "lng": 119.45319036991962,
+    "elv": 13,
+    "tz": 8,
+    "population": 825369,
+    "total_area": 1812.988,
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,18 +1,44 @@
 {
-  "data": {
-    "id": "17.71",
-    "name": "Kota Bengkulu",
-    "province": {
-      "id": "17",
-      "name": "Bengkulu"
+  "data": [
+    {
+      "id": "17.71.01",
+      "name": "Selebar"
     },
-    "regency": {
-      "id": "17.71",
-      "name": "Kota Bengkulu"
+    {
+      "id": "17.71.02",
+      "name": "Gading Cempaka"
+    },
+    {
+      "id": "17.71.03",
+      "name": "Teluk Segara"
+    },
+    {
+      "id": "17.71.04",
+      "name": "Muara Bangka Hulu"
+    },
+    {
+      "id": "17.71.05",
+      "name": "Kampung Melayu"
+    },
+    {
+      "id": "17.71.06",
+      "name": "Ratu Agung"
+    },
+    {
+      "id": "17.71.07",
+      "name": "Ratu Samban"
+    },
+    {
+      "id": "17.71.08",
+      "name": "Sungai Serut"
+    },
+    {
+      "id": "17.71.09",
+      "name": "Singaran Pati"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

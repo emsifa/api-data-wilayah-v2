@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "96.01.15.2001",
+      "name": "Klayili",
+      "postal_code": "98446"
+    },
+    {
+      "id": "96.01.15.2002",
+      "name": "Klawuluh",
+      "postal_code": "98446"
+    },
+    {
+      "id": "96.01.15.2003",
+      "name": "Malakobutu",
+      "postal_code": "98446"
+    },
+    {
+      "id": "96.01.15.2004",
+      "name": "Kwakeik",
+      "postal_code": "98446"
+    },
+    {
+      "id": "96.01.15.2005",
+      "name": "Klasowoh",
+      "postal_code": "98446"
+    },
+    {
+      "id": "96.01.15.2006",
+      "name": "Malalilis",
+      "postal_code": "98446"
+    },
+    {
+      "id": "96.01.15.2007",
+      "name": "Mlawer",
+      "postal_code": "98446"
+    },
+    {
+      "id": "96.01.15.2008",
+      "name": "Klatomok",
+      "postal_code": "98446"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

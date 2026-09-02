@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "33.02.23.2001",
+      "name": "Karangsalam Kidul",
+      "postal_code": "53152"
+    },
+    {
+      "id": "33.02.23.2002",
+      "name": "Kebocoran",
+      "postal_code": "53152"
+    },
+    {
+      "id": "33.02.23.2003",
+      "name": "Kedungbanteng",
+      "postal_code": "53152"
+    },
+    {
+      "id": "33.02.23.2004",
+      "name": "Beji",
+      "postal_code": "53152"
+    },
+    {
+      "id": "33.02.23.2005",
+      "name": "Karangnangka",
+      "postal_code": "53152"
+    },
+    {
+      "id": "33.02.23.2006",
+      "name": "Keniten",
+      "postal_code": "53152"
+    },
+    {
+      "id": "33.02.23.2007",
+      "name": "Dawuhan Wetan",
+      "postal_code": "53152"
+    },
+    {
+      "id": "33.02.23.2008",
+      "name": "Dawuhan Kulon",
+      "postal_code": "53152"
+    },
+    {
+      "id": "33.02.23.2009",
+      "name": "Baseh",
+      "postal_code": "53152"
+    },
+    {
+      "id": "33.02.23.2010",
+      "name": "Kalisalak",
+      "postal_code": "53152"
+    },
+    {
+      "id": "33.02.23.2011",
+      "name": "Windujaya",
+      "postal_code": "53152"
+    },
+    {
+      "id": "33.02.23.2012",
+      "name": "Kalikesur",
+      "postal_code": "53152"
+    },
+    {
+      "id": "33.02.23.2013",
+      "name": "Kutaliman",
+      "postal_code": "53152"
+    },
+    {
+      "id": "33.02.23.2014",
+      "name": "Melung",
+      "postal_code": "53152"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

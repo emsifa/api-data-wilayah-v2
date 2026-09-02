@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "95.03.47.2001",
+      "name": "Hilipuk",
+      "postal_code": "99732"
+    },
+    {
+      "id": "95.03.47.2002",
+      "name": "Homidipmu",
+      "postal_code": "99732"
+    },
+    {
+      "id": "95.03.47.2003",
+      "name": "Kini",
+      "postal_code": "99732"
+    },
+    {
+      "id": "95.03.47.2004",
+      "name": "Yaruhuk",
+      "postal_code": "99732"
+    },
+    {
+      "id": "95.03.47.2005",
+      "name": "Jamin",
+      "postal_code": "99732"
+    },
+    {
+      "id": "95.03.47.2006",
+      "name": "Dindok",
+      "postal_code": "99732"
+    },
+    {
+      "id": "95.03.47.2007",
+      "name": "Sohondipmu",
+      "postal_code": "99732"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

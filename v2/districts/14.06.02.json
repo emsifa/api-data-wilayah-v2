@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "14.06.02",
+    "name": "Rokan IV Koto",
+    "province": {
+      "id": "14",
+      "name": "Riau"
+    },
+    "regency": {
+      "id": "14.06",
+      "name": "Kabupaten Rokan Hulu"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

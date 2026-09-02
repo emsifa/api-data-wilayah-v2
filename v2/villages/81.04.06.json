@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "81.04.06.2001",
+      "name": "Lamahang",
+      "postal_code": "97573"
+    },
+    {
+      "id": "81.04.06.2002",
+      "name": "Waplau",
+      "postal_code": "97573"
+    },
+    {
+      "id": "81.04.06.2003",
+      "name": "Waeura",
+      "postal_code": "97573"
+    },
+    {
+      "id": "81.04.06.2004",
+      "name": "Samalagi",
+      "postal_code": "97573"
+    },
+    {
+      "id": "81.04.06.2005",
+      "name": "Namsina",
+      "postal_code": "97573"
+    },
+    {
+      "id": "81.04.06.2006",
+      "name": "Hatawano",
+      "postal_code": "97573"
+    },
+    {
+      "id": "81.04.06.2007",
+      "name": "Waelihang",
+      "postal_code": "97573"
+    },
+    {
+      "id": "81.04.06.2008",
+      "name": "Waprea",
+      "postal_code": "97573"
+    },
+    {
+      "id": "81.04.06.2009",
+      "name": "Waepotih",
+      "postal_code": "97573"
+    },
+    {
+      "id": "81.04.06.2010",
+      "name": "Skikilale",
+      "postal_code": "97573"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

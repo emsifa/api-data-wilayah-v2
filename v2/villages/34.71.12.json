@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "34.71.12.1001",
+      "name": "Keparakan",
+      "postal_code": "55152"
+    },
+    {
+      "id": "34.71.12.1002",
+      "name": "Wirogunan",
+      "postal_code": "55151"
+    },
+    {
+      "id": "34.71.12.1003",
+      "name": "Brontokusuman",
+      "postal_code": "55153"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "31.75.05",
+    "name": "Pasar Rebo",
+    "province": {
+      "id": "31",
+      "name": "Daerah Khusus Ibukota Jakarta"
+    },
+    "regency": {
+      "id": "31.75",
+      "name": "Kota Administrasi Jakarta Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

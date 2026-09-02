@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "13.73.04.2001",
+      "name": "Talawi Hilie",
+      "postal_code": "27445"
+    },
+    {
+      "id": "13.73.04.2002",
+      "name": "Talawi Mudiak",
+      "postal_code": "27444"
+    },
+    {
+      "id": "13.73.04.2003",
+      "name": "Bukit Gadang",
+      "postal_code": "27444"
+    },
+    {
+      "id": "13.73.04.2004",
+      "name": "Batu Tanjung",
+      "postal_code": "27443"
+    },
+    {
+      "id": "13.73.04.2005",
+      "name": "Kumbayau",
+      "postal_code": "27443"
+    },
+    {
+      "id": "13.73.04.2006",
+      "name": "Tumpuk Tangah",
+      "postal_code": "27442"
+    },
+    {
+      "id": "13.73.04.2007",
+      "name": "Datar Mansiang",
+      "postal_code": "27441"
+    },
+    {
+      "id": "13.73.04.2008",
+      "name": "Sijantang Koto",
+      "postal_code": "27446"
+    },
+    {
+      "id": "13.73.04.2009",
+      "name": "Salak",
+      "postal_code": "27447"
+    },
+    {
+      "id": "13.73.04.2010",
+      "name": "Sikalang",
+      "postal_code": "27448"
+    },
+    {
+      "id": "13.73.04.2011",
+      "name": "Rantih",
+      "postal_code": "27449"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

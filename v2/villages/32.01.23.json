@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "32.01.23.2001",
+      "name": "Tapos",
+      "postal_code": "16370"
+    },
+    {
+      "id": "32.01.23.2002",
+      "name": "Ciomas",
+      "postal_code": "16370"
+    },
+    {
+      "id": "32.01.23.2003",
+      "name": "Batok",
+      "postal_code": "16370"
+    },
+    {
+      "id": "32.01.23.2004",
+      "name": "Babakan",
+      "postal_code": "16370"
+    },
+    {
+      "id": "32.01.23.2005",
+      "name": "Tenjo",
+      "postal_code": "16370"
+    },
+    {
+      "id": "32.01.23.2006",
+      "name": "Cilaku",
+      "postal_code": "16370"
+    },
+    {
+      "id": "32.01.23.2007",
+      "name": "Singabraja",
+      "postal_code": "16370"
+    },
+    {
+      "id": "32.01.23.2008",
+      "name": "Singabangsa",
+      "postal_code": "16370"
+    },
+    {
+      "id": "32.01.23.2009",
+      "name": "Bojong",
+      "postal_code": "16370"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

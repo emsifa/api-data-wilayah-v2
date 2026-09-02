@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "73.71.15.1001",
+      "name": "Barrang Caddi",
+      "postal_code": "90167"
+    },
+    {
+      "id": "73.71.15.1002",
+      "name": "Barrang Lompo",
+      "postal_code": "90166"
+    },
+    {
+      "id": "73.71.15.1003",
+      "name": "Kodingareng",
+      "postal_code": "90168"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

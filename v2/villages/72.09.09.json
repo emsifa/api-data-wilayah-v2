@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "72.09.09.2001",
+      "name": "Biga",
+      "postal_code": "94693"
+    },
+    {
+      "id": "72.09.09.2002",
+      "name": "Salinggoha",
+      "postal_code": "94693"
+    },
+    {
+      "id": "72.09.09.2003",
+      "name": "Tingki",
+      "postal_code": "94693"
+    },
+    {
+      "id": "72.09.09.2004",
+      "name": "Malapo",
+      "postal_code": "94693"
+    },
+    {
+      "id": "72.09.09.2005",
+      "name": "Pasokan",
+      "postal_code": "94693"
+    },
+    {
+      "id": "72.09.09.2006",
+      "name": "Kondongan",
+      "postal_code": "94693"
+    },
+    {
+      "id": "72.09.09.2007",
+      "name": "Katogop",
+      "postal_code": "94693"
+    },
+    {
+      "id": "72.09.09.2008",
+      "name": "Tongidon",
+      "postal_code": "94693"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

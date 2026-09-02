@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.02.28.2001",
+      "name": "Cicantayan",
+      "postal_code": "43155"
+    },
+    {
+      "id": "32.02.28.2002",
+      "name": "Lembursawah",
+      "postal_code": "43155"
+    },
+    {
+      "id": "32.02.28.2003",
+      "name": "Cijalingan",
+      "postal_code": "43155"
+    },
+    {
+      "id": "32.02.28.2004",
+      "name": "Cisande",
+      "postal_code": "43155"
+    },
+    {
+      "id": "32.02.28.2005",
+      "name": "Cimahi",
+      "postal_code": "43155"
+    },
+    {
+      "id": "32.02.28.2006",
+      "name": "Hegarmanah",
+      "postal_code": "43155"
+    },
+    {
+      "id": "32.02.28.2007",
+      "name": "Sukadamai",
+      "postal_code": "43155"
+    },
+    {
+      "id": "32.02.28.2008",
+      "name": "Cimanggis",
+      "postal_code": "43155"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "74.71.03.1001",
+      "name": "Baruga",
+      "postal_code": "93116"
+    },
+    {
+      "id": "74.71.03.1002",
+      "name": "Lepo Lepo",
+      "postal_code": "93116"
+    },
+    {
+      "id": "74.71.03.1007",
+      "name": "Watubangga",
+      "postal_code": "93116"
+    },
+    {
+      "id": "74.71.03.1008",
+      "name": "Wundudopi",
+      "postal_code": "93116"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

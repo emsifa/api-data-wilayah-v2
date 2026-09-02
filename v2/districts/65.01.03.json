@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "65.01.03",
+    "name": "Tanjung Palas Utara",
+    "province": {
+      "id": "65",
+      "name": "Kalimantan Utara"
+    },
+    "regency": {
+      "id": "65.01",
+      "name": "Kabupaten Bulungan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

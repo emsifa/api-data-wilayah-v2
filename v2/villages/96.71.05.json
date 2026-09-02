@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "96.71.05.1001",
+      "name": "Malanu",
+      "postal_code": "98416"
+    },
+    {
+      "id": "96.71.05.1002",
+      "name": "Malasilen",
+      "postal_code": "98416"
+    },
+    {
+      "id": "96.71.05.1003",
+      "name": "Matalamagi",
+      "postal_code": "98416"
+    },
+    {
+      "id": "96.71.05.1004",
+      "name": "Sawagumu",
+      "postal_code": "98416"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

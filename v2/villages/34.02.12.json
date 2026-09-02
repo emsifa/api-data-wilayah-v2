@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "34.02.12.2001",
+      "name": "Baturetno",
+      "postal_code": "55197"
+    },
+    {
+      "id": "34.02.12.2002",
+      "name": "Banguntapan",
+      "postal_code": "55198"
+    },
+    {
+      "id": "34.02.12.2003",
+      "name": "Jagalan",
+      "postal_code": "55192"
+    },
+    {
+      "id": "34.02.12.2004",
+      "name": "Singosaren",
+      "postal_code": "55193"
+    },
+    {
+      "id": "34.02.12.2005",
+      "name": "Jambidan",
+      "postal_code": "55195"
+    },
+    {
+      "id": "34.02.12.2006",
+      "name": "Potorono",
+      "postal_code": "55196"
+    },
+    {
+      "id": "34.02.12.2007",
+      "name": "Tamanan",
+      "postal_code": "55191"
+    },
+    {
+      "id": "34.02.12.2008",
+      "name": "Wirokerten",
+      "postal_code": "55194"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

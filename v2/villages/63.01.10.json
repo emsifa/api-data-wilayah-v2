@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "63.01.10.2001",
+      "name": "Bajuin",
+      "postal_code": "70815"
+    },
+    {
+      "id": "63.01.10.2002",
+      "name": "Sungai Bakar",
+      "postal_code": "70815"
+    },
+    {
+      "id": "63.01.10.2003",
+      "name": "Ketapang",
+      "postal_code": "70815"
+    },
+    {
+      "id": "63.01.10.2004",
+      "name": "Tirta Jaya",
+      "postal_code": "70815"
+    },
+    {
+      "id": "63.01.10.2005",
+      "name": "Galam",
+      "postal_code": "70815"
+    },
+    {
+      "id": "63.01.10.2006",
+      "name": "Pemalongan",
+      "postal_code": "70815"
+    },
+    {
+      "id": "63.01.10.2007",
+      "name": "Kunyit",
+      "postal_code": "70815"
+    },
+    {
+      "id": "63.01.10.2008",
+      "name": "Tebing Siring",
+      "postal_code": "70815"
+    },
+    {
+      "id": "63.01.10.2009",
+      "name": "Tanjung",
+      "postal_code": "70815"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

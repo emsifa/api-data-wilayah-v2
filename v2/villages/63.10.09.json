@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "63.10.09.2001",
+      "name": "Bunati",
+      "postal_code": "72275"
+    },
+    {
+      "id": "63.10.09.2002",
+      "name": "Purwodadi",
+      "postal_code": "72275"
+    },
+    {
+      "id": "63.10.09.2003",
+      "name": "Sumber Baru",
+      "postal_code": "72275"
+    },
+    {
+      "id": "63.10.09.2004",
+      "name": "Karang Indah",
+      "postal_code": "72275"
+    },
+    {
+      "id": "63.10.09.2005",
+      "name": "Angsana",
+      "postal_code": "72275"
+    },
+    {
+      "id": "63.10.09.2006",
+      "name": "Banjar Sari",
+      "postal_code": "72275"
+    },
+    {
+      "id": "63.10.09.2007",
+      "name": "Bayan Sari",
+      "postal_code": "72275"
+    },
+    {
+      "id": "63.10.09.2008",
+      "name": "Makmur",
+      "postal_code": "72275"
+    },
+    {
+      "id": "63.10.09.2009",
+      "name": "Mekar Jaya",
+      "postal_code": "72275"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

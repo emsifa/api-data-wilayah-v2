@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "33.14.19.2001",
+      "name": "Katelan",
+      "postal_code": "57261"
+    },
+    {
+      "id": "33.14.19.2002",
+      "name": "Dukuh",
+      "postal_code": "57261"
+    },
+    {
+      "id": "33.14.19.2003",
+      "name": "Jekawal",
+      "postal_code": "57261"
+    },
+    {
+      "id": "33.14.19.2004",
+      "name": "Galeh",
+      "postal_code": "57261"
+    },
+    {
+      "id": "33.14.19.2005",
+      "name": "Ngrombo",
+      "postal_code": "57261"
+    },
+    {
+      "id": "33.14.19.2006",
+      "name": "Sigit",
+      "postal_code": "57261"
+    },
+    {
+      "id": "33.14.19.2007",
+      "name": "Denanyar",
+      "postal_code": "57261"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

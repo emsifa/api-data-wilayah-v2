@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "52.03",
+    "name": "Kabupaten Lombok Timur",
+    "capital": "Selong",
+    "lat": -8.650938604217814,
+    "lng": 116.52965363887955,
+    "elv": 161,
+    "tz": 8,
+    "population": 1457591,
+    "total_area": 1602.377,
+    "province": {
+      "id": "52",
+      "name": "Nusa Tenggara Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "53.02.25.2001",
+      "name": "Santian",
+      "postal_code": "85587"
+    },
+    {
+      "id": "53.02.25.2002",
+      "name": "Poli",
+      "postal_code": "85587"
+    },
+    {
+      "id": "53.02.25.2003",
+      "name": "Manufui",
+      "postal_code": "85587"
+    },
+    {
+      "id": "53.02.25.2004",
+      "name": "Nenotes",
+      "postal_code": "85587"
+    },
+    {
+      "id": "53.02.25.2005",
+      "name": "Naifatu",
+      "postal_code": "85587"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

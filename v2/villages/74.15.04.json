@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "74.15.04.2001",
+      "name": "Batuatas Liwu",
+      "postal_code": "93745"
+    },
+    {
+      "id": "74.15.04.2002",
+      "name": "Batuatas Barat",
+      "postal_code": "93745"
+    },
+    {
+      "id": "74.15.04.2003",
+      "name": "Wacuala",
+      "postal_code": "93745"
+    },
+    {
+      "id": "74.15.04.2004",
+      "name": "Batu Atas Timur",
+      "postal_code": "93745"
+    },
+    {
+      "id": "74.15.04.2005",
+      "name": "Tolando Jaya",
+      "postal_code": "93745"
+    },
+    {
+      "id": "74.15.04.2006",
+      "name": "Taduasa",
+      "postal_code": "93745"
+    },
+    {
+      "id": "74.15.04.2007",
+      "name": "Wambongi",
+      "postal_code": "93745"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

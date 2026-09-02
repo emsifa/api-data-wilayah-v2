@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "14.04.04.1001",
+      "name": "Tembilahan Kota",
+      "postal_code": "29212"
+    },
+    {
+      "id": "14.04.04.1002",
+      "name": "Tembilahan Hilir",
+      "postal_code": "29211"
+    },
+    {
+      "id": "14.04.04.1003",
+      "name": "Seberang Tembilahan",
+      "postal_code": "29212"
+    },
+    {
+      "id": "14.04.04.1004",
+      "name": "Sungaiperak",
+      "postal_code": "29212"
+    },
+    {
+      "id": "14.04.04.1005",
+      "name": "Sungaiberingin",
+      "postal_code": "29214"
+    },
+    {
+      "id": "14.04.04.1006",
+      "name": "Pekan Arba",
+      "postal_code": "29212"
+    },
+    {
+      "id": "14.04.04.1007",
+      "name": "Seberang Tembilahan Barat",
+      "postal_code": "29212"
+    },
+    {
+      "id": "14.04.04.1008",
+      "name": "Seberang Tembilahan Selatan",
+      "postal_code": "29212"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

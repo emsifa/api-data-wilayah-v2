@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "62.05.08.2001",
+      "name": "Trahean",
+      "postal_code": "73814"
+    },
+    {
+      "id": "62.05.08.2002",
+      "name": "Trinsing",
+      "postal_code": "73814"
+    },
+    {
+      "id": "62.05.08.2003",
+      "name": "Bintang Ninggi I",
+      "postal_code": "73814"
+    },
+    {
+      "id": "62.05.08.2004",
+      "name": "Bintang Ninggi II",
+      "postal_code": "73814"
+    },
+    {
+      "id": "62.05.08.2005",
+      "name": "Butong",
+      "postal_code": "73814"
+    },
+    {
+      "id": "62.05.08.2006",
+      "name": "Buntok Baru",
+      "postal_code": "73814"
+    },
+    {
+      "id": "62.05.08.2007",
+      "name": "Bukit Sawit",
+      "postal_code": "73814"
+    },
+    {
+      "id": "62.05.08.2008",
+      "name": "Tawan Jaya",
+      "postal_code": "73814"
+    },
+    {
+      "id": "62.05.08.2009",
+      "name": "Pandran Raya",
+      "postal_code": "73814"
+    },
+    {
+      "id": "62.05.08.2010",
+      "name": "Pandran Permai",
+      "postal_code": "73814"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

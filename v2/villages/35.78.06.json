@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.78.06.1001",
+      "name": "Petemon",
+      "postal_code": "60252"
+    },
+    {
+      "id": "35.78.06.1002",
+      "name": "Sawahan",
+      "postal_code": "60251"
+    },
+    {
+      "id": "35.78.06.1003",
+      "name": "Banyu Urip",
+      "postal_code": "60254"
+    },
+    {
+      "id": "35.78.06.1004",
+      "name": "Putat Jaya",
+      "postal_code": "60255"
+    },
+    {
+      "id": "35.78.06.1005",
+      "name": "Kupang Krajan",
+      "postal_code": "60253"
+    },
+    {
+      "id": "35.78.06.1006",
+      "name": "Pakis",
+      "postal_code": "60256"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "12.09.21.2001",
+      "name": "Aek Songsongan",
+      "postal_code": "21274"
+    },
+    {
+      "id": "12.09.21.2002",
+      "name": "Perkebunan Bandar Selamat",
+      "postal_code": "21274"
+    },
+    {
+      "id": "12.09.21.2003",
+      "name": "Perkebunan Bandar Pulau",
+      "postal_code": "21274"
+    },
+    {
+      "id": "12.09.21.2004",
+      "name": "Aek Bamban",
+      "postal_code": "21274"
+    },
+    {
+      "id": "12.09.21.2005",
+      "name": "Marjanji Aceh",
+      "postal_code": "21274"
+    },
+    {
+      "id": "12.09.21.2006",
+      "name": "Lobu Rappa",
+      "postal_code": "21274"
+    },
+    {
+      "id": "12.09.21.2007",
+      "name": "Tangga",
+      "postal_code": "21274"
+    },
+    {
+      "id": "12.09.21.2008",
+      "name": "Situnjak",
+      "postal_code": "21274"
+    },
+    {
+      "id": "12.09.21.2009",
+      "name": "Mekar Marjanji",
+      "postal_code": "21274"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

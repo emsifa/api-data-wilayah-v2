@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "14.72.03.1001",
+      "name": "Bukit Nenas",
+      "postal_code": "28882"
+    },
+    {
+      "id": "14.72.03.1002",
+      "name": "Bukit Kayu Kapur",
+      "postal_code": "28882"
+    },
+    {
+      "id": "14.72.03.1003",
+      "name": "Gurun Panjang",
+      "postal_code": "28882"
+    },
+    {
+      "id": "14.72.03.1004",
+      "name": "Bagan Besar",
+      "postal_code": "28882"
+    },
+    {
+      "id": "14.72.03.1005",
+      "name": "Kampung Baru",
+      "postal_code": "28882"
+    },
+    {
+      "id": "14.72.03.1006",
+      "name": "Bagan Besar Timur",
+      "postal_code": "28882"
+    },
+    {
+      "id": "14.72.03.1007",
+      "name": "Bukit Kapur",
+      "postal_code": "28882"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

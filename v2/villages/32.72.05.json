@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.72.05.1001",
+      "name": "Baros",
+      "postal_code": "43161"
+    },
+    {
+      "id": "32.72.05.1002",
+      "name": "Jayaraksa",
+      "postal_code": "43166"
+    },
+    {
+      "id": "32.72.05.1003",
+      "name": "Jayamekar",
+      "postal_code": "43166"
+    },
+    {
+      "id": "32.72.05.1004",
+      "name": "Sudajaya Hilir",
+      "postal_code": "43161"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

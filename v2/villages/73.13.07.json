@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "73.13.07.1001",
+      "name": "Macero",
+      "postal_code": "90953"
+    },
+    {
+      "id": "73.13.07.1002",
+      "name": "Malangke",
+      "postal_code": "90953"
+    },
+    {
+      "id": "73.13.07.1003",
+      "name": "Belawa",
+      "postal_code": "90953"
+    },
+    {
+      "id": "73.13.07.2004",
+      "name": "Ongkoe",
+      "postal_code": "90953"
+    },
+    {
+      "id": "73.13.07.2005",
+      "name": "Leppangeng",
+      "postal_code": "90913"
+    },
+    {
+      "id": "73.13.07.2006",
+      "name": "Wele",
+      "postal_code": "90953"
+    },
+    {
+      "id": "73.13.07.2007",
+      "name": "Limporilau",
+      "postal_code": "90953"
+    },
+    {
+      "id": "73.13.07.2008",
+      "name": "Sappa",
+      "postal_code": "90953"
+    },
+    {
+      "id": "73.13.07.2009",
+      "name": "Lautang",
+      "postal_code": "90953"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

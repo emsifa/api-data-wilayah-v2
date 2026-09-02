@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "33.01.19.2001",
+      "name": "Patimuan",
+      "postal_code": "53264"
+    },
+    {
+      "id": "33.01.19.2002",
+      "name": "Rawaapu",
+      "postal_code": "53264"
+    },
+    {
+      "id": "33.01.19.2003",
+      "name": "Sidamukti",
+      "postal_code": "53264"
+    },
+    {
+      "id": "33.01.19.2004",
+      "name": "Purwadadi",
+      "postal_code": "53264"
+    },
+    {
+      "id": "33.01.19.2005",
+      "name": "Cinyawang",
+      "postal_code": "53264"
+    },
+    {
+      "id": "33.01.19.2006",
+      "name": "Bulupayung",
+      "postal_code": "53264"
+    },
+    {
+      "id": "33.01.19.2007",
+      "name": "Cimrutu",
+      "postal_code": "53264"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

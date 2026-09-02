@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "82.72.01.1001",
+      "name": "Soasio",
+      "postal_code": "97811"
+    },
+    {
+      "id": "82.72.01.1002",
+      "name": "Gamtufkange",
+      "postal_code": "97812"
+    },
+    {
+      "id": "82.72.01.1003",
+      "name": "Indonesiana",
+      "postal_code": "97813"
+    },
+    {
+      "id": "82.72.01.1005",
+      "name": "Seli",
+      "postal_code": "97813"
+    },
+    {
+      "id": "82.72.01.1006",
+      "name": "Soadara",
+      "postal_code": "97813"
+    },
+    {
+      "id": "82.72.01.1007",
+      "name": "Topo",
+      "postal_code": "97813"
+    },
+    {
+      "id": "82.72.01.1008",
+      "name": "Gurabunga",
+      "postal_code": "97813"
+    },
+    {
+      "id": "82.72.01.1012",
+      "name": "Goto",
+      "postal_code": "97813"
+    },
+    {
+      "id": "82.72.01.1013",
+      "name": "Tomagoba",
+      "postal_code": "97813"
+    },
+    {
+      "id": "82.72.01.1014",
+      "name": "Folarora",
+      "postal_code": "97813"
+    },
+    {
+      "id": "82.72.01.1015",
+      "name": "Topo Tiga",
+      "postal_code": "97813"
+    },
+    {
+      "id": "82.72.01.1016",
+      "name": "Tambula",
+      "postal_code": "97813"
+    },
+    {
+      "id": "82.72.01.1017",
+      "name": "Tuguwaji",
+      "postal_code": "97813"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

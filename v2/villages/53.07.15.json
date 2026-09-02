@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "53.07.15.1001",
+      "name": "Beru",
+      "postal_code": "86111"
+    },
+    {
+      "id": "53.07.15.1002",
+      "name": "Kota Baru",
+      "postal_code": "86215"
+    },
+    {
+      "id": "53.07.15.1003",
+      "name": "Nangameting",
+      "postal_code": "86118"
+    },
+    {
+      "id": "53.07.15.1004",
+      "name": "Waioti",
+      "postal_code": "86118"
+    },
+    {
+      "id": "53.07.15.1005",
+      "name": "Wairotang",
+      "postal_code": "86111"
+    },
+    {
+      "id": "53.07.15.2006",
+      "name": "Koja Doi",
+      "postal_code": "86116"
+    },
+    {
+      "id": "53.07.15.2007",
+      "name": "Kojagete",
+      "postal_code": "86116"
+    },
+    {
+      "id": "53.07.15.2008",
+      "name": "Lepo Lima",
+      "postal_code": "86116"
+    },
+    {
+      "id": "53.07.15.2009",
+      "name": "Perumaan",
+      "postal_code": "86116"
+    },
+    {
+      "id": "53.07.15.2010",
+      "name": "Watugong",
+      "postal_code": "86116"
+    },
+    {
+      "id": "53.07.15.2011",
+      "name": "Gong Bekor",
+      "postal_code": "86116"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "11.09.08.2001",
+      "name": "Lewak",
+      "postal_code": "23893"
+    },
+    {
+      "id": "11.09.08.2002",
+      "name": "Lamerem",
+      "postal_code": "23893"
+    },
+    {
+      "id": "11.09.08.2003",
+      "name": "Lhok Pauh",
+      "postal_code": "23893"
+    },
+    {
+      "id": "11.09.08.2004",
+      "name": "Serafon",
+      "postal_code": "23893"
+    },
+    {
+      "id": "11.09.08.2005",
+      "name": "Langi",
+      "postal_code": "23893"
+    },
+    {
+      "id": "11.09.08.2006",
+      "name": "Lubuk Baik",
+      "postal_code": "23893"
+    },
+    {
+      "id": "11.09.08.2007",
+      "name": "Lhok Dalam",
+      "postal_code": "23893"
+    },
+    {
+      "id": "11.09.08.2008",
+      "name": "Lafakha",
+      "postal_code": "23893"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

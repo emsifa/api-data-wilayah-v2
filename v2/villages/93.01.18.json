@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "93.01.18.2001",
+      "name": "Tabonji",
+      "postal_code": "99642"
+    },
+    {
+      "id": "93.01.18.2002",
+      "name": "Wanggambi",
+      "postal_code": "99642"
+    },
+    {
+      "id": "93.01.18.2003",
+      "name": "Suam",
+      "postal_code": "99642"
+    },
+    {
+      "id": "93.01.18.2004",
+      "name": "Yamuka",
+      "postal_code": "99642"
+    },
+    {
+      "id": "93.01.18.2005",
+      "name": "Iromoro",
+      "postal_code": "99642"
+    },
+    {
+      "id": "93.01.18.2006",
+      "name": "Konjombando",
+      "postal_code": "99642"
+    },
+    {
+      "id": "93.01.18.2007",
+      "name": "Yeraha",
+      "postal_code": "99642"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

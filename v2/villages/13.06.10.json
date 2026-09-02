@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.06.10.2001",
+      "name": "Koto Rantang",
+      "postal_code": "26151"
+    },
+    {
+      "id": "13.06.10.2002",
+      "name": "Pasia Laweh",
+      "postal_code": "26151"
+    },
+    {
+      "id": "13.06.10.2003",
+      "name": "Pagadih",
+      "postal_code": "26151"
+    },
+    {
+      "id": "13.06.10.2004",
+      "name": "Nan Tujuah",
+      "postal_code": "26151"
+    },
+    {
+      "id": "13.06.10.2005",
+      "name": "Nan Limo",
+      "postal_code": "26151"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "91.15.03.2006",
+      "name": "Saurisirami",
+      "postal_code": "98671"
+    },
+    {
+      "id": "91.15.03.2009",
+      "name": "Sinonde",
+      "postal_code": "98671"
+    },
+    {
+      "id": "91.15.03.2013",
+      "name": "Kali Baru",
+      "postal_code": "98671"
+    },
+    {
+      "id": "91.15.03.2014",
+      "name": "Sirami",
+      "postal_code": "98671"
+    },
+    {
+      "id": "91.15.03.2015",
+      "name": "Bunggu",
+      "postal_code": "98671"
+    },
+    {
+      "id": "91.15.03.2016",
+      "name": "Kowogi",
+      "postal_code": "98671"
+    },
+    {
+      "id": "91.15.03.2017",
+      "name": "Emauri",
+      "postal_code": "98671"
+    },
+    {
+      "id": "91.15.03.2018",
+      "name": "Obutay",
+      "postal_code": "98671"
+    },
+    {
+      "id": "91.15.03.2019",
+      "name": "Wairo",
+      "postal_code": "98671"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

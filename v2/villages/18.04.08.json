@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "18.04.08.1005",
+      "name": "Sekincau",
+      "postal_code": "34886"
+    },
+    {
+      "id": "18.04.08.2001",
+      "name": "Pampangan",
+      "postal_code": "34886"
+    },
+    {
+      "id": "18.04.08.2006",
+      "name": "Waspada",
+      "postal_code": "34886"
+    },
+    {
+      "id": "18.04.08.2007",
+      "name": "Tigajaya",
+      "postal_code": "34886"
+    },
+    {
+      "id": "18.04.08.2008",
+      "name": "Giham Sukamaju",
+      "postal_code": "34886"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

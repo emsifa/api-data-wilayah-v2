@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.22.22.2001",
+      "name": "Kalangan",
+      "postal_code": "62168"
+    },
+    {
+      "id": "35.22.22.2002",
+      "name": "Ngelo",
+      "postal_code": "62168"
+    },
+    {
+      "id": "35.22.22.2003",
+      "name": "Margomulyo",
+      "postal_code": "62168"
+    },
+    {
+      "id": "35.22.22.2004",
+      "name": "Sumberjo",
+      "postal_code": "62168"
+    },
+    {
+      "id": "35.22.22.2005",
+      "name": "Meduri",
+      "postal_code": "62168"
+    },
+    {
+      "id": "35.22.22.2006",
+      "name": "Geneng",
+      "postal_code": "62168"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

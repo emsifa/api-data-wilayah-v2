@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "71.04.10.2001",
+      "name": "Tuabatu",
+      "postal_code": "95882"
+    },
+    {
+      "id": "71.04.10.2002",
+      "name": "Dapalan",
+      "postal_code": "95882"
+    },
+    {
+      "id": "71.04.10.2003",
+      "name": "Riung",
+      "postal_code": "95882"
+    },
+    {
+      "id": "71.04.10.2004",
+      "name": "Ammat",
+      "postal_code": "95882"
+    },
+    {
+      "id": "71.04.10.2005",
+      "name": "Binalang",
+      "postal_code": "95882"
+    },
+    {
+      "id": "71.04.10.2006",
+      "name": "Ganalo",
+      "postal_code": "95882"
+    },
+    {
+      "id": "71.04.10.2007",
+      "name": "Dapihe",
+      "postal_code": "95882"
+    },
+    {
+      "id": "71.04.10.2008",
+      "name": "Tuabatu Barat",
+      "postal_code": "95882"
+    },
+    {
+      "id": "71.04.10.2009",
+      "name": "Ammat Selatan",
+      "postal_code": "95882"
+    },
+    {
+      "id": "71.04.10.2010",
+      "name": "Binalang Timur",
+      "postal_code": "95882"
+    },
+    {
+      "id": "71.04.10.2011",
+      "name": "Riung Utara",
+      "postal_code": "95882"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

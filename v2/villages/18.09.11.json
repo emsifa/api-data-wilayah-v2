@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "18.09.11.2001",
+      "name": "Bunut",
+      "postal_code": "35455"
+    },
+    {
+      "id": "18.09.11.2002",
+      "name": "Bunut Seberang",
+      "postal_code": "35455"
+    },
+    {
+      "id": "18.09.11.2003",
+      "name": "Wates Way Ratai",
+      "postal_code": "35455"
+    },
+    {
+      "id": "18.09.11.2004",
+      "name": "Ceringin Asri",
+      "postal_code": "35455"
+    },
+    {
+      "id": "18.09.11.2005",
+      "name": "Sumber Jaya",
+      "postal_code": "35455"
+    },
+    {
+      "id": "18.09.11.2006",
+      "name": "Mulyo Sari",
+      "postal_code": "35455"
+    },
+    {
+      "id": "18.09.11.2007",
+      "name": "Poncorejo",
+      "postal_code": "35455"
+    },
+    {
+      "id": "18.09.11.2008",
+      "name": "Gunung Rejo",
+      "postal_code": "35455"
+    },
+    {
+      "id": "18.09.11.2009",
+      "name": "Pesawaran Indah",
+      "postal_code": "35455"
+    },
+    {
+      "id": "18.09.11.2010",
+      "name": "Harapan Jaya",
+      "postal_code": "35455"
+    },
+    {
+      "id": "18.09.11.2011",
+      "name": "Kalirejo",
+      "postal_code": "35455"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

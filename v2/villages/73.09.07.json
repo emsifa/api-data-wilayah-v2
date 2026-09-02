@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.09.07.1001",
+      "name": "Borong",
+      "postal_code": "90553"
+    },
+    {
+      "id": "73.09.07.2002",
+      "name": "Allaere",
+      "postal_code": "90553"
+    },
+    {
+      "id": "73.09.07.2003",
+      "name": "Toddopulia",
+      "postal_code": "90553"
+    },
+    {
+      "id": "73.09.07.2004",
+      "name": "Kurusumange",
+      "postal_code": "90553"
+    },
+    {
+      "id": "73.09.07.2005",
+      "name": "Lekopancing",
+      "postal_code": "90553"
+    },
+    {
+      "id": "73.09.07.2006",
+      "name": "Damai",
+      "postal_code": "90553"
+    },
+    {
+      "id": "73.09.07.2007",
+      "name": "Sudirman",
+      "postal_code": "90553"
+    },
+    {
+      "id": "73.09.07.2008",
+      "name": "Purnakarya",
+      "postal_code": "90553"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

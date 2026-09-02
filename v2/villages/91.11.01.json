@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "91.11.01.2001",
+      "name": "Banda",
+      "postal_code": "99467"
+    },
+    {
+      "id": "91.11.01.2002",
+      "name": "Pund",
+      "postal_code": "99467"
+    },
+    {
+      "id": "91.11.01.2003",
+      "name": "Kalifam",
+      "postal_code": "99467"
+    },
+    {
+      "id": "91.11.01.2004",
+      "name": "Yuwainda",
+      "postal_code": "99467"
+    },
+    {
+      "id": "91.11.01.2005",
+      "name": "Kalimala",
+      "postal_code": "99467"
+    },
+    {
+      "id": "91.11.01.2006",
+      "name": "Ampas",
+      "postal_code": "99467"
+    },
+    {
+      "id": "91.11.01.2007",
+      "name": "Bompai",
+      "postal_code": "99467"
+    },
+    {
+      "id": "91.11.01.2008",
+      "name": "Sack",
+      "postal_code": "99467"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

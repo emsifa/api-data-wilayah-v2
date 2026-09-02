@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "96.04.13.2001",
+      "name": "Werur",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.13.2002",
+      "name": "Bukit",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.13.2003",
+      "name": "Wertam",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.13.2004",
+      "name": "Werwaf",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.13.2005",
+      "name": "Werbes",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.13.2006",
+      "name": "Nombrak",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.13.2007",
+      "name": "Bikar",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.13.2008",
+      "name": "Syunai",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.13.2009",
+      "name": "Suyam",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.13.2010",
+      "name": "Wertim",
+      "postal_code": "98473"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

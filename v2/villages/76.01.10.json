@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "76.01.10.2001",
+      "name": "Bambaira",
+      "postal_code": "91574"
+    },
+    {
+      "id": "76.01.10.2002",
+      "name": "Kasoloang",
+      "postal_code": "91574"
+    },
+    {
+      "id": "76.01.10.2003",
+      "name": "Tampaure",
+      "postal_code": "91574"
+    },
+    {
+      "id": "76.01.10.2004",
+      "name": "Kaluku Nangka",
+      "postal_code": "91574"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

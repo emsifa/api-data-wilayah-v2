@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "12.09.19.1001",
+      "name": "Bunut",
+      "postal_code": "21211"
+    },
+    {
+      "id": "12.09.19.1002",
+      "name": "Bunut Barat",
+      "postal_code": "21211"
+    },
+    {
+      "id": "12.09.19.1003",
+      "name": "Dadimulyo",
+      "postal_code": "21212"
+    },
+    {
+      "id": "12.09.19.1004",
+      "name": "Kisaran Barat",
+      "postal_code": "21214"
+    },
+    {
+      "id": "12.09.19.1005",
+      "name": "Kisaran Baru",
+      "postal_code": "21216"
+    },
+    {
+      "id": "12.09.19.1006",
+      "name": "Kisaran Kota",
+      "postal_code": "21215"
+    },
+    {
+      "id": "12.09.19.1007",
+      "name": "Mekar Baru",
+      "postal_code": "21216"
+    },
+    {
+      "id": "12.09.19.1008",
+      "name": "Sei Renggas",
+      "postal_code": "21213"
+    },
+    {
+      "id": "12.09.19.1009",
+      "name": "Sendang Sari",
+      "postal_code": "21218"
+    },
+    {
+      "id": "12.09.19.1010",
+      "name": "Sidodadi",
+      "postal_code": "21212"
+    },
+    {
+      "id": "12.09.19.1011",
+      "name": "Sidomukti",
+      "postal_code": "21217"
+    },
+    {
+      "id": "12.09.19.1012",
+      "name": "Tebing Kisaran",
+      "postal_code": "21215"
+    },
+    {
+      "id": "12.09.19.1013",
+      "name": "Tegal Sari",
+      "postal_code": "21218"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "13.09.10.2001",
+      "name": "Sinaka",
+      "postal_code": "25391"
+    },
+    {
+      "id": "13.09.10.2002",
+      "name": "Bulasat",
+      "postal_code": "25391"
+    },
+    {
+      "id": "13.09.10.2003",
+      "name": "Malakopa",
+      "postal_code": "25391"
+    },
+    {
+      "id": "13.09.10.2004",
+      "name": "Makalo",
+      "postal_code": "25391"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

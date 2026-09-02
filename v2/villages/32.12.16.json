@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.12.16.2001",
+      "name": "Panyindangan Kulon",
+      "postal_code": "45225"
+    },
+    {
+      "id": "32.12.16.2002",
+      "name": "Rambatan Wetan",
+      "postal_code": "45221"
+    },
+    {
+      "id": "32.12.16.2003",
+      "name": "Panyindangan Wetan",
+      "postal_code": "45225"
+    },
+    {
+      "id": "32.12.16.2004",
+      "name": "Kenanga",
+      "postal_code": "45226"
+    },
+    {
+      "id": "32.12.16.2005",
+      "name": "Terusan",
+      "postal_code": "45224"
+    },
+    {
+      "id": "32.12.16.2006",
+      "name": "Dermayu",
+      "postal_code": "45223"
+    },
+    {
+      "id": "32.12.16.2007",
+      "name": "Sindang",
+      "postal_code": "45222"
+    },
+    {
+      "id": "32.12.16.2008",
+      "name": "Penganjang",
+      "postal_code": "45221"
+    },
+    {
+      "id": "32.12.16.2009",
+      "name": "Babadan",
+      "postal_code": "45227"
+    },
+    {
+      "id": "32.12.16.2014",
+      "name": "Wanantara",
+      "postal_code": "45227"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

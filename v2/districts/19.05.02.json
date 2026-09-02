@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "19.05.02",
+    "name": "Simpang Teritip",
+    "province": {
+      "id": "19",
+      "name": "Kepulauan Bangka Belitung"
+    },
+    "regency": {
+      "id": "19.05",
+      "name": "Kabupaten Bangka Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

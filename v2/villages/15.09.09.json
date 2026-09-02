@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "15.09.09.2001",
+      "name": "Muara Kilis",
+      "postal_code": "37574"
+    },
+    {
+      "id": "15.09.09.2002",
+      "name": "Penapalan",
+      "postal_code": "37574"
+    },
+    {
+      "id": "15.09.09.2003",
+      "name": "Mengupeh",
+      "postal_code": "37574"
+    },
+    {
+      "id": "15.09.09.2004",
+      "name": "Rantau Api",
+      "postal_code": "37574"
+    },
+    {
+      "id": "15.09.09.2005",
+      "name": "Lubuk Mandarsah",
+      "postal_code": "37574"
+    },
+    {
+      "id": "15.09.09.2006",
+      "name": "Lubuk Mandarsah Ulu",
+      "postal_code": "37574"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "95.07.10.2001",
+      "name": "Megalunik",
+      "postal_code": "99570"
+    },
+    {
+      "id": "95.07.10.2002",
+      "name": "Lugobak",
+      "postal_code": "99570"
+    },
+    {
+      "id": "95.07.10.2003",
+      "name": "Kanikbukme",
+      "postal_code": "99570"
+    },
+    {
+      "id": "95.07.10.2004",
+      "name": "Poga",
+      "postal_code": "99536"
+    },
+    {
+      "id": "95.07.10.2005",
+      "name": "Bigipaga",
+      "postal_code": "99536"
+    },
+    {
+      "id": "95.07.10.2006",
+      "name": "Luneri",
+      "postal_code": "99570"
+    },
+    {
+      "id": "95.07.10.2007",
+      "name": "Binipaga",
+      "postal_code": "99570"
+    },
+    {
+      "id": "95.07.10.2008",
+      "name": "Mugime",
+      "postal_code": "99536"
+    },
+    {
+      "id": "95.07.10.2009",
+      "name": "Brigme",
+      "postal_code": "99536"
+    },
+    {
+      "id": "95.07.10.2010",
+      "name": "Unikme",
+      "postal_code": "99536"
+    },
+    {
+      "id": "95.07.10.2011",
+      "name": "Binompaga",
+      "postal_code": "99570"
+    },
+    {
+      "id": "95.07.10.2012",
+      "name": "Lugwa",
+      "postal_code": "99570"
+    },
+    {
+      "id": "95.07.10.2013",
+      "name": "Guaneri",
+      "postal_code": "99570"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "72.71.05.1001",
+      "name": "Buluri",
+      "postal_code": "94228"
+    },
+    {
+      "id": "72.71.05.1002",
+      "name": "Donggala Kodi",
+      "postal_code": "94226"
+    },
+    {
+      "id": "72.71.05.1003",
+      "name": "Kabonena",
+      "postal_code": "94227"
+    },
+    {
+      "id": "72.71.05.1004",
+      "name": "Silae",
+      "postal_code": "94227"
+    },
+    {
+      "id": "72.71.05.1005",
+      "name": "Watusampu",
+      "postal_code": "94229"
+    },
+    {
+      "id": "72.71.05.1006",
+      "name": "Tipo",
+      "postal_code": "94228"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

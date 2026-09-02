@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "94.04.08.2001",
+      "name": "Atuka",
+      "postal_code": "99972"
+    },
+    {
+      "id": "94.04.08.2002",
+      "name": "Tiwaka",
+      "postal_code": "99972"
+    },
+    {
+      "id": "94.04.08.2003",
+      "name": "Keakwa",
+      "postal_code": "99972"
+    },
+    {
+      "id": "94.04.08.2004",
+      "name": "Aikawapuka",
+      "postal_code": "99972"
+    },
+    {
+      "id": "94.04.08.2005",
+      "name": "Kamoro",
+      "postal_code": "99972"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "94.02.16.2001",
+      "name": "Tiolome",
+      "postal_code": "98946"
+    },
+    {
+      "id": "94.02.16.2002",
+      "name": "Belabaga",
+      "postal_code": "98946"
+    },
+    {
+      "id": "94.02.16.2003",
+      "name": "Mewut",
+      "postal_code": "98946"
+    },
+    {
+      "id": "94.02.16.2004",
+      "name": "Maloinggen",
+      "postal_code": "98946"
+    },
+    {
+      "id": "94.02.16.2005",
+      "name": "Wanume",
+      "postal_code": "98946"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

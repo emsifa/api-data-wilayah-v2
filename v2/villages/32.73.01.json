@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.73.01.1001",
+      "name": "Sukarasa",
+      "postal_code": "40152"
+    },
+    {
+      "id": "32.73.01.1002",
+      "name": "Gegerkalong",
+      "postal_code": "40153"
+    },
+    {
+      "id": "32.73.01.1003",
+      "name": "Isola",
+      "postal_code": "40154"
+    },
+    {
+      "id": "32.73.01.1004",
+      "name": "Sarijadi",
+      "postal_code": "40151"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "16.73.01.1001",
+      "name": "Air Kuti",
+      "postal_code": "31628"
+    },
+    {
+      "id": "16.73.01.1002",
+      "name": "Majapahit",
+      "postal_code": "31628"
+    },
+    {
+      "id": "16.73.01.1003",
+      "name": "Taba Jemekeh",
+      "postal_code": "31628"
+    },
+    {
+      "id": "16.73.01.1004",
+      "name": "Nikan Jaya",
+      "postal_code": "31628"
+    },
+    {
+      "id": "16.73.01.1005",
+      "name": "Taba Lestari",
+      "postal_code": "31628"
+    },
+    {
+      "id": "16.73.01.1007",
+      "name": "Batu Urip Taba",
+      "postal_code": "31628"
+    },
+    {
+      "id": "16.73.01.1015",
+      "name": "Taba Koji",
+      "postal_code": "31628"
+    },
+    {
+      "id": "16.73.01.1016",
+      "name": "Watervang",
+      "postal_code": "31628"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

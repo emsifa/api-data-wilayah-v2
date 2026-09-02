@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "73.14",
+    "name": "Kabupaten Sidenreng Rappang",
+    "capital": "Pangkajene Sidenreng",
+    "lat": -3.933052597666273,
+    "lng": 119.76930544132097,
+    "elv": 29,
+    "tz": 8,
+    "population": 332560,
+    "total_area": 1935.326,
+    "province": {
+      "id": "73",
+      "name": "Sulawesi Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

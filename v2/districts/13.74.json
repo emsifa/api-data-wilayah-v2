@@ -1,18 +1,16 @@
 {
-  "data": {
-    "id": "13.74",
-    "name": "Kota Padang Panjang",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
+  "data": [
+    {
+      "id": "13.74.01",
+      "name": "Padang Panjang Timur"
     },
-    "regency": {
-      "id": "13.74",
-      "name": "Kota Padang Panjang"
+    {
+      "id": "13.74.02",
+      "name": "Padang Panjang Barat"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

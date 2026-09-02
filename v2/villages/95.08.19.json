@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.08.19.2001",
+      "name": "Nirkuri",
+      "postal_code": "99915"
+    },
+    {
+      "id": "95.08.19.2002",
+      "name": "Binime",
+      "postal_code": "99915"
+    },
+    {
+      "id": "95.08.19.2003",
+      "name": "Uenoma",
+      "postal_code": "99915"
+    },
+    {
+      "id": "95.08.19.2004",
+      "name": "Pasebem",
+      "postal_code": "99915"
+    },
+    {
+      "id": "95.08.19.2005",
+      "name": "Sigmie",
+      "postal_code": "99915"
+    },
+    {
+      "id": "95.08.19.2006",
+      "name": "Nirigimbirik",
+      "postal_code": "99915"
+    },
+    {
+      "id": "95.08.19.2007",
+      "name": "Oldobo",
+      "postal_code": "99915"
+    },
+    {
+      "id": "95.08.19.2008",
+      "name": "Likubuk",
+      "postal_code": "99915"
+    },
+    {
+      "id": "95.08.19.2009",
+      "name": "Kokujondumu",
+      "postal_code": "99915"
+    },
+    {
+      "id": "95.08.19.2010",
+      "name": "Kurigi",
+      "postal_code": "99915"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "33.12.09.1003",
+      "name": "Mojopuro",
+      "postal_code": "57661"
+    },
+    {
+      "id": "33.12.09.1007",
+      "name": "Wuryantoro",
+      "postal_code": "57661"
+    },
+    {
+      "id": "33.12.09.2001",
+      "name": "Genukharjo",
+      "postal_code": "57661"
+    },
+    {
+      "id": "33.12.09.2002",
+      "name": "Sumberejo",
+      "postal_code": "57661"
+    },
+    {
+      "id": "33.12.09.2004",
+      "name": "Mlopoharjo",
+      "postal_code": "57661"
+    },
+    {
+      "id": "33.12.09.2005",
+      "name": "Pulutan Kulon",
+      "postal_code": "57661"
+    },
+    {
+      "id": "33.12.09.2006",
+      "name": "Pulutan Wetan",
+      "postal_code": "57661"
+    },
+    {
+      "id": "33.12.09.2008",
+      "name": "Gumiwang Lor",
+      "postal_code": "57661"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

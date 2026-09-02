@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "14.03.13.1001",
+      "name": "Titian Antui",
+      "postal_code": "28784"
+    },
+    {
+      "id": "14.03.13.1012",
+      "name": "Balai Raja",
+      "postal_code": "28784"
+    },
+    {
+      "id": "14.03.13.2003",
+      "name": "Balai Pungut",
+      "postal_code": "28784"
+    },
+    {
+      "id": "14.03.13.2005",
+      "name": "Muara Basung",
+      "postal_code": "28784"
+    },
+    {
+      "id": "14.03.13.2007",
+      "name": "Pinggir",
+      "postal_code": "28784"
+    },
+    {
+      "id": "14.03.13.2008",
+      "name": "Semunai",
+      "postal_code": "28784"
+    },
+    {
+      "id": "14.03.13.2011",
+      "name": "Tengganau",
+      "postal_code": "28784"
+    },
+    {
+      "id": "14.03.13.2014",
+      "name": "Sungai Meranti",
+      "postal_code": "28784"
+    },
+    {
+      "id": "14.03.13.2015",
+      "name": "Pangkalan Libut",
+      "postal_code": "28784"
+    },
+    {
+      "id": "14.03.13.2016",
+      "name": "Buluh Apo",
+      "postal_code": "28784"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

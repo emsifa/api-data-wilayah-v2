@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "63.72.04.1001",
+      "name": "Loktabat Utara",
+      "postal_code": "70714"
+    },
+    {
+      "id": "63.72.04.1002",
+      "name": "Mentaos",
+      "postal_code": "70714"
+    },
+    {
+      "id": "63.72.04.1003",
+      "name": "Komet",
+      "postal_code": "70714"
+    },
+    {
+      "id": "63.72.04.1004",
+      "name": "Sungai Ulin",
+      "postal_code": "70714"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

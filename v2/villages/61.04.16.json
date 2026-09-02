@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "61.04.16.1001",
+      "name": "Kantor",
+      "postal_code": "78811"
+    },
+    {
+      "id": "61.04.16.1002",
+      "name": "Tengah",
+      "postal_code": "78812"
+    },
+    {
+      "id": "61.04.16.1003",
+      "name": "Mulia Baru",
+      "postal_code": "78813"
+    },
+    {
+      "id": "61.04.16.1004",
+      "name": "Sampit",
+      "postal_code": "78813"
+    },
+    {
+      "id": "61.04.16.1005",
+      "name": "Suka Harja",
+      "postal_code": "78813"
+    },
+    {
+      "id": "61.04.16.2006",
+      "name": "Suka Bangun",
+      "postal_code": "78813"
+    },
+    {
+      "id": "61.04.16.2007",
+      "name": "Kali Nilam",
+      "postal_code": "78813"
+    },
+    {
+      "id": "61.04.16.2008",
+      "name": "Paya Kumang",
+      "postal_code": "78813"
+    },
+    {
+      "id": "61.04.16.2009",
+      "name": "Suka Bangun Dalam",
+      "postal_code": "78813"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

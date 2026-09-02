@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.18.09.1008",
+      "name": "Sima",
+      "postal_code": "91874"
+    },
+    {
+      "id": "73.18.09.2003",
+      "name": "Simbuang",
+      "postal_code": "91874"
+    },
+    {
+      "id": "73.18.09.2004",
+      "name": "Pongbembe",
+      "postal_code": "91874"
+    },
+    {
+      "id": "73.18.09.2006",
+      "name": "Simbuang Batutallu",
+      "postal_code": "91874"
+    },
+    {
+      "id": "73.18.09.2009",
+      "name": "Makkodo",
+      "postal_code": "91874"
+    },
+    {
+      "id": "73.18.09.2010",
+      "name": "Puangbembe Mesakada",
+      "postal_code": "91874"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

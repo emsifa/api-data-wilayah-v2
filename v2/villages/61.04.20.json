@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "61.04.20.2001",
+      "name": "Semandang Kanan",
+      "postal_code": "78854"
+    },
+    {
+      "id": "61.04.20.2002",
+      "name": "Gema",
+      "postal_code": "78854"
+    },
+    {
+      "id": "61.04.20.2003",
+      "name": "Mekar Raya",
+      "postal_code": "78854"
+    },
+    {
+      "id": "61.04.20.2004",
+      "name": "Kampar Sebomban",
+      "postal_code": "78854"
+    },
+    {
+      "id": "61.04.20.2005",
+      "name": "Batu Daya",
+      "postal_code": "78854"
+    },
+    {
+      "id": "61.04.20.2006",
+      "name": "Kamora",
+      "postal_code": "78854"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

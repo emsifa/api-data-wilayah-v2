@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "74.11.07",
+    "name": "Mowewe",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.11",
+      "name": "Kabupaten Kolaka Timur"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

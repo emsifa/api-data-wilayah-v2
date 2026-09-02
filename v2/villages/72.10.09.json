@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "72.10.09.2001",
+      "name": "Bangga",
+      "postal_code": "94371"
+    },
+    {
+      "id": "72.10.09.2002",
+      "name": "Walatana",
+      "postal_code": "94371"
+    },
+    {
+      "id": "72.10.09.2003",
+      "name": "Bulubete",
+      "postal_code": "94371"
+    },
+    {
+      "id": "72.10.09.2004",
+      "name": "Baluase",
+      "postal_code": "94371"
+    },
+    {
+      "id": "72.10.09.2005",
+      "name": "Rogo",
+      "postal_code": "94371"
+    },
+    {
+      "id": "72.10.09.2006",
+      "name": "Pulu",
+      "postal_code": "94371"
+    },
+    {
+      "id": "72.10.09.2007",
+      "name": "Balongga",
+      "postal_code": "94371"
+    },
+    {
+      "id": "72.10.09.2008",
+      "name": "Sambo",
+      "postal_code": "94371"
+    },
+    {
+      "id": "72.10.09.2009",
+      "name": "Wisolo",
+      "postal_code": "94371"
+    },
+    {
+      "id": "72.10.09.2010",
+      "name": "Jono",
+      "postal_code": "94371"
+    },
+    {
+      "id": "72.10.09.2011",
+      "name": "Poi",
+      "postal_code": "94371"
+    },
+    {
+      "id": "72.10.09.2012",
+      "name": "Ramba",
+      "postal_code": "94371"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

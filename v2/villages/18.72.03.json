@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "18.72.03.1001",
+      "name": "Mulyojati",
+      "postal_code": "34125"
+    },
+    {
+      "id": "18.72.03.1002",
+      "name": "Ganjar Agung",
+      "postal_code": "34114"
+    },
+    {
+      "id": "18.72.03.1003",
+      "name": "Mulyosari",
+      "postal_code": "34125"
+    },
+    {
+      "id": "18.72.03.1004",
+      "name": "Ganjar Asri",
+      "postal_code": "34125"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

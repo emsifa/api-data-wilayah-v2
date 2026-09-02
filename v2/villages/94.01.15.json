@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "94.01.15.2001",
+      "name": "Kunupi",
+      "postal_code": "98855"
+    },
+    {
+      "id": "94.01.15.2002",
+      "name": "Ogiyai",
+      "postal_code": "98855"
+    },
+    {
+      "id": "94.01.15.2003",
+      "name": "Lokodimi",
+      "postal_code": "98855"
+    },
+    {
+      "id": "94.01.15.2004",
+      "name": "Yegeugi",
+      "postal_code": "98855"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

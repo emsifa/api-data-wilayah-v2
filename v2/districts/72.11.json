@@ -1,18 +1,36 @@
 {
-  "data": {
-    "id": "72.11",
-    "name": "Kabupaten Banggai Laut",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
+  "data": [
+    {
+      "id": "72.11.01",
+      "name": "Banggai"
     },
-    "regency": {
-      "id": "72.11",
-      "name": "Kabupaten Banggai Laut"
+    {
+      "id": "72.11.02",
+      "name": "Banggai Utara"
+    },
+    {
+      "id": "72.11.03",
+      "name": "Bokan Kepulauan"
+    },
+    {
+      "id": "72.11.04",
+      "name": "Bangkurung"
+    },
+    {
+      "id": "72.11.05",
+      "name": "Labobo"
+    },
+    {
+      "id": "72.11.06",
+      "name": "Banggai Selatan"
+    },
+    {
+      "id": "72.11.07",
+      "name": "Banggai Tengah"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

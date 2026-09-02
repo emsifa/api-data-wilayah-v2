@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "81.07.02",
+    "name": "Aru Selatan",
+    "province": {
+      "id": "81",
+      "name": "Maluku"
+    },
+    "regency": {
+      "id": "81.07",
+      "name": "Kabupaten Kepulauan Aru"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

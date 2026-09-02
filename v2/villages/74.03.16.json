@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "74.03.16.1001",
+      "name": "Watonea",
+      "postal_code": "93615"
+    },
+    {
+      "id": "74.03.16.1002",
+      "name": "Raha III",
+      "postal_code": "93613"
+    },
+    {
+      "id": "74.03.16.1003",
+      "name": "Wamponiki",
+      "postal_code": "93611"
+    },
+    {
+      "id": "74.03.16.1004",
+      "name": "Butung Butung",
+      "postal_code": "93611"
+    },
+    {
+      "id": "74.03.16.1005",
+      "name": "Raha II",
+      "postal_code": "93612"
+    },
+    {
+      "id": "74.03.16.1006",
+      "name": "Foo Kuni",
+      "postal_code": "93616"
+    },
+    {
+      "id": "74.03.16.1007",
+      "name": "Laende",
+      "postal_code": "93611"
+    },
+    {
+      "id": "74.03.16.1008",
+      "name": "Raha I",
+      "postal_code": "93611"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

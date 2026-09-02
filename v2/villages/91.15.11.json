@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "91.15.11.2001",
+      "name": "Botawa",
+      "postal_code": "98665"
+    },
+    {
+      "id": "91.15.11.2002",
+      "name": "Sowiwa",
+      "postal_code": "98665"
+    },
+    {
+      "id": "91.15.11.2003",
+      "name": "Baino Jaya",
+      "postal_code": "98665"
+    },
+    {
+      "id": "91.15.11.2004",
+      "name": "Nau",
+      "postal_code": "98665"
+    },
+    {
+      "id": "91.15.11.2005",
+      "name": "Rasawa",
+      "postal_code": "98665"
+    },
+    {
+      "id": "91.15.11.2006",
+      "name": "Ruambak Jaya",
+      "postal_code": "98665"
+    },
+    {
+      "id": "91.15.11.2007",
+      "name": "Moroa",
+      "postal_code": "98665"
+    },
+    {
+      "id": "91.15.11.2008",
+      "name": "Oiboa",
+      "postal_code": "98665"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.14.01.1001",
+      "name": "Nagri Kidul",
+      "postal_code": "41111"
+    },
+    {
+      "id": "32.14.01.1002",
+      "name": "Nagri Kaler",
+      "postal_code": "41115"
+    },
+    {
+      "id": "32.14.01.1003",
+      "name": "Nagri Tengah",
+      "postal_code": "41114"
+    },
+    {
+      "id": "32.14.01.1004",
+      "name": "Sindangkasih",
+      "postal_code": "41112"
+    },
+    {
+      "id": "32.14.01.1005",
+      "name": "Cipaisan",
+      "postal_code": "41113"
+    },
+    {
+      "id": "32.14.01.1006",
+      "name": "Purwamekar",
+      "postal_code": "41119"
+    },
+    {
+      "id": "32.14.01.1007",
+      "name": "Ciseureuh",
+      "postal_code": "41118"
+    },
+    {
+      "id": "32.14.01.1008",
+      "name": "Tegalmunjul",
+      "postal_code": "41116"
+    },
+    {
+      "id": "32.14.01.1009",
+      "name": "Munjuljaya",
+      "postal_code": "41117"
+    },
+    {
+      "id": "32.14.01.2010",
+      "name": "Citalang",
+      "postal_code": "41111"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

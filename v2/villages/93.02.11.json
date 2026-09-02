@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "93.02.11.2001",
+      "name": "Kuken",
+      "postal_code": "99681"
+    },
+    {
+      "id": "93.02.11.2002",
+      "name": "Kolopkam",
+      "postal_code": "99681"
+    },
+    {
+      "id": "93.02.11.2003",
+      "name": "Awaken",
+      "postal_code": "99681"
+    },
+    {
+      "id": "93.02.11.2004",
+      "name": "Arimbit",
+      "postal_code": "99681"
+    },
+    {
+      "id": "93.02.11.2005",
+      "name": "Anyumka",
+      "postal_code": "99681"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

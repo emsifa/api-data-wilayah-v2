@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "53.15.02.1022",
+      "name": "Golo Ru'u",
+      "postal_code": "86752"
+    },
+    {
+      "id": "53.15.02.1023",
+      "name": "Nantal",
+      "postal_code": "86752"
+    },
+    {
+      "id": "53.15.02.2002",
+      "name": "Coal",
+      "postal_code": "86752"
+    },
+    {
+      "id": "53.15.02.2004",
+      "name": "Pangga",
+      "postal_code": "86752"
+    },
+    {
+      "id": "53.15.02.2010",
+      "name": "Lewur",
+      "postal_code": "86752"
+    },
+    {
+      "id": "53.15.02.2011",
+      "name": "Lawi",
+      "postal_code": "86752"
+    },
+    {
+      "id": "53.15.02.2017",
+      "name": "Compang Suka",
+      "postal_code": "86752"
+    },
+    {
+      "id": "53.15.02.2018",
+      "name": "Benteng Suru",
+      "postal_code": "86752"
+    },
+    {
+      "id": "53.15.02.2021",
+      "name": "Sama",
+      "postal_code": "86752"
+    },
+    {
+      "id": "53.15.02.2030",
+      "name": "Bangka Lewat",
+      "postal_code": "86752"
+    },
+    {
+      "id": "53.15.02.2031",
+      "name": "Suka Kiong",
+      "postal_code": "86752"
+    },
+    {
+      "id": "53.15.02.2032",
+      "name": "Golo Pua",
+      "postal_code": "86752"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.76.03.1001",
+      "name": "Bagelen",
+      "postal_code": "20634"
+    },
+    {
+      "id": "12.76.03.1002",
+      "name": "Tambangan",
+      "postal_code": "20631"
+    },
+    {
+      "id": "12.76.03.1004",
+      "name": "Tebing Tinggi",
+      "postal_code": "20631"
+    },
+    {
+      "id": "12.76.03.1006",
+      "name": "Satria",
+      "postal_code": "20636"
+    },
+    {
+      "id": "12.76.03.1007",
+      "name": "Damar Sari",
+      "postal_code": "20636"
+    },
+    {
+      "id": "12.76.03.1008",
+      "name": "Tambangan Hulu",
+      "postal_code": "20636"
+    },
+    {
+      "id": "12.76.03.1009",
+      "name": "Deblod Sundoro",
+      "postal_code": "20636"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "53.05.15.2001",
+      "name": "Lembur Timur",
+      "postal_code": "85875"
+    },
+    {
+      "id": "53.05.15.2002",
+      "name": "Luba",
+      "postal_code": "85875"
+    },
+    {
+      "id": "53.05.15.2003",
+      "name": "Talwai",
+      "postal_code": "85875"
+    },
+    {
+      "id": "53.05.15.2004",
+      "name": "Tulleng",
+      "postal_code": "85875"
+    },
+    {
+      "id": "53.05.15.2005",
+      "name": "Waimi",
+      "postal_code": "85875"
+    },
+    {
+      "id": "53.05.15.2006",
+      "name": "Tasi",
+      "postal_code": "85875"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

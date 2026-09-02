@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "74.04.27.2001",
+      "name": "Walompo",
+      "postal_code": "93758"
+    },
+    {
+      "id": "74.04.27.2002",
+      "name": "Matanauwe",
+      "postal_code": "93758"
+    },
+    {
+      "id": "74.04.27.2003",
+      "name": "Sampuabalo",
+      "postal_code": "93758"
+    },
+    {
+      "id": "74.04.27.2004",
+      "name": "Kuraa",
+      "postal_code": "93758"
+    },
+    {
+      "id": "74.04.27.2005",
+      "name": "Kumbewaha",
+      "postal_code": "93758"
+    },
+    {
+      "id": "74.04.27.2006",
+      "name": "Sumber Sari",
+      "postal_code": "93758"
+    },
+    {
+      "id": "74.04.27.2007",
+      "name": "Labuandiri",
+      "postal_code": "93758"
+    },
+    {
+      "id": "74.04.27.2008",
+      "name": "Karya Jaya",
+      "postal_code": "93758"
+    },
+    {
+      "id": "74.04.27.2009",
+      "name": "Manuru",
+      "postal_code": "93758"
+    },
+    {
+      "id": "74.04.27.2010",
+      "name": "Gunungjaya",
+      "postal_code": "93758"
+    },
+    {
+      "id": "74.04.27.2011",
+      "name": "Bahari Makmur",
+      "postal_code": "93758"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

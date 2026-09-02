@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "13.01.12.2001",
+      "name": "Puluik-Puluik",
+      "postal_code": "25653"
+    },
+    {
+      "id": "13.01.12.2002",
+      "name": "Koto Ranah",
+      "postal_code": "25653"
+    },
+    {
+      "id": "13.01.12.2003",
+      "name": "Muaro Aie",
+      "postal_code": "25653"
+    },
+    {
+      "id": "13.01.12.2004",
+      "name": "Pancuang Taba",
+      "postal_code": "25653"
+    },
+    {
+      "id": "13.01.12.2005",
+      "name": "Puluik-Puluik Selatan",
+      "postal_code": "25653"
+    },
+    {
+      "id": "13.01.12.2006",
+      "name": "Limau Gadang Pancung Taba",
+      "postal_code": "25653"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

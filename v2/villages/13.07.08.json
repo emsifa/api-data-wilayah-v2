@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "13.07.08.2001",
+      "name": "Pandam Gadang",
+      "postal_code": "26256"
+    },
+    {
+      "id": "13.07.08.2002",
+      "name": "Koto Tinggi",
+      "postal_code": "26256"
+    },
+    {
+      "id": "13.07.08.2003",
+      "name": "Talang Anau",
+      "postal_code": "26256"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

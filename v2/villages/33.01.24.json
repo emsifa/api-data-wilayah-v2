@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "33.01.24.2001",
+      "name": "Ujunggagak",
+      "postal_code": "53253"
+    },
+    {
+      "id": "33.01.24.2002",
+      "name": "Ujungalang",
+      "postal_code": "53253"
+    },
+    {
+      "id": "33.01.24.2003",
+      "name": "Panikel",
+      "postal_code": "53253"
+    },
+    {
+      "id": "33.01.24.2004",
+      "name": "Klaces",
+      "postal_code": "53253"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "11.16",
+    "name": "Kabupaten Aceh Tamiang",
+    "capital": "Karang Baru",
+    "lat": 4.301275755472272,
+    "lng": 98.04571548117825,
+    "elv": 11,
+    "tz": 7,
+    "population": 312061,
+    "total_area": 2187.817,
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

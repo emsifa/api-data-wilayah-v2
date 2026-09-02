@@ -1,21 +1,195 @@
 {
-  "data": {
-    "id": "74",
-    "name": "Sulawesi Tenggara",
-    "capital": "Kendari",
-    "lat": -4.024739702684666,
-    "lng": 122.54045915103508,
-    "elv": 35,
-    "tz": 8,
-    "population": 2824589,
-    "total_area": 36139.303,
-    "province": {
-      "id": "74",
-      "name": "Sulawesi Tenggara"
+  "data": [
+    {
+      "id": "74.01",
+      "name": "Kabupaten Kolaka",
+      "capital": "Kolaka",
+      "lat": -4.060808748107698,
+      "lng": 121.61611935687937,
+      "elv": 16,
+      "tz": 8,
+      "population": 257733,
+      "total_area": 2958.87
+    },
+    {
+      "id": "74.02",
+      "name": "Kabupaten Konawe",
+      "capital": "Unaaha",
+      "lat": -3.854233561558946,
+      "lng": 122.04272734128605,
+      "elv": 41,
+      "tz": 8,
+      "population": 269128,
+      "total_area": 5352.922
+    },
+    {
+      "id": "74.03",
+      "name": "Kabupaten Muna",
+      "capital": "Raha",
+      "lat": -4.797870620269443,
+      "lng": 122.71895870272489,
+      "elv": 37,
+      "tz": 8,
+      "population": 233470,
+      "total_area": 1856.91
+    },
+    {
+      "id": "74.04",
+      "name": "Kabupaten Buton",
+      "capital": "Pasarwajo",
+      "lat": -5.495773575456685,
+      "lng": 122.84013943527818,
+      "elv": 42,
+      "tz": 8,
+      "population": 122024,
+      "total_area": 1664.982
+    },
+    {
+      "id": "74.05",
+      "name": "Kabupaten Konawe Selatan",
+      "capital": "Andolo",
+      "lat": -4.332035736807719,
+      "lng": 122.28131524347981,
+      "elv": 120,
+      "tz": 8,
+      "population": 332389,
+      "total_area": 4234.214
+    },
+    {
+      "id": "74.06",
+      "name": "Kabupaten Bombana",
+      "capital": "Rumbia",
+      "lat": -4.747234642989351,
+      "lng": 122.0110926542551,
+      "elv": 11,
+      "tz": 8,
+      "population": 168055,
+      "total_area": 3291.922
+    },
+    {
+      "id": "74.07",
+      "name": "Kabupaten Wakatobi",
+      "capital": "Wangi-Wangi",
+      "lat": -5.328300233247569,
+      "lng": 23.5389007621827,
+      "elv": 556,
+      "tz": 8,
+      "population": 118793,
+      "total_area": 450.8
+    },
+    {
+      "id": "74.08",
+      "name": "Kabupaten Kolaka Utara",
+      "capital": "Lasusua",
+      "lat": -3.4901354632505868,
+      "lng": 120.88752770777094,
+      "elv": 45,
+      "tz": 8,
+      "population": 143604,
+      "total_area": 2931.677
+    },
+    {
+      "id": "74.09",
+      "name": "Kabupaten Konawe Utara",
+      "capital": "Wanggudu",
+      "lat": -3.51235292694681,
+      "lng": 122.11073191638067,
+      "elv": 22,
+      "tz": 8,
+      "population": 83449,
+      "total_area": 4219.214
+    },
+    {
+      "id": "74.10",
+      "name": "Kabupaten Buton Utara",
+      "capital": "Buranga",
+      "lat": -4.8010073959736,
+      "lng": 122.98309527349197,
+      "elv": 61,
+      "tz": 8,
+      "population": 74718,
+      "total_area": 1752.37
+    },
+    {
+      "id": "74.11",
+      "name": "Kabupaten Kolaka Timur",
+      "capital": "Tirawuta",
+      "lat": -4.000510057990807,
+      "lng": 121.8619498140791,
+      "elv": 213,
+      "tz": 8,
+      "population": 130691,
+      "total_area": 3992.531
+    },
+    {
+      "id": "74.12",
+      "name": "Kabupaten Konawe Kepulauan",
+      "capital": "Langara",
+      "lat": -4.052608169270012,
+      "lng": 122.9885847942083,
+      "elv": 8,
+      "tz": 8,
+      "population": 44091,
+      "total_area": 704.184
+    },
+    {
+      "id": "74.13",
+      "name": "Kabupaten Muna Barat",
+      "capital": "Sawerigadi",
+      "lat": -4.7917142624455,
+      "lng": 122.49418357893698,
+      "elv": 19,
+      "tz": 8,
+      "population": 91571,
+      "total_area": 816.717
+    },
+    {
+      "id": "74.14",
+      "name": "Kabupaten Buton Tengah",
+      "capital": "Labungkari",
+      "lat": -5.316413937156861,
+      "lng": 122.53197889106548,
+      "elv": 7,
+      "tz": 8,
+      "population": 121745,
+      "total_area": 835.562
+    },
+    {
+      "id": "74.15",
+      "name": "Kabupaten Buton Selatan",
+      "capital": "Batauga",
+      "lat": -5.608164675860151,
+      "lng": 122.6006216432974,
+      "elv": 11,
+      "tz": 8,
+      "population": 102881,
+      "total_area": 516.479
+    },
+    {
+      "id": "74.71",
+      "name": "Kota Kendari",
+      "capital": "Kendari",
+      "lat": -3.9729017385837686,
+      "lng": 122.51174077056197,
+      "elv": 15,
+      "tz": 8,
+      "population": 366454,
+      "total_area": 265.845
+    },
+    {
+      "id": "74.72",
+      "name": "Kota Bau Bau",
+      "capital": "Bau-Bau",
+      "lat": -5.485071885684611,
+      "lng": 122.58479937279147,
+      "elv": 132,
+      "tz": 8,
+      "population": 163793,
+      "total_area": 294.104
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:11Z",
+    "generated_at": "2026-09-02T03:39:51Z",
     "level": 2
   }
 }

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "52.04.28.2001",
+      "name": "Senawang",
+      "postal_code": "84374"
+    },
+    {
+      "id": "52.04.28.2002",
+      "name": "Kelawis",
+      "postal_code": "84374"
+    },
+    {
+      "id": "52.04.28.2003",
+      "name": "Mungkin",
+      "postal_code": "84374"
+    },
+    {
+      "id": "52.04.28.2004",
+      "name": "Sebeok",
+      "postal_code": "84374"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

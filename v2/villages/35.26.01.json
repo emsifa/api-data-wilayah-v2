@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "35.26.01.1001",
+      "name": "Mlajah",
+      "postal_code": "69116"
+    },
+    {
+      "id": "35.26.01.1002",
+      "name": "Kemayoran",
+      "postal_code": "69116"
+    },
+    {
+      "id": "35.26.01.1003",
+      "name": "Pangeranan",
+      "postal_code": "69115"
+    },
+    {
+      "id": "35.26.01.1004",
+      "name": "Demangan",
+      "postal_code": "69115"
+    },
+    {
+      "id": "35.26.01.1005",
+      "name": "Kraton",
+      "postal_code": "69119"
+    },
+    {
+      "id": "35.26.01.1006",
+      "name": "Pejagan",
+      "postal_code": "69112"
+    },
+    {
+      "id": "35.26.01.1007",
+      "name": "Bancaran",
+      "postal_code": "69112"
+    },
+    {
+      "id": "35.26.01.2008",
+      "name": "Sembilangan",
+      "postal_code": "69118"
+    },
+    {
+      "id": "35.26.01.2009",
+      "name": "Ujung Piring",
+      "postal_code": "69118"
+    },
+    {
+      "id": "35.26.01.2010",
+      "name": "Kramat",
+      "postal_code": "69119"
+    },
+    {
+      "id": "35.26.01.2011",
+      "name": "Martajasah",
+      "postal_code": "69119"
+    },
+    {
+      "id": "35.26.01.2012",
+      "name": "Sabiyan",
+      "postal_code": "69113"
+    },
+    {
+      "id": "35.26.01.2013",
+      "name": "Gebang",
+      "postal_code": "69114"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

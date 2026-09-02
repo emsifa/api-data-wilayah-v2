@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.06.03.1001",
+      "name": "Malakaji",
+      "postal_code": "92175"
+    },
+    {
+      "id": "73.06.03.1002",
+      "name": "Cikoro",
+      "postal_code": "92175"
+    },
+    {
+      "id": "73.06.03.2003",
+      "name": "Garing",
+      "postal_code": "92175"
+    },
+    {
+      "id": "73.06.03.2004",
+      "name": "Datara",
+      "postal_code": "92175"
+    },
+    {
+      "id": "73.06.03.2005",
+      "name": "Rappolemba",
+      "postal_code": "92175"
+    },
+    {
+      "id": "73.06.03.2006",
+      "name": "Rappoala",
+      "postal_code": "92175"
+    },
+    {
+      "id": "73.06.03.2007",
+      "name": "Tanete",
+      "postal_code": "92175"
+    },
+    {
+      "id": "73.06.03.2008",
+      "name": "Bontobuddung",
+      "postal_code": "92175"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "75.03.10.2001",
+      "name": "Inomata",
+      "postal_code": "96572"
+    },
+    {
+      "id": "75.03.10.2003",
+      "name": "Tumbulilato",
+      "postal_code": "96572"
+    },
+    {
+      "id": "75.03.10.2004",
+      "name": "Mootayu",
+      "postal_code": "96572"
+    },
+    {
+      "id": "75.03.10.2006",
+      "name": "Mootinelo",
+      "postal_code": "96572"
+    },
+    {
+      "id": "75.03.10.2009",
+      "name": "Pelita Jaya",
+      "postal_code": "96572"
+    },
+    {
+      "id": "75.03.10.2010",
+      "name": "Moopiya",
+      "postal_code": "96572"
+    },
+    {
+      "id": "75.03.10.2011",
+      "name": "Alo",
+      "postal_code": "96572"
+    },
+    {
+      "id": "75.03.10.2012",
+      "name": "Laut Biru",
+      "postal_code": "96572"
+    },
+    {
+      "id": "75.03.10.2014",
+      "name": "Bunga",
+      "postal_code": "96572"
+    },
+    {
+      "id": "75.03.10.2015",
+      "name": "Mootawa",
+      "postal_code": "96572"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

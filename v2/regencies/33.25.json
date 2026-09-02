@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "33.25",
+    "name": "Kabupaten Batang",
+    "capital": "Batang",
+    "lat": -6.910710871962525,
+    "lng": 109.72968238304469,
+    "elv": 9,
+    "tz": 7,
+    "population": 855878,
+    "total_area": 857.073,
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "16.71.04.1001",
+      "name": "Bukitlama",
+      "postal_code": "30139"
+    },
+    {
+      "id": "16.71.04.1002",
+      "name": "Lorokpakjo",
+      "postal_code": "30137"
+    },
+    {
+      "id": "16.71.04.1003",
+      "name": "Dua-puluh-enam Ilir Satu",
+      "postal_code": "30136"
+    },
+    {
+      "id": "16.71.04.1004",
+      "name": "Siringagung",
+      "postal_code": "30138"
+    },
+    {
+      "id": "16.71.04.1005",
+      "name": "Demang-Lebardaun",
+      "postal_code": "30131"
+    },
+    {
+      "id": "16.71.04.1006",
+      "name": "Bukitbaru",
+      "postal_code": "30131"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

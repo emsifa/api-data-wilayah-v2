@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "id": "61.03.01.1001",
+      "name": "Tanjung Kapuas",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.1002",
+      "name": "Tanjung Sekayam",
+      "postal_code": "78515"
+    },
+    {
+      "id": "61.03.01.1003",
+      "name": "Sungai Sengkuang",
+      "postal_code": "78514"
+    },
+    {
+      "id": "61.03.01.1004",
+      "name": "Ilir Kota",
+      "postal_code": "78513"
+    },
+    {
+      "id": "61.03.01.1005",
+      "name": "Beringin",
+      "postal_code": "78512"
+    },
+    {
+      "id": "61.03.01.1006",
+      "name": "Bunut",
+      "postal_code": "78511"
+    },
+    {
+      "id": "61.03.01.2007",
+      "name": "Penyeladi",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2008",
+      "name": "Nanga Biang",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2009",
+      "name": "Rambin",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2010",
+      "name": "Entakai",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2011",
+      "name": "Pana",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2012",
+      "name": "Mengkiang",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2013",
+      "name": "Kambong",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2014",
+      "name": "Sungai Mawang",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2015",
+      "name": "Lape",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2016",
+      "name": "Penyalimau",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2017",
+      "name": "Sungai Alai",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2018",
+      "name": "Semerangkai",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2019",
+      "name": "Sungai Batu",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2020",
+      "name": "Sungai Muntik",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2021",
+      "name": "Lintang Kapuas",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2022",
+      "name": "Lintang Pelaman",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2023",
+      "name": "Belangin",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2024",
+      "name": "Penyalimau Jaya",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2025",
+      "name": "Tapang Dulang",
+      "postal_code": "78516"
+    },
+    {
+      "id": "61.03.01.2026",
+      "name": "Botuh Lintang",
+      "postal_code": "78516"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

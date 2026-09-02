@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "33.22.06.2001",
+      "name": "Gedangan",
+      "postal_code": "50773"
+    },
+    {
+      "id": "33.22.06.2002",
+      "name": "Kalibeji",
+      "postal_code": "50773"
+    },
+    {
+      "id": "33.22.06.2003",
+      "name": "Rowosari",
+      "postal_code": "50773"
+    },
+    {
+      "id": "33.22.06.2004",
+      "name": "Sraten",
+      "postal_code": "50773"
+    },
+    {
+      "id": "33.22.06.2005",
+      "name": "Jombor",
+      "postal_code": "50773"
+    },
+    {
+      "id": "33.22.06.2006",
+      "name": "Candirejo",
+      "postal_code": "50773"
+    },
+    {
+      "id": "33.22.06.2007",
+      "name": "Kesongo",
+      "postal_code": "50773"
+    },
+    {
+      "id": "33.22.06.2008",
+      "name": "Watuagung",
+      "postal_code": "50773"
+    },
+    {
+      "id": "33.22.06.2009",
+      "name": "Lopait",
+      "postal_code": "50773"
+    },
+    {
+      "id": "33.22.06.2010",
+      "name": "Tuntang",
+      "postal_code": "50773"
+    },
+    {
+      "id": "33.22.06.2011",
+      "name": "Delik",
+      "postal_code": "50773"
+    },
+    {
+      "id": "33.22.06.2012",
+      "name": "Tlogo",
+      "postal_code": "50219"
+    },
+    {
+      "id": "33.22.06.2013",
+      "name": "Karangtengah",
+      "postal_code": "50131"
+    },
+    {
+      "id": "33.22.06.2014",
+      "name": "Karanganyar",
+      "postal_code": "50773"
+    },
+    {
+      "id": "33.22.06.2015",
+      "name": "Tlompakan",
+      "postal_code": "50773"
+    },
+    {
+      "id": "33.22.06.2016",
+      "name": "Ngajaran",
+      "postal_code": "50773"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

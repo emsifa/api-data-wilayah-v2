@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "31.75.07.1001",
+      "name": "Duren Sawit",
+      "postal_code": "13440"
+    },
+    {
+      "id": "31.75.07.1002",
+      "name": "Pondok Bambu",
+      "postal_code": "13430"
+    },
+    {
+      "id": "31.75.07.1003",
+      "name": "Klender",
+      "postal_code": "13470"
+    },
+    {
+      "id": "31.75.07.1004",
+      "name": "Pondok Kelapa",
+      "postal_code": "13450"
+    },
+    {
+      "id": "31.75.07.1005",
+      "name": "Malaka Sari",
+      "postal_code": "13460"
+    },
+    {
+      "id": "31.75.07.1006",
+      "name": "Malaka Jaya",
+      "postal_code": "13460"
+    },
+    {
+      "id": "31.75.07.1007",
+      "name": "Pondok Kopi",
+      "postal_code": "13460"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

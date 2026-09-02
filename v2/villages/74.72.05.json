@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "74.72.05.1001",
+      "name": "Liwuto",
+      "postal_code": "93711"
+    },
+    {
+      "id": "74.72.05.1002",
+      "name": "Sukanaeyo",
+      "postal_code": "93711"
+    },
+    {
+      "id": "74.72.05.1003",
+      "name": "Lakologou",
+      "postal_code": "93719"
+    },
+    {
+      "id": "74.72.05.1004",
+      "name": "Waruruma",
+      "postal_code": "93719"
+    },
+    {
+      "id": "74.72.05.1005",
+      "name": "Kadolomoko",
+      "postal_code": "93716"
+    },
+    {
+      "id": "74.72.05.1006",
+      "name": "Kadolo",
+      "postal_code": "93716"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

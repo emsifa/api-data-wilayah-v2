@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "33.15",
+    "name": "Kabupaten Grobogan",
+    "capital": "Purwodadi",
+    "lat": -7.082058555310319,
+    "lng": 110.91737159653837,
+    "elv": 35,
+    "tz": 7,
+    "population": 1520974,
+    "total_area": 2023.849,
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

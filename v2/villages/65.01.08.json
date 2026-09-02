@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "65.01.08.2001",
+      "name": "Long Tungu",
+      "postal_code": "77262"
+    },
+    {
+      "id": "65.01.08.2002",
+      "name": "Long Bang",
+      "postal_code": "77262"
+    },
+    {
+      "id": "65.01.08.2003",
+      "name": "Long Telenjau",
+      "postal_code": "77262"
+    },
+    {
+      "id": "65.01.08.2004",
+      "name": "Naha Aya",
+      "postal_code": "77262"
+    },
+    {
+      "id": "65.01.08.2005",
+      "name": "Long Lembu",
+      "postal_code": "77262"
+    },
+    {
+      "id": "65.01.08.2006",
+      "name": "Long Bang Hulu",
+      "postal_code": "77262"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

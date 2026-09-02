@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "12.15.03.2001",
+      "name": "Salak I",
+      "postal_code": "22272"
+    },
+    {
+      "id": "12.15.03.2002",
+      "name": "Salak II",
+      "postal_code": "22272"
+    },
+    {
+      "id": "12.15.03.2003",
+      "name": "Boangmanalu",
+      "postal_code": "22272"
+    },
+    {
+      "id": "12.15.03.2009",
+      "name": "Sibongkaras",
+      "postal_code": "22272"
+    },
+    {
+      "id": "12.15.03.2013",
+      "name": "Kuta Tinggi",
+      "postal_code": "22272"
+    },
+    {
+      "id": "12.15.03.2014",
+      "name": "Penanggalan Binanga Boang",
+      "postal_code": "22272"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

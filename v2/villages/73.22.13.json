@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "73.22.13.2001",
+      "name": "Mulyorejo",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.13.2002",
+      "name": "Rawamangun",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.13.2003",
+      "name": "Paomacang",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.13.2004",
+      "name": "Wonokerto",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.13.2005",
+      "name": "Sumberbaru",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.13.2006",
+      "name": "Banyuwangi",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.13.2007",
+      "name": "Subur",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.13.2008",
+      "name": "Lino",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.13.2009",
+      "name": "Sidoharjo",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.13.2010",
+      "name": "Sukamukti",
+      "postal_code": "92963"
+    },
+    {
+      "id": "73.22.13.2011",
+      "name": "Sukaharapan",
+      "postal_code": "92963"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

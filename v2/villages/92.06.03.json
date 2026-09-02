@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "92.06.03.2020",
+      "name": "Irarutu III",
+      "postal_code": "98132"
+    },
+    {
+      "id": "92.06.03.2021",
+      "name": "Amutu",
+      "postal_code": "98132"
+    },
+    {
+      "id": "92.06.03.2022",
+      "name": "Nusei",
+      "postal_code": "98132"
+    },
+    {
+      "id": "92.06.03.2023",
+      "name": "Kasira",
+      "postal_code": "98132"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

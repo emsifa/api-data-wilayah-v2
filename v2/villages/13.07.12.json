@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "13.07.12.2001",
+      "name": "Maek",
+      "postal_code": "26257"
+    },
+    {
+      "id": "13.07.12.2002",
+      "name": "Banja Loweh",
+      "postal_code": "26257"
+    },
+    {
+      "id": "13.07.12.2003",
+      "name": "Baruah Gunuang",
+      "postal_code": "26257"
+    },
+    {
+      "id": "13.07.12.2004",
+      "name": "Sungai Naniang",
+      "postal_code": "26257"
+    },
+    {
+      "id": "13.07.12.2005",
+      "name": "Koto Tangah",
+      "postal_code": "26257"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

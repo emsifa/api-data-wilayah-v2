@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "18.71.16.1001",
+      "name": "Langkapura",
+      "postal_code": "35154"
+    },
+    {
+      "id": "18.71.16.1002",
+      "name": "Langkapura Baru",
+      "postal_code": "35154"
+    },
+    {
+      "id": "18.71.16.1003",
+      "name": "Gunungterang",
+      "postal_code": "35152"
+    },
+    {
+      "id": "18.71.16.1005",
+      "name": "Bilabong Jaya",
+      "postal_code": "35155"
+    },
+    {
+      "id": "18.71.16.1006",
+      "name": "Gunungagung",
+      "postal_code": "35157"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

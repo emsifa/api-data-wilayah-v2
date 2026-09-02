@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.15.01.1001",
+      "name": "Karawang Kulon",
+      "postal_code": "41311"
+    },
+    {
+      "id": "32.15.01.1003",
+      "name": "Adiarsa Barat",
+      "postal_code": "41311"
+    },
+    {
+      "id": "32.15.01.1005",
+      "name": "Tanjungpura",
+      "postal_code": "41316"
+    },
+    {
+      "id": "32.15.01.1006",
+      "name": "Tanjungmekar",
+      "postal_code": "41311"
+    },
+    {
+      "id": "32.15.01.1007",
+      "name": "Tunggakjati",
+      "postal_code": "41311"
+    },
+    {
+      "id": "32.15.01.1010",
+      "name": "Karangpawitan",
+      "postal_code": "41315"
+    },
+    {
+      "id": "32.15.01.1011",
+      "name": "Nagasari",
+      "postal_code": "41312"
+    },
+    {
+      "id": "32.15.01.1012",
+      "name": "Mekarjati",
+      "postal_code": "41311"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

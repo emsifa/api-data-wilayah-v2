@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "14.71.05.1001",
+      "name": "Padang Bulan",
+      "postal_code": "28156"
+    },
+    {
+      "id": "14.71.05.1002",
+      "name": "Sago",
+      "postal_code": "28151"
+    },
+    {
+      "id": "14.71.05.1003",
+      "name": "Kampung Baru",
+      "postal_code": "28154"
+    },
+    {
+      "id": "14.71.05.1004",
+      "name": "Kampung Dalam",
+      "postal_code": "28152"
+    },
+    {
+      "id": "14.71.05.1005",
+      "name": "Kampung Bandar",
+      "postal_code": "28153"
+    },
+    {
+      "id": "14.71.05.1006",
+      "name": "Padang Terubuk",
+      "postal_code": "28155"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

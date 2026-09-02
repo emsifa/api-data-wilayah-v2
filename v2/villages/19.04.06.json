@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "19.04.06.2001",
+      "name": "Perlang",
+      "postal_code": "33682"
+    },
+    {
+      "id": "19.04.06.2002",
+      "name": "Batu Beriga",
+      "postal_code": "33682"
+    },
+    {
+      "id": "19.04.06.2003",
+      "name": "Lubuk Besar",
+      "postal_code": "33682"
+    },
+    {
+      "id": "19.04.06.2004",
+      "name": "Kulur",
+      "postal_code": "33682"
+    },
+    {
+      "id": "19.04.06.2005",
+      "name": "Lubuk Lingkuk",
+      "postal_code": "33682"
+    },
+    {
+      "id": "19.04.06.2006",
+      "name": "Lubuk Pabrik",
+      "postal_code": "33682"
+    },
+    {
+      "id": "19.04.06.2007",
+      "name": "Trubus",
+      "postal_code": "33682"
+    },
+    {
+      "id": "19.04.06.2008",
+      "name": "Kulur Ilir",
+      "postal_code": "33682"
+    },
+    {
+      "id": "19.04.06.2009",
+      "name": "Belimbing",
+      "postal_code": "33682"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

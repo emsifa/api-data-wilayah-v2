@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "21.71.09.1001",
+      "name": "Bengkong Indah",
+      "postal_code": "29458"
+    },
+    {
+      "id": "21.71.09.1002",
+      "name": "Bengkong Laut",
+      "postal_code": "29458"
+    },
+    {
+      "id": "21.71.09.1003",
+      "name": "Sadai",
+      "postal_code": "29432"
+    },
+    {
+      "id": "21.71.09.1004",
+      "name": "Tanjung Buntung",
+      "postal_code": "29432"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

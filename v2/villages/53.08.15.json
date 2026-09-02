@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "53.08.15.2001",
+      "name": "Nggesa",
+      "postal_code": "86371"
+    },
+    {
+      "id": "53.08.15.2002",
+      "name": "Detukeli",
+      "postal_code": "86371"
+    },
+    {
+      "id": "53.08.15.2003",
+      "name": "Kebesani",
+      "postal_code": "86371"
+    },
+    {
+      "id": "53.08.15.2004",
+      "name": "Wolomuku",
+      "postal_code": "86371"
+    },
+    {
+      "id": "53.08.15.2005",
+      "name": "Watunggere",
+      "postal_code": "86371"
+    },
+    {
+      "id": "53.08.15.2006",
+      "name": "Nida",
+      "postal_code": "86371"
+    },
+    {
+      "id": "53.08.15.2007",
+      "name": "Maurole Selatan",
+      "postal_code": "86371"
+    },
+    {
+      "id": "53.08.15.2008",
+      "name": "Detumbewa",
+      "postal_code": "86371"
+    },
+    {
+      "id": "53.08.15.2009",
+      "name": "Kanganara",
+      "postal_code": "86371"
+    },
+    {
+      "id": "53.08.15.2011",
+      "name": "Unggu",
+      "postal_code": "86371"
+    },
+    {
+      "id": "53.08.15.2012",
+      "name": "Nggesabiri",
+      "postal_code": "86371"
+    },
+    {
+      "id": "53.08.15.2013",
+      "name": "Watunggere Marilonga",
+      "postal_code": "86371"
+    },
+    {
+      "id": "53.08.15.2014",
+      "name": "Jeo Du'a",
+      "postal_code": "86371"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,18 +1,20 @@
 {
-  "data": {
-    "id": "64.74",
-    "name": "Kota Bontang",
-    "province": {
-      "id": "64",
-      "name": "Kalimantan Timur"
+  "data": [
+    {
+      "id": "64.74.01",
+      "name": "Bontang Utara"
     },
-    "regency": {
-      "id": "64.74",
-      "name": "Kota Bontang"
+    {
+      "id": "64.74.02",
+      "name": "Bontang Selatan"
+    },
+    {
+      "id": "64.74.03",
+      "name": "Bontang Barat"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "61.72.02.1001",
+      "name": "Pasiran",
+      "postal_code": "79123"
+    },
+    {
+      "id": "61.72.02.1002",
+      "name": "Melayu",
+      "postal_code": "79122"
+    },
+    {
+      "id": "61.72.02.1003",
+      "name": "Tengah",
+      "postal_code": "79121"
+    },
+    {
+      "id": "61.72.02.1004",
+      "name": "Kuala",
+      "postal_code": "79124"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

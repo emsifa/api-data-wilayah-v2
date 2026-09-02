@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.73.13.1001",
+      "name": "Cijagra",
+      "postal_code": "40265"
+    },
+    {
+      "id": "32.73.13.1002",
+      "name": "Lingkar Selatan",
+      "postal_code": "40263"
+    },
+    {
+      "id": "32.73.13.1003",
+      "name": "Burangrang",
+      "postal_code": "40262"
+    },
+    {
+      "id": "32.73.13.1004",
+      "name": "Paledang",
+      "postal_code": "40261"
+    },
+    {
+      "id": "32.73.13.1005",
+      "name": "Turangga",
+      "postal_code": "40264"
+    },
+    {
+      "id": "32.73.13.1006",
+      "name": "Malabar",
+      "postal_code": "40262"
+    },
+    {
+      "id": "32.73.13.1007",
+      "name": "Cikawao",
+      "postal_code": "40261"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,18 +1,56 @@
 {
-  "data": {
-    "id": "12.20",
-    "name": "Kabupaten Padang Lawas Utara",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
+  "data": [
+    {
+      "id": "12.20.01",
+      "name": "Dolok Sigompulon"
     },
-    "regency": {
-      "id": "12.20",
-      "name": "Kabupaten Padang Lawas Utara"
+    {
+      "id": "12.20.02",
+      "name": "Dolok"
+    },
+    {
+      "id": "12.20.03",
+      "name": "Halongonan"
+    },
+    {
+      "id": "12.20.04",
+      "name": "Padang Bolak"
+    },
+    {
+      "id": "12.20.05",
+      "name": "Padang Bolak Julu"
+    },
+    {
+      "id": "12.20.06",
+      "name": "Portibi"
+    },
+    {
+      "id": "12.20.07",
+      "name": "Batang Onang"
+    },
+    {
+      "id": "12.20.08",
+      "name": "Simangambat"
+    },
+    {
+      "id": "12.20.09",
+      "name": "Hulu Sihapas"
+    },
+    {
+      "id": "12.20.10",
+      "name": "Padang Bolak Tenggara"
+    },
+    {
+      "id": "12.20.11",
+      "name": "Halongonan Timur"
+    },
+    {
+      "id": "12.20.12",
+      "name": "Ujung Batu"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

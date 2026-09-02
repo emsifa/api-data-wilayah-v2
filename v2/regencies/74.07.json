@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "74.07",
+    "name": "Kabupaten Wakatobi",
+    "capital": "Wangi-Wangi",
+    "lat": -5.328300233247569,
+    "lng": 23.5389007621827,
+    "elv": 556,
+    "tz": 8,
+    "population": 118793,
+    "total_area": 450.8,
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

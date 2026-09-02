@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "53.06.16.2001",
+      "name": "Riangbaring",
+      "postal_code": "86254"
+    },
+    {
+      "id": "53.06.16.2002",
+      "name": "Lewotobi",
+      "postal_code": "86254"
+    },
+    {
+      "id": "53.06.16.2003",
+      "name": "Nurabelen",
+      "postal_code": "86254"
+    },
+    {
+      "id": "53.06.16.2004",
+      "name": "Nobo",
+      "postal_code": "86254"
+    },
+    {
+      "id": "53.06.16.2005",
+      "name": "Lewoawang",
+      "postal_code": "86254"
+    },
+    {
+      "id": "53.06.16.2006",
+      "name": "Duli Pali",
+      "postal_code": "86254"
+    },
+    {
+      "id": "53.06.16.2007",
+      "name": "Riang Rita",
+      "postal_code": "86254"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

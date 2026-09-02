@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "11.75.04",
+    "name": "Sultan Daulat",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.75",
+      "name": "Kota Subulussalam"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

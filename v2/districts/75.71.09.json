@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "75.71.09",
+    "name": "Hulonthalangi",
+    "province": {
+      "id": "75",
+      "name": "Gorontalo"
+    },
+    "regency": {
+      "id": "75.71",
+      "name": "Kota Gorontalo"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

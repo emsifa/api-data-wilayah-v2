@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "95.08.14.2001",
+      "name": "Gemam",
+      "postal_code": "99907"
+    },
+    {
+      "id": "95.08.14.2002",
+      "name": "Puruwa",
+      "postal_code": "99907"
+    },
+    {
+      "id": "95.08.14.2003",
+      "name": "Yutpul",
+      "postal_code": "99907"
+    },
+    {
+      "id": "95.08.14.2004",
+      "name": "Kilmid",
+      "postal_code": "99907"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

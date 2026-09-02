@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "13.10.01.2002",
+      "name": "Koto Baru",
+      "postal_code": "27681"
+    },
+    {
+      "id": "13.10.01.2003",
+      "name": "Sialang Gaung",
+      "postal_code": "27681"
+    },
+    {
+      "id": "13.10.01.2005",
+      "name": "Ampang Kuranji",
+      "postal_code": "27681"
+    },
+    {
+      "id": "13.10.01.2008",
+      "name": "Koto Padang",
+      "postal_code": "27681"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

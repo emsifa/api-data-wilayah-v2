@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "64.08.17.2001",
+      "name": "Batu Timbau",
+      "postal_code": "75654"
+    },
+    {
+      "id": "64.08.17.2002",
+      "name": "Beno Harapan",
+      "postal_code": "75654"
+    },
+    {
+      "id": "64.08.17.2003",
+      "name": "Mugi Rahayu",
+      "postal_code": "75654"
+    },
+    {
+      "id": "64.08.17.2004",
+      "name": "Mawai Indah",
+      "postal_code": "75654"
+    },
+    {
+      "id": "64.08.17.2005",
+      "name": "Himba Lestari",
+      "postal_code": "75654"
+    },
+    {
+      "id": "64.08.17.2006",
+      "name": "Telaga",
+      "postal_code": "75654"
+    },
+    {
+      "id": "64.08.17.2007",
+      "name": "Batu Timbau Ulu",
+      "postal_code": "75654"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.12.07.1002",
+      "name": "Patokan",
+      "postal_code": "68312"
+    },
+    {
+      "id": "35.12.07.1003",
+      "name": "Dawuhan",
+      "postal_code": "68311"
+    },
+    {
+      "id": "35.12.07.2001",
+      "name": "Kalibagor",
+      "postal_code": "68314"
+    },
+    {
+      "id": "35.12.07.2004",
+      "name": "Kotakan",
+      "postal_code": "68313"
+    },
+    {
+      "id": "35.12.07.2005",
+      "name": "Talkandang",
+      "postal_code": "68315"
+    },
+    {
+      "id": "35.12.07.2006",
+      "name": "Olean",
+      "postal_code": "68316"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

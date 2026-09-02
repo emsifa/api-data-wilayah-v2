@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "62.08.05.2001",
+      "name": "Kenawan",
+      "postal_code": "74174"
+    },
+    {
+      "id": "62.08.05.2002",
+      "name": "Laman Baru",
+      "postal_code": "74174"
+    },
+    {
+      "id": "62.08.05.2003",
+      "name": "Ajang",
+      "postal_code": "74174"
+    },
+    {
+      "id": "62.08.05.2004",
+      "name": "Semantun",
+      "postal_code": "74174"
+    },
+    {
+      "id": "62.08.05.2005",
+      "name": "Nibung Terjun",
+      "postal_code": "74174"
+    },
+    {
+      "id": "62.08.05.2006",
+      "name": "Natai Kondang",
+      "postal_code": "74174"
+    },
+    {
+      "id": "62.08.05.2007",
+      "name": "Sembikuan",
+      "postal_code": "74174"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

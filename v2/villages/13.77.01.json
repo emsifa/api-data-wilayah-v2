@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "id": "13.77.01.1001",
+      "name": "Karan Aur",
+      "postal_code": "25514"
+    },
+    {
+      "id": "13.77.01.1002",
+      "name": "Kampung Perak",
+      "postal_code": "25513"
+    },
+    {
+      "id": "13.77.01.1003",
+      "name": "Lohong",
+      "postal_code": "25513"
+    },
+    {
+      "id": "13.77.01.1004",
+      "name": "Pasir",
+      "postal_code": "25513"
+    },
+    {
+      "id": "13.77.01.1005",
+      "name": "Kampung Pondok",
+      "postal_code": "25512"
+    },
+    {
+      "id": "13.77.01.1006",
+      "name": "Pondok II",
+      "postal_code": "25512"
+    },
+    {
+      "id": "13.77.01.1007",
+      "name": "Kampung Jawa I",
+      "postal_code": "25511"
+    },
+    {
+      "id": "13.77.01.1008",
+      "name": "Kampung Jawa II",
+      "postal_code": "25511"
+    },
+    {
+      "id": "13.77.01.1009",
+      "name": "Alai Gelombang",
+      "postal_code": "25519"
+    },
+    {
+      "id": "13.77.01.1010",
+      "name": "Jawi Jawi I",
+      "postal_code": "25518"
+    },
+    {
+      "id": "13.77.01.1011",
+      "name": "Jawi Jawi II",
+      "postal_code": "25518"
+    },
+    {
+      "id": "13.77.01.1012",
+      "name": "Jalan Baru",
+      "postal_code": "25515"
+    },
+    {
+      "id": "13.77.01.1013",
+      "name": "Taratak",
+      "postal_code": "25517"
+    },
+    {
+      "id": "13.77.01.1014",
+      "name": "Jalan Kereta Api",
+      "postal_code": "25515"
+    },
+    {
+      "id": "13.77.01.1015",
+      "name": "Ujung Batung",
+      "postal_code": "25516"
+    },
+    {
+      "id": "13.77.01.1016",
+      "name": "Jati Hilir",
+      "postal_code": "25519"
+    },
+    {
+      "id": "13.77.01.2017",
+      "name": "Pauh Barat",
+      "postal_code": "25512"
+    },
+    {
+      "id": "13.77.01.2018",
+      "name": "Pauh Timur",
+      "postal_code": "25512"
+    },
+    {
+      "id": "13.77.01.2019",
+      "name": "Rawang",
+      "postal_code": "25511"
+    },
+    {
+      "id": "13.77.01.2020",
+      "name": "Kampung Baru",
+      "postal_code": "25514"
+    },
+    {
+      "id": "13.77.01.2021",
+      "name": "Cimparuh",
+      "postal_code": "25511"
+    },
+    {
+      "id": "13.77.01.2025",
+      "name": "Jati Mudik",
+      "postal_code": "25517"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

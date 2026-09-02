@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "36.71.06.1001",
+      "name": "Paninggilan",
+      "postal_code": "15153"
+    },
+    {
+      "id": "36.71.06.1002",
+      "name": "Sudimara Barat",
+      "postal_code": "15151"
+    },
+    {
+      "id": "36.71.06.1003",
+      "name": "Sudimara Timur",
+      "postal_code": "15151"
+    },
+    {
+      "id": "36.71.06.1004",
+      "name": "Tajur",
+      "postal_code": "15152"
+    },
+    {
+      "id": "36.71.06.1005",
+      "name": "Parung Serab",
+      "postal_code": "15153"
+    },
+    {
+      "id": "36.71.06.1006",
+      "name": "Sudimara Jaya",
+      "postal_code": "15151"
+    },
+    {
+      "id": "36.71.06.1007",
+      "name": "Sudimara Selatan",
+      "postal_code": "15151"
+    },
+    {
+      "id": "36.71.06.1008",
+      "name": "Paninggilan Utara",
+      "postal_code": "15153"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

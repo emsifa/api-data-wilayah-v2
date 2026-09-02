@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.05.41.2001",
+      "name": "Citangtu",
+      "postal_code": "44183"
+    },
+    {
+      "id": "32.05.41.2002",
+      "name": "Cimaragas",
+      "postal_code": "44183"
+    },
+    {
+      "id": "32.05.41.2003",
+      "name": "Babakan Loa",
+      "postal_code": "44183"
+    },
+    {
+      "id": "32.05.41.2004",
+      "name": "Sukahurip",
+      "postal_code": "44183"
+    },
+    {
+      "id": "32.05.41.2005",
+      "name": "Sukamulya",
+      "postal_code": "44183"
+    },
+    {
+      "id": "32.05.41.2006",
+      "name": "Cihuni",
+      "postal_code": "44183"
+    },
+    {
+      "id": "32.05.41.2007",
+      "name": "Sukarasa",
+      "postal_code": "44183"
+    },
+    {
+      "id": "32.05.41.2008",
+      "name": "Karangsari",
+      "postal_code": "44183"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

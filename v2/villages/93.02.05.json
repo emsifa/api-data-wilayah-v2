@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "93.02.05.2001",
+      "name": "Getentiri",
+      "postal_code": "99661"
+    },
+    {
+      "id": "93.02.05.2002",
+      "name": "Anggai",
+      "postal_code": "99661"
+    },
+    {
+      "id": "93.02.05.2003",
+      "name": "Butiptiri",
+      "postal_code": "99661"
+    },
+    {
+      "id": "93.02.05.2004",
+      "name": "Asiki",
+      "postal_code": "99661"
+    },
+    {
+      "id": "93.02.05.2005",
+      "name": "Kapogu",
+      "postal_code": "99661"
+    },
+    {
+      "id": "93.02.05.2006",
+      "name": "Miri",
+      "postal_code": "99651"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

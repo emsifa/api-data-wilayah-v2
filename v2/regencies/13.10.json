@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "13.10",
+    "name": "Kabupaten Dharmasraya",
+    "capital": "Pulau Punjung",
+    "lat": -0.9529856017421708,
+    "lng": 101.4941127505854,
+    "elv": 120,
+    "tz": 7,
+    "population": 242192,
+    "total_area": 2920.925,
+    "province": {
+      "id": "13",
+      "name": "Sumatera Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "95.01.09.2001",
+      "name": "Sinata",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.09.2002",
+      "name": "Asolokobal",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.09.2003",
+      "name": "Hesatom",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.09.2004",
+      "name": "Asotapo",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.09.2005",
+      "name": "Wiaima",
+      "postal_code": "99501"
+    },
+    {
+      "id": "95.01.09.2006",
+      "name": "Ninabua",
+      "postal_code": "99501"
+    },
+    {
+      "id": "95.01.09.2007",
+      "name": "Helaluwa",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.09.2008",
+      "name": "Mulinekama",
+      "postal_code": "99524"
+    },
+    {
+      "id": "95.01.09.2009",
+      "name": "Yapema",
+      "postal_code": "99524"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "12.72",
-    "name": "Kota Pematangsiantar",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
+  "data": [
+    {
+      "id": "12.72.01",
+      "name": "Siantar Timur"
     },
-    "regency": {
-      "id": "12.72",
-      "name": "Kota Pematangsiantar"
+    {
+      "id": "12.72.02",
+      "name": "Siantar Barat"
+    },
+    {
+      "id": "12.72.03",
+      "name": "Siantar Utara"
+    },
+    {
+      "id": "12.72.04",
+      "name": "Siantar Selatan"
+    },
+    {
+      "id": "12.72.05",
+      "name": "Siantar Marihat"
+    },
+    {
+      "id": "12.72.06",
+      "name": "Siantar Martoba"
+    },
+    {
+      "id": "12.72.07",
+      "name": "Siantar Sitalasari"
+    },
+    {
+      "id": "12.72.08",
+      "name": "Siantar Marimbun"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

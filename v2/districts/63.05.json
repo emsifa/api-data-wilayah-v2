@@ -1,18 +1,56 @@
 {
-  "data": {
-    "id": "63.05",
-    "name": "Kabupaten Tapin",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
+  "data": [
+    {
+      "id": "63.05.01",
+      "name": "Binuang"
     },
-    "regency": {
-      "id": "63.05",
-      "name": "Kabupaten Tapin"
+    {
+      "id": "63.05.02",
+      "name": "Tapin Selatan"
+    },
+    {
+      "id": "63.05.03",
+      "name": "Tapin Tengah"
+    },
+    {
+      "id": "63.05.04",
+      "name": "Tapin Utara"
+    },
+    {
+      "id": "63.05.05",
+      "name": "Candi Laras Selatan"
+    },
+    {
+      "id": "63.05.06",
+      "name": "Candi Laras Utara"
+    },
+    {
+      "id": "63.05.07",
+      "name": "Bakarangan"
+    },
+    {
+      "id": "63.05.08",
+      "name": "Piani"
+    },
+    {
+      "id": "63.05.09",
+      "name": "Bungur"
+    },
+    {
+      "id": "63.05.10",
+      "name": "Lokpaikat"
+    },
+    {
+      "id": "63.05.11",
+      "name": "Salam Babaris"
+    },
+    {
+      "id": "63.05.12",
+      "name": "Hatungun"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

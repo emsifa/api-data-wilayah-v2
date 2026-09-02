@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.73.04.1001",
+      "name": "Kopo",
+      "postal_code": "40233"
+    },
+    {
+      "id": "32.73.04.1002",
+      "name": "Babakan Tarogong",
+      "postal_code": "40232"
+    },
+    {
+      "id": "32.73.04.1003",
+      "name": "Jamika",
+      "postal_code": "40231"
+    },
+    {
+      "id": "32.73.04.1004",
+      "name": "Babakan Asih",
+      "postal_code": "40232"
+    },
+    {
+      "id": "32.73.04.1005",
+      "name": "Suka Asih",
+      "postal_code": "40231"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

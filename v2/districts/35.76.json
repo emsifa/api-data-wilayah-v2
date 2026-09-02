@@ -1,18 +1,20 @@
 {
-  "data": {
-    "id": "35.76",
-    "name": "Kota Mojokerto",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
+  "data": [
+    {
+      "id": "35.76.01",
+      "name": "Prajuritkulon"
     },
-    "regency": {
-      "id": "35.76",
-      "name": "Kota Mojokerto"
+    {
+      "id": "35.76.02",
+      "name": "Magersari"
+    },
+    {
+      "id": "35.76.03",
+      "name": "Kranggan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

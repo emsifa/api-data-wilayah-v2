@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "62.03.10.2001",
+      "name": "Petak Puti",
+      "postal_code": "73554"
+    },
+    {
+      "id": "62.03.10.2002",
+      "name": "Aruk",
+      "postal_code": "73554"
+    },
+    {
+      "id": "62.03.10.2003",
+      "name": "Lawang Kajang",
+      "postal_code": "73554"
+    },
+    {
+      "id": "62.03.10.2004",
+      "name": "Timpah",
+      "postal_code": "73554"
+    },
+    {
+      "id": "62.03.10.2005",
+      "name": "Lungkuh Layang",
+      "postal_code": "73554"
+    },
+    {
+      "id": "62.03.10.2006",
+      "name": "Lawang Kamah",
+      "postal_code": "73554"
+    },
+    {
+      "id": "62.03.10.2007",
+      "name": "Tumbang Randang",
+      "postal_code": "73554"
+    },
+    {
+      "id": "62.03.10.2008",
+      "name": "Batapah",
+      "postal_code": "73554"
+    },
+    {
+      "id": "62.03.10.2009",
+      "name": "Danau Pantau",
+      "postal_code": "73554"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "64.72.02.1001",
+      "name": "Sungai Keledang",
+      "postal_code": "75131"
+    },
+    {
+      "id": "64.72.02.1002",
+      "name": "Baqa",
+      "postal_code": "75131"
+    },
+    {
+      "id": "64.72.02.1003",
+      "name": "Mesjid",
+      "postal_code": "75133"
+    },
+    {
+      "id": "64.72.02.1009",
+      "name": "Mangkupalas",
+      "postal_code": "75133"
+    },
+    {
+      "id": "64.72.02.1010",
+      "name": "Tenun Samarinda",
+      "postal_code": "75133"
+    },
+    {
+      "id": "64.72.02.1011",
+      "name": "Gunung Panjang",
+      "postal_code": "75131"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

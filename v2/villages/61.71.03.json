@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "61.71.03.1001",
+      "name": "Pallima",
+      "postal_code": "78114"
+    },
+    {
+      "id": "61.71.03.1002",
+      "name": "Sungaijawi Dalam",
+      "postal_code": "78115"
+    },
+    {
+      "id": "61.71.03.1003",
+      "name": "Sungaijawi Luar",
+      "postal_code": "78113"
+    },
+    {
+      "id": "61.71.03.1004",
+      "name": "Sungaibeliung",
+      "postal_code": "78117"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

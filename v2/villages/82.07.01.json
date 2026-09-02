@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "id": "82.07.01.2001",
+      "name": "Gotalamo",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2002",
+      "name": "Daruba",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2003",
+      "name": "Darame",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2004",
+      "name": "Wawama",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2005",
+      "name": "Pandanga",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2006",
+      "name": "Juanga",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2007",
+      "name": "Totodoku",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2008",
+      "name": "Momojiu",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2009",
+      "name": "Sabatai Baru",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2010",
+      "name": "Sabatai Tua",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2011",
+      "name": "Daeo",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2012",
+      "name": "Dehegila",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2013",
+      "name": "Pilowo",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2014",
+      "name": "Galo-Galo",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2015",
+      "name": "Koloray",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2016",
+      "name": "Yayasan",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2017",
+      "name": "Joubela",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2018",
+      "name": "Aha",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2019",
+      "name": "Muhajirin",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2020",
+      "name": "Mandiri",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2021",
+      "name": "Falila",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2022",
+      "name": "Sabala",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2023",
+      "name": "Daeo Majiko",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2024",
+      "name": "Morodadi",
+      "postal_code": "97771"
+    },
+    {
+      "id": "82.07.01.2025",
+      "name": "Nakamura",
+      "postal_code": "97771"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "14.03.03.1010",
+      "name": "Sungai Pakning",
+      "postal_code": "28761"
+    },
+    {
+      "id": "14.03.03.2001",
+      "name": "Sejangat",
+      "postal_code": "28761"
+    },
+    {
+      "id": "14.03.03.2002",
+      "name": "Dompas",
+      "postal_code": "28761"
+    },
+    {
+      "id": "14.03.03.2003",
+      "name": "Pangkalan Jambi",
+      "postal_code": "28761"
+    },
+    {
+      "id": "14.03.03.2004",
+      "name": "Sungai Selari",
+      "postal_code": "28761"
+    },
+    {
+      "id": "14.03.03.2005",
+      "name": "Buruk Bakul",
+      "postal_code": "28761"
+    },
+    {
+      "id": "14.03.03.2006",
+      "name": "Bukit Batu",
+      "postal_code": "28761"
+    },
+    {
+      "id": "14.03.03.2007",
+      "name": "Sukajadi",
+      "postal_code": "28761"
+    },
+    {
+      "id": "14.03.03.2016",
+      "name": "Batang Duku",
+      "postal_code": "28761"
+    },
+    {
+      "id": "14.03.03.2017",
+      "name": "Pakning Asal",
+      "postal_code": "28761"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

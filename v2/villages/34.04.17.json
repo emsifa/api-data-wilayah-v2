@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "34.04.17.2001",
+      "name": "Argomulyo",
+      "postal_code": "55583"
+    },
+    {
+      "id": "34.04.17.2002",
+      "name": "Wukirsari",
+      "postal_code": "55583"
+    },
+    {
+      "id": "34.04.17.2003",
+      "name": "Glagaharjo",
+      "postal_code": "55583"
+    },
+    {
+      "id": "34.04.17.2004",
+      "name": "Kepuharjo",
+      "postal_code": "55583"
+    },
+    {
+      "id": "34.04.17.2005",
+      "name": "Umbulharjo",
+      "postal_code": "55583"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

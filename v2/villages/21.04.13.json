@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "21.04.13.2001",
+      "name": "Batu Belubang",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.13.2002",
+      "name": "Cempa",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.13.2003",
+      "name": "Pasir Panjang",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.13.2004",
+      "name": "Tanjung Kelit",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.13.2005",
+      "name": "Tanjung Lipat",
+      "postal_code": "29873"
+    },
+    {
+      "id": "21.04.13.2006",
+      "name": "Rejai",
+      "postal_code": "29873"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "61.07.12.2002",
+      "name": "Sungkung I",
+      "postal_code": "79287"
+    },
+    {
+      "id": "61.07.12.2004",
+      "name": "Siding",
+      "postal_code": "79287"
+    },
+    {
+      "id": "61.07.12.2005",
+      "name": "Hli Buei",
+      "postal_code": "79287"
+    },
+    {
+      "id": "61.07.12.2006",
+      "name": "Tangguh",
+      "postal_code": "79287"
+    },
+    {
+      "id": "61.07.12.2007",
+      "name": "Sungkung II",
+      "postal_code": "79287"
+    },
+    {
+      "id": "61.07.12.2008",
+      "name": "Sungkung III",
+      "postal_code": "79287"
+    },
+    {
+      "id": "61.07.12.2009",
+      "name": "Tamong",
+      "postal_code": "79287"
+    },
+    {
+      "id": "61.07.12.2010",
+      "name": "Tawang",
+      "postal_code": "79287"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

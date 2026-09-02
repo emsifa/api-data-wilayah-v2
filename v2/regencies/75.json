@@ -1,21 +1,74 @@
 {
-  "data": {
-    "id": "75",
-    "name": "Gorontalo",
-    "capital": "Gorontalo",
-    "lat": 0.5239062370158745,
-    "lng": 123.07745587796073,
-    "elv": 108,
-    "tz": 8,
-    "population": 1250960,
-    "total_area": 12024.982,
-    "province": {
-      "id": "75",
-      "name": "Gorontalo"
+  "data": [
+    {
+      "id": "75.01",
+      "name": "Kabupaten Gorontalo",
+      "capital": "Limboto",
+      "lat": 0.6290030224702096,
+      "lng": 122.98093758487616,
+      "elv": 18,
+      "tz": 8,
+      "population": 423981,
+      "total_area": 2160.183
+    },
+    {
+      "id": "75.02",
+      "name": "Kabupaten Boalemo",
+      "capital": "Tilamuta",
+      "lat": 0.5292719285160986,
+      "lng": 122.34754187571235,
+      "elv": 13,
+      "tz": 8,
+      "population": 152851,
+      "total_area": 1831.637
+    },
+    {
+      "id": "75.03",
+      "name": "Kabupaten Bone Bolango",
+      "capital": "Suwawa",
+      "lat": 0.5574113394247833,
+      "lng": 123.14391729846989,
+      "elv": 58,
+      "tz": 8,
+      "population": 174788,
+      "total_area": 1888.935
+    },
+    {
+      "id": "75.04",
+      "name": "Kabupaten Pohuwato",
+      "capital": "Marisa",
+      "lat": 0.7055277999999999,
+      "lng": 121.71954589999996,
+      "elv": 317,
+      "tz": 8,
+      "population": 162989,
+      "total_area": 4370.656
+    },
+    {
+      "id": "75.05",
+      "name": "Kabupaten Gorontalo Utara",
+      "capital": "Kwandang",
+      "lat": 0.7909498464253044,
+      "lng": 122.86871529758803,
+      "elv": 11,
+      "tz": 8,
+      "population": 131991,
+      "total_area": 1702.746
+    },
+    {
+      "id": "75.71",
+      "name": "Kota Gorontalo",
+      "capital": "Gorontalo",
+      "lat": 0.5319060577592112,
+      "lng": 123.0595026528477,
+      "elv": 4,
+      "tz": 8,
+      "population": 204360,
+      "total_area": 70.825
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:11Z",
+    "generated_at": "2026-09-02T03:39:51Z",
     "level": 2
   }
 }

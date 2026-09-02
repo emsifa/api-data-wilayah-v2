@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.01.08.1002",
+      "name": "Sibabangun",
+      "postal_code": "22655"
+    },
+    {
+      "id": "12.01.08.2005",
+      "name": "Mombang Boru",
+      "postal_code": "22655"
+    },
+    {
+      "id": "12.01.08.2006",
+      "name": "Anggoli",
+      "postal_code": "22655"
+    },
+    {
+      "id": "12.01.08.2007",
+      "name": "Muara Sibuntuon",
+      "postal_code": "22655"
+    },
+    {
+      "id": "12.01.08.2008",
+      "name": "Sibio bio",
+      "postal_code": "22655"
+    },
+    {
+      "id": "12.01.08.2010",
+      "name": "Simanosor",
+      "postal_code": "22655"
+    },
+    {
+      "id": "12.01.08.2011",
+      "name": "Hutagur-gur",
+      "postal_code": "22655"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

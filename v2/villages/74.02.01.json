@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "74.02.01.1001",
+      "name": "Lambuya",
+      "postal_code": "93464"
+    },
+    {
+      "id": "74.02.01.2006",
+      "name": "Awuliti",
+      "postal_code": "93464"
+    },
+    {
+      "id": "74.02.01.2007",
+      "name": "Asaki",
+      "postal_code": "93464"
+    },
+    {
+      "id": "74.02.01.2011",
+      "name": "Amberi",
+      "postal_code": "93464"
+    },
+    {
+      "id": "74.02.01.2012",
+      "name": "Waworaha",
+      "postal_code": "93464"
+    },
+    {
+      "id": "74.02.01.2015",
+      "name": "Tanggobu",
+      "postal_code": "93464"
+    },
+    {
+      "id": "74.02.01.2027",
+      "name": "Meraka",
+      "postal_code": "93464"
+    },
+    {
+      "id": "74.02.01.2035",
+      "name": "Wanua Hoa",
+      "postal_code": "93464"
+    },
+    {
+      "id": "74.02.01.2036",
+      "name": "Watarema",
+      "postal_code": "93464"
+    },
+    {
+      "id": "74.02.01.2037",
+      "name": "Tetembomua",
+      "postal_code": "93464"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

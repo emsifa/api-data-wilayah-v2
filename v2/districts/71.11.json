@@ -1,18 +1,36 @@
 {
-  "data": {
-    "id": "71.11",
-    "name": "Kabupaten Bolaang Mongondow Selatan",
-    "province": {
-      "id": "71",
-      "name": "Sulawesi Utara"
+  "data": [
+    {
+      "id": "71.11.01",
+      "name": "Bolaang Uki"
     },
-    "regency": {
-      "id": "71.11",
-      "name": "Kabupaten Bolaang Mongondow Selatan"
+    {
+      "id": "71.11.02",
+      "name": "Posigadan"
+    },
+    {
+      "id": "71.11.03",
+      "name": "Pinolosian"
+    },
+    {
+      "id": "71.11.04",
+      "name": "Pinolosian Tengah"
+    },
+    {
+      "id": "71.11.05",
+      "name": "Pinolosian Timur"
+    },
+    {
+      "id": "71.11.06",
+      "name": "Helumo"
+    },
+    {
+      "id": "71.11.07",
+      "name": "Tomini"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

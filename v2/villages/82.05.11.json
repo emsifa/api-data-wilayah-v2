@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "82.05.11.2001",
+      "name": "Buruakol",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.11.2002",
+      "name": "Capalulu",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.11.2003",
+      "name": "Urifola",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.11.2004",
+      "name": "Mangoli",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.11.2005",
+      "name": "Wailoba",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.11.2006",
+      "name": "Paslal",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.11.2007",
+      "name": "Waitulia",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.11.2008",
+      "name": "Wai U",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.11.2009",
+      "name": "Jere",
+      "postal_code": "97793"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

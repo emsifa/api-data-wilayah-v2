@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "14.01.14.2001",
+      "name": "Pulau Payung",
+      "postal_code": "28458"
+    },
+    {
+      "id": "14.01.14.2002",
+      "name": "Teratak",
+      "postal_code": "28458"
+    },
+    {
+      "id": "14.01.14.2003",
+      "name": "Alam Panjang",
+      "postal_code": "28458"
+    },
+    {
+      "id": "14.01.14.2004",
+      "name": "Bukit Kratai",
+      "postal_code": "28458"
+    },
+    {
+      "id": "14.01.14.2005",
+      "name": "Batang Batindih",
+      "postal_code": "28458"
+    },
+    {
+      "id": "14.01.14.2006",
+      "name": "Tambusai",
+      "postal_code": "28458"
+    },
+    {
+      "id": "14.01.14.2007",
+      "name": "Simpang Petai",
+      "postal_code": "28458"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

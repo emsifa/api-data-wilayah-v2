@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "92.06.19.2001",
+      "name": "Sebyar Rejosasi",
+      "postal_code": "98156"
+    },
+    {
+      "id": "92.06.19.2002",
+      "name": "Tomu",
+      "postal_code": "98156"
+    },
+    {
+      "id": "92.06.19.2003",
+      "name": "Taroy",
+      "postal_code": "98156"
+    },
+    {
+      "id": "92.06.19.2004",
+      "name": "Ekam",
+      "postal_code": "98156"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

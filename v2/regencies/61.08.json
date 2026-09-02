@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "61.08",
+    "name": "Kabupaten Landak",
+    "capital": "Ngabang",
+    "lat": 0.37478897210209017,
+    "lng": 109.9382701253479,
+    "elv": 42,
+    "tz": 7,
+    "population": 415033,
+    "total_area": 8430.711,
+    "province": {
+      "id": "61",
+      "name": "Kalimantan Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

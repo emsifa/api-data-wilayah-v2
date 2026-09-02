@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "32.03.19.2001",
+      "name": "Tanggeung",
+      "postal_code": "43267"
+    },
+    {
+      "id": "32.03.19.2002",
+      "name": "Rawagede",
+      "postal_code": "43267"
+    },
+    {
+      "id": "32.03.19.2003",
+      "name": "Cilongsong",
+      "postal_code": "43267"
+    },
+    {
+      "id": "32.03.19.2004",
+      "name": "Margaluyu",
+      "postal_code": "43267"
+    },
+    {
+      "id": "32.03.19.2005",
+      "name": "Karangtengah",
+      "postal_code": "43267"
+    },
+    {
+      "id": "32.03.19.2006",
+      "name": "Pagermaneuh",
+      "postal_code": "43267"
+    },
+    {
+      "id": "32.03.19.2007",
+      "name": "Bojongpetir",
+      "postal_code": "43267"
+    },
+    {
+      "id": "32.03.19.2009",
+      "name": "Pasirjambu",
+      "postal_code": "43267"
+    },
+    {
+      "id": "32.03.19.2010",
+      "name": "Sirnajaya",
+      "postal_code": "43267"
+    },
+    {
+      "id": "32.03.19.2013",
+      "name": "Kertajaya",
+      "postal_code": "43267"
+    },
+    {
+      "id": "32.03.19.2014",
+      "name": "Sukajaya",
+      "postal_code": "43267"
+    },
+    {
+      "id": "32.03.19.2015",
+      "name": "Padaluyu",
+      "postal_code": "43267"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

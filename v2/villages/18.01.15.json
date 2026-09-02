@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "18.01.15.2001",
+      "name": "Kuala Sekampung",
+      "postal_code": "35597"
+    },
+    {
+      "id": "18.01.15.2002",
+      "name": "Baktirasa",
+      "postal_code": "35597"
+    },
+    {
+      "id": "18.01.15.2003",
+      "name": "Mandala Sari",
+      "postal_code": "35597"
+    },
+    {
+      "id": "18.01.15.2004",
+      "name": "Sukapura",
+      "postal_code": "35597"
+    },
+    {
+      "id": "18.01.15.2005",
+      "name": "Sumber Agung",
+      "postal_code": "35597"
+    },
+    {
+      "id": "18.01.15.2006",
+      "name": "Marga Jasa",
+      "postal_code": "35597"
+    },
+    {
+      "id": "18.01.15.2007",
+      "name": "Sumber Sari",
+      "postal_code": "35597"
+    },
+    {
+      "id": "18.01.15.2008",
+      "name": "Bandar Agung",
+      "postal_code": "35597"
+    },
+    {
+      "id": "18.01.15.2009",
+      "name": "Kedaung",
+      "postal_code": "35597"
+    },
+    {
+      "id": "18.01.15.2010",
+      "name": "Margasari",
+      "postal_code": "35597"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

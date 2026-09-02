@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "32.03.04.2001",
+      "name": "Rancagoong",
+      "postal_code": "43285"
+    },
+    {
+      "id": "32.03.04.2002",
+      "name": "Sukasari",
+      "postal_code": "43285"
+    },
+    {
+      "id": "32.03.04.2003",
+      "name": "Sirnagalih",
+      "postal_code": "43285"
+    },
+    {
+      "id": "32.03.04.2004",
+      "name": "Sukakerta",
+      "postal_code": "43285"
+    },
+    {
+      "id": "32.03.04.2005",
+      "name": "Cibinonghilir",
+      "postal_code": "43285"
+    },
+    {
+      "id": "32.03.04.2006",
+      "name": "Rahong",
+      "postal_code": "43285"
+    },
+    {
+      "id": "32.03.04.2007",
+      "name": "Munjul",
+      "postal_code": "43285"
+    },
+    {
+      "id": "32.03.04.2008",
+      "name": "Sindangsari",
+      "postal_code": "43285"
+    },
+    {
+      "id": "32.03.04.2009",
+      "name": "Ciharashas",
+      "postal_code": "43285"
+    },
+    {
+      "id": "32.03.04.2010",
+      "name": "Mulyasari",
+      "postal_code": "43285"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

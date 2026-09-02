@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "92.11",
+    "name": "Kabupaten Manokwari Selatan",
+    "capital": "Ransiki",
+    "lat": -1.5063952702108039,
+    "lng": 134.16864333913085,
+    "elv": 30,
+    "tz": 9,
+    "population": 39026,
+    "total_area": 39026,
+    "province": {
+      "id": "92",
+      "name": "Papua Barat"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

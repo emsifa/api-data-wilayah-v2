@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "95.01.25.2001",
+      "name": "Pisugi",
+      "postal_code": "99523"
+    },
+    {
+      "id": "95.01.25.2002",
+      "name": "Pabuma",
+      "postal_code": "99523"
+    },
+    {
+      "id": "95.01.25.2003",
+      "name": "Aikima",
+      "postal_code": "99523"
+    },
+    {
+      "id": "95.01.25.2004",
+      "name": "Pikhe",
+      "postal_code": "99523"
+    },
+    {
+      "id": "95.01.25.2005",
+      "name": "Akiaput",
+      "postal_code": "99523"
+    },
+    {
+      "id": "95.01.25.2006",
+      "name": "Suroba",
+      "postal_code": "99523"
+    },
+    {
+      "id": "95.01.25.2007",
+      "name": "Wara",
+      "postal_code": "99523"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

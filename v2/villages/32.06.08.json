@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "32.06.08.2001",
+      "name": "Simpang",
+      "postal_code": "46187"
+    },
+    {
+      "id": "32.06.08.2002",
+      "name": "Parakanhonje",
+      "postal_code": "46187"
+    },
+    {
+      "id": "32.06.08.2003",
+      "name": "Pamijahan",
+      "postal_code": "46187"
+    },
+    {
+      "id": "32.06.08.2004",
+      "name": "Sukamaju",
+      "postal_code": "46188"
+    },
+    {
+      "id": "32.06.08.2005",
+      "name": "Wangunsari",
+      "postal_code": "46187"
+    },
+    {
+      "id": "32.06.08.2006",
+      "name": "Hegarwangi",
+      "postal_code": "46187"
+    },
+    {
+      "id": "32.06.08.2007",
+      "name": "Wakap",
+      "postal_code": "46168"
+    },
+    {
+      "id": "32.06.08.2008",
+      "name": "Sirnagalih",
+      "postal_code": "46187"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

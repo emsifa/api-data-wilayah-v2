@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "74.07.04.1005",
+      "name": "Taipabu",
+      "postal_code": "93794"
+    },
+    {
+      "id": "74.07.04.1007",
+      "name": "Palahidu",
+      "postal_code": "93794"
+    },
+    {
+      "id": "74.07.04.1010",
+      "name": "Wali",
+      "postal_code": "93794"
+    },
+    {
+      "id": "74.07.04.1012",
+      "name": "Rukuwa",
+      "postal_code": "93794"
+    },
+    {
+      "id": "74.07.04.2006",
+      "name": "Makoro",
+      "postal_code": "93794"
+    },
+    {
+      "id": "74.07.04.2008",
+      "name": "Kampo Kampo",
+      "postal_code": "93794"
+    },
+    {
+      "id": "74.07.04.2009",
+      "name": "Lagongga",
+      "postal_code": "93794"
+    },
+    {
+      "id": "74.07.04.2011",
+      "name": "Palahidu Barat",
+      "postal_code": "93794"
+    },
+    {
+      "id": "74.07.04.2013",
+      "name": "Jaya Makmur",
+      "postal_code": "93794"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

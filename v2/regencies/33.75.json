@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "33.75",
+    "name": "Kota Pekalongan",
+    "capital": "Pekalongan",
+    "lat": -6.896949717498735,
+    "lng": 109.66208089653703,
+    "elv": 9,
+    "tz": 7,
+    "population": 318221,
+    "total_area": 46.076,
+    "province": {
+      "id": "33",
+      "name": "Jawa Tengah"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "94.04.15.2001",
+      "name": "Limau Asri Timur",
+      "postal_code": "99968"
+    },
+    {
+      "id": "94.04.15.2002",
+      "name": "Wangirja",
+      "postal_code": "99968"
+    },
+    {
+      "id": "94.04.15.2003",
+      "name": "Iwaka",
+      "postal_code": "99968"
+    },
+    {
+      "id": "94.04.15.2004",
+      "name": "Naena Muktipura",
+      "postal_code": "99968"
+    },
+    {
+      "id": "94.04.15.2005",
+      "name": "Mulia Kencana",
+      "postal_code": "99968"
+    },
+    {
+      "id": "94.04.15.2006",
+      "name": "Pigapu",
+      "postal_code": "99968"
+    },
+    {
+      "id": "94.04.15.2007",
+      "name": "Limau Asri Barat",
+      "postal_code": "99968"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

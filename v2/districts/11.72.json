@@ -1,18 +1,20 @@
 {
-  "data": {
-    "id": "11.72",
-    "name": "Kota Sabang",
-    "province": {
-      "id": "11",
-      "name": "Aceh"
+  "data": [
+    {
+      "id": "11.72.01",
+      "name": "Sukakarya"
     },
-    "regency": {
-      "id": "11.72",
-      "name": "Kota Sabang"
+    {
+      "id": "11.72.02",
+      "name": "Sukajaya"
+    },
+    {
+      "id": "11.72.03",
+      "name": "Sukamakmue"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

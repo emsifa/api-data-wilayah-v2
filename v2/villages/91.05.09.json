@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "91.05.09.2001",
+      "name": "Randawaya",
+      "postal_code": "98642"
+    },
+    {
+      "id": "91.05.09.2002",
+      "name": "Warironi",
+      "postal_code": "98642"
+    },
+    {
+      "id": "91.05.09.2003",
+      "name": "Ampimoi",
+      "postal_code": "98642"
+    },
+    {
+      "id": "91.05.09.2004",
+      "name": "Waita",
+      "postal_code": "98642"
+    },
+    {
+      "id": "91.05.09.2005",
+      "name": "Ayari",
+      "postal_code": "98642"
+    },
+    {
+      "id": "91.05.09.2006",
+      "name": "Koroapi",
+      "postal_code": "98642"
+    },
+    {
+      "id": "91.05.09.2007",
+      "name": "Wabuayar",
+      "postal_code": "98642"
+    },
+    {
+      "id": "91.05.09.2008",
+      "name": "Tarei",
+      "postal_code": "98642"
+    },
+    {
+      "id": "91.05.09.2009",
+      "name": "Bareraif",
+      "postal_code": "98642"
+    },
+    {
+      "id": "91.05.09.2010",
+      "name": "Arareni",
+      "postal_code": "98642"
+    },
+    {
+      "id": "91.05.09.2011",
+      "name": "Siromi",
+      "postal_code": "98642"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

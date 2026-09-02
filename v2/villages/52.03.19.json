@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": "52.03.19.2001",
+      "name": "Sukarara",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2002",
+      "name": "Gunung Rajak",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2003",
+      "name": "Rensing",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2004",
+      "name": "Bungtiang",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2005",
+      "name": "Pengkelak Mas",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2006",
+      "name": "Borok Toyang",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2007",
+      "name": "Rensing Raya",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2008",
+      "name": "Pematung",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2009",
+      "name": "Jerogunung",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2010",
+      "name": "Pejaring",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2011",
+      "name": "Boyemare",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2012",
+      "name": "Montong Beter",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2013",
+      "name": "Mengkuru",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2014",
+      "name": "Gadungmas",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2015",
+      "name": "Kembang Are Sampai",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2016",
+      "name": "Rensing Bat",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2017",
+      "name": "Tanak Kaken",
+      "postal_code": "83670"
+    },
+    {
+      "id": "52.03.19.2018",
+      "name": "Gerisak Semanggeleng",
+      "postal_code": "83670"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "12.08",
+    "name": "Kabupaten Simalungun",
+    "capital": "Raya",
+    "lat": 2.9653486091382972,
+    "lng": 98.86209969919715,
+    "elv": 993,
+    "tz": 7,
+    "population": 1004303,
+    "total_area": 4601.477,
+    "province": {
+      "id": "12",
+      "name": "Sumatera Utara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

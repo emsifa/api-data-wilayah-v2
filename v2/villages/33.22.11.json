@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "33.22.11.1002",
+      "name": "Bawen",
+      "postal_code": "50661"
+    },
+    {
+      "id": "33.22.11.1007",
+      "name": "Harjosari",
+      "postal_code": "50661"
+    },
+    {
+      "id": "33.22.11.2001",
+      "name": "Doplang",
+      "postal_code": "50661"
+    },
+    {
+      "id": "33.22.11.2003",
+      "name": "Asinan",
+      "postal_code": "50661"
+    },
+    {
+      "id": "33.22.11.2004",
+      "name": "Polosiri",
+      "postal_code": "50661"
+    },
+    {
+      "id": "33.22.11.2005",
+      "name": "Kandangan",
+      "postal_code": "50661"
+    },
+    {
+      "id": "33.22.11.2006",
+      "name": "Lemahireng",
+      "postal_code": "50661"
+    },
+    {
+      "id": "33.22.11.2008",
+      "name": "Samban",
+      "postal_code": "50661"
+    },
+    {
+      "id": "33.22.11.2009",
+      "name": "Poncoruso",
+      "postal_code": "50661"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

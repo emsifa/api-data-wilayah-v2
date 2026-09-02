@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "95.02.11.2001",
+      "name": "Eraduman",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.02.11.2002",
+      "name": "Alemsom",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.02.11.2003",
+      "name": "Tapasik",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.02.11.2004",
+      "name": "Payol Masumkon",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.02.11.2005",
+      "name": "Tapob",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.02.11.2006",
+      "name": "Bakwalin Yub",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.02.11.2007",
+      "name": "Imiryi",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.02.11.2008",
+      "name": "Sumtamon",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.02.11.2009",
+      "name": "Bondik",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.02.11.2010",
+      "name": "Muruman",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.02.11.2011",
+      "name": "Binalkom",
+      "postal_code": "99411"
+    },
+    {
+      "id": "95.02.11.2012",
+      "name": "Tibal",
+      "postal_code": "99411"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

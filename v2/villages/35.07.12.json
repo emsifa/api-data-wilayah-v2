@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.07.12.2001",
+      "name": "Ternyang",
+      "postal_code": "65160"
+    },
+    {
+      "id": "35.07.12.2002",
+      "name": "Senggreng",
+      "postal_code": "65160"
+    },
+    {
+      "id": "35.07.12.2003",
+      "name": "Sambigede",
+      "postal_code": "65160"
+    },
+    {
+      "id": "35.07.12.2004",
+      "name": "Ngebruk",
+      "postal_code": "65160"
+    },
+    {
+      "id": "35.07.12.2005",
+      "name": "Jatiguwi",
+      "postal_code": "65160"
+    },
+    {
+      "id": "35.07.12.2006",
+      "name": "Sumberpucung",
+      "postal_code": "65160"
+    },
+    {
+      "id": "35.07.12.2007",
+      "name": "Karangkates",
+      "postal_code": "65160"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

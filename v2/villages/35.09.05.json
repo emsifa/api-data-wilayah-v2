@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "35.09.05.2001",
+      "name": "Sukoreno",
+      "postal_code": "68166"
+    },
+    {
+      "id": "35.09.05.2002",
+      "name": "Sidorejo",
+      "postal_code": "68166"
+    },
+    {
+      "id": "35.09.05.2003",
+      "name": "Gunungsari",
+      "postal_code": "68166"
+    },
+    {
+      "id": "35.09.05.2004",
+      "name": "Gadingrejo",
+      "postal_code": "68166"
+    },
+    {
+      "id": "35.09.05.2005",
+      "name": "Umbulrejo",
+      "postal_code": "68166"
+    },
+    {
+      "id": "35.09.05.2006",
+      "name": "Umbulsari",
+      "postal_code": "68166"
+    },
+    {
+      "id": "35.09.05.2007",
+      "name": "Tanjungsari",
+      "postal_code": "68166"
+    },
+    {
+      "id": "35.09.05.2008",
+      "name": "Tegalwangi",
+      "postal_code": "68166"
+    },
+    {
+      "id": "35.09.05.2009",
+      "name": "Paleran",
+      "postal_code": "68166"
+    },
+    {
+      "id": "35.09.05.2010",
+      "name": "Mundurejo",
+      "postal_code": "68166"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

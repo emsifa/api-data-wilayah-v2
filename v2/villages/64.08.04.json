@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "64.08.04.1010",
+      "name": "Teluk Lingga",
+      "postal_code": "75681"
+    },
+    {
+      "id": "64.08.04.2001",
+      "name": "Sangatta Utara",
+      "postal_code": "75681"
+    },
+    {
+      "id": "64.08.04.2011",
+      "name": "Singa Gembara",
+      "postal_code": "75681"
+    },
+    {
+      "id": "64.08.04.2012",
+      "name": "Swarga Bara",
+      "postal_code": "75681"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "16.01.31.2001",
+      "name": "Kemala Jaya",
+      "postal_code": "32155"
+    },
+    {
+      "id": "16.01.31.2002",
+      "name": "Lontar",
+      "postal_code": "32155"
+    },
+    {
+      "id": "16.01.31.2003",
+      "name": "Muara Saeh",
+      "postal_code": "32155"
+    },
+    {
+      "id": "16.01.31.2004",
+      "name": "Lubuk Tupak",
+      "postal_code": "32155"
+    },
+    {
+      "id": "16.01.31.2005",
+      "name": "Beringin",
+      "postal_code": "32155"
+    },
+    {
+      "id": "16.01.31.2006",
+      "name": "Surau",
+      "postal_code": "32155"
+    },
+    {
+      "id": "16.01.31.2007",
+      "name": "Karang Lantang",
+      "postal_code": "32155"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

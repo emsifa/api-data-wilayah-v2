@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.13.20.2001",
+      "name": "Karangmukti",
+      "postal_code": "41272"
+    },
+    {
+      "id": "32.13.20.2002",
+      "name": "Cimayasari",
+      "postal_code": "41272"
+    },
+    {
+      "id": "32.13.20.2003",
+      "name": "Lengkong",
+      "postal_code": "41272"
+    },
+    {
+      "id": "32.13.20.2004",
+      "name": "Cipeundeuy",
+      "postal_code": "41272"
+    },
+    {
+      "id": "32.13.20.2005",
+      "name": "Wantilan",
+      "postal_code": "41272"
+    },
+    {
+      "id": "32.13.20.2006",
+      "name": "Kosar",
+      "postal_code": "41272"
+    },
+    {
+      "id": "32.13.20.2007",
+      "name": "Sawangan",
+      "postal_code": "41272"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "17.03.21.1001",
+      "name": "Kemumu",
+      "postal_code": "38611"
+    },
+    {
+      "id": "17.03.21.2002",
+      "name": "Tebing Kaning",
+      "postal_code": "38611"
+    },
+    {
+      "id": "17.03.21.2003",
+      "name": "Sidodadi",
+      "postal_code": "38611"
+    },
+    {
+      "id": "17.03.21.2004",
+      "name": "Sumber Agung",
+      "postal_code": "38611"
+    },
+    {
+      "id": "17.03.21.2005",
+      "name": "Pematang Sapang",
+      "postal_code": "38611"
+    },
+    {
+      "id": "17.03.21.2006",
+      "name": "Pagar Banyu",
+      "postal_code": "38611"
+    },
+    {
+      "id": "17.03.21.2007",
+      "name": "Gardu",
+      "postal_code": "38611"
+    },
+    {
+      "id": "17.03.21.2008",
+      "name": "Kali",
+      "postal_code": "38611"
+    },
+    {
+      "id": "17.03.21.2009",
+      "name": "Kalai Duai",
+      "postal_code": "38611"
+    },
+    {
+      "id": "17.03.21.2010",
+      "name": "Pagar Ruyung",
+      "postal_code": "38611"
+    },
+    {
+      "id": "17.03.21.2011",
+      "name": "Air Merah",
+      "postal_code": "38611"
+    },
+    {
+      "id": "17.03.21.2012",
+      "name": "Gunung Besar",
+      "postal_code": "38611"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

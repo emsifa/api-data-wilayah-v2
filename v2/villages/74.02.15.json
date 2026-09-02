@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "74.02.15.1001",
+      "name": "Tongauna",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.15.1002",
+      "name": "Mata Iwoi",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.15.1003",
+      "name": "Puosu",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.15.1004",
+      "name": "Sendang Mulya Sari",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.15.1005",
+      "name": "Mekar Sari",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.15.2006",
+      "name": "Lalonggowuna",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.15.2007",
+      "name": "Asao",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.15.2012",
+      "name": "Andeposandu",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.15.2013",
+      "name": "Momea",
+      "postal_code": "93460"
+    },
+    {
+      "id": "74.02.15.2018",
+      "name": "Ambepulu",
+      "postal_code": "93460"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

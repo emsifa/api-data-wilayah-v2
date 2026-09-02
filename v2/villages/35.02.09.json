@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "35.02.09.2001",
+      "name": "Ngasinan",
+      "postal_code": "63473"
+    },
+    {
+      "id": "35.02.09.2002",
+      "name": "Kutu Kulon",
+      "postal_code": "63473"
+    },
+    {
+      "id": "35.02.09.2003",
+      "name": "Kutu Wetan",
+      "postal_code": "63473"
+    },
+    {
+      "id": "35.02.09.2004",
+      "name": "Kradenan",
+      "postal_code": "63473"
+    },
+    {
+      "id": "35.02.09.2005",
+      "name": "Mojomati",
+      "postal_code": "63473"
+    },
+    {
+      "id": "35.02.09.2006",
+      "name": "Coper",
+      "postal_code": "63473"
+    },
+    {
+      "id": "35.02.09.2007",
+      "name": "Mojorejo",
+      "postal_code": "63473"
+    },
+    {
+      "id": "35.02.09.2008",
+      "name": "Karanggebang",
+      "postal_code": "63473"
+    },
+    {
+      "id": "35.02.09.2009",
+      "name": "Jetis",
+      "postal_code": "63473"
+    },
+    {
+      "id": "35.02.09.2010",
+      "name": "Tegalsari",
+      "postal_code": "63473"
+    },
+    {
+      "id": "35.02.09.2011",
+      "name": "Wonoketro",
+      "postal_code": "63473"
+    },
+    {
+      "id": "35.02.09.2012",
+      "name": "Josari",
+      "postal_code": "63473"
+    },
+    {
+      "id": "35.02.09.2013",
+      "name": "Turi",
+      "postal_code": "63473"
+    },
+    {
+      "id": "35.02.09.2014",
+      "name": "Winong",
+      "postal_code": "63473"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

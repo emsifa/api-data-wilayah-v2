@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "73.71.11.1001",
+      "name": "Paccerakkang",
+      "postal_code": "90241"
+    },
+    {
+      "id": "73.71.11.1002",
+      "name": "Daya",
+      "postal_code": "90241"
+    },
+    {
+      "id": "73.71.11.1003",
+      "name": "Pai",
+      "postal_code": "90243"
+    },
+    {
+      "id": "73.71.11.1004",
+      "name": "Bulurokeng",
+      "postal_code": "90243"
+    },
+    {
+      "id": "73.71.11.1005",
+      "name": "Sudiang",
+      "postal_code": "90242"
+    },
+    {
+      "id": "73.71.11.1006",
+      "name": "Sudiang Raya",
+      "postal_code": "90242"
+    },
+    {
+      "id": "73.71.11.1007",
+      "name": "Untia",
+      "postal_code": "90241"
+    },
+    {
+      "id": "73.71.11.1008",
+      "name": "Laikang",
+      "postal_code": "90242"
+    },
+    {
+      "id": "73.71.11.1009",
+      "name": "Berua",
+      "postal_code": "90241"
+    },
+    {
+      "id": "73.71.11.1010",
+      "name": "Katimbang",
+      "postal_code": "90241"
+    },
+    {
+      "id": "73.71.11.1011",
+      "name": "Bakung",
+      "postal_code": "90242"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

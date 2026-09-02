@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "62.02.10.2001",
+      "name": "Tumbang Kalang",
+      "postal_code": "74352"
+    },
+    {
+      "id": "62.02.10.2002",
+      "name": "Kuluk Telawang",
+      "postal_code": "74352"
+    },
+    {
+      "id": "62.02.10.2003",
+      "name": "Sungai Puring",
+      "postal_code": "74352"
+    },
+    {
+      "id": "62.02.10.2004",
+      "name": "Tumbang Ngahan",
+      "postal_code": "74352"
+    },
+    {
+      "id": "62.02.10.2005",
+      "name": "Tumbang Ramei",
+      "postal_code": "74352"
+    },
+    {
+      "id": "62.02.10.2006",
+      "name": "Tumbang Hejan",
+      "postal_code": "74352"
+    },
+    {
+      "id": "62.02.10.2007",
+      "name": "Sungai Hanya",
+      "postal_code": "74352"
+    },
+    {
+      "id": "62.02.10.2008",
+      "name": "Tumbang Sepayang",
+      "postal_code": "74352"
+    },
+    {
+      "id": "62.02.10.2016",
+      "name": "Buntut Nusa",
+      "postal_code": "74352"
+    },
+    {
+      "id": "62.02.10.2017",
+      "name": "Tumbang Gagu",
+      "postal_code": "74352"
+    },
+    {
+      "id": "62.02.10.2021",
+      "name": "Tumbang Manya",
+      "postal_code": "74352"
+    },
+    {
+      "id": "62.02.10.2025",
+      "name": "Gunung Makmur",
+      "postal_code": "74352"
+    },
+    {
+      "id": "62.02.10.2027",
+      "name": "Mulya Agung",
+      "postal_code": "74352"
+    },
+    {
+      "id": "62.02.10.2028",
+      "name": "Bhakti Karya",
+      "postal_code": "74352"
+    },
+    {
+      "id": "62.02.10.2029",
+      "name": "Waringin Agung",
+      "postal_code": "74352"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

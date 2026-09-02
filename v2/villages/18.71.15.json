@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "18.71.15.1001",
+      "name": "Perumnas Way Halim",
+      "postal_code": "35141"
+    },
+    {
+      "id": "18.71.15.1002",
+      "name": "Way Halim Permai",
+      "postal_code": "35135"
+    },
+    {
+      "id": "18.71.15.1003",
+      "name": "Gunungsulah",
+      "postal_code": "35136"
+    },
+    {
+      "id": "18.71.15.1004",
+      "name": "Jagabaya I",
+      "postal_code": "35123"
+    },
+    {
+      "id": "18.71.15.1005",
+      "name": "Jagabaya II",
+      "postal_code": "35132"
+    },
+    {
+      "id": "18.71.15.1006",
+      "name": "Jagabaya III",
+      "postal_code": "35132"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

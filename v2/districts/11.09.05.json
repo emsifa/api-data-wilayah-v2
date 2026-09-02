@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "11.09.05",
+    "name": "Teluk Dalam",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.09",
+      "name": "Kabupaten Simeulue"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

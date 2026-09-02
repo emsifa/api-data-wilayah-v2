@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "96.05.17.2001",
+      "name": "Faitsimar",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.17.2002",
+      "name": "Asses",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.17.2003",
+      "name": "Fait Nigre",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.17.2004",
+      "name": "Sufu",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.17.2005",
+      "name": "Arus",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.17.2006",
+      "name": "Kofait",
+      "postal_code": "98056"
+    },
+    {
+      "id": "96.05.17.2007",
+      "name": "Isnum",
+      "postal_code": "98056"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

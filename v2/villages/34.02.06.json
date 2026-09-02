@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "34.02.06.2001",
+      "name": "Caturharjo",
+      "postal_code": "55761"
+    },
+    {
+      "id": "34.02.06.2002",
+      "name": "Triharjo",
+      "postal_code": "55761"
+    },
+    {
+      "id": "34.02.06.2003",
+      "name": "Gilangharjo",
+      "postal_code": "55761"
+    },
+    {
+      "id": "34.02.06.2004",
+      "name": "Wijirejo",
+      "postal_code": "55761"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "id": "33.19.02.1001",
+      "name": "Purwosari",
+      "postal_code": "59316"
+    },
+    {
+      "id": "33.19.02.1004",
+      "name": "Sunggingan",
+      "postal_code": "59317"
+    },
+    {
+      "id": "33.19.02.1005",
+      "name": "Panjunan",
+      "postal_code": "59317"
+    },
+    {
+      "id": "33.19.02.1006",
+      "name": "Wergu Wetan",
+      "postal_code": "59318"
+    },
+    {
+      "id": "33.19.02.1007",
+      "name": "Wergu Kulon",
+      "postal_code": "59318"
+    },
+    {
+      "id": "33.19.02.1008",
+      "name": "Mlati Kidul",
+      "postal_code": "59319"
+    },
+    {
+      "id": "33.19.02.1009",
+      "name": "Mlatinorowito",
+      "postal_code": "59319"
+    },
+    {
+      "id": "33.19.02.1017",
+      "name": "Kerjasan",
+      "postal_code": "59315"
+    },
+    {
+      "id": "33.19.02.1018",
+      "name": "Kajeksan",
+      "postal_code": "59314"
+    },
+    {
+      "id": "33.19.02.2002",
+      "name": "Janggalan",
+      "postal_code": "59316"
+    },
+    {
+      "id": "33.19.02.2003",
+      "name": "Demangan",
+      "postal_code": "59317"
+    },
+    {
+      "id": "33.19.02.2010",
+      "name": "Mlati Lor",
+      "postal_code": "59319"
+    },
+    {
+      "id": "33.19.02.2011",
+      "name": "Nganguk",
+      "postal_code": "59311"
+    },
+    {
+      "id": "33.19.02.2012",
+      "name": "Kramat",
+      "postal_code": "59312"
+    },
+    {
+      "id": "33.19.02.2013",
+      "name": "Demaan",
+      "postal_code": "59313"
+    },
+    {
+      "id": "33.19.02.2014",
+      "name": "Langgardalem",
+      "postal_code": "59315"
+    },
+    {
+      "id": "33.19.02.2015",
+      "name": "Kauman",
+      "postal_code": "59315"
+    },
+    {
+      "id": "33.19.02.2016",
+      "name": "Damaran",
+      "postal_code": "59316"
+    },
+    {
+      "id": "33.19.02.2019",
+      "name": "Krandon",
+      "postal_code": "59314"
+    },
+    {
+      "id": "33.19.02.2020",
+      "name": "Singocandi",
+      "postal_code": "59314"
+    },
+    {
+      "id": "33.19.02.2021",
+      "name": "Glantengan",
+      "postal_code": "59313"
+    },
+    {
+      "id": "33.19.02.2022",
+      "name": "Kaliputu",
+      "postal_code": "59312"
+    },
+    {
+      "id": "33.19.02.2023",
+      "name": "Barongan",
+      "postal_code": "59312"
+    },
+    {
+      "id": "33.19.02.2024",
+      "name": "Burikan",
+      "postal_code": "59311"
+    },
+    {
+      "id": "33.19.02.2025",
+      "name": "Rendeng",
+      "postal_code": "59311"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

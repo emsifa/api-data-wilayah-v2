@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "12.21.07.1001",
+      "name": "Pasar Sibuhuan",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2002",
+      "name": "Sibuhuan Julu",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2003",
+      "name": "Bangun Raya",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2004",
+      "name": "Purba Tua",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2005",
+      "name": "Handis Julu",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2006",
+      "name": "Sialambue",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2007",
+      "name": "Sibuhuan Jae",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2008",
+      "name": "Janjilobi",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2021",
+      "name": "Tanjung Durian",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2022",
+      "name": "Tanjung Botung",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2023",
+      "name": "Tanobato",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2024",
+      "name": "Hutarimbaru",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2025",
+      "name": "Sayur Matua",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2037",
+      "name": "Bulusonik",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2038",
+      "name": "Arsesimatorkis",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2039",
+      "name": "Pancaukan",
+      "postal_code": "22763"
+    },
+    {
+      "id": "12.21.07.2040",
+      "name": "Pagaran Baringin",
+      "postal_code": "22763"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

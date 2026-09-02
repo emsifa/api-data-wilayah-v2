@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "96.04.09.2001",
+      "name": "Injai",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.09.2002",
+      "name": "Apoki",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.09.2003",
+      "name": "Matatun",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.09.2004",
+      "name": "Jafai",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.09.2005",
+      "name": "Jambuani",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.09.2006",
+      "name": "Manaria",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.09.2007",
+      "name": "Anarum",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.09.2008",
+      "name": "Wasanggon",
+      "postal_code": "98372"
+    },
+    {
+      "id": "96.04.09.2009",
+      "name": "Wabanek",
+      "postal_code": "98372"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

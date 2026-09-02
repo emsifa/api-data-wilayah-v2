@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "61.04.22.2001",
+      "name": "Suka Mulia",
+      "postal_code": "78866"
+    },
+    {
+      "id": "61.04.22.2002",
+      "name": "Sukaraja",
+      "postal_code": "78866"
+    },
+    {
+      "id": "61.04.22.2003",
+      "name": "Bukit Kelambing",
+      "postal_code": "78866"
+    },
+    {
+      "id": "61.04.22.2004",
+      "name": "Muntai",
+      "postal_code": "78866"
+    },
+    {
+      "id": "61.04.22.2005",
+      "name": "Suka Sari",
+      "postal_code": "78866"
+    },
+    {
+      "id": "61.04.22.2006",
+      "name": "Sukaharja",
+      "postal_code": "78866"
+    },
+    {
+      "id": "61.04.22.2007",
+      "name": "Tanah Hitam",
+      "postal_code": "78866"
+    },
+    {
+      "id": "61.04.22.2008",
+      "name": "Pantai Ketikal",
+      "postal_code": "78866"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

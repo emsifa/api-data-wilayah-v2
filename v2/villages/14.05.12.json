@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "14.05.12.1002",
+      "name": "Rawang Empat",
+      "postal_code": "28384"
+    },
+    {
+      "id": "14.05.12.2001",
+      "name": "Kuala Semundam",
+      "postal_code": "28384"
+    },
+    {
+      "id": "14.05.12.2003",
+      "name": "Tambun",
+      "postal_code": "28384"
+    },
+    {
+      "id": "14.05.12.2004",
+      "name": "Terbangiang",
+      "postal_code": "28384"
+    },
+    {
+      "id": "14.05.12.2005",
+      "name": "Lubuk Terap",
+      "postal_code": "28384"
+    },
+    {
+      "id": "14.05.12.2006",
+      "name": "Angkasa",
+      "postal_code": "28384"
+    },
+    {
+      "id": "14.05.12.2007",
+      "name": "Sialang Godang",
+      "postal_code": "28384"
+    },
+    {
+      "id": "14.05.12.2008",
+      "name": "Lubuk Raja",
+      "postal_code": "28384"
+    },
+    {
+      "id": "14.05.12.2009",
+      "name": "Lubuk Keranji Timur",
+      "postal_code": "28384"
+    },
+    {
+      "id": "14.05.12.2010",
+      "name": "Airterjun",
+      "postal_code": "28384"
+    },
+    {
+      "id": "14.05.12.2011",
+      "name": "Sialang Bungkuk",
+      "postal_code": "28384"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

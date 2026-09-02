@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "71.72.07.1001",
+      "name": "Bitung Barat Satu",
+      "postal_code": "95511"
+    },
+    {
+      "id": "71.72.07.1002",
+      "name": "Pakadoodan",
+      "postal_code": "95512"
+    },
+    {
+      "id": "71.72.07.1003",
+      "name": "Bitung Barat Dua",
+      "postal_code": "95511"
+    },
+    {
+      "id": "71.72.07.1004",
+      "name": "Bitung Tengah",
+      "postal_code": "95521"
+    },
+    {
+      "id": "71.72.07.1005",
+      "name": "Bitung Timur",
+      "postal_code": "95522"
+    },
+    {
+      "id": "71.72.07.1006",
+      "name": "Kakenturan Satu",
+      "postal_code": "95523"
+    },
+    {
+      "id": "71.72.07.1007",
+      "name": "Kekenturan Dua",
+      "postal_code": "95523"
+    },
+    {
+      "id": "71.72.07.1008",
+      "name": "Pateten Tiga",
+      "postal_code": "95512"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

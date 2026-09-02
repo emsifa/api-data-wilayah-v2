@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "35.21.19.2001",
+      "name": "Jatirejo",
+      "postal_code": "63281"
+    },
+    {
+      "id": "35.21.19.2002",
+      "name": "Cangakan",
+      "postal_code": "63281"
+    },
+    {
+      "id": "35.21.19.2003",
+      "name": "Karangmalang",
+      "postal_code": "63281"
+    },
+    {
+      "id": "35.21.19.2004",
+      "name": "Gunungsari",
+      "postal_code": "63281"
+    },
+    {
+      "id": "35.21.19.2005",
+      "name": "Kasreman",
+      "postal_code": "63281"
+    },
+    {
+      "id": "35.21.19.2006",
+      "name": "Legokulon",
+      "postal_code": "63281"
+    },
+    {
+      "id": "35.21.19.2007",
+      "name": "Tawun",
+      "postal_code": "63281"
+    },
+    {
+      "id": "35.21.19.2008",
+      "name": "Kiyonten",
+      "postal_code": "63281"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

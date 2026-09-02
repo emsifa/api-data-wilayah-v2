@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "73.73.02.1002",
+      "name": "Batupasi",
+      "postal_code": "91911"
+    },
+    {
+      "id": "73.73.02.1003",
+      "name": "Sabbamparu",
+      "postal_code": "91913"
+    },
+    {
+      "id": "73.73.02.1005",
+      "name": "Salobulo",
+      "postal_code": "91911"
+    },
+    {
+      "id": "73.73.02.1007",
+      "name": "Penggoli",
+      "postal_code": "91914"
+    },
+    {
+      "id": "73.73.02.1008",
+      "name": "Luminda",
+      "postal_code": "91912"
+    },
+    {
+      "id": "73.73.02.1009",
+      "name": "Pattene",
+      "postal_code": "91912"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

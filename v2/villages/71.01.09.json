@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "71.01.09.2001",
+      "name": "Matayangan",
+      "postal_code": "95731"
+    },
+    {
+      "id": "71.01.09.2002",
+      "name": "Uuan",
+      "postal_code": "95731"
+    },
+    {
+      "id": "71.01.09.2003",
+      "name": "Ikhwan",
+      "postal_code": "95731"
+    },
+    {
+      "id": "71.01.09.2004",
+      "name": "Doloduo",
+      "postal_code": "95731"
+    },
+    {
+      "id": "71.01.09.2005",
+      "name": "Wangga Baru",
+      "postal_code": "95731"
+    },
+    {
+      "id": "71.01.09.2010",
+      "name": "Toraut",
+      "postal_code": "95731"
+    },
+    {
+      "id": "71.01.09.2011",
+      "name": "Mekaruo",
+      "postal_code": "95731"
+    },
+    {
+      "id": "71.01.09.2017",
+      "name": "Toraut Utara",
+      "postal_code": "95731"
+    },
+    {
+      "id": "71.01.09.2018",
+      "name": "Doloduo Satu",
+      "postal_code": "95731"
+    },
+    {
+      "id": "71.01.09.2019",
+      "name": "Doloduo Dua",
+      "postal_code": "95731"
+    },
+    {
+      "id": "71.01.09.2020",
+      "name": "Doloduo Tiga",
+      "postal_code": "95731"
+    },
+    {
+      "id": "71.01.09.2022",
+      "name": "Toraut Tengah",
+      "postal_code": "95731"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

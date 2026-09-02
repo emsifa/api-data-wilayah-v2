@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "16.01.32.2001",
+      "name": "Bunglai",
+      "postal_code": "32193"
+    },
+    {
+      "id": "16.01.32.2002",
+      "name": "Kedaton",
+      "postal_code": "32193"
+    },
+    {
+      "id": "16.01.32.2003",
+      "name": "Kampai",
+      "postal_code": "32193"
+    },
+    {
+      "id": "16.01.32.2004",
+      "name": "Rantau Panjang",
+      "postal_code": "32193"
+    },
+    {
+      "id": "16.01.32.2005",
+      "name": "Kedaton Timur",
+      "postal_code": "32193"
+    },
+    {
+      "id": "16.01.32.2006",
+      "name": "Suka Pindah",
+      "postal_code": "32193"
+    },
+    {
+      "id": "16.01.32.2007",
+      "name": "Sinar Kedaton",
+      "postal_code": "32193"
+    },
+    {
+      "id": "16.01.32.2008",
+      "name": "Lubuk Kemiling",
+      "postal_code": "32193"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "64.07.16.2001",
+      "name": "Dempar",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.16.2002",
+      "name": "Temula",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.16.2003",
+      "name": "Jontai",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.16.2004",
+      "name": "Sembuan",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.16.2005",
+      "name": "Intu Lingau",
+      "postal_code": "75777"
+    },
+    {
+      "id": "64.07.16.2006",
+      "name": "Mu'ut",
+      "postal_code": "75776"
+    },
+    {
+      "id": "64.07.16.2007",
+      "name": "Terajuk",
+      "postal_code": "75776"
+    },
+    {
+      "id": "64.07.16.2008",
+      "name": "Lakan Bilem",
+      "postal_code": "75776"
+    },
+    {
+      "id": "64.07.16.2009",
+      "name": "Sentalar",
+      "postal_code": "75776"
+    },
+    {
+      "id": "64.07.16.2010",
+      "name": "Awai",
+      "postal_code": "75776"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

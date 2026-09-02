@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "53.71.06.1001",
+      "name": "Airmata",
+      "postal_code": "85229"
+    },
+    {
+      "id": "53.71.06.1002",
+      "name": "Lai Lai Bisi Kopan",
+      "postal_code": "85221"
+    },
+    {
+      "id": "53.71.06.1003",
+      "name": "Bonipoi",
+      "postal_code": "85221"
+    },
+    {
+      "id": "53.71.06.1004",
+      "name": "Solor",
+      "postal_code": "85229"
+    },
+    {
+      "id": "53.71.06.1005",
+      "name": "Tode Kisar",
+      "postal_code": "85229"
+    },
+    {
+      "id": "53.71.06.1006",
+      "name": "Merdeka",
+      "postal_code": "85225"
+    },
+    {
+      "id": "53.71.06.1007",
+      "name": "Oeba",
+      "postal_code": "85226"
+    },
+    {
+      "id": "53.71.06.1008",
+      "name": "Fatubesi",
+      "postal_code": "85226"
+    },
+    {
+      "id": "53.71.06.1009",
+      "name": "Pasir Panjang",
+      "postal_code": "85227"
+    },
+    {
+      "id": "53.71.06.1010",
+      "name": "Nefonaek",
+      "postal_code": "85229"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

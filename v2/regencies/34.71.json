@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "34.71",
+    "name": "Kota Yogyakarta",
+    "capital": "Yogyakarta",
+    "lat": -7.799905025562796,
+    "lng": 110.39137075421564,
+    "elv": 110,
+    "tz": 7,
+    "population": 415605,
+    "total_area": 32.819,
+    "province": {
+      "id": "34",
+      "name": "Daerah Istimewa Yogyakarta"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "91.20.03.2001",
+      "name": "Fona",
+      "postal_code": "98695"
+    },
+    {
+      "id": "91.20.03.2002",
+      "name": "Tayai",
+      "postal_code": "98695"
+    },
+    {
+      "id": "91.20.03.2003",
+      "name": "Bareri",
+      "postal_code": "98695"
+    },
+    {
+      "id": "91.20.03.2004",
+      "name": "Sikari",
+      "postal_code": "98695"
+    },
+    {
+      "id": "91.20.03.2006",
+      "name": "Kai",
+      "postal_code": "98695"
+    },
+    {
+      "id": "91.20.03.2007",
+      "name": "Haya",
+      "postal_code": "98694"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

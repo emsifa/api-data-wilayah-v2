@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "15.08.10.2001",
+      "name": "Tanjung Menanti",
+      "postal_code": "37210"
+    },
+    {
+      "id": "15.08.10.2002",
+      "name": "Babeko",
+      "postal_code": "37210"
+    },
+    {
+      "id": "15.08.10.2003",
+      "name": "Sepunggur",
+      "postal_code": "37210"
+    },
+    {
+      "id": "15.08.10.2004",
+      "name": "Simpang Bebeko",
+      "postal_code": "37210"
+    },
+    {
+      "id": "15.08.10.2005",
+      "name": "Suka Makmur",
+      "postal_code": "37210"
+    },
+    {
+      "id": "15.08.10.2006",
+      "name": "Tuo Sepunggur",
+      "postal_code": "37210"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

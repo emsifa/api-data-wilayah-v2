@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "82.04.28.2001",
+      "name": "Alam Kenanga",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.28.2002",
+      "name": "Alam Pelita",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.28.2003",
+      "name": "Jikohai",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.28.2004",
+      "name": "Manatahan",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.28.2005",
+      "name": "Soa Sangaji",
+      "postal_code": "97792"
+    },
+    {
+      "id": "82.04.28.2006",
+      "name": "Tapa",
+      "postal_code": "97792"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "96.03.17.1001",
+      "name": "Waisai",
+      "postal_code": "98489"
+    },
+    {
+      "id": "96.03.17.1002",
+      "name": "Sapordanco",
+      "postal_code": "98489"
+    },
+    {
+      "id": "96.03.17.1003",
+      "name": "Bonkawir",
+      "postal_code": "98489"
+    },
+    {
+      "id": "96.03.17.1004",
+      "name": "Warmasen",
+      "postal_code": "98489"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

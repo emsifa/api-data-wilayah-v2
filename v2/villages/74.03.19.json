@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "74.03.19.1004",
+      "name": "Dana",
+      "postal_code": "93624"
+    },
+    {
+      "id": "74.03.19.1007",
+      "name": "Wali",
+      "postal_code": "93624"
+    },
+    {
+      "id": "74.03.19.2001",
+      "name": "Lakapodo",
+      "postal_code": "93624"
+    },
+    {
+      "id": "74.03.19.2002",
+      "name": "Wakadia",
+      "postal_code": "93624"
+    },
+    {
+      "id": "74.03.19.2003",
+      "name": "Matarawa",
+      "postal_code": "93624"
+    },
+    {
+      "id": "74.03.19.2005",
+      "name": "Bhangkali Barat",
+      "postal_code": "93624"
+    },
+    {
+      "id": "74.03.19.2006",
+      "name": "Bangkali",
+      "postal_code": "93624"
+    },
+    {
+      "id": "74.03.19.2008",
+      "name": "Labaha",
+      "postal_code": "93624"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

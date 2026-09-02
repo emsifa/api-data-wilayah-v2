@@ -1,18 +1,24 @@
 {
-  "data": {
-    "id": "73.72",
-    "name": "Kota Parepare",
-    "province": {
-      "id": "73",
-      "name": "Sulawesi Selatan"
+  "data": [
+    {
+      "id": "73.72.01",
+      "name": "Bacukiki"
     },
-    "regency": {
-      "id": "73.72",
-      "name": "Kota Parepare"
+    {
+      "id": "73.72.02",
+      "name": "Ujung"
+    },
+    {
+      "id": "73.72.03",
+      "name": "Soreang"
+    },
+    {
+      "id": "73.72.04",
+      "name": "Bacukiki Barat"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

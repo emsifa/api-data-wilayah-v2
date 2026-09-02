@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "53.03.18.2001",
+      "name": "Manamas",
+      "postal_code": "85655"
+    },
+    {
+      "id": "53.03.18.2002",
+      "name": "Benus",
+      "postal_code": "85655"
+    },
+    {
+      "id": "53.03.18.2003",
+      "name": "Bakitolas",
+      "postal_code": "85655"
+    },
+    {
+      "id": "53.03.18.2004",
+      "name": "Sunsea",
+      "postal_code": "85655"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

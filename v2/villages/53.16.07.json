@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "53.16.07.2001",
+      "name": "Rendubutowe",
+      "postal_code": "86470"
+    },
+    {
+      "id": "53.16.07.2002",
+      "name": "Tengatiba",
+      "postal_code": "86470"
+    },
+    {
+      "id": "53.16.07.2003",
+      "name": "Langedhawe",
+      "postal_code": "86470"
+    },
+    {
+      "id": "53.16.07.2004",
+      "name": "Renduteno",
+      "postal_code": "86470"
+    },
+    {
+      "id": "53.16.07.2005",
+      "name": "Renduwawo",
+      "postal_code": "86470"
+    },
+    {
+      "id": "53.16.07.2006",
+      "name": "Wajomara",
+      "postal_code": "86470"
+    },
+    {
+      "id": "53.16.07.2007",
+      "name": "Rendut Tutubhada",
+      "postal_code": "86470"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "95.03.38.2001",
+      "name": "Korupun",
+      "postal_code": "99735"
+    },
+    {
+      "id": "95.03.38.2002",
+      "name": "Dagi",
+      "postal_code": "99735"
+    },
+    {
+      "id": "95.03.38.2003",
+      "name": "Wemin",
+      "postal_code": "99735"
+    },
+    {
+      "id": "95.03.38.2004",
+      "name": "Morome",
+      "postal_code": "99735"
+    },
+    {
+      "id": "95.03.38.2005",
+      "name": "Moo",
+      "postal_code": "99735"
+    },
+    {
+      "id": "95.03.38.2006",
+      "name": "Batkuk",
+      "postal_code": "99735"
+    },
+    {
+      "id": "95.03.38.2007",
+      "name": "Maldua",
+      "postal_code": "99735"
+    },
+    {
+      "id": "95.03.38.2008",
+      "name": "Amdua",
+      "postal_code": "99735"
+    },
+    {
+      "id": "95.03.38.2009",
+      "name": "Somsek",
+      "postal_code": "99735"
+    },
+    {
+      "id": "95.03.38.2010",
+      "name": "Basal",
+      "postal_code": "99735"
+    },
+    {
+      "id": "95.03.38.2011",
+      "name": "Yamdua",
+      "postal_code": "99735"
+    },
+    {
+      "id": "95.03.38.2012",
+      "name": "Dildau",
+      "postal_code": "99735"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

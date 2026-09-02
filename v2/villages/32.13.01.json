@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.13.01.2003",
+      "name": "Sukamandi",
+      "postal_code": "41282"
+    },
+    {
+      "id": "32.13.01.2004",
+      "name": "Cicadas",
+      "postal_code": "41282"
+    },
+    {
+      "id": "32.13.01.2005",
+      "name": "Sagalaherang Kidul",
+      "postal_code": "41282"
+    },
+    {
+      "id": "32.13.01.2006",
+      "name": "Dayeuh Kolot",
+      "postal_code": "41282"
+    },
+    {
+      "id": "32.13.01.2009",
+      "name": "Leles",
+      "postal_code": "41282"
+    },
+    {
+      "id": "32.13.01.2010",
+      "name": "Curugagung",
+      "postal_code": "41282"
+    },
+    {
+      "id": "32.13.01.2011",
+      "name": "Sagalaherang Kaler",
+      "postal_code": "41282"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

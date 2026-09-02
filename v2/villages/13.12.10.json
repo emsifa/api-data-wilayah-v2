@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "13.12.10.2001",
+      "name": "Koto Baru",
+      "postal_code": "26568"
+    },
+    {
+      "id": "13.12.10.2002",
+      "name": "Kapa",
+      "postal_code": "26568"
+    },
+    {
+      "id": "13.12.10.2003",
+      "name": "Giri Maju",
+      "postal_code": "26568"
+    },
+    {
+      "id": "13.12.10.2004",
+      "name": "Ophir",
+      "postal_code": "26568"
+    },
+    {
+      "id": "13.12.10.2005",
+      "name": "Mahakarya",
+      "postal_code": "26568"
+    },
+    {
+      "id": "13.12.10.2006",
+      "name": "Sariak",
+      "postal_code": "26568"
+    },
+    {
+      "id": "13.12.10.2007",
+      "name": "Sungai Talang",
+      "postal_code": "26568"
+    },
+    {
+      "id": "13.12.10.2008",
+      "name": "Jambak Selatan",
+      "postal_code": "26568"
+    },
+    {
+      "id": "13.12.10.2009",
+      "name": "Pujorahayu",
+      "postal_code": "26568"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.08.25.2001",
+      "name": "Legokherang",
+      "postal_code": "45585"
+    },
+    {
+      "id": "32.08.25.2002",
+      "name": "Bungurberes",
+      "postal_code": "45585"
+    },
+    {
+      "id": "32.08.25.2003",
+      "name": "Cilebak",
+      "postal_code": "45585"
+    },
+    {
+      "id": "32.08.25.2004",
+      "name": "Jalatrang",
+      "postal_code": "45585"
+    },
+    {
+      "id": "32.08.25.2005",
+      "name": "Patala",
+      "postal_code": "45585"
+    },
+    {
+      "id": "32.08.25.2006",
+      "name": "Mandapajaya",
+      "postal_code": "45585"
+    },
+    {
+      "id": "32.08.25.2007",
+      "name": "Cilimusari",
+      "postal_code": "45585"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

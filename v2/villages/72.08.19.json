@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "72.08.19.2001",
+      "name": "Avolua",
+      "postal_code": "94463"
+    },
+    {
+      "id": "72.08.19.2002",
+      "name": "Toboli",
+      "postal_code": "94463"
+    },
+    {
+      "id": "72.08.19.2003",
+      "name": "Toboli Barat",
+      "postal_code": "94463"
+    },
+    {
+      "id": "72.08.19.2004",
+      "name": "Pangi",
+      "postal_code": "94463"
+    },
+    {
+      "id": "72.08.19.2005",
+      "name": "Sakinah Jaya",
+      "postal_code": "94463"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

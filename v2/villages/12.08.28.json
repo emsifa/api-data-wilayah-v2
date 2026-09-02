@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.08.28.1009",
+      "name": "Sinaksak",
+      "postal_code": "21154"
+    },
+    {
+      "id": "12.08.28.2001",
+      "name": "Batu Silangit",
+      "postal_code": "21154"
+    },
+    {
+      "id": "12.08.28.2002",
+      "name": "Dolok Maraja",
+      "postal_code": "21154"
+    },
+    {
+      "id": "12.08.28.2003",
+      "name": "Dolok Ulu",
+      "postal_code": "21154"
+    },
+    {
+      "id": "12.08.28.2004",
+      "name": "Nagur Usang",
+      "postal_code": "21154"
+    },
+    {
+      "id": "12.08.28.2005",
+      "name": "Dolok Kahean",
+      "postal_code": "21154"
+    },
+    {
+      "id": "12.08.28.2006",
+      "name": "Naga Dolok",
+      "postal_code": "21154"
+    },
+    {
+      "id": "12.08.28.2007",
+      "name": "Purbasari",
+      "postal_code": "21154"
+    },
+    {
+      "id": "12.08.28.2008",
+      "name": "Pematang Dolok Kahean",
+      "postal_code": "21154"
+    },
+    {
+      "id": "12.08.28.2010",
+      "name": "Negeri Bayu Muslimin",
+      "postal_code": "21154"
+    },
+    {
+      "id": "12.08.28.2011",
+      "name": "Dolok Simbolon",
+      "postal_code": "21154"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

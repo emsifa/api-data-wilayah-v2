@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.06.11.2001",
+      "name": "Payung",
+      "postal_code": "22154"
+    },
+    {
+      "id": "12.06.11.2004",
+      "name": "Rimo Kayu",
+      "postal_code": "22154"
+    },
+    {
+      "id": "12.06.11.2007",
+      "name": "Selandi",
+      "postal_code": "22154"
+    },
+    {
+      "id": "12.06.11.2012",
+      "name": "Batukarang",
+      "postal_code": "22154"
+    },
+    {
+      "id": "12.06.11.2015",
+      "name": "Gurukinayan",
+      "postal_code": "22154"
+    },
+    {
+      "id": "12.06.11.2017",
+      "name": "Cimbang",
+      "postal_code": "22154"
+    },
+    {
+      "id": "12.06.11.2025",
+      "name": "Ujung Payung",
+      "postal_code": "22154"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

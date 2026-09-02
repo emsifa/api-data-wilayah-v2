@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "62.07.06.2001",
+      "name": "Mekar Indah",
+      "postal_code": "74215"
+    },
+    {
+      "id": "62.07.06.2002",
+      "name": "Halimaung Jaya",
+      "postal_code": "74215"
+    },
+    {
+      "id": "62.07.06.2003",
+      "name": "Bangun Harja",
+      "postal_code": "74215"
+    },
+    {
+      "id": "62.07.06.2004",
+      "name": "Kartika Bhakti",
+      "postal_code": "74215"
+    },
+    {
+      "id": "62.07.06.2005",
+      "name": "Pematang Panjang",
+      "postal_code": "74213"
+    },
+    {
+      "id": "62.07.06.2006",
+      "name": "Sungai Bakau",
+      "postal_code": "74215"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

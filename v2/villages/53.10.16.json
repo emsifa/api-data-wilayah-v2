@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "53.10.16.2001",
+      "name": "Kajong",
+      "postal_code": "86593"
+    },
+    {
+      "id": "53.10.16.2002",
+      "name": "Lante",
+      "postal_code": "86593"
+    },
+    {
+      "id": "53.10.16.2003",
+      "name": "Toe",
+      "postal_code": "86593"
+    },
+    {
+      "id": "53.10.16.2004",
+      "name": "Sambi",
+      "postal_code": "86593"
+    },
+    {
+      "id": "53.10.16.2005",
+      "name": "Nggalak",
+      "postal_code": "86593"
+    },
+    {
+      "id": "53.10.16.2006",
+      "name": "Loce",
+      "postal_code": "86593"
+    },
+    {
+      "id": "53.10.16.2007",
+      "name": "Lemarang",
+      "postal_code": "86593"
+    },
+    {
+      "id": "53.10.16.2008",
+      "name": "Torong Koe",
+      "postal_code": "86593"
+    },
+    {
+      "id": "53.10.16.2009",
+      "name": "Para Lando",
+      "postal_code": "86593"
+    },
+    {
+      "id": "53.10.16.2010",
+      "name": "Rura",
+      "postal_code": "86593"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

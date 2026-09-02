@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "12.71.21.1001",
+      "name": "Asam Kumbang",
+      "postal_code": "20133"
+    },
+    {
+      "id": "12.71.21.1002",
+      "name": "Tanjungsari",
+      "postal_code": "20132"
+    },
+    {
+      "id": "12.71.21.1003",
+      "name": "P Bulan Selayang II",
+      "postal_code": "20131"
+    },
+    {
+      "id": "12.71.21.1004",
+      "name": "Beringin",
+      "postal_code": "20131"
+    },
+    {
+      "id": "12.71.21.1005",
+      "name": "P Bulan Selayang I",
+      "postal_code": "20131"
+    },
+    {
+      "id": "12.71.21.1006",
+      "name": "Sempakata",
+      "postal_code": "20132"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "81.03.01.1001",
+      "name": "Saumlaki",
+      "postal_code": "97471"
+    },
+    {
+      "id": "81.03.01.1002",
+      "name": "Saumlaki Utara",
+      "postal_code": "97471"
+    },
+    {
+      "id": "81.03.01.2002",
+      "name": "Wowonda",
+      "postal_code": "97471"
+    },
+    {
+      "id": "81.03.01.2003",
+      "name": "Ilngei",
+      "postal_code": "97471"
+    },
+    {
+      "id": "81.03.01.2004",
+      "name": "Kabiarat",
+      "postal_code": "97471"
+    },
+    {
+      "id": "81.03.01.2005",
+      "name": "Lauran",
+      "postal_code": "97471"
+    },
+    {
+      "id": "81.03.01.2006",
+      "name": "Sifnana",
+      "postal_code": "97471"
+    },
+    {
+      "id": "81.03.01.2007",
+      "name": "Olilit Raya",
+      "postal_code": "97471"
+    },
+    {
+      "id": "81.03.01.2008",
+      "name": "Lermatang",
+      "postal_code": "97471"
+    },
+    {
+      "id": "81.03.01.2009",
+      "name": "Latdalam",
+      "postal_code": "97471"
+    },
+    {
+      "id": "81.03.01.2010",
+      "name": "Bomaki",
+      "postal_code": "97471"
+    },
+    {
+      "id": "81.03.01.2011",
+      "name": "Matakus",
+      "postal_code": "97471"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

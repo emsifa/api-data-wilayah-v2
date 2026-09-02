@@ -1,18 +1,48 @@
 {
-  "data": {
-    "id": "96.71",
-    "name": "Kota Sorong",
-    "province": {
-      "id": "96",
-      "name": "Papua Barat Daya"
+  "data": [
+    {
+      "id": "96.71.01",
+      "name": "Sorong"
     },
-    "regency": {
-      "id": "96.71",
-      "name": "Kota Sorong"
+    {
+      "id": "96.71.02",
+      "name": "Sorong Timur"
+    },
+    {
+      "id": "96.71.03",
+      "name": "Sorong Barat"
+    },
+    {
+      "id": "96.71.04",
+      "name": "Sorong Kepulauan"
+    },
+    {
+      "id": "96.71.05",
+      "name": "Sorong Utara"
+    },
+    {
+      "id": "96.71.06",
+      "name": "Sorong Manoi"
+    },
+    {
+      "id": "96.71.07",
+      "name": "Sorong Kota"
+    },
+    {
+      "id": "96.71.08",
+      "name": "Klaurung"
+    },
+    {
+      "id": "96.71.09",
+      "name": "Malaimsimsa"
+    },
+    {
+      "id": "96.71.10",
+      "name": "Maladum Mes"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

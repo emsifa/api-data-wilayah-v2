@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "73.72.02.1001",
+      "name": "Labukkang",
+      "postal_code": "91111"
+    },
+    {
+      "id": "73.72.02.1002",
+      "name": "Ujung Sabbang",
+      "postal_code": "91114"
+    },
+    {
+      "id": "73.72.02.1003",
+      "name": "Ujung Bulu",
+      "postal_code": "91113"
+    },
+    {
+      "id": "73.72.02.1004",
+      "name": "Lapadde",
+      "postal_code": "91112"
+    },
+    {
+      "id": "73.72.02.1005",
+      "name": "Mallusetasi",
+      "postal_code": "91111"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

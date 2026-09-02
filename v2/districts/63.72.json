@@ -1,18 +1,28 @@
 {
-  "data": {
-    "id": "63.72",
-    "name": "Kota Banjarbaru",
-    "province": {
-      "id": "63",
-      "name": "Kalimantan Selatan"
+  "data": [
+    {
+      "id": "63.72.02",
+      "name": "Landasan Ulin"
     },
-    "regency": {
-      "id": "63.72",
-      "name": "Kota Banjarbaru"
+    {
+      "id": "63.72.03",
+      "name": "Cempaka"
+    },
+    {
+      "id": "63.72.04",
+      "name": "Banjarbaru Utara"
+    },
+    {
+      "id": "63.72.05",
+      "name": "Banjarbaru Selatan"
+    },
+    {
+      "id": "63.72.06",
+      "name": "Liang Anggang"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

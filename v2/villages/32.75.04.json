@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "32.75.04.1001",
+      "name": "Pekayonjaya",
+      "postal_code": "17148"
+    },
+    {
+      "id": "32.75.04.1002",
+      "name": "Margajaya",
+      "postal_code": "17141"
+    },
+    {
+      "id": "32.75.04.1003",
+      "name": "Jakamulya",
+      "postal_code": "17146"
+    },
+    {
+      "id": "32.75.04.1004",
+      "name": "Jakasetia",
+      "postal_code": "17147"
+    },
+    {
+      "id": "32.75.04.1005",
+      "name": "Kayuringinjaya",
+      "postal_code": "17144"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

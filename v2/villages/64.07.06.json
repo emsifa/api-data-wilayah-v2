@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "64.07.06.1006",
+      "name": "Melak Ilir",
+      "postal_code": "75765"
+    },
+    {
+      "id": "64.07.06.1011",
+      "name": "Melak Ulu",
+      "postal_code": "75765"
+    },
+    {
+      "id": "64.07.06.2001",
+      "name": "Empas",
+      "postal_code": "75765"
+    },
+    {
+      "id": "64.07.06.2002",
+      "name": "Empakuq",
+      "postal_code": "75765"
+    },
+    {
+      "id": "64.07.06.2003",
+      "name": "Muara Bunyut",
+      "postal_code": "75765"
+    },
+    {
+      "id": "64.07.06.2012",
+      "name": "Muara Benangaq",
+      "postal_code": "75765"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

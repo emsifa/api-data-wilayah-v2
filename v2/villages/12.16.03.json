@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "12.16.03.2001",
+      "name": "Marbun Toruan",
+      "postal_code": "22457"
+    },
+    {
+      "id": "12.16.03.2002",
+      "name": "Simamora",
+      "postal_code": "22457"
+    },
+    {
+      "id": "12.16.03.2003",
+      "name": "Tipang",
+      "postal_code": "22457"
+    },
+    {
+      "id": "12.16.03.2004",
+      "name": "Sinambela",
+      "postal_code": "22457"
+    },
+    {
+      "id": "12.16.03.2005",
+      "name": "Simangulampe",
+      "postal_code": "22457"
+    },
+    {
+      "id": "12.16.03.2006",
+      "name": "Siunong Unong Julu",
+      "postal_code": "22457"
+    },
+    {
+      "id": "12.16.03.2007",
+      "name": "Marbun Tonga Marbun Dolok",
+      "postal_code": "22457"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

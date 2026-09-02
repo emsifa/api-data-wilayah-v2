@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "33.74.07.1001",
+      "name": "Randusari",
+      "postal_code": "50244"
+    },
+    {
+      "id": "33.74.07.1002",
+      "name": "Bulustalan",
+      "postal_code": "50246"
+    },
+    {
+      "id": "33.74.07.1003",
+      "name": "Barusari",
+      "postal_code": "50245"
+    },
+    {
+      "id": "33.74.07.1004",
+      "name": "Mugasari",
+      "postal_code": "50249"
+    },
+    {
+      "id": "33.74.07.1005",
+      "name": "Pleburan",
+      "postal_code": "50241"
+    },
+    {
+      "id": "33.74.07.1006",
+      "name": "Wonodri",
+      "postal_code": "50242"
+    },
+    {
+      "id": "33.74.07.1007",
+      "name": "Peterongan",
+      "postal_code": "50242"
+    },
+    {
+      "id": "33.74.07.1008",
+      "name": "Lamper Lor",
+      "postal_code": "50249"
+    },
+    {
+      "id": "33.74.07.1009",
+      "name": "Lamper Kidul",
+      "postal_code": "50249"
+    },
+    {
+      "id": "33.74.07.1010",
+      "name": "Lamper Tengah",
+      "postal_code": "50248"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

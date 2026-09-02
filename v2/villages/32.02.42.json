@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.02.42.2001",
+      "name": "Curugkembar",
+      "postal_code": "43182"
+    },
+    {
+      "id": "32.02.42.2002",
+      "name": "Cimenteng",
+      "postal_code": "43182"
+    },
+    {
+      "id": "32.02.42.2003",
+      "name": "Tanjungsari",
+      "postal_code": "43182"
+    },
+    {
+      "id": "32.02.42.2004",
+      "name": "Sindangraja",
+      "postal_code": "43182"
+    },
+    {
+      "id": "32.02.42.2005",
+      "name": "Mekartanjung",
+      "postal_code": "43182"
+    },
+    {
+      "id": "32.02.42.2006",
+      "name": "Nagrakjaya",
+      "postal_code": "43182"
+    },
+    {
+      "id": "32.02.42.2007",
+      "name": "Bojongtugu",
+      "postal_code": "43182"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

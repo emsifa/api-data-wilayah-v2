@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "16.05.08.1006",
+      "name": "Marga Tunggal",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.08.2001",
+      "name": "Giri Yoso",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.08.2002",
+      "name": "Kertosono",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.08.2003",
+      "name": "Margoyoso",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.08.2004",
+      "name": "Bumi Rejo",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.08.2005",
+      "name": "Sidodadi",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.08.2007",
+      "name": "Marga Tani",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.08.2008",
+      "name": "Sukowono",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.08.2010",
+      "name": "Purwodadi",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.08.2012",
+      "name": "Dono Rejo",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.08.2015",
+      "name": "Ngesti Boga I",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.08.2016",
+      "name": "Ngesti Boga II",
+      "postal_code": "31665"
+    },
+    {
+      "id": "16.05.08.2020",
+      "name": "Ngestikarya",
+      "postal_code": "31665"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

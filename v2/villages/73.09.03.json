@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.09.03.1001",
+      "name": "Kalabbirang",
+      "postal_code": "90561"
+    },
+    {
+      "id": "73.09.03.1002",
+      "name": "Leang-Leang",
+      "postal_code": "90561"
+    },
+    {
+      "id": "73.09.03.2003",
+      "name": "Alatengae",
+      "postal_code": "90561"
+    },
+    {
+      "id": "73.09.03.2004",
+      "name": "Minasa Baji",
+      "postal_code": "90561"
+    },
+    {
+      "id": "73.09.03.2005",
+      "name": "Tukamasea",
+      "postal_code": "90561"
+    },
+    {
+      "id": "73.09.03.2006",
+      "name": "Mattoanging",
+      "postal_code": "90561"
+    },
+    {
+      "id": "73.09.03.2007",
+      "name": "Mangeloreng",
+      "postal_code": "90561"
+    },
+    {
+      "id": "73.09.03.2008",
+      "name": "Baruga",
+      "postal_code": "90561"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

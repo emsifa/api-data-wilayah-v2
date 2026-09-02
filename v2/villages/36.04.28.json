@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "36.04.28.2001",
+      "name": "Pabuaran",
+      "postal_code": "42163"
+    },
+    {
+      "id": "36.04.28.2006",
+      "name": "Kadubeureum",
+      "postal_code": "42163"
+    },
+    {
+      "id": "36.04.28.2007",
+      "name": "Tanjungsari",
+      "postal_code": "42163"
+    },
+    {
+      "id": "36.04.28.2009",
+      "name": "Pancanegara",
+      "postal_code": "42163"
+    },
+    {
+      "id": "36.04.28.2010",
+      "name": "Sindangsari",
+      "postal_code": "42163"
+    },
+    {
+      "id": "36.04.28.2012",
+      "name": "Sindangheula",
+      "postal_code": "42163"
+    },
+    {
+      "id": "36.04.28.2013",
+      "name": "Pasanggrahan",
+      "postal_code": "42163"
+    },
+    {
+      "id": "36.04.28.2015",
+      "name": "Talaga Warna",
+      "postal_code": "42163"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

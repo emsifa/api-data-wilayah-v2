@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "id": "35.15.08.1004",
+      "name": "Sidokare",
+      "postal_code": "61214"
+    },
+    {
+      "id": "35.15.08.1005",
+      "name": "Celep",
+      "postal_code": "61215"
+    },
+    {
+      "id": "35.15.08.1006",
+      "name": "Sekardangan",
+      "postal_code": "61215"
+    },
+    {
+      "id": "35.15.08.1007",
+      "name": "Gebang",
+      "postal_code": "61231"
+    },
+    {
+      "id": "35.15.08.1009",
+      "name": "Bulusidokare",
+      "postal_code": "61234"
+    },
+    {
+      "id": "35.15.08.1010",
+      "name": "Pucanganom",
+      "postal_code": "61217"
+    },
+    {
+      "id": "35.15.08.1011",
+      "name": "Pekauman",
+      "postal_code": "61213"
+    },
+    {
+      "id": "35.15.08.1012",
+      "name": "Lemahputro",
+      "postal_code": "61213"
+    },
+    {
+      "id": "35.15.08.1013",
+      "name": "Sidokumpul",
+      "postal_code": "61212"
+    },
+    {
+      "id": "35.15.08.1014",
+      "name": "Sidoklumpuk",
+      "postal_code": "61218"
+    },
+    {
+      "id": "35.15.08.1017",
+      "name": "Pucang",
+      "postal_code": "61219"
+    },
+    {
+      "id": "35.15.08.1018",
+      "name": "Magersari",
+      "postal_code": "61212"
+    },
+    {
+      "id": "35.15.08.1020",
+      "name": "Cemengkalang",
+      "postal_code": "61234"
+    },
+    {
+      "id": "35.15.08.1022",
+      "name": "Urangagung",
+      "postal_code": "61234"
+    },
+    {
+      "id": "35.15.08.2001",
+      "name": "Lebo",
+      "postal_code": "61223"
+    },
+    {
+      "id": "35.15.08.2002",
+      "name": "Suko",
+      "postal_code": "61224"
+    },
+    {
+      "id": "35.15.08.2003",
+      "name": "Banjarbendo",
+      "postal_code": "61225"
+    },
+    {
+      "id": "35.15.08.2008",
+      "name": "Rangkahkidul",
+      "postal_code": "61234"
+    },
+    {
+      "id": "35.15.08.2015",
+      "name": "Blurukidul",
+      "postal_code": "61233"
+    },
+    {
+      "id": "35.15.08.2016",
+      "name": "Kemiri",
+      "postal_code": "61234"
+    },
+    {
+      "id": "35.15.08.2019",
+      "name": "Jati",
+      "postal_code": "61226"
+    },
+    {
+      "id": "35.15.08.2021",
+      "name": "Cemengbakalan",
+      "postal_code": "61234"
+    },
+    {
+      "id": "35.15.08.2023",
+      "name": "Sarirogo",
+      "postal_code": "61234"
+    },
+    {
+      "id": "35.15.08.2024",
+      "name": "Sumput",
+      "postal_code": "61228"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

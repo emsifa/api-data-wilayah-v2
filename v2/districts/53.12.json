@@ -1,18 +1,32 @@
 {
-  "data": {
-    "id": "53.12",
-    "name": "Kabupaten Sumba Barat",
-    "province": {
-      "id": "53",
-      "name": "Nusa Tenggara Timur"
+  "data": [
+    {
+      "id": "53.12.04",
+      "name": "Tana Righu"
     },
-    "regency": {
-      "id": "53.12",
-      "name": "Kabupaten Sumba Barat"
+    {
+      "id": "53.12.10",
+      "name": "Loli"
+    },
+    {
+      "id": "53.12.11",
+      "name": "Wanokaka"
+    },
+    {
+      "id": "53.12.12",
+      "name": "Lamboya"
+    },
+    {
+      "id": "53.12.15",
+      "name": "Kota Waikabubak"
+    },
+    {
+      "id": "53.12.18",
+      "name": "Laboya Barat"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

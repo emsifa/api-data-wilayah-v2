@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "35.09.11.2001",
+      "name": "Lojejer",
+      "postal_code": "68162"
+    },
+    {
+      "id": "35.09.11.2002",
+      "name": "Ampel",
+      "postal_code": "68162"
+    },
+    {
+      "id": "35.09.11.2003",
+      "name": "Tamansari",
+      "postal_code": "68162"
+    },
+    {
+      "id": "35.09.11.2004",
+      "name": "Dukuhdempok",
+      "postal_code": "68162"
+    },
+    {
+      "id": "35.09.11.2005",
+      "name": "Glundengan",
+      "postal_code": "68162"
+    },
+    {
+      "id": "35.09.11.2006",
+      "name": "Tanjungrejo",
+      "postal_code": "68162"
+    },
+    {
+      "id": "35.09.11.2007",
+      "name": "Kesilir",
+      "postal_code": "68162"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

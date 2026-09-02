@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "33.18.20.2001",
+      "name": "Wedusan",
+      "postal_code": "59158"
+    },
+    {
+      "id": "33.18.20.2002",
+      "name": "Dumpil",
+      "postal_code": "59158"
+    },
+    {
+      "id": "33.18.20.2003",
+      "name": "Ngagel",
+      "postal_code": "59158"
+    },
+    {
+      "id": "33.18.20.2004",
+      "name": "Bakalan",
+      "postal_code": "59158"
+    },
+    {
+      "id": "33.18.20.2005",
+      "name": "Kenanti",
+      "postal_code": "59158"
+    },
+    {
+      "id": "33.18.20.2006",
+      "name": "Alasdowo",
+      "postal_code": "59158"
+    },
+    {
+      "id": "33.18.20.2007",
+      "name": "Banyutowo",
+      "postal_code": "59158"
+    },
+    {
+      "id": "33.18.20.2008",
+      "name": "Dukuhseti",
+      "postal_code": "59158"
+    },
+    {
+      "id": "33.18.20.2009",
+      "name": "Grogolan",
+      "postal_code": "59158"
+    },
+    {
+      "id": "33.18.20.2010",
+      "name": "Kembang",
+      "postal_code": "59158"
+    },
+    {
+      "id": "33.18.20.2011",
+      "name": "Tegalombo",
+      "postal_code": "59158"
+    },
+    {
+      "id": "33.18.20.2012",
+      "name": "Puncel",
+      "postal_code": "59158"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

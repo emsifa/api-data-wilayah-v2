@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "92.03.05.1001",
+      "name": "Danaweria",
+      "postal_code": "98012"
+    },
+    {
+      "id": "92.03.05.2002",
+      "name": "Kayu Merah",
+      "postal_code": "98012"
+    },
+    {
+      "id": "92.03.05.2003",
+      "name": "Katemba",
+      "postal_code": "98012"
+    },
+    {
+      "id": "92.03.05.2004",
+      "name": "Nemewikarya",
+      "postal_code": "98012"
+    },
+    {
+      "id": "92.03.05.2005",
+      "name": "Raduria",
+      "postal_code": "98012"
+    },
+    {
+      "id": "92.03.05.2006",
+      "name": "Brongkendik",
+      "postal_code": "98012"
+    },
+    {
+      "id": "92.03.05.2007",
+      "name": "Air Besar",
+      "postal_code": "98012"
+    },
+    {
+      "id": "92.03.05.2008",
+      "name": "Mandopma",
+      "postal_code": "98012"
+    },
+    {
+      "id": "92.03.05.2009",
+      "name": "Kanantare",
+      "postal_code": "98012"
+    },
+    {
+      "id": "92.03.05.2010",
+      "name": "Pasir Putih",
+      "postal_code": "98012"
+    },
+    {
+      "id": "92.03.05.2011",
+      "name": "Pirma",
+      "postal_code": "98012"
+    },
+    {
+      "id": "92.03.05.2012",
+      "name": "Sakartemin",
+      "postal_code": "98012"
+    },
+    {
+      "id": "92.03.05.2013",
+      "name": "Hambrangkendik",
+      "postal_code": "98012"
+    },
+    {
+      "id": "92.03.05.2014",
+      "name": "Unipokpok",
+      "postal_code": "98012"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

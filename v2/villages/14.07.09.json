@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "14.07.09.1005",
+      "name": "Melayu Besar Kota",
+      "postal_code": "28986"
+    },
+    {
+      "id": "14.07.09.2001",
+      "name": "Melayu Besar",
+      "postal_code": "28986"
+    },
+    {
+      "id": "14.07.09.2002",
+      "name": "Melayu Tengah",
+      "postal_code": "28986"
+    },
+    {
+      "id": "14.07.09.2003",
+      "name": "Batu Hampar",
+      "postal_code": "28986"
+    },
+    {
+      "id": "14.07.09.2004",
+      "name": "Mesah",
+      "postal_code": "28986"
+    },
+    {
+      "id": "14.07.09.2006",
+      "name": "Labuhan Papan",
+      "postal_code": "28986"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

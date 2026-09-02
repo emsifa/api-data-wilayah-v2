@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "id": "35.25.14.1006",
+      "name": "Gulomantung",
+      "postal_code": "61124"
+    },
+    {
+      "id": "35.25.14.1008",
+      "name": "Sidomukti",
+      "postal_code": "61124"
+    },
+    {
+      "id": "35.25.14.1010",
+      "name": "Kebomas",
+      "postal_code": "61121"
+    },
+    {
+      "id": "35.25.14.1011",
+      "name": "Kawis Anyar",
+      "postal_code": "61121"
+    },
+    {
+      "id": "35.25.14.1012",
+      "name": "Ngargosari",
+      "postal_code": "61124"
+    },
+    {
+      "id": "35.25.14.1014",
+      "name": "Gending",
+      "postal_code": "61123"
+    },
+    {
+      "id": "35.25.14.1015",
+      "name": "Sidomoro",
+      "postal_code": "61122"
+    },
+    {
+      "id": "35.25.14.1016",
+      "name": "Tenggulunan",
+      "postal_code": "61124"
+    },
+    {
+      "id": "35.25.14.1017",
+      "name": "Singosari",
+      "postal_code": "61122"
+    },
+    {
+      "id": "35.25.14.1019",
+      "name": "Indro",
+      "postal_code": "61124"
+    },
+    {
+      "id": "35.25.14.2001",
+      "name": "Dahanrejo",
+      "postal_code": "61124"
+    },
+    {
+      "id": "35.25.14.2002",
+      "name": "Kembangan",
+      "postal_code": "61124"
+    },
+    {
+      "id": "35.25.14.2003",
+      "name": "Kedayang",
+      "postal_code": "61124"
+    },
+    {
+      "id": "35.25.14.2004",
+      "name": "Randuagung",
+      "postal_code": "61121"
+    },
+    {
+      "id": "35.25.14.2005",
+      "name": "Klangonan",
+      "postal_code": "61124"
+    },
+    {
+      "id": "35.25.14.2007",
+      "name": "Sukorejo",
+      "postal_code": "61124"
+    },
+    {
+      "id": "35.25.14.2009",
+      "name": "Giri",
+      "postal_code": "61124"
+    },
+    {
+      "id": "35.25.14.2013",
+      "name": "Segoromadu",
+      "postal_code": "61123"
+    },
+    {
+      "id": "35.25.14.2018",
+      "name": "Karangkiring",
+      "postal_code": "61124"
+    },
+    {
+      "id": "35.25.14.2020",
+      "name": "Prambangan",
+      "postal_code": "61124"
+    },
+    {
+      "id": "35.25.14.2021",
+      "name": "Sekarkurung",
+      "postal_code": "61124"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

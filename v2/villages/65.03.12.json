@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "65.03.12.2001",
+      "name": "Sungai Limau",
+      "postal_code": "77487"
+    },
+    {
+      "id": "65.03.12.2002",
+      "name": "Maspul",
+      "postal_code": "77487"
+    },
+    {
+      "id": "65.03.12.2003",
+      "name": "Aji Kuning",
+      "postal_code": "77487"
+    },
+    {
+      "id": "65.03.12.2004",
+      "name": "Bukit Harapan",
+      "postal_code": "77487"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "53.19.11.2001",
+      "name": "Satar Padut",
+      "postal_code": "86582"
+    },
+    {
+      "id": "53.19.11.2002",
+      "name": "Satar Punda",
+      "postal_code": "86582"
+    },
+    {
+      "id": "53.19.11.2003",
+      "name": "Nampar Tabang",
+      "postal_code": "86582"
+    },
+    {
+      "id": "53.19.11.2004",
+      "name": "Lencur",
+      "postal_code": "86582"
+    },
+    {
+      "id": "53.19.11.2005",
+      "name": "Liang Deruk",
+      "postal_code": "86582"
+    },
+    {
+      "id": "53.19.11.2006",
+      "name": "Haju Wangi",
+      "postal_code": "86582"
+    },
+    {
+      "id": "53.19.11.2007",
+      "name": "Satar Kampas",
+      "postal_code": "86582"
+    },
+    {
+      "id": "53.19.11.2008",
+      "name": "Golo Mangung",
+      "postal_code": "86582"
+    },
+    {
+      "id": "53.19.11.2009",
+      "name": "Golo Wontong",
+      "postal_code": "86582"
+    },
+    {
+      "id": "53.19.11.2010",
+      "name": "Golo Munga Barat",
+      "postal_code": "86582"
+    },
+    {
+      "id": "53.19.11.2011",
+      "name": "Satar Punda Barat",
+      "postal_code": "86582"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

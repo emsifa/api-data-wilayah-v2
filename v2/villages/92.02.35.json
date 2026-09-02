@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "92.02.35.2001",
+      "name": "Mubraidiba",
+      "postal_code": "98316"
+    },
+    {
+      "id": "92.02.35.2002",
+      "name": "Mandopi",
+      "postal_code": "98316"
+    },
+    {
+      "id": "92.02.35.2003",
+      "name": "Mubri",
+      "postal_code": "98316"
+    },
+    {
+      "id": "92.02.35.2004",
+      "name": "Teluk Mubri",
+      "postal_code": "98316"
+    },
+    {
+      "id": "92.02.35.2005",
+      "name": "Meyes",
+      "postal_code": "98316"
+    },
+    {
+      "id": "92.02.35.2006",
+      "name": "Inya",
+      "postal_code": "98316"
+    },
+    {
+      "id": "92.02.35.2007",
+      "name": "Warbefor",
+      "postal_code": "98316"
+    },
+    {
+      "id": "92.02.35.2008",
+      "name": "Yonggam",
+      "postal_code": "98316"
+    },
+    {
+      "id": "92.02.35.2009",
+      "name": "Singgimeba",
+      "postal_code": "98316"
+    },
+    {
+      "id": "92.02.35.2010",
+      "name": "Inyei",
+      "postal_code": "98316"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

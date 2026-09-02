@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": "93.03.02.2001",
+      "name": "Mur",
+      "postal_code": "99873"
+    },
+    {
+      "id": "93.03.02.2002",
+      "name": "Agham",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.02.2003",
+      "name": "Waghien/Koba",
+      "postal_code": "99873"
+    },
+    {
+      "id": "93.03.02.2004",
+      "name": "Khatan",
+      "postal_code": "99873"
+    },
+    {
+      "id": "93.03.02.2005",
+      "name": "Monana",
+      "postal_code": "99873"
+    },
+    {
+      "id": "93.03.02.2006",
+      "name": "Wagin",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.02.2007",
+      "name": "Waman",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.02.2008",
+      "name": "Ima",
+      "postal_code": "99873"
+    },
+    {
+      "id": "93.03.02.2009",
+      "name": "Kogoyaman",
+      "postal_code": "99873"
+    },
+    {
+      "id": "93.03.02.2010",
+      "name": "Magabag",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.02.2011",
+      "name": "Tereyemu",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.02.2012",
+      "name": "Yatan",
+      "postal_code": "99872"
+    },
+    {
+      "id": "93.03.02.2013",
+      "name": "Linggua",
+      "postal_code": "99873"
+    },
+    {
+      "id": "93.03.02.2014",
+      "name": "Waruwe",
+      "postal_code": "99873"
+    },
+    {
+      "id": "93.03.02.2015",
+      "name": "Ghanu",
+      "postal_code": "99873"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

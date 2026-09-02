@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "53.11.14.2001",
+      "name": "Kamanggih",
+      "postal_code": "87171"
+    },
+    {
+      "id": "53.11.14.2002",
+      "name": "Kambatabundung",
+      "postal_code": "87171"
+    },
+    {
+      "id": "53.11.14.2003",
+      "name": "Meurumba",
+      "postal_code": "87171"
+    },
+    {
+      "id": "53.11.14.2004",
+      "name": "Laimbonga",
+      "postal_code": "87171"
+    },
+    {
+      "id": "53.11.14.2005",
+      "name": "Kota Kawau",
+      "postal_code": "87171"
+    },
+    {
+      "id": "53.11.14.2006",
+      "name": "Matawai Katingga",
+      "postal_code": "87171"
+    },
+    {
+      "id": "53.11.14.2007",
+      "name": "Kataka",
+      "postal_code": "87171"
+    },
+    {
+      "id": "53.11.14.2008",
+      "name": "Matawai Maringgu",
+      "postal_code": "87171"
+    },
+    {
+      "id": "53.11.14.2009",
+      "name": "Mauramba",
+      "postal_code": "87171"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

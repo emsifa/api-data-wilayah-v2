@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "82.71.07.1001",
+      "name": "Faudu",
+      "postal_code": "97745"
+    },
+    {
+      "id": "82.71.07.1002",
+      "name": "Tomajiko",
+      "postal_code": "97745"
+    },
+    {
+      "id": "82.71.07.1003",
+      "name": "Dorari Isa",
+      "postal_code": "97745"
+    },
+    {
+      "id": "82.71.07.1004",
+      "name": "Togolobe",
+      "postal_code": "97745"
+    },
+    {
+      "id": "82.71.07.1005",
+      "name": "Mado",
+      "postal_code": "97745"
+    },
+    {
+      "id": "82.71.07.1006",
+      "name": "Tafraka",
+      "postal_code": "97745"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

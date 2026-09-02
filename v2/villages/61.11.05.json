@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "61.11.05.2001",
+      "name": "Seponti Jaya",
+      "postal_code": "78857"
+    },
+    {
+      "id": "61.11.05.2002",
+      "name": "Telaga Arum",
+      "postal_code": "78857"
+    },
+    {
+      "id": "61.11.05.2003",
+      "name": "Wonorejo",
+      "postal_code": "78857"
+    },
+    {
+      "id": "61.11.05.2004",
+      "name": "Podorukun",
+      "postal_code": "78857"
+    },
+    {
+      "id": "61.11.05.2005",
+      "name": "Sungai Sepeti",
+      "postal_code": "78857"
+    },
+    {
+      "id": "61.11.05.2006",
+      "name": "Durian Sebatang",
+      "postal_code": "78857"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

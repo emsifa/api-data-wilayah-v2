@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "71.04.01.1005",
+      "name": "Lirung",
+      "postal_code": "95875"
+    },
+    {
+      "id": "71.04.01.1011",
+      "name": "Lirung Satu",
+      "postal_code": "95875"
+    },
+    {
+      "id": "71.04.01.1024",
+      "name": "Lirung Matane",
+      "postal_code": "95875"
+    },
+    {
+      "id": "71.04.01.2006",
+      "name": "Sereh",
+      "postal_code": "95875"
+    },
+    {
+      "id": "71.04.01.2007",
+      "name": "Musi",
+      "postal_code": "95875"
+    },
+    {
+      "id": "71.04.01.2015",
+      "name": "Talolang",
+      "postal_code": "95875"
+    },
+    {
+      "id": "71.04.01.2017",
+      "name": "Sereh I",
+      "postal_code": "95875"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

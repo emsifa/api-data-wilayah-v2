@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "32.73.27.1001",
+      "name": "Cimincrang",
+      "postal_code": "40294"
+    },
+    {
+      "id": "32.73.27.1002",
+      "name": "Cisaranten Kidul",
+      "postal_code": "40294"
+    },
+    {
+      "id": "32.73.27.1003",
+      "name": "Rancabolang",
+      "postal_code": "40294"
+    },
+    {
+      "id": "32.73.27.1004",
+      "name": "Rancanumpang",
+      "postal_code": "40294"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

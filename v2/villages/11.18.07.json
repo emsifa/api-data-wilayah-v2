@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "11.18.07.2001",
+      "name": "Keude Panteraja",
+      "postal_code": "24185"
+    },
+    {
+      "id": "11.18.07.2002",
+      "name": "Tu",
+      "postal_code": "24185"
+    },
+    {
+      "id": "11.18.07.2003",
+      "name": "Hagu",
+      "postal_code": "24185"
+    },
+    {
+      "id": "11.18.07.2004",
+      "name": "Muka Blang",
+      "postal_code": "24185"
+    },
+    {
+      "id": "11.18.07.2005",
+      "name": "Lhok Puuk",
+      "postal_code": "24185"
+    },
+    {
+      "id": "11.18.07.2006",
+      "name": "Mesjid",
+      "postal_code": "24185"
+    },
+    {
+      "id": "11.18.07.2007",
+      "name": "Teungoh",
+      "postal_code": "24185"
+    },
+    {
+      "id": "11.18.07.2008",
+      "name": "Tunong",
+      "postal_code": "24185"
+    },
+    {
+      "id": "11.18.07.2009",
+      "name": "Peurade",
+      "postal_code": "24185"
+    },
+    {
+      "id": "11.18.07.2010",
+      "name": "Reudeup",
+      "postal_code": "24185"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "52.06.10.2001",
+      "name": "Nipa",
+      "postal_code": "84153"
+    },
+    {
+      "id": "52.06.10.2002",
+      "name": "Tolowata",
+      "postal_code": "84153"
+    },
+    {
+      "id": "52.06.10.2003",
+      "name": "Rite",
+      "postal_code": "84153"
+    },
+    {
+      "id": "52.06.10.2004",
+      "name": "Mawu",
+      "postal_code": "84153"
+    },
+    {
+      "id": "52.06.10.2005",
+      "name": "Talapiti",
+      "postal_code": "84153"
+    },
+    {
+      "id": "52.06.10.2006",
+      "name": "Kole",
+      "postal_code": "84153"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

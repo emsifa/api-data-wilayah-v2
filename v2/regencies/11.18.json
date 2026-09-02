@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "11.18",
+    "name": "Kabupaten Pidie Jaya",
+    "capital": "Meureudu",
+    "lat": 5.2288994377471605,
+    "lng": 96.24475688303401,
+    "elv": 8,
+    "tz": 7,
+    "population": 166517,
+    "total_area": 938.868,
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

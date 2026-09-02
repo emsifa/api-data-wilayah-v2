@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "71.05.21.2001",
+      "name": "Tondei",
+      "postal_code": "95942"
+    },
+    {
+      "id": "71.05.21.2002",
+      "name": "Tondei Satu",
+      "postal_code": "95942"
+    },
+    {
+      "id": "71.05.21.2003",
+      "name": "Tondei Dua",
+      "postal_code": "95942"
+    },
+    {
+      "id": "71.05.21.2004",
+      "name": "Raanan Baru",
+      "postal_code": "95942"
+    },
+    {
+      "id": "71.05.21.2005",
+      "name": "Ranaan Baru Satu",
+      "postal_code": "95942"
+    },
+    {
+      "id": "71.05.21.2006",
+      "name": "Ranaan Baru Dua",
+      "postal_code": "95942"
+    },
+    {
+      "id": "71.05.21.2007",
+      "name": "Toyopon",
+      "postal_code": "95942"
+    },
+    {
+      "id": "71.05.21.2008",
+      "name": "Keroit",
+      "postal_code": "95942"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

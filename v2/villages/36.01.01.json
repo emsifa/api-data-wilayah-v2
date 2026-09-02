@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "36.01.01.2001",
+      "name": "Sumberjaya",
+      "postal_code": "42283"
+    },
+    {
+      "id": "36.01.01.2002",
+      "name": "Kertajaya",
+      "postal_code": "42283"
+    },
+    {
+      "id": "36.01.01.2003",
+      "name": "Kertamukti",
+      "postal_code": "42283"
+    },
+    {
+      "id": "36.01.01.2004",
+      "name": "Tunggaljaya",
+      "postal_code": "42283"
+    },
+    {
+      "id": "36.01.01.2005",
+      "name": "Cigorondong",
+      "postal_code": "42283"
+    },
+    {
+      "id": "36.01.01.2006",
+      "name": "Tamanjaya",
+      "postal_code": "42283"
+    },
+    {
+      "id": "36.01.01.2007",
+      "name": "Ujungjaya",
+      "postal_code": "42283"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

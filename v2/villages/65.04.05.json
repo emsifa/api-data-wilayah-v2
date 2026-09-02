@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "65.04.05.2001",
+      "name": "Seputuk",
+      "postal_code": "77154"
+    },
+    {
+      "id": "65.04.05.2002",
+      "name": "Rian",
+      "postal_code": "77154"
+    },
+    {
+      "id": "65.04.05.2003",
+      "name": "Balayan Ari",
+      "postal_code": "77154"
+    },
+    {
+      "id": "65.04.05.2004",
+      "name": "Rian Rayo",
+      "postal_code": "77154"
+    },
+    {
+      "id": "65.04.05.2005",
+      "name": "Kapuak",
+      "postal_code": "77154"
+    },
+    {
+      "id": "65.04.05.2006",
+      "name": "Sapari",
+      "postal_code": "77154"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

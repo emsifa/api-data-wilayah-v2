@@ -1,18 +1,28 @@
 {
-  "data": {
-    "id": "13.76",
-    "name": "Kota Payakumbuh",
-    "province": {
-      "id": "13",
-      "name": "Sumatera Barat"
+  "data": [
+    {
+      "id": "13.76.01",
+      "name": "Payakumbuh Barat"
     },
-    "regency": {
-      "id": "13.76",
-      "name": "Kota Payakumbuh"
+    {
+      "id": "13.76.02",
+      "name": "Payakumbuh Utara"
+    },
+    {
+      "id": "13.76.03",
+      "name": "Payakumbuh Timur"
+    },
+    {
+      "id": "13.76.04",
+      "name": "Lamposi Tigo Nagori"
+    },
+    {
+      "id": "13.76.05",
+      "name": "Payakumbuh Selatan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

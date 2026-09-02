@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "33.14.20.2001",
+      "name": "Japoh",
+      "postal_code": "57256"
+    },
+    {
+      "id": "33.14.20.2002",
+      "name": "Ngepringan",
+      "postal_code": "57256"
+    },
+    {
+      "id": "33.14.20.2003",
+      "name": "Mlale",
+      "postal_code": "57256"
+    },
+    {
+      "id": "33.14.20.2004",
+      "name": "Dawung",
+      "postal_code": "57256"
+    },
+    {
+      "id": "33.14.20.2005",
+      "name": "Kandangsapi",
+      "postal_code": "57256"
+    },
+    {
+      "id": "33.14.20.2006",
+      "name": "Jenar",
+      "postal_code": "57256"
+    },
+    {
+      "id": "33.14.20.2007",
+      "name": "Banyurip",
+      "postal_code": "57256"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

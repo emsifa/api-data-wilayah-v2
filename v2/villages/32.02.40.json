@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.02.40.2001",
+      "name": "Gegerbitung",
+      "postal_code": "43197"
+    },
+    {
+      "id": "32.02.40.2002",
+      "name": "Cijurey",
+      "postal_code": "43197"
+    },
+    {
+      "id": "32.02.40.2003",
+      "name": "Ciengang",
+      "postal_code": "43197"
+    },
+    {
+      "id": "32.02.40.2004",
+      "name": "Karangjaya",
+      "postal_code": "43197"
+    },
+    {
+      "id": "32.02.40.2005",
+      "name": "Caringin",
+      "postal_code": "43154"
+    },
+    {
+      "id": "32.02.40.2006",
+      "name": "Sukamanah",
+      "postal_code": "43197"
+    },
+    {
+      "id": "32.02.40.2007",
+      "name": "Buniwangi",
+      "postal_code": "43197"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

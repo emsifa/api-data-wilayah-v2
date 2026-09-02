@@ -1,18 +1,28 @@
 {
-  "data": {
-    "id": "35.74",
-    "name": "Kota Probolinggo",
-    "province": {
-      "id": "35",
-      "name": "Jawa Timur"
+  "data": [
+    {
+      "id": "35.74.01",
+      "name": "Kademangan"
     },
-    "regency": {
-      "id": "35.74",
-      "name": "Kota Probolinggo"
+    {
+      "id": "35.74.02",
+      "name": "Wonoasih"
+    },
+    {
+      "id": "35.74.03",
+      "name": "Mayangan"
+    },
+    {
+      "id": "35.74.04",
+      "name": "Kanigaran"
+    },
+    {
+      "id": "35.74.05",
+      "name": "Kedopok"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "61.07.05.2001",
+      "name": "Seluas",
+      "postal_code": "79285"
+    },
+    {
+      "id": "61.07.05.2002",
+      "name": "Bengkawan",
+      "postal_code": "79285"
+    },
+    {
+      "id": "61.07.05.2003",
+      "name": "Sahan",
+      "postal_code": "79285"
+    },
+    {
+      "id": "61.07.05.2004",
+      "name": "Mayak",
+      "postal_code": "79285"
+    },
+    {
+      "id": "61.07.05.2005",
+      "name": "Kalon",
+      "postal_code": "79285"
+    },
+    {
+      "id": "61.07.05.2006",
+      "name": "Sentangau Jaya",
+      "postal_code": "79285"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

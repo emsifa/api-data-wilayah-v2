@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "96.01.23.2001",
+      "name": "Saengkeduk",
+      "postal_code": "98449"
+    },
+    {
+      "id": "96.01.23.2002",
+      "name": "Selekobo",
+      "postal_code": "98449"
+    },
+    {
+      "id": "96.01.23.2003",
+      "name": "Suye",
+      "postal_code": "98449"
+    },
+    {
+      "id": "96.01.23.2004",
+      "name": "Klamede",
+      "postal_code": "98449"
+    },
+    {
+      "id": "96.01.23.2005",
+      "name": "Sambatie",
+      "postal_code": "98449"
+    },
+    {
+      "id": "96.01.23.2006",
+      "name": "Klagele",
+      "postal_code": "98449"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

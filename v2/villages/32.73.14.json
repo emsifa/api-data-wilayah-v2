@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "32.73.14.1001",
+      "name": "Padasuka",
+      "postal_code": "40125"
+    },
+    {
+      "id": "32.73.14.1002",
+      "name": "Cikutra",
+      "postal_code": "40124"
+    },
+    {
+      "id": "32.73.14.1003",
+      "name": "Cicadas",
+      "postal_code": "40121"
+    },
+    {
+      "id": "32.73.14.1004",
+      "name": "Sukamaju",
+      "postal_code": "40121"
+    },
+    {
+      "id": "32.73.14.1005",
+      "name": "Sukapada",
+      "postal_code": "40125"
+    },
+    {
+      "id": "32.73.14.1006",
+      "name": "Pasirlayung",
+      "postal_code": "40192"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

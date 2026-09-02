@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "11.02.16",
+    "name": "Leuser",
+    "province": {
+      "id": "11",
+      "name": "Aceh"
+    },
+    "regency": {
+      "id": "11.02",
+      "name": "Kabupaten Aceh Tenggara"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 3
+  }
+}

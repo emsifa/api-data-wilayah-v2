@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "74.14.05.1004",
+      "name": "Talaga Satu",
+      "postal_code": "93766"
+    },
+    {
+      "id": "74.14.05.2001",
+      "name": "Kokoe",
+      "postal_code": "93766"
+    },
+    {
+      "id": "74.14.05.2002",
+      "name": "Talaga Besar",
+      "postal_code": "93766"
+    },
+    {
+      "id": "74.14.05.2003",
+      "name": "Talaga II",
+      "postal_code": "93766"
+    },
+    {
+      "id": "74.14.05.2005",
+      "name": "Wulu",
+      "postal_code": "93766"
+    },
+    {
+      "id": "74.14.05.2006",
+      "name": "Liwulompona",
+      "postal_code": "93766"
+    },
+    {
+      "id": "74.14.05.2007",
+      "name": "Pangilia",
+      "postal_code": "93766"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

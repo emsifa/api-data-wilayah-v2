@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "96.05.09.2001",
+      "name": "Yubiah",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.09.2002",
+      "name": "Karetubun",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.09.2003",
+      "name": "Setta",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.09.2004",
+      "name": "Hohoyor",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.09.2005",
+      "name": "Arne",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.09.2006",
+      "name": "Aus Tiwit",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.09.2007",
+      "name": "Johafah",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.09.2008",
+      "name": "Yukase",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.09.2009",
+      "name": "Serma",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.09.2010",
+      "name": "Kfaa",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.09.2011",
+      "name": "Arne Timur",
+      "postal_code": "98059"
+    },
+    {
+      "id": "96.05.09.2012",
+      "name": "Nauwita",
+      "postal_code": "98059"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

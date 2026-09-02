@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "15.71.01.1001",
+      "name": "Simpang IV Sipin",
+      "postal_code": "36124"
+    },
+    {
+      "id": "15.71.01.1002",
+      "name": "Buluran Kenali",
+      "postal_code": "36123"
+    },
+    {
+      "id": "15.71.01.1003",
+      "name": "Teluk Kenali",
+      "postal_code": "36123"
+    },
+    {
+      "id": "15.71.01.1004",
+      "name": "Telanaipura",
+      "postal_code": "36122"
+    },
+    {
+      "id": "15.71.01.1010",
+      "name": "Penyengat Rendah",
+      "postal_code": "36124"
+    },
+    {
+      "id": "15.71.01.1011",
+      "name": "Pematang Sulur",
+      "postal_code": "36129"
+    },
+    {
+      "id": "15.71.01.1012",
+      "name": "Aur Kenali",
+      "postal_code": "36129"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

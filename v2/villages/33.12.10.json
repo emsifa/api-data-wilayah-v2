@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "33.12.10.1006",
+      "name": "Pagutan",
+      "postal_code": "57662"
+    },
+    {
+      "id": "33.12.10.1007",
+      "name": "Punduhsari",
+      "postal_code": "57662"
+    },
+    {
+      "id": "33.12.10.2001",
+      "name": "Kepuhsari",
+      "postal_code": "57662"
+    },
+    {
+      "id": "33.12.10.2002",
+      "name": "Pijiharjo",
+      "postal_code": "57662"
+    },
+    {
+      "id": "33.12.10.2003",
+      "name": "Bero",
+      "postal_code": "57662"
+    },
+    {
+      "id": "33.12.10.2004",
+      "name": "Gunungan",
+      "postal_code": "57662"
+    },
+    {
+      "id": "33.12.10.2005",
+      "name": "Karanglor",
+      "postal_code": "57662"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

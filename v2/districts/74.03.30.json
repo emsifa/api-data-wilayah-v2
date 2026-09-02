@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "74.03.30",
+    "name": "Kontu Kowuna",
+    "province": {
+      "id": "74",
+      "name": "Sulawesi Tenggara"
+    },
+    "regency": {
+      "id": "74.03",
+      "name": "Kabupaten Muna"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

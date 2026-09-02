@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "96.04.07.2001",
+      "name": "Syujak",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.07.2002",
+      "name": "Banso",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.07.2003",
+      "name": "Iof",
+      "postal_code": "98473"
+    },
+    {
+      "id": "96.04.07.2004",
+      "name": "Frafane",
+      "postal_code": "98473"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "35.09.06.2001",
+      "name": "Tanggulkulon",
+      "postal_code": "68155"
+    },
+    {
+      "id": "35.09.06.2002",
+      "name": "Tanggulwetan",
+      "postal_code": "68155"
+    },
+    {
+      "id": "35.09.06.2003",
+      "name": "Patemon",
+      "postal_code": "68155"
+    },
+    {
+      "id": "35.09.06.2004",
+      "name": "Darungan",
+      "postal_code": "68155"
+    },
+    {
+      "id": "35.09.06.2005",
+      "name": "Manggisan",
+      "postal_code": "68155"
+    },
+    {
+      "id": "35.09.06.2006",
+      "name": "Selodakon",
+      "postal_code": "68155"
+    },
+    {
+      "id": "35.09.06.2007",
+      "name": "Kramat Sukoharjo",
+      "postal_code": "68155"
+    },
+    {
+      "id": "35.09.06.2008",
+      "name": "Klatakan",
+      "postal_code": "68155"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

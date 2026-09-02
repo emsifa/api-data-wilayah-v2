@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "35.20.06.1002",
+      "name": "Mangkujayan",
+      "postal_code": "63316"
+    },
+    {
+      "id": "35.20.06.1003",
+      "name": "Bulukerto",
+      "postal_code": "63315"
+    },
+    {
+      "id": "35.20.06.1004",
+      "name": "Magetan",
+      "postal_code": "63319"
+    },
+    {
+      "id": "35.20.06.1010",
+      "name": "Selosari",
+      "postal_code": "63313"
+    },
+    {
+      "id": "35.20.06.1011",
+      "name": "Tawanganom",
+      "postal_code": "63312"
+    },
+    {
+      "id": "35.20.06.1012",
+      "name": "Kepolorejo",
+      "postal_code": "63311"
+    },
+    {
+      "id": "35.20.06.1013",
+      "name": "Sukowinangun",
+      "postal_code": "63319"
+    },
+    {
+      "id": "35.20.06.1014",
+      "name": "Kebonagung",
+      "postal_code": "63317"
+    },
+    {
+      "id": "35.20.06.1015",
+      "name": "Tambran",
+      "postal_code": "63318"
+    },
+    {
+      "id": "35.20.06.2001",
+      "name": "Tambakrejo",
+      "postal_code": "63319"
+    },
+    {
+      "id": "35.20.06.2005",
+      "name": "Ringinagung",
+      "postal_code": "63319"
+    },
+    {
+      "id": "35.20.06.2009",
+      "name": "Candirejo",
+      "postal_code": "63319"
+    },
+    {
+      "id": "35.20.06.2016",
+      "name": "Baron",
+      "postal_code": "63319"
+    },
+    {
+      "id": "35.20.06.2017",
+      "name": "Purwosari",
+      "postal_code": "63319"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

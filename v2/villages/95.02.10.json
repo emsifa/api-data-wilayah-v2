@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "95.02.10.2001",
+      "name": "Bime",
+      "postal_code": "99451"
+    },
+    {
+      "id": "95.02.10.2002",
+      "name": "Bob",
+      "postal_code": "99586"
+    },
+    {
+      "id": "95.02.10.2003",
+      "name": "Kameme",
+      "postal_code": "99586"
+    },
+    {
+      "id": "95.02.10.2004",
+      "name": "Calab",
+      "postal_code": "99451"
+    },
+    {
+      "id": "95.02.10.2005",
+      "name": "Limiri",
+      "postal_code": "99451"
+    },
+    {
+      "id": "95.02.10.2006",
+      "name": "Teli",
+      "postal_code": "99451"
+    },
+    {
+      "id": "95.02.10.2007",
+      "name": "Lim Lim",
+      "postal_code": "99451"
+    },
+    {
+      "id": "95.02.10.2008",
+      "name": "Bunggon",
+      "postal_code": "99451"
+    },
+    {
+      "id": "95.02.10.2009",
+      "name": "Perem",
+      "postal_code": "99451"
+    },
+    {
+      "id": "95.02.10.2010",
+      "name": "Turwe",
+      "postal_code": "99451"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

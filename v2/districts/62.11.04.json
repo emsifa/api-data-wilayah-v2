@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "62.11.04",
+    "name": "Banama Tingang",
+    "province": {
+      "id": "62",
+      "name": "Kalimantan Tengah"
+    },
+    "regency": {
+      "id": "62.11",
+      "name": "Kabupaten Pulang Pisau"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 3
+  }
+}

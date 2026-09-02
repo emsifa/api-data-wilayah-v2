@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "53.08.16.2001",
+      "name": "Kurulimbu",
+      "postal_code": "86363"
+    },
+    {
+      "id": "53.08.16.2002",
+      "name": "Sokoria",
+      "postal_code": "86363"
+    },
+    {
+      "id": "53.08.16.2003",
+      "name": "Demulaka",
+      "postal_code": "86363"
+    },
+    {
+      "id": "53.08.16.2004",
+      "name": "Roga",
+      "postal_code": "86363"
+    },
+    {
+      "id": "53.08.16.2005",
+      "name": "Kurulimbu Selatan",
+      "postal_code": "86363"
+    },
+    {
+      "id": "53.08.16.2006",
+      "name": "Ngguwa",
+      "postal_code": "86363"
+    },
+    {
+      "id": "53.08.16.2007",
+      "name": "Sokoria Selatan",
+      "postal_code": "86363"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "12.04.29.2001",
+      "name": "Sisobawino I",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.29.2002",
+      "name": "I'odano",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.29.2003",
+      "name": "Huno",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.29.2004",
+      "name": "Sisaratandrawa",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.29.2005",
+      "name": "Somolo-molo",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.29.2006",
+      "name": "Lewuoguru I",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.29.2007",
+      "name": "Sifaoroasi",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.29.2008",
+      "name": "Lewuombanua",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.29.2009",
+      "name": "Hiligodu Somolo-Molo",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.29.2010",
+      "name": "Hilimborodano",
+      "postal_code": "22871"
+    },
+    {
+      "id": "12.04.29.2011",
+      "name": "So'ewali",
+      "postal_code": "22871"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

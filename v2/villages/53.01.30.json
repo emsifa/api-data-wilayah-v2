@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "53.01.30.2001",
+      "name": "Fatumonas",
+      "postal_code": "85374"
+    },
+    {
+      "id": "53.01.30.2002",
+      "name": "Binafun",
+      "postal_code": "85374"
+    },
+    {
+      "id": "53.01.30.2003",
+      "name": "Bitobe",
+      "postal_code": "85374"
+    },
+    {
+      "id": "53.01.30.2004",
+      "name": "Bonmuti",
+      "postal_code": "85374"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

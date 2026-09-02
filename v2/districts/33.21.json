@@ -1,18 +1,64 @@
 {
-  "data": {
-    "id": "33.21",
-    "name": "Kabupaten Demak",
-    "province": {
-      "id": "33",
-      "name": "Jawa Tengah"
+  "data": [
+    {
+      "id": "33.21.01",
+      "name": "Mranggen"
     },
-    "regency": {
-      "id": "33.21",
-      "name": "Kabupaten Demak"
+    {
+      "id": "33.21.02",
+      "name": "Karangawen"
+    },
+    {
+      "id": "33.21.03",
+      "name": "Guntur"
+    },
+    {
+      "id": "33.21.04",
+      "name": "Sayung"
+    },
+    {
+      "id": "33.21.05",
+      "name": "Karangtengah"
+    },
+    {
+      "id": "33.21.06",
+      "name": "Wonosalam"
+    },
+    {
+      "id": "33.21.07",
+      "name": "Dempet"
+    },
+    {
+      "id": "33.21.08",
+      "name": "Gajah"
+    },
+    {
+      "id": "33.21.09",
+      "name": "Karanganyar"
+    },
+    {
+      "id": "33.21.10",
+      "name": "Mijen"
+    },
+    {
+      "id": "33.21.11",
+      "name": "Demak"
+    },
+    {
+      "id": "33.21.12",
+      "name": "Bonang"
+    },
+    {
+      "id": "33.21.13",
+      "name": "Wedung"
+    },
+    {
+      "id": "33.21.14",
+      "name": "Kebonagung"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

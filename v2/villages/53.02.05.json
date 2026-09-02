@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "53.02.05.1010",
+      "name": "Niki-Niki",
+      "postal_code": "85571"
+    },
+    {
+      "id": "53.02.05.2001",
+      "name": "Taebesa",
+      "postal_code": "85571"
+    },
+    {
+      "id": "53.02.05.2002",
+      "name": "Nakfunu",
+      "postal_code": "85571"
+    },
+    {
+      "id": "53.02.05.2003",
+      "name": "Oe'ekam",
+      "postal_code": "85571"
+    },
+    {
+      "id": "53.02.05.2004",
+      "name": "Baki",
+      "postal_code": "85571"
+    },
+    {
+      "id": "53.02.05.2005",
+      "name": "Tumu",
+      "postal_code": "85571"
+    },
+    {
+      "id": "53.02.05.2006",
+      "name": "Noebesa",
+      "postal_code": "85571"
+    },
+    {
+      "id": "53.02.05.2007",
+      "name": "Nobi-Nobi",
+      "postal_code": "85571"
+    },
+    {
+      "id": "53.02.05.2008",
+      "name": "Sopo",
+      "postal_code": "85571"
+    },
+    {
+      "id": "53.02.05.2009",
+      "name": "Bone",
+      "postal_code": "85571"
+    },
+    {
+      "id": "53.02.05.2011",
+      "name": "Maunum Niki-Niki",
+      "postal_code": "85571"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

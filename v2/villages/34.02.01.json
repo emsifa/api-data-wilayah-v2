@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "34.02.01.2001",
+      "name": "Poncosari",
+      "postal_code": "55762"
+    },
+    {
+      "id": "34.02.01.2002",
+      "name": "Trimurti",
+      "postal_code": "55762"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

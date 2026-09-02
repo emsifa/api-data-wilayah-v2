@@ -1,18 +1,60 @@
 {
-  "data": {
-    "id": "16.01",
-    "name": "Kabupaten Ogan Komering Ulu",
-    "province": {
-      "id": "16",
-      "name": "Sumatera Selatan"
+  "data": [
+    {
+      "id": "16.01.07",
+      "name": "Sosoh Buay Rayap"
     },
-    "regency": {
-      "id": "16.01",
-      "name": "Kabupaten Ogan Komering Ulu"
+    {
+      "id": "16.01.08",
+      "name": "Pengandonan"
+    },
+    {
+      "id": "16.01.09",
+      "name": "Peninjauan"
+    },
+    {
+      "id": "16.01.13",
+      "name": "Baturaja Barat"
+    },
+    {
+      "id": "16.01.14",
+      "name": "Baturaja Timur"
+    },
+    {
+      "id": "16.01.20",
+      "name": "Ulu Ogan"
+    },
+    {
+      "id": "16.01.21",
+      "name": "Semidang Aji"
+    },
+    {
+      "id": "16.01.22",
+      "name": "Lubuk Batang"
+    },
+    {
+      "id": "16.01.28",
+      "name": "Lengkiti"
+    },
+    {
+      "id": "16.01.29",
+      "name": "Sinar Peninjauan"
+    },
+    {
+      "id": "16.01.30",
+      "name": "Lubuk Raja"
+    },
+    {
+      "id": "16.01.31",
+      "name": "Muara Jaya"
+    },
+    {
+      "id": "16.01.32",
+      "name": "Kedaton Peninjauan Raya"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

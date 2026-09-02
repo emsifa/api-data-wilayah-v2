@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "id": "11.05.01.2001",
+      "name": "Suak Indrapuri",
+      "postal_code": "23611"
+    },
+    {
+      "id": "11.05.01.2002",
+      "name": "Kampung Belakang",
+      "postal_code": "23611"
+    },
+    {
+      "id": "11.05.01.2003",
+      "name": "Ujong Kalak",
+      "postal_code": "23613"
+    },
+    {
+      "id": "11.05.01.2004",
+      "name": "Kuta Padang",
+      "postal_code": "23614"
+    },
+    {
+      "id": "11.05.01.2005",
+      "name": "Ujong Baroh",
+      "postal_code": "23615"
+    },
+    {
+      "id": "11.05.01.2006",
+      "name": "Rundeng",
+      "postal_code": "23616"
+    },
+    {
+      "id": "11.05.01.2007",
+      "name": "Drien Rampak",
+      "postal_code": "23617"
+    },
+    {
+      "id": "11.05.01.2008",
+      "name": "Pasir",
+      "postal_code": "23611"
+    },
+    {
+      "id": "11.05.01.2009",
+      "name": "Pasar Aceh",
+      "postal_code": "23612"
+    },
+    {
+      "id": "11.05.01.2010",
+      "name": "Padang Seurahet",
+      "postal_code": "23611"
+    },
+    {
+      "id": "11.05.01.2011",
+      "name": "Panggong",
+      "postal_code": "23612"
+    },
+    {
+      "id": "11.05.01.2012",
+      "name": "Seuneubok",
+      "postal_code": "23611"
+    },
+    {
+      "id": "11.05.01.2013",
+      "name": "Gampong Darat",
+      "postal_code": "23611"
+    },
+    {
+      "id": "11.05.01.2014",
+      "name": "Gampa",
+      "postal_code": "23611"
+    },
+    {
+      "id": "11.05.01.2015",
+      "name": "Lapang",
+      "postal_code": "23618"
+    },
+    {
+      "id": "11.05.01.2016",
+      "name": "Blang Beurandang",
+      "postal_code": "23618"
+    },
+    {
+      "id": "11.05.01.2017",
+      "name": "Suak Ribee",
+      "postal_code": "23611"
+    },
+    {
+      "id": "11.05.01.2018",
+      "name": "Suak Raya",
+      "postal_code": "23611"
+    },
+    {
+      "id": "11.05.01.2019",
+      "name": "Suak Nie",
+      "postal_code": "23611"
+    },
+    {
+      "id": "11.05.01.2020",
+      "name": "Leuhan",
+      "postal_code": "23611"
+    },
+    {
+      "id": "11.05.01.2021",
+      "name": "Suak Sigadeng",
+      "postal_code": "23611"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

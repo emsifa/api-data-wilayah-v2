@@ -1,18 +1,32 @@
 {
-  "data": {
-    "id": "12.74",
-    "name": "Kota Tanjungbalai",
-    "province": {
-      "id": "12",
-      "name": "Sumatera Utara"
+  "data": [
+    {
+      "id": "12.74.01",
+      "name": "Tanjungbalai Selatan"
     },
-    "regency": {
-      "id": "12.74",
-      "name": "Kota Tanjungbalai"
+    {
+      "id": "12.74.02",
+      "name": "Tanjungbalai Utara"
+    },
+    {
+      "id": "12.74.03",
+      "name": "Sei Tualang Raso"
+    },
+    {
+      "id": "12.74.04",
+      "name": "Teluk Nibung"
+    },
+    {
+      "id": "12.74.05",
+      "name": "Datuk Bandar"
+    },
+    {
+      "id": "12.74.06",
+      "name": "Datuk Bandar Timur"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

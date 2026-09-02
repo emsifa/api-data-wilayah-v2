@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "33.18.13.2001",
+      "name": "Bermi",
+      "postal_code": "59162"
+    },
+    {
+      "id": "33.18.13.2002",
+      "name": "Kedungbulus",
+      "postal_code": "59162"
+    },
+    {
+      "id": "33.18.13.2003",
+      "name": "Semirejo",
+      "postal_code": "59162"
+    },
+    {
+      "id": "33.18.13.2004",
+      "name": "Wonosekar",
+      "postal_code": "59162"
+    },
+    {
+      "id": "33.18.13.2005",
+      "name": "Gembong",
+      "postal_code": "59162"
+    },
+    {
+      "id": "33.18.13.2006",
+      "name": "Plukaran",
+      "postal_code": "59162"
+    },
+    {
+      "id": "33.18.13.2007",
+      "name": "Bageng",
+      "postal_code": "59162"
+    },
+    {
+      "id": "33.18.13.2008",
+      "name": "Pohgading",
+      "postal_code": "59162"
+    },
+    {
+      "id": "33.18.13.2009",
+      "name": "Klakahkasihan",
+      "postal_code": "59162"
+    },
+    {
+      "id": "33.18.13.2010",
+      "name": "Ketanggan",
+      "postal_code": "59162"
+    },
+    {
+      "id": "33.18.13.2011",
+      "name": "Sitiluhur",
+      "postal_code": "59162"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

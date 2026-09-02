@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "35.76.03.1001",
+      "name": "Kranggan",
+      "postal_code": "61321"
+    },
+    {
+      "id": "35.76.03.1002",
+      "name": "Miji",
+      "postal_code": "61322"
+    },
+    {
+      "id": "35.76.03.1003",
+      "name": "Meri",
+      "postal_code": "61315"
+    },
+    {
+      "id": "35.76.03.1004",
+      "name": "Jagalan",
+      "postal_code": "61313"
+    },
+    {
+      "id": "35.76.03.1005",
+      "name": "Sentanan",
+      "postal_code": "61312"
+    },
+    {
+      "id": "35.76.03.1006",
+      "name": "Purwotengah",
+      "postal_code": "61311"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

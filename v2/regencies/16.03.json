@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "16.03",
+    "name": "Kabupaten Muara Enim",
+    "capital": "Muara Enim",
+    "lat": -3.6556303086592794,
+    "lng": 103.77700425898033,
+    "elv": 41,
+    "tz": 7,
+    "population": 653731,
+    "total_area": 6763.912,
+    "province": {
+      "id": "16",
+      "name": "Sumatera Selatan"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

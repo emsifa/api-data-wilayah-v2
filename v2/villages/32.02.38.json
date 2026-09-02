@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "32.02.38.2001",
+      "name": "Purabaya",
+      "postal_code": "43187"
+    },
+    {
+      "id": "32.02.38.2002",
+      "name": "Neglasari",
+      "postal_code": "43187"
+    },
+    {
+      "id": "32.02.38.2003",
+      "name": "Pagelaran",
+      "postal_code": "43187"
+    },
+    {
+      "id": "32.02.38.2004",
+      "name": "Cimerang",
+      "postal_code": "43187"
+    },
+    {
+      "id": "32.02.38.2005",
+      "name": "Citamiang",
+      "postal_code": "43187"
+    },
+    {
+      "id": "32.02.38.2006",
+      "name": "Margaluyu",
+      "postal_code": "43187"
+    },
+    {
+      "id": "32.02.38.2007",
+      "name": "Cicukang",
+      "postal_code": "43187"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

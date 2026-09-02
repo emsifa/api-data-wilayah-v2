@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "71.05.10.1004",
+      "name": "Buyungon",
+      "postal_code": "95957"
+    },
+    {
+      "id": "71.05.10.1005",
+      "name": "Ranoyapo",
+      "postal_code": "95957"
+    },
+    {
+      "id": "71.05.10.1006",
+      "name": "Uwuran I",
+      "postal_code": "95957"
+    },
+    {
+      "id": "71.05.10.1007",
+      "name": "Uwuran II",
+      "postal_code": "95957"
+    },
+    {
+      "id": "71.05.10.1008",
+      "name": "Lewet",
+      "postal_code": "95957"
+    },
+    {
+      "id": "71.05.10.1010",
+      "name": "Bitung",
+      "postal_code": "95957"
+    },
+    {
+      "id": "71.05.10.2009",
+      "name": "Ranoketang Tua",
+      "postal_code": "95957"
+    },
+    {
+      "id": "71.05.10.2018",
+      "name": "Kilometer 3",
+      "postal_code": "95957"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

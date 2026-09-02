@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "82.04.15.2001",
+      "name": "Sidanga",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.15.2002",
+      "name": "Lata Lata",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.15.2003",
+      "name": "Sengga Baru",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.15.2004",
+      "name": "Arumamang",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.15.2005",
+      "name": "Palamea",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.15.2006",
+      "name": "Doko",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.15.2007",
+      "name": "Bisori",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.15.2008",
+      "name": "Marikapal",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.15.2009",
+      "name": "Kukupang",
+      "postal_code": "97790"
+    },
+    {
+      "id": "82.04.15.2010",
+      "name": "Imbu Imbu",
+      "postal_code": "97790"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

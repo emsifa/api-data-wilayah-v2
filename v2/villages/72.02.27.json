@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "72.02.27.1008",
+      "name": "Sawidago",
+      "postal_code": "94667"
+    },
+    {
+      "id": "72.02.27.1009",
+      "name": "Petirodongi",
+      "postal_code": "94667"
+    },
+    {
+      "id": "72.02.27.1010",
+      "name": "Tendeadongi",
+      "postal_code": "94667"
+    },
+    {
+      "id": "72.02.27.2001",
+      "name": "Saojo",
+      "postal_code": "94667"
+    },
+    {
+      "id": "72.02.27.2002",
+      "name": "Sulewana",
+      "postal_code": "94667"
+    },
+    {
+      "id": "72.02.27.2003",
+      "name": "Sangira",
+      "postal_code": "94667"
+    },
+    {
+      "id": "72.02.27.2004",
+      "name": "Kuku",
+      "postal_code": "94667"
+    },
+    {
+      "id": "72.02.27.2005",
+      "name": "Panjoka",
+      "postal_code": "94667"
+    },
+    {
+      "id": "72.02.27.2006",
+      "name": "Uelincu",
+      "postal_code": "94667"
+    },
+    {
+      "id": "72.02.27.2007",
+      "name": "Lena",
+      "postal_code": "94667"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,18 +1,48 @@
 {
-  "data": {
-    "id": "21.05",
-    "name": "Kabupaten Kepulauan Anambas",
-    "province": {
-      "id": "21",
-      "name": "Kepulauan Riau"
+  "data": [
+    {
+      "id": "21.05.01",
+      "name": "Siantan"
     },
-    "regency": {
-      "id": "21.05",
-      "name": "Kabupaten Kepulauan Anambas"
+    {
+      "id": "21.05.02",
+      "name": "Palmatak"
+    },
+    {
+      "id": "21.05.03",
+      "name": "Siantan Timur"
+    },
+    {
+      "id": "21.05.04",
+      "name": "Siantan Selatan"
+    },
+    {
+      "id": "21.05.05",
+      "name": "Jemaja Timur"
+    },
+    {
+      "id": "21.05.06",
+      "name": "Jemaja"
+    },
+    {
+      "id": "21.05.07",
+      "name": "Siantan Tengah"
+    },
+    {
+      "id": "21.05.08",
+      "name": "Siantan Utara"
+    },
+    {
+      "id": "21.05.09",
+      "name": "Jemaja Barat"
+    },
+    {
+      "id": "21.05.10",
+      "name": "Kute Siantan"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

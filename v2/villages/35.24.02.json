@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "35.24.02.2001",
+      "name": "Talunrejo",
+      "postal_code": "62274"
+    },
+    {
+      "id": "35.24.02.2002",
+      "name": "Banjargondang",
+      "postal_code": "62274"
+    },
+    {
+      "id": "35.24.02.2003",
+      "name": "Bluluk",
+      "postal_code": "62274"
+    },
+    {
+      "id": "35.24.02.2004",
+      "name": "Cangkring",
+      "postal_code": "62274"
+    },
+    {
+      "id": "35.24.02.2005",
+      "name": "Bronjong",
+      "postal_code": "62274"
+    },
+    {
+      "id": "35.24.02.2006",
+      "name": "Songowareng",
+      "postal_code": "62274"
+    },
+    {
+      "id": "35.24.02.2007",
+      "name": "Kuwurejo",
+      "postal_code": "62274"
+    },
+    {
+      "id": "35.24.02.2008",
+      "name": "Sumberbanjar",
+      "postal_code": "62274"
+    },
+    {
+      "id": "35.24.02.2009",
+      "name": "Primpen",
+      "postal_code": "62274"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

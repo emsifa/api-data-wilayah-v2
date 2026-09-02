@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "82.05.12.2001",
+      "name": "Kaporo",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.12.2002",
+      "name": "Waikafia",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.12.2003",
+      "name": "Buya",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.12.2004",
+      "name": "Auponhia",
+      "postal_code": "97793"
+    },
+    {
+      "id": "82.05.12.2005",
+      "name": "Wailab",
+      "postal_code": "97793"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

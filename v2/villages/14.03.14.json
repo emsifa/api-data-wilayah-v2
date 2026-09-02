@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "14.03.14.2001",
+      "name": "Parit I Api-Api",
+      "postal_code": "28762"
+    },
+    {
+      "id": "14.03.14.2002",
+      "name": "Temiang",
+      "postal_code": "28762"
+    },
+    {
+      "id": "14.03.14.2003",
+      "name": "Api-Api",
+      "postal_code": "28762"
+    },
+    {
+      "id": "14.03.14.2004",
+      "name": "Tenggayun",
+      "postal_code": "28762"
+    },
+    {
+      "id": "14.03.14.2005",
+      "name": "Sepahat",
+      "postal_code": "28762"
+    },
+    {
+      "id": "14.03.14.2006",
+      "name": "Bukit Kerikil",
+      "postal_code": "28762"
+    },
+    {
+      "id": "14.03.14.2007",
+      "name": "Tanjung Leban",
+      "postal_code": "28762"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:43Z",
+    "level": 4
+  }
+}

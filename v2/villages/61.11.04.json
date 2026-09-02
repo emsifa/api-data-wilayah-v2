@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "61.11.04.2001",
+      "name": "Tanjungsatai",
+      "postal_code": "78858"
+    },
+    {
+      "id": "61.11.04.2002",
+      "name": "Kemboja",
+      "postal_code": "78858"
+    },
+    {
+      "id": "61.11.04.2003",
+      "name": "Dusun Kecil",
+      "postal_code": "78858"
+    },
+    {
+      "id": "61.11.04.2004",
+      "name": "Dusun Besar",
+      "postal_code": "78858"
+    },
+    {
+      "id": "61.11.04.2006",
+      "name": "Satai Lestari",
+      "postal_code": "78858"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

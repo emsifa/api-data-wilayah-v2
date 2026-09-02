@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "72.03.24.2001",
+      "name": "Tibo",
+      "postal_code": "94344"
+    },
+    {
+      "id": "72.03.24.2002",
+      "name": "Kaliburu",
+      "postal_code": "94344"
+    },
+    {
+      "id": "72.03.24.2003",
+      "name": "Batusuya",
+      "postal_code": "94344"
+    },
+    {
+      "id": "72.03.24.2004",
+      "name": "Saloya",
+      "postal_code": "94344"
+    },
+    {
+      "id": "72.03.24.2005",
+      "name": "Batusuya Go'o",
+      "postal_code": "94344"
+    },
+    {
+      "id": "72.03.24.2006",
+      "name": "Kaliburu Kata",
+      "postal_code": "94344"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

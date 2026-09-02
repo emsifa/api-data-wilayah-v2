@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "95.02.18.2001",
+      "name": "Awinbon",
+      "postal_code": "99431"
+    },
+    {
+      "id": "95.02.18.2002",
+      "name": "Nanum Anaip",
+      "postal_code": "99431"
+    },
+    {
+      "id": "95.02.18.2003",
+      "name": "Mikir",
+      "postal_code": "99431"
+    },
+    {
+      "id": "95.02.18.2004",
+      "name": "Kawe",
+      "postal_code": "99431"
+    },
+    {
+      "id": "95.02.18.2005",
+      "name": "Yelobib",
+      "postal_code": "99431"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

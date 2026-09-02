@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "72.07.04.1015",
+      "name": "Salakan",
+      "postal_code": "94885"
+    },
+    {
+      "id": "72.07.04.2009",
+      "name": "Manggalai",
+      "postal_code": "94885"
+    },
+    {
+      "id": "72.07.04.2010",
+      "name": "Ambelang",
+      "postal_code": "94885"
+    },
+    {
+      "id": "72.07.04.2011",
+      "name": "Saiyong",
+      "postal_code": "94885"
+    },
+    {
+      "id": "72.07.04.2012",
+      "name": "Tompudau",
+      "postal_code": "94885"
+    },
+    {
+      "id": "72.07.04.2013",
+      "name": "Bongganan",
+      "postal_code": "94885"
+    },
+    {
+      "id": "72.07.04.2014",
+      "name": "Baka",
+      "postal_code": "94885"
+    },
+    {
+      "id": "72.07.04.2016",
+      "name": "Bulungkobit",
+      "postal_code": "94885"
+    },
+    {
+      "id": "72.07.04.2017",
+      "name": "Bakalan",
+      "postal_code": "94885"
+    },
+    {
+      "id": "72.07.04.2018",
+      "name": "Kautu",
+      "postal_code": "94885"
+    },
+    {
+      "id": "72.07.04.2022",
+      "name": "Bungin",
+      "postal_code": "94885"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

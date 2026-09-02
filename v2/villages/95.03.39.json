@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "95.03.39.2001",
+      "name": "Langda",
+      "postal_code": "99738"
+    },
+    {
+      "id": "95.03.39.2002",
+      "name": "Alirji",
+      "postal_code": "99738"
+    },
+    {
+      "id": "95.03.39.2003",
+      "name": "Laryi",
+      "postal_code": "99738"
+    },
+    {
+      "id": "95.03.39.2004",
+      "name": "Wasumurji",
+      "postal_code": "99738"
+    },
+    {
+      "id": "95.03.39.2005",
+      "name": "Kirabuk",
+      "postal_code": "99738"
+    },
+    {
+      "id": "95.03.39.2006",
+      "name": "Kap-kap",
+      "postal_code": "99738"
+    },
+    {
+      "id": "95.03.39.2007",
+      "name": "Yalar",
+      "postal_code": "99738"
+    },
+    {
+      "id": "95.03.39.2008",
+      "name": "Bebekle",
+      "postal_code": "99738"
+    },
+    {
+      "id": "95.03.39.2009",
+      "name": "Lukun",
+      "postal_code": "99738"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

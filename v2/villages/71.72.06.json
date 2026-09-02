@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "71.72.06.1001",
+      "name": "Girian Atas",
+      "postal_code": "95544"
+    },
+    {
+      "id": "71.72.06.1002",
+      "name": "Girian Weru Satu",
+      "postal_code": "95543"
+    },
+    {
+      "id": "71.72.06.1003",
+      "name": "Girian Bawah",
+      "postal_code": "95542"
+    },
+    {
+      "id": "71.72.06.1004",
+      "name": "Girian Permai",
+      "postal_code": "95511"
+    },
+    {
+      "id": "71.72.06.1005",
+      "name": "Girian Weru Dua",
+      "postal_code": "95543"
+    },
+    {
+      "id": "71.72.06.1006",
+      "name": "Girian Indah",
+      "postal_code": "95511"
+    },
+    {
+      "id": "71.72.06.1007",
+      "name": "Wangurer",
+      "postal_code": "95543"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

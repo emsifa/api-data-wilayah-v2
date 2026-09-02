@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "33.15.14.2001",
+      "name": "Menduran",
+      "postal_code": "58153"
+    },
+    {
+      "id": "33.15.14.2002",
+      "name": "Jangkungharjo",
+      "postal_code": "58153"
+    },
+    {
+      "id": "33.15.14.2003",
+      "name": "Temon",
+      "postal_code": "58153"
+    },
+    {
+      "id": "33.15.14.2004",
+      "name": "Lemahputih",
+      "postal_code": "58153"
+    },
+    {
+      "id": "33.15.14.2005",
+      "name": "Tirem",
+      "postal_code": "58153"
+    },
+    {
+      "id": "33.15.14.2006",
+      "name": "Karangsari",
+      "postal_code": "58153"
+    },
+    {
+      "id": "33.15.14.2007",
+      "name": "Kronggen",
+      "postal_code": "58153"
+    },
+    {
+      "id": "33.15.14.2008",
+      "name": "Katekan",
+      "postal_code": "58153"
+    },
+    {
+      "id": "33.15.14.2009",
+      "name": "Tegalsumur",
+      "postal_code": "58153"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

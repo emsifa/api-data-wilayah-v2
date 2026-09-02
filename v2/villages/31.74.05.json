@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "31.74.05.1001",
+      "name": "Kebayoran Lama Utara",
+      "postal_code": "12240"
+    },
+    {
+      "id": "31.74.05.1002",
+      "name": "Pondok Pinang",
+      "postal_code": "12310"
+    },
+    {
+      "id": "31.74.05.1003",
+      "name": "Cipulir",
+      "postal_code": "12230"
+    },
+    {
+      "id": "31.74.05.1004",
+      "name": "Grogol Utara",
+      "postal_code": "12210"
+    },
+    {
+      "id": "31.74.05.1005",
+      "name": "Grogol Selatan",
+      "postal_code": "12220"
+    },
+    {
+      "id": "31.74.05.1006",
+      "name": "Kebayoran Lama Selatan",
+      "postal_code": "12240"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

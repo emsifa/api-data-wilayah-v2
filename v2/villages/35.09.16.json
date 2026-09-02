@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "35.09.16.2001",
+      "name": "Kemuningsarikidul",
+      "postal_code": "68171"
+    },
+    {
+      "id": "35.09.16.2002",
+      "name": "Wonojati",
+      "postal_code": "68171"
+    },
+    {
+      "id": "35.09.16.2003",
+      "name": "Jenggawah",
+      "postal_code": "68171"
+    },
+    {
+      "id": "35.09.16.2004",
+      "name": "Kertonegoro",
+      "postal_code": "68171"
+    },
+    {
+      "id": "35.09.16.2005",
+      "name": "Sruni",
+      "postal_code": "68171"
+    },
+    {
+      "id": "35.09.16.2006",
+      "name": "Jatisari",
+      "postal_code": "68171"
+    },
+    {
+      "id": "35.09.16.2007",
+      "name": "Jatimulyo",
+      "postal_code": "68171"
+    },
+    {
+      "id": "35.09.16.2008",
+      "name": "Cangkring",
+      "postal_code": "68171"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

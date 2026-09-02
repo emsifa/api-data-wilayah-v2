@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "63.05.12.2001",
+      "name": "Tarungin",
+      "postal_code": "71184"
+    },
+    {
+      "id": "63.05.12.2002",
+      "name": "Matang Batas",
+      "postal_code": "71184"
+    },
+    {
+      "id": "63.05.12.2003",
+      "name": "Hatungun",
+      "postal_code": "71184"
+    },
+    {
+      "id": "63.05.12.2004",
+      "name": "Burakai",
+      "postal_code": "71184"
+    },
+    {
+      "id": "63.05.12.2005",
+      "name": "Batu Hapu",
+      "postal_code": "71184"
+    },
+    {
+      "id": "63.05.12.2006",
+      "name": "Kambang Kuning",
+      "postal_code": "71184"
+    },
+    {
+      "id": "63.05.12.2007",
+      "name": "Asam Randah",
+      "postal_code": "71184"
+    },
+    {
+      "id": "63.05.12.2008",
+      "name": "Bagak",
+      "postal_code": "71184"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

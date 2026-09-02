@@ -1,18 +1,40 @@
 {
-  "data": {
-    "id": "72.71",
-    "name": "Kota Palu",
-    "province": {
-      "id": "72",
-      "name": "Sulawesi Tengah"
+  "data": [
+    {
+      "id": "72.71.01",
+      "name": "Palu Timur"
     },
-    "regency": {
-      "id": "72.71",
-      "name": "Kota Palu"
+    {
+      "id": "72.71.02",
+      "name": "Palu Barat"
+    },
+    {
+      "id": "72.71.03",
+      "name": "Palu Selatan"
+    },
+    {
+      "id": "72.71.04",
+      "name": "Palu Utara"
+    },
+    {
+      "id": "72.71.05",
+      "name": "Ulujadi"
+    },
+    {
+      "id": "72.71.06",
+      "name": "Tatanga"
+    },
+    {
+      "id": "72.71.07",
+      "name": "Tawaeli"
+    },
+    {
+      "id": "72.71.08",
+      "name": "Mantikulore"
     }
-  },
+  ],
   "meta": {
-    "generated_at": "2026-09-02T02:55:04Z",
+    "generated_at": "2026-09-02T03:39:43Z",
     "level": 3
   }
 }

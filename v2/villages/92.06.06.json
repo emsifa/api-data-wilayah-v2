@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "92.06.06.2001",
+      "name": "Moyeba",
+      "postal_code": "98165"
+    },
+    {
+      "id": "92.06.06.2004",
+      "name": "Merestim",
+      "postal_code": "98165"
+    },
+    {
+      "id": "92.06.06.2005",
+      "name": "Inofina",
+      "postal_code": "98165"
+    },
+    {
+      "id": "92.06.06.2006",
+      "name": "Mosum",
+      "postal_code": "98165"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

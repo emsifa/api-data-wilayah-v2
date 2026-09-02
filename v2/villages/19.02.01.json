@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "19.02.01.1001",
+      "name": "Kota",
+      "postal_code": "33411"
+    },
+    {
+      "id": "19.02.01.1002",
+      "name": "Parit",
+      "postal_code": "33411"
+    },
+    {
+      "id": "19.02.01.1005",
+      "name": "Lesung Batang",
+      "postal_code": "33411"
+    },
+    {
+      "id": "19.02.01.1006",
+      "name": "Pangkallalang",
+      "postal_code": "33412"
+    },
+    {
+      "id": "19.02.01.1009",
+      "name": "Tanjungpendam",
+      "postal_code": "33411"
+    },
+    {
+      "id": "19.02.01.1011",
+      "name": "Paal Satu",
+      "postal_code": "33414"
+    },
+    {
+      "id": "19.02.01.1016",
+      "name": "Kampong Damai",
+      "postal_code": "33411"
+    },
+    {
+      "id": "19.02.01.2003",
+      "name": "Buluh Tumbang",
+      "postal_code": "33411"
+    },
+    {
+      "id": "19.02.01.2004",
+      "name": "Perawas",
+      "postal_code": "33413"
+    },
+    {
+      "id": "19.02.01.2007",
+      "name": "Dukong",
+      "postal_code": "33411"
+    },
+    {
+      "id": "19.02.01.2008",
+      "name": "Juru Seberang",
+      "postal_code": "33417"
+    },
+    {
+      "id": "19.02.01.2010",
+      "name": "Air Saga",
+      "postal_code": "33415"
+    },
+    {
+      "id": "19.02.01.2012",
+      "name": "Air Merbau",
+      "postal_code": "33411"
+    },
+    {
+      "id": "19.02.01.2013",
+      "name": "Aik Pelempang Jaya",
+      "postal_code": "33414"
+    },
+    {
+      "id": "19.02.01.2014",
+      "name": "Aik Ketekok",
+      "postal_code": "33411"
+    },
+    {
+      "id": "19.02.01.2015",
+      "name": "Aik Rayak",
+      "postal_code": "33413"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

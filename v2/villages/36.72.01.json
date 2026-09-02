@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "36.72.01.1001",
+      "name": "Cibeber",
+      "postal_code": "42423"
+    },
+    {
+      "id": "36.72.01.1002",
+      "name": "Kedaleman",
+      "postal_code": "42422"
+    },
+    {
+      "id": "36.72.01.1003",
+      "name": "Bulakan",
+      "postal_code": "42426"
+    },
+    {
+      "id": "36.72.01.1004",
+      "name": "Cikerai",
+      "postal_code": "42427"
+    },
+    {
+      "id": "36.72.01.1005",
+      "name": "Karang Asem",
+      "postal_code": "42425"
+    },
+    {
+      "id": "36.72.01.1006",
+      "name": "Kalitimbang",
+      "postal_code": "42424"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

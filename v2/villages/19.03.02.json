@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "19.03.02.2001",
+      "name": "Tanjung Labu",
+      "postal_code": "33792"
+    },
+    {
+      "id": "19.03.02.2002",
+      "name": "Tanjung Sangkar",
+      "postal_code": "33792"
+    },
+    {
+      "id": "19.03.02.2004",
+      "name": "Kumbung",
+      "postal_code": "33792"
+    },
+    {
+      "id": "19.03.02.2005",
+      "name": "Penutuk",
+      "postal_code": "33792"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

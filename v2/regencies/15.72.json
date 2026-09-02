@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "15.72",
+    "name": "Kota Sungai Penuh",
+    "capital": "Sungaipenuh",
+    "lat": -2.070909819809651,
+    "lng": 101.39607811491697,
+    "elv": 856,
+    "tz": 7,
+    "population": 102224,
+    "total_area": 364.924,
+    "province": {
+      "id": "15",
+      "name": "Jambi"
+    }
+  },
+  "meta": {
+    "generated_at": "2026-09-02T03:39:51Z",
+    "level": 2
+  }
+}

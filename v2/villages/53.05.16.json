@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "53.05.16.2001",
+      "name": "Tude",
+      "postal_code": "85883"
+    },
+    {
+      "id": "53.05.16.2002",
+      "name": "Mauta",
+      "postal_code": "85883"
+    },
+    {
+      "id": "53.05.16.2003",
+      "name": "Muriabang",
+      "postal_code": "85883"
+    },
+    {
+      "id": "53.05.16.2004",
+      "name": "Tubbe",
+      "postal_code": "85883"
+    },
+    {
+      "id": "53.05.16.2005",
+      "name": "Tamakh",
+      "postal_code": "85883"
+    },
+    {
+      "id": "53.05.16.2006",
+      "name": "Bagang",
+      "postal_code": "85883"
+    },
+    {
+      "id": "53.05.16.2007",
+      "name": "Toang",
+      "postal_code": "85883"
+    },
+    {
+      "id": "53.05.16.2008",
+      "name": "Eka Jaya",
+      "postal_code": "85883"
+    },
+    {
+      "id": "53.05.16.2009",
+      "name": "Aramaba",
+      "postal_code": "85883"
+    },
+    {
+      "id": "53.05.16.2010",
+      "name": "Delaki",
+      "postal_code": "85883"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

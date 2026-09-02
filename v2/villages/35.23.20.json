@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "35.23.20.2001",
+      "name": "Ngarum",
+      "postal_code": "62371"
+    },
+    {
+      "id": "35.23.20.2002",
+      "name": "Ngrejeng",
+      "postal_code": "62371"
+    },
+    {
+      "id": "35.23.20.2003",
+      "name": "Grabagan",
+      "postal_code": "62371"
+    },
+    {
+      "id": "35.23.20.2004",
+      "name": "Waleran",
+      "postal_code": "62371"
+    },
+    {
+      "id": "35.23.20.2005",
+      "name": "Banyubang",
+      "postal_code": "62371"
+    },
+    {
+      "id": "35.23.20.2006",
+      "name": "Gesikan",
+      "postal_code": "62371"
+    },
+    {
+      "id": "35.23.20.2007",
+      "name": "Ngandong",
+      "postal_code": "62371"
+    },
+    {
+      "id": "35.23.20.2008",
+      "name": "Dahor",
+      "postal_code": "62371"
+    },
+    {
+      "id": "35.23.20.2009",
+      "name": "Dermawuharjo",
+      "postal_code": "62371"
+    },
+    {
+      "id": "35.23.20.2010",
+      "name": "Menyunyur",
+      "postal_code": "62371"
+    },
+    {
+      "id": "35.23.20.2011",
+      "name": "Pakis",
+      "postal_code": "62371"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "18.71.08.1005",
+      "name": "Bakung",
+      "postal_code": "35238"
+    },
+    {
+      "id": "18.71.08.1006",
+      "name": "Kuripan",
+      "postal_code": "35232"
+    },
+    {
+      "id": "18.71.08.1007",
+      "name": "Negeri Olok Gading",
+      "postal_code": "35233"
+    },
+    {
+      "id": "18.71.08.1008",
+      "name": "Sukarame II",
+      "postal_code": "35234"
+    },
+    {
+      "id": "18.71.08.1009",
+      "name": "Batu Putuk",
+      "postal_code": "35239"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

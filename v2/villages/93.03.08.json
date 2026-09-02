@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "93.03.08.2001",
+      "name": "Sepoh",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.08.2002",
+      "name": "Bagaram",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.08.2003",
+      "name": "Passue/Taim",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.08.2004",
+      "name": "Nohon",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.08.2005",
+      "name": "Kotiak",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.08.2006",
+      "name": "Menya",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.08.2007",
+      "name": "Tokhompatu",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.08.2008",
+      "name": "Kotup",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.08.2009",
+      "name": "Rimba Jaya/Gayu",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.08.2010",
+      "name": "Kaime",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.08.2011",
+      "name": "Baitate",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.08.2012",
+      "name": "Urufu",
+      "postal_code": "99871"
+    },
+    {
+      "id": "93.03.08.2013",
+      "name": "Afogoma",
+      "postal_code": "99871"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

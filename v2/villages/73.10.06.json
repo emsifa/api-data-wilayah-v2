@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "73.10.06.1001",
+      "name": "Bori Appaka",
+      "postal_code": "90651"
+    },
+    {
+      "id": "73.10.06.1002",
+      "name": "Samalewa",
+      "postal_code": "90651"
+    },
+    {
+      "id": "73.10.06.1003",
+      "name": "Sapanang",
+      "postal_code": "90651"
+    },
+    {
+      "id": "73.10.06.2004",
+      "name": "Bowong Cindea",
+      "postal_code": "90651"
+    },
+    {
+      "id": "73.10.06.2005",
+      "name": "Tabo-Tabo",
+      "postal_code": "90651"
+    },
+    {
+      "id": "73.10.06.2006",
+      "name": "Mangilu",
+      "postal_code": "90651"
+    },
+    {
+      "id": "73.10.06.2007",
+      "name": "Bulu Cindea",
+      "postal_code": "90651"
+    },
+    {
+      "id": "73.10.06.2008",
+      "name": "Biring Ere",
+      "postal_code": "90651"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

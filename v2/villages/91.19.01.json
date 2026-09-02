@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "91.19.01.2003",
+      "name": "Fanindi",
+      "postal_code": "98572"
+    },
+    {
+      "id": "91.19.01.2004",
+      "name": "Odori",
+      "postal_code": "98572"
+    },
+    {
+      "id": "91.19.01.2010",
+      "name": "Biniki",
+      "postal_code": "98572"
+    },
+    {
+      "id": "91.19.01.2011",
+      "name": "Didiabolo",
+      "postal_code": "98572"
+    },
+    {
+      "id": "91.19.01.2015",
+      "name": "Warbefondi",
+      "postal_code": "98572"
+    },
+    {
+      "id": "91.19.01.2016",
+      "name": "Awaki",
+      "postal_code": "98572"
+    },
+    {
+      "id": "91.19.01.2019",
+      "name": "Maryaidori",
+      "postal_code": "98572"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

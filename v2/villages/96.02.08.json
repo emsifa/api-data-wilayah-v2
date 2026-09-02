@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "96.02.08.2001",
+      "name": "Kais",
+      "postal_code": "98462"
+    },
+    {
+      "id": "96.02.08.2002",
+      "name": "Tapuri",
+      "postal_code": "98462"
+    },
+    {
+      "id": "96.02.08.2003",
+      "name": "Yahadian",
+      "postal_code": "98462"
+    },
+    {
+      "id": "96.02.08.2004",
+      "name": "Benawa I",
+      "postal_code": "98462"
+    },
+    {
+      "id": "96.02.08.2005",
+      "name": "Sumano",
+      "postal_code": "98462"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "74.01.14.1001",
+      "name": "Mangolo",
+      "postal_code": "93512"
+    },
+    {
+      "id": "74.01.14.1002",
+      "name": "Kolakaasi",
+      "postal_code": "93512"
+    },
+    {
+      "id": "74.01.14.1003",
+      "name": "Sea",
+      "postal_code": "93514"
+    },
+    {
+      "id": "74.01.14.1004",
+      "name": "Latambaga",
+      "postal_code": "93514"
+    },
+    {
+      "id": "74.01.14.1005",
+      "name": "Sakuli",
+      "postal_code": "93514"
+    },
+    {
+      "id": "74.01.14.1006",
+      "name": "Induha",
+      "postal_code": "93512"
+    },
+    {
+      "id": "74.01.14.1007",
+      "name": "Ulunggolaka",
+      "postal_code": "93512"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "73.26.18.1002",
+      "name": "Bokin",
+      "postal_code": "91842"
+    },
+    {
+      "id": "73.26.18.1005",
+      "name": "Buangin",
+      "postal_code": "91842"
+    },
+    {
+      "id": "73.26.18.2001",
+      "name": "Rantebua",
+      "postal_code": "91842"
+    },
+    {
+      "id": "73.26.18.2003",
+      "name": "Pitung Penanian",
+      "postal_code": "91842"
+    },
+    {
+      "id": "73.26.18.2004",
+      "name": "Ma'kuan Pare",
+      "postal_code": "91842"
+    },
+    {
+      "id": "73.26.18.2006",
+      "name": "Rantebua Sumalu",
+      "postal_code": "91842"
+    },
+    {
+      "id": "73.26.18.2007",
+      "name": "Rantebua Sanggalangi'",
+      "postal_code": "91842"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-02T03:39:44Z",
+    "level": 4
+  }
+}
