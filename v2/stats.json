@@ -1,6 +1,6 @@
 {
   "data": {
-    "total_area": 1889518.2540000004,
+    "total_area": 1889518.2540000002,
     "total_districts": 7285,
     "total_paths": 551,
     "total_population": 284973643,
@@ -10,7 +10,7 @@
     "total_villages": 83762
   },
   "meta": {
-    "generated_at": "2026-09-02T09:19:39Z",
+    "generated_at": "2026-09-02T11:07:57Z",
     "level": 0
   }
 }
