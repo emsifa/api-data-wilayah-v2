@@ -1,1 +1,1 @@
-{"data":{"id":"81.07","name":"Kabupaten Kepulauan Aru","capital":"Dobo","lat":-5.775177775557766,"lng":134.21458787827214,"elv":17,"tz":9,"population":112531,"total_area":8090.792,"province":{"id":"81","name":"Maluku"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Dobo","elv":17,"has_path":true,"id":"81.07","lat":-5.775177775557766,"lng":134.21458787827214,"name":"Kabupaten Kepulauan Aru","population":112531,"province":{"has_path":false,"id":"81","name":"Maluku"},"total_area":8090.792,"tz":9},"meta":{"level":2,"updated_at":"2026-09-03"}}

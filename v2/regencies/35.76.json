@@ -1,1 +1,1 @@
-{"data":{"id":"35.76","name":"Kota Mojokerto","capital":"Mojokerto","lat":-7.4628151554153925,"lng":112.43344588575034,"elv":25,"tz":7,"population":142272,"total_area":20.48,"province":{"id":"35","name":"Jawa Timur"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Mojokerto","elv":25,"has_path":true,"id":"35.76","lat":-7.4628151554153925,"lng":112.43344588575034,"name":"Kota Mojokerto","population":142272,"province":{"has_path":false,"id":"35","name":"Jawa Timur"},"total_area":20.48,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

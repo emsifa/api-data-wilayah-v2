@@ -1,1 +1,1 @@
-{"data":{"id":"75.01","name":"Kabupaten Gorontalo","capital":"Limboto","lat":0.6290030224702096,"lng":122.98093758487616,"elv":18,"tz":8,"population":423981,"total_area":2160.183,"province":{"id":"75","name":"Gorontalo"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Limboto","elv":18,"has_path":true,"id":"75.01","lat":0.6290030224702096,"lng":122.98093758487616,"name":"Kabupaten Gorontalo","population":423981,"province":{"has_path":false,"id":"75","name":"Gorontalo"},"total_area":2160.183,"tz":8},"meta":{"level":2,"updated_at":"2026-09-03"}}

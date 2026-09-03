@@ -1,1 +1,1 @@
-{"data":{"id":"91.03","name":"Kabupaten Jayapura","capital":"Sentani","lat":-2.5498717752817006,"lng":140.47710271224273,"elv":140,"tz":9,"population":203772,"total_area":14081.935,"province":{"id":"91","name":"Papua"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Sentani","elv":140,"has_path":true,"id":"91.03","lat":-2.5498717752817006,"lng":140.47710271224273,"name":"Kabupaten Jayapura","population":203772,"province":{"has_path":false,"id":"91","name":"Papua"},"total_area":14081.935,"tz":9},"meta":{"level":2,"updated_at":"2026-09-03"}}

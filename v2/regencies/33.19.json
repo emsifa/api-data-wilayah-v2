@@ -1,1 +1,1 @@
-{"data":{"id":"33.19","name":"Kabupaten Kudus","capital":"Kudus","lat":-6.805651710957646,"lng":110.84219531187978,"elv":28,"tz":7,"population":877821,"total_area":447.445,"province":{"id":"33","name":"Jawa Tengah"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Kudus","elv":28,"has_path":true,"id":"33.19","lat":-6.805651710957646,"lng":110.84219531187978,"name":"Kabupaten Kudus","population":877821,"province":{"has_path":false,"id":"33","name":"Jawa Tengah"},"total_area":447.445,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

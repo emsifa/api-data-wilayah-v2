@@ -1,1 +1,1 @@
-{"data":{"id":"16.72","name":"Kota Pagar Alam","capital":"Pagar Alam","lat":-4.039321642834122,"lng":103.19702046655082,"elv":996,"tz":7,"population":153271,"total_area":625.913,"province":{"id":"16","name":"Sumatera Selatan"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Pagar Alam","elv":996,"has_path":true,"id":"16.72","lat":-4.039321642834122,"lng":103.19702046655082,"name":"Kota Pagar Alam","population":153271,"province":{"has_path":false,"id":"16","name":"Sumatera Selatan"},"total_area":625.913,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

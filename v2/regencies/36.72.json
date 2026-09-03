@@ -1,1 +1,1 @@
-{"data":{"id":"36.72","name":"Kota Cilegon","capital":"Cilegon","lat":-6.00980901882699,"lng":106.04212868303857,"elv":16,"tz":7,"population":480378,"total_area":162.578,"province":{"id":"36","name":"Banten"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Cilegon","elv":16,"has_path":true,"id":"36.72","lat":-6.00980901882699,"lng":106.04212868303857,"name":"Kota Cilegon","population":480378,"province":{"has_path":false,"id":"36","name":"Banten"},"total_area":162.578,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

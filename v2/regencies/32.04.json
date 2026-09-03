@@ -1,1 +1,1 @@
-{"data":{"id":"32.04","name":"Kabupaten Bandung","capital":"Soreang","lat":-7.021854779311784,"lng":107.52755122537383,"elv":722,"tz":7,"population":3839721,"total_area":1740.843,"province":{"id":"32","name":"Jawa Barat"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Soreang","elv":722,"has_path":true,"id":"32.04","lat":-7.021854779311784,"lng":107.52755122537383,"name":"Kabupaten Bandung","population":3839721,"province":{"has_path":false,"id":"32","name":"Jawa Barat"},"total_area":1740.843,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

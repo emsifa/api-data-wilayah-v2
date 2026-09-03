@@ -1,1 +1,1 @@
-{"data":{"id":"51.04","name":"Kabupaten Gianyar","capital":"Gianyar","lat":-8.540851437717537,"lng":115.32410958305795,"elv":133,"tz":8,"population":504845,"total_area":363.782,"province":{"id":"51","name":"Bali"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Gianyar","elv":133,"has_path":true,"id":"51.04","lat":-8.540851437717537,"lng":115.32410958305795,"name":"Kabupaten Gianyar","population":504845,"province":{"has_path":false,"id":"51","name":"Bali"},"total_area":363.782,"tz":8},"meta":{"level":2,"updated_at":"2026-09-03"}}

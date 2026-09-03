@@ -1,1 +1,1 @@
-{"data":{"id":"17.04","name":"Kabupaten Kaur","capital":"Bintuhan","lat":-4.7591102206280205,"lng":103.34909985473034,"elv":54,"tz":7,"population":136533,"total_area":2607.839,"province":{"id":"17","name":"Bengkulu"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Bintuhan","elv":54,"has_path":true,"id":"17.04","lat":-4.7591102206280205,"lng":103.34909985473034,"name":"Kabupaten Kaur","population":136533,"province":{"has_path":false,"id":"17","name":"Bengkulu"},"total_area":2607.839,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

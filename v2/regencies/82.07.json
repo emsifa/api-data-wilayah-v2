@@ -1,1 +1,1 @@
-{"data":{"id":"82.07","name":"Kabupaten Pulau Morotai","capital":"Daruba","lat":2.0132967093802083,"lng":128.2837176160731,"elv":16,"tz":9,"population":82913,"total_area":2337.256,"province":{"id":"82","name":"Maluku Utara"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Daruba","elv":16,"has_path":true,"id":"82.07","lat":2.0132967093802083,"lng":128.2837176160731,"name":"Kabupaten Pulau Morotai","population":82913,"province":{"has_path":false,"id":"82","name":"Maluku Utara"},"total_area":2337.256,"tz":9},"meta":{"level":2,"updated_at":"2026-09-03"}}

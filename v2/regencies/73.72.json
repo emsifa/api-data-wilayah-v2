@@ -1,1 +1,1 @@
-{"data":{"id":"73.72","name":"Kota Parepare","capital":"Parepare","lat":-4.027782140067662,"lng":119.63332752802752,"elv":79,"tz":8,"population":163314,"total_area":89.626,"province":{"id":"73","name":"Sulawesi Selatan"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Parepare","elv":79,"has_path":true,"id":"73.72","lat":-4.027782140067662,"lng":119.63332752802752,"name":"Kota Parepare","population":163314,"province":{"has_path":false,"id":"73","name":"Sulawesi Selatan"},"total_area":89.626,"tz":8},"meta":{"level":2,"updated_at":"2026-09-03"}}

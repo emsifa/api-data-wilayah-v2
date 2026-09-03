@@ -1,1 +1,1 @@
-{"data":{"id":"35.27","name":"Kabupaten Sampang","capital":"Sampang","lat":-7.1875353391978205,"lng":113.23734031169953,"elv":4,"tz":7,"population":1033926,"total_area":1229.165,"province":{"id":"35","name":"Jawa Timur"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Sampang","elv":4,"has_path":true,"id":"35.27","lat":-7.1875353391978205,"lng":113.23734031169953,"name":"Kabupaten Sampang","population":1033926,"province":{"has_path":false,"id":"35","name":"Jawa Timur"},"total_area":1229.165,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

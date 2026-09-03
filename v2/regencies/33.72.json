@@ -1,1 +1,1 @@
-{"data":{"id":"33.72","name":"Kota Surakarta","capital":"Surakarta","lat":-7.569260552279098,"lng":110.82945951003452,"elv":95,"tz":7,"population":589242,"total_area":46.802,"province":{"id":"33","name":"Jawa Tengah"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Surakarta","elv":95,"has_path":true,"id":"33.72","lat":-7.569260552279098,"lng":110.82945951003452,"name":"Kota Surakarta","population":589242,"province":{"has_path":false,"id":"33","name":"Jawa Tengah"},"total_area":46.802,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

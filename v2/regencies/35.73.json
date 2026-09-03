@@ -1,1 +1,1 @@
-{"data":{"id":"35.73","name":"Kota Malang","capital":"Malang","lat":-7.977788119311085,"lng":112.6338358100378,"elv":451,"tz":7,"population":889359,"total_area":111.077,"province":{"id":"35","name":"Jawa Timur"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Malang","elv":451,"has_path":true,"id":"35.73","lat":-7.977788119311085,"lng":112.6338358100378,"name":"Kota Malang","population":889359,"province":{"has_path":false,"id":"35","name":"Jawa Timur"},"total_area":111.077,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

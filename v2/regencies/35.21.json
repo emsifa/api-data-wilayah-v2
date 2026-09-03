@@ -1,1 +1,1 @@
-{"data":{"id":"35.21","name":"Kabupaten Ngawi","capital":"Ngawi","lat":-7.401286050830588,"lng":111.44544266770494,"elv":57,"tz":7,"population":907002,"total_area":1395.804,"province":{"id":"35","name":"Jawa Timur"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Ngawi","elv":57,"has_path":true,"id":"35.21","lat":-7.401286050830588,"lng":111.44544266770494,"name":"Kabupaten Ngawi","population":907002,"province":{"has_path":false,"id":"35","name":"Jawa Timur"},"total_area":1395.804,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

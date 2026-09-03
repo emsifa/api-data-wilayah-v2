@@ -1,1 +1,1 @@
-{"data":{"id":"14.02","name":"Kabupaten Indragiri Hulu","capital":"Rengat","lat":-0.39300278228698865,"lng":102.43757196516648,"elv":32,"tz":7,"population":487039,"total_area":7871.85,"province":{"id":"14","name":"Riau"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Rengat","elv":32,"has_path":true,"id":"14.02","lat":-0.39300278228698865,"lng":102.43757196516648,"name":"Kabupaten Indragiri Hulu","population":487039,"province":{"has_path":false,"id":"14","name":"Riau"},"total_area":7871.85,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

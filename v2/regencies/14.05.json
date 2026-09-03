@@ -1,1 +1,1 @@
-{"data":{"id":"14.05","name":"Kabupaten Pelalawan","capital":"Pangkalan Kerinci","lat":0.38378706324101214,"lng":101.8419575583448,"elv":19,"tz":7,"population":446439,"total_area":13256.104,"province":{"id":"14","name":"Riau"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Pangkalan Kerinci","elv":19,"has_path":true,"id":"14.05","lat":0.38378706324101214,"lng":101.8419575583448,"name":"Kabupaten Pelalawan","population":446439,"province":{"has_path":false,"id":"14","name":"Riau"},"total_area":13256.104,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

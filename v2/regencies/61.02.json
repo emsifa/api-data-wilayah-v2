@@ -1,1 +1,1 @@
-{"data":{"id":"61.02","name":"Kabupaten Mempawah","capital":"Mempawah","lat":0.3507375156189089,"lng":108.96247645418383,"elv":3,"tz":7,"population":314148,"total_area":1934.827,"province":{"id":"61","name":"Kalimantan Barat"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Mempawah","elv":3,"has_path":true,"id":"61.02","lat":0.3507375156189089,"lng":108.96247645418383,"name":"Kabupaten Mempawah","population":314148,"province":{"has_path":false,"id":"61","name":"Kalimantan Barat"},"total_area":1934.827,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

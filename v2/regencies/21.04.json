@@ -1,1 +1,1 @@
-{"data":{"id":"21.04","name":"Kabupaten Lingga","capital":"Daik","lat":-0.2099928734471007,"lng":104.60465899766058,"elv":12,"tz":7,"population":101039,"total_area":2173.63,"province":{"id":"21","name":"Kepulauan Riau"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Daik","elv":12,"has_path":true,"id":"21.04","lat":-0.2099928734471007,"lng":104.60465899766058,"name":"Kabupaten Lingga","population":101039,"province":{"has_path":false,"id":"21","name":"Kepulauan Riau"},"total_area":2173.63,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

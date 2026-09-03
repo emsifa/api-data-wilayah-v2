@@ -1,1 +1,1 @@
-{"data":{"id":"32.79","name":"Kota Banjar","capital":"Banjar","lat":-7.362161223560727,"lng":108.55958988304805,"elv":39,"tz":7,"population":209317,"total_area":131.005,"province":{"id":"32","name":"Jawa Barat"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Banjar","elv":39,"has_path":false,"id":"32.79","lat":-7.362161223560727,"lng":108.55958988304805,"name":"Kota Banjar","population":209317,"province":{"has_path":false,"id":"32","name":"Jawa Barat"},"total_area":131.005,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

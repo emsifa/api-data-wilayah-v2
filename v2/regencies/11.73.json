@@ -1,1 +1,1 @@
-{"data":{"id":"11.73","name":"Kota Lhokseumawe","capital":"Lhokseumawe","lat":5.179363622042538,"lng":97.14894011186956,"elv":3,"tz":7,"population":198705,"total_area":132.966,"province":{"id":"11","name":"Aceh"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Lhokseumawe","elv":3,"has_path":true,"id":"11.73","lat":5.179363622042538,"lng":97.14894011186956,"name":"Kota Lhokseumawe","population":198705,"province":{"has_path":false,"id":"11","name":"Aceh"},"total_area":132.966,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

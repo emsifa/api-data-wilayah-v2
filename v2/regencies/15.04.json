@@ -1,1 +1,1 @@
-{"data":{"id":"15.04","name":"Kabupaten Batanghari","capital":"Muara Bulian","lat":-1.6936093136328045,"lng":103.27299563039578,"elv":17,"tz":7,"population":307361,"total_area":5453.689,"province":{"id":"15","name":"Jambi"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Muara Bulian","elv":17,"has_path":true,"id":"15.04","lat":-1.6936093136328045,"lng":103.27299563039578,"name":"Kabupaten Batanghari","population":307361,"province":{"has_path":false,"id":"15","name":"Jambi"},"total_area":5453.689,"tz":7},"meta":{"level":2,"updated_at":"2026-09-03"}}

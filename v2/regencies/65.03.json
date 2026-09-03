@@ -1,1 +1,1 @@
-{"data":{"id":"65.03","name":"Kabupaten Nunukan","capital":"Nunukan","lat":4.077076241826642,"lng":117.71891117176128,"elv":19,"tz":8,"population":227460,"total_area":13549.868,"province":{"id":"65","name":"Kalimantan Utara"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Nunukan","elv":19,"has_path":true,"id":"65.03","lat":4.077076241826642,"lng":117.71891117176128,"name":"Kabupaten Nunukan","population":227460,"province":{"has_path":false,"id":"65","name":"Kalimantan Utara"},"total_area":13549.868,"tz":8},"meta":{"level":2,"updated_at":"2026-09-03"}}

@@ -1,1 +1,1 @@
-{"data":{"id":"94.08","name":"Kabupaten Deiyai","capital":"Tigi","lat":-4.032249309755539,"lng":136.29899153745475,"elv":1773,"tz":9,"population":92629,"total_area":2846.412,"province":{"id":"94","name":"Papua Tengah"}},"meta":{"updated_at":"2026-09-03","level":2}}
+{"data":{"capital":"Tigi","elv":1773,"has_path":true,"id":"94.08","lat":-4.032249309755539,"lng":136.29899153745475,"name":"Kabupaten Deiyai","population":92629,"province":{"has_path":false,"id":"94","name":"Papua Tengah"},"total_area":2846.412,"tz":9},"meta":{"level":2,"updated_at":"2026-09-03"}}
